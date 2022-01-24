@@ -1,0 +1,1 @@
+[out:json][timeout:600];area(3600049715)->.searchArea;(node["emergency"="defibrillator"](area.searchArea);way["emergency"="defibrillator"](area.searchArea);relation["emergency"="defibrillator"](area.searchArea););out meta;>;out skel qt;
