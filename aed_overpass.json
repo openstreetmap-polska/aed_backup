@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-24T15:31:11Z",
+        "timestamp_osm_base": "2022-01-24T16:31:52Z",
         "timestamp_areas_base": "2022-01-24T14:30:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -20765,6 +20765,46 @@
                 "emergency": "defibrillator",
                 "location": "indoor",
                 "phone": "87 523 83 94"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445051398,
+            "lat": 52.6873526,
+            "lon": 15.0654927,
+            "timestamp": "2022-01-24T15:50:00Z",
+            "version": 1,
+            "changeset": 116546499,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w środku na ścianie na przeciw głównego wejscia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:30-17:00; Tu,Th 07:30-15:30; Fr 07:30-14:00",
+                "operator": "Urząd Gminy Bogdaniec",
+                "phone": "+48 609093112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445091395,
+            "lat": 51.038196,
+            "lon": 18.6027265,
+            "timestamp": "2022-01-24T15:55:57Z",
+            "version": 1,
+            "changeset": 116546737,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po środku budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Rudniki",
+                "phone": "+48 343595195"
             }
         }
     ]
