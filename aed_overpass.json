@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-24T19:31:54Z",
+        "timestamp_osm_base": "2022-01-24T20:31:32Z",
         "timestamp_areas_base": "2022-01-24T18:33:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -16306,23 +16306,6 @@
         },
         {
             "type": "node",
-            "id": 9432712217,
-            "lat": 50.0535534,
-            "lon": 21.9463924,
-            "timestamp": "2022-01-20T19:18:30Z",
-            "version": 2,
-            "changeset": 116398928,
-            "user": "Ancymon",
-            "uid": 1593161,
-            "tags": {
-                "defibrillator:location": "Samochód GBA 328R99 OSP Rzeszów-Przybyszówka",
-                "emergency": "defibrillator",
-                "location": "indoor",
-                "phone": "998"
-            }
-        },
-        {
-            "type": "node",
             "id": 9432834717,
             "lat": 50.705314,
             "lon": 16.00117,
@@ -20771,14 +20754,14 @@
             "id": 9444814817,
             "lat": 54.1684678,
             "lon": 22.4468512,
-            "timestamp": "2022-01-24T13:54:22Z",
-            "version": 1,
-            "changeset": 116542594,
-            "user": "Gmina Kowale Oleckie",
-            "uid": 14920358,
+            "timestamp": "2022-01-24T20:06:16Z",
+            "version": 2,
+            "changeset": 116557068,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "OSP Lakiele na samochodzie ratowniczo gasniczym",
+                "defibrillator:location": "OSP Lakiele na samochodzie ratowniczo-gaśniczym",
                 "emergency": "defibrillator",
                 "location": "indoor",
                 "phone": "87 523 83 94"
@@ -22777,6 +22760,23 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Krempna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445648117,
+            "lat": 52.3137105,
+            "lon": 20.9531953,
+            "timestamp": "2022-01-24T19:58:48Z",
+            "version": 1,
+            "changeset": 116556811,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Białołęckim Ośrodku Kultury - na ścianie",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
