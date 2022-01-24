@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-24T05:31:49Z",
-        "timestamp_areas_base": "2022-01-24T05:25:32Z",
+        "timestamp_osm_base": "2022-01-24T06:31:24Z",
+        "timestamp_areas_base": "2022-01-24T06:25:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -20693,6 +20693,58 @@
                 "emergency:phone": "112",
                 "location": "indoor",
                 "phone": "796718536"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9443827417,
+            "lat": 54.1649086,
+            "lon": 22.4173388,
+            "timestamp": "2022-01-24T06:17:41Z",
+            "version": 1,
+            "changeset": 116525405,
+            "user": "Gmina Kowale Oleckie",
+            "uid": 14920358,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Gminnego Ośrodka Zdrowia",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "phone": "87-523 87 06"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9443835317,
+            "lat": 54.1691273,
+            "lon": 22.4156918,
+            "timestamp": "2022-01-24T06:22:06Z",
+            "version": 1,
+            "changeset": 116525557,
+            "user": "Gmina Kowale Oleckie",
+            "uid": 14920358,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "OSP Kowale Oleckie",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9443839919,
+            "lat": 54.1298166,
+            "lon": 22.3205315,
+            "timestamp": "2022-01-24T06:26:07Z",
+            "version": 1,
+            "changeset": 116525677,
+            "user": "Gmina Kowale Oleckie",
+            "uid": 14920358,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "OSP Sokółki",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
