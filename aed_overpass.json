@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-24T18:31:09Z",
-        "timestamp_areas_base": "2022-01-24T17:32:24Z",
+        "timestamp_osm_base": "2022-01-24T19:31:54Z",
+        "timestamp_areas_base": "2022-01-24T18:33:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2734,16 +2734,19 @@
         {
             "type": "node",
             "id": 7638220623,
-            "lat": 51.8878174,
-            "lon": 15.3908495,
-            "timestamp": "2020-06-20T15:44:09Z",
-            "version": 1,
-            "changeset": 86914236,
-            "user": "Susel023",
-            "uid": 3301990,
+            "lat": 51.887836,
+            "lon": 15.390843,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 2,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej budynku remizy strażackiej w Świdnicy",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "OSP Świdnica"
             }
         },
@@ -3610,15 +3613,21 @@
         {
             "type": "node",
             "id": 8734791024,
-            "lat": 51.9494291,
-            "lon": 15.0882479,
-            "timestamp": "2021-05-15T19:34:29Z",
-            "version": 1,
-            "changeset": 104746917,
-            "user": "km2bp",
-            "uid": 3610826,
+            "lat": 51.9494284,
+            "lon": 15.0882446,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 2,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie Wejścia na frontowej ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Bobrowice",
+                "phone": "+48 605414784"
             }
         },
         {
@@ -6695,17 +6704,19 @@
             "id": 9347499702,
             "lat": 52.6880131,
             "lon": 15.0678182,
-            "timestamp": "2021-12-17T22:04:01Z",
-            "version": 2,
-            "changeset": 115073635,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 3,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
-                "defibrillator:location": "Na ścianie remizy od strony ulicy Adama Mickiewicza",
+                "access": "yes",
+                "defibrillator:location": "na ścianie przy wejściu do budynku, między bramami wjazdowymi pojazdów ratowniczych",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "OSP Bogdaniec"
+                "operator": "OSP Bogdaniec",
+                "phone": "+48 609093112"
             }
         },
         {
@@ -9853,19 +9864,22 @@
             "type": "node",
             "id": 9399831917,
             "lat": 54.08712,
-            "lon": 20.9060219,
-            "timestamp": "2022-01-07T15:39:35Z",
-            "version": 2,
-            "changeset": 115881825,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lon": 20.9060282,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 3,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie MOPS-u w Bisztynku",
+                "defibrillator:location": "Na zewnątrz budynku od strony ul. Polnej, strona południowa, przy wejściu.",
                 "defibrillator:location:en": "On the wall of the MOPS in Bisztynek",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "location": "outdoor",
                 "opening_hours": "24/7",
+                "operator": "Miejski Ośrodek Pomocy Społecznej W Bisztynku",
+                "phone": "+48 507062436",
                 "source": "http://www.bisztynek.pl/asp/pl_start.asp?typ=13&menu=7&artykul=2312&akcja=artykul&fbclid=IwAR08sLhpdjMmR6jBn8Xoa1xgAuIt4L-Uz9vqhGoQG2qZPYEXiDT-vZ74VJA"
             }
         },
@@ -15602,19 +15616,22 @@
         {
             "type": "node",
             "id": 9429061779,
-            "lat": 50.6804659,
-            "lon": 20.1069721,
-            "timestamp": "2022-01-21T23:12:26Z",
-            "version": 2,
-            "changeset": 116450725,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lat": 50.6804677,
+            "lon": 20.10696,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 3,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "na ścianie w kapsule",
-                "defibrillator:location:en": "on the wall",
+                "defibrillator:location:en": "on the wall, enclosed in a capsule",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "OSP Nagłowice"
+                "opening_hours": "24/7",
+                "operator": "OSP Nagłowice",
+                "phone": "+48 690670702"
             }
         },
         {
@@ -20805,6 +20822,1961 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Rudniki",
                 "phone": "+48 343595195"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486251,
+            "lat": 54.2088552,
+            "lon": 21.7434,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przedsionku budynku Urzędu Miejskiego w Węgorzewie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:30-15:30",
+                "operator": "Burmistrz Węgorzewa",
+                "phone": "+48 874275400"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486252,
+            "lat": 50.697541,
+            "lon": 20.025635,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wewnątrz samochodu pożarniczego (w kabinie )",
+                "emergency": "defibrillator",
+                "operator": "OSP Kossów",
+                "phone": "+48 603539737"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486253,
+            "lat": 50.8593585,
+            "lon": 20.6193854,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Amfiteatrze Kadzielnia w gabinecie Kierownika Amfiteatru",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-16:00",
+                "operator": "Geonatura Kielce",
+                "phone": "+48 413614768"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486254,
+            "lat": 50.8524446,
+            "lon": 20.649652,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Centrum Geoedukacji w portierni w holu głównym, umieszczony na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-16:00; Sa-Su 11:00 - 16:00",
+                "operator": "Geonatura Kielce",
+                "phone": "+48 413676800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486255,
+            "lat": 54.1307518,
+            "lon": 20.947671,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku remizy OSP przy wejściu do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Paluzy",
+                "phone": "+48 667502397"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486256,
+            "lat": 50.4908852,
+            "lon": 17.9943686,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hala Sportowa Im. B. I Z. Blautów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486257,
+            "lat": 50.4922462,
+            "lon": 18.0164808,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gminny Ośrodek Zdrowia W Gogolinie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486258,
+            "lat": 54.0846294,
+            "lon": 20.9026975,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie przy wejściu do sklepu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Arm Mroczek Alina I Robert",
+                "phone": "+48 609460594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486259,
+            "lat": 52.052312,
+            "lon": 15.097396,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu budynku A Urzędu Miasta, na Biurze Obsługi Interesanta.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:30-16:30; Tu-Th 07:30-15:30; Fr 07:30-14:30",
+                "operator": "Urząd Miasta W Krośnie Odrzańskim",
+                "phone": "+48 684109700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486260,
+            "lat": 52.19108,
+            "lon": 20.88877,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy wejściu gównym, holl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-19:00",
+                "operator": "Dom Kultury \"Kolorowa\" Filia Ok \"Arsus\"",
+                "phone": "+48 228676395"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486261,
+            "lat": 52.1931603,
+            "lon": 20.8669068,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "główne wejście , holl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-19:00",
+                "operator": "Dom Kultury \"Miś\"",
+                "phone": "+48 226679218"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486262,
+            "lat": 52.1978388,
+            "lon": 20.887604,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy wejściu głownym w hollu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-19:00",
+                "operator": "Dom Kultury \"Portiernia\"",
+                "phone": "+48 223501780"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486263,
+            "lat": 52.19868,
+            "lon": 20.89015,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w hollu budynku przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "8:00 - 19:00",
+                "operator": "Ośrodek Kultury \"Arsus\" W Dzielnicy Ursus",
+                "phone": "+48 224783454"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486264,
+            "lat": 50.3017106,
+            "lon": 18.3433884,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy wejściu głównym do remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP W Starej Kuźni"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486265,
+            "lat": 50.3120898,
+            "lon": 18.222528,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "od strony wejścia głównego do budynku remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP W Starym Koźlu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486266,
+            "lat": 50.784456,
+            "lon": 22.220608,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "2 brama garaży samochodu ppoż.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Potok Wielki",
+                "phone": "+48 669359127"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486267,
+            "lat": 50.8419609,
+            "lon": 18.1333261,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się w specjalnej Kapsule po prawej stronie bramy wjazdowej do remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Laskowice",
+                "phone": "+48 606629244"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486268,
+            "lat": 51.0373868,
+            "lon": 22.8565929,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pomieszczeniu OSP",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Ksrg Rybczewice",
+                "phone": "+48 696458833"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486269,
+            "lat": 50.886333,
+            "lon": 21.66152,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pomieszczeniu Ratowników wodnych na basenie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "8:00-21:00",
+                "operator": "Kryta Pływalnia \"Neptun\"",
+                "phone": "+48 158611000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486270,
+            "lat": 50.4826509,
+            "lon": 20.9974252,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w budynku remizy OSP.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Czyżów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486271,
+            "lat": 50.8581977,
+            "lon": 17.4573753,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W kancelarii ogólnej - II piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "2",
+                "opening_hours": "Mo-Fr 07:15-15:15",
+                "operator": "Starostwo Powiatowe W Brzegu",
+                "phone": "+48 774447902"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486272,
+            "lat": 50.8613865,
+            "lon": 17.4617291,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu przy biurze podawczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:15-15:15",
+                "operator": "Starostwo Powiatowe W Brzegu",
+                "phone": "+48 774447902"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486273,
+            "lat": 54.3528089,
+            "lon": 19.6794335,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Parterze po lewej stronie w Izbie Przyjęć Szpitala.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Samodzielny Publiczny Szpital Psychiatryczny Zoz Frombork",
+                "phone": "+48 556216302"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486274,
+            "lat": 51.3205544,
+            "lon": 21.9519829,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w gabinecie zabiegowym w przychodni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "7:00-18:00",
+                "operator": "Pielęgniarki Spzoz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486275,
+            "lat": 53.2329674,
+            "lon": 20.1789736,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, w korytarzu na ścianie po prawej stronie, przy drzwiach wejściowych do Kierownika USC.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 7:30-17:00; Tu-Sa 7:30-16:00",
+                "operator": "Urząd Miasta Działdowo",
+                "phone": "+48 236970446"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486276,
+            "lat": 53.234304,
+            "lon": 20.182024,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na II piętrze budynku Urzędu Miasta/ po lewej stronie na ścianie przy wejściu do kasy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "2",
+                "opening_hours": "Mo 07:30-17:00; Tu-Th 07:30-15:30; Fr 07:30-14:00",
+                "operator": "Urząd Miasta Działdowo",
+                "phone": "+48 236970446"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486277,
+            "lat": 52.634103,
+            "lon": 15.1020874,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na rogu budynku od ulicy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Sołectwo Włostów",
+                "phone": "+48 693810413"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486278,
+            "lat": 52.6659782,
+            "lon": 15.1206431,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "miedzy bramami wyjazdowymi samochodów ratowniczych pod figurką św.Floriana",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Lubczyno",
+                "phone": "+48 665158518"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486279,
+            "lat": 54.0345348,
+            "lon": 22.4990754,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po lewej stronie wejścia głównego do budynku Starostwa Powiatowego w Olecku.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Starostwo Powiatowe W Olecku",
+                "phone": "+48 877391865"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486280,
+            "lat": 53.6505747,
+            "lon": 22.4499016,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W hallu na wprost wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Urząd Miasta Grajewo",
+                "phone": "+48 862730802"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486281,
+            "lat": 50.466178,
+            "lon": 20.7194731,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "III Piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "3",
+                "operator": "Urząd Miasta I Gminy W Busku-Zdroju",
+                "phone": "+48 413705200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486282,
+            "lat": 50.56579,
+            "lon": 21.17274,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w gabinecie zabiegowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Miejsko-Gminny Samodzielny Publiczy Zakład Opieki Zdrowotnej W Staszowie",
+                "phone": "+48 158643068"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486283,
+            "lat": 52.0554089,
+            "lon": 23.5621753,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze budynku, obok biura obsługi",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:30-15:30",
+                "operator": "Urząd Gminy",
+                "phone": "+48 834112041"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486284,
+            "lat": 50.632853,
+            "lon": 20.1825215,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Po lewej stronie",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Warzyn",
+                "phone": "+48 533871401"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486285,
+            "lat": 54.3090242,
+            "lon": 22.3006302,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pierwsze piętro, na ścianie na wprost schodów, obok pokoju nr. 6",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo 07:30-16:00; Tu-Th 07:30-15:30; Fr 07:30-15:00",
+                "operator": "Starostwo Powiatowe",
+                "phone": "+48 876154405"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486286,
+            "lat": 52.9909975,
+            "lon": 22.8816125,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz Komisariatu Policji w Łapach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Komisariat Policji W Łapach",
+                "phone": "+48 477124212"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486287,
+            "lat": 54.2882066,
+            "lon": 22.5578297,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze, na ścianie po prawej stronie od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:20-15:30",
+                "operator": "Urząd Gminy Dubeninki",
+                "phone": "+48 876158137"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486288,
+            "lat": 54.2508537,
+            "lon": 20.8153311,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Po prawej stronie wejścia głównego do budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:00-15:00",
+                "operator": "Starostwo Powiatowe W Bartoszycach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486289,
+            "lat": 50.888423,
+            "lon": 21.66425,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED umieszczone na parterze, na ścianie pomieszczenia portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 7:00-15:00",
+                "operator": "Urząd Miejski W Ożarowie.",
+                "phone": "+48 158610700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486290,
+            "lat": 51.1735974,
+            "lon": 20.9443173,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "w budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Kierz Niedźwiedzi",
+                "phone": "+48 508351857"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486291,
+            "lat": 52.479642,
+            "lon": 15.7792693,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy",
+                "phone": "+48 957492310"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445486292,
+            "lat": 50.2673939,
+            "lon": 20.4864544,
+            "timestamp": "2022-01-24T18:47:52Z",
+            "version": 1,
+            "changeset": 116554789,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się po lewej stronie na ścianie przy wejściu głównym do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta I Gminy W Kazimierzy Wielkiej",
+                "phone": "+48 530206981"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445509217,
+            "lat": 52.2087777,
+            "lon": 21.0086234,
+            "timestamp": "2022-01-24T18:52:26Z",
+            "version": 1,
+            "changeset": 116554930,
+            "user": "Koprivo",
+            "uid": 14931582,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze obok portierni",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445509218,
+            "lat": 52.203687,
+            "lon": 21.0106032,
+            "timestamp": "2022-01-24T18:53:33Z",
+            "version": 1,
+            "changeset": 116554930,
+            "user": "Koprivo",
+            "uid": 14931582,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze na ścianie pomiędzy holem głównym a szatnią",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445513217,
+            "lat": 52.2056315,
+            "lon": 21.0203712,
+            "timestamp": "2022-01-24T18:54:23Z",
+            "version": 1,
+            "changeset": 116554930,
+            "user": "Koprivo",
+            "uid": 14931582,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze przy windzie",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445518517,
+            "lat": 52.2047656,
+            "lon": 21.0090265,
+            "timestamp": "2022-01-24T18:56:19Z",
+            "version": 1,
+            "changeset": 116554930,
+            "user": "Koprivo",
+            "uid": 14931582,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze w holu naprzeciw recepcji",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445520308,
+            "lat": 51.9045403,
+            "lon": 23.1782735,
+            "timestamp": "2022-01-24T18:57:58Z",
+            "version": 1,
+            "changeset": 116555090,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP w Łomazach",
+                "phone": "694 471 355,"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445527017,
+            "lat": 52.2042067,
+            "lon": 21.015956,
+            "timestamp": "2022-01-24T18:59:42Z",
+            "version": 1,
+            "changeset": 116554930,
+            "user": "Koprivo",
+            "uid": 14931582,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W holu naprzeciw recepcji na parterze",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445554138,
+            "lat": 51.5446764,
+            "lon": 23.5522409,
+            "timestamp": "2022-01-24T19:30:45Z",
+            "version": 1,
+            "changeset": 116555969,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratownictwa wodnego",
+                "emergency": "defibrillator",
+                "operator": "OSP Włodawa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590129,
+            "lat": 50.2969343,
+            "lon": 19.4804933,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590130,
+            "lat": 50.29205,
+            "lon": 19.4516,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590131,
+            "lat": 50.189824,
+            "lon": 20.759079,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wietrzychowice",
+                "phone": "146418060"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590132,
+            "lat": 50.1889909,
+            "lon": 16.6715794,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Roztokach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590133,
+            "lat": 50.17642,
+            "lon": 16.71432,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Goworów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590134,
+            "lat": 50.1448102,
+            "lon": 18.4379581,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Zwonowice",
+                "phone": "39 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590135,
+            "lat": 50.140028,
+            "lon": 18.3599008,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Bogunice",
+                "phone": "33 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590136,
+            "lat": 50.1375463,
+            "lon": 19.8183612,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "509-190-257"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590137,
+            "lat": 50.1307742,
+            "lon": 18.3307544,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Adamowice",
+                "phone": "32 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590138,
+            "lat": 50.1224137,
+            "lon": 18.2956314,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Raszczyce",
+                "phone": "37 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590139,
+            "lat": 50.1210952,
+            "lon": 18.414033,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Sumina",
+                "phone": "38 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590140,
+            "lat": 50.1198953,
+            "lon": 18.3887752,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Lyski",
+                "phone": "35 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590141,
+            "lat": 50.1093233,
+            "lon": 18.3213176,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Żytna",
+                "phone": "40 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590142,
+            "lat": 50.1079379,
+            "lon": 19.707118,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna W Nielepicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590143,
+            "lat": 50.1057964,
+            "lon": 18.3526929,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Dzimierz",
+                "phone": "34 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590144,
+            "lat": 50.0885339,
+            "lon": 18.3558484,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Pstrążna",
+                "phone": "36 43 000 51 wew. 128"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590145,
+            "lat": 50.0362828,
+            "lon": 18.7871508,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "600 021 354; 693 203 205"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590146,
+            "lat": 50.0353527,
+            "lon": 18.7609509,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "792 544 400; 725 040 980"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590147,
+            "lat": 50.0106997,
+            "lon": 18.8064192,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "605 311 640; 608 024 038"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590148,
+            "lat": 49.9986972,
+            "lon": 19.4313392,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "793-124-463"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590149,
+            "lat": 49.9898485,
+            "lon": 18.7959016,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "691 952 990; 608 841 797"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590150,
+            "lat": 49.9156958,
+            "lon": 18.7587165,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590151,
+            "lat": 49.9179375,
+            "lon": 20.5992436,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Uszwi",
+                "phone": "667 117 692"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590152,
+            "lat": 49.9221723,
+            "lon": 18.7274732,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590153,
+            "lat": 49.9059372,
+            "lon": 18.7756338,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590154,
+            "lat": 49.8995024,
+            "lon": 18.7347701,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590155,
+            "lat": 49.8930173,
+            "lon": 19.8310041,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590156,
+            "lat": 49.8717672,
+            "lon": 18.755666,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590157,
+            "lat": 49.8676124,
+            "lon": 20.4992692,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590158,
+            "lat": 49.8670433,
+            "lon": 18.6966194,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSB Pruchnia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590159,
+            "lat": 49.8604599,
+            "lon": 19.3888335,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Inwałd"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590160,
+            "lat": 49.8575138,
+            "lon": 20.5241483,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Lipnica Murowana"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590161,
+            "lat": 49.8392667,
+            "lon": 19.308545,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Roczyny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590162,
+            "lat": 49.818528,
+            "lon": 22.476639,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "Zoll AED 3",
+                "operator": "OSP w Babicach",
+                "phone": "692301732"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590163,
+            "lat": 49.813274,
+            "lon": 19.3288164,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Targanice Górne"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590164,
+            "lat": 49.798665,
+            "lon": 22.5446149,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "Zoll AED 3",
+                "operator": "OSP w Krzywczy",
+                "phone": "604205562"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590165,
+            "lat": 49.78947,
+            "lon": 19.85172,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Trzebunia",
+                "phone": "506708825"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590166,
+            "lat": 49.7573811,
+            "lon": 21.2253919,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Binarowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590167,
+            "lat": 49.75089,
+            "lon": 19.96991,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Pcim",
+                "phone": "507846252"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590168,
+            "lat": 49.7370215,
+            "lon": 18.7379237,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Goleszów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590169,
+            "lat": 49.73355,
+            "lon": 21.258717,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Biecz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590170,
+            "lat": 49.7178644,
+            "lon": 18.665014,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Puńców"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590171,
+            "lat": 49.7169443,
+            "lon": 18.7613841,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Cisownicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590172,
+            "lat": 49.696306,
+            "lon": 20.352611,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Słopnice Dolne",
+                "phone": "721 996 222"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590173,
+            "lat": 49.658972,
+            "lon": 20.343778,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Słopnice Górne",
+                "phone": "797 190 473"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590174,
+            "lat": 49.6128728,
+            "lon": 21.8593086,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wróblik Królewski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590175,
+            "lat": 49.581235,
+            "lon": 21.8689644,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Rymanów - Posada Dolna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590176,
+            "lat": 49.5729035,
+            "lon": 21.8681519,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Rymanów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590177,
+            "lat": 49.5581813,
+            "lon": 21.8565371,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Posada Górna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590178,
+            "lat": 49.5541799,
+            "lon": 21.9267493,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Sieniawa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590179,
+            "lat": 49.5507772,
+            "lon": 21.8503516,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Rymanów-Zdrój"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590180,
+            "lat": 49.421713,
+            "lon": 20.4889022,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Szczawnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590181,
+            "lat": 49.4073645,
+            "lon": 20.5532423,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Jaworki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590182,
+            "lat": 50.165087,
+            "lon": 20.728094,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Jadowniki Mokre",
+                "phone": "725 239 903"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9445590183,
+            "lat": 49.510806,
+            "lon": 21.501111,
+            "timestamp": "2022-01-24T19:27:56Z",
+            "version": 1,
+            "changeset": 116555893,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Krempna"
             }
         }
     ]
