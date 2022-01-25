@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-25T09:31:09Z",
-        "timestamp_areas_base": "2022-01-25T08:39:22Z",
+        "timestamp_osm_base": "2022-01-25T10:31:06Z",
+        "timestamp_areas_base": "2022-01-25T09:39:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22832,6 +22832,41 @@
                 "opening_hours": "Jan-Jun,Sep-Dec 06:00-22:00; Jul-Aug 06:00-23:00",
                 "operator": "Gmina Miechów",
                 "phone": "+48 534533551"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9447020917,
+            "lat": 52.8845394,
+            "lon": 20.6040617,
+            "timestamp": "2022-01-25T09:54:12Z",
+            "version": 1,
+            "changeset": 116577212,
+            "user": "Witek Z",
+            "uid": 14936525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near  entrance",
+                "emergency": "defibrillator",
+                "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9447035317,
+            "lat": 52.8458496,
+            "lon": 20.6482861,
+            "timestamp": "2022-01-25T09:58:58Z",
+            "version": 1,
+            "changeset": 116577212,
+            "user": "Witek Z",
+            "uid": 14936525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na słupie obok pomieszczenia ratowników wopr",
+                "emergency": "defibrillator",
+                "location": "outdoor"
             }
         }
     ]
