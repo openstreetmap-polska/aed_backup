@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-25T16:32:39Z",
+        "timestamp_osm_base": "2022-01-25T17:32:24Z",
         "timestamp_areas_base": "2022-01-25T15:43:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -23737,6 +23737,24 @@
                 "emergency": "defibrillator",
                 "manufacturer": "aedmax philips",
                 "operator": "OSP Chodcza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9447969517,
+            "lat": 49.3950275,
+            "lon": 19.9065139,
+            "timestamp": "2022-01-25T16:46:46Z",
+            "version": 1,
+            "changeset": 116592900,
+            "user": "OSP Czerwienne Dolne",
+            "uid": 14939488,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód pożarniczy GBAM",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "phone": "880 078 172"
             }
         }
     ]
