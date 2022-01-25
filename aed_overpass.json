@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-25T07:31:39Z",
-        "timestamp_areas_base": "2022-01-25T06:37:59Z",
+        "timestamp_osm_base": "2022-01-25T08:31:22Z",
+        "timestamp_areas_base": "2022-01-25T07:37:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -13810,23 +13810,6 @@
                 "defibrillator:location": "Defibrylator znajduje się na jednej ze ścian informatora miejskiego.",
                 "emergency": "defibrillator",
                 "location": "outdoor"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9424678417,
-            "lat": 50.3575977,
-            "lon": 20.0361545,
-            "timestamp": "2022-01-17T07:48:42Z",
-            "version": 1,
-            "changeset": 116241077,
-            "user": "lilnil0",
-            "uid": 14872291,
-            "tags": {
-                "access": "yes",
-                "emergency": "defibrillator",
-                "location": "outdoor",
-                "phone": "+48 41 383 00 40"
             }
         },
         {
