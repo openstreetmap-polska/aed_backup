@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-25T10:31:06Z",
-        "timestamp_areas_base": "2022-01-25T09:39:22Z",
+        "timestamp_osm_base": "2022-01-25T11:30:54Z",
+        "timestamp_areas_base": "2022-01-25T10:40:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22865,6 +22865,24 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na słupie obok pomieszczenia ratowników wopr",
+                "emergency": "defibrillator",
+                "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9447158417,
+            "lat": 52.0902035,
+            "lon": 19.8828442,
+            "timestamp": "2022-01-25T10:52:49Z",
+            "version": 1,
+            "changeset": 116579576,
+            "user": "Eryk Wojda",
+            "uid": 14937018,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku od strony parkingu",
+                "defibrillator:location:en": "On the wall on the side of the parking lot",
                 "emergency": "defibrillator",
                 "location": "outdoor"
             }
