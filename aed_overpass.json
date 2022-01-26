@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-26T19:31:23Z",
+        "timestamp_osm_base": "2022-01-26T20:31:11Z",
         "timestamp_areas_base": "2022-01-26T18:56:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24497,6 +24497,44 @@
                 "emergency:phone": "112",
                 "location": "indoor",
                 "phone": "+48 792369123"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451047917,
+            "lat": 52.6691502,
+            "lon": 15.0118534,
+            "timestamp": "2022-01-26T19:32:35Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe pożarniczym 307 F 42",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "location": "indoor",
+                "phone": "+48 696401143"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451058817,
+            "lat": 52.6723923,
+            "lon": 14.8890618,
+            "timestamp": "2022-01-26T19:39:33Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe pożarniczym 309 F 86",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "location": "indoor",
+                "phone": "+48 881081027"
             }
         }
     ]
