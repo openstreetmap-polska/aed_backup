@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-26T18:31:43Z",
-        "timestamp_areas_base": "2022-01-26T13:54:08Z",
+        "timestamp_osm_base": "2022-01-26T19:31:23Z",
+        "timestamp_areas_base": "2022-01-26T18:56:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10967,14 +10967,14 @@
             "id": 9412254317,
             "lat": 52.269182,
             "lon": 20.9847131,
-            "timestamp": "2022-01-12T20:40:28Z",
-            "version": 3,
-            "changeset": 116081839,
-            "user": "kocio",
-            "uid": 52087,
+            "timestamp": "2022-01-26T18:36:26Z",
+            "version": 4,
+            "changeset": 116633964,
+            "user": "syntex",
+            "uid": 6668641,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na peronie metra, pierwsza kolumna od schodów ze strony placu Wilsona",
+                "defibrillator:location": "Na peronie metra Plac Wilsona, pierwsza kolumna od schodów ze strony placu Wilsona",
                 "emergency": "defibrillator",
                 "level": "-2",
                 "location": "indoor",
@@ -13589,14 +13589,14 @@
             "id": 9424015117,
             "lat": 52.239075,
             "lon": 20.9440884,
-            "timestamp": "2022-01-16T22:49:50Z",
-            "version": 1,
-            "changeset": 116231386,
-            "user": "ye_lo",
-            "uid": 14869402,
+            "timestamp": "2022-01-26T18:42:39Z",
+            "version": 2,
+            "changeset": 116634180,
+            "user": "syntex",
+            "uid": 6668641,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W metrze na wschodnim filarze peronu.",
+                "defibrillator:location": "Na wschodnim filarze peronu stacji metra Księcia Janusza.",
                 "defibrillator:location:en": "At the metro station.",
                 "emergency": "defibrillator",
                 "location": "indoor"
@@ -23931,6 +23931,23 @@
         },
         {
             "type": "node",
+            "id": 9450783407,
+            "lat": 52.2768615,
+            "lon": 20.960188,
+            "timestamp": "2022-01-26T18:37:17Z",
+            "version": 1,
+            "changeset": 116633994,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Słodowiec",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
             "id": 9450801906,
             "lat": 49.743931,
             "lon": 20.0868735,
@@ -23967,6 +23984,23 @@
         },
         {
             "type": "node",
+            "id": 9450842155,
+            "lat": 52.2085267,
+            "lon": 21.0078028,
+            "timestamp": "2022-01-26T18:31:47Z",
+            "version": 1,
+            "changeset": 116633817,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Pole Mokotowskie",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
             "id": 9450846479,
             "lat": 52.181793,
             "lon": 21.0231433,
@@ -23984,6 +24018,40 @@
         },
         {
             "type": "node",
+            "id": 9450851324,
+            "lat": 52.2578788,
+            "lon": 20.9943613,
+            "timestamp": "2022-01-26T18:35:50Z",
+            "version": 1,
+            "changeset": 116633943,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Dworzec Gdański",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450851326,
+            "lat": 52.2907853,
+            "lon": 20.929902,
+            "timestamp": "2022-01-26T18:40:36Z",
+            "version": 1,
+            "changeset": 116634095,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Młociny",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
             "id": 9450852257,
             "lat": 52.1320926,
             "lon": 21.0650723,
@@ -23995,6 +24063,40 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Kabaty",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450856982,
+            "lat": 52.2716901,
+            "lon": 20.9717637,
+            "timestamp": "2022-01-26T18:36:49Z",
+            "version": 1,
+            "changeset": 116633976,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Marymont",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450857666,
+            "lat": 52.2300312,
+            "lon": 20.9828641,
+            "timestamp": "2022-01-26T18:44:27Z",
+            "version": 1,
+            "changeset": 116634246,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Rondo Daszyńskiego",
                 "emergency": "defibrillator",
                 "location": "indoor"
             }
@@ -24082,6 +24184,319 @@
                 "defibrillator:location": "Na peronie stacji metra Racławicka",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450865121,
+            "lat": 52.2450109,
+            "lon": 21.00123,
+            "timestamp": "2022-01-26T18:35:25Z",
+            "version": 1,
+            "changeset": 116633931,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Ratusz Arsenał",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450867886,
+            "lat": 52.2331536,
+            "lon": 20.9982371,
+            "timestamp": "2022-01-26T18:44:48Z",
+            "version": 1,
+            "changeset": 116634260,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Rondo ONZ",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450873840,
+            "lat": 52.235269,
+            "lon": 21.0088761,
+            "timestamp": "2022-01-26T18:34:48Z",
+            "version": 1,
+            "changeset": 116633908,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Świętokrzyska (M2)",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450873841,
+            "lat": 52.2351297,
+            "lon": 21.0078977,
+            "timestamp": "2022-01-26T18:34:48Z",
+            "version": 1,
+            "changeset": 116633908,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Świętokrzyska (M1)",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450880532,
+            "lat": 52.2398886,
+            "lon": 21.0318027,
+            "timestamp": "2022-01-26T18:45:40Z",
+            "version": 1,
+            "changeset": 116634294,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Centrum Nauki Kopernik",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450880573,
+            "lat": 52.254059,
+            "lon": 21.0354898,
+            "timestamp": "2022-01-26T18:46:31Z",
+            "version": 1,
+            "changeset": 116634328,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Dworzec Wileński",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450880924,
+            "lat": 52.2379177,
+            "lon": 20.9592407,
+            "timestamp": "2022-01-26T18:43:53Z",
+            "version": 1,
+            "changeset": 116634219,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Młynów",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450882800,
+            "lat": 52.2863591,
+            "lon": 20.9394927,
+            "timestamp": "2022-01-26T18:40:11Z",
+            "version": 1,
+            "changeset": 116634084,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Wawrzyszew",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450883866,
+            "lat": 52.2818048,
+            "lon": 20.9494145,
+            "timestamp": "2022-01-26T18:39:54Z",
+            "version": 1,
+            "changeset": 116634075,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Stare Bielany",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450887088,
+            "lat": 52.2469559,
+            "lon": 21.0428972,
+            "timestamp": "2022-01-26T18:46:06Z",
+            "version": 1,
+            "changeset": 116634315,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Stadion Narodowy",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450896098,
+            "lat": 52.2368626,
+            "lon": 21.0167779,
+            "timestamp": "2022-01-26T18:45:16Z",
+            "version": 1,
+            "changeset": 116634277,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Nowy Świat-Uniwersytet",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450900691,
+            "lat": 52.2696062,
+            "lon": 21.0514139,
+            "timestamp": "2022-01-26T18:47:13Z",
+            "version": 1,
+            "changeset": 116634363,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Targówek Mieszkaniowy",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450900915,
+            "lat": 52.2634635,
+            "lon": 21.0453176,
+            "timestamp": "2022-01-26T18:46:55Z",
+            "version": 1,
+            "changeset": 116634349,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Szwedzka",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450904746,
+            "lat": 52.2753425,
+            "lon": 21.055477,
+            "timestamp": "2022-01-26T18:47:33Z",
+            "version": 1,
+            "changeset": 116634377,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Trocka",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451021517,
+            "lat": 52.6723409,
+            "lon": 14.8893263,
+            "timestamp": "2022-01-26T19:18:11Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe pożarniczym  309 F 83",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "location": "indoor",
+                "phone": "+48 881081027"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451032717,
+            "lat": 52.6580676,
+            "lon": 14.9723766,
+            "timestamp": "2022-01-26T19:24:38Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Remiza OSP Pyrzany",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "location": "indoor",
+                "phone": "+48 660143935"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451035717,
+            "lat": 52.6757049,
+            "lon": 14.8018663,
+            "timestamp": "2022-01-26T19:27:22Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe  pożarniczym 309 F 93",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "phone": "+48 500635800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9451042817,
+            "lat": 52.664452,
+            "lon": 14.7753631,
+            "timestamp": "2022-01-26T19:29:26Z",
+            "version": 1,
+            "changeset": 116635433,
+            "user": "Ochotnicza Straż Pożarna w Witnicy",
+            "uid": 14948221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie strażackiej",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "location": "indoor",
+                "phone": "+48 792369123"
             }
         }
     ]
