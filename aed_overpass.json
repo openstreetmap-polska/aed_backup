@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-26T16:32:10Z",
+        "timestamp_osm_base": "2022-01-26T17:31:55Z",
         "timestamp_areas_base": "2022-01-26T13:54:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -23773,6 +23773,93 @@
                 "defibrillator:location:en": "concierge of the Pedagogical University",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450649857,
+            "lat": 50.637962,
+            "lon": 18.8415205,
+            "timestamp": "2022-01-26T17:08:56Z",
+            "version": 1,
+            "changeset": 116630593,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Koszęcin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450653705,
+            "lat": 50.0184052,
+            "lon": 18.1207127,
+            "timestamp": "2022-01-26T17:22:28Z",
+            "version": 1,
+            "changeset": 116631102,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie od wejścia do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "phone": "+48 324108202"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450680030,
+            "lat": 50.6441773,
+            "lon": 18.7649246,
+            "timestamp": "2022-01-26T17:11:02Z",
+            "version": 1,
+            "changeset": 116630670,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Rusinowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450722154,
+            "lat": 50.1999381,
+            "lon": 19.872708,
+            "timestamp": "2022-01-26T17:25:47Z",
+            "version": 1,
+            "changeset": 116631219,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Cianowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450726795,
+            "lat": 50.2276098,
+            "lon": 19.8554378,
+            "timestamp": "2022-01-26T17:27:16Z",
+            "version": 1,
+            "changeset": 116631307,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Skała"
             }
         }
     ]
