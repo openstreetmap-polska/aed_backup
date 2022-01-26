@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-26T13:31:56Z",
-        "timestamp_areas_base": "2022-01-26T12:53:11Z",
+        "timestamp_osm_base": "2022-01-26T14:31:42Z",
+        "timestamp_areas_base": "2022-01-26T13:54:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -23755,6 +23755,24 @@
                 "emergency": "defibrillator",
                 "location": "indoor",
                 "phone": "880 078 172"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450166617,
+            "lat": 50.0738927,
+            "lon": 19.9084929,
+            "timestamp": "2022-01-26T13:40:36Z",
+            "version": 1,
+            "changeset": 116623341,
+            "user": "KramerAED",
+            "uid": 14794270,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia Uniwersytetu Pedagogicznego",
+                "defibrillator:location:en": "concierge of the Pedagogical University",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
