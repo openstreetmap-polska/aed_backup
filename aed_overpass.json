@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-26T17:31:55Z",
+        "timestamp_osm_base": "2022-01-26T18:31:43Z",
         "timestamp_areas_base": "2022-01-26T13:54:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9792,15 +9792,15 @@
             "id": 9397748017,
             "lat": 52.2326711,
             "lon": 20.9662316,
-            "timestamp": "2022-01-06T21:38:14Z",
-            "version": 2,
-            "changeset": 115854673,
-            "user": "starsep",
-            "uid": 11306447,
+            "timestamp": "2022-01-26T18:21:40Z",
+            "version": 3,
+            "changeset": 116633466,
+            "user": "syntex",
+            "uid": 6668641,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na słupie na peronie metra",
-                "defibrillator:location:en": "On the column in the middle of subway platform",
+                "defibrillator:location": "Na słupie na peronie stacji metra Płocka",
+                "defibrillator:location:en": "On the column in the middle of the Płocka subway station platform",
                 "emergency": "defibrillator",
                 "level": "-2",
                 "location": "indoor"
@@ -11438,14 +11438,14 @@
             "id": 9413742317,
             "lat": 52.1903525,
             "lon": 21.0163851,
-            "timestamp": "2022-01-12T20:39:30Z",
-            "version": 2,
-            "changeset": 116081812,
-            "user": "kocio",
-            "uid": 52087,
+            "timestamp": "2022-01-26T18:31:00Z",
+            "version": 3,
+            "changeset": 116633785,
+            "user": "syntex",
+            "uid": 6668641,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na peronie metra, pierwsza ławka od wejścia od północy (ulica Naruszewicza)",
+                "defibrillator:location": "Na peronie stacji metra Wierzbno, pierwsza ławka od wejścia od północy (ulica Naruszewicza)",
                 "emergency": "defibrillator",
                 "level": "-2",
                 "location": "indoor",
@@ -23860,6 +23860,228 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "operator": "OSP Skała"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450738511,
+            "lat": 49.7654092,
+            "lon": 20.1191431,
+            "timestamp": "2022-01-26T17:54:43Z",
+            "version": 1,
+            "changeset": 116632462,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Wierzbanowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450739315,
+            "lat": 49.8136582,
+            "lon": 20.1171404,
+            "timestamp": "2022-01-26T17:52:40Z",
+            "version": 1,
+            "changeset": 116632387,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Poznachowice Dolne"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450746439,
+            "lat": 49.9228212,
+            "lon": 20.9451189,
+            "timestamp": "2022-01-26T17:37:37Z",
+            "version": 1,
+            "changeset": 116631759,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Pleśna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450760416,
+            "lat": 49.7867259,
+            "lon": 20.1180323,
+            "timestamp": "2022-01-26T17:49:42Z",
+            "version": 1,
+            "changeset": 116632266,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Wiśniowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450801906,
+            "lat": 49.743931,
+            "lon": 20.0868735,
+            "timestamp": "2022-01-26T18:06:44Z",
+            "version": 1,
+            "changeset": 116632919,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana obok bramy garażowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Węglówka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450841329,
+            "lat": 52.1493144,
+            "lon": 21.0460883,
+            "timestamp": "2022-01-26T18:28:29Z",
+            "version": 1,
+            "changeset": 116633708,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Imielin",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450846479,
+            "lat": 52.181793,
+            "lon": 21.0231433,
+            "timestamp": "2022-01-26T18:30:10Z",
+            "version": 1,
+            "changeset": 116633748,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Wilanowska",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450852257,
+            "lat": 52.1320926,
+            "lon": 21.0650723,
+            "timestamp": "2022-01-26T18:27:07Z",
+            "version": 1,
+            "changeset": 116633663,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Kabaty",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450858137,
+            "lat": 52.1620492,
+            "lon": 21.0276546,
+            "timestamp": "2022-01-26T18:29:28Z",
+            "version": 1,
+            "changeset": 116633738,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Ursynów",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450858618,
+            "lat": 52.1411337,
+            "lon": 21.0564111,
+            "timestamp": "2022-01-26T18:27:31Z",
+            "version": 1,
+            "changeset": 116633675,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Natolin",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450861722,
+            "lat": 52.1560863,
+            "lon": 21.0347071,
+            "timestamp": "2022-01-26T18:28:52Z",
+            "version": 1,
+            "changeset": 116633719,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Stokłosy",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450862061,
+            "lat": 52.1727469,
+            "lon": 21.0263011,
+            "timestamp": "2022-01-26T18:29:50Z",
+            "version": 1,
+            "changeset": 116633743,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Służew",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9450864129,
+            "lat": 52.1989776,
+            "lon": 21.0121836,
+            "timestamp": "2022-01-26T18:31:22Z",
+            "version": 1,
+            "changeset": 116633802,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na peronie stacji metra Racławicka",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
