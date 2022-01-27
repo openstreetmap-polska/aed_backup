@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-27T20:31:45Z",
+        "timestamp_osm_base": "2022-01-27T21:31:25Z",
         "timestamp_areas_base": "2022-01-27T20:13:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24617,21 +24617,941 @@
             "id": 9453840275,
             "lat": 51.3887613,
             "lon": 19.3872418,
-            "timestamp": "2022-01-27T19:56:55Z",
-            "version": 1,
-            "changeset": 116680532,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 2,
+            "changeset": 116682229,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
                 "access": "private",
-                "addr:housenumber": "46",
-                "addr:place": "Dobrzelów",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "manufacturer": "MAX Harter",
-                "nazwa_obiektu_robocza": "Ochotnicza Straż Pożarna",
                 "operator": "OSP Dobrzelów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974276,
+            "lat": 51.2952973,
+            "lon": 19.4309876,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "ParaMedica",
+                "operator": "OSP Zawadów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974277,
+            "lat": 51.3657975,
+            "lon": 19.4756943,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "ParaMedica",
+                "operator": "OSP Postękalice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974278,
+            "lat": 51.3891519,
+            "lon": 19.4552477,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "ParaMedica",
+                "operator": "OSP Niedyszyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974279,
+            "lat": 51.2715835,
+            "lon": 19.4111668,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "ParaMedica",
+                "operator": "OSP Łękawa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974280,
+            "lat": 51.3484435,
+            "lon": 19.3384682,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "manufacturer": "ParaMedica",
+                "operator": "OSP Ludwików"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974281,
+            "lat": 51.5093118,
+            "lon": 19.022884,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Sędziejowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974282,
+            "lat": 51.5399836,
+            "lon": 19.0563918,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Pruszków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974283,
+            "lat": 51.553461,
+            "lon": 19.0377988,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Marzenin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974284,
+            "lat": 51.0695372,
+            "lon": 19.5966106,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Smotryszów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974285,
+            "lat": 51.1012996,
+            "lon": 19.6262392,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kodrąb"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974286,
+            "lat": 51.74138,
+            "lon": 19.1247,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kwiatkowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974287,
+            "lat": 51.7181186,
+            "lon": 19.1496105,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wodzierady"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974288,
+            "lat": 52.2318469,
+            "lon": 19.3528203,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "PPSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974289,
+            "lat": 52.04592,
+            "lon": 17.62299,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Ludwinów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974290,
+            "lat": 51.1777,
+            "lon": 18.31392,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kolonia Dzietrzykowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974291,
+            "lat": 51.1744015,
+            "lon": 18.2455698,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wójcin, Strażacka 4"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974292,
+            "lat": 50.409341,
+            "lon": 21.1499344,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Łubnice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974293,
+            "lat": 51.1602458,
+            "lon": 18.3225086,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Suchożebry"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974294,
+            "lat": 52.0225362,
+            "lon": 19.8879772,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kalenice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974295,
+            "lat": 51.9596583,
+            "lon": 19.8911483,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Czatolin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974296,
+            "lat": 51.9870943,
+            "lon": 19.878597,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Łyszkowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974297,
+            "lat": 51.0109765,
+            "lon": 19.7619162,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wielgomłyny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974298,
+            "lat": 52.29667,
+            "lon": 19.885243,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Witusza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974299,
+            "lat": 52.2683177,
+            "lon": 19.8694416,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kiernozia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974300,
+            "lat": 50.932266,
+            "lon": 19.677866,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Silnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974301,
+            "lat": 52.254036,
+            "lon": 19.167507,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Krośniewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974302,
+            "lat": 52.2117633,
+            "lon": 19.6148594,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Pniewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974303,
+            "lat": 52.16197,
+            "lon": 19.64611,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Tomczyce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974304,
+            "lat": 52.1509036,
+            "lon": 19.6874683,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Dębowa Góra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974305,
+            "lat": 52.12648,
+            "lon": 19.63085,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wola Kałkowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974306,
+            "lat": 51.8556,
+            "lon": 19.972,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP w Słupi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974307,
+            "lat": 51.82957,
+            "lon": 20.27686,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kurzeszyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974308,
+            "lat": 51.621334,
+            "lon": 18.96517,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Janiszewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974309,
+            "lat": 51.49341,
+            "lon": 19.2964469,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kociszew"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974310,
+            "lat": 51.46618,
+            "lon": 19.22292,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Zelów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974311,
+            "lat": 51.46493,
+            "lon": 19.28426,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Bujny Szlacheckie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974312,
+            "lat": 51.4550327,
+            "lon": 20.4013371,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Radzice Duże"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974313,
+            "lat": 51.4503145,
+            "lon": 20.4749905,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Drzewica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974314,
+            "lat": 51.44984,
+            "lon": 19.18345,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Pożdżenice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974315,
+            "lat": 51.3888755,
+            "lon": 22.1844857,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kurów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453974316,
+            "lat": 51.3881413,
+            "lon": 18.8161608,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Szynkielów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984417,
+            "lat": 51.37155,
+            "lon": 18.52305,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Huta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984418,
+            "lat": 51.37017,
+            "lon": 18.4330326,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Lututów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984419,
+            "lat": 51.3509399,
+            "lon": 18.7601481,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Szynkielów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984420,
+            "lat": 51.34651,
+            "lon": 18.52167,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Chojny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984421,
+            "lat": 51.3273,
+            "lon": 18.9890808,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Ruciec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984422,
+            "lat": 51.3253715,
+            "lon": 18.9103549,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wola Wiązowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984423,
+            "lat": 51.2967949,
+            "lon": 18.9999191,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Jastrzębice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984424,
+            "lat": 51.2463667,
+            "lon": 19.87447,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Stobnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984425,
+            "lat": 51.1919346,
+            "lon": 19.8573038,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Ręczno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453984426,
+            "lat": 50.9282,
+            "lon": 19.62816,
+            "timestamp": "2022-01-27T20:56:36Z",
+            "version": 1,
+            "changeset": 116682229,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Żytno"
             }
         }
     ]
