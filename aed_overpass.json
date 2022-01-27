@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-27T15:31:42Z",
+        "timestamp_osm_base": "2022-01-27T16:31:26Z",
         "timestamp_areas_base": "2022-01-27T15:08:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24559,17 +24559,19 @@
             "id": 9452588719,
             "lat": 50.683468,
             "lon": 21.7366034,
-            "timestamp": "2022-01-27T11:39:11Z",
-            "version": 1,
-            "changeset": 116662649,
+            "timestamp": "2022-01-27T16:15:51Z",
+            "version": 2,
+            "changeset": 116673306,
             "user": "lerox",
             "uid": 7789184,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Przy wejściu, na ścianie kasy  Miejski Stadion Sportowy ul. Koseły 3 A",
+                "access": "yes",
+                "defibrillator:location": "ul. Koseły 3 A , Miejski Stadion Sportowy .\nPrzy wejściu, na ścianie kasy",
                 "defibrillator:location:en": "Near entrance, on the wall of the cash register  City Sports Stadium ul. Koseły 3 A",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "opening_hours": "Mo-Su 07:00-21:00"
             }
         },
         {
