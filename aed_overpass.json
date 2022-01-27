@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-27T14:31:57Z",
-        "timestamp_areas_base": "2022-01-27T09:05:25Z",
+        "timestamp_osm_base": "2022-01-27T15:31:42Z",
+        "timestamp_areas_base": "2022-01-27T15:08:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24587,6 +24587,24 @@
                 "emergency": "defibrillator",
                 "location": "wóz strażacki",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9453116617,
+            "lat": 51.16942,
+            "lon": 16.6025508,
+            "timestamp": "2022-01-27T14:44:39Z",
+            "version": 1,
+            "changeset": 116669953,
+            "user": "s_limak",
+            "uid": 590721,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Średzkiego Parku Wodnego przy kasie biletowej",
+                "defibrillator:location:en": "In the building at the Średzki Park Wodny ticket office",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
