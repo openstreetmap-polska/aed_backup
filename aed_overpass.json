@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-27T11:31:30Z",
+        "timestamp_osm_base": "2022-01-27T12:31:09Z",
         "timestamp_areas_base": "2022-01-27T09:05:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24552,6 +24552,41 @@
                 "defibrillator:location": "Portiernia",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9452588719,
+            "lat": 50.683468,
+            "lon": 21.7366034,
+            "timestamp": "2022-01-27T11:39:11Z",
+            "version": 1,
+            "changeset": 116662649,
+            "user": "lerox",
+            "uid": 7789184,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu, na ścianie kasy  Miejski Stadion Sportowy ul. Koseły 3 A",
+                "defibrillator:location:en": "Near entrance, on the wall of the cash register  City Sports Stadium ul. Koseły 3 A",
+                "emergency": "defibrillator",
+                "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9452704579,
+            "lat": 53.4643522,
+            "lon": 21.1377305,
+            "timestamp": "2022-01-27T12:26:40Z",
+            "version": 1,
+            "changeset": 116664560,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "location": "wóz strażacki",
+                "opening_hours": "24/7"
             }
         }
     ]
