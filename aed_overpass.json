@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-28T12:31:42Z",
-        "timestamp_areas_base": "2022-01-28T11:19:49Z",
+        "timestamp_osm_base": "2022-01-28T13:32:24Z",
+        "timestamp_areas_base": "2022-01-28T13:20:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -16189,14 +16189,14 @@
             "id": 9430963317,
             "lat": 52.5544262,
             "lon": 19.6920374,
-            "timestamp": "2022-01-19T13:01:17Z",
-            "version": 1,
-            "changeset": 116341908,
+            "timestamp": "2022-01-28T13:22:11Z",
+            "version": 2,
+            "changeset": 116707755,
             "user": "Centrum Handlowe Atrium Mosty",
             "uid": 14889751,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Atrium Płock, ul. Przemysłowa 1",
+                "defibrillator:location": "Atrium Płock, ul. Przemysłowa 1, w korytarzu do toalet, przy lokalu Drogerie Natura",
                 "emergency": "defibrillator",
                 "location": "indoor"
             }
