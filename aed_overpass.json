@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-28T15:31:00Z",
+        "timestamp_osm_base": "2022-01-28T16:31:54Z",
         "timestamp_areas_base": "2022-01-28T13:20:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -25572,6 +25572,24 @@
                 "defibrillator:location:en": "DT Wars Sawa Junior, Security Room, Mezzanine",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9455903417,
+            "lat": 52.0901297,
+            "lon": 19.8827875,
+            "timestamp": "2022-01-28T16:28:28Z",
+            "version": 1,
+            "changeset": 116714565,
+            "user": "Eryk Wojda",
+            "uid": 14937018,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku od strony mostu",
+                "defibrillator:location:en": "On the wall on the side of the bridge",
+                "emergency": "defibrillator",
+                "location": "outdoor"
             }
         }
     ]
