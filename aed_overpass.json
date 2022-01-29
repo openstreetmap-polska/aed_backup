@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-29T15:31:36Z",
-        "timestamp_areas_base": "2022-01-29T14:32:55Z",
+        "timestamp_osm_base": "2022-01-29T16:31:19Z",
+        "timestamp_areas_base": "2022-01-29T15:33:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -387,15 +387,17 @@
             "id": 2547964164,
             "lat": 52.3103254,
             "lon": 21.018624,
-            "timestamp": "2014-02-08T09:40:16Z",
-            "version": 2,
-            "changeset": 20443511,
-            "user": "Brian@Brea",
-            "uid": 416346,
+            "timestamp": "2022-01-29T16:28:21Z",
+            "version": 3,
+            "changeset": 116751273,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na drugim piętrze, naprzeciwko wyjścia z windy",
+                "defibrillator:location:en": "2nd floor, in front of the elevator",
                 "emergency": "defibrillator",
-                "note": "2nd floor, in front of the elevator",
-                "note:pl": "Na drugim piętrze, naprzeciwko wyjścia z windy"
+                "indoor": "yes"
             }
         },
         {
@@ -1347,17 +1349,19 @@
         {
             "type": "node",
             "id": 5809585079,
-            "lat": 50.7949964,
-            "lon": 20.532219,
-            "timestamp": "2018-08-11T17:35:45Z",
-            "version": 2,
-            "changeset": 61570793,
-            "user": "mueschel",
-            "uid": 616774,
+            "lat": 50.7949812,
+            "lon": 20.5321988,
+            "timestamp": "2022-01-29T16:21:14Z",
+            "version": 3,
+            "changeset": 116750974,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Wola Murowana"
             }
         },
         {
@@ -4389,16 +4393,17 @@
             "id": 9036458931,
             "lat": 50.8118508,
             "lon": 20.2613074,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "timestamp": "2022-01-29T16:26:54Z",
+            "version": 2,
+            "changeset": 116751211,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "Małogoszcz"
             }
         },
         {
@@ -4458,18 +4463,19 @@
         {
             "type": "node",
             "id": 9036458939,
-            "lat": 50.8491745,
-            "lon": 20.9418311,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "lat": 50.8491712,
+            "lon": 20.9418845,
+            "timestamp": "2022-01-29T16:18:43Z",
+            "version": 2,
+            "changeset": 116750869,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Bieliny"
             }
         },
         {
@@ -4611,35 +4617,37 @@
         {
             "type": "node",
             "id": 9036458956,
-            "lat": 51.0354795,
-            "lon": 20.4780927,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "lat": 51.0355098,
+            "lon": 20.4781409,
+            "timestamp": "2022-01-29T16:30:35Z",
+            "version": 2,
+            "changeset": 116751380,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Zaborowice"
             }
         },
         {
             "type": "node",
             "id": 9036458957,
-            "lat": 50.7443235,
-            "lon": 20.6160598,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "lat": 50.744448,
+            "lon": 20.6160922,
+            "timestamp": "2022-01-29T16:22:31Z",
+            "version": 2,
+            "changeset": 116751035,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Morawica"
             }
         },
         {
@@ -4732,16 +4740,17 @@
             "id": 9036458969,
             "lat": 50.8710032,
             "lon": 20.647062,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "timestamp": "2022-01-29T16:17:42Z",
+            "version": 2,
+            "changeset": 116750837,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "PSP Kielce"
             }
         },
         {
@@ -4781,18 +4790,19 @@
         {
             "type": "node",
             "id": 9036458972,
-            "lat": 50.9039973,
-            "lon": 20.5754013,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "lat": 50.9039517,
+            "lon": 20.5753819,
+            "timestamp": "2022-01-29T16:24:40Z",
+            "version": 2,
+            "changeset": 116751128,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Niewachlów-Kielce"
             }
         },
         {
@@ -4832,18 +4842,19 @@
         {
             "type": "node",
             "id": 9036458975,
-            "lat": 50.9491925,
-            "lon": 20.6747262,
-            "timestamp": "2021-08-25T23:20:28Z",
-            "version": 1,
-            "changeset": 110255410,
-            "user": "pedro's",
-            "uid": 6423094,
+            "lat": 50.9492361,
+            "lon": 20.6747965,
+            "timestamp": "2022-01-29T16:16:38Z",
+            "version": 2,
+            "changeset": 116750794,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "on board fire-truck",
-                "note:pl": "na wyposażeniu wozu bojowego"
+                "operator": "OSP Zabłocie"
             }
         },
         {
