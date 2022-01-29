@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-29T09:32:13Z",
-        "timestamp_areas_base": "2022-01-29T09:30:11Z",
+        "timestamp_osm_base": "2022-01-29T10:30:59Z",
+        "timestamp_areas_base": "2022-01-29T10:29:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -25590,6 +25590,125 @@
                 "defibrillator:location:en": "On the wall on the side of the bridge",
                 "emergency": "defibrillator",
                 "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610210,
+            "lat": 49.6959851,
+            "lon": 21.7703793,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "MPGK Krosno",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610211,
+            "lat": 49.7189203,
+            "lon": 21.7205912,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zespół Krytych Pływalni",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610212,
+            "lat": 49.7066767,
+            "lon": 21.7499124,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Białobrzegi",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610213,
+            "lat": 49.6862163,
+            "lon": 21.7760456,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Zespół Krytych Pływalni",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610214,
+            "lat": 49.6689309,
+            "lon": 21.7634417,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Suchodół",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610215,
+            "lat": 49.692738,
+            "lon": 21.7646821,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9457610216,
+            "lat": 49.7217302,
+            "lon": 21.7151166,
+            "timestamp": "2022-01-29T10:08:30Z",
+            "version": 1,
+            "changeset": 116737402,
+            "user": "k2101",
+            "uid": 6203794,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Turaszówka",
+                "wheelchair": "limited"
             }
         }
     ]
