@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-29T20:31:26Z",
-        "timestamp_areas_base": "2022-01-29T19:35:37Z",
+        "timestamp_osm_base": "2022-01-29T21:31:14Z",
+        "timestamp_areas_base": "2022-01-29T20:36:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -25805,6 +25805,26 @@
                 "defibrillator:location": "Na ścianie hali targowej (hala łukowa) na prawo od głównego wejścia",
                 "emergency": "defibrillator",
                 "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9459002917,
+            "lat": 49.8712717,
+            "lon": 18.8082179,
+            "timestamp": "2022-01-29T21:16:13Z",
+            "version": 2,
+            "changeset": 116759805,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W kapsule na ścianie remizy OSP Zaborze",
+                "defibrillator:location:en": "On the wall of the fire station",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "source": "https://wiadomosci.ox.pl/defibrylator-aed-w-osp-zaborze,72194"
             }
         }
     ]
