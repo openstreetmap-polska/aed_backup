@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-30T11:31:15Z",
+        "timestamp_osm_base": "2022-01-30T12:30:54Z",
         "timestamp_areas_base": "2022-01-30T10:42:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3203,14 +3203,16 @@
             "id": 8145254851,
             "lat": 54.4811111,
             "lon": 18.5643985,
-            "timestamp": "2020-11-20T08:25:15Z",
-            "version": 1,
-            "changeset": 94485005,
-            "user": "Lechosław Dzierżak",
-            "uid": 11354198,
+            "timestamp": "2022-01-30T12:20:23Z",
+            "version": 2,
+            "changeset": 116777521,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "ściana budynku tawerny",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "Gdyńskie Centrum Zdrowia"
             }
         },
@@ -23793,11 +23795,11 @@
         {
             "type": "node",
             "id": 9450166617,
-            "lat": 50.0738927,
-            "lon": 19.9084929,
-            "timestamp": "2022-01-26T13:40:36Z",
-            "version": 1,
-            "changeset": 116623341,
+            "lat": 50.0739082,
+            "lon": 19.9085278,
+            "timestamp": "2022-01-30T11:44:35Z",
+            "version": 2,
+            "changeset": 116776231,
             "user": "KramerAED",
             "uid": 14794270,
             "tags": {
@@ -23805,7 +23807,10 @@
                 "defibrillator:location": "Portiernia Uniwersytetu Pedagogicznego",
                 "defibrillator:location:en": "concierge of the Pedagogical University",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "indoor": "yes",
+                "level": "0",
+                "location": "indoor",
+                "operator": "Uniwersytet Pedagogiczny  (+48 12) 662-6014"
             }
         },
         {
