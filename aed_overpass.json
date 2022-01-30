@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-30T16:31:45Z",
+        "timestamp_osm_base": "2022-01-30T17:31:24Z",
         "timestamp_areas_base": "2022-01-30T14:44:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5431,17 +5431,21 @@
         {
             "type": "node",
             "id": 9316178939,
-            "lat": 50.1324856,
-            "lon": 19.5866686,
-            "timestamp": "2021-12-06T19:22:03Z",
-            "version": 1,
-            "changeset": 114631601,
-            "user": "Kuba517",
-            "uid": 14317288,
+            "lat": 50.1324965,
+            "lon": 19.586617,
+            "timestamp": "2022-01-30T17:29:51Z",
+            "version": 2,
+            "changeset": 116789955,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
-                "defibrillator:location": "Respirator jest umieszczony na zewnątrz budynku STRAŻY",
+                "access": "yes",
+                "defibrillator:location": "Ściana budynku od strony głównej ulicy",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Wola Filipowska",
+                "phone": "+48 508052467"
             }
         },
         {
@@ -27339,6 +27343,124 @@
                 "defibrillator:location:en": "On the front wall OSP Mrzeżyno (fire station).",
                 "emergency": "defibrillator",
                 "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460707852,
+            "lat": 52.1174297,
+            "lon": 16.1129846,
+            "timestamp": "2022-01-30T17:11:08Z",
+            "version": 1,
+            "changeset": 116789331,
+            "user": "wojtekd",
+            "uid": 14977908,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460707853,
+            "lat": 52.1120113,
+            "lon": 16.1053423,
+            "timestamp": "2022-01-30T17:11:08Z",
+            "version": 1,
+            "changeset": 116789331,
+            "user": "wojtekd",
+            "uid": 14977908,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460707854,
+            "lat": 52.11823,
+            "lon": 16.1257514,
+            "timestamp": "2022-01-30T17:11:08Z",
+            "version": 1,
+            "changeset": 116789331,
+            "user": "wojtekd",
+            "uid": 14977908,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460737636,
+            "lat": 50.132412,
+            "lon": 19.5867607,
+            "timestamp": "2022-01-30T17:29:51Z",
+            "version": 1,
+            "changeset": 116789955,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Wola Filipowska",
+                "phone": "+48 508052467"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460760327,
+            "lat": 50.1575355,
+            "lon": 19.6018879,
+            "timestamp": "2022-01-30T17:19:35Z",
+            "version": 1,
+            "changeset": 116789615,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Miękinia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460772038,
+            "lat": 50.1409264,
+            "lon": 19.6621722,
+            "timestamp": "2022-01-30T17:22:20Z",
+            "version": 1,
+            "changeset": 116789705,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Żbik",
+                "phone": "+48 508206407"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460783247,
+            "lat": 50.0988793,
+            "lon": 19.5755441,
+            "timestamp": "2022-01-30T17:26:04Z",
+            "version": 1,
+            "changeset": 116789841,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana przy wejściu głównym do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Rudno",
+                "phone": "+48 511684071"
             }
         }
     ]
