@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-30T19:31:36Z",
+        "timestamp_osm_base": "2022-01-30T20:31:23Z",
         "timestamp_areas_base": "2022-01-30T14:44:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28499,6 +28499,92 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Jaworki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461323495,
+            "lat": 53.7001579,
+            "lon": 16.7011332,
+            "timestamp": "2022-01-30T20:09:46Z",
+            "version": 1,
+            "changeset": 116794966,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie Starostwa",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461328719,
+            "lat": 53.6852112,
+            "lon": 16.6809399,
+            "timestamp": "2022-01-30T20:12:29Z",
+            "version": 1,
+            "changeset": 116795053,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461328771,
+            "lat": 50.0956662,
+            "lon": 19.7183587,
+            "timestamp": "2022-01-30T20:26:20Z",
+            "version": 1,
+            "changeset": 116795478,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie od strony głównej drogi",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461328772,
+            "lat": 50.0956324,
+            "lon": 19.7182046,
+            "timestamp": "2022-01-30T20:26:20Z",
+            "version": 1,
+            "changeset": 116795478,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461328917,
+            "lat": 51.1423322,
+            "lon": 17.0860054,
+            "timestamp": "2022-01-30T20:00:08Z",
+            "version": 1,
+            "changeset": 116794677,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy lewym wejściu do Auchana, w kącie Ochroniarza",
+                "defibrillator:location:en": "At the western entrance to Auchan, inside security booth",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
