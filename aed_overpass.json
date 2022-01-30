@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-30T17:31:24Z",
+        "timestamp_osm_base": "2022-01-30T18:30:59Z",
         "timestamp_areas_base": "2022-01-30T14:44:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3506,18 +3506,19 @@
         {
             "type": "node",
             "id": 8575199570,
-            "lat": 50.1321217,
-            "lon": 19.6368026,
-            "timestamp": "2021-03-30T12:43:52Z",
-            "version": 1,
-            "changeset": 101986629,
-            "user": "2-B",
-            "uid": 12083900,
+            "lat": 50.1322335,
+            "lon": 19.637095,
+            "timestamp": "2022-01-30T17:43:11Z",
+            "version": 2,
+            "changeset": 116790407,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
-                "access": "fixme",
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
-                "fixme": "location:defibrillator"
+                "operator": "OSP Krzeszowice",
+                "phone": "+48 513447683"
             }
         },
         {
@@ -5309,14 +5310,19 @@
             "id": 9233385124,
             "lat": 50.1205196,
             "lon": 19.6131835,
-            "timestamp": "2021-11-07T16:01:13Z",
-            "version": 1,
-            "changeset": 113486124,
-            "user": "niwdew",
-            "uid": 1789970,
+            "timestamp": "2022-01-30T17:55:29Z",
+            "version": 2,
+            "changeset": 116790845,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Na scianie budynku",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Tenczynek",
+                "phone": "+48 692500867"
             }
         },
         {
@@ -12480,19 +12486,23 @@
         {
             "type": "node",
             "id": 9421489417,
-            "lat": 50.1739317,
-            "lon": 19.5938605,
-            "timestamp": "2022-01-15T22:23:19Z",
-            "version": 1,
-            "changeset": 116198796,
-            "user": "Kacp3r",
-            "uid": 14862154,
+            "lat": 50.1739442,
+            "lon": 19.5938832,
+            "timestamp": "2022-01-30T17:45:52Z",
+            "version": 2,
+            "changeset": 116790504,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie przed garażami",
+                "defibrillator:location": "Ściana pomiędzy bramami garażowymi",
                 "defibrillator:location:en": "On the wall in front of the garages",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "OSP Nowa Góra",
+                "phone": "+48 502186774"
             }
         },
         {
@@ -12515,19 +12525,23 @@
         {
             "type": "node",
             "id": 9421492017,
-            "lat": 50.1749903,
-            "lon": 19.6142097,
-            "timestamp": "2022-01-15T22:24:24Z",
-            "version": 1,
-            "changeset": 116198796,
-            "user": "Kacp3r",
-            "uid": 14862154,
+            "lat": 50.1749744,
+            "lon": 19.6142224,
+            "timestamp": "2022-01-30T17:34:27Z",
+            "version": 2,
+            "changeset": 116790100,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie",
+                "defibrillator:location": "Ściana między bramami garażowymi",
                 "defibrillator:location:en": "On the wall",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "OSP Czerna",
+                "phone": "+48 605289028"
             }
         },
         {
@@ -27410,6 +27424,24 @@
         },
         {
             "type": "node",
+            "id": 9460751297,
+            "lat": 50.1437032,
+            "lon": 19.6817081,
+            "timestamp": "2022-01-30T17:38:15Z",
+            "version": 1,
+            "changeset": 116790229,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Siedlec",
+                "phone": "+48 500141462"
+            }
+        },
+        {
+            "type": "node",
             "id": 9460760327,
             "lat": 50.1575355,
             "lon": 19.6018879,
@@ -27461,6 +27493,162 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Rudno",
                 "phone": "+48 511684071"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460787754,
+            "lat": 50.143628,
+            "lon": 19.6816916,
+            "timestamp": "2022-01-30T17:38:15Z",
+            "version": 2,
+            "changeset": 116790229,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Siedlec",
+                "phone": "+48 500141462"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460794842,
+            "lat": 50.1945373,
+            "lon": 19.5740993,
+            "timestamp": "2022-01-30T17:39:59Z",
+            "version": 1,
+            "changeset": 116790293,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Ostrężnica",
+                "phone": "+48 503851242"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460824657,
+            "lat": 50.0803732,
+            "lon": 19.5973133,
+            "timestamp": "2022-01-30T17:53:26Z",
+            "version": 1,
+            "changeset": 116790783,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana między bramami garażowymi",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Zalas",
+                "phone": "+48 662424951"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460827743,
+            "lat": 50.1774267,
+            "lon": 19.6523298,
+            "timestamp": "2022-01-30T17:49:02Z",
+            "version": 1,
+            "changeset": 116790611,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana obok bramy garażowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Paczółtowice",
+                "phone": "+48 501527213;+48 505776025"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460827744,
+            "lat": 50.1774279,
+            "lon": 19.6524425,
+            "timestamp": "2022-01-30T17:49:02Z",
+            "version": 1,
+            "changeset": 116790611,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy Renault Master",
+                "emergency": "defibrillator",
+                "operator": "OSP Paczółtowice",
+                "phone": "+48 501527213;+48 505776025"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460851288,
+            "lat": 50.1172588,
+            "lon": 19.6691696,
+            "timestamp": "2022-01-30T17:58:45Z",
+            "version": 1,
+            "changeset": 116790963,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok bramy garażowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Nawojowa Góra",
+                "phone": "+48 608089333"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9460856848,
+            "lat": 50.1833837,
+            "lon": 18.762412,
+            "timestamp": "2022-01-30T18:04:28Z",
+            "version": 1,
+            "changeset": 116791172,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Naprzeciw dyżurki portierów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 07:00-15:00; We 07:00-17:00; Fr 07:00-13:00",
+                "operator": "Urząd Gminy Ornontowice",
+                "phone": "+48 323306200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9461091817,
+            "lat": 52.2415917,
+            "lon": 20.9347104,
+            "timestamp": "2022-01-30T18:21:33Z",
+            "version": 1,
+            "changeset": 116791699,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Luxmed, piętro 4, oddział dla dzieci chorych",
+                "defibrillator:location:en": "Luxmed, floor 4, a department for sick children",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
