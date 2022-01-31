@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T17:31:24Z",
+        "timestamp_osm_base": "2022-01-31T18:32:09Z",
         "timestamp_areas_base": "2022-01-31T12:57:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28634,6 +28634,230 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Serpelice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764387,
+            "lat": 52.3920023,
+            "lon": 20.9259431,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764388,
+            "lat": 52.4074069,
+            "lon": 20.9183371,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764389,
+            "lat": 52.4116864,
+            "lon": 20.9178599,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764390,
+            "lat": 52.3958616,
+            "lon": 20.9304703,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764391,
+            "lat": 52.4101663,
+            "lon": 20.9486055,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764392,
+            "lat": 52.4037498,
+            "lon": 20.9554623,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764393,
+            "lat": 52.4079746,
+            "lon": 20.9510588,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764394,
+            "lat": 52.3917713,
+            "lon": 20.9184407,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764395,
+            "lat": 52.4035558,
+            "lon": 20.9502654,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764396,
+            "lat": 52.397435,
+            "lon": 20.9338358,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764397,
+            "lat": 52.406524,
+            "lon": 20.9188331,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764398,
+            "lat": 52.4107065,
+            "lon": 20.9477433,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764399,
+            "lat": 52.4116813,
+            "lon": 20.9577665,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764400,
+            "lat": 52.40269,
+            "lon": 20.9278489,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764401,
+            "lat": 52.3999811,
+            "lon": 20.9176301,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463764402,
+            "lat": 52.4218584,
+            "lon": 20.9390317,
+            "timestamp": "2022-01-31T17:43:34Z",
+            "version": 1,
+            "changeset": 116833098,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "emergency": "defibrillator"
             }
         }
     ]
