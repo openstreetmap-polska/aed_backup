@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T12:30:52Z",
-        "timestamp_areas_base": "2022-01-31T09:55:50Z",
+        "timestamp_osm_base": "2022-01-31T13:31:39Z",
+        "timestamp_areas_base": "2022-01-31T12:57:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -16614,14 +16614,14 @@
             "id": 9436470118,
             "lat": 51.1183867,
             "lon": 16.9968305,
-            "timestamp": "2022-01-21T10:29:27Z",
-            "version": 1,
-            "changeset": 116423799,
-            "user": "Marcin Szaro",
-            "uid": 14905510,
+            "timestamp": "2022-01-31T13:16:28Z",
+            "version": 2,
+            "changeset": 116823496,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "na scianie przy wejsciu",
+                "defibrillator:location": "na ścianie przy wejściu",
                 "emergency": "defibrillator",
                 "location": "indoor"
             }
@@ -28601,6 +28601,37 @@
             "tags": {
                 "defibrillator:location": "Samochód  ratowniczo - gaśniczy",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463191380,
+            "lat": 52.2787915,
+            "lon": 23.0520778,
+            "timestamp": "2022-01-31T13:27:42Z",
+            "version": 1,
+            "changeset": 116823888,
+            "user": "edukator_informatyki",
+            "uid": 14984389,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9463191381,
+            "lat": 52.2788014,
+            "lon": 23.05214,
+            "timestamp": "2022-01-31T13:27:42Z",
+            "version": 1,
+            "changeset": 116823888,
+            "user": "edukator_informatyki",
+            "uid": 14984389,
+            "tags": {
+                "defibrillator:location": "Wyposażenie pojazdu ratowniczo - gaśniczego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Serpelice"
             }
         }
     ]
