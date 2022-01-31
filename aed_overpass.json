@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T07:32:18Z",
-        "timestamp_areas_base": "2022-01-31T06:53:55Z",
+        "timestamp_osm_base": "2022-01-31T08:31:54Z",
+        "timestamp_areas_base": "2022-01-31T07:53:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14478,18 +14478,19 @@
         {
             "type": "node",
             "id": 9425617117,
-            "lat": 53.1242408,
-            "lon": 18.0181247,
-            "timestamp": "2022-01-17T14:01:43Z",
-            "version": 1,
-            "changeset": 116255999,
+            "lat": 53.1238901,
+            "lon": 18.0182138,
+            "timestamp": "2022-01-31T08:17:43Z",
+            "version": 3,
+            "changeset": 116810842,
             "user": "rkonkolewska",
             "uid": 14874958,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Punkt Informacji",
+                "defibrillator:location": "Centrum Handlowe Focus - Punkt Informacji",
                 "defibrillator:location:en": "Information point",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor",
                 "phone": "+48 525543500"
             }
@@ -14516,14 +14517,14 @@
             "id": 9425631117,
             "lat": 53.1248419,
             "lon": 18.0173189,
-            "timestamp": "2022-01-17T14:05:21Z",
-            "version": 1,
-            "changeset": 116255999,
+            "timestamp": "2022-01-31T08:16:40Z",
+            "version": 2,
+            "changeset": 116810791,
             "user": "rkonkolewska",
             "uid": 14874958,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Biuro monitoringu ochrony (poziom 1)",
+                "defibrillator:location": "Centrum Handlowe Focus - Biuro monitoringu ochrony (poziom 1)",
                 "defibrillator:location:en": "Security office (first floor)",
                 "emergency": "defibrillator",
                 "location": "indoor",
