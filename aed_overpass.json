@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T09:31:37Z",
-        "timestamp_areas_base": "2022-01-31T07:53:27Z",
+        "timestamp_osm_base": "2022-01-31T10:31:23Z",
+        "timestamp_areas_base": "2022-01-31T09:55:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28586,6 +28586,21 @@
                 "defibrillator:location:en": "At the western entrance to Auchan, inside security booth",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9462715217,
+            "lat": 53.0322108,
+            "lon": 21.7300446,
+            "timestamp": "2022-01-31T10:16:01Z",
+            "version": 1,
+            "changeset": 116815685,
+            "user": "Rodrige",
+            "uid": 14983304,
+            "tags": {
+                "defibrillator:location": "Samochód  ratowniczo - gaśniczy",
+                "emergency": "defibrillator"
             }
         }
     ]
