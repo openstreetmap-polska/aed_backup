@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T20:31:38Z",
-        "timestamp_areas_base": "2022-01-31T12:57:08Z",
+        "timestamp_osm_base": "2022-01-31T21:31:24Z",
+        "timestamp_areas_base": "2022-01-31T21:02:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28858,6 +28858,42 @@
             "uid": 4026498,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9464285606,
+            "lat": 50.7847358,
+            "lon": 18.9631454,
+            "timestamp": "2022-01-31T20:43:33Z",
+            "version": 1,
+            "changeset": 116839400,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Blachownia",
+                "phone": "+48 609220716"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9464306612,
+            "lat": 50.7827633,
+            "lon": 18.8996264,
+            "timestamp": "2022-01-31T20:45:12Z",
+            "version": 1,
+            "changeset": 116839466,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Cisie",
+                "phone": "+48 600818445"
             }
         }
     ]
