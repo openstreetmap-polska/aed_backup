@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-01-31T16:31:38Z",
+        "timestamp_osm_base": "2022-01-31T17:31:24Z",
         "timestamp_areas_base": "2022-01-31T12:57:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28605,33 +28605,18 @@
         },
         {
             "type": "node",
-            "id": 9463175019,
-            "lat": 52.2787823,
-            "lon": 23.0521462,
-            "timestamp": "2022-01-31T13:35:21Z",
-            "version": 1,
-            "changeset": 116824196,
-            "user": "edukator_informatyki",
-            "uid": 14984389,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Na wyposażeniu pojazdu ratowniczo - gaśniczego",
-                "emergency": "defibrillator",
-                "location": "indoor"
-            }
-        },
-        {
-            "type": "node",
             "id": 9463191380,
             "lat": 52.2787915,
             "lon": 23.0520778,
-            "timestamp": "2022-01-31T13:27:42Z",
-            "version": 1,
-            "changeset": 116823888,
+            "timestamp": "2022-01-31T16:32:46Z",
+            "version": 2,
+            "changeset": 116830881,
             "user": "edukator_informatyki",
             "uid": 14984389,
             "tags": {
-                "emergency": "defibrillator"
+                "defibrillator:location": "Na ścianie przy bramie wjazdowej OSP Serpelice. W momencie otwarcia skrzynki załączy się syrena alarmowa.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
