@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T19:31:12Z",
-        "timestamp_areas_base": "2022-02-01T19:16:55Z",
+        "timestamp_osm_base": "2022-02-01T20:30:58Z",
+        "timestamp_areas_base": "2022-02-01T20:17:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -29875,18 +29875,17 @@
             "id": 9466790182,
             "lat": 50.9445406,
             "lon": 17.294444,
-            "timestamp": "2022-02-01T18:55:29Z",
-            "version": 1,
-            "changeset": 116880761,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-01T20:29:33Z",
+            "version": 2,
+            "changeset": 116884074,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Defibrylator zawieszony jest na ścianie na I piętrze",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Urząd Miasta",
-                "opening_hours": "Mo,Tu,Th 8:00-15:00; Wed 8:00-17:00; Fr 8:00-14:00",
+                "opening_hours": "Mo-Th 08:00-15:00; We 08:00-17:00; Fr 08:00-14:00",
                 "operator": "Urzędu Miejskiego w Oławie",
                 "phone": "+48 71 303 55 01"
             }
@@ -29937,17 +29936,17 @@
             "id": 9466850486,
             "lat": 51.0487196,
             "lon": 17.2361187,
-            "timestamp": "2022-02-01T18:56:57Z",
-            "version": 1,
-            "changeset": 116880798,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-01T20:29:33Z",
+            "version": 2,
+            "changeset": 116884074,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku na I piętrze",
                 "emergency": "defibrillator",
+                "floor": "1",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Urząd Gminy",
                 "operator": "Gmina Czernica",
                 "phone": "+48 717 25 57 00"
             }
@@ -30071,6 +30070,26 @@
         },
         {
             "type": "node",
+            "id": 9466912495,
+            "lat": 50.7040251,
+            "lon": 19.0394221,
+            "timestamp": "2022-02-01T19:36:17Z",
+            "version": 1,
+            "changeset": 116881960,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "77",
+                "addr:place": "Rększowice",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Rększowice",
+                "phone": "+48 781790494"
+            }
+        },
+        {
+            "type": "node",
             "id": 9466913793,
             "lat": 54.188283,
             "lon": 16.1934858,
@@ -30111,6 +30130,43 @@
                 "emergency": "defibrillator",
                 "operator": "OSP Aleksandria",
                 "phone": "+48 790552645"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466931729,
+            "lat": 50.7260395,
+            "lon": 19.0055303,
+            "timestamp": "2022-02-01T19:31:25Z",
+            "version": 1,
+            "changeset": 116881784,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "addr:city": "Konopiska",
+                "addr:housenumber": "20",
+                "addr:street": "Opolska",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Konopiska",
+                "phone": "+48 507437939"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466944394,
+            "lat": 50.1610722,
+            "lon": 19.4666816,
+            "timestamp": "2022-02-01T19:51:43Z",
+            "version": 1,
+            "changeset": 116882512,
+            "user": "TheWartek",
+            "uid": 583969,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Liceum Ogólnokształcące w Trzebini"
             }
         }
     ]
