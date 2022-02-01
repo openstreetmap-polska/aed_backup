@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T09:31:55Z",
-        "timestamp_areas_base": "2022-02-01T09:09:38Z",
+        "timestamp_osm_base": "2022-02-01T10:31:42Z",
+        "timestamp_areas_base": "2022-02-01T10:10:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28894,6 +28894,25 @@
                 "defibrillator:location:en": "At Public Transport Service Point at -1 floor level.",
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9465554819,
+            "lat": 52.4404355,
+            "lon": 16.9186701,
+            "timestamp": "2022-02-01T09:49:04Z",
+            "version": 1,
+            "changeset": 116859832,
+            "user": "m@rio",
+            "uid": 576108,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W biurze ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Poznań Plaza",
+                "phone": "+48 61 659 74 94"
             }
         }
     ]
