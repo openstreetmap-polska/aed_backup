@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T11:31:17Z",
+        "timestamp_osm_base": "2022-02-01T12:31:52Z",
         "timestamp_areas_base": "2022-02-01T10:10:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28913,6 +28913,23 @@
                 "indoor": "yes",
                 "operator": "Poznań Plaza",
                 "phone": "+48 61 659 74 94"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9465999517,
+            "lat": 53.0381087,
+            "lon": 16.4555998,
+            "timestamp": "2022-02-01T12:31:40Z",
+            "version": 1,
+            "changeset": 116866684,
+            "user": "Szymon Henszke",
+            "uid": 14991692,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Jednostka Ratowniczo Gaśnicza w Trzciance",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
