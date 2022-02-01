@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T18:32:10Z",
-        "timestamp_areas_base": "2022-02-01T18:15:01Z",
+        "timestamp_osm_base": "2022-02-01T19:31:12Z",
+        "timestamp_areas_base": "2022-02-01T19:16:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -791,15 +791,19 @@
             "id": 4430364323,
             "lat": 54.1767545,
             "lon": 15.5763864,
-            "timestamp": "2016-10-04T07:54:16Z",
-            "version": 1,
-            "changeset": 42622229,
-            "user": "taxi301",
-            "uid": 657596,
+            "timestamp": "2022-02-01T19:10:38Z",
+            "version": 2,
+            "changeset": 116881163,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
+                "access": "customers",
+                "addr:city": "Kołobrzeg",
+                "addr:housenumber": "13",
+                "addr:street": "Ratuszowa",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 09:00-15:30",
+                "opening_hours": "Mo-Fr 08:00-15:30",
                 "wheelchair": "no"
             }
         },
@@ -13217,16 +13221,16 @@
         {
             "type": "node",
             "id": 9423700247,
-            "lat": 52.5999294,
-            "lon": 15.5015823,
-            "timestamp": "2022-01-16T21:18:55Z",
-            "version": 1,
-            "changeset": 116229341,
-            "user": "Aim311",
-            "uid": 4493657,
+            "lat": 52.5999199,
+            "lon": 15.5015562,
+            "timestamp": "2022-02-01T19:06:14Z",
+            "version": 2,
+            "changeset": 116881039,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "we wnęce na ścianie",
+                "defibrillator:location": "Przy wejściu do Urzędu Miejskiego po lewej stronie",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
@@ -29804,6 +29808,309 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta w Radomsku, Wydział Bezpieczeństwa i Porządku",
                 "phone": "+48 44 681 00 01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466765049,
+            "lat": 51.3964138,
+            "lon": 17.4801505,
+            "timestamp": "2022-02-01T18:44:28Z",
+            "version": 1,
+            "changeset": 116880409,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
+                "opening_hours": "Tu-Th 11:00-14:00; Mo,Fr 08:00-14:00; Wed 08:00-15:00",
+                "operator": "SZPZOZ w Twardogórze",
+                "phone": "+48 71 315 80 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466780186,
+            "lat": 53.1252162,
+            "lon": 14.3904625,
+            "timestamp": "2022-02-01T19:14:26Z",
+            "version": 1,
+            "changeset": 116881264,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "addr:city": "Widuchowa",
+                "addr:housenumber": "4",
+                "addr:street": "Robotnicza",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Widuchowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466787286,
+            "lat": 50.9192325,
+            "lon": 15.733182,
+            "timestamp": "2022-02-01T18:50:15Z",
+            "version": 1,
+            "changeset": 116880604,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "znajduje się na 1 piętrze budynku na korytarzu Wydziału Architektury, zawieszone na ścianie, ogólnodostępne",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
+                "opening_hours": "Mo,Tu,Th 7:30-15:30; Wed 7:30-16:30; Fr 7:30-14:30",
+                "operator": "Starostwo Powiatowe w Jeleniej Górze"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466790182,
+            "lat": 50.9445406,
+            "lon": 17.294444,
+            "timestamp": "2022-02-01T18:55:29Z",
+            "version": 1,
+            "changeset": 116880761,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator zawieszony jest na ścianie na I piętrze",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Urząd Miasta",
+                "opening_hours": "Mo,Tu,Th 8:00-15:00; Wed 8:00-17:00; Fr 8:00-14:00",
+                "operator": "Urzędu Miejskiego w Oławie",
+                "phone": "+48 71 303 55 01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466824323,
+            "lat": 51.4499462,
+            "lon": 20.4648025,
+            "timestamp": "2022-02-01T19:23:56Z",
+            "version": 2,
+            "changeset": 116881556,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku, na parterze, na końcu holu głównego przy Sali stowarzyszeń",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 8:00-20:00; Sa 9:00-17:00",
+                "operator": "RCK Drzewica",
+                "phone": "+48 733070389"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466824325,
+            "lat": 51.2056743,
+            "lon": 17.3768471,
+            "timestamp": "2022-02-01T19:03:24Z",
+            "version": 1,
+            "changeset": 116880970,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w zamontowanej skrzynce na AED wewnętrz budynku starostwa na parterze budynku wchodząc głównym wejściem.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Starostwo Powiatowe w Oleśnicy",
+                "phone": "+48 71 314 01 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466850486,
+            "lat": 51.0487196,
+            "lon": 17.2361187,
+            "timestamp": "2022-02-01T18:56:57Z",
+            "version": 1,
+            "changeset": 116880798,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku na I piętrze",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Urząd Gminy",
+                "operator": "Gmina Czernica",
+                "phone": "+48 717 25 57 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466869307,
+            "lat": 51.411097,
+            "lon": 19.6871661,
+            "timestamp": "2022-02-01T19:22:27Z",
+            "version": 2,
+            "changeset": 116881501,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście do budynku od strony ul. Grota Roweckiego (od strony dworca autobusowego), urządzenie zawieszone na ścianie - okolice portierni (pytać portiera)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Starostwo Powiatowe w Piotrkowie Trybunalskim",
+                "phone": "+48 44 732 88 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466870667,
+            "lat": 51.3673027,
+            "lon": 17.4723505,
+            "timestamp": "2022-02-01T19:20:05Z",
+            "version": 2,
+            "changeset": 116881435,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "opening_hours": "08:00-18:00",
+                "operator": "SZPZOZ w Twardogórze",
+                "phone": "+48 71 315 80 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466870927,
+            "lat": 51.2206286,
+            "lon": 18.568627,
+            "timestamp": "2022-02-01T18:58:02Z",
+            "version": 1,
+            "changeset": 116880831,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku kina (w holu po lewej stronie)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Kino",
+                "opening_hours": "Mo-Su 13:00-21:00",
+                "phone": "+48 43 656 44 66"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466876891,
+            "lat": 51.1271097,
+            "lon": 17.5416331,
+            "timestamp": "2022-02-01T19:13:37Z",
+            "version": 2,
+            "changeset": 116881246,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "zamontowane za zewnątrz budynku przy wejściu go hali sportowo-widowiskowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Bierutowie",
+                "phone": "+48 71 314 64 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466889991,
+            "lat": 51.2193807,
+            "lon": 18.5720703,
+            "timestamp": "2022-02-01T19:11:31Z",
+            "version": 1,
+            "changeset": 116881184,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku w części zajmowanej przez Urząd Miejski w Wieluniu (po lewej stronie)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "phone": "+48 43 886 02 34"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466894921,
+            "lat": 51.5020018,
+            "lon": 16.0649623,
+            "timestamp": "2022-02-01T19:10:23Z",
+            "version": 1,
+            "changeset": 116881153,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "defibrillator:location": "Budynek Starostwa Powiatowego w Polkowicach, wejście od strony północnej - hol",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Starostwo Powiatowe w Polkowicach",
+                "phone": "+48 76 7461500"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466913793,
+            "lat": 54.188283,
+            "lon": 16.1934858,
+            "timestamp": "2022-02-01T19:19:38Z",
+            "version": 1,
+            "changeset": 116881422,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "addr:city": "Koszalin",
+                "addr:housenumber": "13",
+                "addr:street": "Racławicka",
+                "defibrillator:location": "Na ścianie budynku po prawej stronie od wejścia przy czytniku kart pracowników",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:30",
+                "operator": "Starostwo Powiatowe w Koszalinie",
+                "phone": "+48 947140240"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466918858,
+            "lat": 50.7375924,
+            "lon": 18.954182,
+            "timestamp": "2022-02-01T19:26:54Z",
+            "version": 1,
+            "changeset": 116881644,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "addr:city": "Aleksandria Druga",
+                "addr:housenumber": "146",
+                "addr:street": "Gościnna",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Aleksandria",
+                "phone": "+48 790552645"
             }
         }
     ]
