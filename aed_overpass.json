@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T16:31:57Z",
+        "timestamp_osm_base": "2022-02-01T17:31:27Z",
         "timestamp_areas_base": "2022-02-01T10:10:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -29763,6 +29763,47 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Rymanów-Zdrój"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466567477,
+            "lat": 52.3442799,
+            "lon": 14.8390075,
+            "timestamp": "2022-02-01T16:44:45Z",
+            "version": 1,
+            "changeset": 116876318,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "Wewnątrz, przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Urząd Miasta",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Miejski w Rzepinie",
+                "phone": "+48 696385211"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9466574095,
+            "lat": 51.0627262,
+            "lon": 19.4331095,
+            "timestamp": "2022-02-01T16:49:32Z",
+            "version": 1,
+            "changeset": 116876535,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "ściana w poczekalni budynku na wprost drzwi wejściowych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Policja",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta w Radomsku, Wydział Bezpieczeństwa i Porządku",
+                "phone": "+48 44 681 00 01"
             }
         }
     ]
