@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-01T01:32:23Z",
-        "timestamp_areas_base": "2022-02-01T01:06:02Z",
+        "timestamp_osm_base": "2022-02-01T02:31:52Z",
+        "timestamp_areas_base": "2022-02-01T02:06:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22729,24 +22729,6 @@
         },
         {
             "type": "node",
-            "id": 9445590180,
-            "lat": 49.421713,
-            "lon": 20.4889022,
-            "timestamp": "2022-01-24T19:27:56Z",
-            "version": 1,
-            "changeset": 116555893,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Szczawnica"
-            }
-        },
-        {
-            "type": "node",
             "id": 9445590181,
             "lat": 49.4073645,
             "lon": 20.5532423,
@@ -28463,13 +28445,13 @@
         {
             "type": "node",
             "id": 9461245961,
-            "lat": 49.421713,
-            "lon": 20.4889022,
-            "timestamp": "2022-01-30T19:26:47Z",
-            "version": 1,
-            "changeset": 116793727,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.4217148,
+            "lon": 20.4889036,
+            "timestamp": "2022-02-01T02:24:05Z",
+            "version": 2,
+            "changeset": 116846351,
+            "user": "B_KSL",
+            "uid": 553541,
             "tags": {
                 "access": "private",
                 "addr:city": "Szczawnica",
