@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T08:31:20Z",
-        "timestamp_areas_base": "2022-02-02T08:24:04Z",
+        "timestamp_osm_base": "2022-02-02T09:32:10Z",
+        "timestamp_areas_base": "2022-02-02T09:25:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -15541,17 +15541,16 @@
             "id": 9428489217,
             "lat": 50.0277215,
             "lon": 22.0481514,
-            "timestamp": "2022-01-18T14:13:16Z",
-            "version": 1,
-            "changeset": 116301025,
+            "timestamp": "2022-02-02T08:52:50Z",
+            "version": 2,
+            "changeset": 116902248,
             "user": "Kapelan328",
             "uid": 2272391,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W samochodach OSP",
                 "emergency": "defibrillator",
-                "location": "indoor",
-                "phone": "723521434"
+                "location": "indoor"
             }
         },
         {
@@ -30010,21 +30009,22 @@
         {
             "type": "node",
             "id": 9466876891,
-            "lat": 51.1271097,
-            "lon": 17.5416331,
-            "timestamp": "2022-02-01T19:13:37Z",
-            "version": 2,
-            "changeset": 116881246,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 51.1268665,
+            "lon": 17.5405214,
+            "timestamp": "2022-02-02T09:03:02Z",
+            "version": 3,
+            "changeset": 116902632,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "zamontowane za zewnątrz budynku przy wejściu go hali sportowo-widowiskowej",
+                "defibrillator:location": "zamontowany na zewnątrz budynku przy wejściu do hali sportowo-widowiskowej",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Bierutowie",
-                "phone": "+48 71 314 64 71"
+                "phone": "+48 71 314 64 71",
+                "url": "https://www.burmistrzpiotrsawicki.pl/pierwszy-stacjonarny-defibrylator-aed-w-naszym-miescie/"
             }
         },
         {
