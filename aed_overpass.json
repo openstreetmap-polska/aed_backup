@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T17:31:25Z",
-        "timestamp_areas_base": "2022-02-02T17:29:25Z",
+        "timestamp_osm_base": "2022-02-02T18:32:12Z",
+        "timestamp_areas_base": "2022-02-02T18:31:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -30268,9 +30268,9 @@
             "id": 9467063789,
             "lat": 52.2398783,
             "lon": 19.3586999,
-            "timestamp": "2022-02-01T20:40:43Z",
-            "version": 1,
-            "changeset": 116884613,
+            "timestamp": "2022-02-02T18:31:28Z",
+            "version": 2,
+            "changeset": 116930658,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -30278,7 +30278,6 @@
                 "defibrillator:location": "Hol przy głównym wejściu do szkoły",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Szkoła",
                 "opening_hours": "Mo-Fr 7:00-20:00",
                 "operator": "SP",
                 "phone": "+48 242547072"
@@ -30399,6 +30398,263 @@
                 "location": "indoor",
                 "opening_hours": "Mo-Th 07:30-15:30; We 08:30-16:30",
                 "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469302078,
+            "lat": 51.0366031,
+            "lon": 19.6232662,
+            "timestamp": "2022-02-02T18:04:34Z",
+            "version": 1,
+            "changeset": 116929694,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie przenośne znajdujące się w budynku",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "operator": "Gminny Ośrodek Zdrowia w Kobielach Wielkich",
+                "phone": "+48 48 44 681 44 64"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469322680,
+            "lat": 52.2353511,
+            "lon": 19.3638606,
+            "timestamp": "2022-02-02T18:14:43Z",
+            "version": 1,
+            "changeset": 116930070,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "1 szt. Defibrylatora znajduje się w budynku I LO w magazynie OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Szkoła",
+                "opening_hours": "Mo-Fr 07:00-20:00",
+                "operator": "OSP Dąbrowszczak",
+                "phone": "+48 606258097"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469322681,
+            "lat": 52.2354453,
+            "lon": 19.3636035,
+            "timestamp": "2022-02-02T18:14:43Z",
+            "version": 1,
+            "changeset": 116930070,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "sekretariat szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-20:00",
+                "operator": "LO",
+                "phone": "+48 243558080"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469324404,
+            "lat": 51.3848242,
+            "lon": 17.5771101,
+            "timestamp": "2022-02-02T18:07:15Z",
+            "version": 1,
+            "changeset": 116929791,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat szkoły, parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:00-15:00",
+                "operator": "Szkoła Podstawowa w Bukowinie Sycowskiej",
+                "phone": "+48 62 785 65 26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469332806,
+            "lat": 51.3438411,
+            "lon": 17.408729,
+            "timestamp": "2022-02-02T18:09:35Z",
+            "version": 1,
+            "changeset": 116929879,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo 08:30-14:00; Tu 08:00-14:00; We 08:00-13:00; Th 08:30-14:00; Fr 12:00-18:00",
+                "operator": "SZPZOZ w Twardogórze",
+                "phone": "+48 72 315 80 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469333772,
+            "lat": 51.5866352,
+            "lon": 18.7141574,
+            "timestamp": "2022-02-02T18:12:40Z",
+            "version": 1,
+            "changeset": 116929996,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro obsługi interesanta na parterze w budynku urzędu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 7:30-15:30",
+                "operator": "Urząd Gminy Sieradz",
+                "phone": "+48 43 827 55 50"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469350865,
+            "lat": 51.0594192,
+            "lon": 19.4484564,
+            "timestamp": "2022-02-02T18:26:58Z",
+            "version": 1,
+            "changeset": 116930481,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "urządzenie zamontowane wewnątrz budynku, na ścianie po lewej stronie w holu głównego wejści",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Starostwo Powiatowe w Radomsku",
+                "phone": "+48 508 144 487"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469357010,
+            "lat": 51.4083523,
+            "lon": 19.6889584,
+            "timestamp": "2022-02-02T18:25:45Z",
+            "version": 1,
+            "changeset": 116930441,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście główne do budynku od strony ul. Sienkiewicza, urządzenie zawieszone na ścianie - okolice portierni (pytać portiera)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Starostwo Powiatowe w Piotrkowie Trybunalskim",
+                "phone": "+48 45 732 88 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469360807,
+            "lat": 51.3663554,
+            "lon": 17.461861,
+            "timestamp": "2022-02-02T18:19:37Z",
+            "version": 1,
+            "changeset": 116930217,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Obiekt znajduje się przy hali sportowo – widowiskowej oraz szkole podstawowej nr 2 w Twardogórze Wewnątrz budynku w recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 14:00-22:00",
+                "operator": "Gminny Ośrodek Sportu i Rekreacji w Twardogórze",
+                "phone": "+48 783 005 666"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469365509,
+            "lat": 52.2076867,
+            "lon": 19.5770419,
+            "timestamp": "2022-02-02T18:22:41Z",
+            "version": 1,
+            "changeset": 116930319,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do przychodni",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Bedlno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469365648,
+            "lat": 51.4016496,
+            "lon": 19.6911707,
+            "timestamp": "2022-02-02T18:17:36Z",
+            "version": 1,
+            "changeset": 116930155,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście główne do budynku od strony dziedzińca wewnętrznego, urządzenie zawieszone na ścianie - okolice portierni (pytać portiera)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Starostwo Powiatowe w Piotrkowie Trybunalskim",
+                "phone": "+48 46 732 88 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469386326,
+            "lat": 51.0641769,
+            "lon": 19.4477037,
+            "timestamp": "2022-02-02T18:29:37Z",
+            "version": 1,
+            "changeset": 116930578,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana frontowa budynku urzędu obok głównego wejścia",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta w Radomsku, Wydział Bezpieczeństwa i Porządku",
+                "phone": "+48 44 681 00 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469386568,
+            "lat": 51.2746065,
+            "lon": 16.3655907,
+            "timestamp": "2022-02-02T18:28:44Z",
+            "version": 1,
+            "changeset": 116930539,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W gabinecie zapiekowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Gabinet Zabiegowy"
             }
         }
     ]
