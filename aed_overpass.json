@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T12:31:23Z",
+        "timestamp_osm_base": "2022-02-02T13:31:10Z",
         "timestamp_areas_base": "2022-02-02T12:26:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -29834,16 +29834,13 @@
             "id": 9466780186,
             "lat": 53.1252162,
             "lon": 14.3904625,
-            "timestamp": "2022-02-01T19:14:26Z",
-            "version": 1,
-            "changeset": 116881264,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-02T12:56:20Z",
+            "version": 2,
+            "changeset": 116912406,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
-                "addr:city": "Widuchowa",
-                "addr:housenumber": "4",
-                "addr:street": "Robotnicza",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "operator": "OSP Widuchowa"
