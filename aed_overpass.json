@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T18:32:12Z",
+        "timestamp_osm_base": "2022-02-02T19:30:58Z",
         "timestamp_areas_base": "2022-02-02T18:31:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -30578,6 +30578,25 @@
                 "opening_hours": "Mo-Su 14:00-22:00",
                 "operator": "Gminny Ośrodek Sportu i Rekreacji w Twardogórze",
                 "phone": "+48 783 005 666"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9469364801,
+            "lat": 50.9019982,
+            "lon": 15.7489051,
+            "timestamp": "2022-02-02T18:34:51Z",
+            "version": 1,
+            "changeset": 116930768,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "znajduje się na parterze budynku w Kancelarii Ogólnej (po lewej stronie od wejścia głównego do budynku), zawieszone na ścianie, ogólnodostępne",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo,Tu,Th 07:30-15:30; We 07:30-16:30; Fr 07:30-14:30",
+                "operator": "Starostwo Powiatowe w Jeleniej Górze"
             }
         },
         {
