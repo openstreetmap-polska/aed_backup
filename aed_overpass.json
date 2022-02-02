@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T22:31:25Z",
-        "timestamp_areas_base": "2022-02-02T20:31:51Z",
+        "timestamp_osm_base": "2022-02-02T23:31:11Z",
+        "timestamp_areas_base": "2022-02-02T22:33:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -30691,6 +30691,24 @@
                 "image": "https://photos.app.goo.gl/8uNesB9MwWk3V2hp6",
                 "phone": "+48 58 778 60 00",
                 "phone_1": "+48 693 813 060"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9470094717,
+            "lat": 50.0535736,
+            "lon": 21.9463264,
+            "timestamp": "2022-02-02T22:45:54Z",
+            "version": 1,
+            "changeset": 116938802,
+            "user": "OSP Rzeszów-Przybyszówka",
+            "uid": 14896298,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Remiza OSP Rzeszów-Przybyszówka samochód GBA nr operacyjny 328R99",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "phone": "112/998"
             }
         }
     ]
