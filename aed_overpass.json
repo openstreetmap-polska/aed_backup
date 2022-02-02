@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T11:31:40Z",
-        "timestamp_areas_base": "2022-02-02T10:25:52Z",
+        "timestamp_osm_base": "2022-02-02T12:31:23Z",
+        "timestamp_areas_base": "2022-02-02T12:26:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6717,12 +6717,13 @@
             "id": 9344502046,
             "lat": 51.4089151,
             "lon": 21.1475552,
-            "timestamp": "2021-12-26T19:19:04Z",
-            "version": 2,
-            "changeset": 115397147,
+            "timestamp": "2022-02-02T11:39:16Z",
+            "version": 3,
+            "changeset": 116909308,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
+                "defibrillator:location": "W budynku Mazowieckiego Wojewódzkiego Ośrodka Medycyny Pracy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -30359,6 +30360,26 @@
                 "emergency": "defibrillator",
                 "location": "indoor",
                 "phone": "+48683513861"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9468389517,
+            "lat": 51.262726,
+            "lon": 17.3393208,
+            "timestamp": "2022-02-02T11:35:52Z",
+            "version": 2,
+            "changeset": 116909172,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W kapsule na ścianie budynku przy Urzędzie Gminy",
+                "defibrillator:location:en": "On the wall of the building near commune office",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "source": "https://sycow.naszemiasto.pl/gmina-dobroszyce-kolejny-defibrylator-aed-w-powiecie/ar/c14-8659665"
             }
         }
     ]
