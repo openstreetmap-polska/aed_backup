@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-02T10:31:54Z",
+        "timestamp_osm_base": "2022-02-02T11:31:40Z",
         "timestamp_areas_base": "2022-02-02T10:25:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -30324,6 +30324,41 @@
                 "opening_hours": "Mo-Fr 8:00-18:00",
                 "operator": "Ośrodek Zdowia Pieńsk",
                 "phone": "+48 757786344"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9468323495,
+            "lat": 53.1232365,
+            "lon": 23.1773874,
+            "timestamp": "2022-02-02T11:19:19Z",
+            "version": 1,
+            "changeset": 116908528,
+            "user": "AereBiała",
+            "uid": 14998375,
+            "tags": {
+                "defibrillator:location": "Pomieszczenie ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Atrium Biała"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9468344517,
+            "lat": 52.1618118,
+            "lon": 15.828274,
+            "timestamp": "2022-02-02T11:14:17Z",
+            "version": 1,
+            "changeset": 116908313,
+            "user": "Urząd Miejski",
+            "uid": 14998354,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W korytarzu po lewej stronie od wejścia do budynku",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "phone": "+48683513861"
             }
         }
     ]
