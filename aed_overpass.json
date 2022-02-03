@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-03T18:30:56Z",
+        "timestamp_osm_base": "2022-02-03T19:31:40Z",
         "timestamp_areas_base": "2022-02-03T17:43:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -30674,6 +30674,47 @@
                 "emergency": "defibrillator",
                 "location": "indoor",
                 "phone": "112/998"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9472310292,
+            "lat": 50.7822216,
+            "lon": 16.0352994,
+            "timestamp": "2022-02-03T18:46:47Z",
+            "version": 1,
+            "changeset": 116976469,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się na parterze w korytarzu przedszkola przy głównym wejściu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 05:30-16:30",
+                "operator": "Urząd Miasta Kamienna Góra",
+                "phone": "76 64 55 126"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9472310302,
+            "lat": 50.7803201,
+            "lon": 16.0332687,
+            "timestamp": "2022-02-03T18:46:47Z",
+            "version": 1,
+            "changeset": 116976469,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się na parterze w korytarzu szkoły przy głównym wejściu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "07:00-15:00",
+                "operator": "Urząd Miasta Kamienna Góra",
+                "phone": "77 64 55 126"
             }
         }
     ]
