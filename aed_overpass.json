@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-03T20:31:24Z",
-        "timestamp_areas_base": "2022-02-03T17:43:12Z",
+        "timestamp_osm_base": "2022-02-03T21:31:10Z",
+        "timestamp_areas_base": "2022-02-03T20:45:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -31266,6 +31266,22 @@
                 "opening_hours": "Mo-Fr 07:30-18:00",
                 "operator": "Przychodnia Rejonowa SP ZOZ",
                 "phone": "+48 75 7135 233"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9472538128,
+            "lat": 52.3382922,
+            "lon": 16.8023883,
+            "timestamp": "2022-02-03T20:58:38Z",
+            "version": 1,
+            "changeset": 116980487,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
