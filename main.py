@@ -4,9 +4,14 @@ import subprocess
 
 from time import sleep
 
+from report import create_report_md, REPORT_DIR
+
 
 QUERY_FILE = 'overpass_query.txt'
 BACKUP_FILE = 'aed_overpass.json'
+README_FILE = 'README.MD'
+
+
 BACKUP_COMMIT_MSG = 'AED update'
 
 OVERPASS_API_URL = 'https://lz4.overpass-api.de/api/interpreter'
@@ -16,7 +21,7 @@ RETRIES = 5
 
 
 def commit_and_push():
-    subprocess.run(['git', 'add', BACKUP_FILE])
+    subprocess.run(['git', 'add', BACKUP_FILE, README_FILE, REPORT_DIR])
     subprocess.run(['git', 'commit', '-m', f'{BACKUP_COMMIT_MSG}'])
     subprocess.run(['git', 'push'])
 
@@ -30,8 +35,16 @@ def backup():
             response = requests.get(OVERPASS_API_URL, params={'data': query})
             if response.status_code == 200:
                 with open(BACKUP_FILE, 'w', encoding='utf8') as f:
-                    json.dump(response.json(), f, indent=4, ensure_ascii=False)
+                    overpass_result = response.json()
+                    json.dump(overpass_result, f, indent=4, ensure_ascii=False)
 
+                try:
+                    md_content = create_report_md(overpass_result)
+                    with open(README_FILE, 'w') as f:
+                        f.write(md_content)
+
+                except Exception as e:
+                    print(f'Erro with creating report: {e}')
                 commit_and_push()
                 exit(0)
 
@@ -42,6 +55,8 @@ def backup():
             print(f'Error with downloading/parsing data: {e}')
 
         sleep(TIMEOUT)
+
+    exit(1)
 
 
 if __name__ == '__main__':
