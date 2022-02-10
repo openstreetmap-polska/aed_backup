@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-10T17:32:13Z",
-        "timestamp_areas_base": "2022-02-10T16:17:17Z",
+        "timestamp_osm_base": "2022-02-10T18:32:13Z",
+        "timestamp_areas_base": "2022-02-10T18:19:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32657,20 +32657,17 @@
             "id": 9487327457,
             "lat": 53.0421434,
             "lon": 15.306584,
-            "timestamp": "2022-02-07T16:48:37Z",
-            "version": 1,
-            "changeset": 117127401,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-10T18:10:53Z",
+            "version": 2,
+            "changeset": 117256937,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
-                "addr:city": "Pełczyce",
-                "addr:housenumber": "3",
-                "addr:street": "Pełczyk",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Pełczyce",
+                "operator": "Ochotnicza Straż Pożarna w Pełczycach",
                 "phone": "+48 604 429 457"
             }
         },
