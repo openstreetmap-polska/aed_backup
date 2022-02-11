@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T16:31:42Z",
+        "timestamp_osm_base": "2022-02-11T17:31:43Z",
         "timestamp_areas_base": "2022-02-11T15:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -12842,18 +12842,20 @@
         {
             "type": "node",
             "id": 9421652517,
-            "lat": 50.8453708,
-            "lon": 20.6335939,
-            "timestamp": "2022-01-16T00:06:09Z",
-            "version": 1,
-            "changeset": 116200651,
-            "user": "krzysmek",
-            "uid": 3925559,
+            "lat": 50.8453882,
+            "lon": 20.6334136,
+            "timestamp": "2022-02-11T17:22:39Z",
+            "version": 2,
+            "changeset": 117296248,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Starostwo Powiatowe Kielce, Wrzosowa 44 (recepcja, na prawo od wejścia)",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor",
+                "opening_hours": "Mo-Fr 07:00- 15:15",
                 "phone": "(41) 200 12 00"
             }
         },
@@ -36720,6 +36722,229 @@
                 "opening_hours": "Mo-Su 07:00-15:00",
                 "operator": "Straż miejska",
                 "phone": "748680652,000000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498565298,
+            "lat": 51.1486519,
+            "lon": 15.0119297,
+            "timestamp": "2022-02-11T17:06:13Z",
+            "version": 1,
+            "changeset": 117295661,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w skrzynce metalowej na kluczyk, który znajduje się za szklanym okienkiem w skrzynce, budynek nr 8A",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Biuro Obsługi Interesanta",
+                "phone": "75 77 61 555"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498573955,
+            "lat": 52.1052808,
+            "lon": 19.6005186,
+            "timestamp": "2022-02-11T17:08:09Z",
+            "version": 1,
+            "changeset": 117295743,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek F - Pokój socjalny personelu. Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
+                "operator": "DPS Borówek",
+                "phone": "46 838 26 61"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498573956,
+            "lat": 52.1052345,
+            "lon": 19.5999989,
+            "timestamp": "2022-02-11T17:08:09Z",
+            "version": 1,
+            "changeset": 117295743,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek B- Dyżurka pielęgniarek. Parter.;Budynek B- Dyżurka pielęgniarek. Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
+                "operator": "DPS Borówek;Dom Pomocy Społecznej ,,Borówek” im. Krystyny Bochenek",
+                "phone": "46 838 26 61"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498574779,
+            "lat": 50.4478152,
+            "lon": 20.5888458,
+            "timestamp": "2022-02-11T17:15:34Z",
+            "version": 1,
+            "changeset": 117296000,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ogrodzenie Ośrodka Zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
+                "opening_hours": "24/7",
+                "operator": "Samorządowy Zakład Opieki Zdrowotnej",
+                "phone": "533 733 944"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498586830,
+            "lat": 50.5445162,
+            "lon": 20.6348587,
+            "timestamp": "2022-02-11T17:09:22Z",
+            "version": 1,
+            "changeset": 117295783,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na frontowej ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
+                "opening_hours": "24/7",
+                "operator": "Samorządowy Zakład Opieki Zdrowotnej",
+                "phone": "533 733 944"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498593387,
+            "lat": 54.4498206,
+            "lon": 18.5617762,
+            "timestamp": "2022-02-11T17:05:14Z",
+            "version": 1,
+            "changeset": 117295633,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym, w kasie Krytej Pływalni MOSiR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-22:00",
+                "operator": "MOSiR Sopot",
+                "phone": "585 516 842"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498639854,
+            "lat": 54.4400573,
+            "lon": 18.5648415,
+            "timestamp": "2022-02-11T17:11:06Z",
+            "version": 1,
+            "changeset": 117295865,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private;customers",
+                "defibrillator:location": "W holu głównym budynku Urzędu Miasta Sopotu;Samochód straży miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24 h",
+                "operator": "Straż Miejska w Sopocie;UM Sopotu",
+                "phone": "58 521 38 50"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498648326,
+            "lat": 50.7282814,
+            "lon": 16.6511306,
+            "timestamp": "2022-02-11T17:14:31Z",
+            "version": 1,
+            "changeset": 117295964,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Obsługi Klienta -wejście za ,,żelazną bramą\" parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Urząd Miasta",
+                "opening_hours": "Mo,We-Th 07:30-15:30; Tu 07:30-16:30; Fr 07:30-14:30",
+                "operator": "Pracownicy Urzędu Miasta w Dzierżoniowie",
+                "phone": "74 645 03 96"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498655319,
+            "lat": 51.1485553,
+            "lon": 15.0114056,
+            "timestamp": "2022-02-11T17:19:05Z",
+            "version": 1,
+            "changeset": 117296137,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w skrzynce metalowej na kluczyk, który znajduje się za szklanym okienkiem w skrzynce, budynek nr 8",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Biuro Obsługi Interesanta",
+                "phone": "75 77 61 555"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498655348,
+            "lat": 54.0875415,
+            "lon": 18.7852829,
+            "timestamp": "2022-02-11T17:26:45Z",
+            "version": 1,
+            "changeset": 117296399,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "BIURO OBSŁUGI KLIENTA - HOL GŁÓWNY",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-We 07:30-15:30; Th 07:30-16:30; Fr 07:30-14:30",
+                "operator": "WYDZIAŁ ADMINISTARCJI I ZARZĄDZANIA KRYZYSOWEGO",
+                "phone": "587 734 873"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498663212,
+            "lat": 53.7960919,
+            "lon": 17.9754242,
+            "timestamp": "2022-02-11T17:25:06Z",
+            "version": 1,
+            "changeset": 117296348,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED znajduje się na zewnętrznej ścianie bocznej budynku PKO B.P",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Czersku",
+                "phone": "663309112"
             }
         }
     ]
