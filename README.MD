@@ -11,11 +11,11 @@
 | # | User | Changesets |
 | ------------- | ------------- | ------------- |
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 610 |
-| 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 260 |
+| 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 259 |
 | 3 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 125 |
 | 4 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 100 |
 | 5 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 76 |
-| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 54 |
+| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 55 |
 | 7 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 39 |
 | 8 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 38 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 33 |
