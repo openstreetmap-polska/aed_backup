@@ -33,7 +33,7 @@ def total_aed_plot(df_date: pd.DataFrame) -> Dict[str, Any]:
     plt.plot(df_date['date'], df_date['sum'])
     plt.title(
         'Number of AEDs in the OpenStreetMap database in Poland'
-        'from first edition, day by day.'
+        ' from first edition, day by day.'
         f' As at: {current_date_str}',
 
         fontsize=14,
@@ -65,8 +65,8 @@ def current_year_aed_scatter_plot(
     from_dt_str = datetime(from_year, 1, 1).date().strftime(DATE_FORMAT)
     plt.title(
         'Number of AEDs in the OpenStreetMap database in Poland'
-        f'from {from_dt_str}, day by day.'
-        f'As at: {current_date_str}',
+        f' from {from_dt_str}, day by day.'
+        f' As at: {current_date_str}',
 
         fontsize=14,
         loc='left'
@@ -124,7 +124,7 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
     plt.clf()
     plt.pie(df2['Count'], labels=df2['Atr'], autopct='%1.2f%%')
     plt.title(
-        f'Defibrillators without introduced access method. ({current_date})',
+        f'Defibrillators without introduced access method ({current_date})',
         fontsize=14,
         loc='left'
     )
