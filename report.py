@@ -87,10 +87,11 @@ def current_year_aed_scatter_plot(
     first_day_of_year_aed_total = df_first_day_of_year.iloc[0]['sum']
     current_date_aed_total = df_curr_date.iloc[0]['sum']
     avg_year = df_year['changes'].mean()
+
     return {
         'heading': 'Current year AED plot',
         'heading_level': 2,
-        'content': '\n'.join([
+        'content': '\\\n'.join([
             f'![]({filename})',
             f'AED for {first_day_of_year_str}: {first_day_of_year_aed_total}',
             f'AED for {current_date_str}: {current_date_aed_total}',
