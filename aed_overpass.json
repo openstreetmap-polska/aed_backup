@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T18:31:31Z",
+        "timestamp_osm_base": "2022-02-11T19:31:27Z",
         "timestamp_areas_base": "2022-02-11T15:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -37048,6 +37048,189 @@
                 "nazwa_obiektu_robocza": "Straż Pożarna",
                 "operator": "OSP w Kamieńsku",
                 "phone": "44 681 75 08"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498824412,
+            "lat": 54.0923619,
+            "lon": 17.5743641,
+            "timestamp": "2022-02-11T18:49:42Z",
+            "version": 1,
+            "changeset": 117299074,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Studzienice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498857511,
+            "lat": 53.7968892,
+            "lon": 17.9673798,
+            "timestamp": "2022-02-11T18:50:57Z",
+            "version": 1,
+            "changeset": 117299107,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED znajduję się na zewnętrznej ścianie bocznej budynku stacji paliwowej Orlen",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Miejski w Czersku",
+                "phone": "663309112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498859159,
+            "lat": 50.8718222,
+            "lon": 20.6308467,
+            "timestamp": "2022-02-11T18:48:41Z",
+            "version": 1,
+            "changeset": 117299042,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu wejścia od pl. Rynek",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Urząd Miasta",
+                "opening_hours": "W godzinach pracy urzędu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498917807,
+            "lat": 53.5290082,
+            "lon": 14.7931176,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu",
+                "description": "Eurokey Recycling Limited",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "man_made": "works",
+                "name": "Eurokey Recycling Limited",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Eurokey Recycling Limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498917814,
+            "lat": 53.5293807,
+            "lon": 14.7925968,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Zakład Aktywności Zawodowej",
+                "description": "Zakład Aktywności Zawodowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "man_made": "works",
+                "name": "Zakład Aktywności Zawodowej w Goleniowie",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Zakład Aktywności Zawodowej",
+                "phone": "+48500716050",
+                "website": "http://zaz.goleniow.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498917815,
+            "lat": 53.5445812,
+            "lon": 14.7939383,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Hala H03",
+                "description": "Chemical Alliance Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "phone": "+48918883039",
+                "website": "https://www.siaabrasives.com/pl/en/obsluga-klienta---lokalnie/sia-abrasives-polska/local-contact/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498917816,
+            "lat": 53.5441927,
+            "lon": 14.792072,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "sia Abrasives Polska",
+                "description": "sia Abrasives Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48918883039"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498965017,
+            "lat": 53.5465411,
+            "lon": 14.7950611,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Hala 82",
+                "description": "Ingram Micro Cfs Fulfilment Solutions",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "phone": "+48516987405"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498965019,
+            "lat": 53.5541628,
+            "lon": 14.7892862,
+            "timestamp": "2022-02-11T19:29:49Z",
+            "version": 1,
+            "changeset": 117300272,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Hala Premoulding",
+                "description": "LM Power Blades",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "phone": "+48502333152"
             }
         }
     ]
