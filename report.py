@@ -41,31 +41,34 @@ def total_aed_plot(df_date: pd.DataFrame) -> Dict[str, Any]:
     )
     filename = join(REPORT_DIR, 'total_aed.png')
     plt.savefig(filename, dpi=DPI)
+
+    total_aed = df_date.iloc[-1]['sum']
     return {
         'heading': 'Total AED plot',
         'heading_level': 2,
-        'content': f'![]({filename})'
+        'content': f'![]({filename})\nTotal AED: {total_aed}'
     }
 
 
 def current_year_aed_scatter_plot(
     df_date: pd.DataFrame,
-    from_year: int
+    year: int
 ) -> Dict[str, Any]:
-    df_date_curr_year = df_date.loc[df_date['year'] == from_year]
+    df_year = df_date.loc[df_date['year'] == year]
 
     plt.clf()
-    plt.plot(df_date_curr_year['date'], df_date_curr_year['sum'])
+    plt.plot(df_year['date'], df_year['sum'])
     plt.scatter(
-        df_date_curr_year['date'],
-        df_date_curr_year['sum'],
-        s=df_date_curr_year['changes'] * 10,
+        df_year['date'],
+        df_year['sum'],
+        s=df_year['changes'] * 10,
         alpha=0.3
     )
-    from_dt_str = datetime(from_year, 1, 1).date().strftime(DATE_FORMAT)
+    first_day_of_year = datetime(year, 1, 1).date()
+    first_day_of_year_str = first_day_of_year.strftime(DATE_FORMAT)
     plt.title(
         'Number of AEDs in the OpenStreetMap database in Poland'
-        f' from {from_dt_str}, day by day.'
+        f' from {first_day_of_year_str}, day by day.'
         f' As at: {current_date_str}',
 
         fontsize=14,
@@ -75,10 +78,21 @@ def current_year_aed_scatter_plot(
     filename = join(REPORT_DIR, 'current_year_aed.png')
     plt.savefig(filename, dpi=DPI)
 
+    df_first_day_of_year = df_year.loc[df_year['date'] == first_day_of_year]
+    df_curr_date = df_date.loc[df_date['date'] == current_date]
+
+    first_day_of_year_aed_total = df_first_day_of_year.iloc[0]['sum']
+    current_date_aed_total = df_curr_date.iloc[0]['sum']
+    avg_year = df_year['changes'].mean()
     return {
         'heading': 'Current year AED plot',
         'heading_level': 2,
-        'content': f'![]({filename})'
+        'content': '\n'.join([
+            f'![]({filename})',
+            f'AED for {first_day_of_year_str}: {first_day_of_year_aed_total}',
+            f'AED for {current_date_str}: {current_date_aed_total}',
+            f'Average daily growth since beginning of the year: {avg_year:.2f}'
+        ])
     }
 
 
