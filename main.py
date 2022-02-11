@@ -3,6 +3,7 @@ import requests
 import subprocess
 
 from time import sleep
+from typing import Any, Dict, Optional
 
 from report import create_report_md, REPORT_DIR
 
@@ -20,45 +21,68 @@ TIMEOUT = 30  # seconds
 RETRIES = 5
 
 
-def commit_and_push():
-    subprocess.run(['git', 'add', BACKUP_FILE, README_FILE, REPORT_DIR])
-    subprocess.run(['git', 'commit', '-m', f'{BACKUP_COMMIT_MSG}'])
+def git_add(filename: str) -> None:
+    subprocess.run(['git', 'add', filename])
+
+
+def git_commit(msg: str) -> None:
+    subprocess.run(['git', 'commit', '-m', f'{msg}'])
+
+
+def git_push() -> None:
     subprocess.run(['git', 'push'])
 
 
-def backup():
+def download_data() -> Optional[Dict[Any, Any]]:
     with open(QUERY_FILE, 'r') as f:
         query = f.read().strip()
 
     for _ in range(RETRIES):
         try:
             response = requests.get(OVERPASS_API_URL, params={'data': query})
-            if response.status_code == 200:
-                with open(BACKUP_FILE, 'w', encoding='utf8') as f:
-                    overpass_result = response.json()
-                    json.dump(overpass_result, f, indent=4, ensure_ascii=False)
-
-                try:
-                    md_content = create_report_md(overpass_result)
-                    with open(README_FILE, 'w') as f:
-                        f.write(md_content)
-
-                except Exception as e:
-                    print(f'Error with creating report: {e}')
-                commit_and_push()
-                exit(0)
-
-            else:
+            if response.status_code != 200:
                 print(f'Incorrect status code: {response.status_code}')
+                continue
+
+            return response.json()
 
         except Exception as e:
             print(f'Error with downloading/parsing data: {e}')
 
         sleep(TIMEOUT)
 
-    exit(1)
+
+def backup(overpass_result: dict) -> None:
+    with open(BACKUP_FILE, 'w') as f:
+        json.dump(overpass_result, f, indent=4, ensure_ascii=False)
+
+    git_add(BACKUP_FILE)
+
+
+def generate_report(overpass_result) -> None:
+    try:
+        md_content = create_report_md(overpass_result)
+        with open(README_FILE, 'w') as f:
+            f.write(md_content)
+
+        git_add(README_FILE)
+        git_add(REPORT_DIR)
+
+    except Exception as e:
+        print(f'Error with creating report: {e}')
+
+
+def main():
+    overpass_data = download_data()
+    if overpass_data is None:
+        exit(1)
+
+    backup(overpass_data)
+    generate_report(overpass_data)
+
+    git_push()
 
 
 if __name__ == '__main__':
-    backup()
+    main()
 
