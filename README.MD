@@ -1,15 +1,15 @@
-# AED backup and stats (2022-02-11 18:33:06)
+# AED backup and stats (2022-02-11 19:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.png)
-Total AED: 2059
+Total AED: 2068
 
 ## Current year AED plot
 ![](report_data/current_year_aed.png)\
 AED for 2022-01-01: 432\
-AED for 2022-02-11: 2059\
-Average daily growth since beginning of the year: 39.71
+AED for 2022-02-11: 2068\
+Average daily growth since beginning of the year: 39.93
 
 ## Top editors
 | # | User | Changesets |
@@ -19,7 +19,7 @@ Average daily growth since beginning of the year: 39.71
 | 3 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 125 |
 | 4 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 100 |
 | 5 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 76 |
-| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 73 |
+| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 76 |
 | 7 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 39 |
 | 8 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 38 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 33 |
@@ -28,12 +28,12 @@ Average daily growth since beginning of the year: 39.71
 | 12 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 23 |
 | 13 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 21 |
 | 14 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
-| 15 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
-| 16 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
-| 17 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
-| 18 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
-| 19 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
-| 20 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 12 |
+| 15 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 18 |
+| 16 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
+| 17 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
+| 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
+| 19 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
+| 20 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
 | 21 | [dodoelk](<https://www.openstreetmap.org/user/dodoelk>) | 11 |
 | 22 | [k2101](<https://www.openstreetmap.org/user/k2101>) | 10 |
 | 23 | [Lubomir_W](<https://www.openstreetmap.org/user/Lubomir_W>) | 9 |
