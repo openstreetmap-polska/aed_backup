@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T20:32:11Z",
+        "timestamp_osm_base": "2022-02-11T21:31:56Z",
         "timestamp_areas_base": "2022-02-11T15:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36754,13 +36754,13 @@
         {
             "type": "node",
             "id": 9498573955,
-            "lat": 52.1052808,
-            "lon": 19.6005186,
-            "timestamp": "2022-02-11T17:08:09Z",
-            "version": 1,
-            "changeset": 117295743,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 52.10711,
+            "lon": 19.6014,
+            "timestamp": "2022-02-11T21:09:03Z",
+            "version": 2,
+            "changeset": 117303285,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Budynek F - Pokój socjalny personelu. Parter",
@@ -37231,6 +37231,26 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "phone": "+48502333152"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9499215085,
+            "lat": 52.10575,
+            "lon": 19.60064,
+            "timestamp": "2022-02-11T21:09:03Z",
+            "version": 1,
+            "changeset": 117303285,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek E- Pokój socjalny personelu. Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
+                "operator": "DPS Borówek;Dom Pomocy Społecznej ,,Borówek” im. Krystyny Bochenek",
+                "phone": "46 838 26 61"
             }
         }
     ]
