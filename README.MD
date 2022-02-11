@@ -27,14 +27,14 @@
 | 15 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
 | 16 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
 | 17 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
-| 18 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
-| 19 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 12 |
+| 18 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 12 |
+| 19 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
 | 20 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
 | 21 | [dodoelk](<https://www.openstreetmap.org/user/dodoelk>) | 11 |
 | 22 | [k2101](<https://www.openstreetmap.org/user/k2101>) | 10 |
-| 23 | [d3mol3k](<https://www.openstreetmap.org/user/d3mol3k>) | 9 |
-| 24 | [Landrinka](<https://www.openstreetmap.org/user/Landrinka>) | 9 |
-| 25 | [Lubomir_W](<https://www.openstreetmap.org/user/Lubomir_W>) | 9 |
+| 23 | [Lubomir_W](<https://www.openstreetmap.org/user/Lubomir_W>) | 9 |
+| 24 | [d3mol3k](<https://www.openstreetmap.org/user/d3mol3k>) | 9 |
+| 25 | [Landrinka](<https://www.openstreetmap.org/user/Landrinka>) | 9 |
 
 ## Tag access pie
 ![](report_data/tag_access.png)
