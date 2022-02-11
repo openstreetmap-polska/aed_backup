@@ -44,7 +44,7 @@ def backup():
                         f.write(md_content)
 
                 except Exception as e:
-                    print(f'Erro with creating report: {e}')
+                    print(f'Error with creating report: {e}')
                 commit_and_push()
                 exit(0)
 
