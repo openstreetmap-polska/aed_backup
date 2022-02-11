@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T22:31:40Z",
-        "timestamp_areas_base": "2022-02-11T21:33:57Z",
+        "timestamp_osm_base": "2022-02-11T23:31:39Z",
+        "timestamp_areas_base": "2022-02-11T22:35:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37128,29 +37128,6 @@
                 "name": "Eurokey Recycling Limited",
                 "opening_hours": "Mo-Fr 08:00-16:00",
                 "operator": "Eurokey Recycling Limited"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9498917814,
-            "lat": 53.5293807,
-            "lon": 14.7925968,
-            "timestamp": "2022-02-11T19:29:49Z",
-            "version": 1,
-            "changeset": 117300272,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "defibrillator:location": "Zakład Aktywności Zawodowej",
-                "description": "Zakład Aktywności Zawodowej",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "man_made": "works",
-                "name": "Zakład Aktywności Zawodowej w Goleniowie",
-                "opening_hours": "Mo-Fr 07:00-15:00",
-                "operator": "Zakład Aktywności Zawodowej",
-                "phone": "+48500716050",
-                "website": "http://zaz.goleniow.pl/"
             }
         },
         {
