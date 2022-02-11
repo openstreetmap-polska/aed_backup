@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T17:31:43Z",
+        "timestamp_osm_base": "2022-02-11T18:31:31Z",
         "timestamp_areas_base": "2022-02-11T15:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -956,16 +956,21 @@
         {
             "type": "node",
             "id": 5078786542,
-            "lat": 54.4464011,
-            "lon": 18.5710974,
-            "timestamp": "2019-04-23T22:08:07Z",
-            "version": 2,
-            "changeset": 69505944,
-            "user": "m@rio",
-            "uid": 576108,
+            "lat": 54.4463894,
+            "lon": 18.5710773,
+            "timestamp": "2022-02-11T18:24:41Z",
+            "version": 3,
+            "changeset": 117298339,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie zew. Restauracji El Molo – lewa strona wejścia przy bramkach na drewniną część Mola",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "MOSiR Sopot",
+                "phone": "58 550 12 15"
             }
         },
         {
@@ -35063,19 +35068,21 @@
             "id": 9490773431,
             "lat": 53.5581465,
             "lon": 14.8446184,
-            "timestamp": "2022-02-09T14:15:53Z",
-            "version": 3,
-            "changeset": 117204658,
+            "timestamp": "2022-02-11T18:20:11Z",
+            "version": 4,
+            "changeset": 117298212,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
+                "access": "customers",
                 "description": "Wodociągi Zachodniopomorskie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Fr 07:00-15:00",
                 "operator": "Wodociągi Zachodniopomorskie",
-                "phone": "+4891 418 44 31"
+                "phone": "+4891 418 44 31",
+                "wheelchair": "no"
             }
         },
         {
@@ -36945,6 +36952,102 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Czersku",
                 "phone": "663309112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498694689,
+            "lat": 53.843892,
+            "lon": 18.9706562,
+            "timestamp": "2022-02-11T18:04:26Z",
+            "version": 1,
+            "changeset": 117297683,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "kotytarz parter wewnątrz budynku, budynek mieszkalny B; korytarz parter wewnątrz budynku, budynek mieszkalny C",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Dom Pomocy Spoecznej \"Słoneczne Wzgórze\"",
+                "phone": "55 277 42 36; 55 277 42 36"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498709600,
+            "lat": 51.5431518,
+            "lon": 16.4486749,
+            "timestamp": "2022-02-11T17:58:12Z",
+            "version": 1,
+            "changeset": 117297499,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt Apteczny Eliksir",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00 - dostęp w czasie otwarcia apteki",
+                "operator": "Punkt Apteczny Eliksir"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498742259,
+            "lat": 50.4334479,
+            "lon": 20.4862309,
+            "timestamp": "2022-02-11T17:59:30Z",
+            "version": 1,
+            "changeset": 117297549,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "defibrillator:location": "Na frontowej ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
+                "opening_hours": "24/7",
+                "operator": "Samorządowy Zakład Opieki Zdrowotnej",
+                "phone": "533 733 944"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498747777,
+            "lat": 54.1232521,
+            "lon": 17.5286863,
+            "timestamp": "2022-02-11T18:00:56Z",
+            "version": 1,
+            "changeset": 117297582,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Centrum Kultury i Biblioteki Gminy Studzienice w Ugoszczy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Centrum Kultury Studzienice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498805532,
+            "lat": 51.2050563,
+            "lon": 19.496339,
+            "timestamp": "2022-02-11T18:23:50Z",
+            "version": 1,
+            "changeset": 117298316,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "nazwa_obiektu_robocza": "Straż Pożarna",
+                "operator": "OSP w Kamieńsku",
+                "phone": "44 681 75 08"
             }
         }
     ]
