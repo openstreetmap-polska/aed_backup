@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T11:31:42Z",
-        "timestamp_areas_base": "2022-02-11T11:27:46Z",
+        "timestamp_osm_base": "2022-02-11T12:31:39Z",
+        "timestamp_areas_base": "2022-02-11T12:28:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32382,20 +32382,19 @@
         {
             "type": "node",
             "id": 9483778390,
-            "lat": 52.9951751,
-            "lon": 15.2234027,
-            "timestamp": "2022-02-06T16:21:29Z",
-            "version": 1,
-            "changeset": 117085539,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 52.9951614,
+            "lon": 15.2234019,
+            "timestamp": "2022-02-11T12:19:37Z",
+            "version": 2,
+            "changeset": 117285894,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "OSP Barlinek",
-                "phone": "+48"
+                "operator": "OSP Barlinek"
             }
         },
         {
@@ -32443,18 +32442,17 @@
             "id": 9483806367,
             "lat": 52.9915753,
             "lon": 15.0578628,
-            "timestamp": "2022-02-06T16:25:41Z",
-            "version": 1,
-            "changeset": 117085692,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-11T12:17:34Z",
+            "version": 2,
+            "changeset": 117285820,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "OSP Mostkowo",
-                "phone": "+48"
+                "operator": "OSP Mostkowo"
             }
         },
         {
@@ -36634,6 +36632,77 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48616553751"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497836718,
+            "lat": 53.0179618,
+            "lon": 18.5879987,
+            "timestamp": "2022-02-11T11:34:55Z",
+            "version": 1,
+            "changeset": 117284247,
+            "user": "Creative1222",
+            "uid": 6290585,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Arena Toruń; wejście na halę od strony hotelu.",
+                "defibrillator:location:en": "Arena Toruń; entrance to the sports hall from the hotel side.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497836719,
+            "lat": 53.0115656,
+            "lon": 18.5940072,
+            "timestamp": "2022-02-11T11:35:56Z",
+            "version": 1,
+            "changeset": 117284247,
+            "user": "Creative1222",
+            "uid": 6290585,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Regionalna Dyrekcja Lasów Państwowych w Toruniu; przed głównym wejściem",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497836720,
+            "lat": 53.0181279,
+            "lon": 18.6055069,
+            "timestamp": "2022-02-11T11:37:44Z",
+            "version": 1,
+            "changeset": 117284247,
+            "user": "Creative1222",
+            "uid": 6290585,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Komisariat Policji Toruń-Śródmieście",
+                "defibrillator:location:en": "Toruń-Śródmieście Police Station",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497875617,
+            "lat": 53.0346212,
+            "lon": 18.6152175,
+            "timestamp": "2022-02-11T11:32:23Z",
+            "version": 1,
+            "changeset": 117284163,
+            "user": "Creative1222",
+            "uid": 6290585,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście do hipermarketu Auchan",
+                "defibrillator:location:en": "Entrance to Auchan hypermarket",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
