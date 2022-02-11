@@ -8,13 +8,16 @@ from typing import Any, Dict, List
 
 REPORT_DIR = 'report_data'
 DATE_FORMAT = '%Y-%m-%d'
+DATETIME_FORMAT = f'{DATE_FORMAT} %H:%M:%S'
 DPI = 300
 
 plt.rcParams['figure.figsize'] = (16, 8)
 pd.set_option('display.max_columns', None)
 
-current_date = datetime.now().date()
-current_date_str = datetime.now().strftime(DATE_FORMAT)
+current_datetime = datetime.now()
+current_datetime_str = current_datetime.strftime(DATETIME_FORMAT)
+current_date = current_datetime.date()
+current_date_str = current_date.strftime(DATE_FORMAT)
 
 
 def overpass_to_dataframe(overpass: dict) -> pd.DataFrame:
@@ -233,7 +236,11 @@ def create_report_md(overpass: Dict[Any, Any]) -> str:
     df_date['year'] = pd.DatetimeIndex(df_date['date']).year
 
     md = simple_md_converter([
-        {'heading': 'AED backup and stats', 'heading_level': 1, 'content': ''},
+        {
+            'heading': f'AED backup and stats ({current_datetime_str})',
+            'heading_level': 1,
+            'content': ''
+        },
 
         total_aed_plot(df_date),
         current_year_aed_scatter_plot(df_date, current_date.year),
