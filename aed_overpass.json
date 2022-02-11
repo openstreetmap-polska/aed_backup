@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T12:31:39Z",
-        "timestamp_areas_base": "2022-02-11T12:28:37Z",
+        "timestamp_osm_base": "2022-02-11T13:31:24Z",
+        "timestamp_areas_base": "2022-02-11T13:29:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -31926,16 +31926,13 @@
             "id": 9483127763,
             "lat": 53.7036777,
             "lon": 16.7022728,
-            "timestamp": "2022-02-06T11:37:35Z",
-            "version": 1,
-            "changeset": 117075771,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-11T12:41:18Z",
+            "version": 2,
+            "changeset": 117286664,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
-                "addr:city": "Szczecinek",
-                "addr:housenumber": "29",
-                "addr:street": "Armii Krajowej",
                 "defibrillator:location": "Na ścianie przy wejściu do Centrum Organizacji Pozarządowych",
                 "defibrillator:location:en": "On the wall at the entrance to the NGO Center",
                 "emergency": "defibrillator",
@@ -36703,6 +36700,26 @@
                 "defibrillator:location:en": "Entrance to Auchan hypermarket",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9498045404,
+            "lat": 50.4075312,
+            "lon": 16.513858,
+            "timestamp": "2022-02-11T13:00:53Z",
+            "version": 1,
+            "changeset": 117287232,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Straży miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 07:00-15:00",
+                "operator": "Straż miejska",
+                "phone": "748680652,000000"
             }
         }
     ]
