@@ -91,17 +91,17 @@ def top_editors(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
     df_users['user_link'] = OSM_USER_URL + df_users['User'].astype(str)
 
     md_content_table = [
-        f'| {columns[0]} | {columns[1]} |',
-        '| ------------- | ------------- |'
+        f'| # | {columns[0]} | {columns[1]} |',
+        '| ------------- | ------------- | ------------- |'
     ]
 
-    for _, row in df_users.head(top).iterrows():
+    for index, row in df_users.head(top).iterrows():
         user = row[columns[0]]
         changesets = row[columns[1]]
         url = row['user_link']
 
         md_content_table.append(
-            f'| [{user}](<{url}>) | {changesets} |'
+            f'| {index + 1} | [{user}](<{url}>) | {changesets} |'
         )
 
     return {
