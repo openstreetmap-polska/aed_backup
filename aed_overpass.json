@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-11T07:32:13Z",
-        "timestamp_areas_base": "2022-02-11T07:26:08Z",
+        "timestamp_osm_base": "2022-02-11T08:32:00Z",
+        "timestamp_areas_base": "2022-02-11T08:26:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -36615,6 +36615,25 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP w Gorzędowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9497503225,
+            "lat": 52.5038454,
+            "lon": 16.8351902,
+            "timestamp": "2022-02-11T08:26:09Z",
+            "version": 1,
+            "changeset": 117277119,
+            "user": "Griltex",
+            "uid": 15062537,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "korytarz produkcyjny",
+                "defibrillator:location:en": "production corridor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48616553751"
             }
         }
     ]
