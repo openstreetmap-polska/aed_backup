@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-12T20:32:12Z",
+        "timestamp_osm_base": "2022-02-12T21:30:54Z",
         "timestamp_areas_base": "2022-02-12T19:44:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5144,20 +5144,6 @@
                 "defibrillator:location": "przy sklepie z pamiątkami",
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9088486602,
-            "lat": 50.7772168,
-            "lon": 15.7237797,
-            "timestamp": "2021-09-13T15:49:08Z",
-            "version": 1,
-            "changeset": 111152933,
-            "user": "Squnxik",
-            "uid": 3068937,
-            "tags": {
-                "emergency": "defibrillator"
             }
         },
         {
@@ -31379,18 +31365,18 @@
             "id": 9475500282,
             "lat": 50.5008255,
             "lon": 19.4099254,
-            "timestamp": "2022-02-04T14:21:25Z",
-            "version": 1,
-            "changeset": 117008782,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-12T20:35:41Z",
+            "version": 2,
+            "changeset": 117335200,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu biura podawczego",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:15-15:15",
-                "operator": "Starostwo Powiatowe w Brzegu",
+                "operator": "Starostwo Powiatowe w Zawierciu",
                 "phone": "+48 774447900"
             }
         },
@@ -37228,6 +37214,24 @@
                 "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
                 "operator": "DPS Borówek;Dom Pomocy Społecznej ,,Borówek” im. Krystyny Bochenek",
                 "phone": "46 838 26 61"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9501548763,
+            "lat": 50.4710316,
+            "lon": 19.0719371,
+            "timestamp": "2022-02-12T21:21:47Z",
+            "version": 1,
+            "changeset": 117336270,
+            "user": "legofahrrad",
+            "uid": 11052563,
+            "tags": {
+                "defibrillator:location": "I piętro, na ścianie przy kolejce do kontroli bezpieczeństwa, na wysokości kaplicy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "source": "https://www.openstreetmap.org/note/3049182"
             }
         }
     ]
