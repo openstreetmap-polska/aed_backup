@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-13T22:31:10Z",
-        "timestamp_areas_base": "2022-02-13T21:56:40Z",
+        "timestamp_osm_base": "2022-02-13T23:31:54Z",
+        "timestamp_areas_base": "2022-02-13T22:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37225,6 +37225,55 @@
                 "indoor": "yes",
                 "level": "0",
                 "source": "https://www.openstreetmap.org/note/3049182"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9503649670,
+            "lat": 52.1376583,
+            "lon": 21.0670751,
+            "timestamp": "2022-02-13T23:20:56Z",
+            "version": 1,
+            "changeset": 117372440,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "defibrillator:location": "Defibrylator znajduje się w pomieszczeniu pracowników ochrony boiska „Orlik” przy ul. Przy Bażantarni 3",
+                "emergency": "defibrillator",
+                "website": "https://bo.um.warszawa.pl/projekt/13210?user="
+            }
+        },
+        {
+            "type": "node",
+            "id": 9503664015,
+            "lat": 52.0796743,
+            "lon": 21.0186924,
+            "timestamp": "2022-02-13T23:30:01Z",
+            "version": 1,
+            "changeset": 117372595,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "defibrillator:location": "W szatnii GOSiR Piaseczno",
+                "emergency": "defibrillator",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9503671730,
+            "lat": 52.1497514,
+            "lon": 21.0466914,
+            "timestamp": "2022-02-13T23:25:04Z",
+            "version": 1,
+            "changeset": 117372515,
+            "user": "syntex",
+            "uid": 6668641,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W Multikinie, obok kawiarnii Cavablanca",
+                "emergency": "defibrillator",
+                "location": "indoor"
             }
         }
     ]
