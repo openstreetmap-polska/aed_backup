@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-13T19:32:06Z",
-        "timestamp_areas_base": "2022-02-13T18:54:39Z",
+        "timestamp_osm_base": "2022-02-13T20:30:49Z",
+        "timestamp_areas_base": "2022-02-13T19:55:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -31501,17 +31501,19 @@
         {
             "type": "node",
             "id": 9476141677,
-            "lat": 50.2109614,
-            "lon": 18.7784159,
-            "timestamp": "2022-02-04T14:30:13Z",
-            "version": 1,
-            "changeset": 117009109,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 50.2109607,
+            "lon": 18.7783783,
+            "timestamp": "2022-02-13T20:20:49Z",
+            "version": 3,
+            "changeset": 117368084,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "defibrillator:location": "W budynku biblioteki",
+                "access": "yes",
+                "defibrillator:location": "Na budynku biblioteki",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "no",
+                "source:url": "https://gieraltowice.pl/6488/defibrylatory-w-przestrzeni-publicznej.html"
             }
         },
         {
@@ -31647,16 +31649,20 @@
         {
             "type": "node",
             "id": 9476512921,
-            "lat": 50.2237795,
-            "lon": 18.7241794,
-            "timestamp": "2022-02-04T17:19:36Z",
-            "version": 1,
-            "changeset": 117015342,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 50.2237355,
+            "lon": 18.7243132,
+            "timestamp": "2022-02-13T20:20:49Z",
+            "version": 4,
+            "changeset": 117368084,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Urzędu Gminy",
                 "emergency": "defibrillator",
-                "phone": "+48 32 3011385"
+                "indoor": "no",
+                "phone": "+48 32 3011385",
+                "source:url": "https://gieraltowice.pl/6488/defibrylatory-w-przestrzeni-publicznej.html"
             }
         },
         {
@@ -31675,20 +31681,6 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 07:00-22:00",
                 "phone": "+48 32 440 04 70"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9476518868,
-            "lat": 50.2323767,
-            "lon": 18.7806969,
-            "timestamp": "2022-02-04T17:33:10Z",
-            "version": 1,
-            "changeset": 117015937,
-            "user": "voltairovicz",
-            "uid": 1744629,
-            "tags": {
-                "emergency": "defibrillator"
             }
         },
         {
