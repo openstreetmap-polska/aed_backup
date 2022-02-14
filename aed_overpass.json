@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-14T21:31:24Z",
+        "timestamp_osm_base": "2022-02-14T22:32:09Z",
         "timestamp_areas_base": "2022-02-14T21:09:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7299,15 +7299,20 @@
             "id": 9367545197,
             "lat": 52.0128494,
             "lon": 16.5264581,
-            "timestamp": "2021-12-26T16:26:33Z",
-            "version": 1,
-            "changeset": 115392249,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-02-14T21:46:06Z",
+            "version": 2,
+            "changeset": 117411929,
+            "user": "Ronczka",
+            "uid": 9548812,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "W kapsule na rynku",
+                "defibrillator:location:en": "In a capsule",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
             }
         },
         {
@@ -31239,17 +31244,17 @@
             "id": 9474387544,
             "lat": 50.0408055,
             "lon": 21.9977172,
-            "timestamp": "2022-02-04T13:54:55Z",
-            "version": 1,
-            "changeset": 117007778,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-14T21:33:33Z",
+            "version": 2,
+            "changeset": 117411653,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Budynek Urzędu Marszałkowskiego Województwa Podkarpackiego w Rzeszowie, parter, portiernia",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo 07:30-18:00; Tu-Fr 07:30-15:30; Sa-Su (kontakt telefoniczny z portiernią – numer telefonu widnieje na drzwiach wejściowych do budynku)",
+                "opening_hours": "Mo 07:30-18:00; Tu-Fr 07:30-15:30; Sa-Su \"kontakt telefoniczny z portiernią – numer telefonu widnieje na drzwiach wejściowych do budynku\"",
                 "operator": "Urząd Marszałkowski Województwa Podkarpackiego",
                 "phone": "+48 17 850 17 71"
             }
@@ -37549,6 +37554,25 @@
         },
         {
             "type": "node",
+            "id": 9506124683,
+            "lat": 52.0148722,
+            "lon": 16.5294672,
+            "timestamp": "2022-02-14T21:31:31Z",
+            "version": 1,
+            "changeset": 117411587,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-16:00; Tu-Th 07:00-15:00; Fr 07:00-14:00",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
             "id": 9506143028,
             "lat": 51.8547088,
             "lon": 16.4981654,
@@ -37564,6 +37588,170 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Święciechowa",
                 "phone": "+48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506289686,
+            "lat": 52.0034138,
+            "lon": 16.6883528,
+            "timestamp": "2022-02-14T21:34:27Z",
+            "version": 1,
+            "changeset": 117411675,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie ośrodka zdrowia",
+                "defibrillator:location:en": "On the wall of the health center",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506294661,
+            "lat": 52.0315788,
+            "lon": 16.6127808,
+            "timestamp": "2022-02-14T21:43:03Z",
+            "version": 1,
+            "changeset": 117411869,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie szkoły",
+                "defibrillator:location:en": "On the wall of the school",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506299155,
+            "lat": 51.9950983,
+            "lon": 16.5324348,
+            "timestamp": "2022-02-14T21:35:40Z",
+            "version": 1,
+            "changeset": 117411698,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie sali wiejskiej",
+                "defibrillator:location:en": "On the wall of the village hall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506301795,
+            "lat": 52.03527,
+            "lon": 16.5428108,
+            "timestamp": "2022-02-14T21:43:55Z",
+            "version": 1,
+            "changeset": 117411886,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506303558,
+            "lat": 51.9727674,
+            "lon": 16.4690595,
+            "timestamp": "2022-02-14T21:38:04Z",
+            "version": 1,
+            "changeset": 117411756,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie szkoły",
+                "defibrillator:location:en": "On the wall of the school",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506304726,
+            "lat": 51.9969161,
+            "lon": 16.5837468,
+            "timestamp": "2022-02-14T21:41:42Z",
+            "version": 1,
+            "changeset": 117411835,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Śmigiel",
+                "phone": "+48 655 180 003"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506315397,
+            "lat": 51.8468268,
+            "lon": 16.5777234,
+            "timestamp": "2022-02-14T21:50:44Z",
+            "version": 1,
+            "changeset": 117412034,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu do starostwa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "operator": "Starostwo Powiatowe w Lesznie",
+                "phone": "+48 655 296 800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506351456,
+            "lat": 51.3591583,
+            "lon": 20.6238936,
+            "timestamp": "2022-02-14T22:24:53Z",
+            "version": 1,
+            "changeset": 117412801,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Państwowa Straż Pożarna Przysucha"
             }
         }
     ]
