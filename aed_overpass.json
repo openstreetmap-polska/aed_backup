@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-14T19:31:58Z",
-        "timestamp_areas_base": "2022-02-14T19:07:40Z",
+        "timestamp_osm_base": "2022-02-14T20:31:37Z",
+        "timestamp_areas_base": "2022-02-14T20:08:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -35883,18 +35883,20 @@
             "id": 9495693118,
             "lat": 50.568234,
             "lon": 22.0479783,
-            "timestamp": "2022-02-10T16:01:14Z",
-            "version": 2,
-            "changeset": 117252267,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-02-14T19:45:58Z",
+            "version": 3,
+            "changeset": 117408335,
+            "user": "KrzysztZ",
+            "uid": 4749992,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na parterze starostwa powiatowego",
+                "defibrillator:location": "Hall parteru, lewa ściana obok drzwi kancelarii podawczej",
                 "defibrillator:location:en": "Ground floor of the building",
                 "emergency": "defibrillator",
                 "floor": "0",
                 "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:30",
+                "operator": "Starostwo Powiatowe w Stalowej Woli",
                 "source": "https://sztafeta.pl/2022/02/09/defibrylator-aed-w-starostwie-powiatowym-w-stalowej-woli/"
             }
         },
@@ -37312,6 +37314,118 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Stanu Cywilnego w Świeciu",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505902545,
+            "lat": 51.2788805,
+            "lon": 21.4680744,
+            "timestamp": "2022-02-14T19:44:14Z",
+            "version": 1,
+            "changeset": 117408279,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Kazanów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505915454,
+            "lat": 49.9606961,
+            "lon": 19.1379276,
+            "timestamp": "2022-02-14T20:28:13Z",
+            "version": 1,
+            "changeset": 117409664,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Jawiszowice",
+                "phone": "+48 577 273 222;510 530 717"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505974258,
+            "lat": 52.9685201,
+            "lon": 14.6068555,
+            "timestamp": "2022-02-14T20:23:11Z",
+            "version": 1,
+            "changeset": 117409539,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Trzcińsko-Zdrój",
+                "phone": "+48 914148088"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505986362,
+            "lat": 49.9799429,
+            "lon": 19.143044,
+            "timestamp": "2022-02-14T20:29:26Z",
+            "version": 1,
+            "changeset": 117409705,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Brzeszcze",
+                "phone": "+48 792 892 646"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505989317,
+            "lat": 49.9602074,
+            "lon": 19.1914737,
+            "timestamp": "2022-02-14T20:26:04Z",
+            "version": 1,
+            "changeset": 117409606,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Zasole",
+                "phone": "+48 32 211 15 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505993377,
+            "lat": 49.9792252,
+            "lon": 19.1969515,
+            "timestamp": "2022-02-14T20:30:19Z",
+            "version": 1,
+            "changeset": 117409726,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Skidziń",
+                "phone": "+48 512 244 980"
             }
         }
     ]
