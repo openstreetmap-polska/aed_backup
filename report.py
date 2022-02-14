@@ -23,6 +23,8 @@ current_date_str = current_date.strftime(DATE_FORMAT)
 def overpass_to_dataframe(overpass: dict) -> pd.DataFrame:
     data = []
     for elem in overpass['elements']:
+        if 'tags' not in elem:  # skip additional nodes/ways
+            continue
         tags = elem['tags']
         del elem['tags']
         elem.update(tags)
@@ -254,4 +256,5 @@ def create_report_md(overpass: Dict[Any, Any]) -> str:
     ])
 
     return md
+
 
