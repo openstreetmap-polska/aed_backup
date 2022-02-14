@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-14T20:31:37Z",
-        "timestamp_areas_base": "2022-02-14T20:08:24Z",
+        "timestamp_osm_base": "2022-02-14T21:31:24Z",
+        "timestamp_areas_base": "2022-02-14T21:09:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37373,6 +37373,25 @@
         },
         {
             "type": "node",
+            "id": 9505985795,
+            "lat": 51.9054551,
+            "lon": 16.6772622,
+            "timestamp": "2022-02-14T20:47:15Z",
+            "version": 1,
+            "changeset": 117410289,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Osieczna",
+                "phone": "+48 691 944 183"
+            }
+        },
+        {
+            "type": "node",
             "id": 9505986362,
             "lat": 49.9799429,
             "lon": 19.143044,
@@ -37411,6 +37430,26 @@
         },
         {
             "type": "node",
+            "id": 9505992957,
+            "lat": 53.0077339,
+            "lon": 14.9761653,
+            "timestamp": "2022-02-14T20:42:42Z",
+            "version": 1,
+            "changeset": 117410150,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu przedszkola",
+                "defibrillator:location:en": "In the kindergarten hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-16:00",
+                "phone": "+48 915 641 378"
+            }
+        },
+        {
+            "type": "node",
             "id": 9505993377,
             "lat": 49.9792252,
             "lon": 19.1969515,
@@ -37426,6 +37465,105 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Skidziń",
                 "phone": "+48 512 244 980"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9505999443,
+            "lat": 53.0039152,
+            "lon": 14.9678122,
+            "timestamp": "2022-02-14T20:36:22Z",
+            "version": 1,
+            "changeset": 117409938,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Bankomat BS Wolin/O Lipiany",
+                "defibrillator:location:en": "ATM",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Lipianach",
+                "phone": "+48 790 205 196"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506012489,
+            "lat": 53.4652662,
+            "lon": 16.6097415,
+            "timestamp": "2022-02-14T20:50:54Z",
+            "version": 1,
+            "changeset": 117410382,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Sypniewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506026211,
+            "lat": 52.0829182,
+            "lon": 16.6413697,
+            "timestamp": "2022-02-14T20:56:35Z",
+            "version": 1,
+            "changeset": 117410566,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu urzędu, klucz znajduje się w kancelarii",
+                "defibrillator:location:en": "In the hall of the office, the key is in the office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:15-16:15; Tu-Th 07:15-15:15; Fr 07:15-14:15",
+                "operator": "Burmistrz Miasta Kościana wspólnie ze Starostą Kościańskim",
+                "phone": "+48 607 630 240;+48 782 030 111"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506047116,
+            "lat": 52.7495189,
+            "lon": 16.9996008,
+            "timestamp": "2022-02-14T21:08:44Z",
+            "version": 1,
+            "changeset": 117410915,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Korytarz, parter budynku",
+                "defibrillator:location:en": "Corridor, ground floor of the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "phone": "+48 785 009 419"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9506143028,
+            "lat": 51.8547088,
+            "lon": 16.4981654,
+            "timestamp": "2022-02-14T21:17:13Z",
+            "version": 1,
+            "changeset": 117411164,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Święciechowa",
+                "phone": "+48"
             }
         }
     ]
