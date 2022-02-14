@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-14T22:32:09Z",
+        "timestamp_osm_base": "2022-02-14T23:31:49Z",
         "timestamp_areas_base": "2022-02-14T21:09:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11012,18 +11012,19 @@
             "id": 9412229117,
             "lat": 51.1760879,
             "lon": 21.2875558,
-            "timestamp": "2022-01-12T09:33:47Z",
-            "version": 2,
-            "changeset": 116058252,
-            "user": "lukubuku",
-            "uid": 12342978,
+            "timestamp": "2022-02-14T22:36:34Z",
+            "version": 3,
+            "changeset": 117413013,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Urządzenie zamontowane na holu na wprost wejścia do budynku po lewej stronie w specjalnie oznaczonej i przeznaczonej do tego celu szafce zawieszonej na ścianie.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "location": "indoor",
-                "opening_hours": "Mo-Su 07:00-15:00"
+                "opening_hours": "Mo-Su 07:00-15:00",
+                "operator": "Zespół Szkół i Placówek w Chwałowicach"
             }
         },
         {

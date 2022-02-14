@@ -1,4 +1,4 @@
-# AED backup and stats (2022-02-14 22:33:04)
+# AED backup and stats (2022-02-14 23:33:04)
 
 
 ## Total AED plot
@@ -19,7 +19,7 @@ Average daily growth since beginning of the year: 37.91
 | 3 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 124 |
 | 4 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 104 |
 | 5 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 76 |
-| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 73 |
+| 6 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 74 |
 | 7 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 39 |
 | 8 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 38 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 33 |
@@ -29,7 +29,7 @@ Average daily growth since beginning of the year: 37.91
 | 13 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 21 |
 | 14 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
 | 15 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 17 |
-| 16 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
+| 16 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
 | 17 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
 | 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
 | 19 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
