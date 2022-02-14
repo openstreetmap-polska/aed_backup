@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-14T12:31:09Z",
+        "timestamp_osm_base": "2022-02-14T13:31:53Z",
         "timestamp_areas_base": "2022-02-14T08:00:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10898,15 +10898,16 @@
             "id": 9412020017,
             "lat": 52.1718258,
             "lon": 21.2317465,
-            "timestamp": "2022-01-12T07:18:02Z",
-            "version": 1,
-            "changeset": 116053493,
-            "user": "geomarcin1972",
-            "uid": 313993,
+            "timestamp": "2022-02-14T12:31:10Z",
+            "version": 2,
+            "changeset": 117391719,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie przy wejściu do WCK",
                 "defibrillator:location:en": "On the wall nearby entrance",
+                "description": "Aed umieszczony jest na ścianie budynku na zewnątrz na prawo od wejścia. Teren posesji Centrum Kultury jest ogrodzony i po ostatnich zajęciach ok. godziny 21:00 często zamykana jest furtka i brama. Stąd w informacja o ograniczonej dostępności.",
                 "emergency": "defibrillator",
                 "location": "outdoor"
             }
