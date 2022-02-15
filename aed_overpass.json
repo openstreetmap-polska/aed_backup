@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T10:31:40Z",
-        "timestamp_areas_base": "2022-02-15T09:15:46Z",
+        "timestamp_osm_base": "2022-02-15T11:31:29Z",
+        "timestamp_areas_base": "2022-02-15T11:16:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38116,6 +38116,84 @@
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Sarbia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507512051,
+            "lat": 53.2794578,
+            "lon": 15.3193003,
+            "timestamp": "2022-02-15T10:37:17Z",
+            "version": 1,
+            "changeset": 117429816,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy MAN",
+                "defibrillator:location:en": "Firetruck MAN",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Suchań"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507512052,
+            "lat": 53.2794642,
+            "lon": 15.3193912,
+            "timestamp": "2022-02-15T10:37:17Z",
+            "version": 1,
+            "changeset": 117429816,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy Mercedes",
+                "defibrillator:location:en": "Firetruck Mercedes",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Suchań"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507518365,
+            "lat": 52.1631157,
+            "lon": 16.4618005,
+            "timestamp": "2022-02-15T10:40:24Z",
+            "version": 1,
+            "changeset": 117429931,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok bramy garażowej",
+                "defibrillator:location:en": "On the wall next to the garage door",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Kamieniec",
+                "phone": "+48 614 430 069;+48 614 430 700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507538341,
+            "lat": 52.1615216,
+            "lon": 16.5366325,
+            "timestamp": "2022-02-15T10:43:41Z",
+            "version": 1,
+            "changeset": 117430060,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok bramy garażowej",
+                "defibrillator:location:en": "On the wall next to the garage door",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Konojad",
+                "phone": "+48 614 430 700"
             }
         }
     ]
