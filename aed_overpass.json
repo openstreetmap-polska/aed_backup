@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T15:31:43Z",
+        "timestamp_osm_base": "2022-02-15T16:31:31Z",
         "timestamp_areas_base": "2022-02-15T13:17:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -38212,6 +38212,67 @@
                 "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9508036901,
+            "lat": 51.3814497,
+            "lon": 21.1702587,
+            "timestamp": "2022-02-15T15:54:06Z",
+            "version": 1,
+            "changeset": 117442046,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie znajduje się w pomieszczeniu Ochrony na terenie Centrum. Dowódcy, przeszkoleni do jego użycia pełnią służbę całą dobę, więc można przyjąć, iż AED jest dostępne cały czas, choć zamiarem była dostępność urządzenia w godzinach otwarcia Centrum.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "M1 Radom",
+                "phone": "48 36 18 776",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9508108616,
+            "lat": 51.3786468,
+            "lon": 21.1266113,
+            "timestamp": "2022-02-15T16:01:25Z",
+            "version": 1,
+            "changeset": 117442322,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "E. Leclerc",
+                "phone": "48 381 10 10",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9508128321,
+            "lat": 51.4225917,
+            "lon": 21.1788357,
+            "timestamp": "2022-02-15T15:58:04Z",
+            "version": 1,
+            "changeset": 117442204,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:30-21:00",
+                "operator": "Castorama",
+                "phone": "48 61 40 100",
+                "wheelchair": "yes"
             }
         }
     ]
