@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T12:31:09Z",
-        "timestamp_areas_base": "2022-02-15T11:16:17Z",
+        "timestamp_osm_base": "2022-02-15T13:32:00Z",
+        "timestamp_areas_base": "2022-02-15T13:17:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38194,6 +38194,24 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna Konojad",
                 "phone": "+48 614 430 700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507819636,
+            "lat": 52.1623749,
+            "lon": 20.8124385,
+            "timestamp": "2022-02-15T13:22:14Z",
+            "version": 1,
+            "changeset": 117436376,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do UM na ścianie po lewej stronie",
+                "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
