@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T22:31:13Z",
-        "timestamp_areas_base": "2022-02-15T22:25:12Z",
+        "timestamp_osm_base": "2022-02-15T23:31:56Z",
+        "timestamp_areas_base": "2022-02-15T23:25:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -7852,14 +7852,16 @@
             "id": 9372773556,
             "lat": 51.3929038,
             "lon": 21.156644,
-            "timestamp": "2021-12-28T10:47:56Z",
-            "version": 1,
-            "changeset": 115463944,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-02-15T22:58:26Z",
+            "version": 2,
+            "changeset": 117454271,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00",
                 "operator": "Biedronka"
             }
         },
@@ -38309,6 +38311,42 @@
                 "emergency": "defibrillator",
                 "level": "0",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9509304064,
+            "lat": 51.4702129,
+            "lon": 20.9057411,
+            "timestamp": "2022-02-15T22:47:52Z",
+            "version": 2,
+            "changeset": 117454063,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Przytyk",
+                "source": "https://www.przytyk.pl/upload/9b862informator_nr5_2.pdf"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9509355199,
+            "lat": 51.1134748,
+            "lon": 20.1735113,
+            "timestamp": "2022-02-15T23:10:08Z",
+            "version": 1,
+            "changeset": 117454445,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Lipa",
+                "source": "https://radioplus.com.pl/region/61304-nowy-sprzet-dla-ochotnikow-z-lipy"
             }
         }
     ]
