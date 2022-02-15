@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T09:31:54Z",
+        "timestamp_osm_base": "2022-02-15T10:31:40Z",
         "timestamp_areas_base": "2022-02-15T09:15:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -37835,6 +37835,47 @@
         },
         {
             "type": "node",
+            "id": 9507353598,
+            "lat": 52.2004875,
+            "lon": 18.6386983,
+            "timestamp": "2022-02-15T09:44:35Z",
+            "version": 1,
+            "changeset": 117427650,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W biurze podawczym, na parterze",
+                "defibrillator:location:en": "In the reception office, on the ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Starostwo Powiatowe w Kole",
+                "phone": "+48 631 617 802"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507380247,
+            "lat": 53.8959149,
+            "lon": 15.0259075,
+            "timestamp": "2022-02-15T09:49:42Z",
+            "version": 1,
+            "changeset": 117427878,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej remizy",
+                "defibrillator:location:en": "On the front wall of the firehouse",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Mechowo"
+            }
+        },
+        {
+            "type": "node",
             "id": 9507382753,
             "lat": 53.274158,
             "lon": 14.6730555,
@@ -37850,6 +37891,231 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Żelisławiec",
                 "phone": "+48 91 485 70 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507387539,
+            "lat": 52.3319796,
+            "lon": 17.1644852,
+            "timestamp": "2022-02-15T09:33:32Z",
+            "version": 1,
+            "changeset": 117427158,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Kleszczewo",
+                "phone": "+48 728 207 250"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507390563,
+            "lat": 52.3015406,
+            "lon": 17.1246861,
+            "timestamp": "2022-02-15T09:40:09Z",
+            "version": 1,
+            "changeset": 117427437,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Śródka-Krzyżowniki",
+                "phone": "+48 500 085 043"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507391781,
+            "lat": 52.3646565,
+            "lon": 17.1242528,
+            "timestamp": "2022-02-15T09:35:20Z",
+            "version": 1,
+            "changeset": 117427243,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Gowarzewo",
+                "phone": "+48 662 030 754"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507392254,
+            "lat": 52.3303731,
+            "lon": 17.1111147,
+            "timestamp": "2022-02-15T09:38:52Z",
+            "version": 1,
+            "changeset": 117427383,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Komorniki",
+                "phone": "+48 691 024 600"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507408013,
+            "lat": 51.9146646,
+            "lon": 17.239729,
+            "timestamp": "2022-02-15T09:47:38Z",
+            "version": 1,
+            "changeset": 117427781,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 439[P]55 GBA Scania",
+                "defibrillator:location:en": "Firetruck Scania",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna",
+                "phone": "+48 697 708 365"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507413096,
+            "lat": 52.9039221,
+            "lon": 16.6910518,
+            "timestamp": "2022-02-15T10:20:12Z",
+            "version": 1,
+            "changeset": 117429226,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Gębice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507428149,
+            "lat": 52.8909851,
+            "lon": 16.9873029,
+            "timestamp": "2022-02-15T09:59:42Z",
+            "version": 1,
+            "changeset": 117428349,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na bocznej ścianie domu pomocy od ul. Kościelnej",
+                "defibrillator:location:en": "On the side wall of the nursing home from ul. Kościelna",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Dzienny Dom Pomocy Społecznej w Budzyniu",
+                "phone": "+48 672 843 201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507436470,
+            "lat": 52.8689195,
+            "lon": 16.6836308,
+            "timestamp": "2022-02-15T10:22:00Z",
+            "version": 1,
+            "changeset": 117429284,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Huta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507445520,
+            "lat": 52.8735356,
+            "lon": 16.4474563,
+            "timestamp": "2022-02-15T10:04:45Z",
+            "version": 1,
+            "changeset": 117428543,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Ciszkowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507466258,
+            "lat": 52.9174876,
+            "lon": 16.447463,
+            "timestamp": "2022-02-15T10:16:32Z",
+            "version": 1,
+            "changeset": 117429067,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Gajewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507491169,
+            "lat": 52.9079131,
+            "lon": 16.4008876,
+            "timestamp": "2022-02-15T10:23:46Z",
+            "version": 1,
+            "changeset": 117429338,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Jędrzejewo",
+                "phone": "+48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507491460,
+            "lat": 52.9377674,
+            "lon": 16.6570907,
+            "timestamp": "2022-02-15T10:27:35Z",
+            "version": 1,
+            "changeset": 117429456,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Sarbia"
             }
         }
     ]
