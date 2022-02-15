@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T20:31:43Z",
-        "timestamp_areas_base": "2022-02-15T19:21:39Z",
+        "timestamp_osm_base": "2022-02-15T21:31:25Z",
+        "timestamp_areas_base": "2022-02-15T21:23:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37760,30 +37760,30 @@
             "id": 9507325812,
             "lat": 53.2800631,
             "lon": 14.78229,
-            "timestamp": "2022-02-15T09:19:23Z",
-            "version": 1,
-            "changeset": 117426615,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-15T21:20:37Z",
+            "version": 2,
+            "changeset": 117451809,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Stare Czarnowo",
+                "operator": "Ochotnicza Straż Pożarna w Starym Czarnowie",
                 "phone": "+48 91 485 70 20"
             }
         },
         {
             "type": "node",
             "id": 9507327825,
-            "lat": 53.2799663,
-            "lon": 14.7821317,
-            "timestamp": "2022-02-15T09:18:08Z",
-            "version": 1,
-            "changeset": 117426559,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 53.2799651,
+            "lon": 14.7821377,
+            "timestamp": "2022-02-15T21:20:37Z",
+            "version": 2,
+            "changeset": 117451809,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu do urzędu",
@@ -37800,17 +37800,17 @@
             "id": 9507333163,
             "lat": 53.3022102,
             "lon": 14.8130198,
-            "timestamp": "2022-02-15T09:23:21Z",
-            "version": 1,
-            "changeset": 117426757,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-15T21:20:37Z",
+            "version": 2,
+            "changeset": 117451809,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Kołbacz",
+                "operator": "Ochotnicza Straż Pożarna w Kołbaczu",
                 "phone": "+48 91 485 70 20"
             }
         },
@@ -37819,17 +37819,17 @@
             "id": 9507333164,
             "lat": 53.2919893,
             "lon": 14.8669653,
-            "timestamp": "2022-02-15T09:25:56Z",
-            "version": 1,
-            "changeset": 117426863,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-15T21:20:37Z",
+            "version": 2,
+            "changeset": 117451809,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Żelewo",
+                "operator": "Ochotnicza Straż Pożarna w Żelewie",
                 "phone": "+48 91 485 70 20"
             }
         },
@@ -37879,17 +37879,17 @@
             "id": 9507382753,
             "lat": 53.274158,
             "lon": 14.6730555,
-            "timestamp": "2022-02-15T09:27:16Z",
-            "version": 1,
-            "changeset": 117426914,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-15T21:20:37Z",
+            "version": 2,
+            "changeset": 117451809,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Żelisławiec",
+                "operator": "Ochotnicza Straż Pożarna w Żelisławcu",
                 "phone": "+48 91 485 70 20"
             }
         },
@@ -38273,6 +38273,42 @@
                 "operator": "Castorama",
                 "phone": "48 61 40 100",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9509112182,
+            "lat": 50.5672129,
+            "lon": 22.0595652,
+            "timestamp": "2022-02-15T20:40:01Z",
+            "version": 1,
+            "changeset": 117450638,
+            "user": "KrzysztZ",
+            "uid": 4749992,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie wejścia",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9509112187,
+            "lat": 50.5721499,
+            "lon": 22.0554587,
+            "timestamp": "2022-02-15T20:40:01Z",
+            "version": 1,
+            "changeset": 117450638,
+            "user": "KrzysztZ",
+            "uid": 4749992,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Hali targowej",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7"
             }
         }
     ]
