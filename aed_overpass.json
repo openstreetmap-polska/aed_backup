@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-15T08:32:18Z",
-        "timestamp_areas_base": "2022-02-15T08:15:13Z",
+        "timestamp_osm_base": "2022-02-15T09:31:54Z",
+        "timestamp_areas_base": "2022-02-15T09:15:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37753,6 +37753,103 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Państwowa Straż Pożarna Przysucha"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507325812,
+            "lat": 53.2800631,
+            "lon": 14.78229,
+            "timestamp": "2022-02-15T09:19:23Z",
+            "version": 1,
+            "changeset": 117426615,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Stare Czarnowo",
+                "phone": "+48 91 485 70 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507327825,
+            "lat": 53.2799663,
+            "lon": 14.7821317,
+            "timestamp": "2022-02-15T09:18:08Z",
+            "version": 1,
+            "changeset": 117426559,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do urzędu",
+                "defibrillator:location:en": "At the entrance to the office",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Stare Czarnowo",
+                "phone": "+48 91 485 70 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507333163,
+            "lat": 53.3022102,
+            "lon": 14.8130198,
+            "timestamp": "2022-02-15T09:23:21Z",
+            "version": 1,
+            "changeset": 117426757,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Kołbacz",
+                "phone": "+48 91 485 70 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507333164,
+            "lat": 53.2919893,
+            "lon": 14.8669653,
+            "timestamp": "2022-02-15T09:25:56Z",
+            "version": 1,
+            "changeset": 117426863,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Żelewo",
+                "phone": "+48 91 485 70 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9507382753,
+            "lat": 53.274158,
+            "lon": 14.6730555,
+            "timestamp": "2022-02-15T09:27:16Z",
+            "version": 1,
+            "changeset": 117426914,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Żelisławiec",
+                "phone": "+48 91 485 70 20"
             }
         }
     ]
