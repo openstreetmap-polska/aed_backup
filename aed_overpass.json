@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T11:32:08Z",
-        "timestamp_areas_base": "2022-02-16T10:29:24Z",
+        "timestamp_osm_base": "2022-02-16T12:31:52Z",
+        "timestamp_areas_base": "2022-02-16T12:30:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38222,13 +38222,13 @@
             "id": 9508036901,
             "lat": 51.3814497,
             "lon": 21.1702587,
-            "timestamp": "2022-02-15T15:54:06Z",
-            "version": 1,
-            "changeset": 117442046,
+            "timestamp": "2022-02-16T11:44:32Z",
+            "version": 2,
+            "changeset": 117473005,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
-                "access": "permissive",
+                "access": "yes",
                 "defibrillator:location": "Urządzenie znajduje się w pomieszczeniu Ochrony na terenie Centrum. Dowódcy, przeszkoleni do jego użycia pełnią służbę całą dobę, więc można przyjąć, iż AED jest dostępne cały czas, choć zamiarem była dostępność urządzenia w godzinach otwarcia Centrum.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -38684,6 +38684,45 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:30-17:30",
                 "phone": "+48 667 279 260"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510364291,
+            "lat": 51.4031109,
+            "lon": 21.0896115,
+            "timestamp": "2022-02-16T11:42:38Z",
+            "version": 1,
+            "changeset": 117472930,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "AED są wewnątrz jednostki m.in. na wartowni oraz w pomieszczeniach służby zdrowia. Jeśli do Aresztu zgłosiłaby się osoba wymagająca pomocy to taką pomoc z pewnością uzyska.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Areszt Śledczy w Radomiu",
+                "phone": "48 613-10-00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510412414,
+            "lat": 51.3776839,
+            "lon": 21.3794508,
+            "timestamp": "2022-02-16T12:17:40Z",
+            "version": 2,
+            "changeset": 117474269,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Goździe",
+                "phone": "+48 509 067 415",
+                "source": "https://www.gozd.pl/art,738,strona-glowna.html"
             }
         }
     ]
