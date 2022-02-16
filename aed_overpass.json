@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T16:31:55Z",
-        "timestamp_areas_base": "2022-02-16T12:30:54Z",
+        "timestamp_osm_base": "2022-02-16T17:31:40Z",
+        "timestamp_areas_base": "2022-02-16T16:32:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38723,6 +38723,43 @@
                 "operator": "Ochotnicza Straż Pożarna w Goździe",
                 "phone": "+48 509 067 415",
                 "source": "https://www.gozd.pl/art,738,strona-glowna.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510928066,
+            "lat": 52.6254607,
+            "lon": 20.3671386,
+            "timestamp": "2022-02-16T16:34:27Z",
+            "version": 1,
+            "changeset": 117484344,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia - hol główny MCSiR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "07:00-21:00",
+                "operator": "MCSiR w Płońsku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510989679,
+            "lat": 51.44041,
+            "lon": 20.9992048,
+            "timestamp": "2022-02-16T17:24:26Z",
+            "version": 1,
+            "changeset": 117486180,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Zakrzew"
             }
         }
     ]
