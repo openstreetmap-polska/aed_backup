@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T09:31:39Z",
-        "timestamp_areas_base": "2022-02-16T08:28:58Z",
+        "timestamp_osm_base": "2022-02-16T10:31:24Z",
+        "timestamp_areas_base": "2022-02-16T10:29:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38348,6 +38348,265 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna Lipa",
                 "source": "https://radioplus.com.pl/region/61304-nowy-sprzet-dla-ochotnikow-z-lipy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510098167,
+            "lat": 54.0063273,
+            "lon": 15.9804424,
+            "timestamp": "2022-02-16T09:51:09Z",
+            "version": 1,
+            "changeset": 117468379,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu wejściowym, obok pokoju dyrektora",
+                "defibrillator:location:en": "In the entrance hall, next to the director's room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-18:00; Tu-Fr 07:00-15:00",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510104063,
+            "lat": 54.0082868,
+            "lon": 15.9861112,
+            "timestamp": "2022-02-16T09:45:27Z",
+            "version": 1,
+            "changeset": 117468140,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym urzędu",
+                "defibrillator:location:en": "In the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943579100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510112451,
+            "lat": 54.0082006,
+            "lon": 15.986022,
+            "timestamp": "2022-02-16T09:49:36Z",
+            "version": 1,
+            "changeset": 117468307,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej urzędu, przy wejściu \"A\"",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Stowarzyszenie Krzewienia Kultury Fizycznej i Bezpieczeństwa Pożarowego Ronin",
+                "phone": "+48 602 448 223"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510112452,
+            "lat": 54.0076837,
+            "lon": 15.985472,
+            "timestamp": "2022-02-16T09:49:36Z",
+            "version": 1,
+            "changeset": 117468307,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szatni kina, wejście boczne budynku",
+                "defibrillator:location:en": "In the cloakroom of the cinema, side entrance of the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510119558,
+            "lat": 54.0054525,
+            "lon": 15.981542,
+            "timestamp": "2022-02-16T10:05:52Z",
+            "version": 1,
+            "changeset": 117468963,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu wejściowym",
+                "defibrillator:location:en": "In the entrance hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-17:00; Tu-Fr 08:00-15:00",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510119620,
+            "lat": 54.0050568,
+            "lon": 15.9907791,
+            "timestamp": "2022-02-16T09:57:42Z",
+            "version": 1,
+            "changeset": 117468671,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym starostwa",
+                "defibrillator:location:en": "In the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510130970,
+            "lat": 54.0087132,
+            "lon": 15.9903577,
+            "timestamp": "2022-02-16T10:00:07Z",
+            "version": 1,
+            "changeset": 117468771,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przedsionku kościoła",
+                "defibrillator:location:en": "In the vestibule of the church",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510132014,
+            "lat": 51.6103195,
+            "lon": 17.8329492,
+            "timestamp": "2022-02-16T10:26:33Z",
+            "version": 1,
+            "changeset": 117469768,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Wysocko Małe",
+                "phone": "+48 691 117 906"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510136352,
+            "lat": 54.006428,
+            "lon": 15.992723,
+            "timestamp": "2022-02-16T10:08:45Z",
+            "version": 1,
+            "changeset": 117469078,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu do hali sportowej od strony Parku Orła Białego",
+                "defibrillator:location:en": "At the entrance to the sports hall from the side of Park Orła Białego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Białogard",
+                "phone": "+48 943 579 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510142101,
+            "lat": 51.6052362,
+            "lon": 17.8558053,
+            "timestamp": "2022-02-16T10:25:27Z",
+            "version": 2,
+            "changeset": 117469719,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Smardów",
+                "phone": "+48 664 687 548"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510167167,
+            "lat": 51.5111188,
+            "lon": 17.8456715,
+            "timestamp": "2022-02-16T10:16:48Z",
+            "version": 1,
+            "changeset": 117469375,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Antonin",
+                "phone": "+48 886 174 210"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510175238,
+            "lat": 51.5960625,
+            "lon": 17.789776,
+            "timestamp": "2022-02-16T10:18:49Z",
+            "version": 1,
+            "changeset": 117469448,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Janków Przygodzki",
+                "phone": "+48 668 067 144"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510183439,
+            "lat": 51.5875988,
+            "lon": 17.8253681,
+            "timestamp": "2022-02-16T10:22:49Z",
+            "version": 1,
+            "changeset": 117469617,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Przygodzice",
+                "phone": "+48 660 107 113"
             }
         }
     ]
