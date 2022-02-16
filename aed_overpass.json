@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T20:32:11Z",
-        "timestamp_areas_base": "2022-02-16T18:35:42Z",
+        "timestamp_osm_base": "2022-02-16T21:31:54Z",
+        "timestamp_areas_base": "2022-02-16T20:37:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38760,6 +38760,168 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Zakrzew"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512123917,
+            "lat": 53.4105107,
+            "lon": 18.453222,
+            "timestamp": "2022-02-16T21:09:58Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu",
+                "defibrillator:location:en": "By the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512129217,
+            "lat": 53.4115456,
+            "lon": 18.4444158,
+            "timestamp": "2022-02-16T21:11:46Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana przed wejściem",
+                "defibrillator:location:en": "Entrance wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512130617,
+            "lat": 53.4047692,
+            "lon": 18.4051992,
+            "timestamp": "2022-02-16T21:13:10Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie od ulicy Sportowej",
+                "defibrillator:location:en": "On the wall of Sportowa street",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512133017,
+            "lat": 53.4078834,
+            "lon": 18.4303013,
+            "timestamp": "2022-02-16T21:15:49Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana sali gimnastycznej",
+                "defibrillator:location:en": "On the wall of gym building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512161617,
+            "lat": 53.4138007,
+            "lon": 18.4432977,
+            "timestamp": "2022-02-16T21:18:07Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek klubu Wda Świecie",
+                "defibrillator:location:en": "Wda Swiecie football club building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512161618,
+            "lat": 53.4138007,
+            "lon": 18.4432977,
+            "timestamp": "2022-02-16T21:18:14Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek klubu Wda Świecie",
+                "defibrillator:location:en": "Wda Swiecie football club building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512166517,
+            "lat": 53.4067423,
+            "lon": 18.4400198,
+            "timestamp": "2022-02-16T21:21:44Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz sklepu Kaufland w \"Informacji\". Sklep czynny do 23:00.",
+                "defibrillator:location:en": "Inside Kaufland market in the \"Information spot\". During working hours (till 11 pm).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512168917,
+            "lat": 53.3478639,
+            "lon": 18.3134466,
+            "timestamp": "2022-02-16T21:23:07Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku remizy",
+                "defibrillator:location:en": "Inside fire department building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512172817,
+            "lat": 53.3988172,
+            "lon": 18.3931588,
+            "timestamp": "2022-02-16T21:26:33Z",
+            "version": 1,
+            "changeset": 117493993,
+            "user": "mystichussar",
+            "uid": 11854809,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W hali pływalni. Od 6:00 do 22:00",
+                "defibrillator:location:en": "Inside swimming pool hall. Available: 6:00 am till 10:00 pm.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
