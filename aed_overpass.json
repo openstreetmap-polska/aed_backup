@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T10:31:24Z",
+        "timestamp_osm_base": "2022-02-16T11:32:08Z",
         "timestamp_areas_base": "2022-02-16T10:29:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -38515,6 +38515,25 @@
         },
         {
             "type": "node",
+            "id": 9510135213,
+            "lat": 50.1447522,
+            "lon": 20.4191515,
+            "timestamp": "2022-02-16T10:33:44Z",
+            "version": 1,
+            "changeset": 117470076,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 582[K]33 Ford Transit",
+                "defibrillator:location:en": "Firetruck Ford Transit",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Hebdów",
+                "phone": "+48 506 584 868"
+            }
+        },
+        {
+            "type": "node",
             "id": 9510136352,
             "lat": 54.006428,
             "lon": 15.992723,
@@ -38607,6 +38626,64 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Przygodzice",
                 "phone": "+48 660 107 113"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510197768,
+            "lat": 50.1301811,
+            "lon": 20.3752627,
+            "timestamp": "2022-02-16T10:37:38Z",
+            "version": 1,
+            "changeset": 117470254,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 529[K]31 Fiat Ducato",
+                "defibrillator:location:en": "Firetruck Fiat Ducato",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Nowe Brzesko",
+                "phone": "+48 516 052 989"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510201214,
+            "lat": 50.141188,
+            "lon": 20.4474951,
+            "timestamp": "2022-02-16T10:39:27Z",
+            "version": 1,
+            "changeset": 117470336,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy Volvo",
+                "defibrillator:location:en": "Firetruck Volvo",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Śmiłowice",
+                "phone": "+48 504 275 464"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9510235733,
+            "lat": 52.182936,
+            "lon": 18.2090528,
+            "timestamp": "2022-02-16T10:42:18Z",
+            "version": 1,
+            "changeset": 117470436,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w korytarzu, w pobliżu wejścia do szatni",
+                "defibrillator:location:en": "On the wall in the corridor, near the entrance to the cloakroom",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:30-17:30",
+                "phone": "+48 667 279 260"
             }
         }
     ]
