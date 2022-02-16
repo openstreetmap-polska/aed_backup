@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T02:32:07Z",
-        "timestamp_areas_base": "2022-02-16T02:27:09Z",
+        "timestamp_osm_base": "2022-02-16T03:31:49Z",
+        "timestamp_areas_base": "2022-02-16T03:26:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -30577,14 +30577,15 @@
             "id": 9469989764,
             "lat": 54.3810953,
             "lon": 18.6061274,
-            "timestamp": "2022-02-02T22:05:35Z",
-            "version": 1,
-            "changeset": 116937790,
-            "user": "km2bp",
-            "uid": 3610826,
+            "timestamp": "2022-02-16T03:26:50Z",
+            "version": 2,
+            "changeset": 117457973,
+            "user": "Darellur",
+            "uid": 2452455,
             "tags": {
                 "emergency": "defibrillator",
                 "image": "https://photos.app.goo.gl/8uNesB9MwWk3V2hp6",
+                "indoor": "no",
                 "phone": "+48 58 778 60 00",
                 "phone_1": "+48 693 813 060"
             }
