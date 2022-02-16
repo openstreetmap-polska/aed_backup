@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-16T21:31:54Z",
-        "timestamp_areas_base": "2022-02-16T20:37:11Z",
+        "timestamp_osm_base": "2022-02-16T22:31:42Z",
+        "timestamp_areas_base": "2022-02-16T21:37:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10662,16 +10662,17 @@
             "id": 9410395117,
             "lat": 51.1631992,
             "lon": 21.2377347,
-            "timestamp": "2022-01-11T14:54:33Z",
-            "version": 1,
-            "changeset": 116027434,
-            "user": "radvid1",
-            "uid": 74444,
+            "timestamp": "2022-02-16T22:17:12Z",
+            "version": 2,
+            "changeset": 117495952,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy Punkcie Informacji Turystycznej",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7"
             }
         },
         {
