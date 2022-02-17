@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T17:31:53Z",
+        "timestamp_osm_base": "2022-02-17T18:31:42Z",
         "timestamp_areas_base": "2022-02-17T15:46:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -13137,19 +13137,22 @@
         {
             "type": "node",
             "id": 9423153917,
-            "lat": 51.311809,
-            "lon": 21.251027,
-            "timestamp": "2022-01-16T17:24:56Z",
-            "version": 1,
-            "changeset": 116222803,
-            "user": "MiNiU",
-            "uid": 14867904,
+            "lat": 51.311777,
+            "lon": 21.2509562,
+            "timestamp": "2022-02-17T18:11:08Z",
+            "version": 2,
+            "changeset": 117532927,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie pomiędzy bramami wyjazdowymi straży pożarnej",
                 "defibrillator:location:en": "On the external wall, between gates",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "OSP Skaryszew",
+                "wheelchair": "yes"
             }
         },
         {
@@ -39210,6 +39213,60 @@
                 "opening_hours": "24/7",
                 "operator": "Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego",
                 "phone": "+48 48 361 51 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514519559,
+            "lat": 51.3516752,
+            "lon": 21.2143413,
+            "timestamp": "2022-02-17T18:11:52Z",
+            "version": 1,
+            "changeset": 117532957,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Makowiec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514521115,
+            "lat": 51.4966002,
+            "lon": 21.2352226,
+            "timestamp": "2022-02-17T18:19:34Z",
+            "version": 1,
+            "changeset": 117533178,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Jastrzębia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514539663,
+            "lat": 51.2465708,
+            "lon": 20.9468884,
+            "timestamp": "2022-02-17T18:19:34Z",
+            "version": 2,
+            "changeset": 117533178,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Jastrzębia"
             }
         }
     ]
