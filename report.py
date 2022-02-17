@@ -157,7 +157,9 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
         'heading_level': 2,
         'content': f'![]({filename})'
     }
-
+def tag_access_no_std(df: pd.DataFrame)
+    access_std = ['private','yes','customers']
+    df_access_no_std = df.loc[~df['access'].isin(access_std)]
 
 def tag_access_details_pie(df: pd.DataFrame) -> Dict[str, Any]:
     df_access = df['access'].value_counts(sort=True).reset_index()
