@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T13:31:41Z",
-        "timestamp_areas_base": "2022-02-17T10:42:27Z",
+        "timestamp_osm_base": "2022-02-17T14:31:24Z",
+        "timestamp_areas_base": "2022-02-17T13:44:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39017,6 +39017,120 @@
                 "access": "private",
                 "defibrillator:location": "defibrylator na wyposażeniu samochodu pożarniczego",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513949837,
+            "lat": 51.322228,
+            "lon": 21.074363,
+            "timestamp": "2022-02-17T13:47:20Z",
+            "version": 1,
+            "changeset": 117522540,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kowala Stępocina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514032002,
+            "lat": 53.4021134,
+            "lon": 14.5027321,
+            "timestamp": "2022-02-17T14:21:02Z",
+            "version": 1,
+            "changeset": 117524110,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Przy linii kas.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 06:30-11:00; Sa 07:00-21:00",
+                "phone": "+48 91 42 46 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514032003,
+            "lat": 53.3885205,
+            "lon": 14.5042604,
+            "timestamp": "2022-02-17T14:21:02Z",
+            "version": 1,
+            "changeset": 117524110,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Naprzeciwko kas samoobsługowych, przy Punkcie Obsługi Klienta.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 09:00-21:00",
+                "phone": "+48 91 883 82 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514032005,
+            "lat": 53.3837539,
+            "lon": 14.6675131,
+            "timestamp": "2022-02-17T14:21:02Z",
+            "version": 1,
+            "changeset": 117524110,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Przy linii kas.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 09:00-21:00",
+                "phone": "+48 91 383 95 70"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514032009,
+            "lat": 53.3856259,
+            "lon": 14.6621344,
+            "timestamp": "2022-02-17T14:21:02Z",
+            "version": 1,
+            "changeset": 117524110,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Obok kantoru wymiany walut.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+                "phone": "+48 91 441 71 07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514032010,
+            "lat": 53.3864662,
+            "lon": 14.6591924,
+            "timestamp": "2022-02-17T14:21:02Z",
+            "version": 1,
+            "changeset": 117524110,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy linii kas.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 06:30-21:00; Sa 07:00-21:00",
+                "phone": "+48 91 46 03 100"
             }
         }
     ]
