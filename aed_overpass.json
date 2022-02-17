@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T16:30:56Z",
+        "timestamp_osm_base": "2022-02-17T17:31:53Z",
         "timestamp_areas_base": "2022-02-17T15:46:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -6727,12 +6727,13 @@
             "id": 9344502046,
             "lat": 51.4089151,
             "lon": 21.1475552,
-            "timestamp": "2022-02-02T11:39:16Z",
-            "version": 3,
-            "changeset": 116909308,
+            "timestamp": "2022-02-17T17:16:48Z",
+            "version": 4,
+            "changeset": 117530854,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
+                "access": "customers",
                 "defibrillator:location": "W budynku Mazowieckiego Wojewódzkiego Ośrodka Medycyny Pracy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -16481,15 +16482,16 @@
         {
             "type": "node",
             "id": 9434120719,
-            "lat": 53.4491167,
-            "lon": 14.4934025,
-            "timestamp": "2022-01-20T16:32:39Z",
-            "version": 1,
-            "changeset": 116392991,
+            "lat": 53.4491566,
+            "lon": 14.4933874,
+            "timestamp": "2022-02-17T16:34:07Z",
+            "version": 2,
+            "changeset": 117529422,
             "user": "d3mol3k",
             "uid": 1381079,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "Defibrylator zamontowany na ścianie po prawej stronie wejścia głównego od parkingu na przeciwko okna portierni",
                 "emergency": "defibrillator",
                 "location": "indoor"
             }
@@ -39131,6 +39133,83 @@
                 "level": "0",
                 "opening_hours": "Mo-Fr 06:30-21:00; Sa 07:00-21:00",
                 "phone": "+48 91 46 03 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514366700,
+            "lat": 51.4380871,
+            "lon": 21.1585474,
+            "timestamp": "2022-02-17T17:24:31Z",
+            "version": 2,
+            "changeset": 117531154,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na terenie placówki znajduje się kilka defibrylatorów AED",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Mazowiecki Szpital Specjalistyczny w Radomiu",
+                "phone": "+48 48 361 30 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514416011,
+            "lat": 51.3833543,
+            "lon": 21.1224018,
+            "timestamp": "2022-02-17T17:22:31Z",
+            "version": 1,
+            "changeset": 117531076,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Laboratorium Kryminalistyczne Komendy Wojewódzkiej Policji",
+                "phone": "+48 47 701 38 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514427876,
+            "lat": 51.4140422,
+            "lon": 21.1630085,
+            "timestamp": "2022-02-17T17:23:24Z",
+            "version": 2,
+            "changeset": 117531107,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Komenda Wojewódzka Policji zs. w Radomiu",
+                "phone": "+48 48 362 91 91",
+                "source": "https://mazowiecka.policja.gov.pl/ra/dzialania-policji/aktualnosci/61982,By-dac-szanse-na-uratowanie-zycia.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9514438347,
+            "lat": 51.3993406,
+            "lon": 21.1459742,
+            "timestamp": "2022-02-17T17:26:18Z",
+            "version": 1,
+            "changeset": 117531233,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego",
+                "phone": "+48 48 361 51 00"
             }
         }
     ]
