@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T11:32:13Z",
+        "timestamp_osm_base": "2022-02-17T12:31:54Z",
         "timestamp_areas_base": "2022-02-17T10:42:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -38948,6 +38948,25 @@
                 "operator": "Miasto Gdańsk",
                 "phone": "+48 58 778 60 00",
                 "phone:mobile": "+48 693 813 060"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513734970,
+            "lat": 51.8342615,
+            "lon": 16.5865952,
+            "timestamp": "2022-02-17T12:13:35Z",
+            "version": 1,
+            "changeset": 117518723,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek przebieralni przy lodowisku miejskim",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "source:url": "https://leszno.naszemiasto.pl/kolejny-defibrylator-aed-na-mapie-leszna-dostepny-jest-w/ar/c1-8680391"
             }
         }
     ]
