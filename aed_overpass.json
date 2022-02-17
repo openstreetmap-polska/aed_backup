@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T21:31:55Z",
-        "timestamp_areas_base": "2022-02-17T20:49:25Z",
+        "timestamp_osm_base": "2022-02-17T22:31:39Z",
+        "timestamp_areas_base": "2022-02-17T21:50:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38331,13 +38331,15 @@
             "id": 9509304064,
             "lat": 51.4702129,
             "lon": 20.9057411,
-            "timestamp": "2022-02-15T22:47:52Z",
-            "version": 2,
-            "changeset": 117454063,
+            "timestamp": "2022-02-17T21:36:25Z",
+            "version": 3,
+            "changeset": 117539219,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
-                "access": "yes",
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna Przytyk",
@@ -39363,6 +39365,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Krępsko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9515050364,
+            "lat": 51.6256092,
+            "lon": 20.8161131,
+            "timestamp": "2022-02-17T22:06:21Z",
+            "version": 1,
+            "changeset": 117539963,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Wyśmierzyce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9515065013,
+            "lat": 50.1022308,
+            "lon": 22.3385071,
+            "timestamp": "2022-02-17T22:02:14Z",
+            "version": 1,
+            "changeset": 117539860,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Białobrzegi"
             }
         }
     ]
