@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T07:31:57Z",
-        "timestamp_areas_base": "2022-02-17T06:40:09Z",
+        "timestamp_osm_base": "2022-02-17T08:31:55Z",
+        "timestamp_areas_base": "2022-02-17T07:40:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38925,6 +38925,29 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "Państwowa Wyższa Szkoła Zawodowa im. Jana Amosa Komeńskiego w Lesznie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513009078,
+            "lat": 54.3523419,
+            "lon": 18.5757881,
+            "timestamp": "2022-02-17T07:50:52Z",
+            "version": 1,
+            "changeset": 117506808,
+            "user": "Vilk",
+            "uid": 67129,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "A free-standing post at a tram stop",
+                "defibrillator:location:pl": "Słupek wolnostojący na przystanku tramwajowym",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Miasto Gdańsk",
+                "phone": "+48 58 778 60 00",
+                "phone:mobile": "+48 693 813 060"
             }
         }
     ]
