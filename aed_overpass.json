@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T12:31:54Z",
+        "timestamp_osm_base": "2022-02-17T13:31:41Z",
         "timestamp_areas_base": "2022-02-17T10:42:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -38967,6 +38967,56 @@
                 "indoor": "yes",
                 "level": "0",
                 "source:url": "https://leszno.naszemiasto.pl/kolejny-defibrylator-aed-na-mapie-leszna-dostepny-jest-w/ar/c1-8680391"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513827185,
+            "lat": 51.3152468,
+            "lon": 20.9910951,
+            "timestamp": "2022-02-17T13:25:42Z",
+            "version": 1,
+            "changeset": 117521559,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Orońsko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513892817,
+            "lat": 50.6097109,
+            "lon": 18.4805583,
+            "timestamp": "2022-02-17T13:23:33Z",
+            "version": 1,
+            "changeset": 117521455,
+            "user": "UM Zawadzkie",
+            "uid": 15108704,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "defibrylator na wyposażeniu samochodu pożarniczego",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9513899517,
+            "lat": 50.569781,
+            "lon": 18.5430433,
+            "timestamp": "2022-02-17T13:24:38Z",
+            "version": 1,
+            "changeset": 117521455,
+            "user": "UM Zawadzkie",
+            "uid": 15108704,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "defibrylator na wyposażeniu samochodu pożarniczego",
+                "emergency": "defibrillator"
             }
         }
     ]
