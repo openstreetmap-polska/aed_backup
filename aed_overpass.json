@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-17T00:31:37Z",
-        "timestamp_areas_base": "2022-02-16T23:38:59Z",
+        "timestamp_osm_base": "2022-02-17T01:32:17Z",
+        "timestamp_areas_base": "2022-02-17T00:38:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38905,6 +38905,26 @@
                 "defibrillator:location:en": "Inside swimming pool hall. Available: 6:00 am till 10:00 pm.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9512387173,
+            "lat": 51.8487578,
+            "lon": 16.5799665,
+            "timestamp": "2022-02-17T01:11:18Z",
+            "version": 1,
+            "changeset": 117498659,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy punkcie ksero.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Państwowa Wyższa Szkoła Zawodowa im. Jana Amosa Komeńskiego w Lesznie"
             }
         }
     ]
