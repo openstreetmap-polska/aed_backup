@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T07:32:09Z",
-        "timestamp_areas_base": "2022-02-18T06:53:39Z",
+        "timestamp_osm_base": "2022-02-18T08:31:52Z",
+        "timestamp_areas_base": "2022-02-18T07:54:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -680,15 +680,16 @@
         {
             "type": "node",
             "id": 3880422293,
-            "lat": 51.0985448,
-            "lon": 17.0365248,
-            "timestamp": "2021-12-15T10:59:14Z",
-            "version": 7,
-            "changeset": 114959282,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 51.098558,
+            "lon": 17.0365317,
+            "timestamp": "2022-02-18T08:20:47Z",
+            "version": 8,
+            "changeset": 117552071,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na ścianie przy Informacji kolejowej",
                 "emergency": "defibrillator",
                 "level": "0",
                 "location": "indoor",
