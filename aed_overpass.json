@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T10:31:43Z",
+        "timestamp_osm_base": "2022-02-18T11:31:29Z",
         "timestamp_areas_base": "2022-02-18T09:55:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39352,11 +39352,11 @@
         {
             "type": "node",
             "id": 9515001263,
-            "lat": 53.5965227,
-            "lon": 14.7435461,
-            "timestamp": "2022-02-17T21:26:00Z",
-            "version": 1,
-            "changeset": 117538912,
+            "lat": 53.5964849,
+            "lon": 14.7435478,
+            "timestamp": "2022-02-18T11:06:49Z",
+            "version": 2,
+            "changeset": 117559450,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -39404,6 +39404,69 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna Białobrzegi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516277088,
+            "lat": 53.6530295,
+            "lon": 14.6327701,
+            "timestamp": "2022-02-18T11:06:49Z",
+            "version": 1,
+            "changeset": 117559450,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Stepnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516277089,
+            "lat": 53.3998772,
+            "lon": 14.5040058,
+            "timestamp": "2022-02-18T11:06:49Z",
+            "version": 1,
+            "changeset": 117559450,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Makro. Dział Obsługi Klienta przy wejściu na halę sprzedaży.",
+                "defibrillator:location:en": "Makro. Customer Service Department at the entrance to the sales hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 03:00-22:00",
+                "operator": "Makro Cash and Carry Polska S.A  ul. Południowa 35, 71-001 Szczecin",
+                "phone": "+48 91 469 55 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516277090,
+            "lat": 54.1756553,
+            "lon": 16.2027595,
+            "timestamp": "2022-02-18T11:06:49Z",
+            "version": 1,
+            "changeset": 117559450,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Castorama. Przy wejściu do biura kierownika obiektu naprzeciwko kasy nr 3.",
+                "defibrillator:location:en": "Castorama. At the entrance to the facility manager's office, opposite the cashier's number 3.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 07:00-21:00",
+                "operator": "Castorama Koszalin",
+                "phone": "+48 94 311 81 00"
             }
         }
     ]
