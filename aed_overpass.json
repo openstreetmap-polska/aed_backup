@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T18:31:40Z",
+        "timestamp_osm_base": "2022-02-18T19:31:38Z",
         "timestamp_areas_base": "2022-02-18T14:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -20219,13 +20219,13 @@
         {
             "type": "node",
             "id": 9440244217,
-            "lat": 53.5891344,
-            "lon": 19.5700508,
-            "timestamp": "2022-01-22T18:31:00Z",
-            "version": 1,
-            "changeset": 116476360,
-            "user": "behrendtpawel",
-            "uid": 11441789,
+            "lat": 53.5891863,
+            "lon": 19.5701455,
+            "timestamp": "2022-02-18T18:43:03Z",
+            "version": 2,
+            "changeset": 117577539,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "defibrillator:location": "na ścianie budynku",
                 "defibrillator:location:en": "on the building's wall",
@@ -39579,6 +39579,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 18 202 0478"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9517286789,
+            "lat": 53.5891111,
+            "lon": 19.5701257,
+            "timestamp": "2022-02-18T18:43:03Z",
+            "version": 1,
+            "changeset": 117577539,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "PSP Iława",
+                "source:url": "https://www.eska.pl/ilawa/odznaczenia-i-nowy-woz-dla-ilawskich-strazakow-aa-tESV-swmR-GPW9.html"
             }
         }
     ]
