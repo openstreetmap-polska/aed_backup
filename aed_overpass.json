@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T17:31:58Z",
+        "timestamp_osm_base": "2022-02-18T18:31:40Z",
         "timestamp_areas_base": "2022-02-18T14:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39560,6 +39560,25 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Pionkach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9517227617,
+            "lat": 49.2978527,
+            "lon": 19.9561856,
+            "timestamp": "2022-02-18T18:00:01Z",
+            "version": 1,
+            "changeset": 117576206,
+            "user": "mickul",
+            "uid": 7354698,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W dyżurce Straży Miejskiej (pierwszy pokój po prawej).",
+                "defibrillator:location:en": "In a municipal guard room (first to the right).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 18 202 0478"
             }
         }
     ]
