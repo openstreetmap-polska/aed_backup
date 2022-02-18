@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T14:32:09Z",
-        "timestamp_areas_base": "2022-02-18T13:57:37Z",
+        "timestamp_osm_base": "2022-02-18T15:31:55Z",
+        "timestamp_areas_base": "2022-02-18T14:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32504,19 +32504,22 @@
         {
             "type": "node",
             "id": 9485436817,
-            "lat": 51.5889098,
-            "lon": 21.5550572,
-            "timestamp": "2022-02-09T12:16:23Z",
-            "version": 2,
-            "changeset": 117199805,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lat": 51.5889444,
+            "lon": 21.5550085,
+            "timestamp": "2022-02-18T15:05:46Z",
+            "version": 3,
+            "changeset": 117569288,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "AED umieszczony na ścianie wewnątrz budynku głównego Urzędu Miasta. Korytarz na parterze, po lewej stronie od wejścia.",
                 "defibrillator:location:en": "AED located on the wall inside the main City Hall building. Corridor on the ground floor, to the left of the entrance.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-17:00; Tu-Th 07:30-15:30; Fr 07:30-14:30",
+                "operator": "Urząd Miejski w Kozienicach",
+                "phone": "+48 48 611 71 00"
             }
         },
         {
@@ -39274,14 +39277,14 @@
             "id": 9514529753,
             "lat": 51.4317693,
             "lon": 21.3256562,
-            "timestamp": "2022-02-17T18:36:40Z",
-            "version": 1,
-            "changeset": 117533614,
+            "timestamp": "2022-02-18T15:22:21Z",
+            "version": 2,
+            "changeset": 117570006,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "na zewnątrz remizy w specjalnej kapsule, która po odkreceniu uruchamia syrenę alarmową na remizie i alarmuje wszystkich ochotników",
+                "defibrillator:location": "Na ścianie na zewnątrz remizy w specjalnej kapsule, która po odkręceniu uruchamia syrenę alarmową na remizie i alarmuje wszystkich ochotników",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Jedlnia-Letnisko",
@@ -39503,6 +39506,43 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Warce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516718251,
+            "lat": 51.6238726,
+            "lon": 21.3189971,
+            "timestamp": "2022-02-18T15:15:32Z",
+            "version": 1,
+            "changeset": 117569718,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Głowaczów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516723749,
+            "lat": 50.087139,
+            "lon": 19.5625638,
+            "timestamp": "2022-02-18T15:11:50Z",
+            "version": 1,
+            "changeset": 117569533,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Grojec",
+                "source": "https://www.facebook.com/1380336545559460/posts/1844422839150826/"
             }
         }
     ]
