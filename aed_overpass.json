@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-18T11:31:29Z",
-        "timestamp_areas_base": "2022-02-18T09:55:08Z",
+        "timestamp_osm_base": "2022-02-18T12:31:26Z",
+        "timestamp_areas_base": "2022-02-18T11:55:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39467,6 +39467,24 @@
                 "opening_hours": "Mo-Sa 07:00-21:00",
                 "operator": "Castorama Koszalin",
                 "phone": "+48 94 311 81 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9516346017,
+            "lat": 53.4189931,
+            "lon": 14.5515231,
+            "timestamp": "2022-02-18T11:41:09Z",
+            "version": 2,
+            "changeset": 117560932,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Dworzec PKP Szczecin Główny. Szafa medyczna w tzw. małej poczekalni, między holem kasowym, a głównym holem - vis a vis skrytek bagażowych.",
+                "defibrillator:location:en": "Szczecin Główny Railway Station. Medical cabinet in the so-called a small waiting room, between the cash desk and the main hall - opposite the luggage lockers.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
