@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-19T13:31:55Z",
-        "timestamp_areas_base": "2022-02-19T13:09:35Z",
+        "timestamp_osm_base": "2022-02-19T14:31:44Z",
+        "timestamp_areas_base": "2022-02-19T14:10:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37346,16 +37346,18 @@
             "id": 9505902545,
             "lat": 51.2788805,
             "lon": 21.4680744,
-            "timestamp": "2022-02-14T19:44:14Z",
-            "version": 1,
-            "changeset": 117408279,
+            "timestamp": "2022-02-19T14:06:24Z",
+            "version": 3,
+            "changeset": 117605469,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
-                "access": "yes",
+                "access": "permissive",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kazanów",
+                "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "Ochotnicza Straż Pożarna Kazanów"
+                "operator": "Ochotnicza Straż Pożarna Kazanów",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=1471806509596848&id=176562119121300"
             }
         },
         {
@@ -37761,17 +37763,18 @@
             "id": 9506351456,
             "lat": 51.3591583,
             "lon": 20.6238936,
-            "timestamp": "2022-02-14T22:24:53Z",
-            "version": 1,
-            "changeset": 117412801,
+            "timestamp": "2022-02-19T14:06:05Z",
+            "version": 2,
+            "changeset": 117605458,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "access": "permissive",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy PSP Przysucha",
+                "defibrillator:location:en": "Rescue and firefighting car PSP Przysucha",
                 "emergency": "defibrillator",
-                "operator": "Państwowa Straż Pożarna Przysucha"
+                "operator": "Państwowa Straż Pożarna Przysucha",
+                "source": "https://www.facebook.com/ziemiaprzysuska/posts/2663234127153270"
             }
         },
         {
