@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-19T22:31:40Z",
-        "timestamp_areas_base": "2022-02-19T22:16:28Z",
+        "timestamp_osm_base": "2022-02-19T23:31:25Z",
+        "timestamp_areas_base": "2022-02-19T23:17:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39818,6 +39818,25 @@
                 "defibrillator:location:en": "Two rescue and firefighting cars",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Ciepielów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520594716,
+            "lat": 51.6369696,
+            "lon": 21.4944092,
+            "timestamp": "2022-02-19T22:41:19Z",
+            "version": 1,
+            "changeset": 117621569,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Nowa Wieś",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Nowa Wieś",
+                "source": "http://www.kozienicepowiat.pl/images/dokumenty/promocja/2018/biuletyn/12.pdf"
             }
         }
     ]
