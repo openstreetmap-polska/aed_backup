@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-19T19:31:27Z",
+        "timestamp_osm_base": "2022-02-19T20:31:12Z",
         "timestamp_areas_base": "2022-02-19T18:12:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -29549,25 +29549,6 @@
         },
         {
             "type": "node",
-            "id": 9466540437,
-            "lat": 51.2079457,
-            "lon": 19.5463329,
-            "timestamp": "2022-02-07T20:20:00Z",
-            "version": 2,
-            "changeset": 117134523,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "opening_hours": "24/7",
-                "operator": "OSP w Gorzędowie"
-            }
-        },
-        {
-            "type": "node",
             "id": 9466540438,
             "lat": 50.86628,
             "lon": 18.82694,
@@ -36614,13 +36595,13 @@
         {
             "type": "node",
             "id": 9496233725,
-            "lat": 51.2079457,
-            "lon": 19.5463329,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 51.2079476,
+            "lon": 19.5463337,
+            "timestamp": "2022-02-19T19:50:44Z",
+            "version": 2,
+            "changeset": 117617380,
+            "user": "B_KSL",
+            "uid": 553541,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -39689,6 +39670,96 @@
                 "opening_hours": "24/7",
                 "operator": "LM Wind Power Blades",
                 "phone": "+48502333152"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520364984,
+            "lat": 51.1472591,
+            "lon": 17.0273827,
+            "timestamp": "2022-02-19T19:38:46Z",
+            "version": 1,
+            "changeset": 117617054,
+            "user": "Alexey Vazhnov",
+            "uid": 91771,
+            "tags": {
+                "description": "Luxmed \"C\", near receptionist table, on the wall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520366840,
+            "lat": 51.4017636,
+            "lon": 21.1576772,
+            "timestamp": "2022-02-19T19:40:32Z",
+            "version": 1,
+            "changeset": 117617103,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W głównym budynku Urzędu Miejskiego przy ul. Kilińskiego, obok biura obsługi mieszkańców.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Miejski w Radomiu",
+                "phone": "+48 48 362 04 19",
+                "source": "https://www.rynekzdrowia.pl/Aparatura-i-wyposazenie/Radom-w-magistracie-udostepniono-defibrylator,105849,5.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520414917,
+            "lat": 52.2809291,
+            "lon": 17.0234706,
+            "timestamp": "2022-02-19T20:08:52Z",
+            "version": 1,
+            "changeset": 117617771,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "sklep familiny",
+                "defibrillator:location:en": "shop",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520419217,
+            "lat": 52.2788514,
+            "lon": 16.9914756,
+            "timestamp": "2022-02-19T20:10:58Z",
+            "version": 1,
+            "changeset": 117617771,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Szkoła Podstawowa przy wejściu B",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520421217,
+            "lat": 52.2856857,
+            "lon": 16.9951901,
+            "timestamp": "2022-02-19T20:12:58Z",
+            "version": 1,
+            "changeset": 117617771,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "defibrillator:location": "OSP Kamionki",
+                "emergency": "defibrillator"
             }
         }
     ]
