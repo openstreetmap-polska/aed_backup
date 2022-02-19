@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-19T20:31:12Z",
-        "timestamp_areas_base": "2022-02-19T18:12:40Z",
+        "timestamp_osm_base": "2022-02-19T21:31:52Z",
+        "timestamp_areas_base": "2022-02-19T21:14:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39714,6 +39714,24 @@
         },
         {
             "type": "node",
+            "id": 9520413951,
+            "lat": 51.6660244,
+            "lon": 21.3950894,
+            "timestamp": "2022-02-19T20:36:54Z",
+            "version": 1,
+            "changeset": 117618602,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Wola Chodkowska",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Wola Chodkowska"
+            }
+        },
+        {
+            "type": "node",
             "id": 9520414917,
             "lat": 52.2809291,
             "lon": 17.0234706,
@@ -39760,6 +39778,43 @@
             "tags": {
                 "defibrillator:location": "OSP Kamionki",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520446375,
+            "lat": 51.5698581,
+            "lon": 21.5003961,
+            "timestamp": "2022-02-19T20:32:20Z",
+            "version": 1,
+            "changeset": 117618453,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Stanisławowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Stanisławowice",
+                "source": "http://www.kozienicepowiat.pl/images/dokumenty/promocja/2018/biuletyn/12.pdf"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9520460395,
+            "lat": 51.248799,
+            "lon": 21.575784,
+            "timestamp": "2022-02-19T20:45:47Z",
+            "version": 1,
+            "changeset": 117618873,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dwa Samochody ratowniczo-gaśnicze OSP Ciepielów",
+                "defibrillator:location:en": "Two rescue and firefighting cars",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Ciepielów"
             }
         }
     ]
