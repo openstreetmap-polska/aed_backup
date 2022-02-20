@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T18:31:38Z",
-        "timestamp_areas_base": "2022-02-20T18:25:38Z",
+        "timestamp_osm_base": "2022-02-20T19:32:12Z",
+        "timestamp_areas_base": "2022-02-20T19:27:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -40678,6 +40678,75 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "514725671"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522372737,
+            "lat": 53.4757128,
+            "lon": 14.4467288,
+            "timestamp": "2022-02-20T18:34:58Z",
+            "version": 1,
+            "changeset": 117650045,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "contaemergency:phone": "+48 883 426 880",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48693 437 121",
+                "operator": "OSP Wołczkowo",
+                "phone": "+4891 423 94 42",
+                "website": "http://www.ospwolczkowo.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522372738,
+            "lat": 53.4757196,
+            "lon": 14.4466415,
+            "timestamp": "2022-02-20T18:34:58Z",
+            "version": 1,
+            "changeset": 117650045,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "contaemergency:phone": "+48 883 426 880",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48693 437 121",
+                "operator": "OSP Wołczkowo",
+                "phone": "+4891 423 94 42",
+                "website": "http://www.ospwolczkowo.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522372739,
+            "lat": 53.4757259,
+            "lon": 14.4465476,
+            "timestamp": "2022-02-20T18:34:58Z",
+            "version": 1,
+            "changeset": 117650045,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "contaemergency:phone": "+48 883 426 880",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48693 437 121",
+                "operator": "OSP Wołczkowo",
+                "phone": "+4891 423 94 42",
+                "website": "http://www.ospwolczkowo.pl/"
             }
         }
     ]
