@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T12:31:26Z",
-        "timestamp_areas_base": "2022-02-20T12:22:11Z",
+        "timestamp_osm_base": "2022-02-20T13:31:01Z",
+        "timestamp_areas_base": "2022-02-20T13:22:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -40027,6 +40027,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Dobieszynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521537477,
+            "lat": 50.5183438,
+            "lon": 16.7795273,
+            "timestamp": "2022-02-20T12:31:39Z",
+            "version": 1,
+            "changeset": 117636590,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Przyłęk",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Przyłęku",
+                "source": "https://www.facebook.com/przylekOSP/posts/192806408061180"
             }
         }
     ]
