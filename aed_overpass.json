@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T21:31:39Z",
-        "timestamp_areas_base": "2022-02-20T21:27:39Z",
+        "timestamp_osm_base": "2022-02-20T22:31:20Z",
+        "timestamp_areas_base": "2022-02-20T22:28:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -19703,16 +19703,17 @@
             "id": 9439394617,
             "lat": 53.7727491,
             "lon": 20.4766613,
-            "timestamp": "2022-01-22T12:32:00Z",
-            "version": 1,
-            "changeset": 116464048,
-            "user": "tymek_k",
-            "uid": 14914466,
+            "timestamp": "2022-02-20T21:34:28Z",
+            "version": 2,
+            "changeset": 117655700,
+            "user": "Piotrowski",
+            "uid": 14573875,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Obok wejścia głównego",
                 "defibrillator:location:en": "Next to the main entrance",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "location": "outdoor"
             }
         },
@@ -40747,6 +40748,24 @@
                 "operator": "OSP Wołczkowo",
                 "phone": "+4891 423 94 42",
                 "website": "http://www.ospwolczkowo.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522788997,
+            "lat": 51.6185718,
+            "lon": 20.577245,
+            "timestamp": "2022-02-20T22:19:01Z",
+            "version": 1,
+            "changeset": 117656843,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Nowe Miasto nad Pilicą",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Nowym Mieście nad Pilicą"
             }
         }
     ]
