@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T17:31:54Z",
-        "timestamp_areas_base": "2022-02-20T17:23:54Z",
+        "timestamp_osm_base": "2022-02-20T18:31:38Z",
+        "timestamp_areas_base": "2022-02-20T18:25:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11669,18 +11669,21 @@
         {
             "type": "node",
             "id": 9416294918,
-            "lat": 50.099436,
-            "lon": 19.8361403,
-            "timestamp": "2022-01-13T19:25:47Z",
-            "version": 1,
-            "changeset": 116120227,
-            "user": "GoMeZz391",
-            "uid": 5636824,
+            "lat": 50.0994185,
+            "lon": 19.8362062,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 2,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na budynku OSP, naprzeciw szkoły. ",
+                "defibrillator:location": "Zewnętrzna ściana budynku, między bramami garażowymi od ul. Krakowskiej",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "operator": "OSP Rząska",
+                "phone": "601 618 368"
             }
         },
         {
@@ -11706,18 +11709,20 @@
         {
             "type": "node",
             "id": 9416341517,
-            "lat": 50.1481255,
-            "lon": 19.7091971,
-            "timestamp": "2022-01-13T19:24:20Z",
-            "version": 1,
-            "changeset": 116120227,
-            "user": "GoMeZz391",
-            "uid": 5636824,
+            "lat": 50.1481274,
+            "lon": 19.7091817,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 2,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na budynku OSP, od strony ulicy 21 Lipca/sklepu",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "phone": "505 147 000"
             }
         },
         {
@@ -22089,11 +22094,11 @@
         {
             "type": "node",
             "id": 9445590142,
-            "lat": 50.1079379,
-            "lon": 19.707118,
-            "timestamp": "2022-01-24T19:27:56Z",
-            "version": 1,
-            "changeset": 116555893,
+            "lat": 50.1079581,
+            "lon": 19.7071263,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 2,
+            "changeset": 117649447,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
@@ -30913,9 +30918,9 @@
             "id": 9472440710,
             "lat": 49.8799,
             "lon": 20.0908848,
-            "timestamp": "2022-02-03T19:57:44Z",
-            "version": 1,
-            "changeset": 116977804,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 2,
+            "changeset": 117649447,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
@@ -30923,6 +30928,7 @@
                 "defibrillator:location": "Przed głównym wejściem do Urzędu Gminy i Miasta Dobczyce",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "note": "są 2",
                 "phone": "+48 12 372 17 00"
             }
         },
@@ -30965,11 +30971,11 @@
         {
             "type": "node",
             "id": 9472440713,
-            "lat": 49.8545331,
-            "lon": 19.7960157,
-            "timestamp": "2022-02-03T19:57:44Z",
-            "version": 1,
-            "changeset": 116977804,
+            "lat": 49.8545453,
+            "lon": 19.7960643,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 2,
+            "changeset": 117649447,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
@@ -30977,6 +30983,7 @@
                 "defibrillator:location": "Przy wejściu głównym",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "note": "są 2",
                 "phone": "+48 12 273 20 75"
             }
         },
@@ -31318,13 +31325,13 @@
         {
             "type": "node",
             "id": 9475404858,
-            "lat": 49.8196656,
-            "lon": 19.2173395,
-            "timestamp": "2022-02-04T14:17:24Z",
-            "version": 1,
-            "changeset": 117008635,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 49.8197518,
+            "lon": 19.2173917,
+            "timestamp": "2022-02-20T17:53:53Z",
+            "version": 2,
+            "changeset": 117648777,
+            "user": "VA00",
+            "uid": 1745828,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na zewnątrz budynku OSP Porąbka",
@@ -40047,6 +40054,630 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Przyłęku",
                 "source": "https://www.facebook.com/przylekOSP/posts/192806408061180"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340187,
+            "lat": 50.10654,
+            "lon": 18.47518,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "32 4302562"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340188,
+            "lat": 50.12148,
+            "lon": 18.9926385,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy kasie MOSiR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:00-22:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340189,
+            "lat": 50.1067047,
+            "lon": 18.9852292,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na ścianie przy ochronie obiektu, przy głównym wejściu do budynku Mediateki",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Miejska Biblioteka Publiczna w Tychach",
+                "phone": "032/438-04-04"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340190,
+            "lat": 50.1264127,
+            "lon": 18.9824082,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pasaż Kultury Andromeda",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-16:00",
+                "operator": "Pasaż Kultury Andromeda",
+                "phone": "32 227 36 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340191,
+            "lat": 50.12827,
+            "lon": 18.98054,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Teatr Mały",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-16:00",
+                "operator": "Teatr Mały",
+                "phone": "32 227 36 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340192,
+            "lat": 50.073675,
+            "lon": 19.1740441,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Straży Miejskiej",
+                "emergency": "defibrillator",
+                "operator": "Straż miejska Bieruń",
+                "phone": "322163727"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340193,
+            "lat": 50.9058235,
+            "lon": 18.9407153,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Marszałkowski woj. śląskiego"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340194,
+            "lat": 50.2916097,
+            "lon": 18.6602616,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na parterze w pobliżu wejścia głównego do budynku urzędu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-We 07:30-15:30; Th 07:30-17:30; Fr 07:30-13:30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340195,
+            "lat": 50.1482159,
+            "lon": 19.1820241,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz obiektu przy ul.Karola Miarki 7, w korytarzu na parterze (wejścia z placu szkolnego Szkoły Podstawowej Nr 2 od strony ul.Karola Miarki 7 oraz od strony ul.Marii Dąbrowskiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr",
+                "operator": "Urząd Miasta Imielin",
+                "phone": "34 22 54 134"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340196,
+            "lat": 50.1461793,
+            "lon": 19.1888043,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz obiektu przy ul.Sapety 8a, w korytarzu na parterze (wejscia od strony Przedszkola Miejskiego oraz od strony Szkoły Podstawowej Nr 1)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Imielin",
+                "phone": "33 22 54 134"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340197,
+            "lat": 50.1389542,
+            "lon": 19.1810453,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku administracyjno-socjalnego przy ul.Hallera 37a , w holu na parterze (wejscie od ul.Hallera 37a",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Imielin",
+                "phone": "35 22 54 134"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340198,
+            "lat": 50.0397777,
+            "lon": 18.7518018,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana garażu pomiędzy budynkiem kościoła a probostwa Parafii",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "792 544 400"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340199,
+            "lat": 50.0189025,
+            "lon": 18.512956,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gminny Zakład GOSPodarki Komunalnej w Marklowicach",
+                "phone": "32 455 03 61"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340200,
+            "lat": 50.0183634,
+            "lon": 18.5125435,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat wójta gminy 1 piętro, biuro nr 202",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "operator": "Urząd Gminy Marklowice",
+                "phone": "32 45 92 800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340201,
+            "lat": 49.8545044,
+            "lon": 19.7960775,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "note": "są 2"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340202,
+            "lat": 49.8408166,
+            "lon": 19.8016352,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340203,
+            "lat": 49.8799307,
+            "lon": 20.0909676,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "są 2"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340204,
+            "lat": 49.8960732,
+            "lon": 19.8759542,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340205,
+            "lat": 49.8231624,
+            "lon": 19.9498216,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340206,
+            "lat": 50.1178127,
+            "lon": 19.920797,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy wejściu do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "Nov-Feb Mo-Fr 07:45-15:45",
+                "operator": "Starostwo Powiatowe",
+                "phone": "12 2850850"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340207,
+            "lat": 49.8626477,
+            "lon": 19.3513081,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "(w przedsionku kościoła)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "33 875 33 77,"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340208,
+            "lat": 49.8536672,
+            "lon": 19.3429268,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "(w zakrystii",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "33 875 20 29,"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340209,
+            "lat": 49.97337,
+            "lon": 21.1148241,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku ośrodka zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "08:00-18:00",
+                "phone": "146742004"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340210,
+            "lat": 50.0169971,
+            "lon": 21.1571261,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku ośrodka zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-16:00",
+                "phone": "146747002"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340211,
+            "lat": 49.9699667,
+            "lon": 21.0576191,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku ośrodka zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-17:00",
+                "phone": "146744011"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340212,
+            "lat": 49.9965727,
+            "lon": 21.0550893,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku ośrodka zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "08:00-18:00",
+                "phone": "146745008"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340213,
+            "lat": 50.1505702,
+            "lon": 19.7780177,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "kapsuła na ścianie frontowej budynku, obok bramy garażowej.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP w Karniowicach",
+                "phone": "48 660 554 762"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340214,
+            "lat": 50.1375765,
+            "lon": 19.8184855,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na budynku remizy w kapsule",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "509 190 256"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340215,
+            "lat": 50.1129776,
+            "lon": 19.8036013,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed wejściem do Samorządowego Centrum Kultury i Promocji Gminy Zabierzów",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "603 684 221, 606 176 149"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522340216,
+            "lat": 50.1079276,
+            "lon": 19.7071066,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Frontowa ściana budynku remizy OSP.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP W Nielepicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522362517,
+            "lat": 50.0661037,
+            "lon": 19.543005,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do Urzędu Miasta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522362518,
+            "lat": 49.9059601,
+            "lon": 19.9740839,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód gaśniczy",
+                "emergency": "defibrillator",
+                "phone": "502 041 170"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522362519,
+            "lat": 49.8584734,
+            "lon": 19.3464042,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na parterze budynku, obok Rejestracji Pacjentów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Su 08:00-18:00",
+                "operator": "Zespół Obsługi Mienia Komunalnego w Andrychowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522362520,
+            "lat": 49.689964,
+            "lon": 21.0984385,
+            "timestamp": "2022-02-20T18:15:09Z",
+            "version": 1,
+            "changeset": 117649447,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "514725671"
             }
         }
     ]
