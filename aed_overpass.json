@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T22:31:20Z",
-        "timestamp_areas_base": "2022-02-20T22:28:24Z",
+        "timestamp_osm_base": "2022-02-20T23:32:07Z",
+        "timestamp_areas_base": "2022-02-20T23:29:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12300,17 +12300,18 @@
             "id": 9420247817,
             "lat": 53.4881558,
             "lon": 14.3892876,
-            "timestamp": "2022-01-15T11:35:54Z",
-            "version": 1,
-            "changeset": 116179215,
-            "user": "sq1fyi",
-            "uid": 14859345,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 2,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "operator": "SP w Dobrej"
             }
         },
         {
@@ -40766,6 +40767,205 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Nowym Mieście nad Pilicą"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522853817,
+            "lat": 53.7733972,
+            "lon": 20.4877956,
+            "timestamp": "2022-02-20T22:39:42Z",
+            "version": 1,
+            "changeset": 117657250,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Straż miejska. Na ścianie w korytarzu przy wejściu na pierwszym piętrze.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "986"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907843,
+            "lat": 53.4757235,
+            "lon": 14.4393182,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:": "Samochód Straży Gminnej w Dobrej z siedzibą w Wołczkowie.",
+                "defibrillator:location:en": "The car of the Commune Guard in Dobra based in Wołczkowo.",
+                "emergency": "defibrillator",
+                "mobile": "+48 501 701 076",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-15:00",
+                "operator": "Gmina Dobra",
+                "phone": "+48 91 311-52-56"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907844,
+            "lat": 53.5572988,
+            "lon": 14.3145867,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
+                "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
+                "emergency": "defibrillator",
+                "operator": "Gmina Dobra",
+                "phone": "+48 91 424 19 69"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907846,
+            "lat": 53.5320708,
+            "lon": 14.3337947,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
+                "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "SP w Rędzinach",
+                "phone": "+4891 311 24 39"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907847,
+            "lat": 53.4350497,
+            "lon": 14.4086659,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
+                "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "SP w Dołujach",
+                "phone": "+48913118820"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907848,
+            "lat": 53.4572976,
+            "lon": 14.4558433,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
+                "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "SP w Bezrzeczu",
+                "phone": "+48914391731"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907850,
+            "lat": 53.42666,
+            "lon": 14.4620365,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:30-17:00",
+                "operator": "SP w Mierzynie",
+                "phone": "+48 91 483 13 40"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907851,
+            "lat": 53.4292634,
+            "lon": 14.4716388,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "In a police car on duty.",
+                "defibrillator:location:en": "In the room of the Police Station on duty in Mierzyn.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Policja Mierzyn",
+                "phone": "+48 91 821 73 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907852,
+            "lat": 53.4290244,
+            "lon": 14.4710675,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pomieszczeniu dyżurnego Komisariatu Policji w Mierzynie.",
+                "defibrillator:location:en": "In the room of the Police Station on duty in Mierzyn.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Policja Mierzyn",
+                "phone": "+48 91 821 73 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522907853,
+            "lat": 53.4866571,
+            "lon": 14.3843704,
+            "timestamp": "2022-02-20T23:15:07Z",
+            "version": 1,
+            "changeset": 117657805,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dobra",
+                "phone": "+48 512 385 027",
+                "website": "https://dobraszczecinska.osp.pl"
             }
         }
     ]
