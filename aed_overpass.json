@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T10:31:54Z",
-        "timestamp_areas_base": "2022-02-20T10:20:39Z",
+        "timestamp_osm_base": "2022-02-20T11:31:33Z",
+        "timestamp_areas_base": "2022-02-20T11:21:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39407,15 +39407,15 @@
             "id": 9516277088,
             "lat": 53.6530295,
             "lon": 14.6327701,
-            "timestamp": "2022-02-18T11:06:49Z",
-            "version": 1,
-            "changeset": 117559450,
+            "timestamp": "2022-02-20T11:28:03Z",
+            "version": 2,
+            "changeset": 117634281,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
-                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy Scania GCBA ZF 439-72.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle Scania GCBA ZF 439-72.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Stepnica"
@@ -39837,6 +39837,116 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Nowa Wieś",
                 "source": "http://www.kozienicepowiat.pl/images/dokumenty/promocja/2018/biuletyn/12.pdf"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521331840,
+            "lat": 51.1012053,
+            "lon": 21.3909037,
+            "timestamp": "2022-02-20T10:57:57Z",
+            "version": 2,
+            "changeset": 117633148,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dwa Samochody ratowniczo-gaśnicze OSP Grabowiec",
+                "defibrillator:location:en": "Two eescue and firefighting cars",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Grabowcu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521339448,
+            "lat": 51.0854515,
+            "lon": 21.4707136,
+            "timestamp": "2022-02-20T10:57:15Z",
+            "version": 2,
+            "changeset": 117633122,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Sienno",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Siennie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521347957,
+            "lat": 51.4015306,
+            "lon": 20.4808432,
+            "timestamp": "2022-02-20T11:09:35Z",
+            "version": 1,
+            "changeset": 117633600,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Gielniów",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Gielniowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521382034,
+            "lat": 51.1271061,
+            "lon": 21.4385835,
+            "timestamp": "2022-02-20T10:49:06Z",
+            "version": 1,
+            "changeset": 117632885,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dwa Samochody ratowniczo-gaśnicze OSP Rzeczniów",
+                "defibrillator:location:en": "Two rescue and firefighting cars",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Rzeczniowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521397515,
+            "lat": 51.1567393,
+            "lon": 21.4252186,
+            "timestamp": "2022-02-20T11:03:53Z",
+            "version": 1,
+            "changeset": 117633400,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Pawliczka",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Pawliczce",
+                "source": "https://www.facebook.com/OSPPAWLICZKA/posts/633737377085310"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9521438185,
+            "lat": 53.5858754,
+            "lon": 15.3062537,
+            "timestamp": "2022-02-20T11:28:03Z",
+            "version": 1,
+            "changeset": 117634281,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód pożarniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dobra"
             }
         }
     ]
