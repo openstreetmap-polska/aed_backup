@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T15:31:16Z",
+        "timestamp_osm_base": "2022-02-21T16:31:00Z",
         "timestamp_areas_base": "2022-02-21T13:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -41249,6 +41249,25 @@
                 "operator": "Akademia Handlowa Nauk Stosowanych w Radomiu",
                 "phone": "48 363 22 90",
                 "source": "https://www.facebook.com/AHNSRadom/posts/4892951374098631"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524738443,
+            "lat": 51.3979589,
+            "lon": 21.1375156,
+            "timestamp": "2022-02-21T15:43:26Z",
+            "version": 1,
+            "changeset": 117687823,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Wed,Fr 07:00-14:35; Th 07:00-17:35",
+                "operator": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa im. dr Konrada Vietha w Radomiu",
+                "phone": "48 36 26 276",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=182386900639281&id=104350995109539"
             }
         }
     ]
