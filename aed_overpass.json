@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T13:31:47Z",
-        "timestamp_areas_base": "2022-02-21T12:35:01Z",
+        "timestamp_osm_base": "2022-02-21T14:31:32Z",
+        "timestamp_areas_base": "2022-02-21T13:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38927,11 +38927,11 @@
             "id": 9512387173,
             "lat": 51.8487578,
             "lon": 16.5799665,
-            "timestamp": "2022-02-17T01:11:18Z",
-            "version": 1,
-            "changeset": 117498659,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-02-21T14:22:02Z",
+            "version": 2,
+            "changeset": 117684181,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na parterze, przy punkcie ksero.",
@@ -38939,7 +38939,8 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7",
-                "operator": "Państwowa Wyższa Szkoła Zawodowa im. Jana Amosa Komeńskiego w Lesznie"
+                "operator": "Państwowa Wyższa Szkoła Zawodowa im. Jana Amosa Komeńskiego w Lesznie",
+                "phone": "65 529 60 55"
             }
         },
         {
@@ -41013,14 +41014,14 @@
             "id": 9524004576,
             "lat": 51.6450161,
             "lon": 20.9534785,
-            "timestamp": "2022-02-21T10:48:22Z",
-            "version": 1,
-            "changeset": 117675070,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-21T14:24:08Z",
+            "version": 2,
+            "changeset": 117684290,
+            "user": "jackpod",
+            "uid": 10224616,
             "tags": {
                 "access": "permissive",
-                "defibrillator:location": "Wewnątrz budynku szkoły PSP 1 (Ustalić dokładnie gdzie)",
+                "defibrillator:location": "Wewnątrz budynku szkoły PSP 1 na ścianie przy wejściu głównym",
                 "emergency": "defibrillator",
                 "fixme": "Ustalić dokładne położenie",
                 "indoor": "yes",
@@ -41119,6 +41120,27 @@
                 "indoor": "yes",
                 "operator": "OSP Sowno",
                 "phone": "+48 601 554 442"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524492646,
+            "lat": 51.6144048,
+            "lon": 17.0573155,
+            "timestamp": "2022-02-21T14:19:54Z",
+            "version": 2,
+            "changeset": 117684112,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Urzędu Gminy Pakosław, na prawo od wejścia od strony parkingu",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Pakosławu",
+                "phone": "65 547 83 32",
+                "source": "https://www.facebook.com/solpako/photos/912736462394716",
+                "wheelchair": "yes"
             }
         }
     ]
