@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T14:31:32Z",
+        "timestamp_osm_base": "2022-02-21T15:31:16Z",
         "timestamp_areas_base": "2022-02-21T13:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -41141,6 +41141,114 @@
                 "phone": "65 547 83 32",
                 "source": "https://www.facebook.com/solpako/photos/912736462394716",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524537995,
+            "lat": 52.793031,
+            "lon": 20.5685158,
+            "timestamp": "2022-02-21T14:33:54Z",
+            "version": 1,
+            "changeset": 117684838,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kraszewo",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Kraszewo",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=1549048082122548&id=100010521137097"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524566452,
+            "lat": 51.4067847,
+            "lon": 21.146906,
+            "timestamp": "2022-02-21T14:51:02Z",
+            "version": 1,
+            "changeset": 117685593,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przed wejściem do biura, po prawej stronie od drzwi na terenie hali naprawczej wulkanizacji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:00-18:00;Sa 07:00-14:00",
+                "operator": "P.U.H Premio Centrum Gradowski",
+                "phone": "666 556 999; 48 363 08 43",
+                "source": "https://www.facebook.com/arkadiusz.gradowski.94/photos/a.542770772574659/1039007689617629/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524566858,
+            "lat": 51.3898278,
+            "lon": 21.1596183,
+            "timestamp": "2022-02-21T15:10:06Z",
+            "version": 1,
+            "changeset": 117686345,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-16:30",
+                "operator": "Mazowiecka Organizacja Medyczna sp. z .o. Przychodnia Słoneczna",
+                "phone": "48 363 22 90",
+                "source": "https://www.facebook.com/AHNSRadom/posts/4892951374098631"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524566871,
+            "lat": 51.3907793,
+            "lon": 21.1598557,
+            "timestamp": "2022-02-21T15:10:06Z",
+            "version": 1,
+            "changeset": 117686345,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na holu głównym po lewej stronie w budynku A",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-16:30",
+                "operator": "Akademia Handlowa Nauk Stosowanych w Radomiu",
+                "phone": "48 363 22 90",
+                "source": "https://www.facebook.com/AHNSRadom/posts/4892951374098631"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524626356,
+            "lat": 51.4004824,
+            "lon": 21.1477603,
+            "timestamp": "2022-02-21T15:04:36Z",
+            "version": 1,
+            "changeset": 117686106,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na holu głównym uczelni na ścianie po prawej stronie od recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-16:30",
+                "operator": "Akademia Handlowa Nauk Stosowanych w Radomiu",
+                "phone": "48 363 22 90",
+                "source": "https://www.facebook.com/AHNSRadom/posts/4892951374098631"
             }
         }
     ]
