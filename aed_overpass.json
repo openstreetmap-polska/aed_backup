@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T19:31:09Z",
-        "timestamp_areas_base": "2022-02-21T13:36:54Z",
+        "timestamp_osm_base": "2022-02-21T20:31:58Z",
+        "timestamp_areas_base": "2022-02-21T19:39:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39638,13 +39638,13 @@
             "id": 9520349421,
             "lat": 53.5392171,
             "lon": 14.8013842,
-            "timestamp": "2022-02-19T19:23:02Z",
-            "version": 1,
-            "changeset": 117616593,
+            "timestamp": "2022-02-21T19:48:36Z",
+            "version": 2,
+            "changeset": 117698637,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "private",
                 "defibrillator:location": "Hala DC 3",
                 "defibrillator:location:en": "DC 3 Hall",
                 "emergency": "defibrillator",
@@ -39659,13 +39659,13 @@
             "id": 9520349422,
             "lat": 53.5402564,
             "lon": 14.8005795,
-            "timestamp": "2022-02-19T19:23:02Z",
-            "version": 1,
-            "changeset": 117616593,
+            "timestamp": "2022-02-21T19:48:36Z",
+            "version": 2,
+            "changeset": 117698637,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:00-22:00",
@@ -41283,6 +41283,91 @@
                 "operator": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa im. dr Konrada Vietha w Radomiu",
                 "phone": "48 36 26 276",
                 "source": "https://www.facebook.com/permalink.php?story_fbid=182386900639281&id=104350995109539"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525375784,
+            "lat": 53.5369074,
+            "lon": 14.8005685,
+            "timestamp": "2022-02-21T19:48:36Z",
+            "version": 1,
+            "changeset": 117698637,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Centrum logistyczne Ikea",
+                "defibrillator:location:en": "Ikea Logistic Center",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-22:00",
+                "operator": "Ikea Industry Goleniów",
+                "phone": "+48914647000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525375785,
+            "lat": 53.5664525,
+            "lon": 14.8397183,
+            "timestamp": "2022-02-21T19:48:36Z",
+            "version": 1,
+            "changeset": 117698637,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala Lakiernia Komponent",
+                "defibrillator:location:en": "Component Varnish Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ikea Industry Goleniów",
+                "phone": "+48 91 464 70 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525375786,
+            "lat": 53.563354,
+            "lon": 14.8403348,
+            "timestamp": "2022-02-21T19:48:36Z",
+            "version": 1,
+            "changeset": 117698637,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala – Maszynownia",
+                "defibrillator:location:en": "Hall - Engine room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ikea Industry Goleniów",
+                "phone": "+48 91 464 70 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525431794,
+            "lat": 53.6710483,
+            "lon": 15.1195157,
+            "timestamp": "2022-02-21T20:14:53Z",
+            "version": 1,
+            "changeset": 117699418,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie budynku Urzędu, naprzeciwko budynku przy Plac Wolności nr 9.",
+                "defibrillator:location:en": "On the outer wall of the City Hall building, opposite the building at Plac Wolności No. 9.",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Gmina Nowogard",
+                "phone": "+48 91 39 26 200",
+                "wheelchair": "yes"
             }
         }
     ]
