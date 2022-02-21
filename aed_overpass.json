@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-20T23:32:07Z",
-        "timestamp_areas_base": "2022-02-20T23:29:08Z",
+        "timestamp_osm_base": "2022-02-21T00:31:50Z",
+        "timestamp_areas_base": "2022-02-21T00:29:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12300,9 +12300,9 @@
             "id": 9420247817,
             "lat": 53.4881558,
             "lon": 14.3892876,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 2,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:02:41Z",
+            "version": 3,
+            "changeset": 117658491,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -12310,7 +12310,7 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
-                "location": "outdoor",
+                "indoor": "yes",
                 "operator": "SP w Dobrej"
             }
         },
@@ -40792,14 +40792,14 @@
             "id": 9522907843,
             "lat": 53.4757235,
             "lon": 14.4393182,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:07:59Z",
+            "version": 2,
+            "changeset": 117658548,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location:": "Samochód Straży Gminnej w Dobrej z siedzibą w Wołczkowie.",
+                "defibrillator:location": "Samochód Straży Gminnej w Dobrej z siedzibą w Wołczkowie.",
                 "defibrillator:location:en": "The car of the Commune Guard in Dobra based in Wołczkowo.",
                 "emergency": "defibrillator",
                 "mobile": "+48 501 701 076",
@@ -40811,11 +40811,11 @@
         {
             "type": "node",
             "id": 9522907844,
-            "lat": 53.5572988,
+            "lat": 53.5572902,
             "lon": 14.3145867,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:02:41Z",
+            "version": 2,
+            "changeset": 117658491,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40823,6 +40823,7 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "Gmina Dobra",
                 "phone": "+48 91 424 19 69"
             }
@@ -40832,9 +40833,9 @@
             "id": 9522907846,
             "lat": 53.5320708,
             "lon": 14.3337947,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:02:41Z",
+            "version": 2,
+            "changeset": 117658491,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40842,9 +40843,10 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "SP w Rędzinach",
-                "phone": "+4891 311 24 39"
+                "operator": "SP w Rzędzinach",
+                "phone": "+48 91 311 24 39"
             }
         },
         {
@@ -40852,9 +40854,9 @@
             "id": 9522907847,
             "lat": 53.4350497,
             "lon": 14.4086659,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:02:41Z",
+            "version": 2,
+            "changeset": 117658491,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40862,6 +40864,7 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "SP w Dołujach",
                 "phone": "+48913118820"
@@ -40932,9 +40935,9 @@
             "id": 9522907852,
             "lat": 53.4290244,
             "lon": 14.4710675,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T00:02:41Z",
+            "version": 2,
+            "changeset": 117658491,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40942,6 +40945,7 @@
                 "defibrillator:location": "W pomieszczeniu dyżurnego Komisariatu Policji w Mierzynie.",
                 "defibrillator:location:en": "In the room of the Police Station on duty in Mierzyn.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Policja Mierzyn",
                 "phone": "+48 91 821 73 11"
@@ -40966,6 +40970,24 @@
                 "operator": "OSP Dobra",
                 "phone": "+48 512 385 027",
                 "website": "https://dobraszczecinska.osp.pl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9522951517,
+            "lat": 51.477191,
+            "lon": 21.0481561,
+            "timestamp": "2022-02-20T23:41:03Z",
+            "version": 2,
+            "changeset": 117658197,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Dąbrówka Podłężna",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Dąbrówka Podłężna"
             }
         }
     ]
