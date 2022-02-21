@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T06:31:37Z",
+        "timestamp_osm_base": "2022-02-21T07:31:23Z",
         "timestamp_areas_base": "2022-02-21T06:31:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -12300,9 +12300,9 @@
             "id": 9420247817,
             "lat": 53.4881558,
             "lon": 14.3892876,
-            "timestamp": "2022-02-21T00:02:41Z",
-            "version": 3,
-            "changeset": 117658491,
+            "timestamp": "2022-02-21T07:09:02Z",
+            "version": 4,
+            "changeset": 117665867,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -12310,7 +12310,7 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
                 "operator": "SP w Dobrej"
             }
         },
@@ -40813,9 +40813,9 @@
             "id": 9522907844,
             "lat": 53.5572902,
             "lon": 14.3145867,
-            "timestamp": "2022-02-21T00:02:41Z",
-            "version": 2,
-            "changeset": 117658491,
+            "timestamp": "2022-02-21T07:09:02Z",
+            "version": 3,
+            "changeset": 117665867,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40854,9 +40854,9 @@
             "id": 9522907847,
             "lat": 53.4350497,
             "lon": 14.4086659,
-            "timestamp": "2022-02-21T00:02:41Z",
-            "version": 2,
-            "changeset": 117658491,
+            "timestamp": "2022-02-21T07:09:02Z",
+            "version": 3,
+            "changeset": 117665867,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40864,7 +40864,7 @@
                 "defibrillator:location": "Na ścianie budynku szkoły przy głównym wejściu.",
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "SP w Dołujach",
                 "phone": "+48913118820"
@@ -40896,15 +40896,14 @@
             "id": 9522907850,
             "lat": 53.42666,
             "lon": 14.4620365,
-            "timestamp": "2022-02-20T23:15:07Z",
-            "version": 1,
-            "changeset": 117657805,
+            "timestamp": "2022-02-21T07:09:02Z",
+            "version": 2,
+            "changeset": 117665867,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
-                "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:30-17:00",
                 "operator": "SP w Mierzynie",
                 "phone": "+48 91 483 13 40"
@@ -40988,6 +40987,22 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Dąbrówka Podłężna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9523565717,
+            "lat": 51.6443679,
+            "lon": 20.9559659,
+            "timestamp": "2022-02-21T07:29:57Z",
+            "version": 1,
+            "changeset": 117666615,
+            "user": "jackpod",
+            "uid": 10224616,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
