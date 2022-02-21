@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T10:31:32Z",
-        "timestamp_areas_base": "2022-02-21T08:32:00Z",
+        "timestamp_osm_base": "2022-02-21T11:31:20Z",
+        "timestamp_areas_base": "2022-02-21T10:33:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39298,17 +39298,17 @@
             "id": 9514539663,
             "lat": 51.2465708,
             "lon": 20.9468884,
-            "timestamp": "2022-02-17T20:39:51Z",
-            "version": 3,
-            "changeset": 117537312,
+            "timestamp": "2022-02-21T11:13:42Z",
+            "version": 4,
+            "changeset": 117676355,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Jastrząb",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Jastrząb"
+                "operator": "Ochotnicza Straż Pożarna Jastrząb"
             }
         },
         {
@@ -40994,15 +40994,111 @@
             "id": 9523565717,
             "lat": 51.6443679,
             "lon": 20.9559659,
-            "timestamp": "2022-02-21T07:29:57Z",
-            "version": 1,
-            "changeset": 117666615,
+            "timestamp": "2022-02-21T11:00:32Z",
+            "version": 3,
+            "changeset": 117675730,
             "user": "jackpod",
             "uid": 10224616,
             "tags": {
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy KP PSP Białobrzegi",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Państwowa Komenda Straży Pożarnej w Białobrzegach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524004576,
+            "lat": 51.6450161,
+            "lon": 20.9534785,
+            "timestamp": "2022-02-21T10:48:22Z",
+            "version": 1,
+            "changeset": 117675070,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Wewnątrz budynku szkoły PSP 1 (Ustalić dokładnie gdzie)",
+                "emergency": "defibrillator",
+                "fixme": "Ustalić dokładne położenie",
+                "indoor": "yes",
+                "operator": "Publiczna Szkoła Podstawowa nr 1 im. Komisji Edukacji Narodowej w Białobrzegach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524038417,
+            "lat": 51.6443517,
+            "lon": 20.9560051,
+            "timestamp": "2022-02-21T10:56:00Z",
+            "version": 1,
+            "changeset": 117675521,
+            "user": "jackpod",
+            "uid": 10224616,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodzie ratowniczo-gaśniczym",
+                "defibrillator:location:en": "On a rescue and firefighting vehicle",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524051031,
+            "lat": 51.2246388,
+            "lon": 20.8620125,
+            "timestamp": "2022-02-21T11:16:42Z",
+            "version": 2,
+            "changeset": 117676517,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy KP PSP Szydłowiec",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "fixme": "Dopracyzować czy na wozie czy stacjonarne",
+                "operator": "Państwowa Komenda Straży Pożarnej w Szydłowcu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524067166,
+            "lat": 51.692508,
+            "lon": 20.721961,
+            "timestamp": "2022-02-21T11:18:48Z",
+            "version": 1,
+            "changeset": 117676612,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Mogielnica",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Mogielnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524073430,
+            "lat": 51.6385261,
+            "lon": 21.0871571,
+            "timestamp": "2022-02-21T11:12:39Z",
+            "version": 1,
+            "changeset": 117676297,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Wewnątrz budynku szkoły PSP Stromiec (ustalić dokładnie gdzie)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Publiczna Szkoła Podstawowa im. Dionizego Czachowskiego w Stromcu",
+                "phone": "+48 48 619 10 45"
             }
         }
     ]
