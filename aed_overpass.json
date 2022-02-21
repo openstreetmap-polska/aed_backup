@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T21:31:39Z",
-        "timestamp_areas_base": "2022-02-21T20:42:07Z",
+        "timestamp_osm_base": "2022-02-21T22:31:21Z",
+        "timestamp_areas_base": "2022-02-21T21:42:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14125,11 +14125,11 @@
         {
             "type": "node",
             "id": 9425131320,
-            "lat": 53.5658284,
-            "lon": 14.8303442,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "lat": 53.5658298,
+            "lon": 14.8303463,
+            "timestamp": "2022-02-21T22:02:38Z",
+            "version": 5,
+            "changeset": 117702397,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -14137,7 +14137,9 @@
                 "defibrillator:location": "Biuro Obsługi Interesanta",
                 "defibrillator:location:en": "Customer Service Office",
                 "emergency": "defibrillator",
+                "emergency:phone": "986",
                 "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
                 "operator": "Urząd Gminy i Miasta Goleniów",
                 "phone": "+48914698268"
             }
@@ -40801,13 +40803,13 @@
             "id": 9522907843,
             "lat": 53.4757235,
             "lon": 14.4393182,
-            "timestamp": "2022-02-21T00:07:59Z",
-            "version": 2,
-            "changeset": 117658548,
+            "timestamp": "2022-02-21T22:02:38Z",
+            "version": 3,
+            "changeset": 117702397,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Samochód Straży Gminnej w Dobrej z siedzibą w Wołczkowie.",
                 "defibrillator:location:en": "The car of the Commune Guard in Dobra based in Wołczkowo.",
                 "emergency": "defibrillator",
@@ -41367,6 +41369,26 @@
                 "operator": "Gmina Nowogard",
                 "phone": "+48 91 39 26 200",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525613687,
+            "lat": 53.5656529,
+            "lon": 14.8302137,
+            "timestamp": "2022-02-21T22:02:38Z",
+            "version": 1,
+            "changeset": 117702397,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód Straży Gminnej w Goleniowie.",
+                "defibrillator:location:en": "The car of the Commune Guard in Goleniów.",
+                "emergency": "defibrillator",
+                "emergency:phone": "986",
+                "operator": "Gmina Dobra",
+                "phone": "+48 91 46 98 292"
             }
         }
     ]
