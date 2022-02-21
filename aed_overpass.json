@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T11:31:20Z",
-        "timestamp_areas_base": "2022-02-21T10:33:39Z",
+        "timestamp_osm_base": "2022-02-21T12:32:01Z",
+        "timestamp_areas_base": "2022-02-21T11:34:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -9697,16 +9697,16 @@
             "id": 9392754376,
             "lat": 51.1180049,
             "lon": 17.0416951,
-            "timestamp": "2022-01-04T18:58:54Z",
-            "version": 1,
-            "changeset": 115767499,
+            "timestamp": "2022-02-21T11:51:48Z",
+            "version": 2,
+            "changeset": 117678165,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie",
                 "defibrillator:location:en": "On the wall",
-                "description": "W przestrzeni biurowej firmy UPS GBS",
+                "description": "W przestrzeni biurowej firmy UPS GBS, na drugim piętrze obok recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "2",
@@ -41099,6 +41099,26 @@
                 "indoor": "yes",
                 "operator": "Publiczna Szkoła Podstawowa im. Dionizego Czachowskiego w Stromcu",
                 "phone": "+48 48 619 10 45"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9524134544,
+            "lat": 53.4299661,
+            "lon": 14.9007071,
+            "timestamp": "2022-02-21T11:42:36Z",
+            "version": 1,
+            "changeset": 117677749,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Sowno",
+                "phone": "+48 601 554 442"
             }
         }
     ]
