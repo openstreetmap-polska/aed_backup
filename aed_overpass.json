@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T12:31:47Z",
-        "timestamp_areas_base": "2022-02-22T11:50:26Z",
+        "timestamp_osm_base": "2022-02-22T13:31:24Z",
+        "timestamp_areas_base": "2022-02-22T12:50:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39276,17 +39276,17 @@
             "id": 9514521115,
             "lat": 51.4966002,
             "lon": 21.2352226,
-            "timestamp": "2022-02-17T18:19:34Z",
-            "version": 1,
-            "changeset": 117533178,
+            "timestamp": "2022-02-22T12:40:16Z",
+            "version": 2,
+            "changeset": 117725821,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Jastrzębia",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Jastrzębia"
+                "operator": "Ochotnicza Straż Pożarna w Jastrzębii"
             }
         },
         {
