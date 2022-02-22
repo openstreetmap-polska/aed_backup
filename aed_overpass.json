@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T00:31:55Z",
-        "timestamp_areas_base": "2022-02-21T23:44:05Z",
+        "timestamp_osm_base": "2022-02-22T01:31:36Z",
+        "timestamp_areas_base": "2022-02-22T00:45:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41409,6 +41409,41 @@
                 "level": "0",
                 "location": "w korytarzu od wejścia wschodniego nad ławką, naprzeciw Biedronki",
                 "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525820017,
+            "lat": 50.8753266,
+            "lon": 20.6219449,
+            "timestamp": "2022-02-22T00:39:35Z",
+            "version": 1,
+            "changeset": 117705791,
+            "user": "FundacjaAED",
+            "uid": 14770831,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie w podziemnym przejściu, na wprost wejścia na peron 18",
+                "defibrillator:location:en": "Dworzec Autobusowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525822717,
+            "lat": 50.8687802,
+            "lon": 20.6377528,
+            "timestamp": "2022-02-22T00:42:36Z",
+            "version": 1,
+            "changeset": 117705791,
+            "user": "FundacjaAED",
+            "uid": 14770831,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "KCK, wejście główne, na portierni, zamknięty w szafce",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
