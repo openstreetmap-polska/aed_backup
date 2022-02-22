@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T22:31:30Z",
-        "timestamp_areas_base": "2022-02-22T20:56:15Z",
+        "timestamp_osm_base": "2022-02-22T23:32:21Z",
+        "timestamp_areas_base": "2022-02-22T22:58:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2583,20 +2583,6 @@
             "changeset": 107694456,
             "user": "woobooz",
             "uid": 13715392,
-            "tags": {
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7239772503,
-            "lat": 54.6057444,
-            "lon": 18.8013368,
-            "timestamp": "2020-02-24T18:59:17Z",
-            "version": 1,
-            "changeset": 81419997,
-            "user": "Piotr Strębski",
-            "uid": 5060085,
             "tags": {
                 "emergency": "defibrillator"
             }
@@ -9704,9 +9690,9 @@
             "id": 9392754376,
             "lat": 51.1180049,
             "lon": 17.0416951,
-            "timestamp": "2022-02-21T23:06:02Z",
-            "version": 3,
-            "changeset": 117704102,
+            "timestamp": "2022-02-22T22:39:55Z",
+            "version": 4,
+            "changeset": 117746496,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -9717,6 +9703,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "2",
+                "operator": "UPS GBS",
+                "phone": "71 312 20 00",
                 "wheelchair": "yes"
             }
         },
@@ -10523,18 +10511,20 @@
             "id": 9407301618,
             "lat": 51.3037336,
             "lon": 16.9125915,
-            "timestamp": "2022-01-10T11:28:28Z",
-            "version": 2,
-            "changeset": 115977597,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-02-22T22:36:09Z",
+            "version": 3,
+            "changeset": 117746426,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu do OSiR",
-                "defibrillator:location:en": "On the wall near entrance",
+                "defibrillator:location:en": "On the wall near entrance to the municipal sport center",
                 "emergency": "defibrillator",
                 "location": "outdoor",
                 "opening_hours": "24/7",
+                "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
+                "phone": "71 310 35 19",
                 "source": "https://m.facebook.com/story.php?story_fbid=1868211443367085&id=229875397200706&m_entstream_source=timeline&refid=52&__tn__=-R"
             }
         },
@@ -10559,18 +10549,20 @@
             "id": 9407332718,
             "lat": 51.4716823,
             "lon": 16.9086653,
-            "timestamp": "2022-01-10T11:54:05Z",
-            "version": 2,
-            "changeset": 115978666,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-02-22T22:36:09Z",
+            "version": 3,
+            "changeset": 117746426,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie Urzędu Miasta (od strony Dino)",
-                "defibrillator:location:en": "On the wall of the city office (from the side of Dino)",
+                "defibrillator:location": "Na północnej ścianie Urzędu Miasta (od strony Dino)",
+                "defibrillator:location:en": "On the northen wall of the City Hall (from the side of Dino)",
                 "emergency": "defibrillator",
                 "location": "outdoor",
                 "opening_hours": "24/7",
+                "operator": "Urząd Miasta i Gminy Żmigród",
+                "phone": "71 385 30 57",
                 "source": "http://www.zmigrod.com.pl/asp/defibrylator-aed-na-budynku-urzedu,2,artykul,195,7204"
             }
         },
@@ -10674,17 +10666,20 @@
             "id": 9410395117,
             "lat": 51.1631992,
             "lon": 21.2377347,
-            "timestamp": "2022-02-16T22:17:12Z",
-            "version": 2,
-            "changeset": 117495952,
+            "timestamp": "2022-02-22T23:18:47Z",
+            "version": 3,
+            "changeset": 117747198,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy Punkcie Informacji Turystycznej",
+                "defibrillator:location:en": "Outside the Tourist Information Centre",
                 "emergency": "defibrillator",
                 "location": "outdoor",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Centrum Informacji Turystycznej w Iłży",
+                "phone": "537 458 111"
             }
         },
         {
@@ -26783,17 +26778,17 @@
             "id": 9459281627,
             "lat": 51.30035,
             "lon": 16.92323,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-02-22T22:36:09Z",
+            "version": 3,
+            "changeset": 117746426,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Oborniki Śląskie",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Oborniki Śląskie"
+                "operator": "Ochotnicza Straż Pożarna w Obornikach Śląskich"
             }
         },
         {
@@ -36111,13 +36106,13 @@
         {
             "type": "node",
             "id": 9496201397,
-            "lat": 54.3128414,
-            "lon": 18.1097326,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 54.3127982,
+            "lon": 18.1096781,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 2,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -36129,18 +36124,20 @@
         {
             "type": "node",
             "id": 9496201398,
-            "lat": 54.3285058,
-            "lon": 18.0999705,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 54.3283704,
+            "lon": 18.0997537,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 2,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "ospchmielno1@wp.pl",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Chmielno"
             }
         },
@@ -41486,6 +41483,611 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Kozienicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436381,
+            "lat": 54.4413281,
+            "lon": 18.4209038,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "kontakt@ospchwaszczyno.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Chwaszczyno",
+                "website": "http://ospchwaszczyno.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436382,
+            "lat": 50.6457344,
+            "lon": 19.9271308,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Moskorzew",
+                "website": "https://www.facebook.com/OSP-Moskorzew-257611351041886/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436383,
+            "lat": 54.6054283,
+            "lon": 18.3479405,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "contact:facebook": "https://www.facebook.com/osp.reda/",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "facebook": "https://www.facebook.com/osp.reda/",
+                "indoor": "yes",
+                "phone": "+4858 678 35 22",
+                "website": "http://www.ospreda.cba.pl/news.php"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436393,
+            "lat": 53.8834516,
+            "lon": 17.7163606,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mail": "osp.brusy@gmail.com",
+                "manufacturer": "Philips",
+                "note": "Mają DWA AED na stanie. Oba są oznaczone. 1 AED = 1 node",
+                "operator": "OSP Brusy",
+                "website": "http://www.osp.brusy.pl/kontakt.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436405,
+            "lat": 54.669918,
+            "lon": 17.619248,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wicko",
+                "website": "https://www.facebook.com/osp.wicko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436407,
+            "lat": 53.79411,
+            "lon": 18.387227,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "wda.straz@gmail.com",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "OSP Wda",
+                "operator": "Urząd Gminy Lubichowo",
+                "phone": "+48 58 58 85 226",
+                "website": "https://www.facebook.com/OSP-Wda-2102508333327136/?ref=page_internal"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436408,
+            "lat": 51.2554437,
+            "lon": 21.9458312,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osp-rogow@wp.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Rogów",
+                "website": "https://www.facebook.com/OSP-KSRG-Rog%C3%B3w-190758117947602/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528436409,
+            "lat": 54.3551009,
+            "lon": 17.5560884,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Czarna Dąbrówka",
+                "phone": "+48 59 821 24 88"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501721,
+            "lat": 49.8451349,
+            "lon": 21.8100189,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Godowa Dolna",
+                "website": "https://www.facebook.com/ospgodowadolna/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501722,
+            "lat": 49.8692157,
+            "lon": 21.7875624,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Srzyżów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501724,
+            "lat": 53.7887159,
+            "lon": 19.1488809,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "ospsypanica@wp.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Sypanica",
+                "website": "https://www.facebook.com/OSP-Sypanica-101929818234542/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501726,
+            "lat": 54.3412445,
+            "lon": 18.3593038,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osp_zukowo@wp.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48 583 550 700",
+                "operator": "OSP Żukowo",
+                "phone": "Ochotnicza Straż Pożarna Żukowo",
+                "website": "http://ospzukowo.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501730,
+            "lat": 54.3537977,
+            "lon": 18.0839168,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "ospkozyczkowo998@wp.pl",
+                "emergency": "defibrillator",
+                "operator": "OSP Kożyczkowo",
+                "website": "https://www.facebook.com/OSP-Ko%C5%BCyczkowo-468121036710895/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501731,
+            "lat": 54.3920805,
+            "lon": 18.4062164,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP w Baninie",
+                "website": "https://www.facebook.com/ospBanino/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501732,
+            "lat": 51.2589052,
+            "lon": 21.8708731,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wilków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501733,
+            "lat": 51.0271142,
+            "lon": 20.3152247,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Węgrzyn",
+                "website": "https://www.facebook.com/OSP-KSRG-W%C4%99grzyn-615743105240764/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501734,
+            "lat": 54.347404,
+            "lon": 18.4376688,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osplezno@wp.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP w Leźnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501735,
+            "lat": 53.8481147,
+            "lon": 18.3988392,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osplubichowo@gmail.com",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Lubichowo",
+                "phone": "+48 58 58 85 226",
+                "website": "https://www.facebook.com/OSP.Lubichowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501736,
+            "lat": 51.254022,
+            "lon": 21.9127415,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "ospwolkapol@o2.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wólka Polanowska",
+                "phone": "+48 506 177 345",
+                "website": "https://www.facebook.com/ospwolkapolanowska/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501737,
+            "lat": 53.9494363,
+            "lon": 17.6964667,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Leśno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501738,
+            "lat": 54.6883848,
+            "lon": 17.6365589,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Wrzeście"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501739,
+            "lat": 49.873228,
+            "lon": 21.823206,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Żarnowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501740,
+            "lat": 53.755194,
+            "lon": 19.198997,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Prabuty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501741,
+            "lat": 54.316266,
+            "lon": 17.490731,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Nożynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501742,
+            "lat": 54.340068,
+            "lon": 18.0257606,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Miechucino"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501743,
+            "lat": 51.03485,
+            "lon": 20.21649,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Radoszyce;OSP Wilczkowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501744,
+            "lat": 53.7112032,
+            "lon": 18.1866892,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kołodzieje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501746,
+            "lat": 53.883351,
+            "lon": 17.7163033,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mail": "osp.brusy@gmail.com",
+                "manufacturer": "Philips",
+                "note": "Mają DWA AED na stanie. Oba są oznaczone. 1 AED = 1 node",
+                "operator": "OSP Brusy",
+                "website": "http://www.osp.brusy.pl/kontakt.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501747,
+            "lat": 54.7950506,
+            "lon": 18.4130879,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mail": "osp.wladyslawowo@gmail.com",
+                "operator": "OSP Władysławowo",
+                "phone": "+48 58 674 05 75"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9528501748,
+            "lat": 54.6056976,
+            "lon": 18.8013726,
+            "timestamp": "2022-02-22T23:17:32Z",
+            "version": 1,
+            "changeset": 117747099,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osp@hel.pl",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "mobile": "+48 539 775 456",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Helu",
+                "website": "www.osp.gohel.pl"
             }
         }
     ]
