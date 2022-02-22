@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T13:31:24Z",
+        "timestamp_osm_base": "2022-02-22T14:31:08Z",
         "timestamp_areas_base": "2022-02-22T12:50:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39274,11 +39274,11 @@
         {
             "type": "node",
             "id": 9514521115,
-            "lat": 51.4966002,
-            "lon": 21.2352226,
-            "timestamp": "2022-02-22T12:40:16Z",
-            "version": 2,
-            "changeset": 117725821,
+            "lat": 51.4965996,
+            "lon": 21.2352309,
+            "timestamp": "2022-02-22T14:08:07Z",
+            "version": 3,
+            "changeset": 117729097,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -41467,6 +41467,24 @@
                 "defibrillator:location": "Punkt informacji na hali dworca. Pon.-Niedz. 7:00-21:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9527327390,
+            "lat": 51.5830799,
+            "lon": 21.5490067,
+            "timestamp": "2022-02-22T14:25:21Z",
+            "version": 1,
+            "changeset": 117729978,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kozienice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Kozienicach"
             }
         }
     ]
