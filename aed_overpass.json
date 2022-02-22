@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T21:31:40Z",
+        "timestamp_osm_base": "2022-02-22T22:31:30Z",
         "timestamp_areas_base": "2022-02-22T20:56:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -34604,15 +34604,15 @@
             "id": 9489862192,
             "lat": 51.2257776,
             "lon": 20.8628748,
-            "timestamp": "2022-02-08T13:16:21Z",
-            "version": 1,
-            "changeset": 117160885,
+            "timestamp": "2022-02-22T22:28:52Z",
+            "version": 2,
+            "changeset": 117746286,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+                "operator": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Szydłowcu",
                 "phone": "+48 48 617 10 40"
             }
         },
@@ -41009,20 +41009,20 @@
         {
             "type": "node",
             "id": 9523565717,
-            "lat": 51.6443679,
-            "lon": 20.9559659,
-            "timestamp": "2022-02-21T11:00:32Z",
-            "version": 3,
-            "changeset": 117675730,
-            "user": "jackpod",
-            "uid": 10224616,
+            "lat": 51.6443746,
+            "lon": 20.9558854,
+            "timestamp": "2022-02-22T22:30:37Z",
+            "version": 4,
+            "changeset": 117746324,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy KP PSP Białobrzegi",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Państwowa Komenda Straży Pożarnej w Białobrzegach"
+                "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w w Białobrzegach"
             }
         },
         {
@@ -41047,19 +41047,20 @@
         {
             "type": "node",
             "id": 9524038417,
-            "lat": 51.6443517,
-            "lon": 20.9560051,
-            "timestamp": "2022-02-21T10:56:00Z",
-            "version": 1,
-            "changeset": 117675521,
-            "user": "jackpod",
-            "uid": 10224616,
+            "lat": 51.6443667,
+            "lon": 20.9560266,
+            "timestamp": "2022-02-22T22:30:37Z",
+            "version": 2,
+            "changeset": 117746324,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na samochodzie ratowniczo-gaśniczym",
                 "defibrillator:location:en": "On a rescue and firefighting vehicle",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w w Białobrzegach"
             }
         },
         {
@@ -41273,11 +41274,11 @@
         {
             "type": "node",
             "id": 9524738443,
-            "lat": 51.3979589,
-            "lon": 21.1375156,
-            "timestamp": "2022-02-21T22:57:34Z",
-            "version": 3,
-            "changeset": 117703820,
+            "lat": 51.3980794,
+            "lon": 21.1373922,
+            "timestamp": "2022-02-22T22:26:21Z",
+            "version": 4,
+            "changeset": 117746248,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -41467,24 +41468,6 @@
                 "defibrillator:location": "Punkt informacji na hali dworca. Pon.-Niedz. 7:00-21:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9527327390,
-            "lat": 51.5830799,
-            "lon": 21.5490067,
-            "timestamp": "2022-02-22T14:25:21Z",
-            "version": 1,
-            "changeset": 117729978,
-            "user": "voltairovicz",
-            "uid": 1744629,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kozienice",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna w Kozienicach"
             }
         },
         {
