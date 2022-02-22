@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-21T23:32:08Z",
-        "timestamp_areas_base": "2022-02-21T22:43:35Z",
+        "timestamp_osm_base": "2022-02-22T00:31:55Z",
+        "timestamp_areas_base": "2022-02-21T23:44:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41390,6 +41390,25 @@
                 "emergency:phone": "986",
                 "operator": "Gmina Dobra",
                 "phone": "+48 91 46 98 292"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9525730581,
+            "lat": 51.0942185,
+            "lon": 16.9818429,
+            "timestamp": "2022-02-21T23:43:37Z",
+            "version": 1,
+            "changeset": 117704959,
+            "user": "maro21",
+            "uid": 3476229,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "location": "w korytarzu od wejścia wschodniego nad ławką, naprzeciw Biedronki",
+                "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-20:00"
             }
         }
     ]
