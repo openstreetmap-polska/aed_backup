@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-22T09:31:38Z",
-        "timestamp_areas_base": "2022-02-22T08:47:08Z",
+        "timestamp_osm_base": "2022-02-22T10:31:24Z",
+        "timestamp_areas_base": "2022-02-22T09:47:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14131,9 +14131,9 @@
             "id": 9425131320,
             "lat": 53.5658298,
             "lon": 14.8303463,
-            "timestamp": "2022-02-21T22:02:38Z",
-            "version": 5,
-            "changeset": 117702397,
+            "timestamp": "2022-02-22T10:19:14Z",
+            "version": 6,
+            "changeset": 117719785,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -14144,7 +14144,7 @@
                 "emergency:phone": "986",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30",
-                "operator": "Urząd Gminy i Miasta Goleniów",
+                "operator": "Gmina Goleniów",
                 "phone": "+48914698268"
             }
         },
@@ -37207,13 +37207,13 @@
             "id": 9498965019,
             "lat": 53.5541628,
             "lon": 14.7892862,
-            "timestamp": "2022-02-21T20:41:46Z",
-            "version": 4,
-            "changeset": 117700221,
+            "timestamp": "2022-02-22T10:19:14Z",
+            "version": 5,
+            "changeset": 117719785,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "private",
+                "access": "permissive",
                 "defibrillator:location": "Hala Premoulding",
                 "defibrillator:location:en": "Premoulding Hall",
                 "emergency": "defibrillator",
@@ -41382,9 +41382,9 @@
             "id": 9525613687,
             "lat": 53.5656529,
             "lon": 14.8302137,
-            "timestamp": "2022-02-21T22:02:38Z",
-            "version": 1,
-            "changeset": 117702397,
+            "timestamp": "2022-02-22T10:19:14Z",
+            "version": 2,
+            "changeset": 117719785,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41393,7 +41393,8 @@
                 "defibrillator:location:en": "The car of the Commune Guard in Goleniów.",
                 "emergency": "defibrillator",
                 "emergency:phone": "986",
-                "operator": "Gmina Dobra",
+                "indoor": "no",
+                "operator": "Gmina Goleniów.",
                 "phone": "+48 91 46 98 292"
             }
         },
