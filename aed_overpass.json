@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T22:32:09Z",
-        "timestamp_areas_base": "2022-02-23T20:10:19Z",
+        "timestamp_osm_base": "2022-02-23T23:31:46Z",
+        "timestamp_areas_base": "2022-02-23T23:12:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10519,9 +10519,9 @@
             "id": 9407301618,
             "lat": 51.3037336,
             "lon": 16.9125915,
-            "timestamp": "2022-02-22T22:36:09Z",
-            "version": 3,
-            "changeset": 117746426,
+            "timestamp": "2022-02-23T22:52:56Z",
+            "version": 4,
+            "changeset": 117790562,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -10533,7 +10533,7 @@
                 "opening_hours": "24/7",
                 "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
                 "phone": "71 310 35 19",
-                "source": "https://m.facebook.com/story.php?story_fbid=1868211443367085&id=229875397200706&m_entstream_source=timeline&refid=52&__tn__=-R"
+                "source": "https://www.facebook.com/permalink.php?story_fbid=1868211443367085&id=229875397200706"
             }
         },
         {
@@ -39053,17 +39053,17 @@
             "id": 9513949837,
             "lat": 51.322228,
             "lon": 21.074363,
-            "timestamp": "2022-02-17T13:47:20Z",
-            "version": 1,
-            "changeset": 117522540,
+            "timestamp": "2022-02-23T22:35:13Z",
+            "version": 2,
+            "changeset": 117790192,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kowala Stępocina",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Kowala Stępocina"
+                "operator": "Ochotnicza Straż Pożarna w Kowali-Stępocinie"
             }
         },
         {
@@ -44276,6 +44276,130 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
                 "phone": "+48 58 775 99 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531056689,
+            "lat": 51.155635,
+            "lon": 20.7791978,
+            "timestamp": "2022-02-23T22:36:47Z",
+            "version": 1,
+            "changeset": 117790218,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Majdów",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Majdowie",
+                "source": "https://www.facebook.com/ospmajdow/posts/1224527087712162"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531059763,
+            "lat": 51.6052724,
+            "lon": 16.8951295,
+            "timestamp": "2022-02-23T23:20:39Z",
+            "version": 1,
+            "changeset": 117791030,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na frontowej ścianie remizy",
+                "defibrillator:location:en": "On the front wall of the fire station",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Szymanowie",
+                "source": "https://www.facebook.com/osprawicz/posts/2527369544163396"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531079855,
+            "lat": 51.4315744,
+            "lon": 21.3257035,
+            "timestamp": "2022-02-23T22:49:14Z",
+            "version": 1,
+            "changeset": 117790470,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Pionki",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Pionkach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531087069,
+            "lat": 51.5884907,
+            "lon": 21.545873,
+            "timestamp": "2022-02-23T22:46:23Z",
+            "version": 2,
+            "changeset": 117790404,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W głównym holu Domu Kultury, obok punktu informacji",
+                "defibrillator:location:en": "In the main hall of the cultural centre next to the information point",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "09:00-21:00",
+                "operator": "Kozienicki Dom Kultury im. Bogusława Klimczuka",
+                "phone": "48 611 07 50",
+                "source": "https://www.facebook.com/KDKimBK/posts/4101545906559617"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531100581,
+            "lat": 51.3172856,
+            "lon": 17.0583399,
+            "timestamp": "2022-02-23T23:07:35Z",
+            "version": 2,
+            "changeset": 117790828,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, na prawo od wejścia do firmy, obok bramy wjazdowej",
+                "defibrillator:location:en": "On the wall, on the right to the entrance and on the left to main gate",
+                "emergency": "defibrillator",
+                "image": "https://www.elmar-bhp.pl/wp-content/uploads/2019/10/defibrylatory-elmar.jpg",
+                "opening_hours": "24/7",
+                "operator": "Elmar",
+                "phone": "+48 71 312 44 48",
+                "source": "https://www.elmar-bhp.pl/defibrylatory-w-trzebnicy/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9531123016,
+            "lat": 51.3110709,
+            "lon": 17.063653,
+            "timestamp": "2022-02-23T23:07:35Z",
+            "version": 1,
+            "changeset": 117790828,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, na lewo od schodów prowadzących do sklepu BHP",
+                "defibrillator:location:en": "On the wall, on the left to the stairs leading to the entrance to the WHS shop",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Elmar",
+                "phone": "+48 71 312 44 48",
+                "source": "https://www.elmar-bhp.pl/defibrylatory-w-trzebnicy/",
+                "wheelchair": "yes"
             }
         }
     ]
