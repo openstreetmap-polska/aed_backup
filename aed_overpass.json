@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T07:31:40Z",
-        "timestamp_areas_base": "2022-02-23T07:02:17Z",
+        "timestamp_osm_base": "2022-02-23T08:31:24Z",
+        "timestamp_areas_base": "2022-02-23T08:01:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2706,17 +2706,17 @@
         {
             "type": "node",
             "id": 7570550308,
-            "lat": 54.6049228,
-            "lon": 18.8027185,
-            "timestamp": "2020-05-29T20:25:27Z",
-            "version": 1,
-            "changeset": 85965231,
-            "user": "Pooh01",
-            "uid": 199701,
+            "lat": 54.6049398,
+            "lon": 18.8027206,
+            "timestamp": "2022-02-23T07:45:02Z",
+            "version": 2,
+            "changeset": 117756518,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "E/S corner of building",
-                "defibrillator:location:pl": "południowo-wschodni narożnik budyku",
+                "defibrillator:location:pl": "Południowo-wschodni narożnik budyku",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
             }
@@ -42070,17 +42070,17 @@
         {
             "type": "node",
             "id": 9528501748,
-            "lat": 54.6056976,
-            "lon": 18.8013726,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 54.6057217,
+            "lon": 18.8013534,
+            "timestamp": "2022-02-23T07:45:02Z",
+            "version": 2,
+            "changeset": 117756518,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "defibrillator:location": "Na ścianie remizy od ul. Morskiej.",
+                "defibrillator:location:en": "On the wall of the firehouse from Morska Street.",
                 "email": "osp@hel.pl",
                 "emergency": "defibrillator",
                 "indoor": "no",
@@ -42088,6 +42088,39 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Helu",
                 "website": "www.osp.gohel.pl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529197105,
+            "lat": 51.1416422,
+            "lon": 17.0708001,
+            "timestamp": "2022-02-23T08:22:03Z",
+            "version": 1,
+            "changeset": 117757828,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Komenda Miejska Policji",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529202972,
+            "lat": 51.1057593,
+            "lon": 17.0304109,
+            "timestamp": "2022-02-23T08:31:24Z",
+            "version": 1,
+            "changeset": 117758172,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Opera Wrocławska",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Su 10:00-21:00"
             }
         }
     ]
