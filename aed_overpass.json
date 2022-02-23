@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T03:31:22Z",
-        "timestamp_areas_base": "2022-02-23T03:01:07Z",
+        "timestamp_osm_base": "2022-02-23T04:32:08Z",
+        "timestamp_areas_base": "2022-02-23T04:00:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -42051,18 +42051,18 @@
             "id": 9528501747,
             "lat": 54.7950506,
             "lon": 18.4130879,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-02-23T04:15:04Z",
+            "version": 2,
+            "changeset": 117750743,
+            "user": "user_5359",
+            "uid": 5359,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
+                "email": "osp.wladyslawowo@gmail.com",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "mail": "osp.wladyslawowo@gmail.com",
                 "operator": "OSP Władysławowo",
                 "phone": "+48 58 674 05 75"
             }
