@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T13:32:08Z",
+        "timestamp_osm_base": "2022-02-23T14:31:55Z",
         "timestamp_areas_base": "2022-02-23T12:04:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -43189,6 +43189,24 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "przychodnia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530062417,
+            "lat": 53.0263273,
+            "lon": 18.6275998,
+            "timestamp": "2022-02-23T14:09:24Z",
+            "version": 1,
+            "changeset": 117772575,
+            "user": "wojkrysz",
+            "uid": 2228365,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator wewnątrz budynku Centrum Nowoczesności Młyn Wiedzy, przy stanowisku ,,Informacja'', za podwójnymi drzwiami wejściowymi kierować się w lewo.",
+                "defibrillator:location:en": "AED inside the building, near the information desk, once inside - turn left.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
