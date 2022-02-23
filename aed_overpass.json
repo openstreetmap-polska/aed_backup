@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T20:31:39Z",
+        "timestamp_osm_base": "2022-02-23T21:31:26Z",
         "timestamp_areas_base": "2022-02-23T20:10:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28370,17 +28370,21 @@
         {
             "type": "node",
             "id": 9463191380,
-            "lat": 52.2787955,
-            "lon": 23.0520797,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 3,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 52.2787379,
+            "lon": 23.0520552,
+            "timestamp": "2022-02-23T20:58:06Z",
+            "version": 4,
+            "changeset": 117787378,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
-                "defibrillator:location": "Na ścianie przy bramie wjazdowej OSP Serpelice. W momencie otwarcia skrzynki załączy się syrena alarmowa.",
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się na ścianie budynku",
+                "defibrillator:location:en": "The device is located on the wall of the building",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Serpelice"
             }
         },
         {
@@ -35147,20 +35151,21 @@
         {
             "type": "node",
             "id": 9491935421,
-            "lat": 53.7556031,
-            "lon": 17.7710432,
-            "timestamp": "2022-02-09T10:33:27Z",
-            "version": 2,
-            "changeset": 117195862,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lat": 53.7556014,
+            "lon": 17.7710503,
+            "timestamp": "2022-02-23T20:39:57Z",
+            "version": 3,
+            "changeset": 117786655,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie szczytowej od strony ośrodka zdrowia",
                 "defibrillator:location:en": "On the gable wall from the side of the Health Center",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Rytel",
                 "phone": "+48 604163350"
             }
         },
@@ -43853,6 +43858,281 @@
                 "opening_hours": "Mo-Fr 07:00- 20:00",
                 "operator": "Miejskie Centrum Kultury",
                 "phone": "+48 56 4729 610"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530835740,
+            "lat": 54.3428454,
+            "lon": 18.6472784,
+            "timestamp": "2022-02-23T21:21:43Z",
+            "version": 2,
+            "changeset": 117788262,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku UMWP przy porierni.",
+                "defibrillator:location:en": "In the UMWP building at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:45 - 15:45",
+                "operator": "Urząd Marszałkowski Województwa Pomorskiego w Gdańsku",
+                "phone": "+48583268858"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530864896,
+            "lat": 53.775307,
+            "lon": 15.7779913,
+            "timestamp": "2022-02-23T21:00:55Z",
+            "version": 1,
+            "changeset": 117787477,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED znajduje się na 1. piętrze przy wejściu do sekretariatu.",
+                "defibrillator:location:en": "The AED is located on the first floor by the entrance to the secretariat.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "operator": "Park Wodny \"RELAX\"",
+                "phone": "+48501726156"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530874754,
+            "lat": 52.5442436,
+            "lon": 19.7111484,
+            "timestamp": "2022-02-23T20:59:16Z",
+            "version": 1,
+            "changeset": 117787420,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze w sali obsługi klientów",
+                "defibrillator:location:en": "on the ground floor in the customer service room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530876546,
+            "lat": 53.1116693,
+            "lon": 20.3832559,
+            "timestamp": "2022-02-23T21:02:08Z",
+            "version": 1,
+            "changeset": 117787519,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W sekretariacie Urzędu Miasta Mława",
+                "defibrillator:location:en": "At the secretariat of the Municipal Office of Mława",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "manufacturer": "Heartstart Philips",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Miasta Mława",
+                "phone": "+48 23 654 33 82"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530876698,
+            "lat": 52.2700203,
+            "lon": 20.9831831,
+            "timestamp": "2022-02-23T20:59:57Z",
+            "version": 1,
+            "changeset": 117787447,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze w holu głównym",
+                "defibrillator:location:en": "On the ground floor in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Dzielnicy Żoliborz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530877273,
+            "lat": 52.2017215,
+            "lon": 20.8713697,
+            "timestamp": "2022-02-23T21:01:28Z",
+            "version": 1,
+            "changeset": 117787499,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na poziomie \"O\", po prawej stronie przy wejściu do lokalu bibliotecznego za kratą wejściową .",
+                "defibrillator:location:en": "On level \"O\", to the right at the entrance to the library premises behind the entrance grate .",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-14:00",
+                "operator": "Biblioteka Publiczna im. W. J. Grabskiego w Dzielnicy Ursus m. st. Warszawy",
+                "phone": "+48 22 882 43 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530883008,
+            "lat": 54.2621597,
+            "lon": 18.6504816,
+            "timestamp": "2022-02-23T20:54:43Z",
+            "version": 1,
+            "changeset": 117787222,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budunku szkoły przy wejściu na halę sportową",
+                "defibrillator:location:en": "On the wall of the school building at the entrance to the sports hall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
+                "phone": "+48 58 775 99 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530894079,
+            "lat": 52.5599602,
+            "lon": 19.6841979,
+            "timestamp": "2022-02-23T21:08:28Z",
+            "version": 1,
+            "changeset": 117787757,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Wejściu głównym K3-K2 na parterze oraz w wejściu K7 przy administracji",
+                "defibrillator:location:en": "In the main entrance K3-K2 on the ground floor and in the entrance K7 at the administration",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hala Sportowa Orlen Arena",
+                "phone": "24 367 26 86",
+                "rob_addr:city": "Płock"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530894080,
+            "lat": 52.5599465,
+            "lon": 19.6841954,
+            "timestamp": "2022-02-23T21:08:28Z",
+            "version": 1,
+            "changeset": 117787757,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Wejściu głównym K3-K2 na parterze oraz w wejściu K7 przy administracji",
+                "defibrillator:location:en": "In the main entrance K3-K2 on the ground floor and in the entrance K7 at the administration",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hala Sportowa Orlen Arena",
+                "phone": "24 367 26 86",
+                "rob_addr:city": "Płock",
+                "rob_addr:housenumber": "1",
+                "rob_addr:street": "Plac Celebry Papieskiej",
+                "rob_nazwa_obiektu": "Hala Sportowa",
+                "uwagi_rob": "mają 2 szt rozdzielić jeśli można"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530896933,
+            "lat": 52.1674379,
+            "lon": 20.8002162,
+            "timestamp": "2022-02-23T20:57:16Z",
+            "version": 1,
+            "changeset": 117787354,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED umieszczone jest w holu szkoły, przy portierni",
+                "defibrillator:location:en": "The AED is located in the lobby of the school, by the reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-17:00",
+                "operator": "Liceum Ogółnokształcące im.Tomasza Zana",
+                "phone": "22 758 77 35"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530921023,
+            "lat": 54.2625302,
+            "lon": 18.6366096,
+            "timestamp": "2022-02-23T21:07:46Z",
+            "version": 1,
+            "changeset": 117787719,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na bocznej ścianie budynku Straży Miejskiej. W przejściu pomiędzy budynkami ul. Krótkiej 4 i 6, wchodząc od strony przystanku.",
+                "defibrillator:location:en": "On the sidewall of the Municipal Guard building. In the passage between the buildings at Krótka Street No. 4 and 6, entry from the bus stop.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
+                "phone": "+48 58 775 99 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530949657,
+            "lat": 54.344307,
+            "lon": 18.6459212,
+            "timestamp": "2022-02-23T21:21:43Z",
+            "version": 1,
+            "changeset": 117788262,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku UMWP przy wejściu głównym",
+                "defibrillator:location:en": "in the UMWP building at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:45-15:45",
+                "operator": "Urząd Marszałkowski Województwa Pomorskiego w Gdańsku",
+                "phone": "+48583268858"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530949660,
+            "lat": 54.3426813,
+            "lon": 18.6456788,
+            "timestamp": "2022-02-23T21:21:43Z",
+            "version": 1,
+            "changeset": 117788262,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku UMWP przy portierni",
+                "defibrillator:location:en": "in the UMWP building at the reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:45-15:45",
+                "operator": "Urząd Marszałkowski Województwa Pomorskiego w Gdańsku",
+                "phone": "+48583268858"
             }
         }
     ]
