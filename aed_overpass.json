@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T08:31:24Z",
-        "timestamp_areas_base": "2022-02-23T08:01:58Z",
+        "timestamp_osm_base": "2022-02-23T09:31:12Z",
+        "timestamp_areas_base": "2022-02-23T09:02:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -42111,16 +42111,190 @@
             "id": 9529202972,
             "lat": 51.1057593,
             "lon": 17.0304109,
-            "timestamp": "2022-02-23T08:31:24Z",
-            "version": 1,
-            "changeset": 117758172,
+            "timestamp": "2022-02-23T08:33:11Z",
+            "version": 2,
+            "changeset": 117758227,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Opera Wrocławska",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "Mo-Su 10:00-21:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529227357,
+            "lat": 51.1239162,
+            "lon": 17.0531616,
+            "timestamp": "2022-02-23T08:52:47Z",
+            "version": 1,
+            "changeset": 117758991,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Klinika Laryngologiczna MEDICUS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529241614,
+            "lat": 51.1085767,
+            "lon": 17.028633,
+            "timestamp": "2022-02-23T08:51:28Z",
+            "version": 1,
+            "changeset": 117758937,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biblioteka Uniwersytecka",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529246141,
+            "lat": 51.0818903,
+            "lon": 17.0351621,
+            "timestamp": "2022-02-23T09:13:31Z",
+            "version": 1,
+            "changeset": 117759863,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529255086,
+            "lat": 51.1101309,
+            "lon": 17.0449747,
+            "timestamp": "2022-02-23T08:54:55Z",
+            "version": 1,
+            "changeset": 117759069,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529266505,
+            "lat": 51.0722004,
+            "lon": 17.0032037,
+            "timestamp": "2022-02-23T09:05:33Z",
+            "version": 1,
+            "changeset": 117759525,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Elica Group Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529269866,
+            "lat": 51.11259,
+            "lon": 17.0591463,
+            "timestamp": "2022-02-23T09:08:12Z",
+            "version": 1,
+            "changeset": 117759651,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Multikino",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "2",
+                "opening_hours": "Mo-Su 08:00-23:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529285284,
+            "lat": 51.1056287,
+            "lon": 17.0249537,
+            "timestamp": "2022-02-23T09:27:41Z",
+            "version": 1,
+            "changeset": 117760562,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529296654,
+            "lat": 51.1026454,
+            "lon": 17.041154,
+            "timestamp": "2022-02-23T09:22:41Z",
+            "version": 1,
+            "changeset": 117760329,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Izba Administracji celnej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529296655,
+            "lat": 51.0908072,
+            "lon": 17.0324288,
+            "timestamp": "2022-02-23T09:22:41Z",
+            "version": 1,
+            "changeset": 117760329,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Su 06:00-23:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529317628,
+            "lat": 51.105072,
+            "lon": 17.0278558,
+            "timestamp": "2022-02-23T09:30:15Z",
+            "version": 1,
+            "changeset": 117760671,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
             }
         }
     ]
