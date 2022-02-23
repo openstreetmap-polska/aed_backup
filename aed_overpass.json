@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T17:32:10Z",
-        "timestamp_areas_base": "2022-02-23T15:06:14Z",
+        "timestamp_osm_base": "2022-02-23T18:31:55Z",
+        "timestamp_areas_base": "2022-02-23T18:08:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -43264,6 +43264,236 @@
                 "operator": "Parafia św. Antoniego Padewskiego w Syryni",
                 "phone": "+ 48 32 451 71 24",
                 "source": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Syryni-2324365414474793/photos/pcb.3175186159392710/3175185386059454/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530493313,
+            "lat": 53.087238,
+            "lon": 21.5720107,
+            "timestamp": "2022-02-23T17:36:07Z",
+            "version": 2,
+            "changeset": 117780796,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w Urzędzie Miasta - w korytarzu na parterze, obok pokoju nr 6",
+                "defibrillator:location:en": "The device is located in the Municipal Office - in the corridor on the ground floor next to the room 6",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "Mo-Fr 08:00-17:00",
+                "operator": "Urząd Miasta Ostrołęki - wydział Obsługi Urzędu i Mieszkańców / Dyrektor",
+                "phone": "+48 603 353 150"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530501734,
+            "lat": 52.30732,
+            "lon": 21.1581136,
+            "timestamp": "2022-02-23T17:49:27Z",
+            "version": 1,
+            "changeset": 117781270,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Ośrodku Zdrowia przy wejściu głównym po lewej stronie",
+                "defibrillator:location:en": "In front of the Municipal Health Centre on the left to the main entrance",
+                "emergency": "defibrillator",
+                "image": "https://lh3.googleusercontent.com/p/AF1QipPItmmeZa32WzI2kNZWh9gOtw4uFa9nUFfw7cw=s1600-w400",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta w Zielonce",
+                "phone": "+48 507 155189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530509627,
+            "lat": 52.5368627,
+            "lon": 19.7008484,
+            "timestamp": "2022-02-23T17:44:06Z",
+            "version": 1,
+            "changeset": 117781078,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu na teren zoo obok ochrony ogrodu zoologicznego",
+                "defibrillator:location:en": "At the entrance to the zoo area next to the zoo security guard",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ogród Zoologiczny w Płocku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530513353,
+            "lat": 53.089218,
+            "lon": 21.5747663,
+            "timestamp": "2022-02-23T17:51:42Z",
+            "version": 1,
+            "changeset": 117781353,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w Hali Widowiskowo Sportowej im. A.Gołasia w holu na wprost z wejścia głównego",
+                "defibrillator:location:en": "The device is located in the A. Gołasio Sports and Entertainment Centre in the hall opposite the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "07:00-22:00",
+                "operator": "Kierownik Haliwidowiskowo-sportowej im. Arkadiusza Gołasia",
+                "phone": "+48 784 132 028"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530523789,
+            "lat": 52.5510879,
+            "lon": 19.6884647,
+            "timestamp": "2022-02-23T17:41:28Z",
+            "version": 1,
+            "changeset": 117780990,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze hali sportowej",
+                "defibrillator:location:en": "On the ground floor of the Sport Centre",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr16 im. Mikołaja Kopernika"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530545699,
+            "lat": 52.1632356,
+            "lon": 20.8019152,
+            "timestamp": "2022-02-23T17:57:08Z",
+            "version": 1,
+            "changeset": 117781552,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie AED umieszczone jest na parterze budynku w Sali A, za stanowiskiem nr 13. Wejście od ulicy Drzymały 30",
+                "defibrillator:location:en": "The AED unit is located on the ground floor of the building in the Room A, behind the stand no. 13. Entrance from Drzymały 30 Street",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo,We 08:00-18:00; Tu,Th 08:00-16:00; Fr 08:00-14:00",
+                "operator": "Starostwo Powiatu Pruszkowskiego - Wydział Obsługi Mieszkańców",
+                "phone": "22 738-14-13."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530557971,
+            "lat": 52.5922814,
+            "lon": 21.455819,
+            "timestamp": "2022-02-23T17:54:54Z",
+            "version": 1,
+            "changeset": 117781462,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED z szafką wewnętrzną zamotowane na ścianie wewnątrz budynku",
+                "defibrillator:location:en": "AED with internal cabinet installed on the wall inside the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Wyszkowie",
+                "phone": "+48 29 743 77 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530562088,
+            "lat": 52.1855219,
+            "lon": 20.8908467,
+            "timestamp": "2022-02-23T17:59:05Z",
+            "version": 1,
+            "changeset": 117781636,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szatniach przy boisku Orlik w pokoju animatora sportu",
+                "defibrillator:location:en": "In the changing rooms at the Orlik pitch in the sports animator's room.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 08:00-22:00",
+                "operator": "OSiR Ursus",
+                "phone": "+48 88 5524640"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530563972,
+            "lat": 52.3998899,
+            "lon": 20.9173729,
+            "timestamp": "2022-02-23T18:04:15Z",
+            "version": 1,
+            "changeset": 117781802,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie usytuowane jest w głównym holu budynku po prawej stronie od wejścia",
+                "defibrillator:location:en": "The device is located in the main hall of the building to the right of the entrance;",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:00-23:00",
+                "operator": "Urząd Miasta Legionowo",
+                "phone": "+48 22 766 45 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530567947,
+            "lat": 52.2060801,
+            "lon": 21.1712354,
+            "timestamp": "2022-02-23T18:01:17Z",
+            "version": 1,
+            "changeset": 117781705,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Urzędu Dzielnicy Wawer na parterze w sali obsługi mieszkańców – na ścianie naprzeciwko windy",
+                "defibrillator:location:en": "In the Wawer District Office Building on the ground floor in the residents' service room - on the wall opposite the elevator",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-16:00",
+                "operator": "Urząd Dzielnicy Wawer",
+                "rob_addr:city": "Warszawa",
+                "rob_addr:housenumber": "1",
+                "rob_addr:street": "Żagańska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530597752,
+            "lat": 53.0797533,
+            "lon": 21.5759613,
+            "timestamp": "2022-02-23T18:23:18Z",
+            "version": 1,
+            "changeset": 117782422,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym kina obok kasy",
+                "defibrillator:location:en": "In the main hall next to the ticket office",
+                "emergency": "defibrillator",
+                "opening_hours": "08:00-22:00",
+                "operator": "Kierownik Działu Obsługi Kina Jantar",
+                "phone": "+48 29 766 45 89"
             }
         }
     ]
