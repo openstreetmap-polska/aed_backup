@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T15:31:43Z",
+        "timestamp_osm_base": "2022-02-23T16:31:20Z",
         "timestamp_areas_base": "2022-02-23T15:06:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36091,30 +36091,12 @@
         },
         {
             "type": "node",
-            "id": 9496201396,
-            "lat": 54.3401018,
-            "lon": 18.0258562,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Miechucino"
-            }
-        },
-        {
-            "type": "node",
             "id": 9496201397,
             "lat": 54.3127982,
             "lon": 18.1096781,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 2,
-            "changeset": 117747099,
+            "timestamp": "2022-02-23T16:29:38Z",
+            "version": 3,
+            "changeset": 117778113,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -36122,7 +36104,9 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Zawory"
+                "indoor": "yes",
+                "operator": "OSP Zawory",
+                "website": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Zaworach-631336290238375/"
             }
         },
         {
@@ -41924,11 +41908,11 @@
         {
             "type": "node",
             "id": 9528501739,
-            "lat": 49.873228,
-            "lon": 21.823206,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 49.8732126,
+            "lon": 21.823229,
+            "timestamp": "2022-02-23T16:14:31Z",
+            "version": 2,
+            "changeset": 117777525,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41936,6 +41920,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Żarnowa"
             }
         },
@@ -41960,11 +41945,11 @@
         {
             "type": "node",
             "id": 9528501741,
-            "lat": 54.316266,
-            "lon": 17.490731,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 54.3162856,
+            "lon": 17.4907196,
+            "timestamp": "2022-02-23T15:41:44Z",
+            "version": 2,
+            "changeset": 117776226,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41977,30 +41962,12 @@
         },
         {
             "type": "node",
-            "id": 9528501742,
-            "lat": 54.340068,
-            "lon": 18.0257606,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna w Miechucino"
-            }
-        },
-        {
-            "type": "node",
             "id": 9528501743,
-            "lat": 51.03485,
-            "lon": 20.21649,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 51.0348732,
+            "lon": 20.2164863,
+            "timestamp": "2022-02-23T16:12:49Z",
+            "version": 2,
+            "changeset": 117777465,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -42008,7 +41975,9 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Radoszyce;OSP Wilczkowice"
+                "indoor": "yes",
+                "operator": "OSP Wilczkowice",
+                "phone": "+48664925940"
             }
         },
         {
@@ -43211,6 +43180,65 @@
                 "defibrillator:location:en": "AED inside the building, near the information desk, once inside - turn left.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530214315,
+            "lat": 54.3401181,
+            "lon": 18.0258555,
+            "timestamp": "2022-02-23T15:50:43Z",
+            "version": 1,
+            "changeset": 117776661,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Miechucino",
+                "website": "https://www.facebook.com/OSP-Miechucino-530250347078944/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530241017,
+            "lat": 53.7548699,
+            "lon": 19.1991297,
+            "timestamp": "2022-02-23T15:35:41Z",
+            "version": 1,
+            "changeset": 117775982,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Prabuty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530252806,
+            "lat": 51.0717604,
+            "lon": 20.2569746,
+            "timestamp": "2022-02-23T16:12:49Z",
+            "version": 1,
+            "changeset": 117777465,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Radoszyce",
+                "phone": "+48664925940"
             }
         }
     ]
