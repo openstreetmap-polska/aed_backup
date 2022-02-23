@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T21:31:26Z",
+        "timestamp_osm_base": "2022-02-23T22:32:09Z",
         "timestamp_areas_base": "2022-02-23T20:10:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10672,22 +10672,23 @@
         {
             "type": "node",
             "id": 9410395117,
-            "lat": 51.1631992,
-            "lon": 21.2377347,
-            "timestamp": "2022-02-22T23:18:47Z",
-            "version": 3,
-            "changeset": 117747198,
+            "lat": 51.1631941,
+            "lon": 21.2378129,
+            "timestamp": "2022-02-23T22:29:35Z",
+            "version": 4,
+            "changeset": 117790072,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy Punkcie Informacji Turystycznej",
-                "defibrillator:location:en": "Outside the Tourist Information Centre",
+                "defibrillator:location": "Przy Punkcie Informacji Turystycznej po lewej stronie od wejścia",
+                "defibrillator:location:en": "Outside the Tourist Information Centre to the left of the entrance",
                 "emergency": "defibrillator",
                 "location": "outdoor",
                 "opening_hours": "24/7",
                 "operator": "Centrum Informacji Turystycznej w Iłży",
-                "phone": "537 458 111"
+                "phone": "537 458 111",
+                "source": "https://www.facebook.com/MiastoIlza/posts/3065819863685406"
             }
         },
         {
@@ -16494,11 +16495,11 @@
         {
             "type": "node",
             "id": 9434120718,
-            "lat": 53.4126612,
-            "lon": 14.5306999,
-            "timestamp": "2022-02-23T20:31:18Z",
-            "version": 2,
-            "changeset": 117786331,
+            "lat": 53.4126601,
+            "lon": 14.5306732,
+            "timestamp": "2022-02-23T22:27:25Z",
+            "version": 3,
+            "changeset": 117790024,
             "user": "d3mol3k",
             "uid": 1381079,
             "tags": {
@@ -39002,17 +39003,17 @@
             "id": 9513827185,
             "lat": 51.3152468,
             "lon": 20.9910951,
-            "timestamp": "2022-02-17T13:25:42Z",
-            "version": 1,
-            "changeset": 117521559,
+            "timestamp": "2022-02-23T21:48:38Z",
+            "version": 2,
+            "changeset": 117789112,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Orońsko",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Orońsko"
+                "operator": "Ochotnicza Straż Pożarna w Orońsku"
             }
         },
         {
@@ -44133,6 +44134,148 @@
                 "opening_hours": "Mo-Fr 07:45-15:45",
                 "operator": "Urząd Marszałkowski Województwa Pomorskiego w Gdańsku",
                 "phone": "+48583268858"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530967819,
+            "lat": 54.2597489,
+            "lon": 18.6350322,
+            "timestamp": "2022-02-23T21:37:40Z",
+            "version": 1,
+            "changeset": 117788774,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Urzędu Miasta",
+                "defibrillator:location:en": "On the wall of the Municipal Office building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
+                "phone": "+48 58 775 99 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530972721,
+            "lat": 54.2640912,
+            "lon": 18.6707751,
+            "timestamp": "2022-02-23T21:43:21Z",
+            "version": 1,
+            "changeset": 117788947,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na stojaku przy krytej pływalni",
+                "defibrillator:location:en": "On a rack at the indoor swimming pool",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
+                "phone": "+48 58 775 99 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530977852,
+            "lat": 51.9833418,
+            "lon": 21.2194337,
+            "timestamp": "2022-02-23T21:52:36Z",
+            "version": 1,
+            "changeset": 117789225,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ogólnodostępny w budynku remizy",
+                "defibrillator:location:en": "Inside the fire station",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Górze Kalwarii",
+                "source": "https://www.facebook.com/ospgorakalwaria/posts/5031516706863199"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530977853,
+            "lat": 51.9833988,
+            "lon": 21.2194164,
+            "timestamp": "2022-02-23T21:52:36Z",
+            "version": 1,
+            "changeset": 117789225,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Góra Kalwaria",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Górze Kalwarii",
+                "source": "https://www.facebook.com/ospgorakalwaria/posts/5031516706863199"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530984103,
+            "lat": 50.4406617,
+            "lon": 22.2548829,
+            "timestamp": "2022-02-23T21:43:37Z",
+            "version": 1,
+            "changeset": 117788956,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Jest zamieszczony na zewnętrznej ścianie budynku",
+                "defibrillator:location:en": "The wall outside the building next to the entrance",
+                "emergency": "defibrillator",
+                "image": "https://d-art.ppstatic.pl/kadry/k/r/1/44/e9/5ddfe31095895_o_large.jpg",
+                "opening_hours": "24/7",
+                "operator": "Specjalny Ośrodek Szkolno-Wychowawczy w Rudniki nad Sanem",
+                "source": "https://echodnia.eu/podkarpackie/trzeci-defibrylator-w-nizanskim-powiecie-w-rudniku-nad-sanem/ar/c1-14616275?fbclid=IwAR2nNIEWKGtBFBIhofC7EepRdL4U5o0fLNXDnPloD8nV47T8xiBkqFFoqgs"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530989921,
+            "lat": 54.25034,
+            "lon": 18.62667,
+            "timestamp": "2022-02-23T21:50:12Z",
+            "version": 1,
+            "changeset": 117789157,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w chacie technicznej, która znajduje się na lewo od głównego wejścia przy kasach.",
+                "defibrillator:location:en": "The defibrillator is located in the technical hut, which is to the left to the main entrance by the ticket booths.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Centrum Kultury i Sportu w Pruszczu Gdańskim",
+                "phone": "+48 58 682 35 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530991083,
+            "lat": 54.2586824,
+            "lon": 18.6478471,
+            "timestamp": "2022-02-23T21:54:01Z",
+            "version": 1,
+            "changeset": 117789267,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Targowiska Miejskiego",
+                "defibrillator:location:en": "On the wall of the Town Market building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Pruszcz Gdański Referat Gospodarki Komunalnej",
+                "phone": "+48 58 775 99 67"
             }
         }
     ]
