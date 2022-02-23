@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T10:31:54Z",
+        "timestamp_osm_base": "2022-02-23T11:31:35Z",
         "timestamp_areas_base": "2022-02-23T10:03:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -42526,6 +42526,239 @@
             "timestamp": "2022-02-23T10:30:12Z",
             "version": 1,
             "changeset": 117763252,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529474560,
+            "lat": 53.1500758,
+            "lon": 18.1293825,
+            "timestamp": "2022-02-23T10:37:47Z",
+            "version": 1,
+            "changeset": 117763501,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529479462,
+            "lat": 53.1222155,
+            "lon": 17.9990936,
+            "timestamp": "2022-02-23T10:53:44Z",
+            "version": 1,
+            "changeset": 117764224,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529492231,
+            "lat": 53.1373442,
+            "lon": 18.0176706,
+            "timestamp": "2022-02-23T10:39:43Z",
+            "version": 1,
+            "changeset": 117763579,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód straży miejskiej",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529493434,
+            "lat": 53.1606853,
+            "lon": 18.1612922,
+            "timestamp": "2022-02-23T10:38:37Z",
+            "version": 1,
+            "changeset": 117763535,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 00:00-24:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529493435,
+            "lat": 53.1198848,
+            "lon": 17.9991138,
+            "timestamp": "2022-02-23T10:41:06Z",
+            "version": 1,
+            "changeset": 117763637,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-18:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529522395,
+            "lat": 53.131982,
+            "lon": 17.9632337,
+            "timestamp": "2022-02-23T10:52:16Z",
+            "version": 1,
+            "changeset": 117764134,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529528409,
+            "lat": 53.099981,
+            "lon": 18.0332078,
+            "timestamp": "2022-02-23T10:49:20Z",
+            "version": 1,
+            "changeset": 117763996,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529529170,
+            "lat": 53.1207742,
+            "lon": 17.9933703,
+            "timestamp": "2022-02-23T10:50:34Z",
+            "version": 1,
+            "changeset": 117764059,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529538815,
+            "lat": 53.1411453,
+            "lon": 18.0311994,
+            "timestamp": "2022-02-23T10:54:40Z",
+            "version": 1,
+            "changeset": 117764276,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529576361,
+            "lat": 53.0939654,
+            "lon": 17.9974821,
+            "timestamp": "2022-02-23T11:28:10Z",
+            "version": 1,
+            "changeset": 117765664,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529589649,
+            "lat": 53.1230079,
+            "lon": 18.0284078,
+            "timestamp": "2022-02-23T11:19:52Z",
+            "version": 1,
+            "changeset": 117765356,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 07:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529598753,
+            "lat": 53.1874531,
+            "lon": 17.9580237,
+            "timestamp": "2022-02-23T11:23:29Z",
+            "version": 1,
+            "changeset": 117765485,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529611561,
+            "lat": 53.1127928,
+            "lon": 17.9575733,
+            "timestamp": "2022-02-23T11:18:58Z",
+            "version": 1,
+            "changeset": 117765317,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "recepcja",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9529627730,
+            "lat": 53.1136495,
+            "lon": 18.0132914,
+            "timestamp": "2022-02-23T11:22:45Z",
+            "version": 1,
+            "changeset": 117765454,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
