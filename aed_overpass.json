@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T19:30:55Z",
-        "timestamp_areas_base": "2022-02-23T18:08:39Z",
+        "timestamp_osm_base": "2022-02-23T20:31:39Z",
+        "timestamp_areas_base": "2022-02-23T20:10:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12310,9 +12310,9 @@
             "id": 9420247817,
             "lat": 53.4881558,
             "lon": 14.3892876,
-            "timestamp": "2022-02-21T07:09:02Z",
-            "version": 4,
-            "changeset": 117665867,
+            "timestamp": "2022-02-23T20:14:28Z",
+            "version": 5,
+            "changeset": 117785890,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -12321,6 +12321,7 @@
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "SP w Dobrej"
             }
         },
@@ -16493,17 +16494,23 @@
         {
             "type": "node",
             "id": 9434120718,
-            "lat": 53.4126028,
-            "lon": 14.5306932,
-            "timestamp": "2022-01-20T16:32:08Z",
-            "version": 1,
-            "changeset": 116392991,
+            "lat": 53.4126612,
+            "lon": 14.5306999,
+            "timestamp": "2022-02-23T20:31:18Z",
+            "version": 2,
+            "changeset": 117786331,
             "user": "d3mol3k",
             "uid": 1381079,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "defibrillator:location": "Na ścianie na przeciw wejścia do portierni",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "indoor": "yes",
+                "level": "0",
+                "location": "indoor",
+                "opening_hours": "Mo-Fr 08:00-22:00; Su 09:00-15:00",
+                "operator": "Pomorski Uniwersytet Medyczny w Szczecinie",
+                "phone": "+48 91 441 45 09;+48 91 441 44 61"
             }
         },
         {
@@ -40819,9 +40826,9 @@
             "id": 9522907844,
             "lat": 53.5572902,
             "lon": 14.3145867,
-            "timestamp": "2022-02-21T07:09:02Z",
-            "version": 3,
-            "changeset": 117665867,
+            "timestamp": "2022-02-23T20:14:28Z",
+            "version": 4,
+            "changeset": 117785890,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -40830,6 +40837,7 @@
                 "defibrillator:location:en": "Mounted on the school wall next to main entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "Gmina Dobra",
                 "phone": "+48 91 424 19 69"
             }
@@ -40902,14 +40910,15 @@
             "id": 9522907850,
             "lat": 53.42666,
             "lon": 14.4620365,
-            "timestamp": "2022-02-21T07:09:02Z",
-            "version": 2,
-            "changeset": 117665867,
+            "timestamp": "2022-02-23T20:14:28Z",
+            "version": 3,
+            "changeset": 117785890,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:30-17:00",
                 "operator": "SP w Mierzynie",
                 "phone": "+48 91 483 13 40"
@@ -41751,13 +41760,13 @@
         {
             "type": "node",
             "id": 9528501731,
-            "lat": 54.3920805,
-            "lon": 18.4062164,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
-            "user": "ptarac",
-            "uid": 11496679,
+            "lat": 54.3921076,
+            "lon": 18.4062782,
+            "timestamp": "2022-02-23T19:37:48Z",
+            "version": 2,
+            "changeset": 117784818,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -43821,6 +43830,29 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w Zwoleniu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530822082,
+            "lat": 53.4231596,
+            "lon": 19.5922102,
+            "timestamp": "2022-02-23T20:26:32Z",
+            "version": 1,
+            "changeset": 117786200,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na 1. piętrze wewnątrz budynku",
+                "defibrillator:location:en": "On the 1st floor inside the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "Life-Point Pro AED",
+                "opening_hours": "Mo-Fr 07:00- 20:00",
+                "operator": "Miejskie Centrum Kultury",
+                "phone": "+48 56 4729 610"
             }
         }
     ]
