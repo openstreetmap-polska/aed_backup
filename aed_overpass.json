@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T14:31:55Z",
-        "timestamp_areas_base": "2022-02-23T12:04:02Z",
+        "timestamp_osm_base": "2022-02-23T15:31:43Z",
+        "timestamp_areas_base": "2022-02-23T15:06:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41886,11 +41886,11 @@
         {
             "type": "node",
             "id": 9528501737,
-            "lat": 53.9494363,
-            "lon": 17.6964667,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 53.9494103,
+            "lon": 17.6966974,
+            "timestamp": "2022-02-23T15:27:39Z",
+            "version": 2,
+            "changeset": 117775673,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41898,17 +41898,18 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Leśno"
             }
         },
         {
             "type": "node",
             "id": 9528501738,
-            "lat": 54.6883848,
-            "lon": 17.6365589,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
+            "lat": 54.6882708,
+            "lon": 17.6366777,
+            "timestamp": "2022-02-23T15:18:07Z",
+            "version": 2,
+            "changeset": 117775290,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41916,6 +41917,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Wrzeście"
             }
         },
