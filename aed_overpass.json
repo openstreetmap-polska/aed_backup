@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-23T16:31:20Z",
+        "timestamp_osm_base": "2022-02-23T17:32:10Z",
         "timestamp_areas_base": "2022-02-23T15:06:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -4367,18 +4367,22 @@
         {
             "type": "node",
             "id": 9022432391,
-            "lat": 50.0235981,
-            "lon": 18.3382864,
-            "timestamp": "2021-08-20T10:17:38Z",
-            "version": 1,
-            "changeset": 109978726,
-            "user": "Interswd",
-            "uid": 3414856,
+            "lat": 50.0235896,
+            "lon": 18.3382805,
+            "timestamp": "2022-02-23T17:15:39Z",
+            "version": 2,
+            "changeset": 117780010,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "defibrillator:location:en": "On the wall of the fire station",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "OSP Syrynia"
+                "operator": "Ochotnicza Straż Pożarna w Syryni",
+                "source": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Syryni-2324365414474793/photos/pcb.3058017631109564/3058017564442904"
             }
         },
         {
@@ -43239,6 +43243,27 @@
                 "indoor": "yes",
                 "operator": "OSP Radoszyce",
                 "phone": "+48664925940"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9530454299,
+            "lat": 50.0217494,
+            "lon": 18.3373435,
+            "timestamp": "2022-02-23T17:20:51Z",
+            "version": 1,
+            "changeset": 117780225,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku, w którym mieszczą się salki katechetyczne, na południe od kościoła",
+                "defibrillator:location:en": "On the wall of the catechetical building, south of the church",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Parafia św. Antoniego Padewskiego w Syryni",
+                "phone": "+ 48 32 451 71 24",
+                "source": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Syryni-2324365414474793/photos/pcb.3175186159392710/3175185386059454/"
             }
         }
     ]
