@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T17:32:12Z",
+        "timestamp_osm_base": "2022-02-24T18:32:00Z",
         "timestamp_areas_base": "2022-02-24T15:21:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15182,25 +15182,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Firma Radiometer"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9426548718,
-            "lat": 54.5777432,
-            "lon": 18.3996985,
-            "timestamp": "2022-01-17T20:15:34Z",
-            "version": 1,
-            "changeset": 116270278,
-            "user": "stanster32",
-            "uid": 14876956,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Na lewej ścianie wchodząc dolnym wejściem (zielone drzwi od parkingu)",
-                "defibrillator:location:en": "On the left wall, while entering the bottom green Doors (by the parking)",
-                "emergency": "defibrillator",
-                "location": "indoor",
-                "phone": "+48 58 771-17-36"
             }
         },
         {
@@ -44553,13 +44534,14 @@
             "id": 9532175192,
             "lat": 49.4817414,
             "lon": 22.6973563,
-            "timestamp": "2022-02-24T11:15:55Z",
-            "version": 1,
-            "changeset": 117807629,
+            "timestamp": "2022-02-24T18:10:08Z",
+            "version": 2,
+            "changeset": 117822280,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "fixme": "exact location, access, description"
             }
         },
         {
@@ -45107,6 +45089,109 @@
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "exact location, access, description"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532888044,
+            "lat": 54.577745,
+            "lon": 18.3997298,
+            "timestamp": "2022-02-24T17:40:12Z",
+            "version": 1,
+            "changeset": 117821434,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W recepcji hali sportowej MOSiR.",
+                "defibrillator:location:en": "At the reception of the MOSiR sports hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-20:00; Sa,Su 06:00-22:00",
+                "operator": "Dyrektor MOSiR",
+                "phone": "+48 58 771 17 36"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532934575,
+            "lat": 54.1210029,
+            "lon": 17.9936897,
+            "timestamp": "2022-02-24T17:50:20Z",
+            "version": 1,
+            "changeset": 117821748,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie mieści się w poczekalni dworca PKP w Kościerzynie.",
+                "defibrillator:location:en": "The device is located in the waiting room of the railway station in Kościerzyna.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Straż Miejska w Kościerzynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532938695,
+            "lat": 54.0378442,
+            "lon": 21.7710298,
+            "timestamp": "2022-02-24T17:58:38Z",
+            "version": 1,
+            "changeset": 117821981,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na korytarzu pierwszego piętra w budynku Urzędu Gminy Giżycko",
+                "defibrillator:location:en": "In the corridor of the first floor in the building of the Giżycko Municipal Office",
+                "email": "ugg@ugg.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "operator": "Gmina Giżycko",
+                "phone": "+48 87 429 99 60"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532941482,
+            "lat": 53.7160421,
+            "lon": 20.4698216,
+            "timestamp": "2022-02-24T18:05:04Z",
+            "version": 1,
+            "changeset": 117822157,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz przy wejściu do budynku przedszkola od ul. Nad Łyną",
+                "defibrillator:location:en": "Outside at the entrance to the kindergarten building from Nad Łyną Street",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Przedszkole w Bartągu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532971422,
+            "lat": 53.5824003,
+            "lon": 20.282437,
+            "timestamp": "2022-02-24T18:20:36Z",
+            "version": 1,
+            "changeset": 117822570,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED znajduje się na bocznej ścianie budynku przy tablicach informacyjnych i wejściu do Straży Miejskiej od strony ul. Ratuszowej",
+                "defibrillator:location:en": "The AED is located on the side of the building by the information boards and the entrance to the Municipal Police from Ratuszowa Street",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Olsztynku"
             }
         }
     ]
