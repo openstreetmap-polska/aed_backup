@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T19:30:56Z",
-        "timestamp_areas_base": "2022-02-24T19:23:41Z",
+        "timestamp_osm_base": "2022-02-24T20:31:50Z",
+        "timestamp_areas_base": "2022-02-24T20:24:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -42442,22 +42442,6 @@
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
-                "emergency": "defibrillator",
-                "opening_hours": "24/7"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9529433469,
-            "lat": 53.1408495,
-            "lon": 23.1501053,
-            "timestamp": "2022-02-23T10:13:37Z",
-            "version": 1,
-            "changeset": 117762597,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "defibrillator:location": "komisariat",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
             }
