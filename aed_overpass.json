@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T10:31:39Z",
-        "timestamp_areas_base": "2022-02-24T09:17:39Z",
+        "timestamp_osm_base": "2022-02-24T11:31:24Z",
+        "timestamp_areas_base": "2022-02-24T11:18:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28221,13 +28221,13 @@
         {
             "type": "node",
             "id": 9461245961,
-            "lat": 49.4217148,
-            "lon": 20.4889036,
-            "timestamp": "2022-02-01T02:24:05Z",
-            "version": 2,
-            "changeset": 116846351,
-            "user": "B_KSL",
-            "uid": 553541,
+            "lat": 49.4217098,
+            "lon": 20.4889217,
+            "timestamp": "2022-02-24T11:03:50Z",
+            "version": 3,
+            "changeset": 117807145,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "addr:city": "Szczawnica",
@@ -44449,6 +44449,222 @@
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532132556,
+            "lat": 50.1421026,
+            "lon": 19.1382688,
+            "timestamp": "2022-02-24T11:08:52Z",
+            "version": 1,
+            "changeset": 117807337,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 07:30-18:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532154477,
+            "lat": 49.4216677,
+            "lon": 20.4889669,
+            "timestamp": "2022-02-24T11:03:50Z",
+            "version": 1,
+            "changeset": 117807145,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "addr:city": "Szczawnica",
+                "addr:housenumber": "84",
+                "addr:street": "Szalaya",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Szczawnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532154478,
+            "lat": 49.4216882,
+            "lon": 20.4889465,
+            "timestamp": "2022-02-24T11:03:50Z",
+            "version": 1,
+            "changeset": 117807145,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "addr:city": "Szczawnica",
+                "addr:housenumber": "84",
+                "addr:street": "Szalaya",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Szczawnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532161651,
+            "lat": 50.0911591,
+            "lon": 19.0709412,
+            "timestamp": "2022-02-24T11:07:18Z",
+            "version": 1,
+            "changeset": 117807284,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "fixme": "dokładna lokalizacja w zakładzie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532173574,
+            "lat": 49.9759767,
+            "lon": 20.438403,
+            "timestamp": "2022-02-24T11:27:26Z",
+            "version": 1,
+            "changeset": 117808079,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532175192,
+            "lat": 49.4817414,
+            "lon": 22.6973563,
+            "timestamp": "2022-02-24T11:15:55Z",
+            "version": 1,
+            "changeset": 117807629,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532175194,
+            "lat": 51.2409557,
+            "lon": 22.5526236,
+            "timestamp": "2022-02-24T11:21:42Z",
+            "version": 1,
+            "changeset": 117807866,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532180002,
+            "lat": 49.9764001,
+            "lon": 20.4331028,
+            "timestamp": "2022-02-24T11:24:43Z",
+            "version": 1,
+            "changeset": 117807971,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Artdent",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532180004,
+            "lat": 52.1868344,
+            "lon": 20.8895691,
+            "timestamp": "2022-02-24T11:25:04Z",
+            "version": 1,
+            "changeset": 117807990,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szatni pływalnii Skalar",
+                "defibrillator:location:en": "In the changing room of the Skalar swimming pool.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-22:00",
+                "operator": "OSiR Ursus",
+                "phone": "+48 22 250 19 01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532182522,
+            "lat": 51.3993797,
+            "lon": 17.668439,
+            "timestamp": "2022-02-24T11:19:10Z",
+            "version": 1,
+            "changeset": 117807760,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP w Międzyborzu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532194955,
+            "lat": 52.2683729,
+            "lon": 19.8695418,
+            "timestamp": "2022-02-24T11:26:26Z",
+            "version": 1,
+            "changeset": 117808038,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Kiernozia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532198538,
+            "lat": 52.3030492,
+            "lon": 21.1573924,
+            "timestamp": "2022-02-24T11:30:59Z",
+            "version": 1,
+            "changeset": 117808234,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Szkole Podstawowej przy wejściu głównym",
+                "defibrillator:location:en": "In the Primary School at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa nr 1 imienia Bolesława Prusa w Zielonce",
+                "phone": "+48 507 155189"
             }
         }
     ]
