@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T11:31:24Z",
+        "timestamp_osm_base": "2022-02-24T12:31:21Z",
         "timestamp_areas_base": "2022-02-24T11:18:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9392,20 +9392,23 @@
             "id": 9385509817,
             "lat": 54.3427538,
             "lon": 18.35981,
-            "timestamp": "2022-01-02T13:06:42Z",
-            "version": 4,
-            "changeset": 115668791,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2022-02-24T12:01:36Z",
+            "version": 5,
+            "changeset": 117809364,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na parterze przy windzie, w pobliżu Biura Obsługi Klienta.",
-                "defibrillator:location:en": "On the ground floor, next to the elevator, near the Customer Service Office.",
+                "defibrillator:location": "AED znajduje się na parterze, po prawej strony od wejścia nr 3, czyli informacji Urzędu Gminy, koło toalety dla osób niepełnosprawnych, naprzeciwko windy.",
+                "defibrillator:location:en": "The AED is located on the ground floor, on the right from the entrance no. 3, i.e. the information from the Commune Office, next to the toilet for disabled people, opposite the elevator.",
                 "description": "Budynek Urzędu Gminy Żukowo",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "location": "indoor",
+                "opening_hours": "Mo 07:30-17:30; Tu,We 07:30-15:30; Th 07:30-15:00; Fr 07:30-14:30",
                 "operator": "Urząd Gminy Żukowo",
+                "phone": "+48586858309",
                 "start_date": "2020-07-29"
             }
         },
@@ -12258,13 +12261,13 @@
         {
             "type": "node",
             "id": 9418394517,
-            "lat": 50.0005896,
-            "lon": 19.6117398,
-            "timestamp": "2022-01-14T17:53:32Z",
-            "version": 2,
-            "changeset": 116157678,
-            "user": "Tomrak",
-            "uid": 14851040,
+            "lat": 50.0005891,
+            "lon": 19.6117401,
+            "timestamp": "2022-02-24T12:22:22Z",
+            "version": 3,
+            "changeset": 117810180,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku Remizy OSP",
@@ -15270,22 +15273,6 @@
                 "defibrillator:location": "Na ścianie przy wejsciu",
                 "emergency": "defibrillator",
                 "location": "indoor"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9427290517,
-            "lat": 53.6565403,
-            "lon": 20.4005639,
-            "timestamp": "2022-01-18T05:48:53Z",
-            "version": 1,
-            "changeset": 116281107,
-            "user": "Jarosław Świdyński",
-            "uid": 2412634,
-            "tags": {
-                "access": "yes",
-                "emergency": "defibrillator",
-                "location": "outdoor"
             }
         },
         {
@@ -28852,13 +28839,13 @@
         {
             "type": "node",
             "id": 9466540194,
-            "lat": 50.0736207,
-            "lon": 19.1830677,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 50.0736434,
+            "lon": 19.1830077,
+            "timestamp": "2022-02-24T12:25:17Z",
+            "version": 2,
+            "changeset": 117810299,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -36314,13 +36301,13 @@
         {
             "type": "node",
             "id": 9496201408,
-            "lat": 53.6148707,
-            "lon": 20.3420557,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 53.6149051,
+            "lon": 20.3420078,
+            "timestamp": "2022-02-24T12:28:10Z",
+            "version": 2,
+            "changeset": 117810420,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -36441,13 +36428,13 @@
         {
             "type": "node",
             "id": 9496201415,
-            "lat": 51.8128393,
-            "lon": 21.3415729,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 51.8128732,
+            "lon": 21.3415756,
+            "timestamp": "2022-02-24T12:26:16Z",
+            "version": 2,
+            "changeset": 117810341,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -44470,6 +44457,26 @@
         },
         {
             "type": "node",
+            "id": 9532136593,
+            "lat": 54.1242141,
+            "lon": 17.9818592,
+            "timestamp": "2022-02-24T11:48:27Z",
+            "version": 1,
+            "changeset": 117808903,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie mieści się w holu kina",
+                "defibrillator:location:en": "The device is located in the cinema lobby",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Straż Miejska w Kościerzynie",
+                "phone": "+48 58 680 23 40"
+            }
+        },
+        {
+            "type": "node",
             "id": 9532154477,
             "lat": 49.4216677,
             "lon": 20.4889669,
@@ -44648,6 +44655,47 @@
         },
         {
             "type": "node",
+            "id": 9532194961,
+            "lat": 52.3101415,
+            "lon": 21.1566928,
+            "timestamp": "2022-02-24T11:37:11Z",
+            "version": 1,
+            "changeset": 117808482,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Ośrodku Kultury i Sportu przy wejściu głównym",
+                "defibrillator:location:en": "In the Culture and Sports Centre at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa nr 4 w Zielonce",
+                "phone": "+48 507 155189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532197097,
+            "lat": 53.6565424,
+            "lon": 20.4002499,
+            "timestamp": "2022-02-24T11:39:49Z",
+            "version": 1,
+            "changeset": 117808586,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz przy drugim wejściu do budynku UG od ul. Olsztyńskiej.",
+                "defibrillator:location:en": "Outside at the second entrance to the UG building from Olsztyńska Street.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Stawigudzie"
+            }
+        },
+        {
+            "type": "node",
             "id": 9532198538,
             "lat": 52.3030492,
             "lon": 21.1573924,
@@ -44665,6 +44713,207 @@
                 "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa nr 1 imienia Bolesława Prusa w Zielonce",
                 "phone": "+48 507 155189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532213462,
+            "lat": 53.4285202,
+            "lon": 19.5925944,
+            "timestamp": "2022-02-24T11:43:04Z",
+            "version": 1,
+            "changeset": 117808708,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Szaletach Miejskich wewnątrz budynku",
+                "defibrillator:location:en": "In the public toilets inside the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "manufacturer": "Life-Point Pro AED",
+                "opening_hours": "Mo-Fr 07:30 - 15:15",
+                "phone": "+48 56 4729 610"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532214292,
+            "lat": 52.2970733,
+            "lon": 21.1572649,
+            "timestamp": "2022-02-24T11:41:42Z",
+            "version": 1,
+            "changeset": 117808654,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Szkole Podstawowej przy wejściu głównym",
+                "defibrillator:location:en": "In the Primary School at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa Nr 3 im. Janusza Korczaka",
+                "phone": "+48 507 155189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532250250,
+            "lat": 54.4335711,
+            "lon": 19.896113,
+            "timestamp": "2022-02-24T11:55:08Z",
+            "version": 1,
+            "changeset": 117809133,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532265349,
+            "lat": 51.3425911,
+            "lon": 18.2530967,
+            "timestamp": "2022-02-24T12:23:50Z",
+            "version": 1,
+            "changeset": 117810244,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Galewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532275360,
+            "lat": 50.0005434,
+            "lon": 19.61177,
+            "timestamp": "2022-02-24T12:22:22Z",
+            "version": 1,
+            "changeset": 117810180,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Rusocice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532275449,
+            "lat": 51.8128352,
+            "lon": 21.341514,
+            "timestamp": "2022-02-24T12:26:16Z",
+            "version": 1,
+            "changeset": 117810341,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Chmielew"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532292745,
+            "lat": 50.0425464,
+            "lon": 19.6798694,
+            "timestamp": "2022-02-24T12:20:19Z",
+            "version": 1,
+            "changeset": 117810097,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Czułówek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532292746,
+            "lat": 50.0426122,
+            "lon": 19.6798131,
+            "timestamp": "2022-02-24T12:20:19Z",
+            "version": 1,
+            "changeset": 117810097,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Czułówek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532293634,
+            "lat": 50.0736839,
+            "lon": 19.1829722,
+            "timestamp": "2022-02-24T12:25:17Z",
+            "version": 1,
+            "changeset": 117810299,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Bieruń"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532316843,
+            "lat": 53.6149,
+            "lon": 20.3421117,
+            "timestamp": "2022-02-24T12:28:10Z",
+            "version": 1,
+            "changeset": 117810420,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Gryźliny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532320926,
+            "lat": 53.7175859,
+            "lon": 20.468967,
+            "timestamp": "2022-02-24T12:27:24Z",
+            "version": 1,
+            "changeset": 117810382,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Bartąg"
             }
         }
     ]
