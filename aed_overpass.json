@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T20:31:50Z",
-        "timestamp_areas_base": "2022-02-24T20:24:44Z",
+        "timestamp_osm_base": "2022-02-24T21:31:40Z",
+        "timestamp_areas_base": "2022-02-24T21:25:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -35631,34 +35631,39 @@
             "id": 9495127639,
             "lat": 53.5839664,
             "lon": 15.0800376,
-            "timestamp": "2022-02-10T11:40:28Z",
-            "version": 1,
-            "changeset": 117242094,
-            "user": "Ronczka",
-            "uid": 9548812,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Firetruck",
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9495140410,
-            "lat": 53.6040207,
-            "lon": 15.0124486,
-            "timestamp": "2022-02-10T11:41:49Z",
-            "version": 1,
-            "changeset": 117242159,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-02-24T21:06:34Z",
+            "version": 2,
+            "changeset": 117827868,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Osina"
+                "indoor": "yes",
+                "operator": "OSP Redło",
+                "website": "https://www.facebook.com/osp.redlo/about"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9495140410,
+            "lat": 53.6040242,
+            "lon": 15.0124421,
+            "timestamp": "2022-02-24T21:01:08Z",
+            "version": 2,
+            "changeset": 117827722,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Osina",
+                "website": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-Osina-229851253874947/"
             }
         },
         {
