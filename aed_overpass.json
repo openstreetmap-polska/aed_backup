@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T09:31:57Z",
+        "timestamp_osm_base": "2022-02-24T10:31:39Z",
         "timestamp_areas_base": "2022-02-24T09:17:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -13696,16 +13696,17 @@
             "id": 9424015117,
             "lat": 52.239075,
             "lon": 20.9440884,
-            "timestamp": "2022-02-14T00:40:21Z",
-            "version": 3,
-            "changeset": 117373315,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-24T10:30:03Z",
+            "version": 4,
+            "changeset": 117804043,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na wschodnim filarze peronu stacji metra Księcia Janusza.",
                 "defibrillator:location:en": "At the Księcia Janusza metro station.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24042,15 +24043,16 @@
             "id": 9450841329,
             "lat": 52.1493144,
             "lon": 21.0460883,
-            "timestamp": "2022-01-26T18:28:29Z",
-            "version": 1,
-            "changeset": 116633708,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-24T09:40:50Z",
+            "version": 2,
+            "changeset": 117804043,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Imielin",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24484,15 +24486,16 @@
             "id": 9450904746,
             "lat": 52.2753425,
             "lon": 21.055477,
-            "timestamp": "2022-01-26T18:47:33Z",
-            "version": 1,
-            "changeset": 116634377,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-24T10:27:30Z",
+            "version": 2,
+            "changeset": 117804043,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Trocka",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -44400,6 +44403,52 @@
                 "phone": "+48 71 312 44 48",
                 "source": "https://www.elmar-bhp.pl/defibrylatory-w-trzebnicy/",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532008374,
+            "lat": 54.2621764,
+            "lon": 20.8026139,
+            "timestamp": "2022-02-24T10:12:55Z",
+            "version": 1,
+            "changeset": 117805247,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532056993,
+            "lat": 51.3699627,
+            "lon": 19.3942142,
+            "timestamp": "2022-02-24T10:24:43Z",
+            "version": 1,
+            "changeset": 117805634,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód gaśniczy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532062406,
+            "lat": 49.8912586,
+            "lon": 19.0261398,
+            "timestamp": "2022-02-24T10:31:28Z",
+            "version": 1,
+            "changeset": 117805862,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
