@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T22:32:23Z",
-        "timestamp_areas_base": "2022-02-24T22:27:26Z",
+        "timestamp_osm_base": "2022-02-24T23:32:14Z",
+        "timestamp_areas_base": "2022-02-24T23:27:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14250,19 +14250,22 @@
         {
             "type": "node",
             "id": 9425258320,
-            "lat": 49.7818416,
-            "lon": 22.7735714,
-            "timestamp": "2022-01-17T11:42:26Z",
-            "version": 1,
-            "changeset": 116248272,
-            "user": "Marek Janowski",
-            "uid": 14873342,
+            "lat": 49.7818957,
+            "lon": 22.7736268,
+            "timestamp": "2022-02-24T22:50:58Z",
+            "version": 2,
+            "changeset": 117830171,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Ul. Władcze. Wieża Zegarowa. Przy wejściu do Muzeum Dzwonów i Fajek",
+                "defibrillator:location": "Ul. Władycze - Wieża Zegarowa - Na lewo od wejścia do Muzeum Dzwonów i Fajek",
+                "defibrillator:location:en": "On the wall to the left of the entrance to the Museum, Clock Tower, Władycze Street",
                 "emergency": "defibrillator",
                 "emergency:phone": "112/999",
-                "location": "outdoor"
+                "image": "https://www.facebook.com/photo/?fbid=10220470108373947&set=a.1529457647589",
+                "location": "outdoor",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -14324,19 +14327,21 @@
         {
             "type": "node",
             "id": 9425578617,
-            "lat": 49.7831514,
-            "lon": 22.7770742,
-            "timestamp": "2022-01-17T13:43:45Z",
-            "version": 1,
-            "changeset": 116255288,
-            "user": "Marek Janowski",
-            "uid": 14873342,
+            "lat": 49.7831692,
+            "lon": 22.7770426,
+            "timestamp": "2022-02-24T22:50:58Z",
+            "version": 2,
+            "changeset": 117830171,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Pl. Legionów 6 obok apteki ściana zew.",
+                "defibrillator:location": "Plac Legionów 6 - obok apteki na ścianie zewnętrznej",
+                "defibrillator:location:en": "On the wall next to the pharmacy shop at the Plac Legionów 6 Street",
                 "emergency": "defibrillator",
                 "emergency:phone": "112/999",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -45223,6 +45228,46 @@
                 "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
                 "phone": "600 949 409",
                 "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533488341,
+            "lat": 50.3351549,
+            "lon": 23.5225006,
+            "timestamp": "2022-02-24T23:00:46Z",
+            "version": 1,
+            "changeset": 117830312,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Lubycza Królewska",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Lubyczy Królewskiej",
+                "source": "https://www.facebook.com/naturalniezelubycza/posts/1913384788726947"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533506434,
+            "lat": 50.4582053,
+            "lon": 23.1738989,
+            "timestamp": "2022-02-24T23:09:56Z",
+            "version": 1,
+            "changeset": 117830432,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Majdan Sopocki",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Majdanie Sopockim",
+                "source": "https://www.facebook.com/OSPMAJDANSOPOCKI/posts/3160957933990927"
             }
         }
     ]
