@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T18:32:00Z",
-        "timestamp_areas_base": "2022-02-24T15:21:26Z",
+        "timestamp_osm_base": "2022-02-24T19:30:56Z",
+        "timestamp_areas_base": "2022-02-24T19:23:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1448,13 +1448,13 @@
         {
             "type": "node",
             "id": 5814467844,
-            "lat": 53.1268824,
-            "lon": 23.1663031,
-            "timestamp": "2021-09-07T11:42:26Z",
-            "version": 3,
-            "changeset": 110855479,
-            "user": "TromareK",
-            "uid": 14052193,
+            "lat": 53.1267293,
+            "lon": 23.1661788,
+            "timestamp": "2022-02-24T19:27:10Z",
+            "version": 4,
+            "changeset": 117824838,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
@@ -45192,6 +45192,27 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Olsztynku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533027631,
+            "lat": 51.1570648,
+            "lon": 15.0326533,
+            "timestamp": "2022-02-24T18:44:59Z",
+            "version": 1,
+            "changeset": 117823319,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:": "Decathlon Zgorzelec - za kasami, tuż obok wejścia na sklep.",
+                "defibrillator:location:en": "Decathlon Zgorzelec - behind the cash registers, right next to the entrance to the store.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 10:00-20:00",
+                "operator": "Decathlon Zgorzelec",
+                "phone": "+48 75 640 34 10"
             }
         }
     ]
