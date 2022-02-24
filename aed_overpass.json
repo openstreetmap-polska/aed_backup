@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T13:31:09Z",
-        "timestamp_areas_base": "2022-02-24T13:19:55Z",
+        "timestamp_osm_base": "2022-02-24T14:31:53Z",
+        "timestamp_areas_base": "2022-02-24T14:20:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44761,13 +44761,14 @@
             "id": 9532250250,
             "lat": 54.4335711,
             "lon": 19.896113,
-            "timestamp": "2022-02-24T11:55:08Z",
-            "version": 1,
-            "changeset": 117809133,
+            "timestamp": "2022-02-24T14:06:24Z",
+            "version": 2,
+            "changeset": 117813959,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
                 "emergency": "defibrillator",
+                "fixme": "exact location, access, description",
                 "indoor": "yes"
             }
         },
@@ -45014,6 +45015,98 @@
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532445396,
+            "lat": 53.2879012,
+            "lon": 17.9320204,
+            "timestamp": "2022-02-24T13:32:01Z",
+            "version": 1,
+            "changeset": 117812718,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 08:00-22:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532461000,
+            "lat": 50.3510994,
+            "lon": 18.8456993,
+            "timestamp": "2022-02-24T13:48:47Z",
+            "version": 1,
+            "changeset": 117813290,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532477794,
+            "lat": 49.9553675,
+            "lon": 23.1102654,
+            "timestamp": "2022-02-24T14:00:26Z",
+            "version": 1,
+            "changeset": 117813727,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "exact location, access, description"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532490909,
+            "lat": 54.3392026,
+            "lon": 22.2966972,
+            "timestamp": "2022-02-24T14:07:46Z",
+            "version": 1,
+            "changeset": 117813996,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "exact location, access, description"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532494929,
+            "lat": 49.8001772,
+            "lon": 22.9455866,
+            "timestamp": "2022-02-24T14:03:55Z",
+            "version": 1,
+            "changeset": 117813871,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "exact location, access, description"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532498368,
+            "lat": 54.4184746,
+            "lon": 20.0608678,
+            "timestamp": "2022-02-24T14:09:40Z",
+            "version": 1,
+            "changeset": 117814059,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "exact location, access, description"
             }
         }
     ]
