@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-24T21:31:40Z",
-        "timestamp_areas_base": "2022-02-24T21:25:38Z",
+        "timestamp_osm_base": "2022-02-24T22:32:23Z",
+        "timestamp_areas_base": "2022-02-24T22:27:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39701,14 +39701,14 @@
             "id": 9520366840,
             "lat": 51.4017741,
             "lon": 21.157538,
-            "timestamp": "2022-02-23T19:16:47Z",
-            "version": 3,
-            "changeset": 117784188,
+            "timestamp": "2022-02-24T22:29:52Z",
+            "version": 4,
+            "changeset": 117829799,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W głównym budynku Urzędu Miejskiego przy ul. Kilińskiego, na parterze w szawce przy windzie obok biura obsługi mieszkańców.",
+                "defibrillator:location": "W głównym budynku Urzędu Miejskiego przy ul. Kilińskiego, na parterze w szafce przy windzie obok biura obsługi mieszkańców.",
                 "defibrillator:location:en": "In the main building of the City Hall at Kilinskiego Street, on the ground floor next to the Resident Services Office and the elevator",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -45202,6 +45202,27 @@
                 "opening_hours": "Mo-Sa 10:00-20:00",
                 "operator": "Decathlon Zgorzelec",
                 "phone": "+48 75 640 34 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533436662,
+            "lat": 49.7242277,
+            "lon": 22.8135613,
+            "timestamp": "2022-02-24T22:29:21Z",
+            "version": 2,
+            "changeset": 117829789,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
+                "phone": "600 949 409",
+                "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251"
             }
         }
     ]
