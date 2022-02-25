@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T07:31:22Z",
-        "timestamp_areas_base": "2022-02-25T07:30:17Z",
+        "timestamp_osm_base": "2022-02-25T08:31:10Z",
+        "timestamp_areas_base": "2022-02-25T08:31:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6845,9 +6845,9 @@
             "id": 9353705540,
             "lat": 51.1670408,
             "lon": 17.1656978,
-            "timestamp": "2021-12-28T09:29:04Z",
-            "version": 3,
-            "changeset": 115460425,
+            "timestamp": "2022-02-25T08:13:00Z",
+            "version": 4,
+            "changeset": 117839118,
             "user": "Ancymon",
             "uid": 1593161,
             "tags": {
@@ -6855,7 +6855,8 @@
                 "defibrillator:location": "Na ścianie w punkcie obsługi klienta",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Sa 06:00-21:00; Su 09:00-20:00"
+                "opening_hours": "Mo-Sa 06:00-21:00; Su 09:00-20:00",
+                "operator": "Leroy Merlin"
             }
         },
         {
@@ -9874,16 +9875,17 @@
             "id": 9397748017,
             "lat": 52.2326711,
             "lon": 20.9662316,
-            "timestamp": "2022-01-26T18:21:40Z",
-            "version": 3,
-            "changeset": 116633466,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-25T08:08:30Z",
+            "version": 4,
+            "changeset": 117838967,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na słupie na peronie stacji metra Płocka",
                 "defibrillator:location:en": "On the column in the middle of the Płocka subway station platform",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "level": "-2",
                 "location": "indoor"
             }
@@ -24238,15 +24240,16 @@
             "id": 9450865121,
             "lat": 52.2450109,
             "lon": 21.00123,
-            "timestamp": "2022-01-26T18:35:25Z",
-            "version": 1,
-            "changeset": 116633931,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-25T08:22:29Z",
+            "version": 2,
+            "changeset": 117838967,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Ratusz Arsenał",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
