@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T20:31:30Z",
+        "timestamp_osm_base": "2022-02-25T21:31:46Z",
         "timestamp_areas_base": "2022-02-25T19:36:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3081,14 +3081,15 @@
             "id": 8041657665,
             "lat": 54.6946564,
             "lon": 18.2378067,
-            "timestamp": "2020-10-24T07:30:20Z",
-            "version": 1,
-            "changeset": 92980314,
+            "timestamp": "2022-02-25T21:06:26Z",
+            "version": 2,
+            "changeset": 117863106,
             "user": "przemomajk",
             "uid": 1255127,
             "tags": {
                 "defibrillator:location": "na budynku remizy",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "OSP Leśniewo"
             }
         },
@@ -6394,13 +6395,17 @@
             "id": 9335664689,
             "lat": 51.6288487,
             "lon": 21.9306867,
-            "timestamp": "2021-12-13T21:23:07Z",
-            "version": 1,
-            "changeset": 114898530,
+            "timestamp": "2022-02-25T21:14:58Z",
+            "version": 2,
+            "changeset": 117863298,
             "user": "charl3s",
             "uid": 8019013,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "w budynku Policji, całodobowo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
             }
         },
         {
