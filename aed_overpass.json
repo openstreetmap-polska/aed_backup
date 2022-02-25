@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T18:31:58Z",
+        "timestamp_osm_base": "2022-02-25T19:31:38Z",
         "timestamp_areas_base": "2022-02-25T16:35:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -45732,12 +45732,156 @@
         },
         {
             "type": "node",
+            "id": 9535371718,
+            "lat": 53.7518725,
+            "lon": 20.4839772,
+            "timestamp": "2022-02-25T18:33:34Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9535372317,
             "lat": 53.7705973,
             "lon": 20.4877239,
             "timestamp": "2022-02-25T18:31:23Z",
             "version": 1,
             "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535373617,
+            "lat": 53.778097,
+            "lon": 20.4500353,
+            "timestamp": "2022-02-25T18:32:00Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535374717,
+            "lat": 53.7764609,
+            "lon": 20.4886342,
+            "timestamp": "2022-02-25T18:32:37Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535376717,
+            "lat": 53.7612569,
+            "lon": 20.496025,
+            "timestamp": "2022-02-25T18:33:09Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535377617,
+            "lat": 53.7504856,
+            "lon": 20.5054337,
+            "timestamp": "2022-02-25T18:33:52Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535377917,
+            "lat": 53.8000412,
+            "lon": 20.4060524,
+            "timestamp": "2022-02-25T18:34:35Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535379417,
+            "lat": 53.7793252,
+            "lon": 20.4916871,
+            "timestamp": "2022-02-25T18:34:57Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535385217,
+            "lat": 53.7831735,
+            "lon": 20.49156,
+            "timestamp": "2022-02-25T18:38:51Z",
+            "version": 1,
+            "changeset": 117859057,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535387117,
+            "lat": 54.0764461,
+            "lon": 21.3729442,
+            "timestamp": "2022-02-25T18:40:51Z",
+            "version": 1,
+            "changeset": 117859097,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
