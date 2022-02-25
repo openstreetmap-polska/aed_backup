@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T17:31:59Z",
+        "timestamp_osm_base": "2022-02-25T18:31:58Z",
         "timestamp_areas_base": "2022-02-25T16:35:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -19700,18 +19700,19 @@
             "id": 9439394617,
             "lat": 53.7727491,
             "lon": 20.4766613,
-            "timestamp": "2022-02-20T21:34:28Z",
-            "version": 2,
-            "changeset": 117655700,
-            "user": "Piotrowski",
-            "uid": 14573875,
+            "timestamp": "2022-02-25T18:17:08Z",
+            "version": 3,
+            "changeset": 117858475,
+            "user": "serdelll",
+            "uid": 485927,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Obok wejścia głównego",
                 "defibrillator:location:en": "Next to the main entrance",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "location": "outdoor"
+                "location": "outdoor",
+                "operator": "Komenda Miejska Państwowej Straży Pożarnej"
             }
         },
         {
@@ -31744,16 +31745,19 @@
             "id": 9481369522,
             "lat": 53.7789537,
             "lon": 20.480615,
-            "timestamp": "2022-02-05T21:24:39Z",
-            "version": 2,
-            "changeset": 117061572,
+            "timestamp": "2022-02-25T18:08:39Z",
+            "version": 4,
+            "changeset": 117858249,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "CIUWO. Na ścianie przy schodach w korytarzu.",
+                "defibrillator:location": "Na ścianie przy schodach w korytarzu.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:30-15:30",
+                "operator": "Centrum Informatycznych Usług Wspólnych Olsztyna",
                 "phone": "+48897525800"
             }
         },
@@ -40777,16 +40781,18 @@
             "id": 9522853817,
             "lat": 53.7733972,
             "lon": 20.4877956,
-            "timestamp": "2022-02-20T22:39:42Z",
-            "version": 1,
-            "changeset": 117657250,
+            "timestamp": "2022-02-25T18:06:19Z",
+            "version": 2,
+            "changeset": 117858163,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Straż miejska. Na ścianie w korytarzu przy wejściu na pierwszym piętrze.",
+                "defibrillator:location": "Na ścianie w korytarzu przy wejściu na pierwszym piętrze.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "1",
+                "operator": "Straż Miejska w Olsztynie",
                 "phone": "986"
             }
         },
@@ -45338,17 +45344,19 @@
             "id": 9534594217,
             "lat": 53.7787255,
             "lon": 20.4797072,
-            "timestamp": "2022-02-25T13:00:17Z",
-            "version": 1,
-            "changeset": 117848482,
+            "timestamp": "2022-02-25T18:08:12Z",
+            "version": 2,
+            "changeset": 117858241,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "portiernia",
                 "defibrillator:location:en": "reception desk",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
+                "operator": "Urząd Miasta Olsztyna",
                 "phone": "+48 89 5273111 wew. 397"
             }
         },
@@ -45357,14 +45365,15 @@
             "id": 9534594317,
             "lat": 53.7804851,
             "lon": 20.4821542,
-            "timestamp": "2022-02-25T13:00:34Z",
-            "version": 1,
-            "changeset": 117848482,
+            "timestamp": "2022-02-25T18:06:58Z",
+            "version": 2,
+            "changeset": 117858179,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Zakład Ubezpieczeń Społecznych"
             }
         },
         {
@@ -45383,6 +45392,358 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Hrubieszowie",
                 "source": "https://www.facebook.com/osphrubieszow/posts/2746559872236217"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535297017,
+            "lat": 53.7762912,
+            "lon": 20.4868661,
+            "timestamp": "2022-02-25T18:13:33Z",
+            "version": 1,
+            "changeset": 117858399,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535297317,
+            "lat": 53.7768741,
+            "lon": 20.4908673,
+            "timestamp": "2022-02-25T18:14:05Z",
+            "version": 1,
+            "changeset": 117858399,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535297417,
+            "lat": 53.7772716,
+            "lon": 20.486071,
+            "timestamp": "2022-02-25T18:14:27Z",
+            "version": 1,
+            "changeset": 117858399,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535298017,
+            "lat": 53.7821106,
+            "lon": 20.4829821,
+            "timestamp": "2022-02-25T18:14:47Z",
+            "version": 1,
+            "changeset": 117858399,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535299217,
+            "lat": 53.7789516,
+            "lon": 20.4837485,
+            "timestamp": "2022-02-25T18:15:41Z",
+            "version": 1,
+            "changeset": 117858399,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535301917,
+            "lat": 53.7471359,
+            "lon": 20.4451972,
+            "timestamp": "2022-02-25T18:17:48Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535302717,
+            "lat": 53.7607828,
+            "lon": 20.4993679,
+            "timestamp": "2022-02-25T18:18:12Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535304717,
+            "lat": 53.7710143,
+            "lon": 20.5129859,
+            "timestamp": "2022-02-25T18:18:47Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535329917,
+            "lat": 53.7602452,
+            "lon": 20.4608612,
+            "timestamp": "2022-02-25T18:19:22Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535343517,
+            "lat": 53.7593817,
+            "lon": 20.4600695,
+            "timestamp": "2022-02-25T18:19:39Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535345717,
+            "lat": 53.781539,
+            "lon": 20.4831682,
+            "timestamp": "2022-02-25T18:21:11Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535345718,
+            "lat": 53.77157,
+            "lon": 20.4772381,
+            "timestamp": "2022-02-25T18:22:38Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535347717,
+            "lat": 53.7821293,
+            "lon": 20.526113,
+            "timestamp": "2022-02-25T18:21:31Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535348117,
+            "lat": 53.7720238,
+            "lon": 20.5055486,
+            "timestamp": "2022-02-25T18:21:52Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535356017,
+            "lat": 53.791403,
+            "lon": 20.482635,
+            "timestamp": "2022-02-25T18:23:24Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535358417,
+            "lat": 53.7985469,
+            "lon": 20.4813695,
+            "timestamp": "2022-02-25T18:24:31Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535368717,
+            "lat": 53.7422794,
+            "lon": 20.4944798,
+            "timestamp": "2022-02-25T18:27:34Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535369517,
+            "lat": 53.7432885,
+            "lon": 20.5105947,
+            "timestamp": "2022-02-25T18:28:23Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535370917,
+            "lat": 53.744072,
+            "lon": 20.4562116,
+            "timestamp": "2022-02-25T18:29:28Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535371117,
+            "lat": 53.7522081,
+            "lon": 20.4576333,
+            "timestamp": "2022-02-25T18:29:50Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535371717,
+            "lat": 53.7577001,
+            "lon": 20.4658352,
+            "timestamp": "2022-02-25T18:30:21Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9535372317,
+            "lat": 53.7705973,
+            "lon": 20.4877239,
+            "timestamp": "2022-02-25T18:31:23Z",
+            "version": 1,
+            "changeset": 117858490,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
