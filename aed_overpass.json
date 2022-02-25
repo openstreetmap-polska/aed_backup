@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T06:32:22Z",
-        "timestamp_areas_base": "2022-02-25T06:29:24Z",
+        "timestamp_osm_base": "2022-02-25T07:31:22Z",
+        "timestamp_areas_base": "2022-02-25T07:30:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -45211,6 +45211,46 @@
         },
         {
             "type": "node",
+            "id": 9533247689,
+            "lat": 53.7366119,
+            "lon": 14.6602842,
+            "timestamp": "2022-02-25T06:35:51Z",
+            "version": 2,
+            "changeset": 117836311,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:": "Samchód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting vehicle",
+                "email": "osp_zarnowo@stepnica.pl",
+                "emergency": "defibrillator",
+                "operator": "OSP Żarnowo",
+                "website": "https://www.facebook.com/ospzarnowo/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533260231,
+            "lat": 53.460304,
+            "lon": 14.9305376,
+            "timestamp": "2022-02-25T06:35:51Z",
+            "version": 2,
+            "changeset": 117836311,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting vehicle",
+                "email": "straz.przemocze@wp.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "website": "https://www.facebook.com/search/top?q=osp%20przemocze"
+            }
+        },
+        {
+            "type": "node",
             "id": 9533436662,
             "lat": 49.7242277,
             "lon": 22.8135613,
@@ -45268,6 +45308,25 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Majdanie Sopockim",
                 "source": "https://www.facebook.com/OSPMAJDANSOPOCKI/posts/3160957933990927"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9533886352,
+            "lat": 53.5059149,
+            "lon": 15.1850907,
+            "timestamp": "2022-02-25T06:35:51Z",
+            "version": 1,
+            "changeset": 117836311,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nastazin"
             }
         }
     ]
