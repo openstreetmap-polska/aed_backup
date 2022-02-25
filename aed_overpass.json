@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-25T12:31:59Z",
+        "timestamp_osm_base": "2022-02-25T13:31:41Z",
         "timestamp_areas_base": "2022-02-25T11:32:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -45330,6 +45330,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Nastazin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9534594217,
+            "lat": 53.7787255,
+            "lon": 20.4797072,
+            "timestamp": "2022-02-25T13:00:17Z",
+            "version": 1,
+            "changeset": 117848482,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "defibrillator:location:en": "reception desk",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 89 5273111 wew. 397"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9534594317,
+            "lat": 53.7804851,
+            "lon": 20.4821542,
+            "timestamp": "2022-02-25T13:00:34Z",
+            "version": 1,
+            "changeset": 117848482,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
