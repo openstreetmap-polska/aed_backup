@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T20:31:38Z",
-        "timestamp_areas_base": "2022-02-26T19:50:56Z",
+        "timestamp_osm_base": "2022-02-26T21:32:07Z",
+        "timestamp_areas_base": "2022-02-26T20:50:47Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24328,15 +24328,16 @@
             "id": 9450880532,
             "lat": 52.2398886,
             "lon": 21.0318027,
-            "timestamp": "2022-01-26T18:45:40Z",
-            "version": 1,
-            "changeset": 116634294,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-26T20:47:23Z",
+            "version": 2,
+            "changeset": 117891450,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Centrum Nauki Kopernik",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
