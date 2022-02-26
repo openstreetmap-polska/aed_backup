@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T11:31:37Z",
+        "timestamp_osm_base": "2022-02-26T12:31:30Z",
         "timestamp_areas_base": "2022-02-26T10:45:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -28879,17 +28879,17 @@
             "id": 9466540196,
             "lat": 52.60269,
             "lon": 21.54067,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-02-26T11:35:02Z",
+            "version": 2,
+            "changeset": 117876215,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Urząd Miejski w Wyszkowie"
+                "operator": "Ochotnicza Straż Pożarna Wyszków"
             }
         },
         {
@@ -43398,17 +43398,18 @@
             "id": 9530557971,
             "lat": 52.5922814,
             "lon": 21.455819,
-            "timestamp": "2022-02-23T17:54:54Z",
-            "version": 1,
-            "changeset": 117781462,
+            "timestamp": "2022-02-26T11:35:02Z",
+            "version": 2,
+            "changeset": 117876215,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "AED z szafką wewnętrzną zamotowane na ścianie wewnątrz budynku",
-                "defibrillator:location:en": "AED with internal cabinet installed on the wall inside the building",
+                "defibrillator:location": "AED z szafką wewnętrzną zamotowane na ścianie wewnątrz budynku (przy dyżurce dostępny 24h)",
+                "defibrillator:location:en": "AED with internal cabinet installed on the wall inside the building (accesible 24/7)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Wyszkowie",
                 "phone": "+48 29 743 77 10"
             }
@@ -43706,11 +43707,11 @@
         {
             "type": "node",
             "id": 9530669546,
-            "lat": 52.3140302,
-            "lon": 21.1521161,
-            "timestamp": "2022-02-23T18:59:51Z",
-            "version": 1,
-            "changeset": 117783618,
+            "lat": 52.3140439,
+            "lon": 21.1521833,
+            "timestamp": "2022-02-26T12:20:15Z",
+            "version": 2,
+            "changeset": 117877265,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -46107,6 +46108,27 @@
         },
         {
             "type": "node",
+            "id": 9536894528,
+            "lat": 52.3117278,
+            "lon": 21.1538123,
+            "timestamp": "2022-02-26T11:38:49Z",
+            "version": 1,
+            "changeset": 117876345,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na lewo przy wejściu głównym do Urzędu Miasta",
+                "defibrillator:location:en": "By the left to the main entrance to Municipal Office",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta w Zielonce",
+                "phone": "+48 507 155 189"
+            }
+        },
+        {
+            "type": "node",
             "id": 9536898117,
             "lat": 51.6462992,
             "lon": 16.0930851,
@@ -46122,6 +46144,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 76 819 81 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536899695,
+            "lat": 52.2516748,
+            "lon": 21.0354344,
+            "timestamp": "2022-02-26T12:08:22Z",
+            "version": 1,
+            "changeset": 117877009,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku",
+                "defibrillator:location:en": "The device is located inside the building",
+                "emergency": "defibrillator",
+                "operator": "Urząd Marszałkowski Województwa Mazowieckiego"
             }
         },
         {
@@ -46142,6 +46182,386 @@
                 "indoor": "yes",
                 "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-16:00",
                 "operator": "Urząd Dzielnicy Śródmieście"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536905199,
+            "lat": 52.1930689,
+            "lon": 20.6163849,
+            "timestamp": "2022-02-26T12:07:43Z",
+            "version": 1,
+            "changeset": 117876991,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w pomieszczeniu recepcji/ochrony na parterze",
+                "defibrillator:location:en": "The device is located in the reception/security room on the ground floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Błoniu",
+                "phone": "+48 22 731 65 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536909146,
+            "lat": 52.5998757,
+            "lon": 21.4525417,
+            "timestamp": "2022-02-26T11:35:02Z",
+            "version": 1,
+            "changeset": 117876215,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED z szafką zewnętrzną zamontowane na zewnętrznej ścianie budynku – przy głównym wejściu do Wyszkowskiego Ośrodka Kultury",
+                "defibrillator:location:en": "AED with an external cabinet installed on the external wall of the building - at the main entrance to the Wyszkowski Cultural Centre.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Wyszkowski Ośrodek Kultury Hutnik",
+                "phone": "+48 29 743 77 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536920730,
+            "lat": 52.5452715,
+            "lon": 19.6978478,
+            "timestamp": "2022-02-26T12:16:13Z",
+            "version": 1,
+            "changeset": 117877176,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na I piętrze w holu pływalni przy tablicy informacyjnej znajdującej się w pobliżu stanowiska Elektronicznego Systemu Obsługi Klientów.",
+                "defibrillator:location:en": "On the first floor in the hall of the swimming pool by the information board located near the Electronic Customer Service System desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536924601,
+            "lat": 53.073547,
+            "lon": 21.5772168,
+            "timestamp": "2022-02-26T11:44:01Z",
+            "version": 1,
+            "changeset": 117876484,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed wejściem do Kancelarii Parafii Zbawiciela Świata, na zewnątrz budynku",
+                "defibrillator:location:en": "In front of the entrance to the Office of the Parish of the Saviour of the World, on the outside of the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24h",
+                "operator": "Kierownik Biura Rady Miasta",
+                "phone": "+48 512 376 647"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536927394,
+            "lat": 52.5490217,
+            "lon": 19.7072622,
+            "timestamp": "2022-02-26T12:02:56Z",
+            "version": 1,
+            "changeset": 117876902,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu, po lewej stronie od wejścia",
+                "defibrillator:location:en": "In the hall, to the left of the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Specjalny Ośrodek Szkolno-Wychowawczy nr 2",
+                "phone": "+48 24 366 03 50",
+                "website": "http://sosw2plock.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536933286,
+            "lat": 52.2507124,
+            "lon": 21.0317798,
+            "timestamp": "2022-02-26T12:29:55Z",
+            "version": 1,
+            "changeset": 117877465,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się na parterze przy wejściu",
+                "defibrillator:location:en": "The unit is located on the ground floor at the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Dzielnicy Praga-Północ",
+                "phone": "22 443 79 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536937611,
+            "lat": 52.2437166,
+            "lon": 21.2649038,
+            "timestamp": "2022-02-26T12:03:57Z",
+            "version": 1,
+            "changeset": 117876922,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Przychodni zdrowia w holu głównym",
+                "defibrillator:location:en": "At the Health Clinic in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "phone": "+48 22 7831045"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536939884,
+            "lat": 51.7893557,
+            "lon": 21.59163,
+            "timestamp": "2022-02-26T12:12:55Z",
+            "version": 1,
+            "changeset": 117877105,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz budynku",
+                "defibrillator:location:en": "Outside the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "SPZOZ Łaskarzew",
+                "phone": "+48 256845017"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536943790,
+            "lat": 52.4212308,
+            "lon": 19.4610433,
+            "timestamp": "2022-02-26T12:15:38Z",
+            "version": 1,
+            "changeset": 117877165,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W głównym korytarzu na parterze",
+                "defibrillator:location:en": "In the main corridor on the ground floor",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Wydział Promocji i Rozwoju Starostwo Powiatowe w Gostyninie",
+                "phone": "+48 24235 33 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536945544,
+            "lat": 52.5452209,
+            "lon": 19.6844918,
+            "timestamp": "2022-02-26T11:58:46Z",
+            "version": 1,
+            "changeset": 117876802,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W wejściu głównym do budynku Ratusza na parterze obok stanowiska pracy ochrony",
+                "defibrillator:location:en": "In the main entrance to the Town Hall building on the ground floor next to the security work station",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536948523,
+            "lat": 52.5489502,
+            "lon": 19.7074698,
+            "timestamp": "2022-02-26T12:02:56Z",
+            "version": 1,
+            "changeset": 117876902,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu, po lewej stronie od wejścia",
+                "defibrillator:location:en": "In the hall, to the left of the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536948525,
+            "lat": 52.274103,
+            "lon": 20.956763,
+            "timestamp": "2022-02-26T12:14:00Z",
+            "version": 1,
+            "changeset": 117877129,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na I pietrze w sali 104 gabinecie pielęgniarki",
+                "defibrillator:location:en": "On the first floor in room 104, Nurse's office",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Szkoła Podstawowa nr 187 im. Adama Mickiewicza",
+                "phone": "22 834 03 87"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536950721,
+            "lat": 53.0783826,
+            "lon": 21.5662293,
+            "timestamp": "2022-02-26T12:07:12Z",
+            "version": 1,
+            "changeset": 117876980,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w wejściu głównym do budynku Szkoły Podstawowej nr 6",
+                "defibrillator:location:en": "The device is located in the main entrance to the building of Primary School No. 6",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-21:00",
+                "operator": "Szkoła Podstawowa nr 6 im. Orła Białego w Ostrołęce",
+                "phone": "+48 29 764 59 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536958775,
+            "lat": 52.5476683,
+            "lon": 19.7056775,
+            "timestamp": "2022-02-26T12:26:27Z",
+            "version": 1,
+            "changeset": 117877375,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W lewym wejściu głównym do kościoła, na parterze",
+                "defibrillator:location:en": "In the left main entrance to the church, on the ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Parafia św. Stanisława Kostki w Płocku",
+                "source": "https://www.facebook.com/Stanislawowkasz/posts/1998241660241155"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536965128,
+            "lat": 52.1616539,
+            "lon": 20.7840959,
+            "timestamp": "2022-02-26T12:18:06Z",
+            "version": 1,
+            "changeset": 117877218,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym Międzyszkolnego Ośrodka Sportowego, na ścianie po lewej stronie od wejścia",
+                "defibrillator:location:en": "In the main hall of the Interschool Sports Centre on the wall to the left of the entrance",
+                "emergency": "defibrillator",
+                "opening_hours": "6,30-22,30",
+                "operator": "MOS Prószków",
+                "phone": "22 758 22 91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536965139,
+            "lat": 52.0398574,
+            "lon": 20.8598749,
+            "timestamp": "2022-02-26T12:21:23Z",
+            "version": 1,
+            "changeset": 117877283,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w korytarzu, przy wejściu do budynku szkoły",
+                "defibrillator:location:en": "The device is located in the corridor by the entrance to the school building",
+                "emergency": "defibrillator",
+                "opening_hours": "08:00-22:30",
+                "operator": "Centrum Sportu w Gminie Lesznowola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536986410,
+            "lat": 52.2440775,
+            "lon": 21.2999345,
+            "timestamp": "2022-02-26T12:29:15Z",
+            "version": 1,
+            "changeset": 117877452,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Przychodni zdrowia w holu głównym",
+                "defibrillator:location:en": "At the Health Clinic in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Przychodnia Nr 2 w Sulejówku",
+                "phone": "+48 22 7835225"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536994670,
+            "lat": 52.2461038,
+            "lon": 21.2766891,
+            "timestamp": "2022-02-26T12:27:16Z",
+            "version": 1,
+            "changeset": 117877397,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Przychodni zdrowia w holu głównym",
+                "defibrillator:location:en": "At the Health Clinic in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-20:00",
+                "phone": "+48 22 1501660"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536995622,
+            "lat": 53.0728923,
+            "lon": 21.5898817,
+            "timestamp": "2022-02-26T12:28:19Z",
+            "version": 1,
+            "changeset": 117877430,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się w dolnym wejściu głównym do budynku Szkoły Podstawowej nr 10",
+                "defibrillator:location:en": "The device is located in the lower main entrance of the building of Primary School No. 10",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24h",
+                "operator": "Szkoła Podstawowa nr 10 im. Jana Pawła II",
+                "phone": "+48 29 760 25 86"
             }
         }
     ]
