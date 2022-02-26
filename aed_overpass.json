@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T21:32:07Z",
-        "timestamp_areas_base": "2022-02-26T20:50:47Z",
+        "timestamp_osm_base": "2022-02-26T22:31:54Z",
+        "timestamp_areas_base": "2022-02-26T21:51:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24294,15 +24294,16 @@
             "id": 9450873840,
             "lat": 52.235269,
             "lon": 21.0088761,
-            "timestamp": "2022-01-26T18:34:48Z",
-            "version": 1,
-            "changeset": 116633908,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-26T21:52:10Z",
+            "version": 2,
+            "changeset": 117892931,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Świętokrzyska (M2)",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24311,15 +24312,16 @@
             "id": 9450873841,
             "lat": 52.2351297,
             "lon": 21.0078977,
-            "timestamp": "2022-01-26T18:34:48Z",
-            "version": 1,
-            "changeset": 116633908,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-26T21:52:12Z",
+            "version": 2,
+            "changeset": 117892931,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Świętokrzyska (M1)",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24431,15 +24433,16 @@
             "id": 9450896098,
             "lat": 52.2368626,
             "lon": 21.0167779,
-            "timestamp": "2022-01-26T18:45:16Z",
-            "version": 1,
-            "changeset": 116634277,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-26T21:51:58Z",
+            "version": 2,
+            "changeset": 117892931,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Nowy Świat-Uniwersytet",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -46711,6 +46714,24 @@
                 "opening_hours": "Mo-Su 06:00-23:00",
                 "operator": "Aquapark Wrocław",
                 "source": "https://www.facebook.com/groups/strefarekreacji.aquapark.wroc/posts/710939389635270"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9538507224,
+            "lat": 50.1064954,
+            "lon": 23.2345134,
+            "timestamp": "2022-02-26T21:53:32Z",
+            "version": 1,
+            "changeset": 117892973,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Krowica Hołodowska",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Krowicy Hołodowskiej"
             }
         }
     ]
