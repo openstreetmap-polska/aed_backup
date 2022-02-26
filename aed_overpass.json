@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T09:33:20Z",
-        "timestamp_areas_base": "2022-02-26T08:43:39Z",
+        "timestamp_osm_base": "2022-02-26T10:32:02Z",
+        "timestamp_areas_base": "2022-02-26T09:44:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -45891,6 +45891,24 @@
             "uid": 485927,
             "tags": {
                 "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536802217,
+            "lat": 51.6636018,
+            "lon": 16.0926144,
+            "timestamp": "2022-02-26T10:06:02Z",
+            "version": 1,
+            "changeset": 117874156,
+            "user": "puchaczowsky",
+            "uid": 7518458,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro obsługi mieszkańca w Urzędzie Miejskim",
+                "defibrillator:location:en": "Resident service office in the City Hall",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
