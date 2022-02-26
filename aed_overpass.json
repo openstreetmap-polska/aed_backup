@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T12:31:30Z",
-        "timestamp_areas_base": "2022-02-26T10:45:09Z",
+        "timestamp_osm_base": "2022-02-26T13:31:26Z",
+        "timestamp_areas_base": "2022-02-26T12:45:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2031,16 +2031,22 @@
         {
             "type": "node",
             "id": 6879580602,
-            "lat": 51.5308602,
+            "lat": 51.5308776,
             "lon": 20.0049703,
-            "timestamp": "2019-10-14T19:41:33Z",
-            "version": 1,
-            "changeset": 75686000,
-            "user": "iso-lator",
-            "uid": 1759163,
+            "timestamp": "2022-02-26T13:02:34Z",
+            "version": 2,
+            "changeset": 117878265,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Punktu Informacji Turystycznej na Placu Kościuszki",
+                "defibrillator:location:en": "On the wall of the Tourist Information Center on the Tadeusza Kościuszki Square",
                 "emergency": "defibrillator",
+                "image": "https://d-art.ppstatic.pl/kadry/k/r/16/8f/5da0ca78271d8_o_large.jpg",
+                "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "Urząd Miasta w Tomaszowie Mazowieckim",
                 "wheelchair": "yes"
             }
         },
@@ -23489,17 +23495,17 @@
             "id": 9447542078,
             "lat": 51.3617505,
             "lon": 20.7939978,
-            "timestamp": "2022-01-25T13:32:06Z",
-            "version": 1,
-            "changeset": 116585766,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-02-26T12:35:53Z",
+            "version": 2,
+            "changeset": 117877638,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Wieniawa",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Wieniawa"
+                "operator": "Ochotnicza Straż Pożarna w Wieniawie"
             }
         },
         {
@@ -41036,25 +41042,6 @@
         },
         {
             "type": "node",
-            "id": 9524004576,
-            "lat": 51.6450161,
-            "lon": 20.9534785,
-            "timestamp": "2022-02-21T14:24:08Z",
-            "version": 2,
-            "changeset": 117684290,
-            "user": "jackpod",
-            "uid": 10224616,
-            "tags": {
-                "access": "permissive",
-                "defibrillator:location": "Wewnątrz budynku szkoły PSP 1 na ścianie przy wejściu głównym",
-                "emergency": "defibrillator",
-                "fixme": "Ustalić dokładne położenie",
-                "indoor": "yes",
-                "operator": "Publiczna Szkoła Podstawowa nr 1 im. Komisji Edukacji Narodowej w Białobrzegach"
-            }
-        },
-        {
-            "type": "node",
             "id": 9524038417,
             "lat": 51.6443667,
             "lon": 20.9560266,
@@ -42266,17 +42253,20 @@
             "id": 9529296655,
             "lat": 51.0908072,
             "lon": 17.0324288,
-            "timestamp": "2022-02-23T09:22:41Z",
-            "version": 1,
-            "changeset": 117760329,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-02-26T13:10:09Z",
+            "version": 2,
+            "changeset": 117878486,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Su 06:00-23:00"
+                "note": "Są dwa",
+                "opening_hours": "Mo-Su 06:00-23:00",
+                "operator": "Aquapark Wrocław",
+                "source": "https://www.facebook.com/groups/strefarekreacji.aquapark.wroc/posts/710939389635270"
             }
         },
         {
@@ -45950,14 +45940,14 @@
             "id": 9536824491,
             "lat": 52.0905519,
             "lon": 20.9366621,
-            "timestamp": "2022-02-26T11:04:01Z",
-            "version": 1,
-            "changeset": 117875590,
+            "timestamp": "2022-02-26T12:31:36Z",
+            "version": 2,
+            "changeset": 117877522,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Urządzenie znajduje się przed wejściem do urzędu",
+                "defibrillator:location": "Urządzenie znajduje się przed wejściem do urzędu, po prawej stronie",
                 "defibrillator:location:en": "The device is located at the entrance to the Municipal Office",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
@@ -46505,6 +46495,25 @@
         },
         {
             "type": "node",
+            "id": 9536986224,
+            "lat": 52.0906361,
+            "lon": 20.9366222,
+            "timestamp": "2022-02-26T12:31:36Z",
+            "version": 1,
+            "changeset": 117877522,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w korytarzu głównym, przy kancelarii",
+                "defibrillator:location:en": "the device is located inside the office, in the corridor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Lesznowola"
+            }
+        },
+        {
+            "type": "node",
             "id": 9536986410,
             "lat": 52.2440775,
             "lon": 21.2999345,
@@ -46521,6 +46530,25 @@
                 "indoor": "yes",
                 "operator": "Przychodnia Nr 2 w Sulejówku",
                 "phone": "+48 22 7835225"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536986694,
+            "lat": 52.5436693,
+            "lon": 19.6997085,
+            "timestamp": "2022-02-26T12:32:26Z",
+            "version": 1,
+            "changeset": 117877546,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w korytarzu przy wejściu po lewej stronie",
+                "defibrillator:location:en": "in the corridor at the entrance on the left",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ośrodek Pomocy Społecznej"
             }
         },
         {
@@ -46562,6 +46590,126 @@
                 "opening_hours": "24h",
                 "operator": "Szkoła Podstawowa nr 10 im. Jana Pawła II",
                 "phone": "+48 29 760 25 86"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536998189,
+            "lat": 52.1962173,
+            "lon": 20.8692625,
+            "timestamp": "2022-02-26T12:33:45Z",
+            "version": 1,
+            "changeset": 117877596,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pawilonie na I piętrze przy wejściu głównym lokalu bibliotecznego.",
+                "defibrillator:location:en": "On the first floor of pavilion at the main entrance of the library premises.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biblioteka Publiczna im. W. J. Grabskiego w Dzielnicy Ursus m. st. Warszawy",
+                "phone": "+48 22 882 43 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536999496,
+            "lat": 51.8679957,
+            "lon": 20.8667793,
+            "timestamp": "2022-02-26T12:37:00Z",
+            "version": 1,
+            "changeset": 117877675,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Grójec",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Grójcu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9537008125,
+            "lat": 51.5307763,
+            "lon": 20.0120036,
+            "timestamp": "2022-02-26T13:02:34Z",
+            "version": 1,
+            "changeset": 117878265,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W urzędzie miasta",
+                "defibrillator:location:en": "Inside the Town Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Tomaszów Mazowiecki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9537010251,
+            "lat": 51.7628949,
+            "lon": 20.2544295,
+            "timestamp": "2022-02-26T12:41:52Z",
+            "version": 1,
+            "changeset": 117877790,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej, na lewo od wejścia do Domu Kultury",
+                "emergency": "defibrillator",
+                "image": "https://projektaed.pl/wp-content/uploads/2018/03/projekt-aed-rawa-mazowiecka-ulica.jpg",
+                "opening_hours": "24/7",
+                "operator": "Miejski Dom Kultury im. Danuty Siedzikówny „Inki” w Rawie Mazowieckiej",
+                "outdoor": "yes",
+                "phone": "46 815 47 13",
+                "website": "http://mdkrawa.pl/kontakt/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9537061935,
+            "lat": 51.5966682,
+            "lon": 19.9246164,
+            "timestamp": "2022-02-26T13:04:07Z",
+            "version": 1,
+            "changeset": 117878311,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Ujazd",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Ujazd",
+                "source": "https://www.facebook.com/strazujazd/photos/pcb.3740134469419209/3740133956085927"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9537077667,
+            "lat": 51.0909007,
+            "lon": 17.0324544,
+            "timestamp": "2022-02-26T13:10:09Z",
+            "version": 1,
+            "changeset": 117878486,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "Są dwa",
+                "opening_hours": "Mo-Su 06:00-23:00",
+                "operator": "Aquapark Wrocław",
+                "source": "https://www.facebook.com/groups/strefarekreacji.aquapark.wroc/posts/710939389635270"
             }
         }
     ]
