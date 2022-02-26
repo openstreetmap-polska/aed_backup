@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-26T10:32:02Z",
-        "timestamp_areas_base": "2022-02-26T09:44:23Z",
+        "timestamp_osm_base": "2022-02-26T11:31:37Z",
+        "timestamp_areas_base": "2022-02-26T10:45:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1540,16 +1540,22 @@
         {
             "type": "node",
             "id": 5991073424,
-            "lat": 52.3950947,
-            "lon": 20.9313793,
-            "timestamp": "2018-10-16T17:35:53Z",
-            "version": 1,
-            "changeset": 63584284,
-            "user": "cedaros",
-            "uid": 4026498,
+            "lat": 52.3951167,
+            "lon": 20.9313776,
+            "timestamp": "2022-02-26T11:24:28Z",
+            "version": 2,
+            "changeset": 117875976,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "customers",
+                "defibrillator:location": "urządzenie usytuowane jest w głównym holu budynku po lewej stronie od wejścia;",
+                "defibrillator:location:en": "The device is located in the main hall of the building to the left of the entrance;",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Miasta Legionowo",
+                "phone": "+48 22 774 20 31"
             }
         },
         {
@@ -31300,18 +31306,22 @@
         {
             "type": "node",
             "id": 9475274117,
-            "lat": 52.4065661,
-            "lon": 22.2424673,
-            "timestamp": "2022-02-09T12:16:23Z",
-            "version": 2,
-            "changeset": 117199805,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lat": 52.4065759,
+            "lon": 22.2424819,
+            "timestamp": "2022-02-26T11:21:17Z",
+            "version": 3,
+            "changeset": 117875915,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Biuro Obsługi Interesantów",
+                "defibrillator:location": "AED jest umieszczone na poziomie 1 na ścianie po prawej stronie, naprzeciwko Kasy",
+                "defibrillator:location:en": "The AED is located on level 1 on the wall to the right, opposite the cash register.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Miasta Sokołów Podlaski",
+                "phone": "+48 25 781 75 00"
             }
         },
         {
@@ -44646,13 +44656,13 @@
         {
             "type": "node",
             "id": 9532194961,
-            "lat": 52.3101415,
-            "lon": 21.1566928,
-            "timestamp": "2022-02-24T11:37:11Z",
-            "version": 1,
-            "changeset": 117808482,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.3104224,
+            "lon": 21.1562651,
+            "timestamp": "2022-02-26T11:15:43Z",
+            "version": 2,
+            "changeset": 117875804,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W Ośrodku Kultury i Sportu przy wejściu głównym",
@@ -44660,8 +44670,9 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "Szkoła Podstawowa nr 4 w Zielonce",
-                "phone": "+48 507 155189"
+                "operator": "Ośrodku Kultury i Sportu w Zielonce",
+                "phone": "+48 507 155189",
+                "wheelchair": "no"
             }
         },
         {
@@ -45897,6 +45908,26 @@
         },
         {
             "type": "node",
+            "id": 9536771063,
+            "lat": 52.3181942,
+            "lon": 22.8446355,
+            "timestamp": "2022-02-26T11:08:52Z",
+            "version": 1,
+            "changeset": 117875681,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się na ścianie budynku",
+                "defibrillator:location:en": "The device is located on the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Rzewuszki"
+            }
+        },
+        {
+            "type": "node",
             "id": 9536802217,
             "lat": 51.6636018,
             "lon": 16.0926144,
@@ -45911,6 +45942,206 @@
                 "defibrillator:location:en": "Resident service office in the City Hall",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536824491,
+            "lat": 52.0905519,
+            "lon": 20.9366621,
+            "timestamp": "2022-02-26T11:04:01Z",
+            "version": 1,
+            "changeset": 117875590,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się przed wejściem do urzędu",
+                "defibrillator:location:en": "The device is located at the entrance to the Municipal Office",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Lesznowola",
+                "source": "https://www.facebook.com/urzadgminylesznowola/posts/232708982371570"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536825937,
+            "lat": 52.3098543,
+            "lon": 21.1512642,
+            "timestamp": "2022-02-26T11:19:06Z",
+            "version": 1,
+            "changeset": 117875866,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Komisariacie Policji przy wejściu głównym",
+                "defibrillator:location:en": "At the Police Station at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Komisariat Policji w Zielonce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536826650,
+            "lat": 52.1932499,
+            "lon": 20.8877485,
+            "timestamp": "2022-02-26T10:54:52Z",
+            "version": 1,
+            "changeset": 117875327,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pawilonie na I piętrze przy wejściu głównym lokalu bibliotecznego",
+                "defibrillator:location:en": "On the first floor of pavilion at the main entrance of the library premises.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "1",
+                "operator": "Biblioteka Publiczna im. W. J. Grabskiego w Dzielnicy Ursus",
+                "phone": "+48 22 882 43 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536848298,
+            "lat": 52.1028994,
+            "lon": 21.0035112,
+            "timestamp": "2022-02-26T11:17:55Z",
+            "version": 1,
+            "changeset": 117875841,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w pokoju socjalnym przy hali sportowej",
+                "defibrillator:location:en": "The device is located in the break room at the sports hall",
+                "emergency": "defibrillator",
+                "opening_hours": "08:00-22:30",
+                "operator": "Centrum Sportu w Gminie Lesznowola"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536851156,
+            "lat": 52.1532053,
+            "lon": 21.7012001,
+            "timestamp": "2022-02-26T10:48:25Z",
+            "version": 1,
+            "changeset": 117875144,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie jest na zachodniej ścianie remizy, widoczne od strony drogi, pomiędzy wjazdami dla wozów strażackich",
+                "defibrillator:location:en": "The device is on the west wall of the building and visible from the road",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Mieni",
+                "phone": "+48 604 689 074",
+                "source": "https://www.facebook.com/ospmienia/posts/1115090255560654"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536870757,
+            "lat": 52.5435239,
+            "lon": 19.6928097,
+            "timestamp": "2022-02-26T11:23:02Z",
+            "version": 1,
+            "changeset": 117875944,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W wejściu głownym na parterze, na przeciwko portierni",
+                "defibrillator:location:en": "In the main entrance on the ground floor, opposite to the porter's lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536877599,
+            "lat": 52.1935715,
+            "lon": 20.6212829,
+            "timestamp": "2022-02-26T11:30:09Z",
+            "version": 1,
+            "changeset": 117876106,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w korytarzu na pierwszym piętrze",
+                "defibrillator:location:en": "The device is located in the hallway on the first floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 10:00-18:00; Tu-Fr 08:00-16:00",
+                "operator": "Urząd Miejski w Błoniu",
+                "phone": "+48 22 731 65 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536878702,
+            "lat": 52.2243356,
+            "lon": 21.3498964,
+            "timestamp": "2022-02-26T11:11:55Z",
+            "version": 1,
+            "changeset": 117875733,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze budynku Urzędu Miejskiego w Halinowie w Biurze Podawczym",
+                "defibrillator:location:en": "On the ground floor of the Municipal Office in Halinów, at the Signature Office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Halinowie",
+                "phone": "83 60 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536898117,
+            "lat": 51.6462992,
+            "lon": 16.0930851,
+            "timestamp": "2022-02-26T11:16:32Z",
+            "version": 1,
+            "changeset": 117875815,
+            "user": "puchaczowsky",
+            "uid": 7518458,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Naprzeciwko linii kas",
+                "defibrillator:location:en": "Opposite the checkout line",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 76 819 81 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9536904323,
+            "lat": 52.2280621,
+            "lon": 21.0108042,
+            "timestamp": "2022-02-26T11:27:05Z",
+            "version": 1,
+            "changeset": 117876043,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Parterze w Holu Głównym na pierwszym filarze z lewej strony",
+                "defibrillator:location:en": "On the ground floor in the Main Hall on the first pillar to the left",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-16:00",
+                "operator": "Urząd Dzielnicy Śródmieście"
             }
         }
     ]
