@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-27T13:31:16Z",
-        "timestamp_areas_base": "2022-02-27T12:56:40Z",
+        "timestamp_osm_base": "2022-02-27T14:31:55Z",
+        "timestamp_areas_base": "2022-02-27T13:57:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12177,15 +12177,16 @@
             "id": 9417626828,
             "lat": 52.2313622,
             "lon": 21.0100622,
-            "timestamp": "2022-01-14T11:10:08Z",
-            "version": 1,
-            "changeset": 116143347,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-27T13:52:17Z",
+            "version": 2,
+            "changeset": 117908961,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie peronu metra Centrum w kierunku Młocin",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -12194,15 +12195,16 @@
             "id": 9417717627,
             "lat": 52.2313276,
             "lon": 21.0098813,
-            "timestamp": "2022-01-14T11:10:08Z",
-            "version": 2,
-            "changeset": 116143347,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-02-27T13:56:36Z",
+            "version": 3,
+            "changeset": 117908961,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie peronu metra Centrum w kierunku Kabat",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -28674,16 +28676,17 @@
             "id": 9464587317,
             "lat": 52.2315244,
             "lon": 21.0101701,
-            "timestamp": "2022-01-31T23:02:54Z",
-            "version": 1,
-            "changeset": 116843539,
-            "user": "formellon",
-            "uid": 13032027,
+            "timestamp": "2022-02-27T13:52:19Z",
+            "version": 2,
+            "changeset": 117908961,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W punkcie Obsługi Pasażerów Komunikacji Miejskiej na poziomie -1.",
                 "defibrillator:location:en": "At Public Transport Service Point at -1 floor level.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
