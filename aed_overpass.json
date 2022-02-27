@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-27T17:32:01Z",
+        "timestamp_osm_base": "2022-02-27T18:31:42Z",
         "timestamp_areas_base": "2022-02-27T15:58:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -45278,11 +45278,11 @@
             "id": 9533436662,
             "lat": 49.7242277,
             "lon": 22.8135613,
-            "timestamp": "2022-02-24T22:29:21Z",
-            "version": 2,
-            "changeset": 117829789,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-02-27T18:22:53Z",
+            "version": 3,
+            "changeset": 117918096,
+            "user": "mcliquid",
+            "uid": 1213571,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
@@ -45290,7 +45290,7 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
-                "phone": "600 949 409",
+                "phone": "+48 600 949 409",
                 "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251"
             }
         },
