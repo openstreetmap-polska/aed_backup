@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-02-27T18:31:42Z",
+        "timestamp_osm_base": "2022-02-27T19:31:24Z",
         "timestamp_areas_base": "2022-02-27T15:58:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -46756,6 +46756,24 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Strzyżowie",
                 "source": "https://www.facebook.com/strazpozarnastrzyzow/posts/2327319334164315"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9543423217,
+            "lat": 51.1469365,
+            "lon": 16.8662298,
+            "timestamp": "2022-02-27T18:34:04Z",
+            "version": 1,
+            "changeset": 117918386,
+            "user": "smoras",
+            "uid": 276935,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie obok wejścia do apteki",
+                "defibrillator:location:en": "On the wall, near the entrance to the pharmacy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
