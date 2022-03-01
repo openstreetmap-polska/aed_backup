@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-01T09:30:55Z",
-        "timestamp_areas_base": "2022-03-01T07:19:00Z",
+        "timestamp_osm_base": "2022-03-01T10:31:44Z",
+        "timestamp_areas_base": "2022-03-01T10:21:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46774,6 +46774,89 @@
                 "defibrillator:location:en": "On the wall, near the entrance to the pharmacy.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547019016,
+            "lat": 50.247409,
+            "lon": 23.1335029,
+            "timestamp": "2022-03-01T10:26:19Z",
+            "version": 1,
+            "changeset": 117974068,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Cieszanowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Cieszanowicach",
+                "phone": "16 631 10 08"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547019213,
+            "lat": 49.574285,
+            "lon": 22.208,
+            "timestamp": "2022-03-01T10:04:18Z",
+            "version": 1,
+            "changeset": 117973255,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, na prawo od kasy biletowej",
+                "defibrillator:location:en": "On the wall, to the right of the ticket offices",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 9:00-12:00;Tu-Sa 9:00-14:00",
+                "operator": "Muzeum Budownictwa Ludowego w Sanoku",
+                "phone": "+48 13 493 01 77",
+                "source": "https://www.facebook.com/profile/100057142282338/search/?q=aed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547024622,
+            "lat": 49.5142123,
+            "lon": 22.2686031,
+            "timestamp": "2022-03-01T10:08:46Z",
+            "version": 1,
+            "changeset": 117973426,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Zagórz",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Zagórzu",
+                "source": "https://www.facebook.com/osp.zagorz/posts/1787852514571076"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547033664,
+            "lat": 52.8803799,
+            "lon": 18.7897703,
+            "timestamp": "2022-03-01T10:19:05Z",
+            "version": 1,
+            "changeset": 117973802,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed głównym wejściem do budynku",
+                "defibrillator:location:en": "In front of the main entrance to the buidling",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejskie Centrum Kultury",
+                "phone": "54 234 18 94",
+                "wheelchair": "yes"
             }
         }
     ]
