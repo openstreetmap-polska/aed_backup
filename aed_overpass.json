@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-01T21:32:01Z",
-        "timestamp_areas_base": "2022-03-01T19:28:14Z",
+        "timestamp_osm_base": "2022-03-01T22:32:04Z",
+        "timestamp_areas_base": "2022-03-01T22:29:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46914,6 +46914,24 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Medyce",
                 "phone": "16 631 10 08"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9548298016,
+            "lat": 50.6508237,
+            "lon": 23.8979157,
+            "timestamp": "2022-03-01T22:17:28Z",
+            "version": 2,
+            "changeset": 117996778,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Mircze",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Mirczu"
             }
         }
     ]
