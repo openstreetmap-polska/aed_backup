@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-01T10:31:44Z",
-        "timestamp_areas_base": "2022-03-01T10:21:29Z",
+        "timestamp_osm_base": "2022-03-01T11:31:45Z",
+        "timestamp_areas_base": "2022-03-01T11:21:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46857,6 +46857,63 @@
                 "operator": "Miejskie Centrum Kultury",
                 "phone": "54 234 18 94",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547142694,
+            "lat": 49.8056754,
+            "lon": 22.9320784,
+            "timestamp": "2022-03-01T11:17:27Z",
+            "version": 1,
+            "changeset": 117975949,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed urzędem gminy (do dokładnego ustalenia)",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Medyka",
+                "outdoor": "yes",
+                "phone": "16 6715391"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547153328,
+            "lat": 49.8325693,
+            "lon": 22.91821,
+            "timestamp": "2022-03-01T11:13:26Z",
+            "version": 1,
+            "changeset": 117975821,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Torki",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Torkach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9547153329,
+            "lat": 49.8042879,
+            "lon": 22.9333645,
+            "timestamp": "2022-03-01T11:13:26Z",
+            "version": 1,
+            "changeset": 117975821,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Medyka",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Medyce",
+                "phone": "16 631 10 08"
             }
         }
     ]
