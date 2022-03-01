@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-01T12:31:41Z",
+        "timestamp_osm_base": "2022-03-01T13:32:28Z",
         "timestamp_areas_base": "2022-03-01T12:22:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -46781,17 +46781,17 @@
             "id": 9547019016,
             "lat": 50.247409,
             "lon": 23.1335029,
-            "timestamp": "2022-03-01T10:26:19Z",
-            "version": 1,
-            "changeset": 117974068,
+            "timestamp": "2022-03-01T13:14:33Z",
+            "version": 2,
+            "changeset": 117979816,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Cieszanowice",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Cieszanów",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna w Cieszanowicach",
+                "operator": "Ochotnicza Straż Pożarna w Cieszanowie",
                 "phone": "16 631 10 08"
             }
         },
