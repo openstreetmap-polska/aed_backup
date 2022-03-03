@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-03T14:32:03Z",
+        "timestamp_osm_base": "2022-03-03T15:31:54Z",
         "timestamp_areas_base": "2022-03-03T13:49:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -37784,11 +37784,11 @@
         {
             "type": "node",
             "id": 9506351456,
-            "lat": 51.3591583,
-            "lon": 20.6238936,
-            "timestamp": "2022-02-19T14:06:05Z",
-            "version": 2,
-            "changeset": 117605458,
+            "lat": 51.3591081,
+            "lon": 20.6238721,
+            "timestamp": "2022-03-03T14:37:55Z",
+            "version": 3,
+            "changeset": 118058476,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -37796,6 +37796,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy PSP Przysucha",
                 "defibrillator:location:en": "Rescue and firefighting car PSP Przysucha",
                 "emergency": "defibrillator",
+                "note": "Komenda posiada dwa urządzenia",
                 "operator": "Państwowa Straż Pożarna Przysucha",
                 "source": "https://www.facebook.com/ziemiaprzysuska/posts/2663234127153270"
             }
@@ -46949,6 +46950,98 @@
                 "defibrillator:location": "Na budynku firmy pod adresem ul. Polna 127 Toruń",
                 "emergency": "defibrillator",
                 "phone": "+48 56 664 40 44"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552017151,
+            "lat": 51.5009491,
+            "lon": 20.7811198,
+            "timestamp": "2022-03-03T14:42:23Z",
+            "version": 1,
+            "changeset": 118058633,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Grabowa",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Grabowej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552017299,
+            "lat": 51.3592005,
+            "lon": 20.6239235,
+            "timestamp": "2022-03-03T14:37:55Z",
+            "version": 1,
+            "changeset": 118058476,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy PSP Przysucha",
+                "defibrillator:location:en": "Rescue and firefighting car PSP Przysucha",
+                "emergency": "defibrillator",
+                "note": "Komenda posiada dwa urządzenia",
+                "operator": "Państwowa Straż Pożarna Przysucha",
+                "source": "https://www.facebook.com/ziemiaprzysuska/posts/2663234127153270"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552041288,
+            "lat": 51.3198426,
+            "lon": 20.6866644,
+            "timestamp": "2022-03-03T14:51:44Z",
+            "version": 1,
+            "changeset": 118058946,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Borkowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Borkowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552058263,
+            "lat": 51.5227899,
+            "lon": 20.5550498,
+            "timestamp": "2022-03-03T14:40:26Z",
+            "version": 1,
+            "changeset": 118058565,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Odrzywół",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Odrzywole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552073936,
+            "lat": 51.372857,
+            "lon": 20.4397711,
+            "timestamp": "2022-03-03T14:57:50Z",
+            "version": 1,
+            "changeset": 118059156,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Rozwady",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Rozwadach"
             }
         }
     ]
