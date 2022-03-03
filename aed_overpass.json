@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-03T11:31:52Z",
-        "timestamp_areas_base": "2022-03-03T10:48:18Z",
+        "timestamp_osm_base": "2022-03-03T12:31:38Z",
+        "timestamp_areas_base": "2022-03-03T11:49:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46932,6 +46932,23 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Mirczu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9551815858,
+            "lat": 53.0402756,
+            "lon": 18.6479311,
+            "timestamp": "2022-03-03T12:16:38Z",
+            "version": 1,
+            "changeset": 118053864,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku firmy pod adresem ul. Polna 127 Toruń",
+                "emergency": "defibrillator",
+                "phone": "+48 56 664 40 44"
             }
         }
     ]
