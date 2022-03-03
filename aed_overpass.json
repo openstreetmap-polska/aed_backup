@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-03T16:31:40Z",
+        "timestamp_osm_base": "2022-03-03T17:31:36Z",
         "timestamp_areas_base": "2022-03-03T13:49:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47060,6 +47060,25 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Teletynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9552349118,
+            "lat": 50.3828071,
+            "lon": 23.4401008,
+            "timestamp": "2022-03-03T17:08:50Z",
+            "version": 1,
+            "changeset": 118063633,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Bełżec I",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Bełżcu",
+                "source": "https://www.facebook.com/naturalniezelubycza/posts/1913384788726947"
             }
         }
     ]
