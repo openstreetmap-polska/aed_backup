@@ -1,15 +1,15 @@
-# AED backup and stats (2022-03-03 17:33:05)
+# AED backup and stats (2022-03-04 07:33:04)
 
 
 ## Total AED plot
 ![](report_data/total_aed.png)
-Total AED: 2581
+Total AED: 2582
 
 ## Current year AED plot
 ![](report_data/current_year_aed.png)\
 AED for 2022-01-01: 412\
-AED for 2022-03-03: 2581\
-Average daily growth since beginning of the year: 36.83
+AED for 2022-03-04: 2582\
+Average daily growth since beginning of the year: 36.25
 
 ## Top editors
 | # | User | Changesets |
@@ -27,15 +27,15 @@ Average daily growth since beginning of the year: 36.83
 | 11 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 36 |
 | 12 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 33 |
 | 13 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 32 |
-| 14 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 23 |
-| 15 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 23 |
+| 14 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 23 |
+| 15 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 23 |
 | 16 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
 | 17 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 19 |
-| 18 | [Awizonosz](<https://www.openstreetmap.org/user/Awizonosz>) | 14 |
-| 19 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
-| 20 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
-| 21 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
-| 22 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
+| 18 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
+| 19 | [Awizonosz](<https://www.openstreetmap.org/user/Awizonosz>) | 14 |
+| 20 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
+| 21 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
+| 22 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
 | 23 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
 | 24 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
 | 25 | [dodoelk](<https://www.openstreetmap.org/user/dodoelk>) | 11 |
