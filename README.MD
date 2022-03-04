@@ -1,15 +1,15 @@
-# AED backup and stats (2022-03-04 07:33:04)
+# AED backup and stats (2022-03-04 10:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.png)
-Total AED: 2582
+Total AED: 2583
 
 ## Current year AED plot
 ![](report_data/current_year_aed.png)\
 AED for 2022-01-01: 412\
-AED for 2022-03-04: 2582\
-Average daily growth since beginning of the year: 36.25
+AED for 2022-03-04: 2583\
+Average daily growth since beginning of the year: 36.26
 
 ## Top editors
 | # | User | Changesets |
@@ -20,7 +20,7 @@ Average daily growth since beginning of the year: 36.25
 | 4 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 121 |
 | 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 113 |
 | 6 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 91 |
-| 7 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 72 |
+| 7 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 73 |
 | 8 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 39 |
 | 9 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 39 |
 | 10 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 38 |

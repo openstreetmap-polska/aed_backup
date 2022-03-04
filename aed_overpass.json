@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-04T09:32:04Z",
+        "timestamp_osm_base": "2022-03-04T10:31:40Z",
         "timestamp_areas_base": "2022-03-04T07:58:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47097,6 +47097,24 @@
                 "defibrillator:location:en": "On security house wall near main gate to Zubry II estate.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9553834417,
+            "lat": 51.1423629,
+            "lon": 17.0896418,
+            "timestamp": "2022-03-04T09:39:57Z",
+            "version": 1,
+            "changeset": 118085464,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie za kasami w Decathlonie",
+                "defibrillator:location:en": "On the wall behind cashier desks in Decathlon",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
