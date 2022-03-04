@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-04T10:31:40Z",
-        "timestamp_areas_base": "2022-03-04T07:58:25Z",
+        "timestamp_osm_base": "2022-03-04T11:32:10Z",
+        "timestamp_areas_base": "2022-03-04T10:59:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47104,9 +47104,9 @@
             "id": 9553834417,
             "lat": 51.1423629,
             "lon": 17.0896418,
-            "timestamp": "2022-03-04T09:39:57Z",
-            "version": 1,
-            "changeset": 118085464,
+            "timestamp": "2022-03-04T10:32:27Z",
+            "version": 2,
+            "changeset": 118087346,
             "user": "Ancymon",
             "uid": 1593161,
             "tags": {
@@ -47114,7 +47114,8 @@
                 "defibrillator:location": "Na ścianie za kasami w Decathlonie",
                 "defibrillator:location:en": "On the wall behind cashier desks in Decathlon",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 09:00-21:00"
             }
         }
     ]
