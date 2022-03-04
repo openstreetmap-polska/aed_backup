@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-04T20:31:20Z",
-        "timestamp_areas_base": "2022-03-04T14:01:09Z",
+        "timestamp_osm_base": "2022-03-04T21:31:56Z",
+        "timestamp_areas_base": "2022-03-04T21:05:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47101,6 +47101,56 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Sa 09:00-21:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554972917,
+            "lat": 51.2697004,
+            "lon": 18.0537144,
+            "timestamp": "2022-03-04T21:20:31Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554986717,
+            "lat": 52.3632957,
+            "lon": 20.8070659,
+            "timestamp": "2022-03-04T21:28:39Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku firmy Adamed Pharma",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554987517,
+            "lat": 52.363022,
+            "lon": 20.8061186,
+            "timestamp": "2022-03-04T21:30:15Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku firmy Adamed Pharma",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
