@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-04T21:31:56Z",
-        "timestamp_areas_base": "2022-03-04T21:05:42Z",
+        "timestamp_osm_base": "2022-03-04T22:31:54Z",
+        "timestamp_areas_base": "2022-03-04T22:07:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46925,15 +46925,16 @@
             "id": 9551815858,
             "lat": 53.0402756,
             "lon": 18.6479311,
-            "timestamp": "2022-03-03T12:16:38Z",
-            "version": 1,
-            "changeset": 118053864,
+            "timestamp": "2022-03-04T21:48:56Z",
+            "version": 2,
+            "changeset": 118108951,
             "user": "Olga | Yanosik",
             "uid": 2844322,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na budynku firmy pod adresem ul. Polna 127 Toruń",
+                "defibrillator:location": "Na ogrodzeniu budynku firmy Prosave, pod adresem ul. Polna 127 Toruń",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "phone": "+48 56 664 40 44"
             }
         },
@@ -47149,6 +47150,192 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku firmy Adamed Pharma",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554990717,
+            "lat": 51.8181712,
+            "lon": 19.3055342,
+            "timestamp": "2022-03-04T21:32:38Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Dostępny całą dobę na terenie pływalni Olimpijczyk",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554993817,
+            "lat": 53.2631113,
+            "lon": 14.639208,
+            "timestamp": "2022-03-04T21:35:00Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku zalando przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9554995117,
+            "lat": 51.9815845,
+            "lon": 21.2837134,
+            "timestamp": "2022-03-04T21:36:38Z",
+            "version": 1,
+            "changeset": 118108354,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "defibrillator:location": "W budynku OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555025317,
+            "lat": 54.0349006,
+            "lon": 19.0242052,
+            "timestamp": "2022-03-04T21:54:12Z",
+            "version": 1,
+            "changeset": 118109057,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Urzędu Miasta w Malborku - ściana wschodnia, przy schodach wejściowych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555026117,
+            "lat": 54.0440898,
+            "lon": 19.0212864,
+            "timestamp": "2022-03-04T21:55:41Z",
+            "version": 1,
+            "changeset": 118109057,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "NZOZ „MALMED”, ul. Solskiego 1 Malbork -  ściana wschodnia budynku, przy wejściu do Gminnego Zakładu Gospodarki Komunalnej i Mieszkaniowej oraz apteki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555028317,
+            "lat": 54.0475544,
+            "lon": 19.0382178,
+            "timestamp": "2022-03-04T21:57:55Z",
+            "version": 1,
+            "changeset": 118109057,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ośrodek Sportu i Rekreacji, ul. Parkowa, marina: na ścianie budynku od strony siłowni parkowej",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555030417,
+            "lat": 54.0264161,
+            "lon": 19.0433714,
+            "timestamp": "2022-03-04T22:01:05Z",
+            "version": 1,
+            "changeset": 118109057,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zespół Szkolno-Przedszkolny nr 1, ul. Wybickiego 32: po prawej stronie wejścia na halę sportową",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555032917,
+            "lat": 54.0362364,
+            "lon": 19.0604471,
+            "timestamp": "2022-03-04T22:02:48Z",
+            "version": 1,
+            "changeset": 118109057,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Przychodni, al. Wojska Polskiego 52: ściana północna, po prawej stronie wejścia do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555039917,
+            "lat": 53.0993418,
+            "lon": 18.0320362,
+            "timestamp": "2022-03-04T22:07:58Z",
+            "version": 1,
+            "changeset": 118109353,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wewnątrz  budynku Szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555040217,
+            "lat": 54.7674414,
+            "lon": 18.3367709,
+            "timestamp": "2022-03-04T22:08:54Z",
+            "version": 1,
+            "changeset": 118109353,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555042817,
+            "lat": 54.0087516,
+            "lon": 19.0074496,
+            "timestamp": "2022-03-04T22:11:33Z",
+            "version": 1,
+            "changeset": 118109353,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Cmentarz Komunalny ul. Głowackiego budynek kaplicy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
