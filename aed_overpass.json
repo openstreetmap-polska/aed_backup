@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T19:32:13Z",
-        "timestamp_areas_base": "2022-03-05T19:16:52Z",
+        "timestamp_osm_base": "2022-03-05T20:31:58Z",
+        "timestamp_areas_base": "2022-03-05T20:16:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47448,6 +47448,45 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Oleszycach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556663028,
+            "lat": 50.2365922,
+            "lon": 22.1206563,
+            "timestamp": "2022-03-05T20:20:57Z",
+            "version": 1,
+            "changeset": 118139516,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie od głównego wejścia do pływalni",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Kryta Pływalnia w Sokołowie Małopolskim",
+                "phone": "17 772 00 20",
+                "source": "https://www.facebook.com/KrytaPlywalniawSokolowieMalopolskim/photos/a.483608551697452/3784573741600900/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556667231,
+            "lat": 50.1772983,
+            "lon": 22.6151472,
+            "timestamp": "2022-03-05T20:26:10Z",
+            "version": 1,
+            "changeset": 118139660,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Sieniawa",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna \"Orzeł\" w Sieniawie"
             }
         }
     ]
