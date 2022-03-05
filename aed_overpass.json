@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T20:31:58Z",
-        "timestamp_areas_base": "2022-03-05T20:16:40Z",
+        "timestamp_osm_base": "2022-03-05T21:31:39Z",
+        "timestamp_areas_base": "2022-03-05T21:17:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -16753,11 +16753,11 @@
             "id": 9437937873,
             "lat": 50.08985,
             "lon": 18.54473,
-            "timestamp": "2022-01-21T20:18:52Z",
-            "version": 1,
-            "changeset": 116446246,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-03-05T21:23:18Z",
+            "version": 2,
+            "changeset": 118141050,
+            "user": "gscscnd",
+            "uid": 1701828,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "w kancelarii w pokoju 107",
@@ -16765,7 +16765,7 @@
                 "indoor": "yes",
                 "manufacturer": "Samaritan PAD 500 P",
                 "opening_hours": "Mo-We 07:30-15:30, Th 07:30-18:00, Fr 07:30-13:00",
-                "operator": "Starostwo Powiatowe w Rybniku",
+                "operator": "Starostwo Powiatowe Powiatu Rybnickiego",
                 "phone": "+48 32 422 83 00"
             }
         },
@@ -47487,6 +47487,23 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna \"Orzeł\" w Sieniawie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556748717,
+            "lat": 54.036904,
+            "lon": 19.0393143,
+            "timestamp": "2022-03-05T21:25:50Z",
+            "version": 1,
+            "changeset": 118141106,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Bar BIS ul. Dworcowa 24 ściana wschodnia budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
