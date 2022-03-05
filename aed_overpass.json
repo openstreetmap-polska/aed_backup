@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T09:31:08Z",
-        "timestamp_areas_base": "2022-03-05T09:10:56Z",
+        "timestamp_osm_base": "2022-03-05T10:32:00Z",
+        "timestamp_areas_base": "2022-03-05T10:11:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47396,6 +47396,40 @@
                 "indoor": "yes",
                 "operator": "Fabryka Mebli Wer-Sal",
                 "phone": "+48627829219"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555708717,
+            "lat": 51.2794819,
+            "lon": 17.9832746,
+            "timestamp": "2022-03-05T09:35:15Z",
+            "version": 1,
+            "changeset": 118119172,
+            "user": "OSP Perzów",
+            "uid": 3110502,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Starostwa Powiatowego",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555709517,
+            "lat": 51.1931625,
+            "lon": 18.0258439,
+            "timestamp": "2022-03-05T09:36:50Z",
+            "version": 1,
+            "changeset": 118119172,
+            "user": "OSP Perzów",
+            "uid": 3110502,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku OSP Laski",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
