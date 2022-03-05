@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T18:31:22Z",
-        "timestamp_areas_base": "2022-03-05T18:16:08Z",
+        "timestamp_osm_base": "2022-03-05T19:32:13Z",
+        "timestamp_areas_base": "2022-03-05T19:16:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47430,6 +47430,24 @@
                 "defibrillator:location": "Na ścianie budynku OSP Laski",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556520188,
+            "lat": 50.1687343,
+            "lon": 23.0286189,
+            "timestamp": "2022-03-05T18:36:40Z",
+            "version": 1,
+            "changeset": 118136724,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Oleszyce",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Oleszycach"
             }
         }
     ]
