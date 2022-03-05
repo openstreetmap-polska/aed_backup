@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T08:31:22Z",
-        "timestamp_areas_base": "2022-03-05T08:10:00Z",
+        "timestamp_osm_base": "2022-03-05T09:31:08Z",
+        "timestamp_areas_base": "2022-03-05T09:10:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11601,17 +11601,19 @@
             "id": 9414016894,
             "lat": 51.2720924,
             "lon": 17.8104767,
-            "timestamp": "2022-01-12T22:41:46Z",
-            "version": 1,
-            "changeset": 116085055,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-03-05T09:22:52Z",
+            "version": 2,
+            "changeset": 118118808,
+            "user": "OSP Perzów",
+            "uid": 3110502,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie remizy OSP Perzów",
                 "defibrillator:location:en": "On the wall of the fire station",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "OSP Perzów",
                 "source": "https://osp.pl/artykuly/aed-zamontowane-na-remizie-pomoglo-uratowac-zycie,20373/"
             }
         },
@@ -47110,15 +47112,17 @@
             "id": 9554972917,
             "lat": 51.2697004,
             "lon": 18.0537144,
-            "timestamp": "2022-03-04T21:20:31Z",
-            "version": 1,
-            "changeset": 118108354,
-            "user": "Olga | Yanosik",
-            "uid": 2844322,
+            "timestamp": "2022-03-05T09:28:06Z",
+            "version": 2,
+            "changeset": 118118971,
+            "user": "OSP Perzów",
+            "uid": 3110502,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "W hali produkcyjnej WERSAL",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Fabryka Mebli Wer-Sal"
             }
         },
         {
@@ -47339,6 +47343,59 @@
                 "defibrillator:location": "Cmentarz Komunalny ul. Głowackiego budynek kaplicy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555685217,
+            "lat": 51.2138788,
+            "lon": 17.8018829,
+            "timestamp": "2022-03-05T09:24:20Z",
+            "version": 1,
+            "changeset": 118118855,
+            "user": "OSP Perzów",
+            "uid": 3110502,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku OSP",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555685617,
+            "lat": 51.2840164,
+            "lon": 18.005756,
+            "timestamp": "2022-03-05T09:25:08Z",
+            "version": 1,
+            "changeset": 118118855,
+            "user": "OSP Perzów",
+            "uid": 3110502,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Urzędu Pracy",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555686617,
+            "lat": 51.2676702,
+            "lon": 18.0522456,
+            "timestamp": "2022-03-05T09:29:11Z",
+            "version": 2,
+            "changeset": 118118989,
+            "user": "OSP Perzów",
+            "uid": 3110502,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W hali produkcyjnej WERSAL",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Fabryka Mebli Wer-Sal",
+                "phone": "+48627829219"
             }
         }
     ]
