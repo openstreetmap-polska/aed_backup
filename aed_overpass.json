@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-06T20:31:47Z",
-        "timestamp_areas_base": "2022-03-06T20:28:40Z",
+        "timestamp_osm_base": "2022-03-06T21:31:28Z",
+        "timestamp_areas_base": "2022-03-06T21:28:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47650,6 +47650,69 @@
                 "defibrillator:location": "na prawo od wejścia do hali rybnej",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9559165717,
+            "lat": 52.1892811,
+            "lon": 20.9827691,
+            "timestamp": "2022-03-06T21:15:12Z",
+            "version": 1,
+            "changeset": 118174732,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "defibrillator:location": "budynek Żwirki i Wigury 16a - parter",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9559168317,
+            "lat": 49.9400669,
+            "lon": 19.3833944,
+            "timestamp": "2022-03-06T21:17:40Z",
+            "version": 1,
+            "changeset": 118174795,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "defibrillator:location": "Defibrylator znajduje się w OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9559169217,
+            "lat": 50.0972898,
+            "lon": 19.0338435,
+            "timestamp": "2022-03-06T21:19:06Z",
+            "version": 1,
+            "changeset": 118174795,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9559174217,
+            "lat": 51.2362756,
+            "lon": 22.5995558,
+            "timestamp": "2022-03-06T21:23:59Z",
+            "version": 1,
+            "changeset": 118174795,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz budynku, w dziale obsługi klienta.",
+                "emergency": "defibrillator",
+                "phone": "+48 81 749 45 00"
             }
         }
     ]
