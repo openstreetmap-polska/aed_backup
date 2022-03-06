@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-06T09:31:28Z",
-        "timestamp_areas_base": "2022-03-06T09:22:19Z",
+        "timestamp_osm_base": "2022-03-06T10:32:09Z",
+        "timestamp_areas_base": "2022-03-06T10:23:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47548,6 +47548,30 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Górkach",
                 "source": "https://www.facebook.com/umbrzozow/posts/3089939097921586"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9557537246,
+            "lat": 52.1938571,
+            "lon": 18.5121954,
+            "timestamp": "2022-03-06T10:31:11Z",
+            "version": 1,
+            "changeset": 118152964,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Remiza Straży Pożarnej",
+                "defibrillator:location:en": "Inside the fire station",
+                "email": "osptrzesniew@op.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Trzęśniewie",
+                "phone": "691 777 034",
+                "source": "https://www.facebook.com/OSPTrzesniew/photos/a.217015305094460/824892277640090/",
+                "website": "http://osptrzesniew.pl"
             }
         }
     ]
