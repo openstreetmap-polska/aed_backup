@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-06T14:32:13Z",
-        "timestamp_areas_base": "2022-03-06T14:25:08Z",
+        "timestamp_osm_base": "2022-03-06T15:30:55Z",
+        "timestamp_areas_base": "2022-03-06T15:25:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -45212,14 +45212,14 @@
             "id": 9533027631,
             "lat": 51.1570648,
             "lon": 15.0326533,
-            "timestamp": "2022-02-24T18:44:59Z",
-            "version": 1,
-            "changeset": 117823319,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-03-06T14:42:39Z",
+            "version": 2,
+            "changeset": 118161733,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
-                "defibrillator:location:": "Decathlon Zgorzelec - za kasami, tuż obok wejścia na sklep.",
+                "defibrillator:location": "Decathlon Zgorzelec - za kasami, tuż obok wejścia na sklep.",
                 "defibrillator:location:en": "Decathlon Zgorzelec - behind the cash registers, right next to the entrance to the store.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -47633,6 +47633,23 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Siedliskach",
                 "source": "https://www.facebook.com/ospsiedliska/posts/2907708506119908"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9558408617,
+            "lat": 54.522727,
+            "lon": 18.5329251,
+            "timestamp": "2022-03-06T15:00:34Z",
+            "version": 1,
+            "changeset": 118162409,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na prawo od wejścia do hali rybnej",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
