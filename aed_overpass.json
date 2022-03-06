@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-06T10:32:09Z",
+        "timestamp_osm_base": "2022-03-06T11:31:59Z",
         "timestamp_areas_base": "2022-03-06T10:23:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47572,6 +47572,67 @@
                 "phone": "691 777 034",
                 "source": "https://www.facebook.com/OSPTrzesniew/photos/a.217015305094460/824892277640090/",
                 "website": "http://osptrzesniew.pl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9557550583,
+            "lat": 50.8927871,
+            "lon": 23.1554214,
+            "timestamp": "2022-03-06T10:38:00Z",
+            "version": 1,
+            "changeset": 118153198,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Izbica",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna KSRG w Izbicy",
+                "source": "https://www.facebook.com/ospksrgizbica/posts/1148644228617122"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9557565744,
+            "lat": 51.6499757,
+            "lon": 16.8251356,
+            "timestamp": "2022-03-06T10:44:42Z",
+            "version": 1,
+            "changeset": 118153420,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy po prawej stronie od wjazdu do garażu",
+                "defibrillator:location:en": "On the wall of the fire station, on the right to the main entrance",
+                "description": "Sołectwo Izbice - Wioska z sercem",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Izbice",
+                "source": "https://www.facebook.com/ospksrgizbica/posts/1148644228617122"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9557581904,
+            "lat": 49.9510432,
+            "lon": 21.9406365,
+            "timestamp": "2022-03-06T11:06:08Z",
+            "version": 1,
+            "changeset": 118154142,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Siedliska",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Siedliskach",
+                "source": "https://www.facebook.com/ospsiedliska/posts/2907708506119908"
             }
         }
     ]
