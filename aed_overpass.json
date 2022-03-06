@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-05T23:32:10Z",
-        "timestamp_areas_base": "2022-03-05T23:18:56Z",
+        "timestamp_osm_base": "2022-03-06T00:31:39Z",
+        "timestamp_areas_base": "2022-03-06T00:19:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6442,11 +6442,11 @@
             "id": 9338368178,
             "lat": 49.6771375,
             "lon": 21.7757442,
-            "timestamp": "2021-12-14T19:04:02Z",
-            "version": 1,
-            "changeset": 114936170,
-            "user": "k2101",
-            "uid": 6203794,
+            "timestamp": "2022-03-06T00:16:16Z",
+            "version": 2,
+            "changeset": 118144263,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "addr:city": "Krosno",
                 "addr:housenumber": "29",
@@ -6454,7 +6454,8 @@
                 "addr:street": "Bieszczadzka",
                 "emergency": "defibrillator",
                 "level": "0",
-                "opening_hours": "9:00-21:00"
+                "opening_hours": "9:00-21:00",
+                "operator": "Centrum Handlowe VIVO!"
             }
         },
         {
@@ -10719,18 +10720,21 @@
         {
             "type": "node",
             "id": 9411126417,
-            "lat": 49.8151067,
-            "lon": 22.232886,
-            "timestamp": "2022-01-11T19:59:31Z",
-            "version": 1,
-            "changeset": 116038657,
-            "user": "pajlo1989",
-            "uid": 14831427,
+            "lat": 49.8151225,
+            "lon": 22.2329626,
+            "timestamp": "2022-03-06T00:28:58Z",
+            "version": 2,
+            "changeset": 118144425,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy wejściu do Urzędu Miasta",
+                "defibrillator:location": "Na lewo od wejścia do Urzędu Miasta",
+                "defibrillator:location:en": "On the left to the entrance of the City Hall",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "operator": "Urząd Miejski w Dynowie",
+                "source": "https://www.facebook.com/1115224351874892/photos/a.1483636068367050/1483639878366669/"
             }
         },
         {
@@ -29651,20 +29655,22 @@
         {
             "type": "node",
             "id": 9466540441,
-            "lat": 49.6128562,
-            "lon": 21.8592759,
-            "timestamp": "2022-02-07T20:20:00Z",
-            "version": 2,
-            "changeset": 117134523,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.6128385,
+            "lon": 21.859326,
+            "timestamp": "2022-03-06T00:21:57Z",
+            "version": 3,
+            "changeset": 118144345,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy między wejściem a wjazdem do garażu",
+                "defibrillator:location:en": "On the wall of the fire station, between the entrance and garage gate",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "OSP Wróblik Królewski"
+                "operator": "OSP Wróblik Królewski",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=1505317556301400&id=495571833942649"
             }
         },
         {
@@ -47504,6 +47510,44 @@
                 "defibrillator:location": "Bar BIS ul. Dworcowa 24 ściana wschodnia budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556909164,
+            "lat": 49.8245487,
+            "lon": 22.3910429,
+            "timestamp": "2022-03-06T00:25:16Z",
+            "version": 1,
+            "changeset": 118144376,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP KSRG Dubiecko",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Dubiecku",
+                "source": "https://www.facebook.com/OSPKSRGDubiecko/posts/1534994329987123"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9556969159,
+            "lat": 49.646037,
+            "lon": 22.0404948,
+            "timestamp": "2022-03-06T00:13:28Z",
+            "version": 1,
+            "changeset": 118144214,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Górki (W przypadku zagrożenia życia uruchomić syrenę alarmową przyciskiem przy wejściu)",
+                "defibrillator:location:en": "Rescue and firefighting car (In case of emergency, press the alarm button next to the entrance)",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Górkach",
+                "source": "https://www.facebook.com/umbrzozow/posts/3089939097921586"
             }
         }
     ]
