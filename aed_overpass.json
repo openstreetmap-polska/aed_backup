@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-07T15:32:09Z",
+        "timestamp_osm_base": "2022-03-07T16:31:40Z",
         "timestamp_areas_base": "2022-03-07T10:34:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39546,17 +39546,17 @@
             "id": 9516718251,
             "lat": 51.6238726,
             "lon": 21.3189971,
-            "timestamp": "2022-02-18T15:15:32Z",
-            "version": 1,
-            "changeset": 117569718,
+            "timestamp": "2022-03-07T16:21:07Z",
+            "version": 2,
+            "changeset": 118203450,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Głowaczów",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Głowaczów"
+                "operator": "Ochotnicza Straż Pożarna w Głowaczowie"
             }
         },
         {
@@ -47844,6 +47844,46 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Baranowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9560821607,
+            "lat": 50.5894598,
+            "lon": 17.9323961,
+            "timestamp": "2022-03-07T16:25:45Z",
+            "version": 1,
+            "changeset": 118203648,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy pomiędzy wjazdami do garaży",
+                "defibrillator:location:en": "On the wall of fire station between gates to garages",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Źlinice-Boguszyce",
+                "source": "https://www.facebook.com/osp.boguszyce/posts/4718792418164808"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9560821610,
+            "lat": 50.5894502,
+            "lon": 17.9325135,
+            "timestamp": "2022-03-07T16:25:45Z",
+            "version": 1,
+            "changeset": 118203648,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Źlinice-Boguszyce",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Źlinice-Boguszyce",
+                "source": "https://www.facebook.com/osp.boguszyce/posts/3712673745443352"
             }
         }
     ]
