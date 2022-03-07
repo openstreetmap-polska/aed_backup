@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-07T16:31:40Z",
+        "timestamp_osm_base": "2022-03-07T17:31:39Z",
         "timestamp_areas_base": "2022-03-07T10:34:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47884,6 +47884,25 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Źlinice-Boguszyce",
                 "source": "https://www.facebook.com/osp.boguszyce/posts/3712673745443352"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9560857051,
+            "lat": 53.1721895,
+            "lon": 22.0666288,
+            "timestamp": "2022-03-07T17:00:09Z",
+            "version": 1,
+            "changeset": 118204905,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na terenie Centrum Przesiadkowo-Komunikacyjnego",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Sa 07:00-20:00",
+                "operator": "Dworzec Autobusowy Łomża",
+                "source": "https://www.facebook.com/osp.boguszyce/posts/4718792418164808"
             }
         }
     ]
