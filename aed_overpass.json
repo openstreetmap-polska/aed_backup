@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-08T19:31:49Z",
+        "timestamp_osm_base": "2022-03-08T20:31:40Z",
         "timestamp_areas_base": "2022-03-08T10:47:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47903,6 +47903,23 @@
                 "opening_hours": "Mo-Sa 07:00-20:00",
                 "operator": "Dworzec Autobusowy Łomża",
                 "source": "https://www.facebook.com/osp.boguszyce/posts/4718792418164808"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9563386603,
+            "lat": 50.9031646,
+            "lon": 15.7344999,
+            "timestamp": "2022-03-08T20:06:24Z",
+            "version": 1,
+            "changeset": 118251008,
+            "user": "Arnebius",
+            "uid": 502270,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "znajduje się na ścianie Urzędu Miejskiego, nie daleko łącznika pomiędzy Ratuszem, a budynkiem Urzędu Miejskiego",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
