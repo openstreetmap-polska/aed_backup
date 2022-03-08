@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-08T21:31:44Z",
+        "timestamp_osm_base": "2022-03-08T22:32:42Z",
         "timestamp_areas_base": "2022-03-08T10:47:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47920,6 +47920,43 @@
                 "defibrillator:location": "znajduje się na ścianie Urzędu Miejskiego, nie daleko łącznika pomiędzy Ratuszem, a budynkiem Urzędu Miejskiego",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9563593007,
+            "lat": 50.3191919,
+            "lon": 19.1059276,
+            "timestamp": "2022-03-08T22:24:40Z",
+            "version": 2,
+            "changeset": 118254786,
+            "user": "matiziol",
+            "uid": 13791333,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz M1, za oznaczonymi drzwiami pomiędzy sklepami Bytom i Vistula",
+                "defibrillator:location:en": "M1 shopping centre, between Bytom and Vistula stores",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 09:00-21:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9563620417,
+            "lat": 54.3710668,
+            "lon": 18.6175194,
+            "timestamp": "2022-03-08T22:04:18Z",
+            "version": 1,
+            "changeset": 118254305,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy wejściu - ściana na początku korytarza przy gablotach",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
