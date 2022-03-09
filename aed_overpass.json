@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-09T13:32:09Z",
+        "timestamp_osm_base": "2022-03-09T14:31:55Z",
         "timestamp_areas_base": "2022-03-09T07:58:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47958,6 +47958,46 @@
                 "defibrillator:location": "przy wejściu - ściana na początku korytarza przy gablotach",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9566101981,
+            "lat": 53.6814888,
+            "lon": 23.0965662,
+            "timestamp": "2022-03-09T13:56:03Z",
+            "version": 1,
+            "changeset": 118280246,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Sztabin",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "note": "Są dwie (2) sztuki",
+                "operator": "Ochotnicza Straż Pożarna w Sztabinie",
+                "source": "Direct answer from operator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9566101982,
+            "lat": 53.6814173,
+            "lon": 23.0964428,
+            "timestamp": "2022-03-09T13:56:03Z",
+            "version": 1,
+            "changeset": 118280246,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Sztabin",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "note": "Są dwie (2) sztuki",
+                "operator": "Ochotnicza Straż Pożarna w Sztabinie",
+                "source": "Direct answer from operator"
             }
         }
     ]
