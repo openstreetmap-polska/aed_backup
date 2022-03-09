@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-09T08:32:10Z",
+        "timestamp_osm_base": "2022-03-09T09:32:09Z",
         "timestamp_areas_base": "2022-03-09T07:58:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47927,9 +47927,9 @@
             "id": 9563593007,
             "lat": 50.3191919,
             "lon": 19.1059276,
-            "timestamp": "2022-03-08T22:24:40Z",
-            "version": 2,
-            "changeset": 118254786,
+            "timestamp": "2022-03-09T08:37:32Z",
+            "version": 3,
+            "changeset": 118268173,
             "user": "matiziol",
             "uid": 13791333,
             "tags": {
@@ -47939,7 +47939,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Sa 09:00-21:00"
+                "opening_hours": "Mo-Sa 09:00-21:00",
+                "operator": "CH M1 Czeladź"
             }
         },
         {
