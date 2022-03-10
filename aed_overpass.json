@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T12:32:01Z",
+        "timestamp_osm_base": "2022-03-10T13:31:52Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48592,6 +48592,286 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Defibrylator AED w Urzędzie Dzielnicy Ursynów.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568682417,
+            "lat": 53.1135921,
+            "lon": 18.0031769,
+            "timestamp": "2022-03-10T12:38:24Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED w sklepie Kaufland.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568685317,
+            "lat": 51.2763638,
+            "lon": 17.9424649,
+            "timestamp": "2022-03-10T12:40:37Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator przy OSP Chojęcin.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568693217,
+            "lat": 51.1669038,
+            "lon": 18.2890746,
+            "timestamp": "2022-03-10T12:42:39Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED ochotniczej straży pożarnej.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568694117,
+            "lat": 51.7995385,
+            "lon": 15.7088703,
+            "timestamp": "2022-03-10T12:43:49Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W poczekalni jest dostępny defibrylator.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568699517,
+            "lat": 51.8048188,
+            "lon": 15.7170244,
+            "timestamp": "2022-03-10T12:46:55Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568708017,
+            "lat": 51.7991837,
+            "lon": 15.7113311,
+            "timestamp": "2022-03-10T12:50:34Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED Pływalni Krytej Solan.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568710217,
+            "lat": 51.7990076,
+            "lon": 15.6994264,
+            "timestamp": "2022-03-10T12:52:39Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED Centrum Aktywności Społecznej.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568711717,
+            "lat": 49.9997505,
+            "lon": 19.4086,
+            "timestamp": "2022-03-10T12:55:18Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568713217,
+            "lat": 51.2237614,
+            "lon": 18.5803153,
+            "timestamp": "2022-03-10T12:57:19Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się w punkcie informacyjnym Kaufland.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568725917,
+            "lat": 54.1890639,
+            "lon": 15.6042987,
+            "timestamp": "2022-03-10T13:05:33Z",
+            "version": 1,
+            "changeset": 118323233,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568731217,
+            "lat": 52.1672077,
+            "lon": 20.9788569,
+            "timestamp": "2022-03-10T13:07:05Z",
+            "version": 1,
+            "changeset": 118323233,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku znajduje się dostępne AED.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568737217,
+            "lat": 52.4562082,
+            "lon": 16.9244801,
+            "timestamp": "2022-03-10T13:11:06Z",
+            "version": 1,
+            "changeset": 118323233,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator dostępny w godzinach pracy pływalni Atlantis od 6.00 do 22.30.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "61 827 60 72"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568740617,
+            "lat": 51.8037734,
+            "lon": 19.3578228,
+            "timestamp": "2022-03-10T13:12:47Z",
+            "version": 1,
+            "changeset": 118323489,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator na budynku OSP Mikołajew.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568755817,
+            "lat": 51.4634256,
+            "lon": 19.3959016,
+            "timestamp": "2022-03-10T13:17:40Z",
+            "version": 1,
+            "changeset": 118323660,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED OSP Drużbice.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568763517,
+            "lat": 50.5192927,
+            "lon": 22.1400573,
+            "timestamp": "2022-03-10T13:22:31Z",
+            "version": 1,
+            "changeset": 118323809,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na budynku szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568771817,
+            "lat": 51.6452855,
+            "lon": 17.8930178,
+            "timestamp": "2022-03-10T13:26:40Z",
+            "version": 1,
+            "changeset": 118323809,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator OSP przy ulicy Szkolnej 8A.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568786117,
+            "lat": 51.6760933,
+            "lon": 17.87057,
+            "timestamp": "2022-03-10T13:30:34Z",
+            "version": 1,
+            "changeset": 118324081,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED przy ulicy Strażackiej 1.",
                 "emergency": "defibrillator"
             }
         }
