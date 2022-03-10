@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T11:32:04Z",
+        "timestamp_osm_base": "2022-03-10T12:32:01Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -40717,19 +40717,19 @@
             "id": 9522372737,
             "lat": 53.4757128,
             "lon": 14.4467288,
-            "timestamp": "2022-02-20T18:34:58Z",
-            "version": 1,
-            "changeset": 117650045,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-03-10T11:58:38Z",
+            "version": 2,
+            "changeset": 118321087,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
-                "contaemergency:phone": "+48 883 426 880",
+                "contact:mobile": "+48693 437 121",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
+                "emergency:phone": "+48 883 426 880",
                 "indoor": "yes",
-                "mobile": "+48693 437 121",
                 "operator": "OSP Wołczkowo",
                 "phone": "+4891 423 94 42",
                 "website": "http://www.ospwolczkowo.pl/"
@@ -40740,19 +40740,19 @@
             "id": 9522372738,
             "lat": 53.4757196,
             "lon": 14.4466415,
-            "timestamp": "2022-02-20T18:34:58Z",
-            "version": 1,
-            "changeset": 117650045,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-03-10T11:58:38Z",
+            "version": 2,
+            "changeset": 118321087,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
-                "contaemergency:phone": "+48 883 426 880",
+                "contact:mobile": "+48693 437 121",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
+                "emergency:phone": "+48 883 426 880",
                 "indoor": "yes",
-                "mobile": "+48693 437 121",
                 "operator": "OSP Wołczkowo",
                 "phone": "+4891 423 94 42",
                 "website": "http://www.ospwolczkowo.pl/"
@@ -40763,19 +40763,19 @@
             "id": 9522372739,
             "lat": 53.4757259,
             "lon": 14.4465476,
-            "timestamp": "2022-02-20T18:34:58Z",
-            "version": 1,
-            "changeset": 117650045,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-03-10T11:58:38Z",
+            "version": 2,
+            "changeset": 118321087,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
-                "contaemergency:phone": "+48 883 426 880",
+                "contact:mobile": "+48693 437 121",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
+                "emergency:phone": "+48 883 426 880",
                 "indoor": "yes",
-                "mobile": "+48693 437 121",
                 "operator": "OSP Wołczkowo",
                 "phone": "+4891 423 94 42",
                 "website": "http://www.ospwolczkowo.pl/"
@@ -44014,24 +44014,24 @@
             "id": 9530894080,
             "lat": 52.5599465,
             "lon": 19.6841954,
-            "timestamp": "2022-02-23T21:08:28Z",
-            "version": 1,
-            "changeset": 117787757,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-03-10T12:23:35Z",
+            "version": 2,
+            "changeset": 118321923,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W Wejściu głównym K3-K2 na parterze oraz w wejściu K7 przy administracji",
                 "defibrillator:location:en": "In the main entrance K3-K2 on the ground floor and in the entrance K7 at the administration",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "note": "mają 2 szt rozdzielić jeśli można",
+                "object:city": "Płock",
+                "object:housenumber": "1",
+                "object:street": "Plac Celebry Papieskiej",
+                "object:unit": "Hala Sportowa",
                 "operator": "Hala Sportowa Orlen Arena",
-                "phone": "24 367 26 86",
-                "rob_addr:city": "Płock",
-                "rob_addr:housenumber": "1",
-                "rob_addr:street": "Plac Celebry Papieskiej",
-                "rob_nazwa_obiektu": "Hala Sportowa",
-                "uwagi_rob": "mają 2 szt rozdzielić jeśli można"
+                "phone": "24 367 26 86"
             }
         },
         {
@@ -48129,6 +48129,470 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568524217,
+            "lat": 49.620241,
+            "lon": 20.7039816,
+            "timestamp": "2022-03-10T11:32:49Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568528817,
+            "lat": 49.6161429,
+            "lon": 20.6976167,
+            "timestamp": "2022-03-10T11:34:34Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568530417,
+            "lat": 49.6250435,
+            "lon": 20.6910571,
+            "timestamp": "2022-03-10T11:35:45Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568533217,
+            "lat": 49.6036301,
+            "lon": 20.6997682,
+            "timestamp": "2022-03-10T11:38:03Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Miejskiego Zarządu Dróg w Nowym Sączu.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568541417,
+            "lat": 54.169385,
+            "lon": 17.4897656,
+            "timestamp": "2022-03-10T11:42:06Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu do Apteki pod aniołem.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568554317,
+            "lat": 51.8386218,
+            "lon": 16.6063658,
+            "timestamp": "2022-03-10T11:48:34Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym szpitala.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "655253195"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568563717,
+            "lat": 49.6262498,
+            "lon": 20.689806,
+            "timestamp": "2022-03-10T11:52:50Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sądecka Biblioteka Publiczna\nim. J. Szujskiego",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568580917,
+            "lat": 49.6142323,
+            "lon": 20.6948914,
+            "timestamp": "2022-03-10T11:55:45Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "MUW w Krakowie o/Nowy Sącz",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568588317,
+            "lat": 49.6211629,
+            "lon": 20.7400464,
+            "timestamp": "2022-03-10T11:58:18Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Miasteczko Galicyjskie",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568592917,
+            "lat": 49.6157785,
+            "lon": 20.7346844,
+            "timestamp": "2022-03-10T12:00:17Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Skansen Regionalny – Muzeum Okręgowe\nw Nowym Sączu. Dostępny 24h na dobę.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568596317,
+            "lat": 49.582539,
+            "lon": 20.6721792,
+            "timestamp": "2022-03-10T12:03:19Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ochotnicza Straż Pożarna \"Biegonice\". Dostępny 24h na dobę.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568598417,
+            "lat": 49.616929,
+            "lon": 20.7023713,
+            "timestamp": "2022-03-10T12:04:42Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Sądecki Ośrodek Interwencji Kryzysowej. Dostępny 24h na dobę.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568600417,
+            "lat": 49.6378279,
+            "lon": 20.6954064,
+            "timestamp": "2022-03-10T12:06:14Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Komenda Miejska Państwowej\nStraży Pożarnej w Nowym Sączu. Dostępny 24h na dobę.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568606717,
+            "lat": 49.6101884,
+            "lon": 20.7008392,
+            "timestamp": "2022-03-10T12:06:57Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Medyczne \"Batorego\"",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568610117,
+            "lat": 49.6245066,
+            "lon": 20.690479,
+            "timestamp": "2022-03-10T12:07:44Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PTTK oddział Beskid w Nowym Sączu.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568612517,
+            "lat": 49.5963114,
+            "lon": 20.6983006,
+            "timestamp": "2022-03-10T12:08:48Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Komenda Miejska Policji w Nowym Sączu",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568614317,
+            "lat": 49.6213763,
+            "lon": 20.6927951,
+            "timestamp": "2022-03-10T12:10:19Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568619517,
+            "lat": 49.6184109,
+            "lon": 20.6899528,
+            "timestamp": "2022-03-10T12:11:34Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Starostwo Powiatowe w Nowym Sączu - Wydział Geodezji. Wydział Budownictwa.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568621417,
+            "lat": 49.6266753,
+            "lon": 20.7098027,
+            "timestamp": "2022-03-10T12:12:45Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "ANTIDOTUM Sp. z o.o.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568629317,
+            "lat": 49.5860282,
+            "lon": 20.6725672,
+            "timestamp": "2022-03-10T12:14:38Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Galeria SANDECJA.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568630417,
+            "lat": 49.6356769,
+            "lon": 20.6920159,
+            "timestamp": "2022-03-10T12:15:57Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568632217,
+            "lat": 49.6167519,
+            "lon": 20.6961826,
+            "timestamp": "2022-03-10T12:17:33Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Ekonomiczny",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568633217,
+            "lat": 49.6090536,
+            "lon": 20.7043402,
+            "timestamp": "2022-03-10T12:18:39Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Techniczny",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568633917,
+            "lat": 49.6248544,
+            "lon": 20.7206667,
+            "timestamp": "2022-03-10T12:19:25Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Pedagogiczny",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568634617,
+            "lat": 49.6296374,
+            "lon": 20.7025982,
+            "timestamp": "2022-03-10T12:20:02Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Języków Obcych",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568635917,
+            "lat": 49.6213244,
+            "lon": 20.6870199,
+            "timestamp": "2022-03-10T12:20:44Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Kultury",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568642317,
+            "lat": 49.6217848,
+            "lon": 20.6868853,
+            "timestamp": "2022-03-10T12:22:12Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PWSZ Nowy Sącz - Instytut Zdrowia. Budynek G.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568645817,
+            "lat": 49.6156817,
+            "lon": 20.7012495,
+            "timestamp": "2022-03-10T12:23:33Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dom Studenta. W wakacje dostępny 24h na dobę.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568648817,
+            "lat": 52.1489351,
+            "lon": 21.0456977,
+            "timestamp": "2022-03-10T12:25:50Z",
+            "version": 1,
+            "changeset": 118321630,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED w Urzędzie Dzielnicy Ursynów.",
+                "emergency": "defibrillator"
             }
         }
     ]
