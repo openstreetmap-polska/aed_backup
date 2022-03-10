@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T13:31:52Z",
+        "timestamp_osm_base": "2022-03-10T14:31:56Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -26409,17 +26409,17 @@
             "id": 9459253805,
             "lat": 51.09259,
             "lon": 17.29405,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-03-10T14:21:11Z",
+            "version": 3,
+            "changeset": 118326077,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Chrzaąstawa Wielka"
+                "operator": "OSP Chrząstawa Wielka"
             }
         },
         {
@@ -48873,6 +48873,319 @@
                 "access": "customers",
                 "defibrillator:location": "Defibrylator AED przy ulicy Strażackiej 1.",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568791817,
+            "lat": 51.7051835,
+            "lon": 17.8968084,
+            "timestamp": "2022-03-10T13:33:44Z",
+            "version": 1,
+            "changeset": 118324180,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED OSP w Kwiatkowie 33.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568795217,
+            "lat": 51.6545988,
+            "lon": 17.6370161,
+            "timestamp": "2022-03-10T13:35:50Z",
+            "version": 1,
+            "changeset": 118324180,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED OSP w Daniszynie.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568803317,
+            "lat": 51.6367071,
+            "lon": 17.7269626,
+            "timestamp": "2022-03-10T13:39:06Z",
+            "version": 1,
+            "changeset": 118324397,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED w Gorzycach Wielkich.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568807717,
+            "lat": 51.6292092,
+            "lon": 17.7633542,
+            "timestamp": "2022-03-10T13:40:30Z",
+            "version": 1,
+            "changeset": 118324448,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED OSP w Topoli Małej.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568821717,
+            "lat": 51.7795283,
+            "lon": 17.8538636,
+            "timestamp": "2022-03-10T13:45:50Z",
+            "version": 1,
+            "changeset": 118324625,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED OSP w Sobótce.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568823217,
+            "lat": 51.593787,
+            "lon": 17.7041337,
+            "timestamp": "2022-03-10T13:47:12Z",
+            "version": 1,
+            "changeset": 118324669,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator OSP w Tarchałach Wielkich.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568825517,
+            "lat": 51.56674,
+            "lon": 17.5863067,
+            "timestamp": "2022-03-10T13:48:06Z",
+            "version": 1,
+            "changeset": 118324669,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator OSP w Uciechowie.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568825518,
+            "lat": 51.721494,
+            "lon": 17.7260494,
+            "timestamp": "2022-03-10T13:49:10Z",
+            "version": 1,
+            "changeset": 118324739,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED OSP w Raszkowie.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568845717,
+            "lat": 49.5807169,
+            "lon": 20.6678331,
+            "timestamp": "2022-03-10T13:59:22Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568852717,
+            "lat": 50.9511948,
+            "lon": 17.3040671,
+            "timestamp": "2022-03-10T14:01:49Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Bulodrom KS Petanque w Oławie przy ul. Rybackiej 29.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568857017,
+            "lat": 52.2255145,
+            "lon": 20.9342536,
+            "timestamp": "2022-03-10T14:03:02Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku przychodni dla bezdomnych.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568866017,
+            "lat": 52.2408909,
+            "lon": 20.9187255,
+            "timestamp": "2022-03-10T14:06:42Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Bemowski Dom Kultury, wewnątrz budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568868917,
+            "lat": 51.7012061,
+            "lon": 16.9186191,
+            "timestamp": "2022-03-10T14:08:28Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Zewnętrzny AED na budynku Ochotniczej Straży Pożarnej w Szurkowie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568884217,
+            "lat": 51.7672574,
+            "lon": 16.8041779,
+            "timestamp": "2022-03-10T14:18:46Z",
+            "version": 1,
+            "changeset": 118325207,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zewnętrzny AED na budynku hali widowiskowo-sportowej.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568885617,
+            "lat": 51.7626521,
+            "lon": 16.8081449,
+            "timestamp": "2022-03-10T14:20:14Z",
+            "version": 1,
+            "changeset": 118326045,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zewnętrzny defibrylator AED na budynku biblioteki.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568890817,
+            "lat": 54.258855,
+            "lon": 20.8148355,
+            "timestamp": "2022-03-10T14:23:30Z",
+            "version": 1,
+            "changeset": 118326045,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na budynku apteki „Pilula” przy ul. Nowowiejskiego 25.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568898617,
+            "lat": 54.2513813,
+            "lon": 20.8102891,
+            "timestamp": "2022-03-10T14:26:39Z",
+            "version": 1,
+            "changeset": 118326284,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na placu Konstytucji 3 maja. Dostępny 24h na dobę.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568902717,
+            "lat": 54.2527952,
+            "lon": 20.8037374,
+            "timestamp": "2022-03-10T14:29:46Z",
+            "version": 1,
+            "changeset": 118326395,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator przy Budynku Spółdzielni mieszkaniowej ,,Budowlani” na ul. Paderewskiego (specjalna kapsuła). Dostepny 24h na dobę.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568904817,
+            "lat": 53.1317507,
+            "lon": 16.7505943,
+            "timestamp": "2022-03-10T14:30:59Z",
+            "version": 1,
+            "changeset": 118326395,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie sklepiku parkingu strzeżonego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
