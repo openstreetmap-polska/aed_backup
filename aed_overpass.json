@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T15:31:41Z",
+        "timestamp_osm_base": "2022-03-10T16:31:53Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48314,15 +48314,16 @@
             "id": 9568598417,
             "lat": 49.616929,
             "lon": 20.7023713,
-            "timestamp": "2022-03-10T12:04:42Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander|Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-03-10T16:21:08Z",
+            "version": 2,
+            "changeset": 118330392,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Sądecki Ośrodek Interwencji Kryzysowej. Dostępny 24h na dobę.",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Sądecki Ośrodek Interwencji Kryzysowej"
             }
         },
         {
