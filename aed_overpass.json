@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T10:32:09Z",
+        "timestamp_osm_base": "2022-03-10T11:32:04Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48017,6 +48017,118 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "43 843 77 07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568460117,
+            "lat": 51.1944892,
+            "lon": 20.4132519,
+            "timestamp": "2022-03-10T10:54:31Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się na rogu apteki.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568467017,
+            "lat": 49.6483493,
+            "lon": 21.3886947,
+            "timestamp": "2022-03-10T10:57:52Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Jednostka straży pożarnej posiada AED na samochodzie.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568471417,
+            "lat": 52.4458104,
+            "lon": 16.8721961,
+            "timestamp": "2022-03-10T11:01:07Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz budynku kościoła pw. Ojca Pio od ul. Wańkowicza.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568482117,
+            "lat": 52.4528026,
+            "lon": 16.848306,
+            "timestamp": "2022-03-10T11:06:08Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz budynku Domu Parafialnego parafii św. Moniki przy Biskupińskiej 29.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568491717,
+            "lat": 49.619858,
+            "lon": 20.7141696,
+            "timestamp": "2022-03-10T11:12:07Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568498817,
+            "lat": 49.6279905,
+            "lon": 20.6976828,
+            "timestamp": "2022-03-10T11:15:17Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568520617,
+            "lat": 49.6204429,
+            "lon": 20.7130114,
+            "timestamp": "2022-03-10T11:28:58Z",
+            "version": 1,
+            "changeset": 118318330,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]

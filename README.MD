@@ -1,15 +1,15 @@
-# AED backup and stats (2022-03-10 10:33:05)
+# AED backup and stats (2022-03-10 11:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.png)
-Total AED: 2632
+Total AED: 2639
 
 ## Current year AED plot
 ![](report_data/current_year_aed.png)\
 AED for 2022-01-01: 409\
-AED for 2022-03-10: 2632\
-Average daily growth since beginning of the year: 33.79
+AED for 2022-03-10: 2639\
+Average daily growth since beginning of the year: 33.90
 
 ## Top editors
 | # | User | Changesets |
@@ -29,16 +29,16 @@ Average daily growth since beginning of the year: 33.79
 | 13 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 32 |
 | 14 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 23 |
 | 15 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 23 |
-| 16 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
-| 17 | [Olga | Yanosik](<https://www.openstreetmap.org/user/Olga | Yanosik>) | 20 |
+| 16 | [Olga | Yanosik](<https://www.openstreetmap.org/user/Olga | Yanosik>) | 20 |
+| 17 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
 | 18 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 19 |
 | 19 | [Awizonosz](<https://www.openstreetmap.org/user/Awizonosz>) | 15 |
 | 20 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
-| 21 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
+| 21 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
 | 22 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
-| 23 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
-| 24 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
-| 25 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
+| 23 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
+| 24 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 12 |
+| 25 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
 
 ## Tag access pie
 ![](report_data/tag_access.png)
