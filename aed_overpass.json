@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T14:31:56Z",
+        "timestamp_osm_base": "2022-03-10T15:31:41Z",
         "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49184,6 +49184,137 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie sklepiku parkingu strzeżonego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568909817,
+            "lat": 50.6831551,
+            "lon": 17.956343,
+            "timestamp": "2022-03-10T14:34:38Z",
+            "version": 1,
+            "changeset": 118326395,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie przy wejściu do szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568915017,
+            "lat": 50.6752689,
+            "lon": 17.9565941,
+            "timestamp": "2022-03-10T14:39:09Z",
+            "version": 1,
+            "changeset": 118326395,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajdujący się przy wejściu do żłobka.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568917917,
+            "lat": 52.5528034,
+            "lon": 19.6638642,
+            "timestamp": "2022-03-10T14:41:12Z",
+            "version": 1,
+            "changeset": 118326796,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED Przepompowni Ścieków Jasna.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568924617,
+            "lat": 52.1422509,
+            "lon": 16.7570178,
+            "timestamp": "2022-03-10T14:43:19Z",
+            "version": 1,
+            "changeset": 118326870,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do Urzędu Gminy w Czempiniu.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568933217,
+            "lat": 53.1209659,
+            "lon": 17.8378217,
+            "timestamp": "2022-03-10T14:48:06Z",
+            "version": 1,
+            "changeset": 118326870,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt z defibrylatorem AED.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568935317,
+            "lat": 52.1188002,
+            "lon": 20.6285025,
+            "timestamp": "2022-03-10T14:50:30Z",
+            "version": 1,
+            "changeset": 118326870,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568938817,
+            "lat": 51.5779755,
+            "lon": 18.3765732,
+            "timestamp": "2022-03-10T14:53:09Z",
+            "version": 1,
+            "changeset": 118326870,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Firma Kolonis w Włocinie 46A.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568948317,
+            "lat": 53.3100746,
+            "lon": 19.864639,
+            "timestamp": "2022-03-10T14:56:23Z",
+            "version": 1,
+            "changeset": 118327299,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na remizie OSP w Wapnie zamontowano defibrylator. Urządzenie jest ogólnodostępne.",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
