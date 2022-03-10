@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-10T08:31:25Z",
-        "timestamp_areas_base": "2022-03-10T08:16:15Z",
+        "timestamp_osm_base": "2022-03-10T09:31:22Z",
+        "timestamp_areas_base": "2022-03-10T09:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47998,6 +47998,25 @@
                 "note": "Są dwie (2) sztuki",
                 "operator": "Ochotnicza Straż Pożarna w Sztabinie",
                 "source": "Direct answer from operator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9568038417,
+            "lat": 51.2321959,
+            "lon": 18.5869169,
+            "timestamp": "2022-03-10T08:48:25Z",
+            "version": 1,
+            "changeset": 118310976,
+            "user": "Tomasz Wlazły",
+            "uid": 15280535,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy drzwiach wejściowych na portiernie.",
+                "defibrillator:location:en": "At the front door at the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "696324193"
             }
         }
     ]
