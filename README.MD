@@ -1,15 +1,15 @@
-# AED backup and stats (2022-03-11 11:33:05)
+# AED backup and stats (2022-03-11 13:33:08)
 
 
 ## Total AED plot
 ![](report_data/total_aed.png)
-Total AED: 2737
+Total AED: 2772
 
 ## Current year AED plot
 ![](report_data/current_year_aed.png)\
 AED for 2022-01-01: 409\
-AED for 2022-03-11: 2737\
-Average daily growth since beginning of the year: 34.84
+AED for 2022-03-11: 2772\
+Average daily growth since beginning of the year: 35.35
 
 ## Top editors
 | # | User | Changesets |
@@ -17,9 +17,9 @@ Average daily growth since beginning of the year: 34.84
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 713 |
 | 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 313 |
 | 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 269 |
-| 4 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 121 |
-| 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 108 |
-| 6 | [Aleksander | Yanosik](<https://www.openstreetmap.org/user/Aleksander | Yanosik>) | 106 |
+| 4 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 141 |
+| 5 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 121 |
+| 6 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 108 |
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 90 |
 | 8 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 74 |
 | 9 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 39 |
@@ -30,7 +30,7 @@ Average daily growth since beginning of the year: 34.84
 | 14 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 32 |
 | 15 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 23 |
 | 16 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 22 |
-| 17 | [Olga | Yanosik](<https://www.openstreetmap.org/user/Olga | Yanosik>) | 21 |
+| 17 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 21 |
 | 18 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 20 |
 | 19 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 19 |
 | 20 | [Awizonosz](<https://www.openstreetmap.org/user/Awizonosz>) | 15 |

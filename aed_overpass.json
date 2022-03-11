@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T11:07:45Z",
+        "timestamp_osm_base": "2022-03-11T13:25:17Z",
         "timestamp_areas_base": "2022-03-11T11:07:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48855,14 +48855,14 @@
             "id": 9568771817,
             "lat": 51.6452855,
             "lon": 17.8930178,
-            "timestamp": "2022-03-10T13:26:40Z",
-            "version": 1,
-            "changeset": 118323809,
+            "timestamp": "2022-03-11T12:26:26Z",
+            "version": 2,
+            "changeset": 118362263,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Defibrylator OSP przy ulicy Szkolnej 8A.",
+                "defibrillator:location": "Defibrylator na wyposażeniu wozu bojowego OSP przy ulicy Szkolnej 8A.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -49754,6 +49754,620 @@
             "tags": {
                 "emergency": "defibrillator",
                 "operator": "OSP Wojciechów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570593301,
+            "lat": 54.0435562,
+            "lon": 21.7859477,
+            "timestamp": "2022-03-11T11:20:03Z",
+            "version": 1,
+            "changeset": 118359511,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz na ścianie budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Mazurskie Centrum Sportów Lodowych w Giżycku",
+                "phone": "+48798112337"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570593302,
+            "lat": 52.1080946,
+            "lon": 21.4936344,
+            "timestamp": "2022-03-11T11:20:03Z",
+            "version": 1,
+            "changeset": 118359511,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Rudzienko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570627799,
+            "lat": 54.5294132,
+            "lon": 18.5208271,
+            "timestamp": "2022-03-11T11:28:08Z",
+            "version": 1,
+            "changeset": 118359941,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED wewnątrz budynku- przy wejściu, po prawej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570630805,
+            "lat": 51.0785823,
+            "lon": 17.7863372,
+            "timestamp": "2022-03-11T11:34:02Z",
+            "version": 1,
+            "changeset": 118360222,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED w remizie OSP.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Rychnów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570632022,
+            "lat": 50.053504,
+            "lon": 20.003459,
+            "timestamp": "2022-03-11T11:23:21Z",
+            "version": 1,
+            "changeset": 118359679,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570654699,
+            "lat": 51.3626913,
+            "lon": 22.5301245,
+            "timestamp": "2022-03-11T11:30:44Z",
+            "version": 1,
+            "changeset": 118360079,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED w wozie strażackim OSP Nasutów.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nasutów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570673639,
+            "lat": 49.6021042,
+            "lon": 20.7211767,
+            "timestamp": "2022-03-11T11:37:07Z",
+            "version": 1,
+            "changeset": 118360354,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED w recepcji DPD.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "DPD Polska",
+                "phone": "+48184439980"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570674315,
+            "lat": 54.6029175,
+            "lon": 18.2408296,
+            "timestamp": "2022-03-11T11:42:02Z",
+            "version": 1,
+            "changeset": 118360570,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570680748,
+            "lat": 53.7826758,
+            "lon": 20.48694,
+            "timestamp": "2022-03-11T11:45:37Z",
+            "version": 1,
+            "changeset": 118360723,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570689218,
+            "lat": 51.6467548,
+            "lon": 16.1051913,
+            "timestamp": "2022-03-11T11:48:42Z",
+            "version": 1,
+            "changeset": 118360855,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "automatyczny defibrylator",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Targowisko Miejskie na ulicy Kazimierza Sprawiedliwego",
+                "phone": "+48605990310"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570692547,
+            "lat": 51.6671297,
+            "lon": 16.0907767,
+            "timestamp": "2022-03-11T12:02:00Z",
+            "version": 1,
+            "changeset": 118361444,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Muzeum Archeologiczno-Historyczne"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570692627,
+            "lat": 51.659726,
+            "lon": 16.100291,
+            "timestamp": "2022-03-11T11:57:45Z",
+            "version": 1,
+            "changeset": 118361271,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Park Linowy",
+                "phone": "+48609860700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570695815,
+            "lat": 51.6566849,
+            "lon": 16.0879254,
+            "timestamp": "2022-03-11T11:52:42Z",
+            "version": 1,
+            "changeset": 118361024,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Miejska Biblioteka Publiczna",
+                "phone": "+48767265637"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570703139,
+            "lat": 51.6571991,
+            "lon": 16.0956449,
+            "timestamp": "2022-03-11T11:55:18Z",
+            "version": 1,
+            "changeset": 118361148,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "automatyczny defibrylator",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Hala Widowiskowo-Sportowa im. Ryszarda Matuszaka",
+                "phone": "+48768355576"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570717501,
+            "lat": 51.6625506,
+            "lon": 16.0840882,
+            "timestamp": "2022-03-11T12:03:48Z",
+            "version": 1,
+            "changeset": 118361508,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Miejski Ośrodek Kultury"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570717502,
+            "lat": 51.6686439,
+            "lon": 16.0921307,
+            "timestamp": "2022-03-11T12:10:59Z",
+            "version": 1,
+            "changeset": 118361753,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Marina Głogów",
+                "phone": "+48572498523"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570721888,
+            "lat": 51.664091,
+            "lon": 19.353365,
+            "timestamp": "2022-03-11T12:39:35Z",
+            "version": 1,
+            "changeset": 118362709,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED Na ścianie przy wejściu do Urzędu Miasta.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Pabianicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570724035,
+            "lat": 51.6657122,
+            "lon": 16.078729,
+            "timestamp": "2022-03-11T12:08:25Z",
+            "version": 1,
+            "changeset": 118361667,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Miejski Ośrodek Pomocy Społecznej",
+                "phone": "+48767276500"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570724443,
+            "lat": 51.6616234,
+            "lon": 16.0789132,
+            "timestamp": "2022-03-11T12:06:46Z",
+            "version": 1,
+            "changeset": 118361602,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570725477,
+            "lat": 51.6632232,
+            "lon": 16.0796869,
+            "timestamp": "2022-03-11T12:13:33Z",
+            "version": 1,
+            "changeset": 118361830,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "Biblioteka Publiczna Miejska",
+                "phone": "+48767265622"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570735556,
+            "lat": 52.4375122,
+            "lon": 20.6886781,
+            "timestamp": "2022-03-11T12:19:17Z",
+            "version": 1,
+            "changeset": 118362022,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "Ochotnicza Straż Pożarna w Nowym Dworze Mazowieckim - Ratownictwo Wodne"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570744565,
+            "lat": 50.2670068,
+            "lon": 19.0093553,
+            "timestamp": "2022-03-11T12:16:39Z",
+            "version": 1,
+            "changeset": 118361929,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "Face2Face Business Campus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570746479,
+            "lat": 49.941293,
+            "lon": 18.6025387,
+            "timestamp": "2022-03-11T12:23:18Z",
+            "version": 1,
+            "changeset": 118362150,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "Jastrzębski Zakład Wodociągów i Kanalizacji S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570765237,
+            "lat": 49.6871994,
+            "lon": 19.3284008,
+            "timestamp": "2022-03-11T12:32:34Z",
+            "version": 1,
+            "changeset": 118362502,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Pewel-Ślemieńska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570772819,
+            "lat": 54.1793883,
+            "lon": 19.391008,
+            "timestamp": "2022-03-11T12:29:41Z",
+            "version": 1,
+            "changeset": 118362420,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED na na bramie browaru.",
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "Grupa Żywiec S.A. Browar w Elblągu",
+                "phone": "+48552390000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570779705,
+            "lat": 49.9584549,
+            "lon": 20.3353004,
+            "timestamp": "2022-03-11T12:51:04Z",
+            "version": 1,
+            "changeset": 118363039,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED automatyczny, położony na zewnątrznej ścianie budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Siedlec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570784229,
+            "lat": 50.8937947,
+            "lon": 24.0370249,
+            "timestamp": "2022-03-11T12:35:43Z",
+            "version": 1,
+            "changeset": 118362607,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Horodło"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570793738,
+            "lat": 53.9078179,
+            "lon": 17.9184473,
+            "timestamp": "2022-03-11T12:48:23Z",
+            "version": 1,
+            "changeset": 118362968,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Konieczne zaalarmowanie OSP, bezpośrednio możliwe poprzez przycisk przy bramie garażowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Karsin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570796525,
+            "lat": 50.3904585,
+            "lon": 18.3497161,
+            "timestamp": "2022-03-11T12:45:56Z",
+            "version": 1,
+            "changeset": 118362887,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Ujazd"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570815844,
+            "lat": 50.0716981,
+            "lon": 19.8959291,
+            "timestamp": "2022-03-11T13:05:52Z",
+            "version": 1,
+            "changeset": 118363511,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED wewnątrz Galileo, na poziomie 0, obok wind.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Galileo",
+                "phone": "+48228202020"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570817327,
+            "lat": 50.2879889,
+            "lon": 21.4588737,
+            "timestamp": "2022-03-11T12:56:24Z",
+            "version": 1,
+            "changeset": 118363187,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator położony na filarze wewnątrz galerii handlowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 10:00-21:00, Fr-Sa 09:00-21:00, Su 10:00-19:00",
+                "operator": "Galeria Navigator",
+                "phone": "+48177492350"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570832051,
+            "lat": 50.0595311,
+            "lon": 18.1240625,
+            "timestamp": "2022-03-11T13:23:28Z",
+            "version": 1,
+            "changeset": 118364105,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Samborowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570844388,
+            "lat": 54.8304283,
+            "lon": 18.2063667,
+            "timestamp": "2022-03-11T13:16:28Z",
+            "version": 1,
+            "changeset": 118363843,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie znajdujące się w kabinie pojazdu MERCEDES ATEGO GBA - G 509[G]82.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "OSP Karwia",
+                "phone": "+48586747048"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570844389,
+            "lat": 54.8304291,
+            "lon": 18.2064854,
+            "timestamp": "2022-03-11T13:16:28Z",
+            "version": 1,
+            "changeset": 118363843,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED dostępny z zewnątrz.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Karwia",
+                "phone": "+48586747048"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570868522,
+            "lat": 49.8206512,
+            "lon": 21.623259,
+            "timestamp": "2022-03-11T13:19:27Z",
+            "version": 1,
+            "changeset": 118363946,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie znajduje sie wewnątrz remizy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Twierdza"
             }
         }
     ]
