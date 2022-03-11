@@ -1,15 +1,15 @@
-# AED backup and stats (2022-03-11 14:33:06)
+# AED backup and stats (2022-03-11 16:52:44)
 
 
 ## Total AED plot
-![](report_data/total_aed.png)
-Total AED: 2790
+![](report_data/total_aed.svg)
+Total AED: 2795
 
 ## Current year AED plot
-![](report_data/current_year_aed.png)\
+![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 409\
-AED for 2022-03-11: 2790\
-Average daily growth since beginning of the year: 35.62
+AED for 2022-03-11: 2795\
+Average daily growth since beginning of the year: 35.69
 
 ## Top editors
 | # | User | Changesets |
@@ -17,7 +17,7 @@ Average daily growth since beginning of the year: 35.62
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 713 |
 | 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 313 |
 | 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 269 |
-| 4 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 159 |
+| 4 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 164 |
 | 5 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 121 |
 | 6 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 108 |
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 90 |
@@ -41,10 +41,10 @@ Average daily growth since beginning of the year: 35.62
 | 25 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
 
 ## Tag access pie
-![](report_data/tag_access.png)
+![](report_data/tag_access.svg)
 
 ## Tag access details pie
-![](report_data/tag_access_details.png)
+![](report_data/tag_access_details.svg)
 
 ## Tag location pie
-![](report_data/tag_location.png)
+![](report_data/tag_location.svg)
