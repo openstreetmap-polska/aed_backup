@@ -4,6 +4,7 @@ import subprocess
 
 from time import sleep
 from typing import Any, Dict, Optional, Tuple
+from os import environ
 
 from report import create_report_md, REPORT_DIR
 
@@ -116,10 +117,12 @@ def main():
     if any(diff):
         generate_report(overpass_data)
 
+    if environ.get('PROD', None) not in ('true', '1'):
+        exit(0)
+
     git_commit('{} (C: {}, M: {}, D: {})'.format(BACKUP_COMMIT_MSG, *diff))
     git_push()
 
 
 if __name__ == '__main__':
     main()
-
