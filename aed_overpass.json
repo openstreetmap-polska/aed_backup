@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T06:31:41Z",
+        "timestamp_osm_base": "2022-03-11T07:26:48Z",
         "timestamp_areas_base": "2022-03-11T06:28:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49318,6 +49318,22 @@
                 "defibrillator:location": "Na remizie OSP w Wapnie zamontowano defibrylator. Urządzenie jest ogólnodostępne.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570235617,
+            "lat": 51.7711194,
+            "lon": 19.4554913,
+            "timestamp": "2022-03-11T07:25:08Z",
+            "version": 1,
+            "changeset": 118350716,
+            "user": "Aleksander|Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator przy ul. Piotrkowskiej 41 lub 41a, Łódź 90-410",
+                "emergency": "defibrillator"
             }
         }
     ]
