@@ -44,7 +44,7 @@ def total_aed_plot(df_date: pd.DataFrame) -> Dict[str, Any]:
         fontsize=14,
         loc='left'
     )
-    filename = join(REPORT_DIR, 'total_aed.png')
+    filename = join(REPORT_DIR, 'total_aed.svg')
     plt.savefig(filename, dpi=DPI)
 
     total_aed = df_date.iloc[-1]['sum']
@@ -80,7 +80,7 @@ def current_year_aed_scatter_plot(
         loc='left'
     )
 
-    filename = join(REPORT_DIR, 'current_year_aed.png')
+    filename = join(REPORT_DIR, 'current_year_aed.svg')
     plt.savefig(filename, dpi=DPI)
 
     df_first_day_of_year = df_year.loc[df_year['date'] == first_day_of_year]
@@ -149,7 +149,7 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
         loc='left'
     )
 
-    filename = join(REPORT_DIR, 'tag_access.png')
+    filename = join(REPORT_DIR, 'tag_access.svg')
     plt.savefig(filename, dpi=DPI)
 
     return {
@@ -170,7 +170,7 @@ def tag_access_details_pie(df: pd.DataFrame) -> Dict[str, Any]:
     plt.title(f'Type of access ({current_date})', fontsize=14, loc='left')
     plt.legend(title='OSM access metods:', labels=df_access['Access2'])
 
-    filename = join(REPORT_DIR, 'tag_access_details.png')
+    filename = join(REPORT_DIR, 'tag_access_details.svg')
     plt.savefig(filename, dpi=DPI)
 
     return {
@@ -198,7 +198,7 @@ def tag_location_pie(df: pd.DataFrame) -> Dict[str, Any]:
         fontsize=14,
         loc='left'
     )
-    filename = join(REPORT_DIR, 'tag_location.png')
+    filename = join(REPORT_DIR, 'tag_location.svg')
     plt.savefig(filename, dpi=DPI)
 
     return {
