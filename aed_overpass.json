@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T14:30:37Z",
-        "timestamp_areas_base": "2022-03-11T11:07:45Z",
+        "timestamp_osm_base": "2022-03-11T16:50:51Z",
+        "timestamp_areas_base": "2022-03-11T16:33:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50649,13 +50649,48 @@
             "id": 9570972925,
             "lat": 50.0456199,
             "lon": 19.0639575,
-            "timestamp": "2022-03-11T14:29:03Z",
+            "timestamp": "2022-03-11T14:32:29Z",
+            "version": 2,
+            "changeset": 118366502,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED dostępny po wciśnięciu przycisku alarmowego na strażnicy.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Bojszowy Nowe",
+                "phone": "+48322189248"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570974869,
+            "lat": 53.0343883,
+            "lon": 16.7488711,
+            "timestamp": "2022-03-11T14:39:47Z",
             "version": 1,
-            "changeset": 118366387,
+            "changeset": 118366754,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Nowa Wieś Ujska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570975581,
+            "lat": 49.7485807,
+            "lon": 21.334489,
+            "timestamp": "2022-03-11T14:49:37Z",
+            "version": 1,
+            "changeset": 118367065,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "OSP Bojszowy Nowe",
                 "phone": "+48322189248"
@@ -50677,6 +50712,54 @@
                 "indoor": "yes",
                 "operator": "OSP Ćmiełów",
                 "phone": "+48669030196"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570996095,
+            "lat": 50.0957813,
+            "lon": 21.9167476,
+            "timestamp": "2022-03-11T14:51:08Z",
+            "version": 1,
+            "changeset": 118367120,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Urządzenie na ścianie zewnętrznej budynku.",
+                "emergency": "defibrillator",
+                "operator": "OSP Mrowla"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570996725,
+            "lat": 53.0544589,
+            "lon": 16.7303149,
+            "timestamp": "2022-03-11T14:41:08Z",
+            "version": 1,
+            "changeset": 118366801,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Ujście"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9571005476,
+            "lat": 49.8744279,
+            "lon": 21.8175508,
+            "timestamp": "2022-03-11T14:48:23Z",
+            "version": 1,
+            "changeset": 118367017,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED przy budynku drożnika kolejowego.",
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia"
             }
         }
     ]
