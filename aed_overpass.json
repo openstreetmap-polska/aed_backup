@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T10:07:58Z",
-        "timestamp_areas_base": "2022-03-11T06:28:40Z",
+        "timestamp_osm_base": "2022-03-11T11:07:45Z",
+        "timestamp_areas_base": "2022-03-11T11:07:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49722,6 +49722,38 @@
                 "opening_hours": "08:00-16:00",
                 "operator": "OSP Jastrzębia Góra",
                 "phone": "+48586749572"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570557283,
+            "lat": 52.4481672,
+            "lon": 16.7328786,
+            "timestamp": "2022-03-11T11:03:43Z",
+            "version": 1,
+            "changeset": 118358793,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED wewnątrz firmy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570559112,
+            "lat": 51.2300259,
+            "lon": 22.2471194,
+            "timestamp": "2022-03-11T11:06:29Z",
+            "version": 1,
+            "changeset": 118358924,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Wojciechów"
             }
         }
     ]
