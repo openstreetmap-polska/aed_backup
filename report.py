@@ -116,9 +116,9 @@ def top_editors(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
     ]
 
     for index, row in df_users.head(top).iterrows():
-        user = row[columns[0]]
+        user = row[columns[0]].replace('|', '&#124;')  # escape pipe character
         changesets = row[columns[1]]
-        url = row['user_link']
+        url = row['user_link'].replace('|', '&#124;')
 
         md_content_table.append(
             f'| {index + 1} | [{user}](<{url}>) | {changesets} |'
@@ -256,5 +256,3 @@ def create_report_md(overpass: Dict[Any, Any]) -> str:
     ])
 
     return md
-
-
