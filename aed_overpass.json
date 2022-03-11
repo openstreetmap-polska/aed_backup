@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T13:25:17Z",
+        "timestamp_osm_base": "2022-03-11T14:30:37Z",
         "timestamp_areas_base": "2022-03-11T11:07:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50353,6 +50353,25 @@
         },
         {
             "type": "node",
+            "id": 9570866678,
+            "lat": 53.7703162,
+            "lon": 18.2026988,
+            "timestamp": "2022-03-11T13:30:22Z",
+            "version": 1,
+            "changeset": 118364366,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie na ścianie budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Osiecznej",
+                "phone": "+48585881468"
+            }
+        },
+        {
+            "type": "node",
             "id": 9570868522,
             "lat": 49.8206512,
             "lon": 21.623259,
@@ -50368,6 +50387,296 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "OSP Twierdza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570878492,
+            "lat": 53.5336997,
+            "lon": 17.5165616,
+            "timestamp": "2022-03-11T13:32:09Z",
+            "version": 1,
+            "changeset": 118364422,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Kamień Krajeński"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570878497,
+            "lat": 52.3044477,
+            "lon": 17.4428213,
+            "timestamp": "2022-03-11T13:35:45Z",
+            "version": 1,
+            "changeset": 118364570,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "OSP Targowa Górka posiada 2 Defibrylatory AED",
+                "operator": "OSP Targowa Górka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570883521,
+            "lat": 50.8468151,
+            "lon": 16.1925166,
+            "timestamp": "2022-03-11T13:33:48Z",
+            "version": 1,
+            "changeset": 118364497,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Stare Bogaczowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570903470,
+            "lat": 50.5453528,
+            "lon": 18.3823532,
+            "timestamp": "2022-03-11T13:56:46Z",
+            "version": 1,
+            "changeset": 118365295,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się w budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Jemielnica",
+                "phone": "+48774632376"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570919514,
+            "lat": 51.7977473,
+            "lon": 16.3150533,
+            "timestamp": "2022-03-11T13:44:09Z",
+            "version": 1,
+            "changeset": 118364860,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się w recepcji.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Komenda Powiatowa Policji we Wschowie",
+                "phone": "+48477943211"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570919515,
+            "lat": 51.8080036,
+            "lon": 16.3127071,
+            "timestamp": "2022-03-11T13:44:09Z",
+            "version": 1,
+            "changeset": 118364860,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje sie przy wejściu do budynku.",
+                "emergency": "defibrillator",
+                "operator": "Szkoła Podstawowa nr 2 im. Bohaterów Westerplatte we Wschowie",
+                "phone": "+48603986356"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570920072,
+            "lat": 50.6677759,
+            "lon": 21.8396938,
+            "timestamp": "2022-03-11T13:46:10Z",
+            "version": 1,
+            "changeset": 118364938,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się na stanie samochodu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Gorzyce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570920816,
+            "lat": 53.7216498,
+            "lon": 18.6054224,
+            "timestamp": "2022-03-11T13:50:51Z",
+            "version": 1,
+            "changeset": 118365096,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Leśna Jania"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570937559,
+            "lat": 50.4641484,
+            "lon": 19.0711069,
+            "timestamp": "2022-03-11T14:00:10Z",
+            "version": 1,
+            "changeset": 118365414,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Pyrzowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570944049,
+            "lat": 54.3949275,
+            "lon": 18.0733553,
+            "timestamp": "2022-03-11T14:17:28Z",
+            "version": 1,
+            "changeset": 118366013,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Staniszewo",
+                "phone": "+48605152462"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570944050,
+            "lat": 51.8245448,
+            "lon": 17.2282751,
+            "timestamp": "2022-03-11T14:26:31Z",
+            "version": 1,
+            "changeset": 118366306,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Pogorzela"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570944837,
+            "lat": 50.8082136,
+            "lon": 19.5851057,
+            "timestamp": "2022-03-11T14:11:11Z",
+            "version": 1,
+            "changeset": 118365809,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Ulesie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570955578,
+            "lat": 50.0613696,
+            "lon": 21.2484021,
+            "timestamp": "2022-03-11T14:24:43Z",
+            "version": 1,
+            "changeset": 118366250,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Czarna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570957929,
+            "lat": 52.3697826,
+            "lon": 18.1786609,
+            "timestamp": "2022-03-11T14:22:48Z",
+            "version": 1,
+            "changeset": 118366197,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Urządzenie znajduje sie na zewnętrznej ścianie budynku.",
+                "emergency": "defibrillator",
+                "operator": "OSP Kleczew",
+                "phone": "+48632701098"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570971717,
+            "lat": 49.9778293,
+            "lon": 22.2889759,
+            "timestamp": "2022-03-11T14:19:09Z",
+            "version": 1,
+            "changeset": 118366083,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Husów",
+                "phone": "+48172269124"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570972925,
+            "lat": 50.0456199,
+            "lon": 19.0639575,
+            "timestamp": "2022-03-11T14:29:03Z",
+            "version": 1,
+            "changeset": 118366387,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Bojszowy Nowe",
+                "phone": "+48322189248"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570982847,
+            "lat": 50.8865438,
+            "lon": 21.5305746,
+            "timestamp": "2022-03-11T14:30:37Z",
+            "version": 1,
+            "changeset": 118366441,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ćmiełów",
+                "phone": "+48669030196"
             }
         }
     ]
