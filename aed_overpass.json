@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-11T08:56:29Z",
+        "timestamp_osm_base": "2022-03-11T10:07:58Z",
         "timestamp_areas_base": "2022-03-11T06:28:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2722,17 +2722,19 @@
             "id": 7570550308,
             "lat": 54.6049398,
             "lon": 18.8027206,
-            "timestamp": "2022-02-23T07:45:02Z",
-            "version": 2,
-            "changeset": 117756518,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2022-03-11T09:44:58Z",
+            "version": 3,
+            "changeset": 118355392,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "E/S corner of building",
                 "defibrillator:location:pl": "Południowo-wschodni narożnik budyku",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Helu",
+                "phone": "+48791060604"
             }
         },
         {
@@ -13012,16 +13014,17 @@
             "id": 9421658317,
             "lat": 50.6640297,
             "lon": 21.7490553,
-            "timestamp": "2022-01-16T00:12:58Z",
-            "version": 1,
-            "changeset": 116200707,
-            "user": "krzysmek",
-            "uid": 3925559,
+            "timestamp": "2022-03-11T09:15:16Z",
+            "version": 2,
+            "changeset": 118354281,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Port Kultury Sandomierz, Portowa 24 (Na lewej ścianie, obok wejścia do budynku)",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "note": "urządzenie znajduje się przy wejściu do budynku"
             }
         },
         {
@@ -31394,13 +31397,15 @@
             "id": 9475404860,
             "lat": 50.2440156,
             "lon": 18.7421018,
-            "timestamp": "2022-02-04T14:19:03Z",
-            "version": 1,
-            "changeset": 117008690,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-03-11T09:27:54Z",
+            "version": 2,
+            "changeset": 118354761,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -31618,15 +31623,17 @@
         {
             "type": "node",
             "id": 9476485639,
-            "lat": 50.2506949,
-            "lon": 18.7287797,
-            "timestamp": "2022-02-04T17:11:30Z",
-            "version": 1,
-            "changeset": 117015045,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 50.2503435,
+            "lon": 18.7292771,
+            "timestamp": "2022-03-11T09:25:01Z",
+            "version": 2,
+            "changeset": 118354652,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -49573,6 +49580,148 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570381073,
+            "lat": 52.405458,
+            "lon": 16.7410506,
+            "timestamp": "2022-03-11T09:11:02Z",
+            "version": 1,
+            "changeset": 118354141,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570396331,
+            "lat": 51.4811898,
+            "lon": 23.2917353,
+            "timestamp": "2022-03-11T09:19:54Z",
+            "version": 1,
+            "changeset": 118354472,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Stary Bus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570412413,
+            "lat": 50.264759,
+            "lon": 19.0259081,
+            "timestamp": "2022-03-11T09:31:00Z",
+            "version": 1,
+            "changeset": 118354869,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570425357,
+            "lat": 52.2823394,
+            "lon": 18.2666815,
+            "timestamp": "2022-03-11T09:34:56Z",
+            "version": 1,
+            "changeset": 118355007,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "ELEKTROBUDOWA Sp. z o.o. Zakład Produkcji Rozdzielnic - GRUPA ZARMEN"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570430479,
+            "lat": 53.772812,
+            "lon": 15.405266,
+            "timestamp": "2022-03-11T09:38:35Z",
+            "version": 1,
+            "changeset": 118355155,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Resku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570441076,
+            "lat": 54.6057354,
+            "lon": 18.8014879,
+            "timestamp": "2022-03-11T10:03:05Z",
+            "version": 2,
+            "changeset": 118356057,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie mobilne na pojeździe GBA - Rt 3,5/16 (509G02)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Ochotnicza Straż Pożarna w Helu",
+                "phone": "+48791060604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570444600,
+            "lat": 54.6057461,
+            "lon": 18.8014859,
+            "timestamp": "2022-03-11T10:03:05Z",
+            "version": 3,
+            "changeset": 118356057,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie mobilne na pojeździe QUAD (509GQ03)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Ochotnicza Straż Pożarna w Helu",
+                "phone": "+48791060604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9570485063,
+            "lat": 54.8314182,
+            "lon": 18.2910327,
+            "timestamp": "2022-03-11T10:00:35Z",
+            "version": 1,
+            "changeset": 118355972,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Urządzenie znajduje się kabinie pojazdu VOLVO FMX",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "08:00-16:00",
+                "operator": "OSP Jastrzębia Góra",
+                "phone": "+48586749572"
             }
         }
     ]
