@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-12T09:31:24Z",
-        "timestamp_areas_base": "2022-03-12T07:41:55Z",
+        "timestamp_osm_base": "2022-03-12T10:31:24Z",
+        "timestamp_areas_base": "2022-03-12T09:42:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50760,6 +50760,25 @@
                 "defibrillator:location": "Defibrylator AED przy budynku drożnika kolejowego.",
                 "emergency": "defibrillator",
                 "note": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9572575304,
+            "lat": 52.467157,
+            "lon": 16.9272707,
+            "timestamp": "2022-03-12T10:13:26Z",
+            "version": 1,
+            "changeset": 118392315,
+            "user": "Inochi03",
+            "uid": 12155748,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W recepcji",
+                "defibrillator:location:en": "At the reception desk",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]
