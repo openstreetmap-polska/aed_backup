@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-13T20:31:25Z",
+        "timestamp_osm_base": "2022-03-13T21:31:25Z",
         "timestamp_areas_base": "2022-03-13T14:58:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50797,6 +50797,164 @@
                 "defibrillator:location:en": "In the pharmacy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576334170,
+            "lat": 53.9297957,
+            "lon": 14.4575233,
+            "timestamp": "2022-03-13T20:49:09Z",
+            "version": 1,
+            "changeset": 118445383,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576334182,
+            "lat": 53.9256805,
+            "lon": 14.4395438,
+            "timestamp": "2022-03-13T20:49:09Z",
+            "version": 1,
+            "changeset": 118445383,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576334193,
+            "lat": 53.9263249,
+            "lon": 14.4560454,
+            "timestamp": "2022-03-13T20:49:09Z",
+            "version": 1,
+            "changeset": 118445383,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576334195,
+            "lat": 53.9315644,
+            "lon": 14.4521704,
+            "timestamp": "2022-03-13T20:49:09Z",
+            "version": 1,
+            "changeset": 118445383,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576334196,
+            "lat": 53.9318223,
+            "lon": 14.449162,
+            "timestamp": "2022-03-13T20:49:09Z",
+            "version": 1,
+            "changeset": 118445383,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576396310,
+            "lat": 53.8673444,
+            "lon": 14.4319563,
+            "timestamp": "2022-03-13T21:14:43Z",
+            "version": 1,
+            "changeset": 118446072,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting vehicle",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Lubin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576396316,
+            "lat": 53.8779023,
+            "lon": 14.4431653,
+            "timestamp": "2022-03-13T21:14:43Z",
+            "version": 1,
+            "changeset": 118446072,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Międzyzdroje"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9576411017,
+            "lat": 53.0258256,
+            "lon": 18.6380706,
+            "timestamp": "2022-03-13T21:22:05Z",
+            "version": 1,
+            "changeset": 118446288,
+            "user": "prikaczu",
+            "uid": 6432220,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "MediaMarkt Dział Obsługi Klienta",
+                "defibrillator:location:en": "MediaMarkt Customer Service",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 566239190"
             }
         }
     ]
