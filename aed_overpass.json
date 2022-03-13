@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-13T14:31:09Z",
-        "timestamp_areas_base": "2022-03-13T13:57:53Z",
+        "timestamp_osm_base": "2022-03-13T15:31:00Z",
+        "timestamp_areas_base": "2022-03-13T14:58:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50779,6 +50779,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9575362617,
+            "lat": 51.1412921,
+            "lon": 17.1655362,
+            "timestamp": "2022-03-13T15:01:43Z",
+            "version": 1,
+            "changeset": 118433147,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W aptece",
+                "defibrillator:location:en": "In the pharmacy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
