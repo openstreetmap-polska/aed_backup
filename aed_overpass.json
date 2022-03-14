@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-14T19:31:46Z",
-        "timestamp_areas_base": "2022-03-14T19:15:22Z",
+        "timestamp_osm_base": "2022-03-14T20:31:24Z",
+        "timestamp_areas_base": "2022-03-14T20:17:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50955,6 +50955,191 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 566239190"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081140,
+            "lat": 53.2798331,
+            "lon": 15.8797571,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Kalisz Pomorski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081159,
+            "lat": 53.284776,
+            "lon": 15.8858911,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Kalisz Pomorski",
+                "phone": "+48 94 361 63 03"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081161,
+            "lat": 53.2920385,
+            "lon": 15.9001565,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-15:00",
+                "operator": "Gmina Kalisz Pomorski",
+                "phone": "+48 94 361 63 22"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081163,
+            "lat": 53.2961176,
+            "lon": 15.9048375,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "fixme": "Opis położenia i dokładna lokalizacja urządzenia.",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-15:00",
+                "operator": "Gmina Kalisz Pomorski",
+                "phone": "+48 94 361 6356"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081167,
+            "lat": 53.2970843,
+            "lon": 15.9045153,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Kalisz Pomorski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081168,
+            "lat": 53.3018469,
+            "lon": 15.9089612,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Kalisz Pomorski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081169,
+            "lat": 53.3000844,
+            "lon": 15.9112737,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja AED.",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gmina Kalisz Pomorski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081170,
+            "lat": 53.3007733,
+            "lon": 15.9122102,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Dzienny Dom SENIOR+",
+                "defibrillator:location:en": "Living House SENIOR +",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "mobile": "+48 607 342 039",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Gmina Kalisz Pomorski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9579081171,
+            "lat": 53.3006364,
+            "lon": 15.9157243,
+            "timestamp": "2022-03-14T19:46:54Z",
+            "version": 1,
+            "changeset": 118483876,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "fixme": "opis położenia i dokłądna lokalizacja urządzenia.",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-15:00",
+                "operator": "Gmina Kalisz Pomorski",
+                "phone": "+48 94 361 74 92"
             }
         }
     ]
