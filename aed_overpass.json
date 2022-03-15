@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T09:31:54Z",
+        "timestamp_osm_base": "2022-03-15T10:31:32Z",
         "timestamp_areas_base": "2022-03-15T09:24:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -45277,27 +45277,6 @@
         },
         {
             "type": "node",
-            "id": 9533436662,
-            "lat": 49.7242277,
-            "lon": 22.8135613,
-            "timestamp": "2022-02-27T18:22:53Z",
-            "version": 3,
-            "changeset": 117918096,
-            "user": "mcliquid",
-            "uid": 1213571,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "opening_hours": "24/7",
-                "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
-                "phone": "+48 600 949 409",
-                "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251"
-            }
-        },
-        {
-            "type": "node",
             "id": 9533488341,
             "lat": 50.3351549,
             "lon": 23.5225006,
@@ -51473,6 +51452,21 @@
         },
         {
             "type": "node",
+            "id": 9580153902,
+            "lat": 49.6422233,
+            "lon": 19.4033334,
+            "timestamp": "2022-03-15T09:39:23Z",
+            "version": 1,
+            "changeset": 118503079,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Koszarawa"
+            }
+        },
+        {
+            "type": "node",
             "id": 9580161574,
             "lat": 50.85635,
             "lon": 19.2099635,
@@ -51567,6 +51561,24 @@
         },
         {
             "type": "node",
+            "id": 9580170678,
+            "lat": 50.7866431,
+            "lon": 15.954541,
+            "timestamp": "2022-03-15T09:34:14Z",
+            "version": 1,
+            "changeset": 118502876,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku obok sekretariatu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zespół Szkół Publicznych w Pisarzowicach",
+                "phone": "+48756106482"
+            }
+        },
+        {
+            "type": "node",
             "id": 9580170877,
             "lat": 52.9886307,
             "lon": 16.9136862,
@@ -51596,6 +51608,422 @@
                 "fixme": "istnienie urządzenia do potwierdzenia",
                 "operator": "OSP Margonin"
             }
+        },
+        {
+            "type": "node",
+            "id": 9580178898,
+            "lat": 51.2996353,
+            "lon": 18.746109,
+            "timestamp": "2022-03-15T09:37:15Z",
+            "version": 1,
+            "changeset": 118502978,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED Philips znajdujący się na wyposażeniu samochodu jednostki OSP w Czernicach. w W razie potrzeby użycia należy uruchomić syrene alarmową w siedzibie jednostki.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Czernice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580180166,
+            "lat": 52.1609438,
+            "lon": 20.3838437,
+            "timestamp": "2022-03-15T09:52:12Z",
+            "version": 1,
+            "changeset": 118503579,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się na zewnętrznej ścianie budynku, przy bramach garażowych.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Szymanów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580181182,
+            "lat": 49.929862,
+            "lon": 21.7727147,
+            "timestamp": "2022-03-15T09:41:39Z",
+            "version": 1,
+            "changeset": 118503161,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie budynku.",
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "opening_hours": "24/7",
+                "operator": "OSP Pstrągowa Dolna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580204174,
+            "lat": 51.5201159,
+            "lon": 20.0634317,
+            "timestamp": "2022-03-15T09:43:24Z",
+            "version": 1,
+            "changeset": 118503228,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na wyposażeniu OSP Tomaszów Mazowiecki - Białobrzegi.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Tomaszów Mazowiecki - Białobrzegi"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580206737,
+            "lat": 53.384303,
+            "lon": 21.3416753,
+            "timestamp": "2022-03-15T09:47:38Z",
+            "version": 1,
+            "changeset": 118503398,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Myszyniec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580210005,
+            "lat": 51.9995721,
+            "lon": 21.0842255,
+            "timestamp": "2022-03-15T09:55:25Z",
+            "version": 1,
+            "changeset": 118503711,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "operator": "OSP Wojciechowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580215663,
+            "lat": 50.2266205,
+            "lon": 21.4794396,
+            "timestamp": "2022-03-15T10:05:23Z",
+            "version": 1,
+            "changeset": 118504104,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Kiełków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580216813,
+            "lat": 53.7441663,
+            "lon": 16.1728818,
+            "timestamp": "2022-03-15T09:45:35Z",
+            "version": 1,
+            "changeset": 118503311,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje na zewnętrznej ścianie budynku przy głównej bramie wjazdowej.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Popielewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580226125,
+            "lat": 49.3863455,
+            "lon": 20.1059326,
+            "timestamp": "2022-03-15T09:53:56Z",
+            "version": 1,
+            "changeset": 118503652,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "2 defirylatory AED znajdują się na wyposażeniu wozów Straży Pożarnej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Białka Tatrzańska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580238937,
+            "lat": 49.710381,
+            "lon": 20.8618965,
+            "timestamp": "2022-03-15T09:58:19Z",
+            "version": 1,
+            "changeset": 118503836,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Lipnica Wielka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580240296,
+            "lat": 50.4478233,
+            "lon": 19.0125047,
+            "timestamp": "2022-03-15T10:23:25Z",
+            "version": 1,
+            "changeset": 118504817,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibryrator AED znajduje się w środku budynku. Na zewnątrz znajduje się przycisk, który uruchamia syrenę",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Tąpkowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580245626,
+            "lat": 49.7341823,
+            "lon": 21.0950717,
+            "timestamp": "2022-03-15T10:02:25Z",
+            "version": 1,
+            "changeset": 118503993,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Moszczenica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580251452,
+            "lat": 52.4572973,
+            "lon": 16.6689098,
+            "timestamp": "2022-03-15T10:11:31Z",
+            "version": 1,
+            "changeset": 118504367,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "opening_hours": "Mo-Fr 08:00-16:45",
+                "operator": "Schattdecor Sp. z o.o.",
+                "phone": "+48618166600"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580253571,
+            "lat": 51.9614378,
+            "lon": 16.8190478,
+            "timestamp": "2022-03-15T10:08:09Z",
+            "version": 1,
+            "changeset": 118504225,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Bank Spółdzielczy",
+                "phone": "+48655170533"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580260711,
+            "lat": 53.8448814,
+            "lon": 18.9615997,
+            "timestamp": "2022-03-15T10:16:45Z",
+            "version": 1,
+            "changeset": 118504561,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Ryjewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580266925,
+            "lat": 54.1047104,
+            "lon": 22.9244576,
+            "timestamp": "2022-03-15T10:15:08Z",
+            "version": 1,
+            "changeset": 118504503,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "Biblioteka Publiczna im. Marii Konopnickiej w Suwałkach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580272596,
+            "lat": 51.9566553,
+            "lon": 17.3354199,
+            "timestamp": "2022-03-15T10:20:16Z",
+            "version": 1,
+            "changeset": 118504694,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Łobzowiec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580273101,
+            "lat": 50.5347691,
+            "lon": 17.4075727,
+            "timestamp": "2022-03-15T10:26:44Z",
+            "version": 1,
+            "changeset": 118504964,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Prusinowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580278224,
+            "lat": 50.8877477,
+            "lon": 20.1245753,
+            "timestamp": "2022-03-15T10:25:19Z",
+            "version": 1,
+            "changeset": 118504904,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Krasocin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580281882,
+            "lat": 51.2546656,
+            "lon": 22.6915171,
+            "timestamp": "2022-03-15T10:31:08Z",
+            "version": 1,
+            "changeset": 118505183,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Świdnik Duży"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580283135,
+            "lat": 50.4727643,
+            "lon": 17.3293662,
+            "timestamp": "2022-03-15T10:29:24Z",
+            "version": 1,
+            "changeset": 118505075,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 1 Państwowej Straży Pożarnej w Nysie",
+                "phone": "+48478616900"
+            }
+        },
+        {
+            "type": "way",
+            "id": 370886576,
+            "timestamp": "2022-03-15T09:44:48Z",
+            "version": 8,
+            "changeset": 118503273,
+            "user": "Władysław Komorek",
+            "uid": 693154,
+            "nodes": [
+                4034704542,
+                9533436662,
+                4034704539,
+                4034704543,
+                4034704542
+            ],
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "34",
+                "addr:place": "Hermanowice",
+                "addr:postcode": "37-733",
+                "amenity": "fire_station",
+                "building": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "ksrg": "no",
+                "name": "Ochotnicza Straż Pożarna w Hermanowicach",
+                "name:uk": "Добровільна пожежна частина в Германовіцах",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
+                "phone": "+48 600 949 409",
+                "short_name": "OSP Hermanowice",
+                "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251",
+                "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+                "website": "http://osp.hermanowice.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4034704539,
+            "lat": 49.7241873,
+            "lon": 22.8136928
+        },
+        {
+            "type": "node",
+            "id": 4034704542,
+            "lat": 49.7242738,
+            "lon": 22.813449
+        },
+        {
+            "type": "node",
+            "id": 4034704543,
+            "lat": 49.7243186,
+            "lon": 22.8136005
+        },
+        {
+            "type": "node",
+            "id": 9533436662,
+            "lat": 49.7241425,
+            "lon": 22.8135413
         }
     ]
 }
