@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T20:31:27Z",
+        "timestamp_osm_base": "2022-03-15T21:32:09Z",
         "timestamp_areas_base": "2022-03-15T11:25:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49092,16 +49092,16 @@
         {
             "type": "node",
             "id": 9568890817,
-            "lat": 54.258855,
-            "lon": 20.8148355,
-            "timestamp": "2022-03-10T14:23:30Z",
-            "version": 1,
-            "changeset": 118326045,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 54.2588457,
+            "lon": 20.8148625,
+            "timestamp": "2022-03-15T20:51:26Z",
+            "version": 2,
+            "changeset": 118527061,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Defibrylator AED na budynku apteki „Pilula” przy ul. Nowowiejskiego 25.",
+                "defibrillator:location": "Defibrylator AED na budynku apteki Pilula przy ul. Nowowiejskiego 25",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
