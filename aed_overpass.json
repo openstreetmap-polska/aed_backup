@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T07:31:25Z",
-        "timestamp_areas_base": "2022-03-15T07:23:08Z",
+        "timestamp_osm_base": "2022-03-15T08:32:09Z",
+        "timestamp_areas_base": "2022-03-15T08:23:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51144,6 +51144,25 @@
         },
         {
             "type": "node",
+            "id": 9579986232,
+            "lat": 50.5740648,
+            "lon": 17.8729322,
+            "timestamp": "2022-03-15T07:32:33Z",
+            "version": 1,
+            "changeset": 118498318,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Prószkowie",
+                "phone": "+48774013700"
+            }
+        },
+        {
+            "type": "node",
             "id": 9580005183,
             "lat": 50.8714814,
             "lon": 18.2169434,
@@ -51157,6 +51176,57 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Lasowice Wielkie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580011138,
+            "lat": 52.4207333,
+            "lon": 16.5713214,
+            "timestamp": "2022-03-15T07:37:26Z",
+            "version": 1,
+            "changeset": 118498502,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ceradz Dolny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580012628,
+            "lat": 52.6009388,
+            "lon": 16.8200461,
+            "timestamp": "2022-03-15T07:35:11Z",
+            "version": 1,
+            "changeset": 118498413,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Ocieszyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580093601,
+            "lat": 54.2735586,
+            "lon": 19.1771346,
+            "timestamp": "2022-03-15T08:31:12Z",
+            "version": 1,
+            "changeset": 118500515,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Chełmek-Osada"
             }
         }
     ]
