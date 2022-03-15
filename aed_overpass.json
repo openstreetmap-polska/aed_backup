@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T08:32:09Z",
-        "timestamp_areas_base": "2022-03-15T08:23:59Z",
+        "timestamp_osm_base": "2022-03-15T09:31:54Z",
+        "timestamp_areas_base": "2022-03-15T09:24:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51214,6 +51214,43 @@
         },
         {
             "type": "node",
+            "id": 9580070978,
+            "lat": 50.8440444,
+            "lon": 19.555878,
+            "timestamp": "2022-03-15T09:02:00Z",
+            "version": 1,
+            "changeset": 118501664,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Dąbrowa Zielona",
+                "phone": "+48343555018"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580088537,
+            "lat": 49.7294523,
+            "lon": 19.104259,
+            "timestamp": "2022-03-15T08:48:32Z",
+            "version": 1,
+            "changeset": 118501141,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Rybarzowice",
+                "phone": "+48338177213"
+            }
+        },
+        {
+            "type": "node",
             "id": 9580093601,
             "lat": 54.2735586,
             "lon": 19.1771346,
@@ -51227,6 +51264,337 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Chełmek-Osada"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580096187,
+            "lat": 52.1575141,
+            "lon": 18.8707271,
+            "timestamp": "2022-03-15T08:44:25Z",
+            "version": 1,
+            "changeset": 118500990,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Drzewce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580096277,
+            "lat": 49.4948296,
+            "lon": 19.9418747,
+            "timestamp": "2022-03-15T08:39:46Z",
+            "version": 1,
+            "changeset": 118500833,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Morawczyna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580096534,
+            "lat": 50.0651777,
+            "lon": 20.4622319,
+            "timestamp": "2022-03-15T08:46:49Z",
+            "version": 1,
+            "changeset": 118501092,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Mikluszowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580097479,
+            "lat": 53.3415692,
+            "lon": 16.0840809,
+            "timestamp": "2022-03-15T08:42:44Z",
+            "version": 1,
+            "changeset": 118500923,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do urzędu.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Mirosławcu",
+                "phone": "+48672595213"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580104826,
+            "lat": 53.7043426,
+            "lon": 15.7890326,
+            "timestamp": "2022-03-15T08:36:46Z",
+            "version": 1,
+            "changeset": 118500726,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się wewnatrz budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Brzeźno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580125254,
+            "lat": 51.8980264,
+            "lon": 19.6034034,
+            "timestamp": "2022-03-15T08:51:39Z",
+            "version": 1,
+            "changeset": 118501256,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu auta gaśniczego 583E25.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Państwowa Straż Pożarna w Strykowie",
+                "phone": "+48427198008"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580130251,
+            "lat": 51.1205553,
+            "lon": 17.1135858,
+            "timestamp": "2022-03-15T08:57:04Z",
+            "version": 1,
+            "changeset": 118501491,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "Volvo Polska Sp. z o. o.",
+                "phone": "+48713021700"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580132657,
+            "lat": 51.9270725,
+            "lon": 19.7538277,
+            "timestamp": "2022-03-15T08:54:31Z",
+            "version": 1,
+            "changeset": 118501383,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu auta gaśniczego 419E31 Ford.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dmosin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580132658,
+            "lat": 51.9270862,
+            "lon": 19.753774,
+            "timestamp": "2022-03-15T08:54:31Z",
+            "version": 1,
+            "changeset": 118501383,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu auta gaśniczego 419E30 MAN.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dmosin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580132661,
+            "lat": 51.193917,
+            "lon": 16.7387458,
+            "timestamp": "2022-03-15T08:58:58Z",
+            "version": 1,
+            "changeset": 118501559,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Miękinia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580150783,
+            "lat": 50.843986,
+            "lon": 19.5548996,
+            "timestamp": "2022-03-15T09:00:25Z",
+            "version": 1,
+            "changeset": 118501612,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dąbrowa Zielona"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580151197,
+            "lat": 54.2517268,
+            "lon": 18.8461909,
+            "timestamp": "2022-03-15T09:16:45Z",
+            "version": 1,
+            "changeset": 118502181,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Cedry Wielkie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580161574,
+            "lat": 50.85635,
+            "lon": 19.2099635,
+            "timestamp": "2022-03-15T09:12:22Z",
+            "version": 1,
+            "changeset": 118502024,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED dostępne w Remizie (by uzyskać dostęp wystarczy zaalarmować strażaków dostępnym przyciskiem na budynku).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Rędziny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580162453,
+            "lat": 50.4121913,
+            "lon": 18.4300348,
+            "timestamp": "2022-03-15T09:06:04Z",
+            "version": 1,
+            "changeset": 118501802,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku, w wozie bojowym Volvo. Przycisk alarmowy przy bramie wjazdowej uruchamiający syrenę.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Widów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580165142,
+            "lat": 49.8549234,
+            "lon": 22.1323369,
+            "timestamp": "2022-03-15T09:14:03Z",
+            "version": 1,
+            "changeset": 118502086,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz budynku, w razie potrzeby uruchomić syrenę OSP.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Futoma"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580165560,
+            "lat": 49.9634934,
+            "lon": 22.8894896,
+            "timestamp": "2022-03-15T09:08:49Z",
+            "version": 1,
+            "changeset": 118501891,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Remizie dostępny jest AED, aby skorzystać z AED należy uruchomić syrenę alarmową.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP im. Błogosławionego Jana Pawła II w Duńkowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580170677,
+            "lat": 50.7807705,
+            "lon": 18.6740092,
+            "timestamp": "2022-03-15T09:30:44Z",
+            "version": 1,
+            "changeset": 118502749,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Zborowskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580170877,
+            "lat": 52.9886307,
+            "lon": 16.9136862,
+            "timestamp": "2022-03-15T09:19:36Z",
+            "version": 1,
+            "changeset": 118502281,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Komenda Powiatowa PSP w Chodzieży",
+                "phone": "+48672223300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580178148,
+            "lat": 52.9720555,
+            "lon": 17.093879,
+            "timestamp": "2022-03-15T09:21:44Z",
+            "version": 1,
+            "changeset": 118502356,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Margonin"
             }
         }
     ]
