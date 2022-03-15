@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T19:31:27Z",
+        "timestamp_osm_base": "2022-03-15T20:31:27Z",
         "timestamp_areas_base": "2022-03-15T11:25:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3220,24 +3220,6 @@
             "tags": {
                 "defibrillator:location": "ściana budynku, przy aptece",
                 "emergency": "defibrillator",
-                "operator": "Gdyńskie Centrum Zdrowia"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8145254851,
-            "lat": 54.4811111,
-            "lon": 18.5643985,
-            "timestamp": "2022-01-30T12:20:23Z",
-            "version": 2,
-            "changeset": 116777521,
-            "user": "RicoElectrico",
-            "uid": 604437,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "ściana budynku tawerny",
-                "emergency": "defibrillator",
-                "indoor": "no",
                 "operator": "Gdyńskie Centrum Zdrowia"
             }
         },
@@ -52103,6 +52085,24 @@
                 "opening_hours": "Mo-Sa 10:00-22:00",
                 "operator": "Manufaktura",
                 "phone": "+48426649289"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9581594163,
+            "lat": 54.4811888,
+            "lon": 18.5643182,
+            "timestamp": "2022-03-15T20:30:33Z",
+            "version": 1,
+            "changeset": 118526480,
+            "user": "pawlosck",
+            "uid": 3186433,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana budynku tawerny",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Gdyńskie Centrum Zdrowia"
             }
         },
         {

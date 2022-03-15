@@ -1,4 +1,4 @@
-# AED backup and stats (2022-03-15 11:33:07)
+# AED backup and stats (2022-03-15 20:33:07)
 
 
 ## Total AED plot
@@ -26,7 +26,7 @@ Average daily growth since beginning of the year: 34.76
 | 10 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 39 |
 | 11 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 38 |
 | 12 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 36 |
-| 13 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 35 |
+| 13 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 34 |
 | 14 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 32 |
 | 15 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 23 |
 | 16 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 22 |
@@ -35,9 +35,9 @@ Average daily growth since beginning of the year: 34.76
 | 19 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 19 |
 | 20 | [Awizonosz](<https://www.openstreetmap.org/user/Awizonosz>) | 15 |
 | 21 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 14 |
-| 22 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
-| 23 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
-| 24 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
+| 22 | [pio2_122](<https://www.openstreetmap.org/user/pio2_122>) | 13 |
+| 23 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 13 |
+| 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 13 |
 | 25 | [lyncz](<https://www.openstreetmap.org/user/lyncz>) | 12 |
 
 ## Tag access pie
