@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-15T10:31:32Z",
-        "timestamp_areas_base": "2022-03-15T09:24:39Z",
+        "timestamp_osm_base": "2022-03-15T11:32:23Z",
+        "timestamp_areas_base": "2022-03-15T11:25:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51962,6 +51962,147 @@
                 "emergency": "defibrillator",
                 "operator": "Jednostka Ratowniczo-Gaśnicza nr 1 Państwowej Straży Pożarnej w Nysie",
                 "phone": "+48478616900"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580301849,
+            "lat": 49.8858059,
+            "lon": 22.1000873,
+            "timestamp": "2022-03-15T10:49:52Z",
+            "version": 1,
+            "changeset": 118505976,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się na budynku przychodni.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Przychodnia Rejonowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580309575,
+            "lat": 51.9551887,
+            "lon": 20.1406451,
+            "timestamp": "2022-03-15T10:34:37Z",
+            "version": 1,
+            "changeset": 118505339,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Skierniewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580323398,
+            "lat": 51.2872592,
+            "lon": 18.7924763,
+            "timestamp": "2022-03-15T10:47:49Z",
+            "version": 1,
+            "changeset": 118505892,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Osjaków.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Osjaków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580364522,
+            "lat": 50.2266643,
+            "lon": 20.4246971,
+            "timestamp": "2022-03-15T11:00:44Z",
+            "version": 1,
+            "changeset": 118506463,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580364527,
+            "lat": 49.9211067,
+            "lon": 19.2368728,
+            "timestamp": "2022-03-15T11:00:44Z",
+            "version": 1,
+            "changeset": 118506463,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "istnienie urządzenia do potwierdzenia",
+                "operator": "OSP Malec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580367840,
+            "lat": 51.962189,
+            "lon": 17.5134382,
+            "timestamp": "2022-03-15T11:04:23Z",
+            "version": 1,
+            "changeset": 118506613,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się na bramie wjazdowej ZSP2 w Jarocinie.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkół Ponadpodstawowych nr 2 im. Eugeniusza Kwiatkowskiego w Jarocinie",
+                "phone": "+48627472240"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580369857,
+            "lat": 51.7701653,
+            "lon": 19.5705517,
+            "timestamp": "2022-03-15T11:06:35Z",
+            "version": 1,
+            "changeset": 118506704,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Mileszki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9580370390,
+            "lat": 51.7792593,
+            "lon": 19.4461884,
+            "timestamp": "2022-03-15T11:08:52Z",
+            "version": 1,
+            "changeset": 118506782,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz budynku, w punkcie informacyjnym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 10:00-22:00",
+                "operator": "Manufaktura",
+                "phone": "+48426649289"
             }
         },
         {
