@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-16T10:31:41Z",
+        "timestamp_osm_base": "2022-03-16T11:31:29Z",
         "timestamp_areas_base": "2022-03-16T06:38:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39260,17 +39260,18 @@
             "id": 9514519559,
             "lat": 51.3516752,
             "lon": 21.2143413,
-            "timestamp": "2022-02-17T18:11:52Z",
-            "version": 1,
-            "changeset": 117532957,
+            "timestamp": "2022-03-16T10:56:13Z",
+            "version": 3,
+            "changeset": 118546412,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Makowiec",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Makowiec"
+                "operator": "Ochotnicza Straż Pożarna w Makowcu",
+                "source": "Direct answer"
             }
         },
         {
@@ -52103,6 +52104,180 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "Gdyńskie Centrum Zdrowia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582615756,
+            "lat": 49.9870315,
+            "lon": 18.5930394,
+            "timestamp": "2022-03-16T10:49:58Z",
+            "version": 1,
+            "changeset": 118546181,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Gogołowa",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Gogołowa",
+                "source": "https://www.facebook.com/108335554246496/photos/a.108347084245343/445854507161264/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582634170,
+            "lat": 50.922885,
+            "lon": 19.1988149,
+            "timestamp": "2022-03-16T10:55:41Z",
+            "version": 1,
+            "changeset": 118546393,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Mykanów",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Mykanów",
+                "source": "https://www.facebook.com/OSPMykanow/posts/1126049720862733"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582682319,
+            "lat": 50.94705,
+            "lon": 20.2514318,
+            "timestamp": "2022-03-16T10:58:29Z",
+            "version": 1,
+            "changeset": 118546493,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Łopuszno",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Łopusznie",
+                "source": "https://www.facebook.com/OSPLopuszno/posts/4402128649896795"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582692639,
+            "lat": 53.9694541,
+            "lon": 18.5334957,
+            "timestamp": "2022-03-16T11:06:31Z",
+            "version": 1,
+            "changeset": 118546827,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na głónej bramie Stadionu Miejskiego im. Kazimierza Deyny",
+                "defibrillator:location:en": "On the main gate to the Kazimierz Deyna Municipal Stadium",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ośrodek Sportu i Rekreacji w Starogardzie Gdańskim",
+                "phone": "533 236 148",
+                "source": "https://www.facebook.com/osir.starogard/posts/1909850365759418"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582698104,
+            "lat": 50.0378196,
+            "lon": 19.765386,
+            "timestamp": "2022-03-16T11:17:04Z",
+            "version": 1,
+            "changeset": 118547216,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Liszki",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Liszkach",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=2874963406099878&id=1579800915616140"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582707895,
+            "lat": 50.0419488,
+            "lon": 19.7980915,
+            "timestamp": "2022-03-16T11:15:42Z",
+            "version": 1,
+            "changeset": 118547162,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Kryspinów",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Kryspinowie",
+                "source": "https://www.facebook.com/ospkryspinow/posts/2372659799507205"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582712593,
+            "lat": 50.9619593,
+            "lon": 16.3487104,
+            "timestamp": "2022-03-16T11:20:08Z",
+            "version": 1,
+            "changeset": 118547329,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Strzegom",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Strzegomiu",
+                "source": "https://www.facebook.com/ospksrgstrzegom/posts/1403154603415371"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582717766,
+            "lat": 52.1036436,
+            "lon": 18.475053,
+            "timestamp": "2022-03-16T11:24:23Z",
+            "version": 1,
+            "changeset": 118547480,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Władysławów",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Władysławowie",
+                "source": "https://strazacki.pl/artyku%C5%82y/strazacy-wykorzystali-aed-zamontowany-przy-remizie-osp-do-uratowania-kobiety?fbclid=IwAR2_YCzlKwqxUopC-gIFgOT3f-X0-mfftLSAgpwbnmcQc2OpikHxOq7rT8g"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582723252,
+            "lat": 52.4868245,
+            "lon": 19.019402,
+            "timestamp": "2022-03-16T11:28:06Z",
+            "version": 1,
+            "changeset": 118547619,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Choceń",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Choceniu",
+                "source": "https://www.facebook.com/ospchocen/posts/1910438195930853"
             }
         },
         {
