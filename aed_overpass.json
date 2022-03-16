@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-16T11:31:29Z",
+        "timestamp_osm_base": "2022-03-16T12:31:13Z",
         "timestamp_areas_base": "2022-03-16T06:38:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52278,6 +52278,70 @@
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Choceniu",
                 "source": "https://www.facebook.com/ospchocen/posts/1910438195930853"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582793274,
+            "lat": 50.0600438,
+            "lon": 19.721446,
+            "timestamp": "2022-03-16T11:36:01Z",
+            "version": 1,
+            "changeset": 118547914,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W remizie OSP Mników - Przytrzymać guzik przez 30 sekund, w momencie uruchomienia syreny alarmowej drzwi zawsze zostaną otwarte",
+                "defibrillator:location:en": "In the fire station building - Press the button in front of the entrance, after 30 second alarm buzzer will activate and the door will open",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Mnikowie",
+                "source": "https://www.facebook.com/ospmnikow/posts/1895660034026191"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582796746,
+            "lat": 50.0082062,
+            "lon": 19.7659171,
+            "timestamp": "2022-03-16T11:44:49Z",
+            "version": 1,
+            "changeset": 118548239,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Między wjazdami do garażów remizy OSP Rączna",
+                "defibrillator:location:en": "Between the gates of the fire station",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Rącznej",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=2527091927422604&id=573001032831713"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9582816238,
+            "lat": 52.0179351,
+            "lon": 20.7307425,
+            "timestamp": "2022-03-16T12:01:04Z",
+            "version": 1,
+            "changeset": 118548932,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "defibrillator:location:en": "On the wall of fire station",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "phone": "Ochotnicza Straż Pożarna Żelechów",
+                "source": "https://www.facebook.com/mdpzelechow/photos/a.1895188220749004/3273486066252539/"
             }
         },
         {
