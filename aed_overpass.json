@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-17T17:34:40Z",
+        "timestamp_osm_base": "2022-03-17T20:32:07Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52508,6 +52508,50 @@
                 "operator": "Urząd Miejski w Mrągowie",
                 "phone": "89 741 90 00",
                 "source": "https://www.mragowo.pl/aktualnosci/5629-w-urzedzie-miejskim-zamontowano-defibrylator-aed?fbclid=IwAR06wwNF9_V6bZWBpyMlzXMjgZkYq21Pj9YZsIZZJRI6B3cURwuo3Lw13fg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9586039212,
+            "lat": 49.6738392,
+            "lon": 19.0952582,
+            "timestamp": "2022-03-17T18:03:49Z",
+            "version": 2,
+            "changeset": 118605704,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Urzędu Gminy, obok schodów",
+                "defibrillator:location:en": "On the wall of Municipal Office, next to the steps",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Lipowej",
+                "outdoor": "yes",
+                "phone": "+48 660 860 112",
+                "source": "https://lipowaiokolice.blogspot.com/2019/12/defibrylator-aed-w-lipowej.html?fbclid=IwAR2blqgRBEsstOamt2muDXm3tnVZXgYYrY7FcGINgYnqFgDP9XtWQXgnnJk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9586166402,
+            "lat": 51.7187563,
+            "lon": 17.2258962,
+            "timestamp": "2022-03-17T18:54:42Z",
+            "version": 1,
+            "changeset": 118607046,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do budynku od strony parkingu",
+                "defibrillator:location:en": "Next to the entrance of the building from the side of parking area",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Powiatowa Stacja Pogotowania Ratunkowego w Kobylinie",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/glokalna/posts/3489728804447527",
+                "wheelchair": "yes"
             }
         },
         {
