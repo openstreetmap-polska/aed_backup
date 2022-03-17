@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-17T10:31:57Z",
+        "timestamp_osm_base": "2022-03-17T11:32:54Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11516,18 +11516,21 @@
         {
             "type": "node",
             "id": 9413538617,
-            "lat": 49.8502219,
-            "lon": 19.0913496,
-            "timestamp": "2022-01-12T19:02:17Z",
-            "version": 1,
-            "changeset": 116078719,
-            "user": "Landrinka",
-            "uid": 12830729,
+            "lat": 49.8501614,
+            "lon": 19.0913804,
+            "timestamp": "2022-03-17T11:09:12Z",
+            "version": 2,
+            "changeset": 118587818,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Róg budynku",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Dom Kultury w Hałcnowie",
+                "source": "https://www.facebook.com/Bronis%C5%82aw-Szafarczyk-Radny-Rady-Miejskiej-w-Bielsku-Bia%C5%82ej-134390460526823/photos/pcb.715786359053894/715785945720602/"
             }
         },
         {
@@ -52401,6 +52404,110 @@
                 "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-19:00",
                 "operator": "Obi",
                 "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9585045940,
+            "lat": 51.6213568,
+            "lon": 17.1455517,
+            "timestamp": "2022-03-17T10:48:12Z",
+            "version": 1,
+            "changeset": 118586845,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie sklepu spożywczego, przy Rynku",
+                "defibrillator:location:en": "On the wall of convienience store next to the Market Square",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Dubin",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/jutrosindziejesie/posts/264012905298438",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9585077972,
+            "lat": 50.6074598,
+            "lon": 20.574304,
+            "timestamp": "2022-03-17T10:53:41Z",
+            "version": 1,
+            "changeset": 118587108,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Urządu Gminy, na prawo od drzwi",
+                "defibrillator:location:en": "Next to the entrance to the Municipal Office, on the right to the main door",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Kijach",
+                "outdoor": "yes",
+                "source": "https://osp.kije.pl/index.php/2-uncategorised/260-urzadzenie-ratujace-zycie-zamontowano-na-budynku-urzedu-gminy-w-kijach?fbclid=IwAR3HTR8gfE1j8L0pHp-TpyQlYGHRQ2ZsjWnipd81iC1G1MCPgUnosZFFbWE"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9585116450,
+            "lat": 53.9445029,
+            "lon": 15.5334878,
+            "timestamp": "2022-03-17T11:03:00Z",
+            "version": 1,
+            "changeset": 118587523,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W korytarzu bocznego wejścia do hali widowiskowo-sportowej Szkoły Podstawowe (od strony bloku nauczycielskiego)",
+                "defibrillator:location:en": "In the corridor of the side entracte to the sport hall of the Primary School (from the side of the teachers' room)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zespół Szkół Publicznych im. Tadeusza Kościuszki w Rymaniu",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=2724648247630072&id=226181964143392"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9585126974,
+            "lat": 53.9452638,
+            "lon": 15.5282548,
+            "timestamp": "2022-03-17T11:05:25Z",
+            "version": 1,
+            "changeset": 118587632,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Rymań",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Rymaniu",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=2724648247630072&id=226181964143392"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9585163541,
+            "lat": 53.8764591,
+            "lon": 21.304585,
+            "timestamp": "2022-03-17T11:16:57Z",
+            "version": 1,
+            "changeset": 118588217,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku, na pierwszym piętrze (obok wejścia do pokoju Ewidencji Działalności Gospodarczej)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Miejski w Mrągowie",
+                "phone": "89 741 90 00",
+                "source": "https://www.mragowo.pl/aktualnosci/5629-w-urzedzie-miejskim-zamontowano-defibrylator-aed?fbclid=IwAR06wwNF9_V6bZWBpyMlzXMjgZkYq21Pj9YZsIZZJRI6B3cURwuo3Lw13fg"
             }
         },
         {
