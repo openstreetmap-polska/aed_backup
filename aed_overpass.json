@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T19:32:12Z",
-        "timestamp_areas_base": "2022-03-18T17:13:23Z",
+        "timestamp_osm_base": "2022-03-18T20:31:08Z",
+        "timestamp_areas_base": "2022-03-18T20:15:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41153,27 +41153,6 @@
         },
         {
             "type": "node",
-            "id": 9524492646,
-            "lat": 51.6144048,
-            "lon": 17.0573155,
-            "timestamp": "2022-02-21T14:19:54Z",
-            "version": 2,
-            "changeset": 117684112,
-            "user": "voltairovicz",
-            "uid": 1744629,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na ścianie budynku Urzędu Gminy Pakosław, na prawo od wejścia od strony parkingu",
-                "emergency": "defibrillator",
-                "opening_hours": "24/7",
-                "operator": "Urząd Gminy w Pakosławu",
-                "phone": "65 547 83 32",
-                "source": "https://www.facebook.com/solpako/photos/912736462394716",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9524537995,
             "lat": 52.793031,
             "lon": 20.5685158,
@@ -52432,9 +52411,9 @@
             "id": 9585045940,
             "lat": 51.6213568,
             "lon": 17.1455517,
-            "timestamp": "2022-03-17T10:48:12Z",
-            "version": 1,
-            "changeset": 118586845,
+            "timestamp": "2022-03-18T20:29:40Z",
+            "version": 2,
+            "changeset": 118646932,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -52442,6 +52421,7 @@
                 "defibrillator:location": "Na ścianie sklepu spożywczego, przy Rynku",
                 "defibrillator:location:en": "On the wall of convienience store next to the Market Square",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Gminy Dubin",
                 "outdoor": "yes",
@@ -52686,9 +52666,9 @@
             "id": 9587686317,
             "lat": 49.8457391,
             "lon": 19.7150288,
-            "timestamp": "2022-03-18T12:26:23Z",
-            "version": 1,
-            "changeset": 118630901,
+            "timestamp": "2022-03-18T20:26:41Z",
+            "version": 3,
+            "changeset": 118646867,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -52696,6 +52676,7 @@
                 "defibrillator:location": "Na zewnętrznej ścianie, na prawo od wejścia do Sklepu Wiejskiego",
                 "defibrillator:location:en": "On the outside wall, on the right to the entracte to the shop",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "outdoor": "yes",
                 "source": "https://www.facebook.com/DobraGminaLanckorona/posts/626156351501142"
