@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-17T22:32:39Z",
+        "timestamp_osm_base": "2022-03-18T02:31:41Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1403,16 +1403,19 @@
             "id": 5812079503,
             "lat": 53.1352493,
             "lon": 23.1630505,
-            "timestamp": "2018-08-06T09:28:46Z",
-            "version": 1,
-            "changeset": 61397115,
-            "user": "Michoo",
-            "uid": 594456,
+            "timestamp": "2022-03-18T00:30:11Z",
+            "version": 2,
+            "changeset": 118615030,
+            "user": "Krystek",
+            "uid": 64243,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na prawo od wejścia do przejścia podziemnego",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku",
+                "wheelchair": "yes"
             }
         },
         {
@@ -1747,9 +1750,9 @@
             "id": 6383408506,
             "lat": 53.1311934,
             "lon": 23.1567132,
-            "timestamp": "2021-12-15T17:25:56Z",
-            "version": 2,
-            "changeset": 114973226,
+            "timestamp": "2022-03-18T00:35:14Z",
+            "version": 3,
+            "changeset": 118615083,
             "user": "Krystek",
             "uid": 64243,
             "tags": {
@@ -1757,6 +1760,7 @@
                 "emergency": "defibrillator",
                 "level": "0",
                 "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku",
                 "wheelchair": "yes"
             }
         },
@@ -52551,6 +52555,25 @@
                 "operator": "Powiatowa Stacja Pogotowania Ratunkowego w Kobylinie",
                 "outdoor": "yes",
                 "source": "https://www.facebook.com/glokalna/posts/3489728804447527",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9586723460,
+            "lat": 53.122665,
+            "lon": 23.1417848,
+            "timestamp": "2022-03-18T00:20:46Z",
+            "version": 1,
+            "changeset": 118614895,
+            "user": "Krystek",
+            "uid": 64243,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
                 "wheelchair": "yes"
             }
         },
