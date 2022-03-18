@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T21:32:08Z",
-        "timestamp_areas_base": "2022-03-18T21:16:53Z",
+        "timestamp_osm_base": "2022-03-18T22:31:49Z",
+        "timestamp_areas_base": "2022-03-18T22:16:47Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49045,13 +49045,13 @@
         {
             "type": "node",
             "id": 9568868917,
-            "lat": 51.7012061,
-            "lon": 16.9186191,
-            "timestamp": "2022-03-11T07:30:23Z",
-            "version": 2,
-            "changeset": 118350908,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 51.7012976,
+            "lon": 16.9184711,
+            "timestamp": "2022-03-18T21:59:03Z",
+            "version": 3,
+            "changeset": 118649089,
+            "user": "dzbor",
+            "uid": 2644254,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Zewnętrzny AED na budynku Ochotniczej Straży Pożarnej w Szurkowie. Dostępny całodobowo.",
@@ -49062,16 +49062,16 @@
         {
             "type": "node",
             "id": 9568884217,
-            "lat": 51.7672574,
-            "lon": 16.8041779,
-            "timestamp": "2022-03-10T14:18:46Z",
-            "version": 1,
-            "changeset": 118325207,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 51.766952,
+            "lon": 16.804548,
+            "timestamp": "2022-03-18T21:59:03Z",
+            "version": 2,
+            "changeset": 118649089,
+            "user": "dzbor",
+            "uid": 2644254,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Zewnętrzny AED na budynku hali widowiskowo-sportowej.",
+                "defibrillator:location": "Zewnętrzny AED na budynku hali widowiskowo-sportowej, przy wejściu",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
@@ -49079,16 +49079,16 @@
         {
             "type": "node",
             "id": 9568885617,
-            "lat": 51.7626521,
-            "lon": 16.8081449,
-            "timestamp": "2022-03-10T14:20:14Z",
-            "version": 1,
-            "changeset": 118326045,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 51.7627227,
+            "lon": 16.8082743,
+            "timestamp": "2022-03-18T21:59:03Z",
+            "version": 2,
+            "changeset": 118649089,
+            "user": "dzbor",
+            "uid": 2644254,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Zewnętrzny defibrylator AED na budynku biblioteki.",
+                "defibrillator:location": "Zewnętrzny defibrylator AED na budynku biblioteki, przy wejściu",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
