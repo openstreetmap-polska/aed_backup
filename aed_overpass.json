@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T12:31:27Z",
-        "timestamp_areas_base": "2022-03-17T04:49:53Z",
+        "timestamp_osm_base": "2022-03-18T13:31:26Z",
+        "timestamp_areas_base": "2022-03-18T13:07:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -4168,13 +4168,21 @@
             "id": 8954316260,
             "lat": 53.67533,
             "lon": 17.3781652,
-            "timestamp": "2021-07-27T14:26:52Z",
-            "version": 1,
-            "changeset": 108694770,
-            "user": "macaddr",
-            "uid": 13378425,
+            "timestamp": "2022-03-18T12:37:09Z",
+            "version": 2,
+            "changeset": 118631270,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie przychodni stomatologicznej",
+                "defibrillator:location:en": "On the outside wall of the dental medical centre",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Stomatologia Uśmiechnij Się",
+                "outdoor": "yes",
+                "phone": "+48 59 834 14 22",
+                "source": "https://www.facebook.com/stomatologiausmiechnijsie/posts/1500743700067394"
             }
         },
         {
@@ -37406,17 +37414,17 @@
             "id": 9505974258,
             "lat": 52.9685201,
             "lon": 14.6068555,
-            "timestamp": "2022-02-14T20:23:11Z",
-            "version": 1,
-            "changeset": 117409539,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-03-18T13:04:44Z",
+            "version": 2,
+            "changeset": 118632204,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Trzcińsko-Zdrój",
+                "operator": "OSP Trzcińsko-Zdrój",
                 "phone": "+48 914148088"
             }
         },
