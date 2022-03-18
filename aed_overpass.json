@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T10:31:39Z",
+        "timestamp_osm_base": "2022-03-18T11:31:36Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7042,16 +7042,24 @@
         {
             "type": "node",
             "id": 9366879094,
-            "lat": 51.2167889,
-            "lon": 22.6981437,
-            "timestamp": "2021-12-26T11:32:58Z",
-            "version": 1,
-            "changeset": 115383152,
-            "user": "charl3s",
-            "uid": 8019013,
+            "lat": 51.2166108,
+            "lon": 22.6981008,
+            "timestamp": "2022-03-18T10:57:08Z",
+            "version": 2,
+            "changeset": 118627831,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy sklepie Rossmann",
+                "defibrillator:location:en": "On the ground floor, next to the Rossmann",
                 "emergency": "defibrillator",
-                "fixme": "lokalizacja"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 10:00-20:00",
+                "operator": "Galeria Venus",
+                "phone": "81 759 16 16",
+                "source": "https://www.facebook.com/glosswidnika/posts/592042037878302"
             }
         },
         {
@@ -52576,6 +52584,27 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587602721,
+            "lat": 53.8677314,
+            "lon": 21.2917882,
+            "timestamp": "2022-03-18T11:25:03Z",
+            "version": 2,
+            "changeset": 118628807,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W szatni boiska Orlik",
+                "defibrillator:location:en": "In the locker room of Orlik pitch",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Zespół Szkół Nr 4",
+                "source": "https://www.facebook.com/UrzadMiejskiMragowo/photos/pcb.4336120323110712/4336119033110841"
             }
         },
         {
