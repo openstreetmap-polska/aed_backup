@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T09:31:38Z",
+        "timestamp_osm_base": "2022-03-18T10:31:39Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24195,15 +24195,16 @@
             "id": 9450858618,
             "lat": 52.1411337,
             "lon": 21.0564111,
-            "timestamp": "2022-01-26T18:27:31Z",
-            "version": 1,
-            "changeset": 116633675,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-03-18T10:10:18Z",
+            "version": 2,
+            "changeset": 118626133,
+            "user": "mccartney436",
+            "uid": 6750593,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Natolin",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
