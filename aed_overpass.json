@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T11:31:36Z",
+        "timestamp_osm_base": "2022-03-18T12:31:27Z",
         "timestamp_areas_base": "2022-03-17T04:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52588,6 +52588,28 @@
         },
         {
             "type": "node",
+            "id": 9587574398,
+            "lat": 53.8654713,
+            "lon": 21.3049351,
+            "timestamp": "2022-03-18T11:31:43Z",
+            "version": 1,
+            "changeset": 118629060,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze, obok wyjścia oraz recepcji",
+                "defibrillator:location:en": "On the ground floor, next to exit and reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Mrągowskie Centrum Kultury",
+                "phone": "89 743 34 50",
+                "source": "https://www.facebook.com/UrzadMiejskiMragowo/photos/pcb.4336120323110712/4336119199777491"
+            }
+        },
+        {
+            "type": "node",
             "id": 9587602721,
             "lat": 53.8677314,
             "lon": 21.2917882,
@@ -52605,6 +52627,70 @@
                 "level": "0",
                 "operator": "Zespół Szkół Nr 4",
                 "source": "https://www.facebook.com/UrzadMiejskiMragowo/photos/pcb.4336120323110712/4336119033110841"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587607223,
+            "lat": 51.957714,
+            "lon": 16.1615673,
+            "timestamp": "2022-03-18T11:37:03Z",
+            "version": 1,
+            "changeset": 118629278,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej, obok bocznego wejśćia do szkoły",
+                "defibrillator:location:en": "On the outside wall, next to the side entrance",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkoła Podstawowa i Przedszkole Samorządowe z Oddziałem Integracyjnym w Kaszczorze",
+                "outdoor": "yes",
+                "phone": "667 707 034",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=437331701408963&id=100053964103712"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587672571,
+            "lat": 49.5585877,
+            "lon": 22.2098277,
+            "timestamp": "2022-03-18T12:12:19Z",
+            "version": 1,
+            "changeset": 118630459,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na północnej ścianie przychodni zdrowia",
+                "defibrillator:location:en": "On the north outside wall of the medical centre",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Samodzielny Publiczny Miejski Zespół Podstawowej Opieki Zdrowotnej w Sanoku",
+                "outdoor": "yes",
+                "phone": "13 306 70 70",
+                "source": "https://www.facebook.com/umsanok/posts/2434746596553691"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587686317,
+            "lat": 49.8457391,
+            "lon": 19.7150288,
+            "timestamp": "2022-03-18T12:26:23Z",
+            "version": 1,
+            "changeset": 118630901,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie, na prawo od wejścia do Sklepu Wiejskiego",
+                "defibrillator:location:en": "On the outside wall, on the right to the entracte to the shop",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/DobraGminaLanckorona/posts/626156351501142"
             }
         },
         {
