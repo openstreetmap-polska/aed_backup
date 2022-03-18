@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-18T14:31:11Z",
+        "timestamp_osm_base": "2022-03-18T15:32:09Z",
         "timestamp_areas_base": "2022-03-18T13:07:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52699,6 +52699,44 @@
                 "opening_hours": "24/7",
                 "outdoor": "yes",
                 "source": "https://www.facebook.com/DobraGminaLanckorona/posts/626156351501142"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587929748,
+            "lat": 52.4041487,
+            "lon": 16.9273582,
+            "timestamp": "2022-03-18T14:42:04Z",
+            "version": 1,
+            "changeset": 118635902,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sala obsługi klienta NFZ. AED dostępny w godzinach pracy placówki.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 8:00-16:00; Sa-Su off",
+                "operator": "Narodowy Fundusz Zdrowia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9587935528,
+            "lat": 52.4270669,
+            "lon": 20.7199739,
+            "timestamp": "2022-03-18T14:47:11Z",
+            "version": 1,
+            "changeset": 118636093,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Rejestarcja POZ- poradnia dla dorosłych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "W godzinach pracy placówki"
             }
         },
         {
