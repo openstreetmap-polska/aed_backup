@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T07:31:39Z",
-        "timestamp_areas_base": "2022-03-19T07:20:22Z",
+        "timestamp_osm_base": "2022-03-19T08:32:20Z",
+        "timestamp_areas_base": "2022-03-19T08:21:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11156,18 +11156,18 @@
             "id": 9412877917,
             "lat": 50.0373298,
             "lon": 22.0040005,
-            "timestamp": "2022-01-12T15:55:14Z",
-            "version": 2,
-            "changeset": 116072542,
-            "user": "Mentisekk",
-            "uid": 11267783,
+            "timestamp": "2022-03-19T08:01:28Z",
+            "version": 3,
+            "changeset": 118656628,
+            "user": "Josef73",
+            "uid": 213831,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Urząd Miasta Rzeszowa: parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "location": "indoor",
-                "opening_hours": "Mo-Tu 07:30–15:30; We 07:30–17:00; Th-Fr 07:30–15:30"
+                "opening_hours": "Mo,Tu,Th,Fr 07:30-15:30; We 07:30-17:00"
             }
         },
         {
@@ -11175,17 +11175,17 @@
             "id": 9412878917,
             "lat": 50.0386534,
             "lon": 22.0039524,
-            "timestamp": "2022-01-12T16:49:12Z",
-            "version": 3,
-            "changeset": 116074428,
-            "user": "Mentisekk",
-            "uid": 11267783,
+            "timestamp": "2022-03-19T08:03:03Z",
+            "version": 4,
+            "changeset": 118656657,
+            "user": "Josef73",
+            "uid": 213831,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Urząd Miasta Rzeszowa - Wydział Spraw Obywatelskich, Wydział Finansowy: parter",
                 "emergency": "defibrillator",
                 "location": "indoor",
-                "opening_hours": "Mo-Tu 07:30–15:30; We 07:30–17:00; Th-Fr 07:30–15:30"
+                "opening_hours": "Mo,Tu,Th,Fr 07:30-15:30; We 07:30-17:00"
             }
         },
         {
@@ -11281,17 +11281,17 @@
             "id": 9413237717,
             "lat": 50.0289159,
             "lon": 21.9816268,
-            "timestamp": "2022-01-12T16:49:12Z",
-            "version": 2,
-            "changeset": 116074428,
-            "user": "Mentisekk",
-            "uid": 11267783,
+            "timestamp": "2022-03-19T08:02:01Z",
+            "version": 3,
+            "changeset": 118656637,
+            "user": "Josef73",
+            "uid": 213831,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Wydział Gospodarki Komunalnej Urzędu Miasta Rzeszowa: parter",
                 "emergency": "defibrillator",
                 "location": "indoor",
-                "opening_hours": "Mo-Tu 07:30–15:30; We 07:30–17:00; Th-Fr 07:30–15:30"
+                "opening_hours": "Mo,Tu,Th,Fr 07:30-15:30; We 07:30-17:00"
             }
         },
         {
