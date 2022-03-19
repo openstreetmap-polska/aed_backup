@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T08:32:20Z",
-        "timestamp_areas_base": "2022-03-19T08:21:10Z",
+        "timestamp_osm_base": "2022-03-19T09:32:11Z",
+        "timestamp_areas_base": "2022-03-19T09:21:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52734,6 +52734,22 @@
                 "access": "private",
                 "defibrillator:location": "Stróżówka, dostęp 24/7 u strażnika",
                 "defibrillator:location:en": "Guard house, 24/7 access by guard",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9589393481,
+            "lat": 52.1681311,
+            "lon": 20.7875551,
+            "timestamp": "2022-03-19T08:41:51Z",
+            "version": 1,
+            "changeset": 118657534,
+            "user": "szejnerkarol",
+            "uid": 12510523,
+            "tags": {
+                "defibrillator:location": "Przy wejściu do szkoły",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
