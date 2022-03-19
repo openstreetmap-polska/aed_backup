@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T19:32:27Z",
-        "timestamp_areas_base": "2022-03-19T19:26:24Z",
+        "timestamp_osm_base": "2022-03-19T20:31:11Z",
+        "timestamp_areas_base": "2022-03-19T20:27:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52842,6 +52842,25 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "parking przed basenem, przy paczkomacie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590505420,
+            "lat": 53.1212182,
+            "lon": 23.1610909,
+            "timestamp": "2022-03-19T19:49:50Z",
+            "version": 1,
+            "changeset": 118677448,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na lewo od głównego wejścia do budynku lodowiska",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
