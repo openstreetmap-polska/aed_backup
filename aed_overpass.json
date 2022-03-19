@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T16:32:09Z",
-        "timestamp_areas_base": "2022-03-19T16:25:09Z",
+        "timestamp_osm_base": "2022-03-19T17:31:58Z",
+        "timestamp_areas_base": "2022-03-19T17:25:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1080,18 +1080,20 @@
         {
             "type": "node",
             "id": 5300533096,
-            "lat": 53.1339625,
-            "lon": 23.1724902,
-            "timestamp": "2020-11-22T23:30:10Z",
-            "version": 3,
-            "changeset": 94601973,
-            "user": "Krystek",
-            "uid": 64243,
+            "lat": 53.1339215,
+            "lon": 23.1724868,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 4,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "na prawo od schodów prowadzących do wejścia do Urzędu Miejskiego",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
@@ -1403,15 +1405,16 @@
             "id": 5812079503,
             "lat": 53.1352493,
             "lon": 23.1630505,
-            "timestamp": "2022-03-18T00:30:11Z",
-            "version": 2,
-            "changeset": 118615030,
-            "user": "Krystek",
-            "uid": 64243,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 3,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na prawo od wejścia do przejścia podziemnego",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku",
@@ -1423,15 +1426,18 @@
             "id": 5812087265,
             "lat": 53.1312977,
             "lon": 23.1701223,
-            "timestamp": "2022-03-06T21:46:03Z",
-            "version": 2,
-            "changeset": 118175619,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 3,
+            "changeset": 118672969,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "na ścianie budynku, na prawo od wejścia do Urzędu Miejskiego",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
@@ -1453,15 +1459,17 @@
             "id": 5814467844,
             "lat": 53.1267293,
             "lon": 23.1661788,
-            "timestamp": "2022-02-24T19:27:10Z",
-            "version": 4,
-            "changeset": 117824838,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 5,
+            "changeset": 118672969,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Park Planty, trawnik przy ławkach naprzeciwko fontanny",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -1750,14 +1758,16 @@
             "id": 6383408506,
             "lat": 53.1311934,
             "lon": 23.1567132,
-            "timestamp": "2022-03-18T00:35:14Z",
-            "version": 3,
-            "changeset": 118615083,
-            "user": "Krystek",
-            "uid": 64243,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 4,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "na ścianie budynku",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku",
@@ -2059,13 +2069,14 @@
             "id": 6880747966,
             "lat": 53.1364036,
             "lon": 23.1618042,
-            "timestamp": "2019-10-15T07:15:12Z",
-            "version": 1,
-            "changeset": 75701642,
-            "user": "6b17d8c50e264a46",
-            "uid": 3446358,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 2,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
@@ -4098,18 +4109,20 @@
         {
             "type": "node",
             "id": 8948536282,
-            "lat": 53.133887,
-            "lon": 23.1550484,
-            "timestamp": "2021-07-25T11:30:26Z",
-            "version": 1,
-            "changeset": 108561620,
-            "user": "backoriu",
-            "uid": 13771512,
+            "lat": 53.1338856,
+            "lon": 23.1550527,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 2,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na prawo od wejscia do przychodni, pod sciana",
+                "defibrillator:location": "Na prawo od wejścia do przychodni, pod ścianą",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
@@ -4209,13 +4222,14 @@
             "id": 8975800244,
             "lat": 53.1340422,
             "lon": 23.1457843,
-            "timestamp": "2021-08-20T07:43:53Z",
-            "version": 2,
-            "changeset": 109970762,
-            "user": "Czalaviek",
-            "uid": 2035788,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 3,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "przy ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "level": "0",
@@ -6723,16 +6737,19 @@
             "id": 9343982453,
             "lat": 53.1321486,
             "lon": 23.1665955,
-            "timestamp": "2021-12-16T15:20:46Z",
-            "version": 1,
-            "changeset": 115014249,
-            "user": "Krystek",
-            "uid": 64243,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 2,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "na ścianie budynku, na lewo od wejścia do muzeum",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku",
                 "wheelchair": "yes"
             }
         },
@@ -52560,17 +52577,18 @@
             "id": 9586723460,
             "lat": 53.122665,
             "lon": 23.1417848,
-            "timestamp": "2022-03-18T00:20:46Z",
-            "version": 1,
-            "changeset": 118614895,
-            "user": "Krystek",
-            "uid": 64243,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 2,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku",
                 "wheelchair": "yes"
             }
         },
@@ -52770,6 +52788,44 @@
                 "defibrillator:location:en": "On the outside wall facing the street",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590248034,
+            "lat": 53.1370189,
+            "lon": 23.1586167,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 1,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na lewo od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590248085,
+            "lat": 53.1321417,
+            "lon": 23.1386802,
+            "timestamp": "2022-03-19T17:09:44Z",
+            "version": 1,
+            "changeset": 118672969,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-16:00, Tu-Fr 07:30-15:30; PH off",
+                "operator": "Urząd Marszałkowski Województwa Podlaskiego",
+                "source": "http://www.bialystokonline.pl/w-bialymstoku-pojawil-sie-kolejny-defibrylator,artykul,109728,1,1.html"
             }
         },
         {
