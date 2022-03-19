@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T22:31:54Z",
-        "timestamp_areas_base": "2022-03-19T22:27:53Z",
+        "timestamp_osm_base": "2022-03-19T23:31:31Z",
+        "timestamp_areas_base": "2022-03-19T23:28:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52817,12 +52817,13 @@
             "id": 9590248085,
             "lat": 53.1321417,
             "lon": 23.1386802,
-            "timestamp": "2022-03-19T21:32:58Z",
-            "version": 2,
-            "changeset": 118679816,
+            "timestamp": "2022-03-19T22:41:36Z",
+            "version": 3,
+            "changeset": 118681332,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
+                "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -52886,6 +52887,43 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590924588,
+            "lat": 53.1148803,
+            "lon": 23.1292027,
+            "timestamp": "2022-03-19T22:48:32Z",
+            "version": 1,
+            "changeset": 118681462,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na lewo od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590925743,
+            "lat": 53.1327954,
+            "lon": 23.1474212,
+            "timestamp": "2022-03-19T22:41:36Z",
+            "version": 1,
+            "changeset": 118681332,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wyższa Szkoła Medyczna",
+                "source": "https://bia24.pl/kategorie/wiadomosci/automatyczny-defibrylator-na-uczelni.html"
             }
         },
         {
