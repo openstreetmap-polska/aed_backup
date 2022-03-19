@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-19T18:31:39Z",
-        "timestamp_areas_base": "2022-03-19T18:26:37Z",
+        "timestamp_osm_base": "2022-03-19T19:32:27Z",
+        "timestamp_areas_base": "2022-03-19T19:26:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52795,9 +52795,9 @@
             "id": 9590248034,
             "lat": 53.1370189,
             "lon": 23.1586167,
-            "timestamp": "2022-03-19T17:09:44Z",
-            "version": 1,
-            "changeset": 118672969,
+            "timestamp": "2022-03-19T19:30:21Z",
+            "version": 2,
+            "changeset": 118677017,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
@@ -52805,7 +52805,8 @@
                 "defibrillator:location": "na lewo od wejścia",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
@@ -52826,6 +52827,25 @@
                 "opening_hours": "Mo 08:00-16:00, Tu-Fr 07:30-15:30; PH off",
                 "operator": "Urząd Marszałkowski Województwa Podlaskiego",
                 "source": "http://www.bialystokonline.pl/w-bialymstoku-pojawil-sie-kolejny-defibrylator,artykul,109728,1,1.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9590457941,
+            "lat": 53.1302763,
+            "lon": 23.1083895,
+            "timestamp": "2022-03-19T19:30:21Z",
+            "version": 1,
+            "changeset": 118677017,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "parking przed basenem, przy paczkomacie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
