@@ -7,6 +7,7 @@ from time import sleep
 from typing import Any, Dict, Optional, Tuple
 from os import environ
 
+from osmcache import OsmCache
 from report import create_report_md, REPORT_DIR
 
 
@@ -125,6 +126,8 @@ def main():
     diff = overpass_diff(overpass_data)
     backup(overpass_data)
 
+    osm_cache = OsmCache()
+    osm_cache.update(overpass_data)
     if any(diff):
         logging.info('Generating report')
         generate_report(overpass_data)
