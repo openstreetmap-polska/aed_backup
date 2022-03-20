@@ -14,7 +14,7 @@ DPI = 300
 plt.rcParams['figure.figsize'] = (16, 8)
 pd.set_option('display.max_columns', None)
 
-current_datetime = datetime.now()
+current_datetime = datetime.utcnow()
 current_datetime_str = current_datetime.strftime(DATETIME_FORMAT)
 current_date = current_datetime.date()
 current_date_str = current_date.strftime(DATE_FORMAT)
