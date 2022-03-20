@@ -1,4 +1,5 @@
 import json
+import logging
 import requests
 import subprocess
 
@@ -28,7 +29,7 @@ def git_add(filename: str) -> None:
 
 def git_commit(msg: str) -> None:
     subprocess.run(['git', 'commit', '-m', f'{msg}'])
-    print(msg)
+    logging.info(msg)
 
 
 def git_push() -> None:
@@ -38,18 +39,21 @@ def git_push() -> None:
 def download_data() -> Optional[Dict[Any, Any]]:
     with open(QUERY_FILE, 'r') as f:
         query = f.read().strip()
-
+    logging.info(f'Read overpass query from file: {QUERY_FILE}')
+    logging.info(f'Downloading overpass data...')
     for _ in range(RETRIES):
         try:
             response = requests.get(OVERPASS_API_URL, params={'data': query})
             if response.status_code != 200:
-                print(f'Incorrect status code: {response.status_code}')
+                logging.warning(
+                    f'Incorrect status code: {response.status_code}'
+                )
                 continue
 
             return response.json()
 
         except Exception as e:
-            print(f'Error with downloading/parsing data: {e}')
+            logging.error(f'Error with downloading/parsing data: {e}')
 
         sleep(TIMEOUT)
 
@@ -71,7 +75,7 @@ def generate_report(overpass_result: Dict[Any, Any]) -> None:
         git_add(REPORT_DIR)
 
     except Exception as e:
-        print(f'Error with creating report: {e}')
+        logging.exception(f'Error with creating report: {e}')
 
 
 def overpass_diff(overpass_data: Dict[Any, Any]) -> Tuple[int, int, int]:
@@ -107,17 +111,31 @@ def overpass_diff(overpass_data: Dict[Any, Any]) -> Tuple[int, int, int]:
 
 
 def main():
+    logging.basicConfig(
+        format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+        datefmt='%Y-%m-%d,%H:%M:%S',
+        level=logging.INFO
+    )
     overpass_data = download_data()
     if overpass_data is None:
+        logging.info('Empty overpass data. Exiting!')
         exit(1)
 
+    logging.info(f'Downloaded overpass data.')
     diff = overpass_diff(overpass_data)
     backup(overpass_data)
 
     if any(diff):
+        logging.info('Generating report')
         generate_report(overpass_data)
+        logging.info('Generated report')
 
     if environ.get('PROD', None) not in ('true', '1'):
+        logging.warning(
+            'Development mode active. '
+            'Set environment variable PROD=1 to commit and push data. '
+            'Exiting!'
+        )
         exit(0)
 
     git_commit('{} (C: {}, M: {}, D: {})'.format(BACKUP_COMMIT_MSG, *diff))
