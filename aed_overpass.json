@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-21T17:31:30Z",
-        "timestamp_areas_base": "2022-03-21T16:47:51Z",
+        "timestamp_osm_base": "2022-03-21T18:31:18Z",
+        "timestamp_areas_base": "2022-03-21T17:48:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -23880,13 +23880,13 @@
         {
             "type": "node",
             "id": 9450166617,
-            "lat": 50.0739082,
-            "lon": 19.9085278,
-            "timestamp": "2022-01-30T11:44:35Z",
-            "version": 2,
-            "changeset": 116776231,
-            "user": "KramerAED",
-            "uid": 14794270,
+            "lat": 50.0738879,
+            "lon": 19.9085309,
+            "timestamp": "2022-03-21T18:28:06Z",
+            "version": 3,
+            "changeset": 118747638,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Portiernia Uniwersytetu Pedagogicznego",
@@ -24667,23 +24667,6 @@
                 "emergency:phone": "112",
                 "location": "indoor",
                 "phone": "+48 881081027"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9452443517,
-            "lat": 50.0738954,
-            "lon": 19.9085276,
-            "timestamp": "2022-01-27T10:42:41Z",
-            "version": 1,
-            "changeset": 116660177,
-            "user": "KramerAED",
-            "uid": 14794270,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Portiernia",
-                "emergency": "defibrillator",
-                "location": "indoor"
             }
         },
         {
