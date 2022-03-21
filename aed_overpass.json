@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-21T12:31:58Z",
+        "timestamp_osm_base": "2022-03-21T13:31:39Z",
         "timestamp_areas_base": "2022-03-21T10:44:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -479,6 +479,24 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Gdyńskie Centrum Zdrowia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2967320410,
+            "lat": 54.4721252,
+            "lon": 17.0313873,
+            "timestamp": "2022-03-21T12:46:11Z",
+            "version": 2,
+            "changeset": 118734942,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ściana frontowa głównego budynku Szkoły Policji, 20 m na lewo od głównego wejścia.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -52780,17 +52798,21 @@
             "id": 9590099117,
             "lat": 53.8449827,
             "lon": 18.0993232,
-            "timestamp": "2022-03-19T15:06:33Z",
-            "version": 1,
-            "changeset": 118668839,
+            "timestamp": "2022-03-21T13:26:58Z",
+            "version": 3,
+            "changeset": 118736543,
             "user": "Ryszard44",
             "uid": 2143399,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie zewnętrznej od strony ulicy",
                 "defibrillator:location:en": "On the outside wall facing the street",
+                "description": "Remiza OSP Czarna Woda\n83-262 Czarna Woda\nul. Mickiewicza 1",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "image": "https://commons.wikimedia.org/wiki/File:Defibrylator_Czarna_Woda.jpg",
+                "indoor": "no",
+                "opening_hours": "24/7, 00:00-24:00",
+                "operator": "Starostwo Powiatowe w Starogardzie Gdańskim"
             }
         },
         {
@@ -52944,6 +52966,24 @@
                 "indoor": "yes",
                 "operator": "OSP w Dłużynie Dolnej",
                 "website": "https://www.facebook.com/ospdluzyna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9594344446,
+            "lat": 54.4705191,
+            "lon": 17.0338419,
+            "timestamp": "2022-03-21T12:46:11Z",
+            "version": 1,
+            "changeset": 118734942,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Siedziba służby dyżurnej Szkoły Policji przy głównej bramie wjazdowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
             }
         },
         {
