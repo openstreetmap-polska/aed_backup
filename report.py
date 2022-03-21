@@ -84,7 +84,7 @@ def current_year_aed_scatter_plot(
     plt.savefig(filename, dpi=DPI)
 
     df_first_day_of_year = df_year.loc[df_year['date'] == first_day_of_year]
-    df_curr_date = df_date.loc[df_date['date'] == current_date]
+    df_curr_date = df_date.loc[df_date['date'] <= current_date]
 
     first_day_of_year_aed_total = df_first_day_of_year.iloc[0]['sum']
     current_date_aed_total = df_curr_date.iloc[0]['sum']
