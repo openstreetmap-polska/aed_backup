@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-21T08:31:54Z",
-        "timestamp_areas_base": "2022-03-21T07:43:09Z",
+        "timestamp_osm_base": "2022-03-21T09:31:39Z",
+        "timestamp_areas_base": "2022-03-21T08:44:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52924,6 +52924,26 @@
                 "indoor": "yes",
                 "operator": "Wyższa Szkoła Medyczna",
                 "source": "https://bia24.pl/kategorie/wiadomosci/automatyczny-defibrylator-na-uczelni.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9593872704,
+            "lat": 51.2382129,
+            "lon": 15.1079757,
+            "timestamp": "2022-03-21T08:49:27Z",
+            "version": 1,
+            "changeset": 118725062,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP w Dłużynie Dolnej",
+                "website": "https://www.facebook.com/ospdluzyna"
             }
         },
         {
