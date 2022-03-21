@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-21T14:31:23Z",
+        "timestamp_osm_base": "2022-03-21T15:32:09Z",
         "timestamp_areas_base": "2022-03-21T13:45:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52798,9 +52798,9 @@
             "id": 9590099117,
             "lat": 53.8449827,
             "lon": 18.0993232,
-            "timestamp": "2022-03-21T13:26:58Z",
-            "version": 3,
-            "changeset": 118736543,
+            "timestamp": "2022-03-21T15:03:19Z",
+            "version": 4,
+            "changeset": 118740211,
             "user": "Ryszard44",
             "uid": 2143399,
             "tags": {
@@ -52812,7 +52812,8 @@
                 "image": "https://commons.wikimedia.org/wiki/File:Defibrylator_Czarna_Woda.jpg",
                 "indoor": "no",
                 "opening_hours": "24/7, 00:00-24:00",
-                "operator": "Starostwo Powiatowe w Starogardzie Gdańskim"
+                "operator": "Starostwo Powiatowe w Starogardzie Gdańskim",
+                "telecom": "+48507446985"
             }
         },
         {
