@@ -3,7 +3,7 @@ import pandas as pd
 
 from datetime import datetime
 from os.path import join
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Tuple
 
 
 REPORT_DIR = 'report_data'
@@ -102,11 +102,28 @@ def current_year_aed_scatter_plot(
     }
 
 
-def top_editors(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
+def _get_creators_from_cache(
+    cache: Dict[str, Any],
+    tag: Tuple[str, str]
+) -> pd.DataFrame:
+    initial_objects = []
+    for obj_id, obj_versions in cache['objects'].items():
+        for obj in obj_versions:
+            if 'tags' not in obj:
+                continue
+
+            if tag[0] in obj['tags'] and obj['tags'][tag[0]] == tag[1]:
+                initial_objects.append(obj)
+                break
+
+    return pd.DataFrame(initial_objects)
+
+
+def top_creators(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
     OSM_USER_URL = 'https://www.openstreetmap.org/user/'
 
     df_users = df['user'].value_counts(sort=True).reset_index()
-    columns = ['User', 'Changesets']
+    columns = ['User', 'Created']
     df_users.columns = columns
     df_users['user_link'] = OSM_USER_URL + df_users['User'].astype(str)
 
@@ -125,7 +142,7 @@ def top_editors(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
         )
 
     return {
-        'heading': 'Top editors',
+        'heading': 'Top creators',
         'heading_level': 2,
         'content': '\n'.join(md_content_table)
     }
@@ -223,7 +240,7 @@ def simple_md_converter(data: List[Dict[str, Any]]) -> str:
     return '\n'.join(content)
 
 
-def create_report_md(overpass: Dict[Any, Any]) -> str:
+def create_report_md(overpass: Dict[Any, Any], cache: Dict[str, Any]) -> str:
     df = overpass_to_dataframe(overpass)
 
     # Initial data processing
@@ -248,7 +265,10 @@ def create_report_md(overpass: Dict[Any, Any]) -> str:
         total_aed_plot(df_date),
         current_year_aed_scatter_plot(df_date, current_date.year),
 
-        top_editors(df),
+        top_creators(_get_creators_from_cache(
+            cache,
+            ('emergency', 'defibrillator')
+         )),
 
         tag_access_pie(df),
         tag_access_details_pie(df),

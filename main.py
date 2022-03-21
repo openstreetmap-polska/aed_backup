@@ -66,9 +66,12 @@ def backup(overpass_result: Dict[Any, Any]) -> None:
     git_add(BACKUP_FILE)
 
 
-def generate_report(overpass_result: Dict[Any, Any]) -> None:
+def generate_report(
+    overpass_result: Dict[Any, Any],
+    cache: Dict[str, Any]
+) -> None:
     try:
-        md_content = create_report_md(overpass_result)
+        md_content = create_report_md(overpass_result, cache)
         with open(README_FILE, 'w') as f:
             f.write(md_content)
 
@@ -127,10 +130,10 @@ def main():
     backup(overpass_data)
 
     osm_cache = OsmCache()
-    osm_cache.update(overpass_data)
+    cache = osm_cache.update(overpass_data)
     if any(diff):
         logging.info('Generating report')
-        generate_report(overpass_data)
+        generate_report(overpass_data, cache)
         logging.info('Generated report')
 
     if environ.get('PROD', None) not in ('true', '1'):
