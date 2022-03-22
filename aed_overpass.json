@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-22T18:31:54Z",
+        "timestamp_osm_base": "2022-03-22T19:31:43Z",
         "timestamp_areas_base": "2022-03-22T12:58:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53009,6 +53009,22 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Biblioteka Uniwersytecka w Warszawie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9598011917,
+            "lat": 51.2393075,
+            "lon": 22.5240611,
+            "timestamp": "2022-03-22T18:44:17Z",
+            "version": 1,
+            "changeset": 118790322,
+            "user": "Radkitt",
+            "uid": 605093,
+            "tags": {
+                "defibrillator:location": "Media Markt",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
