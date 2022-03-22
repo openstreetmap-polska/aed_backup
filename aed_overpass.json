@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-22T14:31:24Z",
+        "timestamp_osm_base": "2022-03-22T15:32:09Z",
         "timestamp_areas_base": "2022-03-22T12:58:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24337,15 +24337,16 @@
             "id": 9450867886,
             "lat": 52.2331536,
             "lon": 20.9982371,
-            "timestamp": "2022-01-26T18:44:48Z",
-            "version": 1,
-            "changeset": 116634260,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-03-22T14:36:42Z",
+            "version": 2,
+            "changeset": 118781546,
+            "user": "Tetryk",
+            "uid": 13505870,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Rondo ONZ",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -52990,6 +52991,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 61 829 61 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9597542508,
+            "lat": 52.2426372,
+            "lon": 21.0242416,
+            "timestamp": "2022-03-22T14:44:16Z",
+            "version": 1,
+            "changeset": 118781846,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "location",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Biblioteka Uniwersytecka w Warszawie"
             }
         },
         {
