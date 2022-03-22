@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-22T09:31:39Z",
-        "timestamp_areas_base": "2022-03-22T07:55:15Z",
+        "timestamp_osm_base": "2022-03-22T10:32:09Z",
+        "timestamp_areas_base": "2022-03-22T09:56:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10887,16 +10887,18 @@
             "id": 9411278117,
             "lat": 51.8607259,
             "lon": 19.3889388,
-            "timestamp": "2022-01-11T21:18:08Z",
-            "version": 1,
-            "changeset": 116041481,
-            "user": "szefio",
-            "uid": 6550192,
+            "timestamp": "2022-03-22T10:00:23Z",
+            "version": 2,
+            "changeset": 118771353,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W budynku",
+                "defibrillator:location": "Na Pływalni",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "indoor": "yes",
+                "location": "indoor",
+                "operator": "MOSiR Zgierz"
             }
         },
         {
@@ -52949,6 +52951,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9596941300,
+            "lat": 51.2951255,
+            "lon": 16.9325119,
+            "timestamp": "2022-03-22T09:58:23Z",
+            "version": 1,
+            "changeset": 118771264,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Tauron",
+                "phone": "32 606 0 606"
             }
         },
         {
