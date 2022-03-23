@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-23T14:31:55Z",
+        "timestamp_osm_base": "2022-03-23T15:31:46Z",
         "timestamp_areas_base": "2022-03-23T13:11:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53178,6 +53178,22 @@
                 "defibrillator:location": "W budynku u obsługi Orlika",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9600002430,
+            "lat": 54.5255782,
+            "lon": 17.7469452,
+            "timestamp": "2022-03-23T15:25:01Z",
+            "version": 1,
+            "changeset": 118826496,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "na lewo od szatni",
+                "emergency": "defibrillator",
+                "opening_hours": "06:00-22:00"
             }
         },
         {
