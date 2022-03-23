@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-23T12:31:55Z",
-        "timestamp_areas_base": "2022-03-23T08:08:40Z",
+        "timestamp_osm_base": "2022-03-23T13:31:58Z",
+        "timestamp_areas_base": "2022-03-23T13:11:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53040,6 +53040,142 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "przy kasie biletowej Akwarium; poza godzinami zwiedzania wejście przez portiernię od tyłu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599770217,
+            "lat": 52.4647232,
+            "lon": 16.9832674,
+            "timestamp": "2022-03-23T13:15:50Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599770817,
+            "lat": 52.4720659,
+            "lon": 16.9885604,
+            "timestamp": "2022-03-23T13:16:44Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt informacyjny",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599775617,
+            "lat": 52.4492868,
+            "lon": 16.9987362,
+            "timestamp": "2022-03-23T13:18:52Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie przedszkola",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599777217,
+            "lat": 52.4515333,
+            "lon": 16.9933398,
+            "timestamp": "2022-03-23T13:19:51Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599779117,
+            "lat": 52.4480803,
+            "lon": 16.9986563,
+            "timestamp": "2022-03-23T13:20:25Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599780417,
+            "lat": 52.4722016,
+            "lon": 16.9878461,
+            "timestamp": "2022-03-23T13:21:37Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w korytarzu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599784517,
+            "lat": 52.5168373,
+            "lon": 16.9747019,
+            "timestamp": "2022-03-23T13:22:35Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599787517,
+            "lat": 52.4576607,
+            "lon": 16.9966322,
+            "timestamp": "2022-03-23T13:23:51Z",
+            "version": 1,
+            "changeset": 118821290,
+            "user": "Samratmed",
+            "uid": 15390465,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku u obsługi Orlika",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
