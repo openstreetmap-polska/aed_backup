@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-23T16:31:44Z",
-        "timestamp_areas_base": "2022-03-23T16:13:29Z",
+        "timestamp_osm_base": "2022-03-23T17:31:31Z",
+        "timestamp_areas_base": "2022-03-23T17:15:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -37514,13 +37514,13 @@
             "id": 9505993377,
             "lat": 49.9791775,
             "lon": 19.1969719,
-            "timestamp": "2022-03-23T10:16:08Z",
-            "version": 2,
-            "changeset": 118812951,
-            "user": "OSP Skidzin",
-            "uid": 15388648,
+            "timestamp": "2022-03-23T16:59:02Z",
+            "version": 3,
+            "changeset": 118830197,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
-                "access": "private",
+                "access": "yes",
                 "defibrillator:location": "Kapsuła AED na budynku",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
