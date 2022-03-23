@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-23T10:32:22Z",
+        "timestamp_osm_base": "2022-03-23T11:32:13Z",
         "timestamp_areas_base": "2022-03-23T08:08:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53023,6 +53023,23 @@
             "uid": 605093,
             "tags": {
                 "defibrillator:location": "Media Markt",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9599427217,
+            "lat": 54.518383,
+            "lon": 18.5576896,
+            "timestamp": "2022-03-23T10:46:33Z",
+            "version": 1,
+            "changeset": 118814361,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy kasie biletowej Akwarium; poza godzinami zwiedzania wejście przez portiernię od tyłu",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
