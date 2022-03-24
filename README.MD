@@ -1,22 +1,22 @@
-# AED backup and stats (2022-03-24 12:33:07)
+# AED backup and stats (2022-03-24 13:33:07)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 2942
+Total AED: 2955
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2022-01-01: 399\
-Average daily growth since beginning of the year: 31.90
+AED for 2022-01-01: 398\
+Average daily growth since beginning of the year: 32.06
 
 ## Top creators
 | # | User | Created |
 | ------------- | ------------- | ------------- |
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 710 |
-| 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 306 |
-| 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 301 |
-| 4 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 220 |
+| 2 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 308 |
+| 3 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 306 |
+| 4 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 226 |
 | 5 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 135 |
 | 6 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 123 |
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
