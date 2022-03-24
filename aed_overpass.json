@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-24T12:31:37Z",
+        "timestamp_osm_base": "2022-03-24T13:31:24Z",
         "timestamp_areas_base": "2022-03-24T11:24:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9022,17 +9022,19 @@
             "id": 9384000948,
             "lat": 50.2975304,
             "lon": 18.6615271,
-            "timestamp": "2022-01-01T17:44:30Z",
-            "version": 1,
-            "changeset": 115645503,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-03-24T12:37:28Z",
+            "version": 2,
+            "changeset": 118863289,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Komenda Miejska Policji w Gliwicach",
+                "phone": "+48 47 859 22 00"
             }
         },
         {
@@ -53531,6 +53533,245 @@
                 "operator": "Tauron",
                 "phone": "32 606 0 606",
                 "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603135905,
+            "lat": 50.0472557,
+            "lon": 18.5638839,
+            "timestamp": "2022-03-24T12:38:19Z",
+            "version": 1,
+            "changeset": 118863323,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Jankowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603145013,
+            "lat": 51.2196118,
+            "lon": 18.5749874,
+            "timestamp": "2022-03-24T12:33:54Z",
+            "version": 1,
+            "changeset": 118863179,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na wyposażeniu jednostki OSP Wieluń.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Wieluń"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603146554,
+            "lat": 51.3513639,
+            "lon": 18.8204372,
+            "timestamp": "2022-03-24T12:37:42Z",
+            "version": 1,
+            "changeset": 118863298,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Dwór w Konopnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603147090,
+            "lat": 51.6172937,
+            "lon": 19.5145237,
+            "timestamp": "2022-03-24T12:32:03Z",
+            "version": 1,
+            "changeset": 118863104,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Tuszyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603161008,
+            "lat": 53.1510021,
+            "lon": 18.9000627,
+            "timestamp": "2022-03-24T12:35:57Z",
+            "version": 1,
+            "changeset": 118863242,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Pływalnia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603181442,
+            "lat": 51.223451,
+            "lon": 18.5693426,
+            "timestamp": "2022-03-24T12:40:43Z",
+            "version": 1,
+            "changeset": 118863427,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego JRG Wieluń.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Jednostka Ratowniczo-Gaśnicza PSP w Wieluniu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603216339,
+            "lat": 49.9752583,
+            "lon": 20.4212451,
+            "timestamp": "2022-03-24T13:06:37Z",
+            "version": 1,
+            "changeset": 118864423,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron Dysrybucja S.A.",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603217815,
+            "lat": 50.5122189,
+            "lon": 18.2941782,
+            "timestamp": "2022-03-24T13:02:49Z",
+            "version": 1,
+            "changeset": 118864277,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603238179,
+            "lat": 50.3432814,
+            "lon": 18.1445673,
+            "timestamp": "2022-03-24T13:04:49Z",
+            "version": 1,
+            "changeset": 118864345,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603238197,
+            "lat": 49.6167074,
+            "lon": 20.6911853,
+            "timestamp": "2022-03-24T13:08:51Z",
+            "version": 1,
+            "changeset": 118864515,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron Dysrybucja S.A.",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603245869,
+            "lat": 49.7180926,
+            "lon": 20.4126272,
+            "timestamp": "2022-03-24T13:09:51Z",
+            "version": 1,
+            "changeset": 118864548,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron Dysrybucja S.A.",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603245870,
+            "lat": 49.4822811,
+            "lon": 20.0239375,
+            "timestamp": "2022-03-24T13:11:15Z",
+            "version": 1,
+            "changeset": 118864599,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron Dysrybucja S.A.",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603258151,
+            "lat": 52.0679773,
+            "lon": 20.4466215,
+            "timestamp": "2022-03-24T13:21:06Z",
+            "version": 1,
+            "changeset": 118864993,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W kompleksie sportowym AQUA Żyrardów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:45-22:00",
+                "operator": "Aqua Żyrardów",
+                "phone": "46 854 16 46",
+                "source": "https://www.facebook.com/AquaZyrardow/posts/2607609942592613"
             }
         },
         {
