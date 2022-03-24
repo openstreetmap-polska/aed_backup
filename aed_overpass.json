@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-24T11:31:52Z",
+        "timestamp_osm_base": "2022-03-24T12:31:37Z",
         "timestamp_areas_base": "2022-03-24T11:24:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53215,6 +53215,322 @@
                 "opening_hours": "24/7",
                 "operator": "OSW Bażyna",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603086319,
+            "lat": 51.3912044,
+            "lon": 16.2877491,
+            "timestamp": "2022-03-24T12:02:59Z",
+            "version": 1,
+            "changeset": 118861781,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603086469,
+            "lat": 51.1660947,
+            "lon": 16.5898999,
+            "timestamp": "2022-03-24T12:00:54Z",
+            "version": 1,
+            "changeset": 118861691,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603086773,
+            "lat": 51.6684481,
+            "lon": 16.0877636,
+            "timestamp": "2022-03-24T12:06:19Z",
+            "version": 1,
+            "changeset": 118861900,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603087141,
+            "lat": 51.3795808,
+            "lon": 16.1943144,
+            "timestamp": "2022-03-24T12:04:38Z",
+            "version": 1,
+            "changeset": 118861838,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603087411,
+            "lat": 49.6016345,
+            "lon": 20.8828763,
+            "timestamp": "2022-03-24T12:29:19Z",
+            "version": 1,
+            "changeset": 118862989,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ptaszkowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603088228,
+            "lat": 51.1973661,
+            "lon": 17.391175,
+            "timestamp": "2022-03-24T11:59:14Z",
+            "version": 1,
+            "changeset": 118861620,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603093015,
+            "lat": 50.7834042,
+            "lon": 17.0516288,
+            "timestamp": "2022-03-24T12:20:32Z",
+            "version": 1,
+            "changeset": 118862562,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603094156,
+            "lat": 50.9004752,
+            "lon": 15.7503015,
+            "timestamp": "2022-03-24T12:20:07Z",
+            "version": 1,
+            "changeset": 118862539,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603096581,
+            "lat": 51.2480322,
+            "lon": 15.5616081,
+            "timestamp": "2022-03-24T12:07:53Z",
+            "version": 1,
+            "changeset": 118861964,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603098851,
+            "lat": 50.4821592,
+            "lon": 17.3375201,
+            "timestamp": "2022-03-24T12:22:55Z",
+            "version": 1,
+            "changeset": 118862665,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603103307,
+            "lat": 50.4438308,
+            "lon": 16.6365704,
+            "timestamp": "2022-03-24T12:15:49Z",
+            "version": 1,
+            "changeset": 118862334,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603104417,
+            "lat": 51.2702055,
+            "lon": 15.9252003,
+            "timestamp": "2022-03-24T12:09:04Z",
+            "version": 1,
+            "changeset": 118862018,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603106543,
+            "lat": 51.1088706,
+            "lon": 15.2886879,
+            "timestamp": "2022-03-24T12:11:07Z",
+            "version": 1,
+            "changeset": 118862116,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603108242,
+            "lat": 50.7243858,
+            "lon": 16.6301063,
+            "timestamp": "2022-03-24T12:15:02Z",
+            "version": 1,
+            "changeset": 118862295,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603128444,
+            "lat": 50.901908,
+            "lon": 15.7710618,
+            "timestamp": "2022-03-24T12:19:12Z",
+            "version": 1,
+            "changeset": 118862489,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603132916,
+            "lat": 50.9776406,
+            "lon": 18.2022187,
+            "timestamp": "2022-03-24T12:24:36Z",
+            "version": 1,
+            "changeset": 118862755,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Tauronu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Tauron",
+                "phone": "32 606 0 606",
+                "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
             }
         },
         {
