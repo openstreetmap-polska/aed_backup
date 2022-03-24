@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-24T19:31:18Z",
+        "timestamp_osm_base": "2022-03-24T20:31:05Z",
         "timestamp_areas_base": "2022-03-24T18:30:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53779,17 +53779,18 @@
             "id": 9603569917,
             "lat": 51.4045581,
             "lon": 21.1651985,
-            "timestamp": "2022-03-24T15:44:24Z",
-            "version": 1,
-            "changeset": 118870496,
-            "user": "spawlowski",
-            "uid": 2811451,
+            "timestamp": "2022-03-24T20:04:37Z",
+            "version": 2,
+            "changeset": 118880966,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Portiernia szkoły muzycznej",
                 "defibrillator:location:en": "Concierge of the Music School",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Zespół Szkół Muzycznych im. Oskara Kolberga",
                 "phone": "48 362 76 83"
             }
         },
