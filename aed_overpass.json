@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-24T21:31:55Z",
+        "timestamp_osm_base": "2022-03-24T22:31:48Z",
         "timestamp_areas_base": "2022-03-24T18:30:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53811,6 +53811,24 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "+48 44 648 03 55",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9604307117,
+            "lat": 54.3937375,
+            "lon": 18.3962243,
+            "timestamp": "2022-03-24T21:55:04Z",
+            "version": 2,
+            "changeset": 118884403,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy House Barbershop",
+                "defibrillator:location:en": "Next to House Barbershop",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
