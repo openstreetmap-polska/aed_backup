@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-24T15:32:05Z",
-        "timestamp_areas_base": "2022-03-24T11:24:43Z",
+        "timestamp_osm_base": "2022-03-24T16:30:56Z",
+        "timestamp_areas_base": "2022-03-24T16:27:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53772,6 +53772,25 @@
                 "operator": "Aqua Żyrardów",
                 "phone": "46 854 16 46",
                 "source": "https://www.facebook.com/AquaZyrardow/posts/2607609942592613"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9603569917,
+            "lat": 51.4045581,
+            "lon": 21.1651985,
+            "timestamp": "2022-03-24T15:44:24Z",
+            "version": 1,
+            "changeset": 118870496,
+            "user": "spawlowski",
+            "uid": 2811451,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia szkoły muzycznej",
+                "defibrillator:location:en": "Concierge of the Music School",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "48 362 76 83"
             }
         },
         {
