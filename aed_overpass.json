@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-25T12:31:56Z",
-        "timestamp_areas_base": "2022-03-25T11:40:00Z",
+        "timestamp_osm_base": "2022-03-25T13:31:54Z",
+        "timestamp_areas_base": "2022-03-25T12:40:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2712,14 +2712,17 @@
             "id": 7277213717,
             "lat": 54.520795,
             "lon": 18.5463799,
-            "timestamp": "2020-03-08T16:36:16Z",
-            "version": 1,
-            "changeset": 81927711,
+            "timestamp": "2022-03-25T13:16:26Z",
+            "version": 2,
+            "changeset": 118909867,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "na prawo od wejścia do IMGW",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
