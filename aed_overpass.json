@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T17:31:26Z",
-        "timestamp_areas_base": "2022-03-26T14:55:42Z",
+        "timestamp_osm_base": "2022-03-26T18:31:18Z",
+        "timestamp_areas_base": "2022-03-26T17:57:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53989,6 +53989,23 @@
         },
         {
             "type": "node",
+            "id": 9609330488,
+            "lat": 51.9868135,
+            "lon": 17.0629856,
+            "timestamp": "2022-03-26T17:52:28Z",
+            "version": 1,
+            "changeset": 118957170,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Dolsk",
+                "phone": "+48 693 386 458"
+            }
+        },
+        {
+            "type": "node",
             "id": 9609340836,
             "lat": 52.5309613,
             "lon": 17.6023903,
@@ -54087,6 +54104,236 @@
                 "opening_hours": "24/7",
                 "operator": "Zespół Szkół Publicznych w Taczanowie Drugim",
                 "phone": "+48 627 419 106"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609411733,
+            "lat": 51.9078121,
+            "lon": 17.832161,
+            "timestamp": "2022-03-26T17:35:09Z",
+            "version": 1,
+            "changeset": 118956651,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do szkoły",
+                "defibrillator:location:en": "On the wall at the entrance to the school",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkół Publicznych w Lenartowicach",
+                "phone": "+48 627 428 478"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609424729,
+            "lat": 52.131556,
+            "lon": 16.2695575,
+            "timestamp": "2022-03-26T17:42:15Z",
+            "version": 1,
+            "changeset": 118956869,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu Urzędu Miejskiego",
+                "defibrillator:location:en": "In the hall of the City Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "phone": "+48 61 29 365 39"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609430319,
+            "lat": 49.9029317,
+            "lon": 19.4854705,
+            "timestamp": "2022-03-26T17:49:12Z",
+            "version": 1,
+            "changeset": 118957087,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Tomice",
+                "phone": "+48 600 279 424;+48 608 434 778;+48 531 551 630"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609430908,
+            "lat": 51.8886921,
+            "lon": 17.7842985,
+            "timestamp": "2022-03-26T17:57:23Z",
+            "version": 1,
+            "changeset": 118957302,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W portierni Domu Pomocy Społecznej",
+                "defibrillator:location:en": "At the gatehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Dom Pomocy Społecznej w Pleszewie",
+                "phone": "+48 627 421 103"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609431783,
+            "lat": 51.8733095,
+            "lon": 17.6654744,
+            "timestamp": "2022-03-26T17:59:50Z",
+            "version": 1,
+            "changeset": 118957374,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W gabinecie pielęgniarek",
+                "defibrillator:location:en": "In the nurses office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Dom Pomocy Społecznej w Pleszewie",
+                "phone": "+48 627 421 103"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609438642,
+            "lat": 51.6353073,
+            "lon": 17.9604265,
+            "timestamp": "2022-03-26T18:22:50Z",
+            "version": 1,
+            "changeset": 118958152,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Sieroszewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609440231,
+            "lat": 52.1539565,
+            "lon": 18.0520022,
+            "timestamp": "2022-03-26T18:09:41Z",
+            "version": 1,
+            "changeset": 118957725,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy MAN",
+                "defibrillator:location:en": "Firetruck MAN",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Rzgów",
+                "phone": "+48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609440232,
+            "lat": 52.1860251,
+            "lon": 18.1094273,
+            "timestamp": "2022-03-26T18:11:31Z",
+            "version": 1,
+            "changeset": 118957777,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy MAN",
+                "defibrillator:location:en": "Firetruck MAN",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Osiecza Pierwsza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609457344,
+            "lat": 51.633633,
+            "lon": 18.0614673,
+            "timestamp": "2022-03-26T18:21:52Z",
+            "version": 1,
+            "changeset": 118958119,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Ołobok"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609479771,
+            "lat": 51.6062334,
+            "lon": 18.0632767,
+            "timestamp": "2022-03-26T18:18:58Z",
+            "version": 1,
+            "changeset": 118958020,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Masanów",
+                "phone": "+48 781 944 987"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609497834,
+            "lat": 51.5976697,
+            "lon": 18.0860957,
+            "timestamp": "2022-03-26T18:24:41Z",
+            "version": 1,
+            "changeset": 118958217,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Wielowieś"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609503180,
+            "lat": 51.631627,
+            "lon": 18.0141026,
+            "timestamp": "2022-03-26T18:26:18Z",
+            "version": 1,
+            "changeset": 118958260,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Rososzyca"
             }
         },
         {
