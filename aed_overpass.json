@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T09:32:03Z",
-        "timestamp_areas_base": "2022-03-26T07:51:13Z",
+        "timestamp_osm_base": "2022-03-26T10:31:54Z",
+        "timestamp_areas_base": "2022-03-26T09:52:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53830,6 +53830,118 @@
                 "access": "yes",
                 "defibrillator:location": "Przy House Barbershop",
                 "defibrillator:location:en": "Next to House Barbershop",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608383379,
+            "lat": 52.2392393,
+            "lon": 21.0198176,
+            "timestamp": "2022-03-26T09:54:13Z",
+            "version": 1,
+            "changeset": 118940359,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Domu Kupców - Instytucie Studiów Iberyjskich",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Warszawski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608383380,
+            "lat": 52.2401872,
+            "lon": 21.0199722,
+            "timestamp": "2022-03-26T09:54:13Z",
+            "version": 1,
+            "changeset": 118940359,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Wydziale Orientalistycznym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Warszawski",
+                "phone": "22 826 36 83"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608383403,
+            "lat": 52.2403493,
+            "lon": 21.0191843,
+            "timestamp": "2022-03-26T09:54:13Z",
+            "version": 1,
+            "changeset": 118940359,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W dawnym gmachu Biblioteki Uniwersyteckiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Warszawski",
+                "phone": "+48 22 5521305"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608383404,
+            "lat": 52.2403765,
+            "lon": 21.0169587,
+            "timestamp": "2022-03-26T09:54:13Z",
+            "version": 1,
+            "changeset": 118940359,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Pałacu Tyszkiewiczów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Muzeum Uniwersytetu Warszawskiego",
+                "phone": "22 55 20 107"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608383405,
+            "lat": 52.2401546,
+            "lon": 21.0174768,
+            "timestamp": "2022-03-26T09:54:13Z",
+            "version": 1,
+            "changeset": 118940359,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Wydziale Geografii i Studiów Regionalnych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Warszawski",
+                "phone": "+48 22 5520631"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9608385817,
+            "lat": 50.0538847,
+            "lon": 21.4656009,
+            "timestamp": "2022-03-26T09:48:48Z",
+            "version": 1,
+            "changeset": 118940221,
+            "user": "Bartosiu",
+            "uid": 15413449,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku.",
+                "defibrillator:location:en": "On the wall near entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
