@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T16:31:49Z",
+        "timestamp_osm_base": "2022-03-26T17:31:26Z",
         "timestamp_areas_base": "2022-03-26T14:55:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53944,6 +53944,149 @@
                 "defibrillator:location:en": "On the wall near entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609276750,
+            "lat": 51.1805134,
+            "lon": 18.1442434,
+            "timestamp": "2022-03-26T17:03:31Z",
+            "version": 1,
+            "changeset": 118955573,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej budynku",
+                "defibrillator:location:en": "On the front wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "phone": "+48 693 281 360"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609291103,
+            "lat": 51.2130612,
+            "lon": 18.1008281,
+            "timestamp": "2022-03-26T17:01:31Z",
+            "version": 1,
+            "changeset": 118955505,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku",
+                "defibrillator:location:en": "On the wall of the building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Łęce Opatowskiej",
+                "phone": "+48 791 739 398"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609340836,
+            "lat": 52.5309613,
+            "lon": 17.6023903,
+            "timestamp": "2022-03-26T17:15:03Z",
+            "version": 1,
+            "changeset": 118955973,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Miejskim po lewej stronie na ścianie przy Biurze Obsługi Interesanta",
+                "defibrillator:location:en": "In the City Hall, on the left side, on the wall, next to the Customer Service Office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-17:30; Tu-Fr 07:00-15:30",
+                "operator": "Urząd Miejski w Gnieźnie",
+                "phone": "+48 61 426 04 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609343650,
+            "lat": 51.2135298,
+            "lon": 18.14673,
+            "timestamp": "2022-03-26T17:10:16Z",
+            "version": 1,
+            "changeset": 118955795,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Opatów",
+                "phone": "+48 661 265 245"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609377540,
+            "lat": 51.8957387,
+            "lon": 17.7864889,
+            "timestamp": "2022-03-26T17:22:36Z",
+            "version": 1,
+            "changeset": 118956206,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Miasta na parterze",
+                "defibrillator:location:en": "At the City Hall on the ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-19:00",
+                "operator": "Urząd Miasta i Gminy Pleszew",
+                "phone": "+48 627 428 313"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609377820,
+            "lat": 52.5303456,
+            "lon": 17.6048282,
+            "timestamp": "2022-03-26T17:19:50Z",
+            "version": 1,
+            "changeset": 118956131,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Zintegrowanego Centrum Przesiadkowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-17:30",
+                "operator": "Urząd Miejski w Gnieźnie",
+                "phone": "+48 502 496 562"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609387652,
+            "lat": 51.8437695,
+            "lon": 17.7592611,
+            "timestamp": "2022-03-26T17:29:12Z",
+            "version": 1,
+            "changeset": 118956457,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do szkoły",
+                "defibrillator:location:en": "On the wall at the entrance to the school",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkół Publicznych w Taczanowie Drugim",
+                "phone": "+48 627 419 106"
             }
         },
         {
