@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T18:31:18Z",
+        "timestamp_osm_base": "2022-03-26T19:32:06Z",
         "timestamp_areas_base": "2022-03-26T17:57:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -54302,6 +54302,27 @@
         },
         {
             "type": "node",
+            "id": 9609484002,
+            "lat": 54.25822,
+            "lon": 16.0550863,
+            "timestamp": "2022-03-26T18:39:06Z",
+            "version": 1,
+            "changeset": 118958623,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W sekretariacie na II piętrze",
+                "defibrillator:location:en": "In the secretary's office on the second floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-We 07:15-15:15; Th 07:15-16:15; Fr 08:15-15:15",
+                "operator": "Urząd Miejski w Mielnie",
+                "phone": "+48 94 345 98 30"
+            }
+        },
+        {
+            "type": "node",
             "id": 9609497834,
             "lat": 51.5976697,
             "lon": 18.0860957,
@@ -54334,6 +54355,329 @@
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna Rososzyca"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609503557,
+            "lat": 53.6659656,
+            "lon": 15.445568,
+            "timestamp": "2022-03-26T18:33:00Z",
+            "version": 1,
+            "changeset": 118958457,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Radowo Małe",
+                "phone": "+48 609 643 018"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609511745,
+            "lat": 54.2274025,
+            "lon": 16.2926175,
+            "timestamp": "2022-03-26T18:50:50Z",
+            "version": 1,
+            "changeset": 118958898,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie głównego wejścia do urzędu przy tablicy ogłoszeń",
+                "defibrillator:location:en": "On the wall on the right side of the main entrance to the office, next to the notice board",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy i Miasta w Sianowie",
+                "phone": "+48 943 469 528"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609513939,
+            "lat": 54.2581939,
+            "lon": 16.0551818,
+            "timestamp": "2022-03-26T18:40:14Z",
+            "version": 1,
+            "changeset": 118958644,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pomieszczeniu straży miejskiej",
+                "defibrillator:location:en": "In the city guard room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-We 07:15-15:15; Th 07:15-16:15; Fr 08:15-15:15",
+                "operator": "Urząd Miejski w Mielnie",
+                "phone": "+48 94 345 98 30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609526643,
+            "lat": 54.2256352,
+            "lon": 16.2937888,
+            "timestamp": "2022-03-26T19:00:29Z",
+            "version": 1,
+            "changeset": 118959150,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku szkoły - główne wejście od strony ul. Piastów, na ścianie przy wejściu na halę sportową",
+                "defibrillator:location:en": "In the school building - the main entrance from ul. Piastów, on the wall at the entrance to the sports hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-21:00",
+                "operator": "Zespół Administracyjnej Obsługi Oświaty w Sianowie",
+                "phone": "+48 943 185 242"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609527459,
+            "lat": 54.2262527,
+            "lon": 16.2981949,
+            "timestamp": "2022-03-26T18:45:01Z",
+            "version": 1,
+            "changeset": 118958752,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie głównego wejścia do przychodni zdrowia",
+                "defibrillator:location:en": "On the wall to the right of the main entrance to the clinic",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejsko-Gminny Ośrodek Pomocy Społecznej w Sianowie",
+                "phone": "+48 943 185 512"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609527460,
+            "lat": 54.1957724,
+            "lon": 16.3572584,
+            "timestamp": "2022-03-26T18:47:52Z",
+            "version": 1,
+            "changeset": 118958835,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej budynku filii biblioteki",
+                "defibrillator:location:en": "On the front wall of the library building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejsko-Gminny Ośrodek Pomocy Społecznej w Sianowie",
+                "phone": "+48 943 185 512"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609527629,
+            "lat": 54.2225228,
+            "lon": 16.2944708,
+            "timestamp": "2022-03-26T18:43:05Z",
+            "version": 1,
+            "changeset": 118958716,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie kabiny komentatorskiej na trybunach Stadionu Miejskiego",
+                "defibrillator:location:en": "On the wall of the commentator's booth in the stands of the Municipal Stadium",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gminny Zakład Komunalny w Sianowie",
+                "phone": "+48 943 185 357"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609527909,
+            "lat": 54.2268161,
+            "lon": 16.2923908,
+            "timestamp": "2022-03-26T18:54:12Z",
+            "version": 1,
+            "changeset": 118958975,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Dziennego Domu Senior+, wchodząc głównym wejściem od ul. Armii Polskiej, w korytarzu po lewej stronie (za wejściem do sali ćwiczeń)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:30",
+                "operator": "Miejsko-Gminny Ośrodek Pomocy Społecznej w Sianowie",
+                "phone": "+48 943 185 512"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609528683,
+            "lat": 54.2252073,
+            "lon": 16.2929525,
+            "timestamp": "2022-03-26T19:05:35Z",
+            "version": 1,
+            "changeset": 118959277,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Sianów",
+                "phone": "+48 943 185 110"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609528684,
+            "lat": 51.7992598,
+            "lon": 18.336453,
+            "timestamp": "2022-03-26T19:10:17Z",
+            "version": 1,
+            "changeset": 118959374,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Koźminku",
+                "phone": "+48 792 013 901"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609533003,
+            "lat": 54.284812,
+            "lon": 16.21754,
+            "timestamp": "2022-03-26T19:06:40Z",
+            "version": 1,
+            "changeset": 118959297,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Osieki",
+                "phone": "+48 943 185 110"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609533679,
+            "lat": 54.2272366,
+            "lon": 16.291444,
+            "timestamp": "2022-03-26T18:58:31Z",
+            "version": 1,
+            "changeset": 118959100,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Kina Zorza naprzeciw kasy biletowej",
+                "defibrillator:location:en": "In the building of the Zorza Cinema, opposite the ticket office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-We 07:00-15:00; Th,Fr 07:00-21:00; Sa,Su 15:00-21:00",
+                "operator": "Centrum Kultury i Biblioteka Publiczna Gminy i Miasta Sianów",
+                "phone": "+48 943 185 353"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609540904,
+            "lat": 54.2970061,
+            "lon": 16.2767863,
+            "timestamp": "2022-03-26T19:07:37Z",
+            "version": 1,
+            "changeset": 118959318,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Iwięcino",
+                "phone": "+48 943 185 110"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609543223,
+            "lat": 53.1429383,
+            "lon": 15.6818686,
+            "timestamp": "2022-03-26T19:12:48Z",
+            "version": 1,
+            "changeset": 118959425,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Brzeziny",
+                "phone": "+48 667 245 165"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609547625,
+            "lat": 54.2321335,
+            "lon": 16.2998051,
+            "timestamp": "2022-03-26T19:02:40Z",
+            "version": 1,
+            "changeset": 118959214,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku hali sportowej",
+                "defibrillator:location:en": "In the building of the sports hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-21:00",
+                "operator": "Zespół Administracyjnej Obsługi Oświaty w Sianowie",
+                "phone": "+48 943 185 218"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9609552252,
+            "lat": 54.2746155,
+            "lon": 16.3969861,
+            "timestamp": "2022-03-26T19:04:39Z",
+            "version": 1,
+            "changeset": 118959259,
+            "user": "Ronczka",
+            "uid": 9548812,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku szkoły podstawowej przy głównym wejściu",
+                "defibrillator:location:en": "Inside the primary school building at the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-17:00",
+                "operator": "Zespół Administracyjnej Obsługi Oświaty w Sianowie",
+                "phone": "+48 943 149 630"
             }
         },
         {
