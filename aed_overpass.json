@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T11:31:49Z",
-        "timestamp_areas_base": "2022-03-26T09:52:30Z",
+        "timestamp_osm_base": "2022-03-26T12:31:55Z",
+        "timestamp_areas_base": "2022-03-26T11:54:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49958,14 +49958,13 @@
             "id": 9570703139,
             "lat": 51.6571991,
             "lon": 16.0956449,
-            "timestamp": "2022-03-11T11:55:18Z",
-            "version": 1,
-            "changeset": 118361148,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-03-26T11:59:40Z",
+            "version": 2,
+            "changeset": 118944399,
+            "user": "puchaczowsky",
+            "uid": 7518458,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "automatyczny defibrylator",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Hala Widowiskowo-Sportowa im. Ryszarda Matuszaka",
