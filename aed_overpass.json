@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-26T12:31:55Z",
-        "timestamp_areas_base": "2022-03-26T11:54:12Z",
+        "timestamp_osm_base": "2022-03-26T13:31:39Z",
+        "timestamp_areas_base": "2022-03-26T12:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -30342,9 +30342,9 @@
             "id": 9468641918,
             "lat": 51.1761747,
             "lon": 17.2010264,
-            "timestamp": "2022-02-22T08:09:32Z",
-            "version": 5,
-            "changeset": 117714526,
+            "timestamp": "2022-03-26T13:19:30Z",
+            "version": 6,
+            "changeset": 118947192,
             "user": "Ancymon",
             "uid": 1593161,
             "tags": {
@@ -30354,6 +30354,7 @@
                 "defibrillator:location:en": "On the wall near the entrance (on the left side).",
                 "emergency": "defibrillator",
                 "floor": "0",
+                "indoor": "yes",
                 "location": "indoor",
                 "opening_hours": "Mo-Th 07:30-15:30; We 08:30-16:30",
                 "operator": "Urząd Gminy Długołęka",
