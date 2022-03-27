@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-27T11:31:09Z",
-        "timestamp_areas_base": "2022-03-27T11:04:54Z",
+        "timestamp_osm_base": "2022-03-27T12:31:55Z",
+        "timestamp_areas_base": "2022-03-27T12:05:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54714,6 +54714,23 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "506325533"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9610715817,
+            "lat": 51.5025266,
+            "lon": 19.7139741,
+            "timestamp": "2022-03-27T12:17:00Z",
+            "version": 1,
+            "changeset": 118978632,
+            "user": "OSPMca",
+            "uid": 13840350,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku strażnicy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
