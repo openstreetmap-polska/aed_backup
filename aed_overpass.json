@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-27T13:31:40Z",
-        "timestamp_areas_base": "2022-03-27T13:06:25Z",
+        "timestamp_osm_base": "2022-03-27T14:31:44Z",
+        "timestamp_areas_base": "2022-03-27T14:07:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54749,6 +54749,24 @@
                 "defibrillator:location:en": "On the wall behind the swinging door",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9610823417,
+            "lat": 53.9659316,
+            "lon": 18.52947,
+            "timestamp": "2022-03-27T13:44:12Z",
+            "version": 1,
+            "changeset": 118981431,
+            "user": "radziecki",
+            "uid": 78579,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
