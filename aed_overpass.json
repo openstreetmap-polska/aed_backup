@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-27T19:32:10Z",
-        "timestamp_areas_base": "2022-03-27T19:09:58Z",
+        "timestamp_osm_base": "2022-03-27T20:31:54Z",
+        "timestamp_areas_base": "2022-03-27T20:10:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54767,6 +54767,25 @@
                 "defibrillator:location:en": "On the wall near entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9611514017,
+            "lat": 52.3117661,
+            "lon": 16.9427104,
+            "timestamp": "2022-03-27T19:43:23Z",
+            "version": 1,
+            "changeset": 118994052,
+            "user": "karkas",
+            "uid": 15423269,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy kserokopiarce w hallu",
+                "defibrillator:location:en": "On the wall by the copier in the hall",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
             }
         },
         {
