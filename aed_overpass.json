@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-28T10:32:14Z",
+        "timestamp_osm_base": "2022-03-28T11:30:58Z",
         "timestamp_areas_base": "2022-03-28T08:18:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -29849,18 +29849,18 @@
             "id": 9466790182,
             "lat": 50.9445406,
             "lon": 17.294444,
-            "timestamp": "2022-02-01T20:29:33Z",
-            "version": 2,
-            "changeset": 116884074,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-03-28T10:54:36Z",
+            "version": 3,
+            "changeset": 119016153,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Defibrylator zawieszony jest na ścianie na I piętrze",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Th 08:00-15:00; We 08:00-17:00; Fr 08:00-14:00",
-                "operator": "Urzędu Miejskiego w Oławie",
+                "operator": "Urząd Miejski w Oławie",
                 "phone": "+48 71 303 55 01"
             }
         },
