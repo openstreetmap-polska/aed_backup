@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-28T06:32:15Z",
-        "timestamp_areas_base": "2022-03-28T06:16:06Z",
+        "timestamp_osm_base": "2022-03-28T07:32:03Z",
+        "timestamp_areas_base": "2022-03-28T07:16:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54786,6 +54786,42 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612429717,
+            "lat": 49.4995701,
+            "lon": 20.0437803,
+            "timestamp": "2022-03-28T07:31:01Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodzie OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48570 290 404"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612432217,
+            "lat": 49.4651747,
+            "lon": 19.9965439,
+            "timestamp": "2022-03-28T07:31:41Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodzie JRG",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 18 26 109 71"
             }
         },
         {
