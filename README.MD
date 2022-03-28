@@ -1,14 +1,14 @@
-# AED backup and stats (2022-03-28 07:33:10)
+# AED backup and stats (2022-03-28 08:33:12)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3009
+Total AED: 3017
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 397\
-Average daily growth since beginning of the year: 31.20
+Average daily growth since beginning of the year: 31.29
 
 ## Top creators
 | # | User | Created |
@@ -22,20 +22,20 @@ Average daily growth since beginning of the year: 31.20
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 8 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 64 |
 | 9 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 10 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
-| 11 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
+| 10 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
+| 11 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
 | 12 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 35 |
 | 13 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 33 |
 | 14 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 28 |
 | 15 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 16 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
 | 17 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
-| 18 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
-| 19 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
+| 18 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
+| 19 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 | 20 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 19 |
-| 21 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
+| 21 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
 | 22 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 15 |
-| 23 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
+| 23 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
 | 24 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 13 |
 | 25 | [Michoo](<https://www.openstreetmap.org/user/Michoo>) | 12 |
 

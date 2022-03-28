@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-28T07:32:03Z",
-        "timestamp_areas_base": "2022-03-28T07:16:56Z",
+        "timestamp_osm_base": "2022-03-28T08:31:40Z",
+        "timestamp_areas_base": "2022-03-28T08:18:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54822,6 +54822,142 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 18 26 109 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612433717,
+            "lat": 49.4770924,
+            "lon": 20.0346257,
+            "timestamp": "2022-03-28T07:32:29Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612434117,
+            "lat": 49.4755256,
+            "lon": 20.015895,
+            "timestamp": "2022-03-28T07:32:55Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612435217,
+            "lat": 49.4840278,
+            "lon": 20.0261536,
+            "timestamp": "2022-03-28T07:33:23Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612435417,
+            "lat": 49.483387,
+            "lon": 20.0328012,
+            "timestamp": "2022-03-28T07:34:01Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sanepid",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612437617,
+            "lat": 49.4902791,
+            "lon": 20.0460415,
+            "timestamp": "2022-03-28T07:34:28Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "PPUZ",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612440717,
+            "lat": 49.4404972,
+            "lon": 20.1450848,
+            "timestamp": "2022-03-28T07:35:07Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "OSP Nowa Biała",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612443217,
+            "lat": 49.4821061,
+            "lon": 20.0310794,
+            "timestamp": "2022-03-28T07:35:57Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ratusz",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9612443417,
+            "lat": 49.4823455,
+            "lon": 20.0279492,
+            "timestamp": "2022-03-28T07:36:14Z",
+            "version": 1,
+            "changeset": 119007845,
+            "user": "badifire",
+            "uid": 2638466,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urząd Miasta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
