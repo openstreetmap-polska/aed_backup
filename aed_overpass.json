@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-28T20:31:43Z",
+        "timestamp_osm_base": "2022-03-28T21:31:26Z",
         "timestamp_areas_base": "2022-03-28T19:24:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -54956,6 +54956,24 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urząd Miasta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9617116617,
+            "lat": 52.3878365,
+            "lon": 18.1985462,
+            "timestamp": "2022-03-28T20:55:36Z",
+            "version": 1,
+            "changeset": 119039884,
+            "user": "KacperP",
+            "uid": 15432257,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED na wyposażeniu wozu ratowniczo gaśniczego . Wcisnąć przycisku na ścianie który zaalarmuje strażaków ochotniczej straży pożarnej w celu udostępnienia AED.",
+                "defibrillator:location:en": "AED on a rescue and firefighting vehicle.  Press the button on the wall that will alert the volunteer firefighters to enable the AED.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
