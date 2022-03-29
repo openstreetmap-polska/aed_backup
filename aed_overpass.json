@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-29T06:31:14Z",
+        "timestamp_osm_base": "2022-03-29T07:32:00Z",
         "timestamp_areas_base": "2022-03-29T06:31:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -54974,6 +54974,23 @@
                 "access": "yes",
                 "defibrillator:location": "AED na wyposażeniu wozu ratowniczo gaśniczego . Wcisnąć przycisk na ścianie który zaalarmuje strażaków Ochotniczej Straży Pożarnej w celu udostępnienia AED.",
                 "defibrillator:location:en": "AED on a rescue and firefighting vehicle.  Press the button on the wall that will alert the volunteer firefighters to enable the AED.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620157517,
+            "lat": 53.757313,
+            "lon": 20.4857683,
+            "timestamp": "2022-03-29T06:52:18Z",
+            "version": 1,
+            "changeset": 119052825,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Leroy Merlin, ściana naprzeciwko kas, w pobliżu kawiarni",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
