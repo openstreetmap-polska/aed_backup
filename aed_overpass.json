@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-29T10:31:16Z",
-        "timestamp_areas_base": "2022-03-29T09:32:38Z",
+        "timestamp_osm_base": "2022-03-29T11:32:03Z",
+        "timestamp_areas_base": "2022-03-29T10:32:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38305,16 +38305,17 @@
             "id": 9508108616,
             "lat": 51.3786468,
             "lon": 21.1266113,
-            "timestamp": "2022-02-15T16:01:25Z",
-            "version": 1,
-            "changeset": 117442322,
+            "timestamp": "2022-03-29T10:31:55Z",
+            "version": 2,
+            "changeset": 119062259,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7",
+                "level": "0",
+                "opening_hours": "Mo-Sa 07:00-22:00",
                 "operator": "E. Leclerc",
                 "phone": "48 381 10 10",
                 "wheelchair": "yes"
@@ -54993,6 +54994,86 @@
                 "defibrillator:location": "Leroy Merlin, ściana naprzeciwko kas, w pobliżu kawiarni",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620562706,
+            "lat": 50.1437223,
+            "lon": 19.4361646,
+            "timestamp": "2022-03-29T10:33:51Z",
+            "version": 1,
+            "changeset": 119062348,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Valeo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620562707,
+            "lat": 50.0979928,
+            "lon": 19.46437,
+            "timestamp": "2022-03-29T10:36:54Z",
+            "version": 1,
+            "changeset": 119062486,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Płaza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620599394,
+            "lat": 50.1692775,
+            "lon": 19.3729305,
+            "timestamp": "2022-03-29T10:34:52Z",
+            "version": 1,
+            "changeset": 119062376,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Balin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620599983,
+            "lat": 50.1770105,
+            "lon": 19.3986282,
+            "timestamp": "2022-03-29T10:35:38Z",
+            "version": 1,
+            "changeset": 119062414,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Luszowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9620604711,
+            "lat": 50.099896,
+            "lon": 19.3093206,
+            "timestamp": "2022-03-29T10:39:35Z",
+            "version": 1,
+            "changeset": 119062599,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Parafia Przemienienia Pańskiego"
             }
         },
         {
