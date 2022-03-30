@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-30T12:34:55Z",
+        "timestamp_osm_base": "2022-03-30T13:34:41Z",
         "timestamp_areas_base": "2022-03-30T07:44:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55090,6 +55090,69 @@
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9623825798,
+            "lat": 49.7242902,
+            "lon": 19.1531262,
+            "timestamp": "2022-03-30T13:02:05Z",
+            "version": 1,
+            "changeset": 119115917,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "operator": "Gminny Ośrodek Kultury w Łodygowicach",
+                "source": "https://www.facebook.com/ZywieckaKronikaBeskidzka/posts/1170470720105145"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9623835626,
+            "lat": 50.6724873,
+            "lon": 17.9350841,
+            "timestamp": "2022-03-30T13:02:31Z",
+            "version": 2,
+            "changeset": 119115928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W portierni budynku",
+                "defibrillator:location:en": "In the reception of the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Wydział Nauk o Zdrowiu Uniwersytetu Opolskiego",
+                "phone": "77 442 35 28",
+                "source": "https://www.facebook.com/PielegniarstwoWydzialNaukoZdrowiuUO/posts/4279117008848507"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9623867747,
+            "lat": 49.7318908,
+            "lon": 19.1370829,
+            "timestamp": "2022-03-30T12:59:39Z",
+            "version": 1,
+            "changeset": 119115820,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na lewo od głównego wejścia do urzędu",
+                "defibrillator:location:en": "On the left to the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Łodygowica",
+                "outdoor": "yes",
+                "phone": "+48 33 863 05 00",
+                "source": "https://www.facebook.com/ZywieckaKronikaBeskidzka/posts/1170470720105145",
+                "wheelchair": "no"
             }
         },
         {
