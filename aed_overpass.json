@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-30T11:32:10Z",
+        "timestamp_osm_base": "2022-03-30T12:34:55Z",
         "timestamp_areas_base": "2022-03-30T07:44:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55074,6 +55074,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Parafia Przemienienia Pańskiego"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9623784817,
+            "lat": 50.0284455,
+            "lon": 22.001675,
+            "timestamp": "2022-03-30T12:20:22Z",
+            "version": 1,
+            "changeset": 119114309,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
