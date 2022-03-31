@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-03-31T12:31:42Z",
+        "timestamp_osm_base": "2022-03-31T13:31:44Z",
         "timestamp_areas_base": "2022-03-31T08:59:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55153,6 +55153,42 @@
                 "phone": "+48 33 863 05 00",
                 "source": "https://www.facebook.com/ZywieckaKronikaBeskidzka/posts/1170470720105145",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9626530279,
+            "lat": 51.9021085,
+            "lon": 15.5712023,
+            "timestamp": "2022-03-31T12:59:15Z",
+            "version": 2,
+            "changeset": 119159184,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "operator": "Szkoła Podstawowa nr 24 im. \"Polskich Olimpijczyków\"",
+                "phone": "+48 68 3275128",
+                "source": "https://zielonagora.naszemiasto.pl/sprawdz-gdzie-w-zielonej-gorze-znajduja-sie-defibrylatory/ar/c10-4606205"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9626549228,
+            "lat": 51.912468,
+            "lon": 15.5675988,
+            "timestamp": "2022-03-31T13:01:31Z",
+            "version": 1,
+            "changeset": 119159299,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Racula"
             }
         },
         {
