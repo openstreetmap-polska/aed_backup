@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-01T12:31:14Z",
+        "timestamp_osm_base": "2022-04-01T13:32:12Z",
         "timestamp_areas_base": "2022-04-01T10:12:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55210,6 +55210,25 @@
                 "opening_hours": "Mo-Fr 07:00-15:00",
                 "operator": "Nadleśnictwo Bierzwnik",
                 "phone": "+48 95 768 00 58"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9628950017,
+            "lat": 54.4209945,
+            "lon": 18.4791749,
+            "timestamp": "2022-04-01T12:54:10Z",
+            "version": 1,
+            "changeset": 119201511,
+            "user": "ZSO2",
+            "uid": 15462564,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W korytarzu na lewo po wejściu do budynku naprzeciwko sekretariatu p. 100",
+                "defibrillator:location:en": "In the corridor on the left after entering the building, opposite the secretariat of room 100",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 58 340 75 60"
             }
         },
         {
