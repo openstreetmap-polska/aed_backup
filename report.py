@@ -158,7 +158,7 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
     plt.clf()
     plt.pie(df2['Count'], labels=df2['Atr'], autopct='%1.2f%%')
     plt.title(
-        f'Defibrillators without introduced access method ({current_date})',
+        f'Defibrillators with no access method specified ({current_date})',
         fontsize=14,
         loc='left'
     )
