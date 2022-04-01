@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-01T13:32:12Z",
+        "timestamp_osm_base": "2022-04-01T14:33:03Z",
         "timestamp_areas_base": "2022-04-01T10:12:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55229,6 +55229,38 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 58 340 75 60"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9629041700,
+            "lat": 50.036162,
+            "lon": 19.2208289,
+            "timestamp": "2022-04-01T13:56:14Z",
+            "version": 1,
+            "changeset": 119203705,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Oświęcim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9629068346,
+            "lat": 50.0367183,
+            "lon": 19.2308389,
+            "timestamp": "2022-04-01T13:58:47Z",
+            "version": 1,
+            "changeset": 119203806,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Miejska Biblioteka Publiczna w Oświęcimiu"
             }
         },
         {
