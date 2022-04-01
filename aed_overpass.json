@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-01T08:32:15Z",
-        "timestamp_areas_base": "2022-04-01T08:12:02Z",
+        "timestamp_osm_base": "2022-04-01T09:31:25Z",
+        "timestamp_areas_base": "2022-04-01T09:11:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -55189,6 +55189,27 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Racula"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9628507742,
+            "lat": 53.0321377,
+            "lon": 15.6621353,
+            "timestamp": "2022-04-01T09:29:25Z",
+            "version": 2,
+            "changeset": 119193552,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "Inside the building at the main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Nadleśnictwo Bierzwnik",
+                "phone": "+48 95 768 00 58"
             }
         },
         {
