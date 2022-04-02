@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-02T19:31:27Z",
+        "timestamp_osm_base": "2022-04-02T20:32:14Z",
         "timestamp_areas_base": "2022-04-02T19:30:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55262,6 +55262,28 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Miejska Biblioteka Publiczna w Oświęcimiu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9631993631,
+            "lat": 51.3427466,
+            "lon": 16.8472968,
+            "timestamp": "2022-04-02T19:33:48Z",
+            "version": 1,
+            "changeset": 119245291,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na lewo od wejścia do sklepu spożywczego",
+                "defibrillator:location:en": "Outside the convience store, on the left to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Sklep Spożywczo-Przemysłowy DANA",
+                "wheelchair": "yes"
             }
         },
         {
