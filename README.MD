@@ -1,14 +1,14 @@
-# AED backup and stats (2022-04-03 11:33:08)
+# AED backup and stats (2022-04-03 16:33:08)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3036
+Total AED: 3047
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 397\
-Average daily growth since beginning of the year: 29.44
+Average daily growth since beginning of the year: 29.56
 
 ## Top creators
 | # | User | Created |
@@ -22,8 +22,8 @@ Average daily growth since beginning of the year: 29.44
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 8 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 64 |
 | 9 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 10 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
-| 11 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
+| 10 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
+| 11 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
 | 12 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 36 |
 | 13 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 33 |
 | 14 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 28 |
@@ -34,10 +34,10 @@ Average daily growth since beginning of the year: 29.44
 | 19 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 | 20 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 | 21 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 19 |
-| 22 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
-| 23 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
-| 24 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 13 |
-| 25 | [Michoo](<https://www.openstreetmap.org/user/Michoo>) | 12 |
+| 22 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
+| 23 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
+| 24 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 14 |
+| 25 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 13 |
 
 ## Tag access pie
 ![](report_data/tag_access.svg)
