@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-03T18:31:59Z",
+        "timestamp_osm_base": "2022-04-03T19:31:48Z",
         "timestamp_areas_base": "2022-04-03T16:40:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15043,18 +15043,18 @@
             "id": 9426491359,
             "lat": 53.3365656,
             "lon": 15.0391443,
-            "timestamp": "2022-01-17T20:39:23Z",
-            "version": 2,
-            "changeset": 116271064,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-04-03T19:19:04Z",
+            "version": 3,
+            "changeset": 119276128,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "wewnątrz, przy punkcie informacyjnym",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "'w godzinach pracy urzędu'",
-                "operator": "UM Stargard Szczeciński"
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "UM Stargard"
             }
         },
         {
