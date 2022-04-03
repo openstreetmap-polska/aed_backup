@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-03T15:31:54Z",
-        "timestamp_areas_base": "2022-04-03T14:39:10Z",
+        "timestamp_osm_base": "2022-04-03T16:31:43Z",
+        "timestamp_areas_base": "2022-04-03T15:39:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -55303,6 +55303,228 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633801755,
+            "lat": 52.6124941,
+            "lon": 18.902114,
+            "timestamp": "2022-04-03T16:17:16Z",
+            "version": 1,
+            "changeset": 119270518,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Brześć Kujawski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633813359,
+            "lat": 53.9674739,
+            "lon": 18.6457054,
+            "timestamp": "2022-04-03T16:22:42Z",
+            "version": 1,
+            "changeset": 119270717,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:city": "Klonówka",
+                "addr:housenumber": "3",
+                "addr:street": "Floriana Ceynowy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Klonówka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633814613,
+            "lat": 49.8371062,
+            "lon": 21.98779,
+            "timestamp": "2022-04-03T16:18:55Z",
+            "version": 1,
+            "changeset": 119270603,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "159",
+                "addr:place": "Gwoźnica Górna",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Gwoźnica Górna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633814614,
+            "lat": 50.4554577,
+            "lon": 17.7274925,
+            "timestamp": "2022-04-03T16:22:24Z",
+            "version": 1,
+            "changeset": 119270710,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:city": "Łącznik",
+                "addr:housenumber": "2a",
+                "addr:street": "Sportowa",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Łącznik",
+                "phone": "774376346"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633821141,
+            "lat": 51.9201798,
+            "lon": 21.574793,
+            "timestamp": "2022-04-03T16:27:40Z",
+            "version": 1,
+            "changeset": 119270891,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:city": "Miętne",
+                "addr:housenumber": "118",
+                "addr:street": "Główna",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Miętne"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633821142,
+            "lat": 51.8150666,
+            "lon": 19.2425519,
+            "timestamp": "2022-04-03T16:27:59Z",
+            "version": 1,
+            "changeset": 119270910,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "21A",
+                "addr:place": "Sanie",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Sanie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633824645,
+            "lat": 51.8663701,
+            "lon": 19.1927921,
+            "timestamp": "2022-04-03T16:20:42Z",
+            "version": 1,
+            "changeset": 119270670,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "27",
+                "addr:place": "Sobień",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Sobień"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633825094,
+            "lat": 51.8549641,
+            "lon": 19.1621247,
+            "timestamp": "2022-04-03T16:21:25Z",
+            "version": 1,
+            "changeset": 119270679,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "54",
+                "addr:place": "Prawęcice",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Prawęcice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633825564,
+            "lat": 54.562212,
+            "lon": 17.7337232,
+            "timestamp": "2022-04-03T16:19:55Z",
+            "version": 1,
+            "changeset": 119270639,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:city": "Nowa Wieś Lęborska",
+                "addr:housenumber": "26",
+                "addr:street": "Grunwaldzka",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Jednostka OSP Nowa Wieś Lęborska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633834149,
+            "lat": 52.5470813,
+            "lon": 18.4955437,
+            "timestamp": "2022-04-03T16:26:22Z",
+            "version": 1,
+            "changeset": 119270838,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Piotrków Kujawski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633839426,
+            "lat": 50.7059483,
+            "lon": 22.5345449,
+            "timestamp": "2022-04-03T16:31:40Z",
+            "version": 1,
+            "changeset": 119271049,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "134",
+                "addr:place": "Krzemień Pierwszy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Krzemień Pierwszy",
+                "phone": "663 727 971"
             }
         },
         {
