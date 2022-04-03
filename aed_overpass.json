@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-03T19:31:48Z",
-        "timestamp_areas_base": "2022-04-03T16:40:39Z",
+        "timestamp_osm_base": "2022-04-03T20:31:38Z",
+        "timestamp_areas_base": "2022-04-03T19:41:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56263,6 +56263,41 @@
                 "indoor": "yes",
                 "operator": "Szkoła podstawowa nr 8 im. Noblistów Polskich",
                 "phone": "+48 71 798 11 33"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9634231409,
+            "lat": 54.6140158,
+            "lon": 18.2443251,
+            "timestamp": "2022-04-03T19:51:28Z",
+            "version": 1,
+            "changeset": 119276972,
+            "user": "Marek_Bolszewo",
+            "uid": 13419410,
+            "tags": {
+                "defibrillator:location": "Szpitalny Oddział Ratunkowy w Wejherowie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "name": "Defibrylator",
+                "operator": "Szpitalny Oddział Ratunkowy w Wejherowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9634231410,
+            "lat": 54.6031632,
+            "lon": 18.2448405,
+            "timestamp": "2022-04-03T19:51:28Z",
+            "version": 1,
+            "changeset": 119276972,
+            "user": "Marek_Bolszewo",
+            "uid": 13419410,
+            "tags": {
+                "defibrillator:location": "Przychodnia Sim-Med",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Przychodnia Sim-Med"
             }
         },
         {
