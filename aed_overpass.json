@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-03T20:31:38Z",
-        "timestamp_areas_base": "2022-04-03T19:41:58Z",
+        "timestamp_osm_base": "2022-04-03T21:31:25Z",
+        "timestamp_areas_base": "2022-04-03T20:42:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14228,9 +14228,9 @@
             "id": 9425131320,
             "lat": 53.565839,
             "lon": 14.8303477,
-            "timestamp": "2022-03-30T10:26:22Z",
-            "version": 7,
-            "changeset": 119109486,
+            "timestamp": "2022-04-03T20:57:18Z",
+            "version": 8,
+            "changeset": 119278592,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -14238,7 +14238,7 @@
                 "defibrillator:location": "Biuro Obsługi Interesanta",
                 "defibrillator:location:en": "Customer Service Office",
                 "emergency": "defibrillator",
-                "emergency:phone": "986",
+                "emergency:phone": "986; 0 800 69 69 01",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30",
                 "operator": "Gmina Goleniów",
