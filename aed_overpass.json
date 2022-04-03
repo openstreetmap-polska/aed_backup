@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-03T10:31:57Z",
-        "timestamp_areas_base": "2022-04-03T09:36:10Z",
+        "timestamp_osm_base": "2022-04-03T11:31:40Z",
+        "timestamp_areas_base": "2022-04-03T10:36:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -55283,6 +55283,25 @@
                 "location": "outdoor",
                 "opening_hours": "24/7",
                 "operator": "Sklep Spożywczo-Przemysłowy DANA",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9633168662,
+            "lat": 50.665489,
+            "lon": 17.9215499,
+            "timestamp": "2022-04-03T11:04:57Z",
+            "version": 1,
+            "changeset": 119260378,
+            "user": "ekeshkekesh",
+            "uid": 564175,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przed wejściem do MDKu",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
                 "wheelchair": "yes"
             }
         },
