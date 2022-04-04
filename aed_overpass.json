@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-04T15:32:12Z",
+        "timestamp_osm_base": "2022-04-04T16:31:56Z",
         "timestamp_areas_base": "2022-04-04T11:50:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -56313,6 +56313,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Dębice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9641095917,
+            "lat": 50.6859474,
+            "lon": 16.6130082,
+            "timestamp": "2022-04-04T15:53:00Z",
+            "version": 1,
+            "changeset": 119308157,
+            "user": "lzur",
+            "uid": 67033,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Rejestracja",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 833 46 50"
             }
         },
         {
