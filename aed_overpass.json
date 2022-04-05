@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-05T10:32:07Z",
+        "timestamp_osm_base": "2022-04-05T11:31:59Z",
         "timestamp_areas_base": "2022-04-05T07:00:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -8691,18 +8691,19 @@
             "id": 9377843651,
             "lat": 52.2930929,
             "lon": 16.8654477,
-            "timestamp": "2022-01-13T21:52:11Z",
-            "version": 3,
-            "changeset": 116125959,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-04-05T10:47:15Z",
+            "version": 4,
+            "changeset": 119338219,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Urząd Miejski",
                 "direction": "20",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Puszczykowie"
             }
         },
         {
