@@ -1,14 +1,14 @@
-# AED backup and stats (2022-04-05 11:33:08)
+# AED backup and stats (2022-04-05 15:33:07)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3092
+Total AED: 3093
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 397\
-Average daily growth since beginning of the year: 29.41
+Average daily growth since beginning of the year: 29.42
 
 ## Top creators
 | # | User | Created |
@@ -21,22 +21,22 @@ Average daily growth since beginning of the year: 29.41
 | 6 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 125 |
 | 7 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 8 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 64 |
-| 9 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 10 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 41 |
-| 11 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
-| 12 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
+| 9 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 41 |
+| 10 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
+| 11 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 39 |
+| 12 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 39 |
 | 13 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 36 |
 | 14 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 33 |
 | 15 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 28 |
 | 16 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 17 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
-| 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 22 |
-| 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
-| 20 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
-| 21 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
+| 18 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
+| 19 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 22 |
+| 20 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
+| 21 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 | 22 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 19 |
-| 23 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
-| 24 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
+| 23 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 15 |
+| 24 | [KrissPSP](<https://www.openstreetmap.org/user/KrissPSP>) | 15 |
 | 25 | [szejnerkarol](<https://www.openstreetmap.org/user/szejnerkarol>) | 13 |
 
 ## Tag access pie
