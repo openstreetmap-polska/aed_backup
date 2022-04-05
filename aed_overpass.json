@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-05T19:31:53Z",
-        "timestamp_areas_base": "2022-04-05T19:08:39Z",
+        "timestamp_osm_base": "2022-04-05T20:31:52Z",
+        "timestamp_areas_base": "2022-04-05T20:08:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56479,6 +56479,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9644159374,
+            "lat": 53.5443877,
+            "lon": 14.9516928,
+            "timestamp": "2022-04-05T19:54:36Z",
+            "version": 1,
+            "changeset": 119358023,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mosty"
             }
         },
         {
