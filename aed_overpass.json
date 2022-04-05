@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-05T09:32:24Z",
+        "timestamp_osm_base": "2022-04-05T10:32:07Z",
         "timestamp_areas_base": "2022-04-05T07:00:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7583,18 +7583,18 @@
             "id": 9368017839,
             "lat": 52.6529139,
             "lon": 16.8193258,
-            "timestamp": "2022-02-20T12:11:59Z",
-            "version": 3,
-            "changeset": 117635778,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-04-05T10:15:09Z",
+            "version": 4,
+            "changeset": 119336876,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "capacity": "2",
                 "defibrillator:location": "Na każdym piętrze Urzędu Miejskiego w Obornikach",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo 8:00-16:00; Tu-Fr 7:00-15:00"
+                "opening_hours": "Mo 8:00-15:30; Tu-Fr 7:30-14:30"
             }
         },
         {
@@ -27265,14 +27265,18 @@
             "id": 9460707852,
             "lat": 52.1174297,
             "lon": 16.1129846,
-            "timestamp": "2022-01-30T17:11:08Z",
-            "version": 1,
-            "changeset": 116789331,
-            "user": "wojtekd",
-            "uid": 14977908,
+            "timestamp": "2022-04-05T10:21:47Z",
+            "version": 2,
+            "changeset": 119337174,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo,Tu,Th 07:00-15:00;We 07:00-16:00;Fr 07:00-14:00",
+                "operator": "Urząd Miejski w Wolsztynie",
+                "phone": "+48 683474500"
             }
         },
         {
