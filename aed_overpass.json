@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-05T06:32:09Z",
-        "timestamp_areas_base": "2022-04-05T04:59:07Z",
+        "timestamp_osm_base": "2022-04-05T07:31:54Z",
+        "timestamp_areas_base": "2022-04-05T07:00:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56332,6 +56332,107 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "74 833 46 50"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9642378702,
+            "lat": 50.9812663,
+            "lon": 17.4773383,
+            "timestamp": "2022-04-05T07:04:44Z",
+            "version": 1,
+            "changeset": 119329304,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Wójcice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Wójcicach",
+                "source": "https://www.facebook.com/wojcice/posts/1719092661508248"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9642397040,
+            "lat": 51.0310632,
+            "lon": 17.3369622,
+            "timestamp": "2022-04-05T07:17:56Z",
+            "version": 1,
+            "changeset": 119329809,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-22:00;Sa 09:00-20:00;Su 11:00-20:00",
+                "operator": "Centrum Sportu i Rekreacji",
+                "phone": "+48 71 303 65 09",
+                "source": "https://www.facebook.com/JLstronaoficjalna/posts/1550972485017508"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9642397046,
+            "lat": 51.0347386,
+            "lon": 17.331638,
+            "timestamp": "2022-04-05T07:17:56Z",
+            "version": 1,
+            "changeset": 119329809,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Publiczna Szkoła Podstawowa nr 2 im. Marii Skłodowskiej-Curie",
+                "phone": "71 318 12 10",
+                "source": "https://www.facebook.com/JLstronaoficjalna/posts/1550972485017508"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9642397047,
+            "lat": 51.0408036,
+            "lon": 17.3500889,
+            "timestamp": "2022-04-05T07:17:56Z",
+            "version": 1,
+            "changeset": 119329809,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na korytarzu, obok tablicy z numerami pomieszczeń służbowych",
+                "defibrillator:location:en": "In the corridor, next to the table with office rooms' numbers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Miasta i Gminy Jelcz-Laskowice",
+                "phone": "+48 713817100",
+                "source": "https://www.facebook.com/JLstronaoficjalna/posts/1550972485017508"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9642397917,
+            "lat": 50.2280578,
+            "lon": 18.9729581,
+            "timestamp": "2022-04-05T07:01:08Z",
+            "version": 2,
+            "changeset": 119329174,
+            "user": "Talopyo",
+            "uid": 14818256,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na recepcji",
+                "defibrillator:location:en": "at the reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-21:00",
+                "operator": "MDK Ligota",
+                "phone": "32 252 32 34"
             }
         },
         {
