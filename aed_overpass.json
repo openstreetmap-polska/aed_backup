@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-06T20:32:26Z",
-        "timestamp_areas_base": "2022-04-06T20:21:06Z",
+        "timestamp_osm_base": "2022-04-06T21:32:08Z",
+        "timestamp_areas_base": "2022-04-06T21:22:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53186,16 +53186,17 @@
             "id": 9599775617,
             "lat": 52.4492868,
             "lon": 16.9987362,
-            "timestamp": "2022-03-23T13:18:52Z",
-            "version": 1,
-            "changeset": 118821290,
-            "user": "Samratmed",
-            "uid": 15390465,
+            "timestamp": "2022-04-06T20:48:15Z",
+            "version": 2,
+            "changeset": 119403259,
+            "user": "Inochi03",
+            "uid": 12155748,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Na terenie przedszkola",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-17:00"
             }
         },
         {
