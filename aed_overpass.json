@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-06T09:31:52Z",
-        "timestamp_areas_base": "2022-04-06T09:14:40Z",
+        "timestamp_osm_base": "2022-04-06T10:31:22Z",
+        "timestamp_areas_base": "2022-04-06T10:15:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2188,16 +2188,19 @@
             "id": 7125572263,
             "lat": 54.4017139,
             "lon": 18.5765813,
-            "timestamp": "2021-02-20T23:51:37Z",
-            "version": 2,
-            "changeset": 99664197,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T10:08:05Z",
+            "version": 3,
+            "changeset": 119378983,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "słup obok parkingu rowerowego",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -2687,13 +2690,13 @@
         {
             "type": "node",
             "id": 7274264910,
-            "lat": 54.4099248,
-            "lon": 18.5672761,
-            "timestamp": "2021-12-19T19:28:38Z",
-            "version": 3,
-            "changeset": 115137293,
-            "user": "Vilk",
-            "uid": 67129,
+            "lat": 54.4099592,
+            "lon": 18.5672538,
+            "timestamp": "2022-04-06T10:03:59Z",
+            "version": 4,
+            "changeset": 119378753,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location:en": "A free-standing post at a tram stop",
@@ -2989,14 +2992,18 @@
             "id": 7837639090,
             "lat": 54.3544362,
             "lon": 18.6497508,
-            "timestamp": "2021-08-12T18:26:32Z",
-            "version": 2,
-            "changeset": 109588906,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T10:11:25Z",
+            "version": 3,
+            "changeset": 119379146,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -3050,15 +3057,20 @@
         {
             "type": "node",
             "id": 7856983796,
-            "lat": 54.4144508,
-            "lon": 18.6004439,
-            "timestamp": "2020-08-29T16:35:34Z",
-            "version": 1,
-            "changeset": 90124739,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "lat": 54.4144469,
+            "lon": 18.6004312,
+            "timestamp": "2022-04-06T09:49:29Z",
+            "version": 2,
+            "changeset": 119377982,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -3066,16 +3078,18 @@
             "id": 7856997132,
             "lat": 54.4101285,
             "lon": 18.5995435,
-            "timestamp": "2021-05-16T20:06:25Z",
-            "version": 3,
-            "changeset": 104783008,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T09:47:37Z",
+            "version": 4,
+            "changeset": 119377910,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "defibrillator:location": "elewacja komisariatu",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -4355,15 +4369,18 @@
             "id": 9006446183,
             "lat": 54.4100483,
             "lon": 18.5392093,
-            "timestamp": "2021-08-14T12:02:12Z",
-            "version": 2,
-            "changeset": 109667556,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T10:06:47Z",
+            "version": 3,
+            "changeset": 119378921,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "customers",
                 "defibrillator:location": "zadaszenie przy pawilonie lwów",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -4371,15 +4388,18 @@
             "id": 9006451468,
             "lat": 54.4094266,
             "lon": 18.5349682,
-            "timestamp": "2021-08-14T12:02:12Z",
-            "version": 2,
-            "changeset": 109667556,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T09:55:58Z",
+            "version": 3,
+            "changeset": 119378302,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "customers",
                 "defibrillator:location": "elewacja pawilonu żyraf",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -4457,16 +4477,20 @@
         {
             "type": "node",
             "id": 9035605973,
-            "lat": 54.3483661,
-            "lon": 18.6070235,
-            "timestamp": "2021-08-25T19:06:13Z",
-            "version": 2,
-            "changeset": 110248542,
-            "user": "5R-MFT",
-            "uid": 3417876,
+            "lat": 54.3483917,
+            "lon": 18.606951,
+            "timestamp": "2022-04-06T09:50:21Z",
+            "version": 3,
+            "changeset": 119378023,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -4994,15 +5018,19 @@
         {
             "type": "node",
             "id": 9037965180,
-            "lat": 54.3600871,
-            "lon": 18.6483834,
-            "timestamp": "2021-08-26T12:48:08Z",
-            "version": 1,
-            "changeset": 110287284,
-            "user": "5R-MFT",
-            "uid": 3417876,
+            "lat": 54.3600614,
+            "lon": 18.6484417,
+            "timestamp": "2022-04-06T09:57:42Z",
+            "version": 2,
+            "changeset": 119378387,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
-                "emergency": "defibrillator"
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -5010,14 +5038,19 @@
             "id": 9043953870,
             "lat": 54.3515333,
             "lon": 18.6412171,
-            "timestamp": "2021-08-28T18:14:31Z",
-            "version": 1,
-            "changeset": 110390221,
-            "user": "5R-MFT",
-            "uid": 3417876,
+            "timestamp": "2022-04-06T10:06:13Z",
+            "version": 2,
+            "changeset": 119378889,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
-                "location": "outside"
+                "indoor": "no",
+                "location": "outside",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -56498,6 +56531,251 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Mosty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645210588,
+            "lat": 54.320037,
+            "lon": 18.6360352,
+            "timestamp": "2022-04-06T09:57:20Z",
+            "version": 1,
+            "changeset": 119378367,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Smoleńska 6/ 8 (Zesół Szkół PS-CH)",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645224091,
+            "lat": 54.3352767,
+            "lon": 18.9313506,
+            "timestamp": "2022-04-06T09:46:44Z",
+            "version": 1,
+            "changeset": 119377872,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645229869,
+            "lat": 54.3866223,
+            "lon": 18.6363899,
+            "timestamp": "2022-04-06T09:45:25Z",
+            "version": 1,
+            "changeset": 119377825,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "na murze oporowym",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645229870,
+            "lat": 54.6716601,
+            "lon": 17.6180617,
+            "timestamp": "2022-04-06T09:52:58Z",
+            "version": 1,
+            "changeset": 119378147,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej,przy wejściu głównym do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Gminny Ośrodek Kultury i Sportu",
+                "phone": "48598611117"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645230662,
+            "lat": 54.3814736,
+            "lon": 18.6050056,
+            "timestamp": "2022-04-06T09:54:56Z",
+            "version": 1,
+            "changeset": 119378243,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645233771,
+            "lat": 54.4206578,
+            "lon": 18.5732241,
+            "timestamp": "2022-04-06T09:48:02Z",
+            "version": 1,
+            "changeset": 119377930,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645235012,
+            "lat": 54.3784409,
+            "lon": 18.5866352,
+            "timestamp": "2022-04-06T09:53:42Z",
+            "version": 1,
+            "changeset": 119378185,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645244170,
+            "lat": 54.3228572,
+            "lon": 18.6060251,
+            "timestamp": "2022-04-06T10:03:28Z",
+            "version": 2,
+            "changeset": 119378718,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645267035,
+            "lat": 53.8085192,
+            "lon": 18.3151433,
+            "timestamp": "2022-04-06T10:02:12Z",
+            "version": 1,
+            "changeset": 119378634,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe w Starogardzie Gdańskim",
+                "phone": "(58) 767 35 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645271168,
+            "lat": 54.5005716,
+            "lon": 16.7792944,
+            "timestamp": "2022-04-06T10:00:58Z",
+            "version": 1,
+            "changeset": 119378567,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "urządzenie na zewnętrznej ścianie budynku przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna Możdżanowo",
+                "phone": "886369558"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645272685,
+            "lat": 54.3429081,
+            "lon": 18.8326896,
+            "timestamp": "2022-04-06T10:07:18Z",
+            "version": 1,
+            "changeset": 119378948,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645274176,
+            "lat": 54.5620598,
+            "lon": 17.7330238,
+            "timestamp": "2022-04-06T10:05:45Z",
+            "version": 1,
+            "changeset": 119378852,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie zewnętrznej bucynku przy drzwiach głównych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Gminy Nowa Wieś Lęborska",
+                "phone": "+48 59 086 120 428"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645289946,
+            "lat": 54.3433575,
+            "lon": 18.6076276,
+            "timestamp": "2022-04-06T10:10:54Z",
+            "version": 1,
+            "changeset": 119379128,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
