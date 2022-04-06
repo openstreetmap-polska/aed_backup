@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-06T10:31:22Z",
+        "timestamp_osm_base": "2022-04-06T11:32:09Z",
         "timestamp_areas_base": "2022-04-06T10:15:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3011,13 +3011,17 @@
             "id": 7837741435,
             "lat": 54.3552291,
             "lon": 18.6460211,
-            "timestamp": "2020-08-23T18:13:25Z",
-            "version": 1,
-            "changeset": 89817618,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-06T11:10:07Z",
+            "version": 2,
+            "changeset": 119381829,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
-                "emergency": "defibrillator"
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -3114,15 +3118,18 @@
             "id": 7876171364,
             "lat": 54.4069829,
             "lon": 18.6148461,
-            "timestamp": "2022-01-16T22:17:28Z",
-            "version": 2,
-            "changeset": 116230711,
-            "user": "kilab",
-            "uid": 365863,
+            "timestamp": "2022-04-06T10:39:14Z",
+            "version": 3,
+            "changeset": 119380440,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -11021,13 +11028,18 @@
             "id": 9411514317,
             "lat": 54.3794171,
             "lon": 18.6171749,
-            "timestamp": "2022-01-12T00:44:33Z",
-            "version": 1,
-            "changeset": 116045977,
-            "user": "Darellur",
-            "uid": 2452455,
+            "timestamp": "2022-04-06T11:04:01Z",
+            "version": 2,
+            "changeset": 119381528,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -13436,15 +13448,19 @@
             "id": 9423746917,
             "lat": 54.4038095,
             "lon": 18.5906596,
-            "timestamp": "2022-01-16T21:37:02Z",
-            "version": 1,
-            "changeset": 116229772,
-            "user": "Kierowcagd",
-            "uid": 3575587,
+            "timestamp": "2022-04-06T10:59:58Z",
+            "version": 2,
+            "changeset": 119381356,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
             }
         },
         {
@@ -50360,13 +50376,13 @@
         {
             "type": "node",
             "id": 9570844388,
-            "lat": 54.8304283,
-            "lon": 18.2063667,
-            "timestamp": "2022-03-11T13:16:28Z",
-            "version": 1,
-            "changeset": 118363843,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 54.8304221,
+            "lon": 18.2063473,
+            "timestamp": "2022-04-06T10:47:45Z",
+            "version": 2,
+            "changeset": 119380802,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "permissive",
                 "defibrillator:location": "Urządzenie znajdujące się w kabinie pojazdu MERCEDES ATEGO GBA - G 509[G]82.",
@@ -50380,13 +50396,13 @@
         {
             "type": "node",
             "id": 9570844389,
-            "lat": 54.8304291,
-            "lon": 18.2064854,
-            "timestamp": "2022-03-11T13:16:28Z",
-            "version": 1,
-            "changeset": 118363843,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 54.8304195,
+            "lon": 18.2064506,
+            "timestamp": "2022-04-06T10:47:45Z",
+            "version": 2,
+            "changeset": 119380802,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED dostępny z zewnątrz.",
@@ -56772,6 +56788,407 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645340148,
+            "lat": 54.3276954,
+            "lon": 18.6406615,
+            "timestamp": "2022-04-06T10:51:18Z",
+            "version": 1,
+            "changeset": 119380956,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645351959,
+            "lat": 54.5482057,
+            "lon": 16.9247091,
+            "timestamp": "2022-04-06T10:38:16Z",
+            "version": 1,
+            "changeset": 119380405,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "urządzenie na zewnętrznej ścianie budynku świetlicy wiejskiej przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Sołectwo Charnowo",
+                "phone": "793650990"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645357979,
+            "lat": 54.3355496,
+            "lon": 18.5986174,
+            "timestamp": "2022-04-06T10:58:06Z",
+            "version": 1,
+            "changeset": 119381271,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645358443,
+            "lat": 54.3517452,
+            "lon": 18.6534823,
+            "timestamp": "2022-04-06T10:48:25Z",
+            "version": 1,
+            "changeset": 119380839,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645366625,
+            "lat": 54.8304296,
+            "lon": 18.2064967,
+            "timestamp": "2022-04-06T10:47:45Z",
+            "version": 1,
+            "changeset": 119380802,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urzadzenie zmontowane na elewacji budynku Straznicy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Karwi",
+                "phone": "58 674 70 48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645369080,
+            "lat": 54.4133962,
+            "lon": 18.6242785,
+            "timestamp": "2022-04-06T10:53:32Z",
+            "version": 1,
+            "changeset": 119381062,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645369126,
+            "lat": 54.4125995,
+            "lon": 18.5872436,
+            "timestamp": "2022-04-06T10:54:07Z",
+            "version": 1,
+            "changeset": 119381085,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645370169,
+            "lat": 54.3746896,
+            "lon": 18.7310436,
+            "timestamp": "2022-04-06T11:01:52Z",
+            "version": 1,
+            "changeset": 119381438,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Wydmy 1 (Kąpielisko Stogi)",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645372227,
+            "lat": 54.324838,
+            "lon": 18.6142538,
+            "timestamp": "2022-04-06T10:49:48Z",
+            "version": 1,
+            "changeset": 119380899,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645372288,
+            "lat": 54.3384774,
+            "lon": 18.6186681,
+            "timestamp": "2022-04-06T11:00:34Z",
+            "version": 1,
+            "changeset": 119381385,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Sikorskiego (przystanek tramwajowy)",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645388300,
+            "lat": 54.3539117,
+            "lon": 18.6566729,
+            "timestamp": "2022-04-06T10:59:25Z",
+            "version": 1,
+            "changeset": 119381327,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645390625,
+            "lat": 54.0869164,
+            "lon": 18.7932801,
+            "timestamp": "2022-04-06T11:03:37Z",
+            "version": 1,
+            "changeset": 119381504,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "w pomieszczeniu dozoru urzędu",
+                "defibrillator:location:en": "in the office surveillance room",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Miejski Tczew",
+                "phone": "+48 58 77 59 321"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645390636,
+            "lat": 54.3564031,
+            "lon": 18.6430552,
+            "timestamp": "2022-04-06T11:10:55Z",
+            "version": 1,
+            "changeset": 119381867,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645392473,
+            "lat": 54.6049037,
+            "lon": 18.8025989,
+            "timestamp": "2022-04-06T11:11:31Z",
+            "version": 1,
+            "changeset": 119381894,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Elewacja budynku Urzędu Miasta Helu - ściana od ulicy Żeglarskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Helu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645393422,
+            "lat": 54.5391868,
+            "lon": 17.7406513,
+            "timestamp": "2022-04-06T11:01:11Z",
+            "version": 1,
+            "changeset": 119381411,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduję się na zewnątrz, przy drzwiach wejściowych w prawym skrzydle budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Sarostwo Powiatowe w Lęborku",
+                "phone": "598624806",
+                "roboczy_adres": "Starostwo Powiatowe w Lęborku, Czołgistów 5",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645399853,
+            "lat": 54.4286516,
+            "lon": 18.4684401,
+            "timestamp": "2022-04-06T11:09:46Z",
+            "version": 1,
+            "changeset": 119381811,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645421448,
+            "lat": 54.4002017,
+            "lon": 18.6647992,
+            "timestamp": "2022-04-06T11:14:15Z",
+            "version": 1,
+            "changeset": 119381999,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645422232,
+            "lat": 54.32536,
+            "lon": 18.6338137,
+            "timestamp": "2022-04-06T11:08:26Z",
+            "version": 1,
+            "changeset": 119381741,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Dworcowa 9 (Gdański Archipelak Kultury)",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645424031,
+            "lat": 54.4310031,
+            "lon": 18.4677085,
+            "timestamp": "2022-04-06T11:12:38Z",
+            "version": 1,
+            "changeset": 119381944,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zamontowane na ścianie sali gimnastycznej , wejście na basen",
+                "emergency": "defibrillator",
+                "operator": "Szkoła Podstawowa nr 81",
+                "phone": "+48 58 552 70 31"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645425044,
+            "lat": 54.4087551,
+            "lon": 18.5882869,
+            "timestamp": "2022-04-06T11:10:29Z",
+            "version": 1,
+            "changeset": 119381852,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Skrzyżowanie Bora Komorowskiego/ Chłopska",
+                "typ": "fixed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645427243,
+            "lat": 54.3500852,
+            "lon": 18.6598882,
+            "timestamp": "2022-04-06T11:13:44Z",
+            "version": 1,
+            "changeset": 119381986,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "WBiZK",
