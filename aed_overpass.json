@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-06T14:31:42Z",
+        "timestamp_osm_base": "2022-04-06T15:31:34Z",
         "timestamp_areas_base": "2022-04-06T13:15:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9529,18 +9529,21 @@
         {
             "type": "node",
             "id": 9385745217,
-            "lat": 51.7680396,
-            "lon": 19.3653657,
-            "timestamp": "2022-01-02T14:10:29Z",
-            "version": 2,
-            "changeset": 115671230,
+            "lat": 51.7680487,
+            "lon": 19.365346,
+            "timestamp": "2022-04-06T14:47:56Z",
+            "version": 3,
+            "changeset": 119391242,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie garażu OSP",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "operator": "OSP Łódź-Stare Złotno",
+                "phone": "+48 42 632 47 97"
             }
         },
         {
@@ -58147,6 +58150,25 @@
         },
         {
             "type": "node",
+            "id": 9645820783,
+            "lat": 54.3409787,
+            "lon": 18.6688767,
+            "timestamp": "2022-04-06T14:32:43Z",
+            "version": 1,
+            "changeset": 119390647,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu, w pomieszczeniu portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa Nr 59 im. 1 Dywizji Pancernej gen. Stanisława Maczka",
+                "phone": "+48 58 306 96 99"
+            }
+        },
+        {
+            "type": "node",
             "id": 9645821744,
             "lat": 54.3533995,
             "lon": 18.4809654,
@@ -58239,6 +58261,384 @@
                 "indoor": "yes",
                 "operator": "WBiZK",
                 "phone": "+ 48 58 778 60 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645867968,
+            "lat": 51.737981,
+            "lon": 19.4632013,
+            "timestamp": "2022-04-06T14:38:28Z",
+            "version": 1,
+            "changeset": 119390859,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Budynku Urzędu Stanu Cywilnego",
+                "defibrillator:location:en": "In the Registry Office Building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Łodzi",
+                "phone": "+48 42 638 58 02"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645886814,
+            "lat": 54.3421328,
+            "lon": 18.6573238,
+            "timestamp": "2022-04-06T14:33:10Z",
+            "version": 1,
+            "changeset": 119390664,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Należy wejść do szkoły od ul. Śluza , AED znajduje się przy portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 65 im. Alfa Liczmańskiego",
+                "phone": "+48 58 301 45 46"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645890261,
+            "lat": 54.3867806,
+            "lon": 18.6044513,
+            "timestamp": "2022-04-06T14:34:08Z",
+            "version": 1,
+            "changeset": 119390704,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na korytarzu blisko głównych drzwi wejściowych do szkoły i sekretariatu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "X Liceum Oglnokształcące",
+                "phone": "+48 58 341 49 15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645890270,
+            "lat": 54.3590043,
+            "lon": 18.6487681,
+            "timestamp": "2022-04-06T14:35:36Z",
+            "version": 1,
+            "changeset": 119390757,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Znajduje się przy portierni w budynku szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "I Liceum Ogólnokształcące im. M. Kopernika",
+                "phone": "+48 58 301 67 34"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645899353,
+            "lat": 54.4081013,
+            "lon": 18.5840547,
+            "timestamp": "2022-04-06T14:34:34Z",
+            "version": 1,
+            "changeset": 119390723,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "na parterze budynku szkoły, przed wejściem do sali gimnastycznej, na ścianie po lewej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zespół Szkół Specjalnych nr 2",
+                "phone": "+48 58 553 59 34"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645899393,
+            "lat": 54.3523106,
+            "lon": 18.6738278,
+            "timestamp": "2022-04-06T14:51:16Z",
+            "version": 1,
+            "changeset": 119391367,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "hol, przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "VI Liceum Ogólnokształcące im. Obrońców Helu",
+                "phone": "+48 58 346 38 21"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645901214,
+            "lat": 54.3270272,
+            "lon": 18.6247492,
+            "timestamp": "2022-04-06T14:35:12Z",
+            "version": 1,
+            "changeset": 119390737,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "urządzenie znajduje się przy głównym wejściu do szkoły - zaraz po wejściu po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 19",
+                "phone": "+48 58 306 75 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645903525,
+            "lat": 51.7520755,
+            "lon": 19.5748319,
+            "timestamp": "2022-04-06T14:40:25Z",
+            "version": 1,
+            "changeset": 119390942,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Punkt socjalny na krańcówce",
+                "defibrillator:location:en": "Social point at the bus stop",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "UMŁ / MPK Łódź sp. z o.o.",
+                "phone": "+48 42 672 11 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645904078,
+            "lat": 54.3779105,
+            "lon": 18.6212935,
+            "timestamp": "2022-04-06T14:39:11Z",
+            "version": 1,
+            "changeset": 119390884,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "kancelaria MOPR (parter)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "MOPR",
+                "phone": "+48 58 342 31 50"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645906067,
+            "lat": 54.352451,
+            "lon": 18.6451713,
+            "timestamp": "2022-04-06T14:40:57Z",
+            "version": 1,
+            "changeset": 119390965,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "WKiO",
+                "phone": "+48 58 526 81 02"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645909055,
+            "lat": 54.2741519,
+            "lon": 18.4794123,
+            "timestamp": "2022-04-06T14:41:40Z",
+            "version": 1,
+            "changeset": 119390985,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku na Przystani Żeglarskiej Kolbudy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Kolbudy",
+                "phone": "+48 58 691 05 37"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645925104,
+            "lat": 54.3774805,
+            "lon": 18.602755,
+            "timestamp": "2022-04-06T14:43:38Z",
+            "version": 1,
+            "changeset": 119391059,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Po wejściu do budynku wejściem głównym od ul. Sosnowej, antresola parteru, po prawej stronie ściana sali świetlicy nad hydrantem",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 45 im. Bohaterów Westerplatte",
+                "phone": "+48 58 341 47 13"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645931375,
+            "lat": 54.3584615,
+            "lon": 18.6912235,
+            "timestamp": "2022-04-06T14:45:41Z",
+            "version": 1,
+            "changeset": 119391129,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku, od wejścia głownego po lewej stronie 15 m w głab korytarza",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 58 307 38 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645932167,
+            "lat": 54.3440325,
+            "lon": 18.5621866,
+            "timestamp": "2022-04-06T14:42:09Z",
+            "version": 1,
+            "changeset": 119391005,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Brak oznakowania",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 85 im. Zrzeszenia Kaszubsko - Pomorskiego",
+                "phone": "+48 58 322 15 25"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645934368,
+            "lat": 54.3103341,
+            "lon": 18.6203144,
+            "timestamp": "2022-04-06T14:46:17Z",
+            "version": 1,
+            "changeset": 119391165,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645934878,
+            "lat": 54.3466663,
+            "lon": 18.6638128,
+            "timestamp": "2022-04-06T14:48:59Z",
+            "version": 1,
+            "changeset": 119391282,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "sekretariat szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 4 w Gdańsku",
+                "phone": "+48 58 301 54 31"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645935039,
+            "lat": 54.3928628,
+            "lon": 18.5944287,
+            "timestamp": "2022-04-06T14:44:15Z",
+            "version": 1,
+            "changeset": 119391079,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście główne - parter na ścianie przy portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zjednoczonej Europy",
+                "phone": "+48 537 007 774"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645935040,
+            "lat": 54.4196991,
+            "lon": 18.5732061,
+            "timestamp": "2022-04-06T14:47:11Z",
+            "version": 1,
+            "changeset": 119391211,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w segmencie głównym szkoły, przy portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zespół Szkół Sportowych i Mistrzostwa Sportowego im. Janusza Kusocińskiego w Gdańsku",
+                "phone": "+48 58 717 10 27"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645940222,
+            "lat": 54.3585287,
+            "lon": 18.5931359,
+            "timestamp": "2022-04-06T14:46:46Z",
+            "version": 1,
+            "changeset": 119391193,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy portierni głównej szkoly",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 1 w Gdańsku",
+                "phone": "+48 58 341 01 67"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645946818,
+            "lat": 51.7363818,
+            "lon": 19.5090859,
+            "timestamp": "2022-04-06T14:50:27Z",
+            "version": 1,
+            "changeset": 119391331,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Punkt socjalny na krańcówce",
+                "defibrillator:location:en": "Social point at the bus stop",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "UMŁ / MPK Łódź sp. z o.o.",
+                "phone": "+48 42 672 11 11"
             }
         },
         {
