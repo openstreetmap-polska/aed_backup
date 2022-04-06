@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-06T13:31:51Z",
+        "timestamp_osm_base": "2022-04-06T14:31:42Z",
         "timestamp_areas_base": "2022-04-06T13:15:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -58143,6 +58143,102 @@
                 "indoor": "yes",
                 "operator": "Zespół Szkół Ogólnokształcących nr 8 im. Jana Pawła II",
                 "phone": "+48 58 346 94 32"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645821744,
+            "lat": 54.3533995,
+            "lon": 18.4809654,
+            "timestamp": "2022-04-06T14:19:59Z",
+            "version": 1,
+            "changeset": 119390056,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "urządzenie znajduje się na parterze,zawieszone na ścianie na wprost sekretariatu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 83",
+                "phone": "+48 58 349 56 74"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645821807,
+            "lat": 54.2731382,
+            "lon": 18.4642379,
+            "timestamp": "2022-04-06T14:22:00Z",
+            "version": 1,
+            "changeset": 119390147,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Urząd Gminy Kolbudy",
+                "phone": "+48 58 691 05 46"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645859286,
+            "lat": 54.3164314,
+            "lon": 18.5894848,
+            "timestamp": "2022-04-06T14:30:38Z",
+            "version": 1,
+            "changeset": 119390551,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku - podpiwnicze, przy wejściu dla uczniów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 86 im. prof. Jerzego Sampa w Gdansku",
+                "phone": "+48 58 309 93 08"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645859943,
+            "lat": 51.7949797,
+            "lon": 19.5240862,
+            "timestamp": "2022-04-06T14:19:28Z",
+            "version": 1,
+            "changeset": 119390025,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku OSP",
+                "defibrillator:location:en": "On the OSP building",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Łódź- Sikawa",
+                "phone": "+48 515 567 460"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9645859944,
+            "lat": 54.356719,
+            "lon": 18.639097,
+            "timestamp": "2022-04-06T14:22:28Z",
+            "version": 1,
+            "changeset": 119390171,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "WBiZK",
+                "phone": "+ 48 58 778 60 00"
             }
         },
         {
