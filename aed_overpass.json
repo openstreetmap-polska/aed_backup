@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-07T10:31:25Z",
+        "timestamp_osm_base": "2022-04-07T11:32:29Z",
         "timestamp_areas_base": "2022-04-07T10:26:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49323,16 +49323,18 @@
             "id": 9568924617,
             "lat": 52.1422509,
             "lon": 16.7570178,
-            "timestamp": "2022-03-10T14:43:19Z",
-            "version": 1,
-            "changeset": 118326870,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-04-07T11:11:30Z",
+            "version": 2,
+            "changeset": 119424971,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do Urzędu Gminy w Czempiniu.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Czempiniu"
             }
         },
         {
