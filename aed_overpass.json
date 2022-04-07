@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-07T13:31:54Z",
+        "timestamp_osm_base": "2022-04-07T14:31:39Z",
         "timestamp_areas_base": "2022-04-07T12:29:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -58642,6 +58642,24 @@
                 "indoor": "yes",
                 "operator": "UMŁ / MPK Łódź sp. z o.o.",
                 "phone": "+48 42 672 11 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9649137817,
+            "lat": 52.4129992,
+            "lon": 16.91646,
+            "timestamp": "2022-04-07T14:00:01Z",
+            "version": 1,
+            "changeset": 119431573,
+            "user": "kasmar00",
+            "uid": 4052940,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok drzwi",
+                "defibrillator:location:en": "On the wall next to entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
