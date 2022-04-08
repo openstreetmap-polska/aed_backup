@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-08T14:31:54Z",
-        "timestamp_areas_base": "2022-04-08T11:42:39Z",
+        "timestamp_osm_base": "2022-04-08T15:32:44Z",
+        "timestamp_areas_base": "2022-04-08T14:44:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3441,16 +3441,21 @@
             "id": 8461898904,
             "lat": 54.4085793,
             "lon": 18.5884816,
-            "timestamp": "2021-02-26T18:36:17Z",
-            "version": 1,
-            "changeset": 100069545,
+            "timestamp": "2022-04-08T15:08:25Z",
+            "version": 2,
+            "changeset": 119475084,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
-                "defibrillator:location": "słup na trawniku",
+                "access": "yes",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "WBiZK",
+                "phone": "+48 58 778 60 00",
+                "roboczy_adres": "Gdańsk, ul. Skrzyżowanie Bora Komorowskiego/ Chłopska",
+                "typ": "fixed"
             }
         },
         {
@@ -57169,27 +57174,6 @@
                 "emergency": "defibrillator",
                 "operator": "Szkoła Podstawowa nr 81",
                 "phone": "+48 58 552 70 31"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9645425044,
-            "lat": 54.4087551,
-            "lon": 18.5882869,
-            "timestamp": "2022-04-06T11:10:29Z",
-            "version": 1,
-            "changeset": 119381852,
-            "user": "Cristoffs",
-            "uid": 6765127,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "wolnostojący postument",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "operator": "WBiZK",
-                "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Skrzyżowanie Bora Komorowskiego/ Chłopska",
-                "typ": "fixed"
             }
         },
         {
