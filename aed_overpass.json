@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-09T19:32:08Z",
-        "timestamp_areas_base": "2022-04-09T18:58:58Z",
+        "timestamp_osm_base": "2022-04-09T20:32:05Z",
+        "timestamp_areas_base": "2022-04-09T19:58:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -58858,6 +58858,27 @@
                 "indoor": "yes",
                 "operator": "Urząd Miasta Torunia",
                 "phone": "+48 566 11 84 54"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654553183,
+            "lat": 52.8751212,
+            "lon": 18.6961399,
+            "timestamp": "2022-04-09T19:43:19Z",
+            "version": 1,
+            "changeset": 119515984,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w budynku Urzędu Miejskiego.",
+                "defibrillator:location:en": "The device is located in the building of the Municipal Office.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa, Su off; PH off",
+                "operator": "Gmina Miejska Aleksandrów Kujawski",
+                "phone": "+48 54 282 68 43"
             }
         },
         {
