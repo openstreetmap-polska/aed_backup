@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-09T11:32:13Z",
-        "timestamp_areas_base": "2022-04-09T10:53:39Z",
+        "timestamp_osm_base": "2022-04-09T12:30:54Z",
+        "timestamp_areas_base": "2022-04-09T11:53:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -58646,6 +58646,40 @@
                 "defibrillator:location:en": "On the wall next to entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9653738118,
+            "lat": 51.8563659,
+            "lon": 19.4047631,
+            "timestamp": "2022-04-09T12:08:54Z",
+            "version": 1,
+            "changeset": 119501648,
+            "user": "lukubuku",
+            "uid": 12342978,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W urzędzie miasta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9653743517,
+            "lat": 51.8597638,
+            "lon": 19.4054494,
+            "timestamp": "2022-04-09T12:10:17Z",
+            "version": 1,
+            "changeset": 119501648,
+            "user": "lukubuku",
+            "uid": 12342978,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
