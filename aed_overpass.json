@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-09T18:31:25Z",
-        "timestamp_areas_base": "2022-04-09T17:58:02Z",
+        "timestamp_osm_base": "2022-04-09T19:32:08Z",
+        "timestamp_areas_base": "2022-04-09T18:58:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -58670,6 +58670,194 @@
                 "defibrillator:location": "W przychodni",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654404336,
+            "lat": 53.0141077,
+            "lon": 18.602013,
+            "timestamp": "2022-04-09T18:47:12Z",
+            "version": 1,
+            "changeset": 119514603,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "The defibrillator is located in the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 56 611 84 54"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654436054,
+            "lat": 53.0001417,
+            "lon": 18.6145979,
+            "timestamp": "2022-04-09T18:37:50Z",
+            "version": 1,
+            "changeset": 119514348,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "The defibrillator is located in the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 56 611 84 54"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654436055,
+            "lat": 52.99075,
+            "lon": 18.5449,
+            "timestamp": "2022-04-09T18:37:50Z",
+            "version": 1,
+            "changeset": 119514348,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "Roboczy_opis": "Mała Nieszawka, ul. Toruńska 74",
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku supermarketu Dino.",
+                "defibrillator:location:en": "The AED is located inside the Dino supermarket building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:00-22:30; Su 08:30-20:00; PH off",
+                "operator": "Urząd Gminy Wielka Nieszawka",
+                "phone": "+48 56 678 12 12"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654446743,
+            "lat": 53.4660899,
+            "lon": 18.7475898,
+            "timestamp": "2022-04-09T18:58:23Z",
+            "version": 1,
+            "changeset": 119514849,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wewnętrznej ścianie budynku na parterze. Miejsce jest oznaczone.",
+                "defibrillator:location:en": "On the inner wall of the building on the ground floor. The place is marked.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo, We, Th 07:30-15:30; Tu 07:30 -17:00; Fr 07:00-13:30; Sa,Su off; PH off",
+                "operator": "Urząd Miejski",
+                "phone": "+48 56 465 62 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654454294,
+            "lat": 53.4906884,
+            "lon": 18.7530906,
+            "timestamp": "2022-04-09T18:45:01Z",
+            "version": 1,
+            "changeset": 119514554,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wewnętrznej ścianie budynku na parterze.",
+                "defibrillator:location:en": "On the inner wall of the building on the ground floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo,We,Th 07:30-15:30; Tu 07:30-17:00; Fr 07:00-13:30; Sa,Su off; PH off",
+                "operator": "Urząd Miejski",
+                "phone": "+48 56 451 03 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654470914,
+            "lat": 53.4932324,
+            "lon": 18.7578904,
+            "timestamp": "2022-04-09T19:12:17Z",
+            "version": 1,
+            "changeset": 119515219,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się na wewnętrznej ścianie budynku na parterze.",
+                "defibrillator:location:en": "The device is located on the inside wall of the building on the ground floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo, We, Th 07:30-15:30; Tu 07:30 -17:00; Fr 07:00-13:30; Sa,Su off; PH off",
+                "operator": "Urząd Miejski",
+                "phone": "+48 56 451 02 62"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654473681,
+            "lat": 53.0251539,
+            "lon": 18.6025638,
+            "timestamp": "2022-04-09T19:06:01Z",
+            "version": 1,
+            "changeset": 119515033,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "The defibrillator is located in the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 566 11 84 54"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654502565,
+            "lat": 52.7531001,
+            "lon": 18.2612018,
+            "timestamp": "2022-04-09T19:20:30Z",
+            "version": 1,
+            "changeset": 119515435,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wejście A, I piętro budynku, klatka schodowa.",
+                "defibrillator:location:en": "Entrance A, 1st floor, staircase.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa-Su off; PH off",
+                "operator": "Starostwo Powiatowe w Inowrocławiu",
+                "phone": "+48 523 59 22 43"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9654508556,
+            "lat": 53.0311677,
+            "lon": 18.6117618,
+            "timestamp": "2022-04-09T19:16:17Z",
+            "version": 1,
+            "changeset": 119515314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "The defibrillator is located in the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 566 11 84 54"
             }
         },
         {
