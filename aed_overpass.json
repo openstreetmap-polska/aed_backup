@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-10T15:31:10Z",
-        "timestamp_areas_base": "2022-04-10T15:08:03Z",
+        "timestamp_osm_base": "2022-04-10T16:32:05Z",
+        "timestamp_areas_base": "2022-04-10T16:08:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54786,17 +54786,18 @@
             "id": 9610767517,
             "lat": 54.4223858,
             "lon": 16.4106091,
-            "timestamp": "2022-03-27T12:58:23Z",
-            "version": 1,
-            "changeset": 118979930,
-            "user": "GCLpl",
-            "uid": 8481269,
+            "timestamp": "2022-04-10T16:05:55Z",
+            "version": 2,
+            "changeset": 119541674,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie za drzwiami wahadłowymi",
                 "defibrillator:location:en": "On the wall behind the swinging door",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-We 07:00-15:00; Th 07:00-16:00; Fr 07:00-14:00; Sa,Su off; PH off"
             }
         },
         {
