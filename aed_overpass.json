@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-10T09:31:55Z",
-        "timestamp_areas_base": "2022-04-10T09:04:28Z",
+        "timestamp_osm_base": "2022-04-10T10:31:19Z",
+        "timestamp_areas_base": "2022-04-10T10:04:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -43261,17 +43261,20 @@
             "id": 9530062417,
             "lat": 53.0263273,
             "lon": 18.6275998,
-            "timestamp": "2022-02-23T14:09:24Z",
-            "version": 1,
-            "changeset": 117772575,
-            "user": "wojkrysz",
-            "uid": 2228365,
+            "timestamp": "2022-04-10T10:12:25Z",
+            "version": 2,
+            "changeset": 119529711,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Defibrylator wewnątrz budynku Centrum Nowoczesności Młyn Wiedzy, przy stanowisku ,,Informacja'', za podwójnymi drzwiami wejściowymi kierować się w lewo.",
                 "defibrillator:location:en": "AED inside the building, near the information desk, once inside - turn left.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo off; Tu-Fr 09:00-15:00; Sa,Su 11:00-17:00; PH off",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 566 11 84 54"
             }
         },
         {
@@ -58879,6 +58882,28 @@
                 "opening_hours": "Mo-Fr 07:30-15:30; Sa, Su off; PH off",
                 "operator": "Gmina Miejska Aleksandrów Kujawski",
                 "phone": "+48 54 282 68 43"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655652385,
+            "lat": 53.4566314,
+            "lon": 17.5380351,
+            "timestamp": "2022-04-10T10:22:05Z",
+            "version": 1,
+            "changeset": 119529984,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "Roboczy_opis": "ul. Kościuszki 11; 89-400 Sępólno Krajeńskie",
+                "access": "customers",
+                "defibrillator:location": "I piętro, korytarz, po lewej stronie od wejscia do Wydziału Komunikacji i Dróg Starostwa Powiatowego",
+                "defibrillator:location:en": "1st floor, corridor, on the left from the entrance to the Department of Communications and Roads of the County Office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 07:30-15:30; Tu 07:30-16:00; Fr 07:30-15:00; Sa,Su off; PH off",
+                "operator": "Urząd",
+                "phone": "+48 523 88 13 00"
             }
         },
         {
