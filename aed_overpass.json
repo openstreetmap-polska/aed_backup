@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-10T10:31:19Z",
-        "timestamp_areas_base": "2022-04-10T10:04:09Z",
+        "timestamp_osm_base": "2022-04-10T11:31:18Z",
+        "timestamp_areas_base": "2022-04-10T11:04:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -26404,24 +26404,6 @@
         },
         {
             "type": "node",
-            "id": 9459253799,
-            "lat": 51.74479,
-            "lon": 15.5964579,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Kożuchów"
-            }
-        },
-        {
-            "type": "node",
             "id": 9459253800,
             "lat": 52.36241,
             "lon": 19.2814,
@@ -49605,40 +49587,6 @@
         },
         {
             "type": "node",
-            "id": 9570303717,
-            "lat": 53.4936565,
-            "lon": 18.7483683,
-            "timestamp": "2022-03-11T08:02:07Z",
-            "version": 1,
-            "changeset": 118351991,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Defibrylator AED znajduje się w budynku ratusza.",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9570308117,
-            "lat": 53.4934833,
-            "lon": 18.7618552,
-            "timestamp": "2022-03-11T08:03:57Z",
-            "version": 1,
-            "changeset": 118351991,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Defibrylator AED w budynku Straży Miejskiej.",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9570313004,
             "lat": 53.3374407,
             "lon": 17.0820475,
@@ -58886,6 +58834,46 @@
         },
         {
             "type": "node",
+            "id": 9655570091,
+            "lat": 51.7445784,
+            "lon": 15.5960419,
+            "timestamp": "2022-04-10T10:44:19Z",
+            "version": 1,
+            "changeset": 119530591,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy drzwiach wejściowych do remizy.",
+                "defibrillator:location:en": "On the wall by the entrance door to the fire brigade.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Kożuchów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655637264,
+            "lat": 53.0174436,
+            "lon": 18.5884656,
+            "timestamp": "2022-04-10T10:32:29Z",
+            "version": 1,
+            "changeset": 119530243,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku.",
+                "defibrillator:location:en": "In the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 566 11 84 54"
+            }
+        },
+        {
+            "type": "node",
             "id": 9655652385,
             "lat": 53.4566314,
             "lon": 17.5380351,
@@ -58904,6 +58892,131 @@
                 "opening_hours": "Mo-Th 07:30-15:30; Tu 07:30-16:00; Fr 07:30-15:00; Sa,Su off; PH off",
                 "operator": "Urząd",
                 "phone": "+48 523 88 13 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655671567,
+            "lat": 53.0098854,
+            "lon": 18.5687887,
+            "timestamp": "2022-04-10T11:09:04Z",
+            "version": 1,
+            "changeset": 119531347,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "In the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 56 61 18 454"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655677401,
+            "lat": 53.4934604,
+            "lon": 18.7618485,
+            "timestamp": "2022-04-10T11:20:25Z",
+            "version": 1,
+            "changeset": 119531693,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku. Na ścianie na parterze.",
+                "defibrillator:location:en": "In the building. On the wall on the ground floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo, We, Th 07:30-15:30; Tu 07:30 -17:00; Fr 07:00-13:30; Sa,Su off; PH off",
+                "operator": "Urząd Miejski",
+                "phone": "+48 56 451 03 62"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655693748,
+            "lat": 53.4935168,
+            "lon": 18.748437,
+            "timestamp": "2022-04-10T11:01:47Z",
+            "version": 1,
+            "changeset": 119531146,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku, na parterze, na ścianie po prawej stronie dyżurki.",
+                "defibrillator:location:en": "In the building, on the ground floor, on the wall on the right side of the duty room.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo, We, Th 07:30-15:30; Tu 07:30 -17:00; Fr 07:00-13:30; Sa,Su off; PH off",
+                "operator": "Urząd Miejski",
+                "phone": "+48 56 451 02 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655707737,
+            "lat": 53.0127021,
+            "lon": 18.6039451,
+            "timestamp": "2022-04-10T10:50:47Z",
+            "version": 1,
+            "changeset": 119530799,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "In the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-17:00; Sa,Su off; PH off",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 56 611 84 54"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655709373,
+            "lat": 52.7930647,
+            "lon": 18.2492335,
+            "timestamp": "2022-04-10T11:16:30Z",
+            "version": 1,
+            "changeset": 119531602,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter budynku, w korytarzu przy pokoju nr 101.",
+                "defibrillator:location:en": "The ground floor of the building, in the corridor next to room 101.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "operator": "Starostwo Powiatowe w Inowrocławiu",
+                "phone": "+48 523 59 22 43"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9655730960,
+            "lat": 53.0181549,
+            "lon": 18.546402,
+            "timestamp": "2022-04-10T11:11:39Z",
+            "version": 1,
+            "changeset": 119531419,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w budynku.",
+                "defibrillator:location:en": "In the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Torunia",
+                "phone": "+48 56 61 18 454"
             }
         },
         {
