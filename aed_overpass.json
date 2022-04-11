@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-11T11:31:32Z",
+        "timestamp_osm_base": "2022-04-11T12:32:10Z",
         "timestamp_areas_base": "2022-04-11T11:18:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53945,18 +53945,18 @@
             "id": 9608383404,
             "lat": 52.2403765,
             "lon": 21.0169587,
-            "timestamp": "2022-03-26T09:54:13Z",
-            "version": 1,
-            "changeset": 118940359,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-11T12:17:56Z",
+            "version": 2,
+            "changeset": 119576750,
+            "user": "Tetryk",
+            "uid": 13505870,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W Pałacu Tyszkiewiczów",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Muzeum Uniwersytetu Warszawskiego",
-                "phone": "22 55 20 107"
+                "phone": "+48 22 55 20 107"
             }
         },
         {
