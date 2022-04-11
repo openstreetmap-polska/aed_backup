@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-11T16:32:07Z",
-        "timestamp_areas_base": "2022-04-11T15:20:23Z",
+        "timestamp_osm_base": "2022-04-11T17:31:49Z",
+        "timestamp_areas_base": "2022-04-11T17:21:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59019,6 +59019,165 @@
                 "indoor": "yes",
                 "operator": "Urząd Miasta Torunia",
                 "phone": "+48 56 61 18 454"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975782,
+            "lat": 54.3961862,
+            "lon": 18.5699791,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 24 01; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975783,
+            "lat": 54.3969427,
+            "lon": 18.5725159,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 21 11; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975784,
+            "lat": 54.3935303,
+            "lon": 18.5765053,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 50 02; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975785,
+            "lat": 54.3950617,
+            "lon": 18.5763672,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 60 00; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975789,
+            "lat": 54.3960887,
+            "lon": 18.5735011,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 21 02; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975790,
+            "lat": 54.3985697,
+            "lon": 18.5708337,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 30 01; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9658975791,
+            "lat": 54.3970173,
+            "lon": 18.5744321,
+            "timestamp": "2022-04-11T17:04:33Z",
+            "version": 1,
+            "changeset": 119588314,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 32 42"
             }
         },
         {
