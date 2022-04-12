@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-12T07:31:05Z",
-        "timestamp_areas_base": "2022-04-12T07:29:06Z",
+        "timestamp_osm_base": "2022-04-12T08:31:10Z",
+        "timestamp_areas_base": "2022-04-12T08:30:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -17242,17 +17242,18 @@
             "id": 9437937891,
             "lat": 50.278266,
             "lon": 19.1337608,
-            "timestamp": "2022-01-21T20:18:52Z",
-            "version": 1,
-            "changeset": 116446246,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-04-12T07:34:10Z",
+            "version": 2,
+            "changeset": 119608096,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Parter budynku przy windzie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "opening_hours": "Mo 07:30-18:00;Tu-Th 07:30-15:30;Fr 07:30-13:00",
                 "operator": "Urząd Miasta Sosnowiec",
                 "phone": "+48 32 393 94 55"
             }
