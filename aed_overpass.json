@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-14T15:32:25Z",
+        "timestamp_osm_base": "2022-04-14T16:31:23Z",
         "timestamp_areas_base": "2022-04-14T13:58:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59443,6 +59443,42 @@
             "user": "pylades1971",
             "uid": 2328044,
             "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9666248317,
+            "lat": 52.2343868,
+            "lon": 20.9873248,
+            "timestamp": "2022-04-14T15:36:55Z",
+            "version": 1,
+            "changeset": 119718636,
+            "user": "Kazubek",
+            "uid": 15580264,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Recepcja Grzybowska 60",
+                "defibrillator:location:en": "Reception desk Grzybowska 60",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9666250117,
+            "lat": 52.2352274,
+            "lon": 20.9880692,
+            "timestamp": "2022-04-14T15:38:05Z",
+            "version": 1,
+            "changeset": 119718636,
+            "user": "Kazubek",
+            "uid": 15580264,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Grzybowska 56 recepcja B",
+                "defibrillator:location:en": "Grzybowska 56 reception desk B",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
