@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-14T21:32:18Z",
-        "timestamp_areas_base": "2022-04-14T21:03:09Z",
+        "timestamp_osm_base": "2022-04-14T22:32:13Z",
+        "timestamp_areas_base": "2022-04-14T22:03:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59479,6 +59479,24 @@
                 "access": "yes",
                 "defibrillator:location": "Grzybowska 56 recepcja B",
                 "defibrillator:location:en": "Grzybowska 56 reception desk B",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9667008717,
+            "lat": 52.2343163,
+            "lon": 20.9860651,
+            "timestamp": "2022-04-14T22:32:07Z",
+            "version": 1,
+            "changeset": 119731453,
+            "user": "Kazubek",
+            "uid": 15580264,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na recepcji budynku",
+                "defibrillator:location:en": "Reception desk Grzybowska 62",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
