@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-15T09:31:17Z",
-        "timestamp_areas_base": "2022-04-15T09:07:59Z",
+        "timestamp_osm_base": "2022-04-15T10:32:10Z",
+        "timestamp_areas_base": "2022-04-15T10:08:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3441,20 +3441,20 @@
             "id": 8461898904,
             "lat": 54.4085793,
             "lon": 18.5884816,
-            "timestamp": "2022-04-08T15:08:25Z",
-            "version": 2,
-            "changeset": 119475084,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 3,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Gdańsk, ul. Skrzyżowanie Bora Komorowskiego/ Chłopska",
                 "opening_hours": "24/7",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Skrzyżowanie Bora Komorowskiego/ Chłopska",
                 "typ": "fixed"
             }
         },
@@ -56520,19 +56520,19 @@
             "id": 9645210588,
             "lat": 54.320037,
             "lon": 18.6360352,
-            "timestamp": "2022-04-06T09:57:20Z",
-            "version": 1,
-            "changeset": 119378367,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Gdańsk, ul. Smoleńska 6/ 8 (Zesół Szkół PS-CH)",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Smoleńska 6/ 8 (Zesół Szkół PS-CH)",
                 "typ": "fixed"
             }
         },
@@ -56896,19 +56896,19 @@
             "id": 9645370169,
             "lat": 54.3746896,
             "lon": 18.7310436,
-            "timestamp": "2022-04-06T11:01:52Z",
-            "version": 1,
-            "changeset": 119381438,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Gdańsk, ul. Wydmy 1 (Kąpielisko Stogi)",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Wydmy 1 (Kąpielisko Stogi)",
                 "typ": "fixed"
             }
         },
@@ -56936,18 +56936,18 @@
             "id": 9645372288,
             "lat": 54.3384774,
             "lon": 18.6186681,
-            "timestamp": "2022-04-06T11:00:34Z",
-            "version": 1,
-            "changeset": 119381385,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Gdańsk, ul. Sikorskiego (przystanek tramwajowy)",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Sikorskiego (przystanek tramwajowy)",
                 "typ": "fixed"
             }
         },
@@ -57030,19 +57030,19 @@
             "id": 9645393422,
             "lat": 54.5391868,
             "lon": 17.7406513,
-            "timestamp": "2022-04-06T11:01:11Z",
-            "version": 1,
-            "changeset": 119381411,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Urządzenie znajduję się na zewnątrz, przy drzwiach wejściowych w prawym skrzydle budynku.",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Starostwo Powiatowe w Lęborku, Czołgistów 5",
                 "operator": "Sarostwo Powiatowe w Lęborku",
                 "phone": "598624806",
-                "roboczy_adres": "Starostwo Powiatowe w Lęborku, Czołgistów 5",
                 "typ": "fixed"
             }
         },
@@ -57087,19 +57087,19 @@
             "id": 9645422232,
             "lat": 54.32536,
             "lon": 18.6338137,
-            "timestamp": "2022-04-06T11:08:26Z",
-            "version": 1,
-            "changeset": 119381741,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "object:addr": "Gdańsk, ul. Dworcowa 9 (Gdański Archipelak Kultury)",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "roboczy_adres": "Gdańsk, ul. Dworcowa 9 (Gdański Archipelak Kultury)",
                 "typ": "fixed"
             }
         },
@@ -57184,20 +57184,20 @@
             "id": 9645598506,
             "lat": 51.7184476,
             "lon": 19.4860569,
-            "timestamp": "2022-04-06T12:41:51Z",
-            "version": 1,
-            "changeset": 119385803,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "permissive",
                 "defibrillator:location": "Punkt socjalny na krańcówce",
                 "defibrillator:location:en": "Social point at the bus stop",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Krańcówka tramwajowa, Łódź-Kurczaki, 51.71841916887262, 19.48599573204637",
                 "operator": "UMŁ / MPK Łódź sp. z o.o.",
-                "phone": "(42) 6721111",
-                "roboczy_adres": "Krańcówka tramwajowa, Łódź-Kurczaki, 51.71841916887262, 19.48599573204637"
+                "phone": "(42) 6721111"
             }
         },
         {
@@ -57205,19 +57205,19 @@
             "id": 9645599347,
             "lat": 54.4134555,
             "lon": 18.5744607,
-            "timestamp": "2022-04-06T12:41:20Z",
-            "version": 1,
-            "changeset": 119385781,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Informację można uzyskać w sekretariacie. Wszyscy pracownicy obsługi również mogą przekazać informację",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Gdańsk, ul. Piastowska 35/37 (SPS37)",
                 "operator": "Szkoła Podstawowa Specjalna nr 37",
-                "phone": "(58) 558 31 13",
-                "roboczy_adres": "Gdańsk, ul. Piastowska 35/37 (SPS37)"
+                "phone": "(58) 558 31 13"
             }
         },
         {
@@ -57378,18 +57378,18 @@
             "id": 9645615295,
             "lat": 53.3308931,
             "lon": 18.1999549,
-            "timestamp": "2022-04-06T12:39:34Z",
-            "version": 1,
-            "changeset": 119385719,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "UMiG Pruszcz",
-                "roboczy_adres": "ul. Główna 33, 86-120 Pruszcz"
+                "object:addr": "ul. Główna 33, 86-120 Pruszcz",
+                "operator": "UMiG Pruszcz"
             }
         },
         {
@@ -57397,18 +57397,18 @@
             "id": 9645615296,
             "lat": 53.3308548,
             "lon": 18.1999165,
-            "timestamp": "2022-04-06T12:39:34Z",
-            "version": 1,
-            "changeset": 119385719,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "UMiG Pruszcz",
-                "roboczy_adres": "ul. Główna 33, 86-120 Pruszcz"
+                "object:addr": "ul. Główna 33, 86-120 Pruszcz",
+                "operator": "UMiG Pruszcz"
             }
         },
         {
@@ -57416,18 +57416,18 @@
             "id": 9645615297,
             "lat": 53.3309366,
             "lon": 18.199996,
-            "timestamp": "2022-04-06T12:39:34Z",
-            "version": 1,
-            "changeset": 119385719,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "UMiG Pruszcz",
-                "roboczy_adres": "ul. Główna 33, 86-120 Pruszcz"
+                "object:addr": "ul. Główna 33, 86-120 Pruszcz",
+                "operator": "UMiG Pruszcz"
             }
         },
         {
@@ -57474,19 +57474,19 @@
             "id": 9645622499,
             "lat": 54.3309613,
             "lon": 18.6281617,
-            "timestamp": "2022-04-06T12:43:55Z",
-            "version": 1,
-            "changeset": 119385904,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urządzenie znajduje się w portierni - zaraz obok głównego wejścia do budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Gdańsk, ul Małomiejska 8a (SP56)",
                 "operator": "Szkoła Podstawowa nr 56 w Gdańsku",
-                "phone": "(58) 309 44 21",
-                "roboczy_adres": "Gdańsk, ul Małomiejska 8a (SP56)"
+                "phone": "(58) 309 44 21"
             }
         },
         {
@@ -57494,19 +57494,19 @@
             "id": 9645624904,
             "lat": 54.3250043,
             "lon": 18.5841723,
-            "timestamp": "2022-04-06T12:44:26Z",
-            "version": 1,
-            "changeset": 119385933,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urządzenie znajduję się w budynku szkoły, przy wejściu głównym, przy pomieszczeniu całodobowej ochrony.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Gdańsk, ul. Człuchowska 6 (SP 12)",
                 "operator": "Szkoła Podstawowa nr 12 w Gdańsku",
-                "phone": "786 12 12 15",
-                "roboczy_adres": "Gdańsk, ul. Człuchowska 6 (SP 12)"
+                "phone": "786 12 12 15"
             }
         },
         {
@@ -57514,19 +57514,19 @@
             "id": 9645627202,
             "lat": 54.4189294,
             "lon": 18.5731355,
-            "timestamp": "2022-04-06T12:45:18Z",
-            "version": 1,
-            "changeset": 119385981,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "w segmencie budynku, w którym znajduje się basen, w pomieszczeniu ratowników",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Gdańsk, ul. Subisława 22 (ZSSIMS)",
                 "operator": "Zespół Szkół Sportowych i Mistrzostwa Sportowego im. Janusza Kusocińskiego w Gdańsku",
-                "phone": "+48 58 717 10 27",
-                "roboczy_adres": "Gdańsk, ul. Subisława 22 (ZSSIMS)"
+                "phone": "+48 58 717 10 27"
             }
         },
         {
@@ -57687,19 +57687,19 @@
             "id": 9645636529,
             "lat": 54.402267,
             "lon": 18.6625205,
-            "timestamp": "2022-04-06T12:54:59Z",
-            "version": 1,
-            "changeset": 119386328,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-15T09:53:48Z",
+            "version": 2,
+            "changeset": 119744077,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Główne wejście do budynku szkoły. Hol szkoły - przy sekretariacie pokój 1.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "object:addr": "Gdańsk, ul. Na Zaspę 31a (ZSO5)",
                 "operator": "Zespół Szkół Ogólnokształcących nr 5 w Gdańsku",
-                "phone": "(58) 343 13 06",
-                "roboczy_adres": "Gdańsk, ul. Na Zaspę 31a (ZSO5)"
+                "phone": "(58) 343 13 06"
             }
         },
         {
