@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-15T17:32:11Z",
-        "timestamp_areas_base": "2022-04-15T17:12:55Z",
+        "timestamp_osm_base": "2022-04-15T18:32:11Z",
+        "timestamp_areas_base": "2022-04-15T18:14:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59483,6 +59483,21 @@
                 "defibrillator:location:en": "Reception desk Grzybowska 62",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9668615670,
+            "lat": 53.3514384,
+            "lon": 18.4483487,
+            "timestamp": "2022-04-15T17:37:08Z",
+            "version": 1,
+            "changeset": 119759981,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator"
             }
         },
         {
