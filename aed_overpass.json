@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-15T10:32:10Z",
+        "timestamp_osm_base": "2022-04-15T11:32:11Z",
         "timestamp_areas_base": "2022-04-15T10:08:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -8567,22 +8567,6 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9376850188,
-            "lat": 51.1196635,
-            "lon": 20.8613823,
-            "timestamp": "2021-12-29T17:30:11Z",
-            "version": 1,
-            "changeset": 115530794,
-            "user": "lukubuku",
-            "uid": 12342978,
-            "tags": {
-                "defibrillator:location": "Defibrylator znajduje się na filarze w środku budynku",
-                "emergency": "defibrillator",
-                "indoor": "yes"
             }
         },
         {
