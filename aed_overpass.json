@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-17T07:31:21Z",
+        "timestamp_osm_base": "2022-04-17T08:32:09Z",
         "timestamp_areas_base": "2022-04-17T07:31:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59516,6 +59516,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671543150,
+            "lat": 50.3081047,
+            "lon": 18.9739206,
+            "timestamp": "2022-04-17T07:32:08Z",
+            "version": 1,
+            "changeset": 119806159,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
