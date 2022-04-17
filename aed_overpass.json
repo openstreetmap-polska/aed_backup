@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-17T08:32:09Z",
+        "timestamp_osm_base": "2022-04-17T09:31:54Z",
         "timestamp_areas_base": "2022-04-17T07:31:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59533,6 +59533,215 @@
                 "defibrillator:location": "gabinet zabiegowy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644330,
+            "lat": 50.1837908,
+            "lon": 19.4527319,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644334,
+            "lat": 50.1595522,
+            "lon": 19.4718679,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644335,
+            "lat": 50.1592752,
+            "lon": 19.4598342,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644337,
+            "lat": 50.1146364,
+            "lon": 19.4784134,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644338,
+            "lat": 50.1606174,
+            "lon": 19.4773409,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644339,
+            "lat": 50.1046033,
+            "lon": 19.3288685,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "defibrillator:location": "Przychodnia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644341,
+            "lat": 50.1598081,
+            "lon": 19.4750283,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644344,
+            "lat": 50.1494706,
+            "lon": 19.4937471,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644346,
+            "lat": 50.1648611,
+            "lon": 19.470615,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644347,
+            "lat": 50.1598894,
+            "lon": 19.520512,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "defibrillator:location": "Wiejski Dom Kultury, Władysława Łokietka, Karniowice",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644348,
+            "lat": 50.2040692,
+            "lon": 19.5117454,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644349,
+            "lat": 50.183859,
+            "lon": 19.4789571,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wiejski Dom LKultury",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 10:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9671644350,
+            "lat": 50.1435434,
+            "lon": 19.5330992,
+            "timestamp": "2022-04-17T08:41:32Z",
+            "version": 1,
+            "changeset": 119807986,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "emergency": "defibrillator"
             }
         },
         {
