@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-17T17:31:54Z",
-        "timestamp_areas_base": "2022-04-17T15:34:25Z",
+        "timestamp_osm_base": "2022-04-17T18:31:40Z",
+        "timestamp_areas_base": "2022-04-17T17:35:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -58863,13 +58863,13 @@
         {
             "type": "node",
             "id": 9655652385,
-            "lat": 53.4566314,
-            "lon": 17.5380351,
-            "timestamp": "2022-04-15T08:41:53Z",
-            "version": 2,
-            "changeset": 119741402,
-            "user": "mueschel",
-            "uid": 616774,
+            "lat": 53.4566272,
+            "lon": 17.538024,
+            "timestamp": "2022-04-17T17:56:03Z",
+            "version": 3,
+            "changeset": 119826503,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "I piętro, korytarz, po lewej stronie od wejscia do Wydziału Komunikacji i Dróg Starostwa Powiatowego",
