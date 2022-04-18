@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-18T18:31:12Z",
+        "timestamp_osm_base": "2022-04-18T19:31:11Z",
         "timestamp_areas_base": "2022-04-18T14:47:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59773,6 +59773,24 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9675191323,
+            "lat": 49.9244861,
+            "lon": 18.476394,
+            "timestamp": "2022-04-18T19:13:56Z",
+            "version": 2,
+            "changeset": 119874897,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
