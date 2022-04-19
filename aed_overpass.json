@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-19T10:31:54Z",
+        "timestamp_osm_base": "2022-04-19T11:31:40Z",
         "timestamp_areas_base": "2022-04-19T09:56:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59909,6 +59909,38 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9676929618,
+            "lat": 50.5030308,
+            "lon": 19.3934865,
+            "timestamp": "2022-04-19T10:49:54Z",
+            "version": 1,
+            "changeset": 119899558,
+            "user": "Straż Miejska Zawiercie",
+            "uid": 15625194,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wyposażenie pojazdu gaśniczo-ratowniczego.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9676929817,
+            "lat": 50.4930342,
+            "lon": 19.4936603,
+            "timestamp": "2022-04-19T10:46:09Z",
+            "version": 1,
+            "changeset": 119899558,
+            "user": "Straż Miejska Zawiercie",
+            "uid": 15625194,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wyposażenie pojazdu ratowniczo-gaśniczego",
+                "emergency": "defibrillator"
             }
         },
         {
