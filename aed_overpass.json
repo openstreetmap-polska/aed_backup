@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-19T06:31:47Z",
-        "timestamp_areas_base": "2022-04-19T05:55:11Z",
+        "timestamp_osm_base": "2022-04-19T07:31:32Z",
+        "timestamp_areas_base": "2022-04-19T06:55:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59808,6 +59808,24 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9676397317,
+            "lat": 52.8558152,
+            "lon": 16.1767813,
+            "timestamp": "2022-04-19T06:55:46Z",
+            "version": 1,
+            "changeset": 119890207,
+            "user": "Nadleśnictwo Potrzebowice",
+            "uid": 15624749,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "korytarz główny przy wejściu do Nadleśnictwa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "67 256-25-26"
             }
         },
         {
