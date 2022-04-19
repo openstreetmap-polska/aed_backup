@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.1 74a55df1",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-19T19:31:13Z",
-        "timestamp_areas_base": "2022-04-19T19:02:57Z",
+        "timestamp_osm_base": "2022-04-19T20:32:09Z",
+        "timestamp_areas_base": "2022-04-19T20:04:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2782,21 +2782,23 @@
         {
             "type": "node",
             "id": 7570550308,
-            "lat": 54.6049398,
-            "lon": 18.8027206,
-            "timestamp": "2022-03-11T09:44:58Z",
-            "version": 3,
-            "changeset": 118355392,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 54.6049251,
+            "lon": 18.8027225,
+            "timestamp": "2022-04-19T20:09:33Z",
+            "version": 4,
+            "changeset": 119923935,
+            "user": "maraf24",
+            "uid": 2098272,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "E/S corner of building",
-                "defibrillator:location:pl": "Południowo-wschodni narożnik budyku",
+                "check_date": "2022-04",
+                "defibrillator:location": "Południowo-wschodni narożnik budyku; ściana od ulicy Żeglarskiej",
+                "defibrillator:location:en": "E/S corner of building",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta Helu",
-                "phone": "+48791060604"
+                "phone": "+48791060604",
+                "source:location": "survey"
             }
         },
         {
@@ -56994,24 +56996,6 @@
         },
         {
             "type": "node",
-            "id": 9645392473,
-            "lat": 54.6049037,
-            "lon": 18.8025989,
-            "timestamp": "2022-04-06T11:11:31Z",
-            "version": 1,
-            "changeset": 119381894,
-            "user": "Cristoffs",
-            "uid": 6765127,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Elewacja budynku Urzędu Miasta Helu - ściana od ulicy Żeglarskiej",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "operator": "Ochotnicza Straż Pożarna w Helu"
-            }
-        },
-        {
-            "type": "node",
             "id": 9645393422,
             "lat": 54.5391868,
             "lon": 17.7406513,
@@ -59962,6 +59946,26 @@
                 "manufacturer": "Defibtech",
                 "opening_hours": "24/7",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9678381317,
+            "lat": 54.6072232,
+            "lon": 18.7998229,
+            "timestamp": "2022-04-19T20:12:35Z",
+            "version": 1,
+            "changeset": 119924050,
+            "user": "maraf24",
+            "uid": 2098272,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-04",
+                "defibrillator:location": "wewnątrz muzeum, przy kasie; by się do niego dostać, trzeba przejść przez dwie płatne bramki",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Stacja Morska",
+                "source:location": "survey"
             }
         },
         {
