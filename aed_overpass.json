@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-20T14:31:42Z",
-        "timestamp_areas_base": "2022-04-20T14:14:25Z",
+        "timestamp_osm_base": "2022-04-20T15:31:27Z",
+        "timestamp_areas_base": "2022-04-20T15:14:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59967,6 +59967,27 @@
                 "opening_hours": "24/7",
                 "operator": "Stacja Morska",
                 "source:location": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680349891,
+            "lat": 53.6516601,
+            "lon": 14.6354105,
+            "timestamp": "2022-04-20T15:08:51Z",
+            "version": 1,
+            "changeset": 119959278,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Hala – Maszynownia",
+                "defibrillator:location:en": "Hall - Engine room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 00:00-24:00",
+                "operator": "Ikea Industry Stepnica",
+                "phone": "+48 91 464 74 10"
             }
         },
         {
