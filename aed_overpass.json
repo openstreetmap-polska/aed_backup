@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-20T11:31:14Z",
-        "timestamp_areas_base": "2022-04-20T10:11:03Z",
+        "timestamp_osm_base": "2022-04-20T12:31:59Z",
+        "timestamp_areas_base": "2022-04-20T12:11:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2282,9 +2282,9 @@
             "id": 7174960472,
             "lat": 50.04064,
             "lon": 22.0011888,
-            "timestamp": "2020-01-31T13:09:43Z",
-            "version": 1,
-            "changeset": 80375218,
+            "timestamp": "2022-04-20T11:49:15Z",
+            "version": 2,
+            "changeset": 119950212,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
@@ -2292,6 +2292,7 @@
                 "defibrillator:location": "Inside bus stop shelter",
                 "defibrillator:location:pl": "Wewnątrz wiaty przystankowej",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "wheelchair": "yes"
             }
