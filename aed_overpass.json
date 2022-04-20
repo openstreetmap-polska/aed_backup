@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-20T17:32:59Z",
-        "timestamp_areas_base": "2022-04-20T17:15:40Z",
+        "timestamp_osm_base": "2022-04-20T18:31:41Z",
+        "timestamp_areas_base": "2022-04-20T18:16:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60032,6 +60032,29 @@
                 "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Resko",
                 "phone": "+48 91 8174 000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680823148,
+            "lat": 54.3536633,
+            "lon": 18.6474612,
+            "timestamp": "2022-04-20T18:25:38Z",
+            "version": 1,
+            "changeset": 119967392,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "description": "W portierni znajduje się także przenośna apteczka pierwszej pomocy.",
+                "description:en": "There is also a portable first aid kit in the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 37 00; +48 58 523 32 42"
             }
         },
         {
