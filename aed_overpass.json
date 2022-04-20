@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-20T18:31:41Z",
-        "timestamp_areas_base": "2022-04-20T18:16:33Z",
+        "timestamp_osm_base": "2022-04-20T19:31:36Z",
+        "timestamp_areas_base": "2022-04-20T19:17:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60055,6 +60055,91 @@
                 "level": "0",
                 "operator": "Uniwersytet Gdański",
                 "phone": "+48 58 523 37 00; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680844869,
+            "lat": 54.3479441,
+            "lon": 18.6506972,
+            "timestamp": "2022-04-20T18:53:23Z",
+            "version": 1,
+            "changeset": 119968538,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku.",
+                "defibrillator:location:en": "In the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 10:00-16:00; Tu,Th 11:00-17:00; Sa,Su off; PH off; Aug off",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 305 73 17; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680848264,
+            "lat": 54.3472026,
+            "lon": 18.6473312,
+            "timestamp": "2022-04-20T18:42:53Z",
+            "version": 1,
+            "changeset": 119968131,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 62 18; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680858061,
+            "lat": 54.4070371,
+            "lon": 18.6270823,
+            "timestamp": "2022-04-20T19:02:40Z",
+            "version": 1,
+            "changeset": 119968904,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 343 46 88; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680858062,
+            "lat": 54.4070511,
+            "lon": 18.6275939,
+            "timestamp": "2022-04-20T19:02:40Z",
+            "version": 1,
+            "changeset": 119968904,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, przy portierni.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 38 00; +48 58 523 32 42"
             }
         },
         {
