@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-20T15:31:27Z",
-        "timestamp_areas_base": "2022-04-20T15:14:09Z",
+        "timestamp_osm_base": "2022-04-20T16:32:13Z",
+        "timestamp_areas_base": "2022-04-20T16:15:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59988,6 +59988,50 @@
                 "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Stepnica",
                 "phone": "+48 91 464 74 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680438834,
+            "lat": 53.765955,
+            "lon": 15.402702,
+            "timestamp": "2022-04-20T15:40:11Z",
+            "version": 1,
+            "changeset": 119960421,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Budynek ochrony – dolna brama.",
+                "defibrillator:location:en": "Security building - lower gate.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48 572 707 083",
+                "opening_hours": "Mo-Fr 00:00-24:00",
+                "operator": "Ikea Industry Resko",
+                "phone": "+48 91 8174 000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9680438885,
+            "lat": 53.7662994,
+            "lon": 15.400828,
+            "timestamp": "2022-04-20T15:40:11Z",
+            "version": 1,
+            "changeset": 119960421,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Hala",
+                "defibrillator:location:en": "Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "mobile": "+48 572 707 083",
+                "opening_hours": "Mo-Fr 00:00-24:00",
+                "operator": "Ikea Industry Resko",
+                "phone": "+48 91 8174 000"
             }
         },
         {
