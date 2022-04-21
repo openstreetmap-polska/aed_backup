@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-21T01:31:32Z",
-        "timestamp_areas_base": "2022-04-21T01:19:27Z",
+        "timestamp_osm_base": "2022-04-21T02:32:22Z",
+        "timestamp_areas_base": "2022-04-21T02:20:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60140,6 +60140,24 @@
                 "level": "0",
                 "operator": "Uniwersytet Gdański",
                 "phone": "+48 58 523 38 00; +48 58 523 32 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9681510217,
+            "lat": 50.2660706,
+            "lon": 18.6995641,
+            "timestamp": "2022-04-21T02:15:23Z",
+            "version": 1,
+            "changeset": 119977938,
+            "user": "KNWedytor",
+            "uid": 2460449,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Filar przy bramie na warsztat G+",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 576 734"
             }
         },
         {
