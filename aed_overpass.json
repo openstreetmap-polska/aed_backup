@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-21T13:31:39Z",
+        "timestamp_osm_base": "2022-04-21T14:31:44Z",
         "timestamp_areas_base": "2022-04-21T12:24:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -706,15 +706,16 @@
             "id": 3880422293,
             "lat": 51.098558,
             "lon": 17.0365317,
-            "timestamp": "2022-02-18T08:20:47Z",
-            "version": 8,
-            "changeset": 117552071,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-04-21T13:44:54Z",
+            "version": 9,
+            "changeset": 120002233,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy Informacji kolejowej",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "level": "0",
                 "location": "indoor",
                 "opening_hours": "24/7",
@@ -27264,9 +27265,9 @@
             "id": 9459283317,
             "lat": 51.0986563,
             "lon": 17.035976,
-            "timestamp": "2022-01-30T00:43:05Z",
-            "version": 1,
-            "changeset": 116763983,
+            "timestamp": "2022-04-21T13:44:50Z",
+            "version": 2,
+            "changeset": 120002233,
             "user": "Mordechai23",
             "uid": 8826419,
             "tags": {
@@ -27274,6 +27275,7 @@
                 "defibrillator:location": "na infodworcu",
                 "defibrillator:location:en": "inside InfoDworzec",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
