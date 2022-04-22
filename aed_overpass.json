@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-22T16:34:15Z",
+        "timestamp_osm_base": "2022-04-22T17:32:13Z",
         "timestamp_areas_base": "2022-04-22T15:41:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -60207,6 +60207,22 @@
                 "indoor": "yes",
                 "operator": "OSP Dąbrowa",
                 "source": "Wiadomość od OSP Dąbrowa za pośrednictwem FB i messenger'a w dniu 22.04.2022r."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9686151859,
+            "lat": 53.4685393,
+            "lon": 18.7545126,
+            "timestamp": "2022-04-22T17:12:54Z",
+            "version": 1,
+            "changeset": 120061637,
+            "user": "macaddr",
+            "uid": 13378425,
+            "tags": {
+                "defibrillator:location": "Po lewej stronie od wejścia, obok informacji, punktu zwrotów i odbiorów zamówień",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
