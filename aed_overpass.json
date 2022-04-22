@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-22T10:36:02Z",
-        "timestamp_areas_base": "2022-04-22T09:38:13Z",
+        "timestamp_osm_base": "2022-04-22T11:31:52Z",
+        "timestamp_areas_base": "2022-04-22T10:39:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60160,6 +60160,53 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 508 576 734"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9685265559,
+            "lat": 54.432135,
+            "lon": 18.4856694,
+            "timestamp": "2022-04-22T11:01:07Z",
+            "version": 1,
+            "changeset": 120044538,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Castorama. W punkcie obsługi klienta. Widoczny dla klienta. Dostęp za pośrednictwem obsługi sklepu.",
+                "defibrillator:location:en": "Castorama. At the customer service point. Visible to the customer. Access via the store service.",
+                "description": "AED wyposażony w elektrody pediatryczne.",
+                "destination:en": "AED equipped with pediatric electrodes.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "model": "HEART START",
+                "opening_hours": "Mo-Fr 06:30-21:00; Sa 08:00-21:00",
+                "operator": "Castorama",
+                "phone": "+48 58 522 21 00",
+                "source": "Informacja via mail z dnia 21.04.2022r. od kierownika sklepu."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9685283911,
+            "lat": 52.7449379,
+            "lon": 17.9470623,
+            "timestamp": "2022-04-22T11:12:12Z",
+            "version": 1,
+            "changeset": 120045095,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dąbrowa",
+                "source": "Wiadomość od OSP Dąbrowa za pośrednictwem FB i messenger'a w dniu 22.04.2022r."
             }
         },
         {
