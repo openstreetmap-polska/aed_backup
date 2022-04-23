@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-23T09:32:09Z",
-        "timestamp_areas_base": "2022-04-23T08:49:34Z",
+        "timestamp_osm_base": "2022-04-23T10:32:11Z",
+        "timestamp_areas_base": "2022-04-23T09:49:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50764,15 +50764,19 @@
             "id": 9571005476,
             "lat": 49.8744279,
             "lon": 21.8175508,
-            "timestamp": "2022-03-11T14:48:23Z",
-            "version": 1,
-            "changeset": 118367017,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-04-23T10:04:22Z",
+            "version": 2,
+            "changeset": 120083906,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Defibrylator AED przy budynku drożnika kolejowego.",
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "indoor": "no",
+                "nazwa_obiektu_robocza": "Strażnica Kolejowa",
+                "operator": "OSP Żarnowa",
+                "phone": "696 719 381"
             }
         },
         {
@@ -60223,6 +60227,558 @@
                 "defibrillator:location": "Po lewej stronie od wejścia, obok informacji, punktu zwrotów i odbiorów zamówień",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687564484,
+            "lat": 52.5488382,
+            "lon": 19.7124933,
+            "timestamp": "2022-04-23T10:02:28Z",
+            "version": 1,
+            "changeset": 120083843,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Szkoła"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687591073,
+            "lat": 51.0961514,
+            "lon": 17.9775538,
+            "timestamp": "2022-04-23T10:01:12Z",
+            "version": 1,
+            "changeset": 120083805,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie Frontowej w Kapsule",
+                "defibrillator:location:en": "On the front wall in a capsule",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "nazwa_obiektu_robocza": "Straż Pożarna",
+                "operator": "OSP Szymonków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687591102,
+            "lat": 52.2857932,
+            "lon": 21.1110297,
+            "timestamp": "2022-04-23T10:08:19Z",
+            "version": 1,
+            "changeset": 120084034,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Po Wejściu Do Budynku Przedszkola Przechodzimy Przez Hol, Następnie Skręcamy w Prawo, Po Przejściu Ok. 12 m Na Ścianie Po Prawej Stronie Znajduje Się Urządzenie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Przedszkole",
+                "operator": "T-Mobile",
+                "phone": "22 762 40 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687591111,
+            "lat": 54.6118324,
+            "lon": 18.3530846,
+            "timestamp": "2022-04-23T10:23:13Z",
+            "version": 1,
+            "changeset": 120084546,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Budynku Szkoły Podstawowej Nr 3 w Redzie, Na Parterze, Na Ścianie Pomiędzy Wejściem Głównym a Sekretariatem",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 3 w Redzie",
+                "phone": "+48 58 678 30 89"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687606440,
+            "lat": 54.3418307,
+            "lon": 19.1167755,
+            "timestamp": "2022-04-23T10:10:13Z",
+            "version": 1,
+            "changeset": 120084093,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W Budynku Dps -w Gabinecie Zabiegowym Na I Piętrze",
+                "defibrillator:location:en": "In the DPS building - in the treatment room on the first floor",
+                "emergency": "defibrillator",
+                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
+                "operator": "Dom Pomocy Społecznej \"Mors\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687613341,
+            "lat": 52.6226832,
+            "lon": 20.3669308,
+            "timestamp": "2022-04-23T10:05:13Z",
+            "version": 1,
+            "changeset": 120083939,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Miejskim Centrum Kultury w Płońsku Ul. Płocka 50, Przy Głównym Wejściu Na Ścianie Po Lewej Stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Ośrodek Kultury",
+                "operator": "Urząd Miejski w Płońsku",
+                "phone": "+48 23 662 13 02"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687613342,
+            "lat": 52.8655847,
+            "lon": 19.3564434,
+            "timestamp": "2022-04-23T10:09:15Z",
+            "version": 1,
+            "changeset": 120084065,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687614838,
+            "lat": 50.5711117,
+            "lon": 21.6649428,
+            "timestamp": "2022-04-23T10:03:02Z",
+            "version": 1,
+            "changeset": 120083857,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Parterze Po Lewej Stronie Za Wejściem Głównym",
+                "defibrillator:location:en": "on the ground floor on the left behind the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Starostwo Powiatowe w Tarnobrzegu",
+                "phone": "15 822 39 22"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687614900,
+            "lat": 52.548181,
+            "lon": 19.7183735,
+            "timestamp": "2022-04-23T10:25:36Z",
+            "version": 1,
+            "changeset": 120084652,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687623252,
+            "lat": 52.6253036,
+            "lon": 18.3811271,
+            "timestamp": "2022-04-23T10:20:07Z",
+            "version": 1,
+            "changeset": 120084445,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Rusinowo",
+                "phone": "512269519"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687623463,
+            "lat": 50.6251456,
+            "lon": 21.7228321,
+            "timestamp": "2022-04-23T10:12:36Z",
+            "version": 1,
+            "changeset": 120084160,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "797451474"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687623464,
+            "lat": 54.2060078,
+            "lon": 22.0594002,
+            "timestamp": "2022-04-23T10:19:44Z",
+            "version": 1,
+            "changeset": 120084429,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie straży pożarnej",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687624535,
+            "lat": 52.5476247,
+            "lon": 19.7162968,
+            "timestamp": "2022-04-23T09:58:13Z",
+            "version": 1,
+            "changeset": 120083696,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Aed Zlokalizowane w Korytarzu Po Lewej Stronie Wejście B",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687625893,
+            "lat": 52.7368551,
+            "lon": 19.7640819,
+            "timestamp": "2022-04-23T10:09:48Z",
+            "version": 1,
+            "changeset": 120084079,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Spzoz",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687628144,
+            "lat": 49.8814657,
+            "lon": 21.429653,
+            "timestamp": "2022-04-23T10:16:28Z",
+            "version": 1,
+            "changeset": 120084312,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "nazwa_obiektu_robocza": "Straż Pożarna",
+                "operator": "OSP Nawsie Brzosteckie",
+                "phone": "146831998",
+                "roboczy_addr:housenumber": "206",
+                "roboczy_addr:place": "Nawsie Brzosteckie",
+                "roboczy_typ": "mobile"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687630874,
+            "lat": 51.8271299,
+            "lon": 19.1873929,
+            "timestamp": "2022-04-23T10:10:39Z",
+            "version": 1,
+            "changeset": 120084108,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz Budynku w Gabinecie Zabiegowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Aleksandrowie Łódzkim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687638317,
+            "lat": 50.5442392,
+            "lon": 21.682875,
+            "timestamp": "2022-04-23T10:08:46Z",
+            "version": 1,
+            "changeset": 120084052,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "nazwa_obiektu_robocza": "Straż Pożarna",
+                "phone": "608453743"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687639021,
+            "lat": 51.0200129,
+            "lon": 18.0511768,
+            "timestamp": "2022-04-23T10:24:16Z",
+            "version": 1,
+            "changeset": 120084588,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Ścianie Frontowej w Kapsule",
+                "defibrillator:location:en": "On the front wall in a capsule",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Wołczyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687639022,
+            "lat": 51.0200402,
+            "lon": 18.051336,
+            "timestamp": "2022-04-23T10:24:16Z",
+            "version": 1,
+            "changeset": 120084588,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie w Remizie, Boks Garażowy",
+                "defibrillator:location:en": "On the wall in the fire station, garage box",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wołczyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687640636,
+            "lat": 52.5392967,
+            "lon": 19.6887861,
+            "timestamp": "2022-04-23T10:17:06Z",
+            "version": 1,
+            "changeset": 120084331,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zawieszony Pomiędzy Budynkami, Przy Wejściu Na Molo",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687642441,
+            "lat": 54.2416789,
+            "lon": 22.0371629,
+            "timestamp": "2022-04-23T10:16:05Z",
+            "version": 1,
+            "changeset": 120084294,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie Osp",
+                "emergency": "defibrillator",
+                "operator": "OSP Banie Mazurskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687642452,
+            "lat": 53.1307535,
+            "lon": 17.9960603,
+            "timestamp": "2022-04-23T10:21:00Z",
+            "version": 1,
+            "changeset": 120084470,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zarząd Dróg Wojewódzkich Bydgoszcz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687647144,
+            "lat": 51.6348384,
+            "lon": 15.9920796,
+            "timestamp": "2022-04-23T10:18:31Z",
+            "version": 1,
+            "changeset": 120084391,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Znajduje się w Ośrodku Pomocy Społecznej",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687648986,
+            "lat": 52.6214463,
+            "lon": 20.3703687,
+            "timestamp": "2022-04-23T10:31:29Z",
+            "version": 1,
+            "changeset": 120084860,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduję Się w Holu Urzędu Miejskiego w Płońsku, Na Parterze.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Płońsku",
+                "phone": "+48 23 662 13 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687650769,
+            "lat": 53.5551848,
+            "lon": 17.4897955,
+            "timestamp": "2022-04-23T10:26:22Z",
+            "version": 1,
+            "changeset": 120084682,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Orzełku",
+                "phone": "523 894 511"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687660330,
+            "lat": 52.7768503,
+            "lon": 17.5857124,
+            "timestamp": "2022-04-23T10:24:52Z",
+            "version": 1,
+            "changeset": 120084617,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Budynku Domu Pomocy Społecznej, w Gabinecie Zabiegowym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Centrum Powiadamiania Ratunkowego."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687660341,
+            "lat": 50.5672897,
+            "lon": 21.7205517,
+            "timestamp": "2022-04-23T10:31:55Z",
+            "version": 1,
+            "changeset": 120084873,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "506354140"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687661749,
+            "lat": 52.8744376,
+            "lon": 18.6943412,
+            "timestamp": "2022-04-23T10:30:50Z",
+            "version": 1,
+            "changeset": 120084842,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Aleksandrowie Kujawskim",
+                "phone": "54 282 68 43"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687662879,
+            "lat": 54.5998422,
+            "lon": 18.3519054,
+            "timestamp": "2022-04-23T10:29:14Z",
+            "version": 1,
+            "changeset": 120084778,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Budynku Urzędu Miasta w Redzie, Na Parterze, w Biurze Obsługi Interesantów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Reda",
+                "phone": "58 678-80-00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687666720,
+            "lat": 49.9804163,
+            "lon": 22.1261625,
+            "timestamp": "2022-04-23T10:28:10Z",
+            "version": 1,
+            "changeset": 120084740,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Urzędzie Gminy w Chmielniku, Od Strony Bram Wjazdowych Do Remizy Osp Chmielnik",
+                "defibrillator:location:en": "At the Chmielnik Municipality Office, from the entrance gate to the Chmielnik TSO fire station",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Chmielnik",
+                "phone": "48 17 229 66 06"
             }
         },
         {
