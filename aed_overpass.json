@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-23T11:32:01Z",
-        "timestamp_areas_base": "2022-04-23T10:50:24Z",
+        "timestamp_osm_base": "2022-04-23T12:31:44Z",
+        "timestamp_areas_base": "2022-04-23T11:50:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -36842,17 +36842,16 @@
             "id": 9498573955,
             "lat": 52.10711,
             "lon": 19.6014,
-            "timestamp": "2022-02-11T21:09:03Z",
-            "version": 2,
-            "changeset": 117303285,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2022-04-23T12:16:35Z",
+            "version": 3,
+            "changeset": 120088679,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Budynek F - Pokój socjalny personelu. Parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
                 "operator": "DPS Borówek",
                 "phone": "46 838 26 61"
             }
@@ -36862,17 +36861,16 @@
             "id": 9498573956,
             "lat": 52.1052345,
             "lon": 19.5999989,
-            "timestamp": "2022-02-11T17:08:09Z",
-            "version": 1,
-            "changeset": 117295743,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:15:33Z",
+            "version": 2,
+            "changeset": 120088648,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Budynek B- Dyżurka pielęgniarek. Parter.;Budynek B- Dyżurka pielęgniarek. Parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
                 "operator": "DPS Borówek;Dom Pomocy Społecznej ,,Borówek” im. Krystyny Bochenek",
                 "phone": "46 838 26 61"
             }
@@ -36882,17 +36880,16 @@
             "id": 9498574779,
             "lat": 50.4478152,
             "lon": 20.5888458,
-            "timestamp": "2022-02-11T17:15:34Z",
-            "version": 1,
-            "changeset": 117296000,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:17:01Z",
+            "version": 2,
+            "changeset": 120088691,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ogrodzenie Ośrodka Zdrowia",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
                 "opening_hours": "24/7",
                 "operator": "Samorządowy Zakład Opieki Zdrowotnej",
                 "phone": "533 733 944"
@@ -36903,17 +36900,16 @@
             "id": 9498586830,
             "lat": 50.5445162,
             "lon": 20.6348587,
-            "timestamp": "2022-02-11T17:09:22Z",
-            "version": 1,
-            "changeset": 117295783,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:16:20Z",
+            "version": 2,
+            "changeset": 120088672,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na frontowej ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
                 "opening_hours": "24/7",
                 "operator": "Samorządowy Zakład Opieki Zdrowotnej",
                 "phone": "533 733 944"
@@ -36963,17 +36959,16 @@
             "id": 9498648326,
             "lat": 50.7282814,
             "lon": 16.6511306,
-            "timestamp": "2022-02-11T17:14:31Z",
-            "version": 1,
-            "changeset": 117295964,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:14:14Z",
+            "version": 2,
+            "changeset": 120088603,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Biuro Obsługi Klienta -wejście za ,,żelazną bramą\" parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Urząd Miasta",
                 "opening_hours": "Mo,We-Th 07:30-15:30; Tu 07:30-16:30; Fr 07:30-14:30",
                 "operator": "Pracownicy Urzędu Miasta w Dzierżoniowie",
                 "phone": "74 645 03 96"
@@ -37081,16 +37076,15 @@
             "id": 9498742259,
             "lat": 50.4334479,
             "lon": 20.4862309,
-            "timestamp": "2022-02-11T17:59:30Z",
-            "version": 1,
-            "changeset": 117297549,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:17:51Z",
+            "version": 2,
+            "changeset": 120088719,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "defibrillator:location": "Na frontowej ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "nazwa_obiektu_robocza": "Ośrodek Zdrowia",
                 "opening_hours": "24/7",
                 "operator": "Samorządowy Zakład Opieki Zdrowotnej",
                 "phone": "533 733 944"
@@ -37120,17 +37114,16 @@
             "id": 9498805532,
             "lat": 51.2050563,
             "lon": 19.496339,
-            "timestamp": "2022-02-11T18:23:50Z",
-            "version": 1,
-            "changeset": 117298316,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:15:49Z",
+            "version": 2,
+            "changeset": 120088658,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "nazwa_obiektu_robocza": "Straż Pożarna",
                 "operator": "OSP w Kamieńsku",
                 "phone": "44 681 75 08"
             }
@@ -37178,18 +37171,16 @@
             "id": 9498859159,
             "lat": 50.8718222,
             "lon": 20.6308467,
-            "timestamp": "2022-02-11T18:48:41Z",
-            "version": 1,
-            "changeset": 117299042,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-04-23T12:15:12Z",
+            "version": 2,
+            "changeset": 120088636,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu wejścia od pl. Rynek",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "nazwa_obiektu_robocza": "Urząd Miasta",
-                "opening_hours": "W godzinach pracy urzędu"
+                "indoor": "yes"
             }
         },
         {
@@ -37302,17 +37293,16 @@
             "id": 9499215085,
             "lat": 52.10575,
             "lon": 19.60064,
-            "timestamp": "2022-02-11T21:09:03Z",
-            "version": 1,
-            "changeset": 117303285,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2022-04-23T12:17:31Z",
+            "version": 2,
+            "changeset": 120088706,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Budynek E- Pokój socjalny personelu. Parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
                 "operator": "DPS Borówek;Dom Pomocy Społecznej ,,Borówek” im. Krystyny Bochenek",
                 "phone": "46 838 26 61"
             }
@@ -50764,9 +50754,9 @@
             "id": 9571005476,
             "lat": 49.8744279,
             "lon": 21.8175508,
-            "timestamp": "2022-04-23T10:04:22Z",
-            "version": 2,
-            "changeset": 120083906,
+            "timestamp": "2022-04-23T12:16:43Z",
+            "version": 3,
+            "changeset": 120088681,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -50774,7 +50764,6 @@
                 "defibrillator:location": "Defibrylator AED przy budynku drożnika kolejowego.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "nazwa_obiektu_robocza": "Strażnica Kolejowa",
                 "operator": "OSP Żarnowa",
                 "phone": "696 719 381"
             }
@@ -60234,16 +60223,15 @@
             "id": 9687564484,
             "lat": 52.5488382,
             "lon": 19.7124933,
-            "timestamp": "2022-04-23T10:02:28Z",
-            "version": 1,
-            "changeset": 120083843,
+            "timestamp": "2022-04-23T12:18:00Z",
+            "version": 2,
+            "changeset": 120088724,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "nazwa_obiektu_robocza": "Szkoła"
+                "indoor": "yes"
             }
         },
         {
@@ -60251,9 +60239,9 @@
             "id": 9687591073,
             "lat": 51.0961514,
             "lon": 17.9775538,
-            "timestamp": "2022-04-23T10:01:12Z",
-            "version": 1,
-            "changeset": 120083805,
+            "timestamp": "2022-04-23T12:17:09Z",
+            "version": 2,
+            "changeset": 120088693,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60262,7 +60250,6 @@
                 "defibrillator:location:en": "On the front wall in a capsule",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "nazwa_obiektu_robocza": "Straż Pożarna",
                 "operator": "OSP Szymonków"
             }
         },
@@ -60271,9 +60258,9 @@
             "id": 9687591102,
             "lat": 52.2857932,
             "lon": 21.1110297,
-            "timestamp": "2022-04-23T10:08:19Z",
-            "version": 1,
-            "changeset": 120084034,
+            "timestamp": "2022-04-23T12:14:36Z",
+            "version": 2,
+            "changeset": 120088614,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60281,7 +60268,6 @@
                 "defibrillator:location": "Po Wejściu Do Budynku Przedszkola Przechodzimy Przez Hol, Następnie Skręcamy w Prawo, Po Przejściu Ok. 12 m Na Ścianie Po Prawej Stronie Znajduje Się Urządzenie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Przedszkole",
                 "operator": "T-Mobile",
                 "phone": "22 762 40 10"
             }
@@ -60310,9 +60296,9 @@
             "id": 9687606440,
             "lat": 54.3418307,
             "lon": 19.1167755,
-            "timestamp": "2022-04-23T10:10:13Z",
-            "version": 1,
-            "changeset": 120084093,
+            "timestamp": "2022-04-23T12:14:28Z",
+            "version": 2,
+            "changeset": 120088611,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60320,7 +60306,6 @@
                 "defibrillator:location": "W Budynku Dps -w Gabinecie Zabiegowym Na I Piętrze",
                 "defibrillator:location:en": "In the DPS building - in the treatment room on the first floor",
                 "emergency": "defibrillator",
-                "nazwa_obiektu_robocza": "Ośrodek Pomocy Społecznej",
                 "operator": "Dom Pomocy Społecznej \"Mors\""
             }
         },
@@ -60329,9 +60314,9 @@
             "id": 9687613341,
             "lat": 52.6226832,
             "lon": 20.3669308,
-            "timestamp": "2022-04-23T10:05:13Z",
-            "version": 1,
-            "changeset": 120083939,
+            "timestamp": "2022-04-23T12:15:22Z",
+            "version": 2,
+            "changeset": 120088642,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60339,7 +60324,6 @@
                 "defibrillator:location": "Urządzenie Znajduje Się w Miejskim Centrum Kultury w Płońsku Ul. Płocka 50, Przy Głównym Wejściu Na Ścianie Po Lewej Stronie.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Ośrodek Kultury",
                 "operator": "Urząd Miejski w Płońsku",
                 "phone": "+48 23 662 13 02"
             }
@@ -60383,9 +60367,9 @@
             "id": 9687614838,
             "lat": 50.5711117,
             "lon": 21.6649428,
-            "timestamp": "2022-04-23T10:03:02Z",
-            "version": 1,
-            "changeset": 120083857,
+            "timestamp": "2022-04-23T12:14:48Z",
+            "version": 2,
+            "changeset": 120088621,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60394,7 +60378,6 @@
                 "defibrillator:location:en": "on the ground floor on the left behind the main entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Starostwo Powiatowe",
                 "opening_hours": "Mo-Fr 7:30-15:30",
                 "operator": "Starostwo Powiatowe w Tarnobrzegu",
                 "phone": "15 822 39 22"
@@ -60506,9 +60489,9 @@
             "id": 9687628144,
             "lat": 49.8814657,
             "lon": 21.429653,
-            "timestamp": "2022-04-23T10:16:28Z",
-            "version": 1,
-            "changeset": 120084312,
+            "timestamp": "2022-04-23T12:17:22Z",
+            "version": 2,
+            "changeset": 120088702,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60516,12 +60499,8 @@
                 "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "nazwa_obiektu_robocza": "Straż Pożarna",
                 "operator": "OSP Nawsie Brzosteckie",
-                "phone": "146831998",
-                "roboczy_addr:housenumber": "206",
-                "roboczy_addr:place": "Nawsie Brzosteckie",
-                "roboczy_typ": "mobile"
+                "phone": "146831998"
             }
         },
         {
@@ -60564,9 +60543,9 @@
             "id": 9687638317,
             "lat": 50.5442392,
             "lon": 21.682875,
-            "timestamp": "2022-04-23T10:08:46Z",
-            "version": 1,
-            "changeset": 120084052,
+            "timestamp": "2022-04-23T12:16:28Z",
+            "version": 2,
+            "changeset": 120088676,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -60574,7 +60553,6 @@
                 "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "nazwa_obiektu_robocza": "Straż Pożarna",
                 "phone": "608453743"
             }
         },
@@ -60996,6 +60974,25 @@
         },
         {
             "type": "node",
+            "id": 9687671592,
+            "lat": 52.1487731,
+            "lon": 21.0460433,
+            "timestamp": "2022-04-23T11:32:33Z",
+            "version": 1,
+            "changeset": 120087032,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy Wejściu Od Strony Parkingu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Stołecznego Warszawa",
+                "phone": "224437100"
+            }
+        },
+        {
+            "type": "node",
             "id": 9687672126,
             "lat": 52.6783169,
             "lon": 18.3143708,
@@ -61053,6 +61050,43 @@
         },
         {
             "type": "node",
+            "id": 9687675183,
+            "lat": 52.2108641,
+            "lon": 20.8194319,
+            "timestamp": "2022-04-23T12:07:31Z",
+            "version": 1,
+            "changeset": 120088381,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Zainstalowane Wewnątrz Budynku Na Ścianie Holu Obsługi Interesanta. Pomiędzy Wejściem Głównym i Punktem Informacyjnym Kancelarii Ogólnej,",
+                "emergency": "defibrillator",
+                "manufacturer": "Defibtech DDU-100E",
+                "operator": "Referat Administracyjno Gospodarczy",
+                "phone": "22 733 72 75"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687698101,
+            "lat": 53.0323587,
+            "lon": 18.6238664,
+            "timestamp": "2022-04-23T11:40:33Z",
+            "version": 1,
+            "changeset": 120087340,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Jest Umiejscowione Przy Ścianie Wewnątrz Budynku Na Parterze",
+                "emergency": "defibrillator",
+                "operator": "Starostwo Powiatowe w Toruniu",
+                "phone": "56 662 88 88"
+            }
+        },
+        {
+            "type": "node",
             "id": 9687703388,
             "lat": 50.6065788,
             "lon": 21.7115887,
@@ -61067,6 +61101,23 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "phone": "501635645"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687703400,
+            "lat": 52.5418475,
+            "lon": 19.6859118,
+            "timestamp": "2022-04-23T11:41:13Z",
+            "version": 1,
+            "changeset": 120087359,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Amfiteatr Płocki, Wejście Od Zalewu Sobótka, Portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
@@ -61108,6 +61159,24 @@
         },
         {
             "type": "node",
+            "id": 9687721474,
+            "lat": 52.2007598,
+            "lon": 20.8935497,
+            "timestamp": "2022-04-23T11:55:15Z",
+            "version": 1,
+            "changeset": 120087874,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Vis a Vis Głównego Wejścia w Oznaczonej Gablocie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "urząd Ursus"
+            }
+        },
+        {
+            "type": "node",
             "id": 9687723547,
             "lat": 51.0164527,
             "lon": 18.0526245,
@@ -61125,6 +61194,41 @@
                 "opening_hours": "Mo-Fr 08:00-20:00",
                 "operator": "Wołczyński Ośrodek Kultury",
                 "phone": "77 418 86 92"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687723548,
+            "lat": 52.5559187,
+            "lon": 18.3687362,
+            "timestamp": "2022-04-23T11:34:59Z",
+            "version": 1,
+            "changeset": 120087124,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Ostrówek",
+                "phone": "600467814"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687727375,
+            "lat": 54.2315178,
+            "lon": 22.0954519,
+            "timestamp": "2022-04-23T11:34:33Z",
+            "version": 1,
+            "changeset": 120087108,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie straży pożarnej",
+                "emergency": "defibrillator"
             }
         },
         {
@@ -61167,6 +61271,117 @@
         },
         {
             "type": "node",
+            "id": 9687745242,
+            "lat": 50.6990032,
+            "lon": 20.4581073,
+            "timestamp": "2022-04-23T12:17:38Z",
+            "version": 2,
+            "changeset": 120088713,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "41 3871006"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687746983,
+            "lat": 50.6495099,
+            "lon": 21.892176,
+            "timestamp": "2022-04-23T11:50:11Z",
+            "version": 1,
+            "changeset": 120087653,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Głównym Wejściu Do Budynku Urzędu Gminy.",
+                "defibrillator:location:en": "In the main entrance of the Municipal Office building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 7:30-15:30",
+                "operator": "Gmina Zaleszany",
+                "phone": "15 8459419"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687749338,
+            "lat": 52.1947112,
+            "lon": 20.6180413,
+            "timestamp": "2022-04-23T11:39:42Z",
+            "version": 1,
+            "changeset": 120087316,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Pokoju Nr 1 Urzędu Miejskiego ( Kancelaria )",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Błoniu",
+                "phone": "+48 22 731 65 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687749345,
+            "lat": 50.5949761,
+            "lon": 21.6748623,
+            "timestamp": "2022-04-23T11:51:07Z",
+            "version": 1,
+            "changeset": 120087686,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "661300957"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687749393,
+            "lat": 52.5524343,
+            "lon": 19.7123632,
+            "timestamp": "2022-04-23T12:16:52Z",
+            "version": 2,
+            "changeset": 120088687,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Parterze w Centralnym Miejscu Poczekalni Dla Podróżnych",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687749410,
+            "lat": 50.049983,
+            "lon": 21.3989152,
+            "timestamp": "2022-04-23T12:02:35Z",
+            "version": 1,
+            "changeset": 120088177,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Parterze w Wejściu Głównym, Obok Portiera",
+                "defibrillator:location:en": "On the ground floor in the main entrance, next to the porter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "07:00-18:00",
+                "operator": "Starostwo powiatowe w Dębicy"
+            }
+        },
+        {
+            "type": "node",
             "id": 9687749660,
             "lat": 52.2099186,
             "lon": 20.8177038,
@@ -61182,6 +61397,646 @@
                 "manufacturer": "Defibtech DDU-100E",
                 "operator": "Referat Administracyjno Gospodarczy",
                 "phone": "23 733 72 75"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687749887,
+            "lat": 53.0069241,
+            "lon": 17.7309563,
+            "timestamp": "2022-04-23T11:56:54Z",
+            "version": 1,
+            "changeset": 120087941,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Budynku Urzędu Miejskiego w Szubinie, Biuro Nr 12.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Burmistrz Szubina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687750333,
+            "lat": 50.7131958,
+            "lon": 20.3822067,
+            "timestamp": "2022-04-23T11:35:28Z",
+            "version": 1,
+            "changeset": 120087158,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30- 16:00",
+                "phone": "413873026"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687753261,
+            "lat": 53.0427571,
+            "lon": 16.4612436,
+            "timestamp": "2022-04-23T11:44:32Z",
+            "version": 1,
+            "changeset": 120087452,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Znajduje Się w Holu Głównym",
+                "defibrillator:location:en": "is located in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biblioteka Publiczna i Centrum Kultury",
+                "phone": "67 216 33 59"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687753809,
+            "lat": 51.0255374,
+            "lon": 17.9788524,
+            "timestamp": "2022-04-23T11:53:08Z",
+            "version": 1,
+            "changeset": 120087771,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie w Remizie, Świetlica",
+                "defibrillator:location:en": "On the wall in the fire station, common room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wierzbica  G."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687763378,
+            "lat": 54.2433641,
+            "lon": 16.8888628,
+            "timestamp": "2022-04-23T11:38:44Z",
+            "version": 1,
+            "changeset": 120087295,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Pokój 116 Piętro 1",
+                "emergency": "defibrillator",
+                "operator": "OPS Kępice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687764679,
+            "lat": 51.8083871,
+            "lon": 19.3032412,
+            "timestamp": "2022-04-23T11:54:45Z",
+            "version": 1,
+            "changeset": 120087852,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Gospodarczo-biurowy przy Drzwiach Wejściowych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Miejski Ośrodek Sportu i Rekreacji w Aleksandrowie Łódzki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687766492,
+            "lat": 51.1180068,
+            "lon": 18.0696582,
+            "timestamp": "2022-04-23T11:41:48Z",
+            "version": 1,
+            "changeset": 120087373,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie Frontowej w Kapsule, Świetlica Wiejska",
+                "defibrillator:location:en": "On the front wall in a capsule, village common room",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Komorzno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687768231,
+            "lat": 50.6349552,
+            "lon": 21.9279038,
+            "timestamp": "2022-04-23T11:42:40Z",
+            "version": 1,
+            "changeset": 120087397,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy Gabinecie Zabiegowym w Ośrodku Zdrowia",
+                "defibrillator:location:en": "At the treatment room in the Health Centre",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 8:00-18:00",
+                "operator": "SPG ZOZ w Zaleszanach zs. w Zbydniowie",
+                "phone": "15 8458305"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687768244,
+            "lat": 53.6002273,
+            "lon": 17.4803129,
+            "timestamp": "2022-04-23T12:01:26Z",
+            "version": 1,
+            "changeset": 120088131,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Świetlica Wiejska w Zamartem",
+                "emergency": "defibrillator",
+                "operator": "Świetlica Wiejska w Zamartem",
+                "phone": "52 389 45 35"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687768305,
+            "lat": 52.1941176,
+            "lon": 20.8744441,
+            "timestamp": "2022-04-23T12:12:08Z",
+            "version": 1,
+            "changeset": 120088538,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Płycie Pływalni Albatros Przy Wejściu Do Saun.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSiR Ursus",
+                "phone": "+48 22 817 51 94"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687770563,
+            "lat": 54.1960215,
+            "lon": 22.0212751,
+            "timestamp": "2022-04-23T11:56:02Z",
+            "version": 1,
+            "changeset": 120087897,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie straży pożarnej",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687770593,
+            "lat": 52.3442171,
+            "lon": 20.874792,
+            "timestamp": "2022-04-23T12:07:02Z",
+            "version": 1,
+            "changeset": 120088367,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się w Kasetce Na Ścianie, Przy Recepcji Pływalni Icds.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Integracyjne Centrum Dydaktyczno Sportowe w Łomiankach",
+                "phone": "+48 22 751 04 74"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687771577,
+            "lat": 54.4991333,
+            "lon": 17.2672912,
+            "timestamp": "2022-04-23T11:48:01Z",
+            "version": 1,
+            "changeset": 120087573,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Damnica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687771924,
+            "lat": 50.6042485,
+            "lon": 21.7552218,
+            "timestamp": "2022-04-23T11:52:42Z",
+            "version": 1,
+            "changeset": 120087755,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "600306423"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687771958,
+            "lat": 50.6338548,
+            "lon": 21.7484006,
+            "timestamp": "2022-04-23T12:05:43Z",
+            "version": 1,
+            "changeset": 120088307,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "607090664"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687773072,
+            "lat": 53.0398141,
+            "lon": 16.4624659,
+            "timestamp": "2022-04-23T12:03:43Z",
+            "version": 1,
+            "changeset": 120088210,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Znajduje Się Na Parterze w Kancelarii Urzędu",
+                "defibrillator:location:en": "is located on the ground floor in the office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski Trzcianki",
+                "phone": "67 352 73 17"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687773073,
+            "lat": 50.7059008,
+            "lon": 22.5345802,
+            "timestamp": "2022-04-23T12:11:07Z",
+            "version": 1,
+            "changeset": 120088496,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "phone": "663 727 971"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687773308,
+            "lat": 49.8792262,
+            "lon": 21.4071097,
+            "timestamp": "2022-04-23T12:10:44Z",
+            "version": 1,
+            "changeset": 120088484,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Brzostek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687774466,
+            "lat": 52.5576652,
+            "lon": 19.681257,
+            "timestamp": "2022-04-23T12:08:22Z",
+            "version": 1,
+            "changeset": 120088412,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz Budynku Na Parterze Obok Głównego Wejścia Do Placówki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687774467,
+            "lat": 52.1860354,
+            "lon": 20.8882333,
+            "timestamp": "2022-04-23T12:09:11Z",
+            "version": 1,
+            "changeset": 120088439,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja/kasa Korty Tenisowe",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSiR Ursus",
+                "phone": "+48 509 233 515"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687774788,
+            "lat": 51.0717946,
+            "lon": 20.2504286,
+            "timestamp": "2022-04-23T11:47:05Z",
+            "version": 1,
+            "changeset": 120087540,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Publiczny Zakład Opieki Zdrowotnej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687774789,
+            "lat": 53.2596894,
+            "lon": 19.3997205,
+            "timestamp": "2022-04-23T11:51:47Z",
+            "version": 1,
+            "changeset": 120087718,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Znajduje Się Na Parterze, w Centralnej Części Budynku, Przy Schodach Prowadzących Od Wejścia Na Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687775824,
+            "lat": 49.9269329,
+            "lon": 21.4631594,
+            "timestamp": "2022-04-23T11:53:54Z",
+            "version": 1,
+            "changeset": 120087804,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Zewnątrz Budynku Remizy Osp",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "manufacturer": "Philips Frx, wraz z kluczem pediatrycznym",
+                "operator": "OSP Grudna Dolna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687775845,
+            "lat": 52.7545571,
+            "lon": 17.4904128,
+            "timestamp": "2022-04-23T11:59:16Z",
+            "version": 1,
+            "changeset": 120088047,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Centrum Powiadamiania Ratunkowego.",
+                "phone": "695 067 584"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687775884,
+            "lat": 52.8639963,
+            "lon": 19.3211935,
+            "timestamp": "2022-04-23T12:06:34Z",
+            "version": 1,
+            "changeset": 120088349,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687778053,
+            "lat": 50.9725667,
+            "lon": 18.0130472,
+            "timestamp": "2022-04-23T12:12:30Z",
+            "version": 1,
+            "changeset": 120088551,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie Frontowej w Kapsule",
+                "defibrillator:location:en": "On the front wall in a capsule",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Szum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687778899,
+            "lat": 54.5103674,
+            "lon": 16.8063446,
+            "timestamp": "2022-04-23T12:00:51Z",
+            "version": 1,
+            "changeset": 120088107,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna Starkowo",
+                "phone": "505175269"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687779201,
+            "lat": 53.7969439,
+            "lon": 18.529383,
+            "timestamp": "2022-04-23T12:11:38Z",
+            "version": 1,
+            "changeset": 120088520,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zewnetrzna Ściana Budynku Remizy",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Powiatu Starogardziego"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687780213,
+            "lat": 50.9841418,
+            "lon": 18.0294715,
+            "timestamp": "2022-04-23T11:58:13Z",
+            "version": 1,
+            "changeset": 120088000,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Ścianie w Remizie, Boks Garażowy",
+                "defibrillator:location:en": "On the wall in the fire station, garage box",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wąsice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687786660,
+            "lat": 52.5439529,
+            "lon": 19.6914397,
+            "timestamp": "2022-04-23T12:00:06Z",
+            "version": 1,
+            "changeset": 120088085,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Strefy Płatnego Parkowania, Komunikacja Miejska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687786661,
+            "lat": 52.6044312,
+            "lon": 18.9001481,
+            "timestamp": "2022-04-23T12:04:35Z",
+            "version": 1,
+            "changeset": 120088271,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Brześć",
+                "phone": "601176747"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687787889,
+            "lat": 52.4262546,
+            "lon": 20.7199999,
+            "timestamp": "2022-04-23T12:05:07Z",
+            "version": 1,
+            "changeset": 120088284,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie Jest Mobilne Na Terenie Budynku Przy Punkcie Podawczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "8:00 – 16:00",
+                "operator": "Starostwo Powiatowe w Nowym Dworze Mazowieckim",
+                "phone": "+48 22 765 32 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687790592,
+            "lat": 51.8148436,
+            "lon": 19.3098893,
+            "timestamp": "2022-04-23T12:08:47Z",
+            "version": 1,
+            "changeset": 120088425,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Wewnątrz Budynku w Gabinecie Zabiegowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Aleksandrowie Łódzkim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687794916,
+            "lat": 54.3200738,
+            "lon": 22.0375891,
+            "timestamp": "2022-04-23T12:09:45Z",
+            "version": 1,
+            "changeset": 120088459,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie straży pożarnej",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9687794931,
+            "lat": 52.8185236,
+            "lon": 17.5741932,
+            "timestamp": "2022-04-23T12:12:55Z",
+            "version": 1,
+            "changeset": 120088567,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Centrum Powiadamiania Ratunkowego.",
+                "phone": "669 525 726"
             }
         },
         {
