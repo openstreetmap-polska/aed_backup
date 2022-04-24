@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-24T14:31:13Z",
-        "timestamp_areas_base": "2022-04-24T14:01:00Z",
+        "timestamp_osm_base": "2022-04-24T15:32:07Z",
+        "timestamp_areas_base": "2022-04-24T15:01:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48871,13 +48871,13 @@
         {
             "type": "node",
             "id": 9568763517,
-            "lat": 50.5192927,
-            "lon": 22.1400573,
-            "timestamp": "2022-03-10T13:22:31Z",
-            "version": 1,
-            "changeset": 118323809,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 50.5193711,
+            "lon": 22.1408103,
+            "timestamp": "2022-04-24T15:27:59Z",
+            "version": 2,
+            "changeset": 120128838,
+            "user": "duran_defrost",
+            "uid": 13478299,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED na budynku szkoły.",
@@ -59738,21 +59738,6 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9672057910,
-            "lat": 50.5193701,
-            "lon": 22.1408085,
-            "timestamp": "2022-04-17T14:43:35Z",
-            "version": 2,
-            "changeset": 119819502,
-            "user": "duran_defrost",
-            "uid": 13478299,
-            "tags": {
-                "emergency": "defibrillator",
-                "indoor": "no"
             }
         },
         {
