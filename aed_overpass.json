@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-25T10:32:10Z",
-        "timestamp_areas_base": "2022-04-25T09:09:10Z",
+        "timestamp_osm_base": "2022-04-25T11:31:57Z",
+        "timestamp_areas_base": "2022-04-25T11:09:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62064,6 +62064,43 @@
             "uid": 2144790,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9691873366,
+            "lat": 51.5827449,
+            "lon": 21.5489772,
+            "timestamp": "2022-04-25T11:10:21Z",
+            "version": 1,
+            "changeset": 120160957,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy KP PSP Kozienice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w w Kozienicach",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9691967417,
+            "lat": 51.9793591,
+            "lon": 21.219207,
+            "timestamp": "2022-04-25T11:07:25Z",
+            "version": 1,
+            "changeset": 120160868,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Hali Sportowej",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
