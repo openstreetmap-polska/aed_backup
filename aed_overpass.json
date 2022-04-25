@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-25T12:31:37Z",
-        "timestamp_areas_base": "2022-04-25T12:10:24Z",
+        "timestamp_osm_base": "2022-04-25T13:31:32Z",
+        "timestamp_areas_base": "2022-04-25T13:11:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62101,6 +62101,24 @@
                 "defibrillator:location": "Na ścianie Hali Sportowej",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9692220294,
+            "lat": 53.1288587,
+            "lon": 23.1556871,
+            "timestamp": "2022-04-25T13:07:25Z",
+            "version": 1,
+            "changeset": 120165991,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na prawo od wejścia",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
