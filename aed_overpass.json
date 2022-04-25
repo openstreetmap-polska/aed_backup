@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-25T18:31:24Z",
-        "timestamp_areas_base": "2022-04-25T18:15:12Z",
+        "timestamp_osm_base": "2022-04-25T19:32:11Z",
+        "timestamp_areas_base": "2022-04-25T19:16:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3310,13 +3310,13 @@
         {
             "type": "node",
             "id": 8145264645,
-            "lat": 54.5097363,
-            "lon": 18.5385835,
-            "timestamp": "2020-11-20T08:29:11Z",
-            "version": 1,
-            "changeset": 94485199,
-            "user": "Lechosław Dzierżak",
-            "uid": 11354198,
+            "lat": 54.509735,
+            "lon": 18.5386021,
+            "timestamp": "2022-04-25T18:47:28Z",
+            "version": 2,
+            "changeset": 120179433,
+            "user": "kukułka",
+            "uid": 2757838,
             "tags": {
                 "defibrillator:location": "w portierni Straży Miejskiej",
                 "emergency": "defibrillator",
