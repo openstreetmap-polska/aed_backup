@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-26T07:31:10Z",
+        "timestamp_osm_base": "2022-04-26T08:31:54Z",
         "timestamp_areas_base": "2022-04-26T06:21:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62118,6 +62118,23 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na prawo od wejścia",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9694536606,
+            "lat": 53.1241696,
+            "lon": 23.0854265,
+            "timestamp": "2022-04-26T08:25:00Z",
+            "version": 1,
+            "changeset": 120199815,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku"
