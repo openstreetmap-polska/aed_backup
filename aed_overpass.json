@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-27T10:33:25Z",
+        "timestamp_osm_base": "2022-04-27T11:35:14Z",
         "timestamp_areas_base": "2022-04-27T07:33:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62138,6 +62138,40 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9697379817,
+            "lat": 54.3723513,
+            "lon": 18.6158454,
+            "timestamp": "2022-04-27T10:51:39Z",
+            "version": 1,
+            "changeset": 120253231,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie od głównego wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9697392517,
+            "lat": 54.3716524,
+            "lon": 18.6191803,
+            "timestamp": "2022-04-27T11:00:34Z",
+            "version": 1,
+            "changeset": 120253582,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W portierni Gmachu Głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
