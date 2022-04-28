@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-28T13:31:22Z",
-        "timestamp_areas_base": "2022-04-28T12:49:40Z",
+        "timestamp_osm_base": "2022-04-28T14:32:10Z",
+        "timestamp_areas_base": "2022-04-28T13:50:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62206,6 +62206,26 @@
                 "defibrillator:location": "W budynku Urzędu Gminy.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9700697864,
+            "lat": 50.0870831,
+            "lon": 19.9544612,
+            "timestamp": "2022-04-28T13:51:47Z",
+            "version": 1,
+            "changeset": 120307681,
+            "user": "qmell",
+            "uid": 1953238,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W recepcji Lux-Med",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Lux-Med",
+                "wheelchair": "yes"
             }
         },
         {
