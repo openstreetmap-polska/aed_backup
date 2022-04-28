@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-28T17:31:26Z",
-        "timestamp_areas_base": "2022-04-28T16:52:59Z",
+        "timestamp_osm_base": "2022-04-28T18:31:12Z",
+        "timestamp_areas_base": "2022-04-28T17:53:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62226,6 +62226,25 @@
                 "level": "0",
                 "operator": "Lux-Med",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9701194641,
+            "lat": 52.4016188,
+            "lon": 16.9243189,
+            "timestamp": "2022-04-28T17:38:56Z",
+            "version": 1,
+            "changeset": 120316597,
+            "user": "m@rio",
+            "uid": 576108,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do hotelu Novotel Poznań Centrum.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7"
             }
         },
         {
