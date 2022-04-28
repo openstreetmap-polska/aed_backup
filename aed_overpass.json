@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-28T06:31:43Z",
-        "timestamp_areas_base": "2022-04-28T05:45:08Z",
+        "timestamp_osm_base": "2022-04-28T07:31:23Z",
+        "timestamp_areas_base": "2022-04-28T06:45:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62187,6 +62187,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Galeria Stara Ujeżdżalnia, na słupie, przy schodach ruchomych, obok lokalu APART.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9699763417,
+            "lat": 49.8891754,
+            "lon": 22.2851186,
+            "timestamp": "2022-04-28T06:34:48Z",
+            "version": 1,
+            "changeset": 120287096,
+            "user": "WMietek",
+            "uid": 2144790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Urzędu Gminy.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
