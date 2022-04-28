@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-28T05:31:54Z",
-        "timestamp_areas_base": "2022-04-28T04:45:24Z",
+        "timestamp_osm_base": "2022-04-28T06:31:43Z",
+        "timestamp_areas_base": "2022-04-28T05:45:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62170,6 +62170,23 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W portierni Gmachu Głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9699713317,
+            "lat": 50.0148599,
+            "lon": 22.6799532,
+            "timestamp": "2022-04-28T06:00:53Z",
+            "version": 1,
+            "changeset": 120287096,
+            "user": "WMietek",
+            "uid": 2144790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Galeria Stara Ujeżdżalnia, na słupie, przy schodach ruchomych, obok lokalu APART.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
