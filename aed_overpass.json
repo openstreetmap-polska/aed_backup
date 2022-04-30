@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-30T13:31:44Z",
-        "timestamp_areas_base": "2022-04-30T13:11:27Z",
+        "timestamp_osm_base": "2022-04-30T14:32:25Z",
+        "timestamp_areas_base": "2022-04-30T14:12:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -61336,15 +61336,16 @@
             "id": 9687749393,
             "lat": 52.5524343,
             "lon": 19.7123632,
-            "timestamp": "2022-04-23T12:16:52Z",
-            "version": 2,
-            "changeset": 120088687,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-04-30T14:29:56Z",
+            "version": 3,
+            "changeset": 120387395,
+            "user": "Stanisław22",
+            "uid": 15079005,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na Parterze w Centralnym Miejscu Poczekalni Dla Podróżnych",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
