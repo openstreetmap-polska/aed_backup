@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-30T20:32:25Z",
-        "timestamp_areas_base": "2022-04-30T20:16:12Z",
+        "timestamp_osm_base": "2022-04-30T21:32:14Z",
+        "timestamp_areas_base": "2022-04-30T21:15:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2895,13 +2895,16 @@
             "id": 7684841696,
             "lat": 54.7605078,
             "lon": 17.5543993,
-            "timestamp": "2020-07-05T12:36:37Z",
-            "version": 1,
-            "changeset": 87554135,
-            "user": "Squnxik",
-            "uid": 3068937,
+            "timestamp": "2022-04-30T20:46:49Z",
+            "version": 2,
+            "changeset": 120399400,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
             "tags": {
-                "emergency": "defibrillator"
+                "defibrillator:location": "Na Murku przy Skwerze Rybaka",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Miasto Łeba"
             }
         },
         {
@@ -62277,6 +62280,126 @@
                 "defibrillator:location": "Na ścianie w rogu budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705962917,
+            "lat": 54.4594236,
+            "lon": 17.0587282,
+            "timestamp": "2022-04-30T20:51:44Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Miedzy biurem kasowym a biurem kierownika obiektu. \nDla pracowników, W godz.:pon.-pt. 7:00-21:00 sobota 8:00-20:00 niedziele handlowe 10:00-19:00",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "(59) 847 01 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705977017,
+            "lat": 54.4534894,
+            "lon": 17.0289223,
+            "timestamp": "2022-04-30T21:01:33Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "ul. Zielona 8 NZOZ \"Salus\"\nDostępne w izbie przyjęć pon-piątek/24h  sobota do godziny 10:00",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705977117,
+            "lat": 54.4534894,
+            "lon": 17.0289223,
+            "timestamp": "2022-04-30T21:01:37Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "ul. Zielona 8 NZOZ \"Salus\"\nDostępne w izbie przyjęć pon-piątek/24h  sobota do godziny 10:00",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705979117,
+            "lat": 54.4538037,
+            "lon": 16.9921542,
+            "timestamp": "2022-04-30T21:03:25Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED w Multikinie \nCentrum Handlowe JANTAR  \nDostępne w godzinach działalności firmy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705986417,
+            "lat": 54.4543034,
+            "lon": 16.9735105,
+            "timestamp": "2022-04-30T21:08:49Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Auchan przy wejściu do supermarketu \nul. Szczecińska 6",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705989119,
+            "lat": 54.4616276,
+            "lon": 17.0074871,
+            "timestamp": "2022-04-30T21:11:27Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Słupski ośrodek Sportu i Rekreacji - Pływalnia \"Gryfia\"  raczej w budynku w godzinach urzędowania",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9705990717,
+            "lat": 54.4644711,
+            "lon": 17.0068732,
+            "timestamp": "2022-04-30T21:12:23Z",
+            "version": 1,
+            "changeset": 120399513,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "NZOZ Salus ul. Piłsudskiego 2",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
