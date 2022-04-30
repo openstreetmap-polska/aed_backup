@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-04-30T21:32:14Z",
-        "timestamp_areas_base": "2022-04-30T21:15:59Z",
+        "timestamp_osm_base": "2022-04-30T22:31:52Z",
+        "timestamp_areas_base": "2022-04-30T22:17:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62398,6 +62398,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "NZOZ Salus ul. Piłsudskiego 2",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9706017817,
+            "lat": 54.5347565,
+            "lon": 17.7562901,
+            "timestamp": "2022-04-30T21:34:10Z",
+            "version": 1,
+            "changeset": 120400536,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ochotnicza Służba Ratownicza w Lęborku -> na ścianie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
