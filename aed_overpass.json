@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-01T10:31:24Z",
-        "timestamp_areas_base": "2022-05-01T10:20:14Z",
+        "timestamp_osm_base": "2022-05-01T11:31:20Z",
+        "timestamp_areas_base": "2022-05-01T11:21:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62441,9 +62441,9 @@
             "id": 9706738506,
             "lat": 51.1043558,
             "lon": 17.075803,
-            "timestamp": "2022-05-01T10:07:38Z",
-            "version": 1,
-            "changeset": 120413565,
+            "timestamp": "2022-05-01T10:36:13Z",
+            "version": 2,
+            "changeset": 120414304,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -62454,8 +62454,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "mobile": "+48 71 340 71 19",
-                "opening_hours": "Mo-Th 09:00-17:00; Fr-Su 09:00-18:00",
+                "opening_hours": "Mo-Th 09:00-18:00; Fr-Su 09:00-18900",
+                "phone": "+48 71 340 71 19",
                 "source": "Aplikacja na android'a pn: \"ZOO Wrocław mapa\" 2022-05-01. Web: https://zoo.wroclaw.pl/dzieki-defibrylatorowi-aed-we-wroclawskim-zoo-uratowano-zycie-zwiedzajacemu",
                 "wheelchair": "yes"
             }
@@ -62465,9 +62465,9 @@
             "id": 9706738507,
             "lat": 51.1055576,
             "lon": 17.0763622,
-            "timestamp": "2022-05-01T10:07:38Z",
-            "version": 1,
-            "changeset": 120413565,
+            "timestamp": "2022-05-01T10:36:13Z",
+            "version": 2,
+            "changeset": 120414304,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -62480,8 +62480,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "mobile": "+48 71 340 71 19",
                 "opening_hours": "Mo-Th 09:00-17:00; Fr-Su 09:00-18:00",
+                "phone": "+48 71 340 71 19",
                 "source": "Aplikacja na android'a pn: \"ZOO Wrocław mapa\" 2022-05-01. Web: https://zoo.wroclaw.pl/dzieki-defibrylatorowi-aed-we-wroclawskim-zoo-uratowano-zycie-zwiedzajacemu",
                 "wheelchair": "yes"
             }
