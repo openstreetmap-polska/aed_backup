@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-01T09:31:41Z",
-        "timestamp_areas_base": "2022-05-01T09:19:28Z",
+        "timestamp_osm_base": "2022-05-01T10:31:24Z",
+        "timestamp_areas_base": "2022-05-01T10:20:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62434,6 +62434,56 @@
                 "defibrillator:location": "Przy wejściu na ścianie po lewej stronie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9706738506,
+            "lat": 51.1043558,
+            "lon": 17.075803,
+            "timestamp": "2022-05-01T10:07:38Z",
+            "version": 1,
+            "changeset": 120413565,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Afrykarium na ścianie.",
+                "defibrillator:location:en": "In the Africarium building on the wall.",
+                "email": "pok@zoo.wroc.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "mobile": "+48 71 340 71 19",
+                "opening_hours": "Mo-Th 09:00-17:00; Fr-Su 09:00-18:00",
+                "source": "Aplikacja na android'a pn: \"ZOO Wrocław mapa\" 2022-05-01. Web: https://zoo.wroclaw.pl/dzieki-defibrylatorowi-aed-we-wroclawskim-zoo-uratowano-zycie-zwiedzajacemu",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9706738507,
+            "lat": 51.1055576,
+            "lon": 17.0763622,
+            "timestamp": "2022-05-01T10:07:38Z",
+            "version": 1,
+            "changeset": 120413565,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt obsługi klienta ZOO Wrocław.",
+                "defibrillator:location:en": "ZOO Wrocław customer service point.",
+                "description": "AED dostępny razem z apteczką.",
+                "description:en": "AED available with a first aid kit.",
+                "email": "pok@zoo.wroc.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "mobile": "+48 71 340 71 19",
+                "opening_hours": "Mo-Th 09:00-17:00; Fr-Su 09:00-18:00",
+                "source": "Aplikacja na android'a pn: \"ZOO Wrocław mapa\" 2022-05-01. Web: https://zoo.wroclaw.pl/dzieki-defibrylatorowi-aed-we-wroclawskim-zoo-uratowano-zycie-zwiedzajacemu",
+                "wheelchair": "yes"
             }
         },
         {
