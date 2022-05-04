@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-04T10:31:24Z",
-        "timestamp_areas_base": "2022-05-04T09:51:54Z",
+        "timestamp_osm_base": "2022-05-04T11:31:18Z",
+        "timestamp_areas_base": "2022-05-04T10:52:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62520,6 +62520,24 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9713787217,
+            "lat": 52.793319,
+            "lon": 18.249692,
+            "timestamp": "2022-05-04T11:00:40Z",
+            "version": 1,
+            "changeset": 120538128,
+            "user": "Galeria Solna",
+            "uid": 15834724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator znajduje się w Pokoju Pierwszej Pomocy zlokalizowanym w części administracyjnej Galerii Solnej (obok Biura Ochrony, wejście do korytarza pomiędzy sklepami Bershka i New Yorker).",
+                "defibrillator:location:en": "The defibrillator is located in the First Aid Room located in the administrative part of Galeria Solna (next to the Security Office, entrance to the corridor between Bershka and New Yorker stores).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
