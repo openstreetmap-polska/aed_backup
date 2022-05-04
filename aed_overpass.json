@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-04T15:31:32Z",
-        "timestamp_areas_base": "2022-05-04T14:54:54Z",
+        "timestamp_osm_base": "2022-05-04T16:31:15Z",
+        "timestamp_areas_base": "2022-05-04T15:55:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62536,6 +62536,23 @@
                 "access": "private",
                 "defibrillator:location": "Defibrylator znajduje się w Pokoju Pierwszej Pomocy zlokalizowanym w części administracyjnej Galerii Solnej (obok Biura Ochrony, wejście do korytarza pomiędzy sklepami Bershka i New Yorker).",
                 "defibrillator:location:en": "The defibrillator is located in the First Aid Room located in the administrative part of Galeria Solna (next to the Security Office, entrance to the corridor between Bershka and New Yorker stores).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9714484217,
+            "lat": 54.5298985,
+            "lon": 18.4995857,
+            "timestamp": "2022-05-04T16:11:18Z",
+            "version": 1,
+            "changeset": 120551930,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "1. piętro, recepcja LUX MED, ściana na lewo od stanowisk obsługi",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
