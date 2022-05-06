@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-06T10:31:22Z",
+        "timestamp_osm_base": "2022-05-06T11:32:09Z",
         "timestamp_areas_base": "2022-05-06T10:15:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62573,6 +62573,48 @@
                 "defibrillator:location": "Lobby na parterze budynku F2, ściana na prawo od wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720336279,
+            "lat": 52.6696976,
+            "lon": 16.2737574,
+            "timestamp": "2022-05-06T11:25:15Z",
+            "version": 1,
+            "changeset": 120626618,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na frontowej ścianie remizy OSP Kłodzisko",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Kłodzisku",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=256522836446456&id=105388654893209",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720351335,
+            "lat": 51.6537999,
+            "lon": 17.1691035,
+            "timestamp": "2022-05-06T11:31:48Z",
+            "version": 1,
+            "changeset": 120626921,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, na lewo od wejścia do ratusza",
+                "defibrillator:location:en": "On the wall, on the left to the main town hall's entrance",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta i Gminy Jutrosin",
+                "phone": "+48 655471419",
+                "source": "https://www.facebook.com/rawiczak/posts/969245380461605"
             }
         },
         {
