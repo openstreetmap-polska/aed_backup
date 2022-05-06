@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-06T20:31:18Z",
-        "timestamp_areas_base": "2022-05-06T20:21:12Z",
+        "timestamp_osm_base": "2022-05-06T21:32:11Z",
+        "timestamp_areas_base": "2022-05-06T21:21:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -53701,18 +53701,18 @@
             "id": 9603217815,
             "lat": 50.5122189,
             "lon": 18.2941782,
-            "timestamp": "2022-03-24T13:02:49Z",
-            "version": 1,
-            "changeset": 118864277,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-05-06T20:39:52Z",
+            "version": 2,
+            "changeset": 120646525,
+            "user": "Thatman333",
+            "uid": 15859570,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku Tauronu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Tauron",
-                "phone": "32 606 0 606",
+                "phone": "+48 32 606 0 606",
                 "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
             }
         },
