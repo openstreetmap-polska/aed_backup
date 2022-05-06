@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-06T12:31:23Z",
+        "timestamp_osm_base": "2022-05-06T13:32:10Z",
         "timestamp_areas_base": "2022-05-06T12:16:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -37317,16 +37317,16 @@
             "id": 9501548763,
             "lat": 50.4710316,
             "lon": 19.0719371,
-            "timestamp": "2022-02-12T21:21:47Z",
-            "version": 1,
-            "changeset": 117336270,
-            "user": "legofahrrad",
-            "uid": 11052563,
+            "timestamp": "2022-05-06T12:34:40Z",
+            "version": 2,
+            "changeset": 120629599,
+            "user": "zuicz",
+            "uid": 10002090,
             "tags": {
                 "defibrillator:location": "I piętro, na ścianie przy kolejce do kontroli bezpieczeństwa, na wysokości kaplicy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "0",
+                "level": "1",
                 "source": "https://www.openstreetmap.org/note/3049182"
             }
         },
@@ -62619,6 +62619,57 @@
                 "opening_hours": "24/7",
                 "operator": "Ratusz Staromiejski w Elblągu",
                 "source": "http://www.elblag.net/artykuly/defibrylator-pojawil-sie-na-starym-miescie-w-elblagu,47277.htm?fbclid=IwAR27N71M5102-m-MlGy1E08MbYTiYpghtC84qApBlG0FukCx8ZmPKEOCeGQ"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720463924,
+            "lat": 50.471145,
+            "lon": 19.0731407,
+            "timestamp": "2022-05-06T12:34:40Z",
+            "version": 1,
+            "changeset": 120629599,
+            "user": "zuicz",
+            "uid": 10002090,
+            "tags": {
+                "defibrillator:location": "Na ścianie przy sklepie Baltona i kontroli bezpieczeństwa w Terminalu A",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720463925,
+            "lat": 50.4710105,
+            "lon": 19.0725861,
+            "timestamp": "2022-05-06T12:34:40Z",
+            "version": 1,
+            "changeset": 120629599,
+            "user": "zuicz",
+            "uid": 10002090,
+            "tags": {
+                "defibrillator:location": "Na filarze na granicy Terminalu A i B",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720463926,
+            "lat": 50.4708964,
+            "lon": 19.0695178,
+            "timestamp": "2022-05-06T12:34:40Z",
+            "version": 1,
+            "changeset": 120629599,
+            "user": "zuicz",
+            "uid": 10002090,
+            "tags": {
+                "defibrillator:location": "Na ścianie przy ostatnim wejściu do Terminalu C",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
