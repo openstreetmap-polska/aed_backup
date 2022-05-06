@@ -1,4 +1,4 @@
-# AED backup and stats (2022-05-06 11:33:08)
+# AED backup and stats (2022-05-06 12:33:08)
 
 
 ## Total AED plot
@@ -15,7 +15,7 @@ Average daily growth since beginning of the year: 25.25
 | ------------- | ------------- | ------------- |
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 726 |
 | 2 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
-| 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 336 |
+| 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 337 |
 | 4 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 251 |
 | 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 226 |
 | 6 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 175 |

@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-06T11:32:09Z",
-        "timestamp_areas_base": "2022-05-06T10:15:00Z",
+        "timestamp_osm_base": "2022-05-06T12:31:23Z",
+        "timestamp_areas_base": "2022-05-06T12:16:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -16042,23 +16042,6 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Szpital Powiatowy w Aleksandrowie Kujawskim",
-                "emergency": "defibrillator",
-                "location": "indoor"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9429260120,
-            "lat": 52.1116282,
-            "lon": 20.6396728,
-            "timestamp": "2022-01-18T19:39:21Z",
-            "version": 1,
-            "changeset": 116313439,
-            "user": "szejnerkarol",
-            "uid": 12510523,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Grodziska Hala Sportowa",
                 "emergency": "defibrillator",
                 "location": "indoor"
             }
@@ -62615,6 +62598,27 @@
                 "operator": "Urząd Miasta i Gminy Jutrosin",
                 "phone": "+48 655471419",
                 "source": "https://www.facebook.com/rawiczak/posts/969245380461605"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9720356481,
+            "lat": 54.1586874,
+            "lon": 19.3961762,
+            "timestamp": "2022-05-06T11:37:47Z",
+            "version": 1,
+            "changeset": 120627149,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Ratusza, na prawo od wejścia głównego",
+                "defibrillator:location:en": "On the wall, on the right to the main town hall's entrance",
+                "emergency": "defibrillator",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Ratusz Staromiejski w Elblągu",
+                "source": "http://www.elblag.net/artykuly/defibrylator-pojawil-sie-na-starym-miescie-w-elblagu,47277.htm?fbclid=IwAR27N71M5102-m-MlGy1E08MbYTiYpghtC84qApBlG0FukCx8ZmPKEOCeGQ"
             }
         },
         {
