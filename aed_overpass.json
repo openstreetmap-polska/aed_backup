@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-07T20:32:12Z",
+        "timestamp_osm_base": "2022-05-07T21:32:14Z",
         "timestamp_areas_base": "2022-05-07T20:31:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62653,6 +62653,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9723696917,
+            "lat": 54.5165974,
+            "lon": 18.5462607,
+            "timestamp": "2022-05-07T20:38:17Z",
+            "version": 1,
+            "changeset": 120682240,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ściana - koniec korytarza w lewo od głównego wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
