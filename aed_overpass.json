@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-08T16:31:59Z",
-        "timestamp_areas_base": "2022-05-08T15:39:11Z",
+        "timestamp_osm_base": "2022-05-08T17:31:39Z",
+        "timestamp_areas_base": "2022-05-08T16:38:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62736,6 +62736,58 @@
             "uid": 11496679,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9725003017,
+            "lat": 54.4672708,
+            "lon": 17.0341055,
+            "timestamp": "2022-05-08T17:07:50Z",
+            "version": 1,
+            "changeset": 120710863,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępny w punkcie informacji",
+                "defibrillator:location:en": "Starostwo Powiatowe w Słupsku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9725007217,
+            "lat": 54.4640433,
+            "lon": 17.0282119,
+            "timestamp": "2022-05-08T17:09:37Z",
+            "version": 1,
+            "changeset": 120710863,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku na ścianie  ZUS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9725058617,
+            "lat": 54.4811409,
+            "lon": 17.0115862,
+            "timestamp": "2022-05-08T17:22:15Z",
+            "version": 1,
+            "changeset": 120710863,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na Terenie obiektu pytać przy kasach",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
