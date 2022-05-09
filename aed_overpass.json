@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-09T18:31:24Z",
-        "timestamp_areas_base": "2022-05-09T17:50:58Z",
+        "timestamp_osm_base": "2022-05-09T19:32:09Z",
+        "timestamp_areas_base": "2022-05-09T18:52:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -4463,16 +4463,26 @@
         {
             "type": "node",
             "id": 9006854432,
-            "lat": 50.8324471,
-            "lon": 15.5187911,
-            "timestamp": "2021-08-15T12:42:30Z",
-            "version": 2,
-            "changeset": 109699784,
-            "user": "duran_defrost",
-            "uid": 13478299,
+            "lat": 50.8324272,
+            "lon": 15.5188538,
+            "timestamp": "2022-05-09T18:33:26Z",
+            "version": 3,
+            "changeset": 120761375,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy kasach biletowych.",
+                "defibrillator:location:en": "On the wall at the ticket offices.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "manuacturer": "Stryker",
+                "model": "Lifepak CR2",
+                "opening_hours": "Mo-Su 06:00-21:00",
+                "operator": "PKP S.A.",
+                "source": "Weryfikacja na miejscu w dniu 04.05.2022r.",
+                "wheelchair": "yes"
             }
         },
         {
