@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-09T16:31:46Z",
+        "timestamp_osm_base": "2022-05-09T17:31:40Z",
         "timestamp_areas_base": "2022-05-09T15:50:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62775,6 +62775,25 @@
                 "defibrillator:location": "Na Terenie obiektu pytać przy kasach",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9727497317,
+            "lat": 53.6252792,
+            "lon": 15.0812777,
+            "timestamp": "2022-05-09T17:01:06Z",
+            "version": 1,
+            "changeset": 120757889,
+            "user": "Nixev",
+            "uid": 14867708,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wóz ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "emergency:phone": "505724165",
+                "indoor": "yes",
+                "phone": "505724165"
             }
         },
         {
