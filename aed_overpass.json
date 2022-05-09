@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-09T13:31:16Z",
-        "timestamp_areas_base": "2022-05-09T11:47:57Z",
+        "timestamp_osm_base": "2022-05-09T14:32:10Z",
+        "timestamp_areas_base": "2022-05-09T13:48:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24270,15 +24270,16 @@
             "id": 9450857666,
             "lat": 52.2300312,
             "lon": 20.9828641,
-            "timestamp": "2022-01-26T18:44:27Z",
-            "version": 1,
-            "changeset": 116634246,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-05-09T14:19:50Z",
+            "version": 2,
+            "changeset": 120751333,
+            "user": "Rogoyski",
+            "uid": 67255,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Rondo Daszyńskiego",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
