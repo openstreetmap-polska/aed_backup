@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-12T19:31:31Z",
-        "timestamp_areas_base": "2022-05-12T19:29:25Z",
+        "timestamp_osm_base": "2022-05-12T20:31:28Z",
+        "timestamp_areas_base": "2022-05-12T20:30:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62834,6 +62834,126 @@
             "uid": 6765127,
             "tags": {
                 "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735833517,
+            "lat": 54.5794488,
+            "lon": 16.856186,
+            "timestamp": "2022-05-12T20:06:26Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wozy strażackie",
+                "defibrillator:location:en": "PSP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735833518,
+            "lat": 54.543231,
+            "lon": 16.8489593,
+            "timestamp": "2022-05-12T20:07:27Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na terenie zakładu około 4 sztuk",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735839217,
+            "lat": 54.4643185,
+            "lon": 17.036155,
+            "timestamp": "2022-05-12T20:08:26Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "na wyposażeniu wozów strażackich około 2-3 szt",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735840317,
+            "lat": 54.4655014,
+            "lon": 17.0141661,
+            "timestamp": "2022-05-12T20:09:10Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "PSP na wyposażeniu wozów strażackich",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735840318,
+            "lat": 54.464464,
+            "lon": 17.0244994,
+            "timestamp": "2022-05-12T20:09:41Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w budynku w okolicy schodów ruchomych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735841217,
+            "lat": 54.4646714,
+            "lon": 17.0267442,
+            "timestamp": "2022-05-12T20:09:59Z",
+            "version": 1,
+            "changeset": 120904852,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W punkcie informacji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9735848317,
+            "lat": 54.4542561,
+            "lon": 16.9880886,
+            "timestamp": "2022-05-12T20:16:40Z",
+            "version": 1,
+            "changeset": 120905155,
+            "user": "Mateusz Mówka",
+            "uid": 15785092,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Decathlon w sklepie w środku",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
