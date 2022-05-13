@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-13T18:31:11Z",
-        "timestamp_areas_base": "2022-05-13T17:41:42Z",
+        "timestamp_osm_base": "2022-05-13T19:32:12Z",
+        "timestamp_areas_base": "2022-05-13T18:41:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62986,6 +62986,77 @@
             "user": "duran_defrost",
             "uid": 13478299,
             "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9738300644,
+            "lat": 51.7507126,
+            "lon": 19.4687866,
+            "timestamp": "2022-05-13T19:01:34Z",
+            "version": 1,
+            "changeset": 120950956,
+            "user": "mklopocki",
+            "uid": 1583051,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Ekspansji Lidl Łódź, 1 piętro",
+                "defibrillator:location:en": "Lidl Expansion Office, 1-st floor",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9738301046,
+            "lat": 51.8779872,
+            "lon": 19.559204,
+            "timestamp": "2022-05-13T19:04:47Z",
+            "version": 1,
+            "changeset": 120950956,
+            "user": "mklopocki",
+            "uid": 1583051,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Dystrybucyjne Lidl, obszar wysyłki towaru",
+                "defibrillator:location:en": "Lidl Distribution Center, goods shipping area",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9738315621,
+            "lat": 51.8792473,
+            "lon": 19.5601716,
+            "timestamp": "2022-05-13T19:03:15Z",
+            "version": 1,
+            "changeset": 120950956,
+            "user": "mklopocki",
+            "uid": 1583051,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Dystrybucyjne Lidl, klatka schodowa biurowca",
+                "defibrillator:location:en": "Lidl Distribution Center, staircase of the office building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9738318795,
+            "lat": 53.1334195,
+            "lon": 23.1716828,
+            "timestamp": "2022-05-13T19:04:59Z",
+            "version": 1,
+            "changeset": 120951129,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku ZHP",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
