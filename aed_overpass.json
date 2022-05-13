@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-13T15:31:40Z",
+        "timestamp_osm_base": "2022-05-13T16:31:29Z",
         "timestamp_areas_base": "2022-05-13T14:39:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62971,6 +62971,21 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Lobby na parterze budynku F1, ściana na lewo od wejścia, przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9737948677,
+            "lat": 51.1107288,
+            "lon": 17.0378879,
+            "timestamp": "2022-05-13T15:34:01Z",
+            "version": 2,
+            "changeset": 120942642,
+            "user": "duran_defrost",
+            "uid": 13478299,
+            "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
