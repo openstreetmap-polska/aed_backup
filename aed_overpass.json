@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-13T09:31:09Z",
+        "timestamp_osm_base": "2022-05-13T10:31:02Z",
         "timestamp_areas_base": "2022-05-13T08:35:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62954,6 +62954,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Decathlon w sklepie w środku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9737273018,
+            "lat": 54.4084615,
+            "lon": 18.5739835,
+            "timestamp": "2022-05-13T09:46:33Z",
+            "version": 1,
+            "changeset": 120926472,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Lobby na parterze budynku F1, ściana na lewo od wejścia, przy recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
