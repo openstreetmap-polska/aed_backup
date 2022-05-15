@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-15T10:32:14Z",
-        "timestamp_areas_base": "2022-05-15T09:57:38Z",
+        "timestamp_osm_base": "2022-05-15T11:31:55Z",
+        "timestamp_areas_base": "2022-05-15T10:57:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63059,6 +63059,40 @@
                 "defibrillator:location": "W budynku ZHP",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9741016717,
+            "lat": 54.4377299,
+            "lon": 17.739797,
+            "timestamp": "2022-05-15T11:03:03Z",
+            "version": 1,
+            "changeset": 121007883,
+            "user": "lwierzbowski",
+            "uid": 9470015,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Remiza strażacka OSP CEWICE",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9741020017,
+            "lat": 54.4359685,
+            "lon": 17.7354128,
+            "timestamp": "2022-05-15T11:03:52Z",
+            "version": 1,
+            "changeset": 121007883,
+            "user": "lwierzbowski",
+            "uid": 9470015,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
