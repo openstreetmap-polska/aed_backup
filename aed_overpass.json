@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-17T12:31:54Z",
+        "timestamp_osm_base": "2022-05-17T13:31:38Z",
         "timestamp_areas_base": "2022-05-17T10:24:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63093,6 +63093,40 @@
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9749020217,
+            "lat": 54.3717367,
+            "lon": 18.6176795,
+            "timestamp": "2022-05-17T12:38:20Z",
+            "version": 1,
+            "changeset": 121098813,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Koniec korytarza na lewo od głównego wejścia, na ścianie przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9749020417,
+            "lat": 54.3717367,
+            "lon": 18.6176795,
+            "timestamp": "2022-05-17T12:38:34Z",
+            "version": 1,
+            "changeset": 121098813,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Koniec korytarza na lewo od głównego wejścia, na ścianie przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
