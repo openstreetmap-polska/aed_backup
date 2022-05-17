@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-17T14:32:30Z",
+        "timestamp_osm_base": "2022-05-17T15:31:08Z",
         "timestamp_areas_base": "2022-05-17T10:24:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63114,19 +63114,38 @@
         },
         {
             "type": "node",
-            "id": 9749020417,
-            "lat": 54.3717367,
-            "lon": 18.6176795,
-            "timestamp": "2022-05-17T12:38:34Z",
+            "id": 9749271817,
+            "lat": 49.9383697,
+            "lon": 19.9715641,
+            "timestamp": "2022-05-17T14:43:45Z",
             "version": 1,
-            "changeset": 121098813,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "changeset": 121104603,
+            "user": "SpectorR",
+            "uid": 15991059,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Koniec korytarza na lewo od głównego wejścia, na ścianie przy portierni",
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9749274517,
+            "lat": 49.9454088,
+            "lon": 19.9730306,
+            "timestamp": "2022-05-17T14:46:33Z",
+            "version": 1,
+            "changeset": 121104724,
+            "user": "SpectorR",
+            "uid": 15991059,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu głównym do budynku",
+                "defibrillator:location:en": "on the wall at the entrance to the building",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
