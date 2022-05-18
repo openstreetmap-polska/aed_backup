@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-18T17:32:24Z",
-        "timestamp_areas_base": "2022-05-18T16:40:41Z",
+        "timestamp_osm_base": "2022-05-18T18:31:10Z",
+        "timestamp_areas_base": "2022-05-18T17:41:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63167,6 +63167,24 @@
                 "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off; PH off",
                 "operator": "Nadleśnictwo Gryfice",
                 "phone": "+48 91 384 33 21"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9752625117,
+            "lat": 50.7328772,
+            "lon": 16.5604193,
+            "timestamp": "2022-05-18T17:58:18Z",
+            "version": 1,
+            "changeset": 121158735,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Boxmet Medical, Piskorzów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 836 91 14"
             }
         },
         {
