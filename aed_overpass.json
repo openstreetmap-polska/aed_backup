@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-18T19:31:55Z",
-        "timestamp_areas_base": "2022-05-18T18:42:12Z",
+        "timestamp_osm_base": "2022-05-18T20:31:43Z",
+        "timestamp_areas_base": "2022-05-18T19:43:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63185,6 +63185,46 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "74 836 91 14"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9752766308,
+            "lat": 50.1840726,
+            "lon": 19.9772684,
+            "timestamp": "2022-05-18T19:52:39Z",
+            "version": 1,
+            "changeset": 121162430,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy OSP",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Wilczkowice",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=2291988064283578&id=993731297442601"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9752874051,
+            "lat": 50.8016902,
+            "lon": 18.5768884,
+            "timestamp": "2022-05-18T20:00:11Z",
+            "version": 1,
+            "changeset": 121162670,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Kapsuła na ścianie remizy OSP",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Wilczkowice",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/ospsierakowslaski/posts/1960807030973641"
             }
         },
         {
