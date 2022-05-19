@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-19T04:32:24Z",
-        "timestamp_areas_base": "2022-05-19T03:46:37Z",
+        "timestamp_osm_base": "2022-05-19T05:32:10Z",
+        "timestamp_areas_base": "2022-05-19T04:46:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63225,6 +63225,23 @@
                 "operator": "Ochotnicza Straż Pożarna Wilczkowice",
                 "outdoor": "yes",
                 "source": "https://www.facebook.com/ospsierakowslaski/posts/1960807030973641"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9753515617,
+            "lat": 54.0167661,
+            "lon": 17.8098883,
+            "timestamp": "2022-05-19T05:17:00Z",
+            "version": 1,
+            "changeset": 121173875,
+            "user": "Luki3251",
+            "uid": 16010818,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok bramy garażowej budynku OSP",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
