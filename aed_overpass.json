@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-19T16:31:56Z",
-        "timestamp_areas_base": "2022-05-19T12:52:08Z",
+        "timestamp_osm_base": "2022-05-19T17:31:45Z",
+        "timestamp_areas_base": "2022-05-19T16:55:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63292,6 +63292,25 @@
                 "defibrillator:location": "Na ścianie obok recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9755189417,
+            "lat": 54.6644271,
+            "lon": 17.2138175,
+            "timestamp": "2022-05-19T17:25:15Z",
+            "version": 1,
+            "changeset": 121205636,
+            "user": "OSP SMOŁDZINO",
+            "uid": 16016647,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku OSP Smołdzino ul Bohaterów Warszawy 7a",
+                "emergency": "defibrillator",
+                "emergency:phone": "509775393",
+                "indoor": "no",
+                "phone": "509775393"
             }
         },
         {
