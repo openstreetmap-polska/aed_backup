@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-19T06:31:55Z",
-        "timestamp_areas_base": "2022-05-19T05:46:22Z",
+        "timestamp_osm_base": "2022-05-19T07:31:54Z",
+        "timestamp_areas_base": "2022-05-19T06:47:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63242,6 +63242,22 @@
                 "defibrillator:location": "Na ścianie obok bramy garażowej budynku OSP",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9753734217,
+            "lat": 50.0873327,
+            "lon": 19.9173595,
+            "timestamp": "2022-05-19T07:19:02Z",
+            "version": 1,
+            "changeset": 121178760,
+            "user": "dziabaducha",
+            "uid": 775276,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
