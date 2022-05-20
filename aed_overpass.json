@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-20T18:32:33Z",
-        "timestamp_areas_base": "2022-05-20T18:08:18Z",
+        "timestamp_osm_base": "2022-05-20T19:31:30Z",
+        "timestamp_areas_base": "2022-05-20T19:09:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11562,17 +11562,20 @@
         {
             "type": "node",
             "id": 9413497818,
-            "lat": 49.8296538,
-            "lon": 19.0448454,
-            "timestamp": "2022-01-12T18:44:08Z",
-            "version": 1,
-            "changeset": 116078457,
-            "user": "Landrinka",
-            "uid": 12830729,
+            "lat": 49.8296627,
+            "lon": 19.0449197,
+            "timestamp": "2022-05-20T19:13:23Z",
+            "version": 2,
+            "changeset": 121258133,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W pobliżu kas",
+                "defibrillator:location": "W pobliżu kasy nr 3 i 4",
+                "description": "LIFEPAK CR2",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
                 "location": "indoor"
             }
         },
