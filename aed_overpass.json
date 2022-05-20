@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-20T09:31:12Z",
-        "timestamp_areas_base": "2022-05-20T08:01:58Z",
+        "timestamp_osm_base": "2022-05-20T10:31:57Z",
+        "timestamp_areas_base": "2022-05-20T10:02:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63346,6 +63346,42 @@
                 "access": "customers",
                 "defibrillator:location": "BUDYNEK SOCJALNY, przy głównym wejściu po lewej stronie",
                 "defibrillator:location:en": "SOCIAL BUILDING, at the main entrance on the left side",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9756916317,
+            "lat": 52.2245152,
+            "lon": 20.9940222,
+            "timestamp": "2022-05-20T09:47:14Z",
+            "version": 1,
+            "changeset": 121233749,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na recepcji",
+                "defibrillator:location:en": "At reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 226268390"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9756980817,
+            "lat": 53.205249,
+            "lon": 23.3414547,
+            "timestamp": "2022-05-20T10:11:01Z",
+            "version": 1,
+            "changeset": 121234904,
+            "user": "lsajko112",
+            "uid": 16025241,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Remiza OSP SUPRAŚL",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
