@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-20T08:31:25Z",
+        "timestamp_osm_base": "2022-05-20T09:31:12Z",
         "timestamp_areas_base": "2022-05-20T08:01:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63311,6 +63311,43 @@
                 "emergency:phone": "509775393",
                 "indoor": "no",
                 "phone": "509775393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9756796217,
+            "lat": 52.5068112,
+            "lon": 23.3496157,
+            "timestamp": "2022-05-20T09:26:19Z",
+            "version": 2,
+            "changeset": 121232911,
+            "user": "bdragun",
+            "uid": 16024531,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "BUDYNEK BIUROWY,parter, korytarz po prawej stronie, wejście przy sekretariacie\npon.- pt.- 6:00-15:00",
+                "defibrillator:location:en": "OFFICE BUILDING, ground floor, corridor on the right, entrance at the secretary's office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Nasycalnia Podkładów w Czeremsze sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9756799517,
+            "lat": 52.5047852,
+            "lon": 23.3479532,
+            "timestamp": "2022-05-20T09:00:04Z",
+            "version": 1,
+            "changeset": 121231585,
+            "user": "bdragun",
+            "uid": 16024531,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "BUDYNEK SOCJALNY, przy głównym wejściu po lewej stronie",
+                "defibrillator:location:en": "SOCIAL BUILDING, at the main entrance on the left side",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
