@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-20T10:31:57Z",
-        "timestamp_areas_base": "2022-05-20T10:02:35Z",
+        "timestamp_osm_base": "2022-05-20T11:31:39Z",
+        "timestamp_areas_base": "2022-05-20T11:03:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63353,11 +63353,11 @@
         {
             "type": "node",
             "id": 9756916317,
-            "lat": 52.2245152,
-            "lon": 20.9940222,
-            "timestamp": "2022-05-20T09:47:14Z",
-            "version": 1,
-            "changeset": 121233749,
+            "lat": 52.2245057,
+            "lon": 20.9936761,
+            "timestamp": "2022-05-20T11:07:09Z",
+            "version": 2,
+            "changeset": 121237561,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
@@ -63384,6 +63384,22 @@
                 "defibrillator:location": "Remiza OSP SUPRAŚL",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9757069717,
+            "lat": 49.740262,
+            "lon": 19.2575882,
+            "timestamp": "2022-05-20T11:21:21Z",
+            "version": 2,
+            "changeset": 121238329,
+            "user": "OSP Kocierz Moszczanicki",
+            "uid": 16025647,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Kocierz Moszczanicki"
             }
         },
         {
