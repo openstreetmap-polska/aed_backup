@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-21T21:32:00Z",
-        "timestamp_areas_base": "2022-05-21T21:19:41Z",
+        "timestamp_osm_base": "2022-05-21T22:31:43Z",
+        "timestamp_areas_base": "2022-05-21T22:19:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63234,16 +63234,19 @@
             "id": 9753515617,
             "lat": 54.0167661,
             "lon": 17.8098883,
-            "timestamp": "2022-05-19T05:17:00Z",
-            "version": 1,
-            "changeset": 121173875,
+            "timestamp": "2022-05-21T21:56:15Z",
+            "version": 3,
+            "changeset": 121299333,
             "user": "Luki3251",
             "uid": 16010818,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie obok bramy garażowej budynku OSP",
+                "defibrillator:location": "Na frontowej ścianie remizy OSP",
+                "description": "Defibrylator AED zamontowany w kapsule zewnetrznej na ścianie remizy OSP.\nPo otwarciu kapsuły uruchamia się jej własny alarm oraz załącza się syrena alarmowa OSP wraz z powiadamianiem sms do strażaków.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Piechowicach",
+                "ref": "Nr. budynku 27"
             }
         },
         {
