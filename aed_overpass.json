@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-21T11:31:27Z",
-        "timestamp_areas_base": "2022-05-21T11:14:15Z",
+        "timestamp_osm_base": "2022-05-21T12:31:31Z",
+        "timestamp_areas_base": "2022-05-21T12:14:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49921,18 +49921,17 @@
             "id": 9570689218,
             "lat": 51.6467548,
             "lon": 16.1051913,
-            "timestamp": "2022-03-11T11:48:42Z",
-            "version": 1,
-            "changeset": 118360855,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-05-21T12:16:29Z",
+            "version": 2,
+            "changeset": 121279855,
+            "user": "puchaczowsky",
+            "uid": 7518458,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "automatyczny defibrylator",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
-                "operator": "Targowisko Miejskie na ulicy Kazimierza Sprawiedliwego",
-                "phone": "+48605990310"
+                "operator": "Głogowskie Obiekty Usługowe",
+                "phone": "+48 605 990 310"
             }
         },
         {
