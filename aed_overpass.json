@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-21T14:31:29Z",
-        "timestamp_areas_base": "2022-05-21T14:15:10Z",
+        "timestamp_osm_base": "2022-05-21T15:31:18Z",
+        "timestamp_areas_base": "2022-05-21T15:16:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63402,6 +63402,67 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "operator": "OSP Kocierz Moszczanicki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9759620812,
+            "lat": 54.3485311,
+            "lon": 18.7964956,
+            "timestamp": "2022-05-21T15:12:55Z",
+            "version": 1,
+            "changeset": 121286453,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku. Dostęp po kontakcie telefonicznym.",
+                "defibrillator:location:en": "In the building. Access after telephone contact.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 725 991 148"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9759648832,
+            "lat": 54.3445699,
+            "lon": 18.4338703,
+            "timestamp": "2022-05-21T15:03:45Z",
+            "version": 1,
+            "changeset": 121286134,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze, w recepcji.",
+                "defibrillator:location:en": "On the ground floor, at the reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 523 20 90"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9759675344,
+            "lat": 54.2535573,
+            "lon": 17.9906124,
+            "timestamp": "2022-05-21T15:28:56Z",
+            "version": 1,
+            "changeset": 121287069,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku stacji u administratora obiektu.",
+                "defibrillator:location:en": "In the station building at the facility administrator.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 684 60 17"
             }
         },
         {
