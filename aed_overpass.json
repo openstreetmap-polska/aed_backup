@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-21T12:31:31Z",
-        "timestamp_areas_base": "2022-05-21T12:14:12Z",
+        "timestamp_osm_base": "2022-05-21T13:31:30Z",
+        "timestamp_areas_base": "2022-05-21T13:15:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60064,13 +60064,13 @@
         {
             "type": "node",
             "id": 9680848264,
-            "lat": 54.3472026,
-            "lon": 18.6473312,
-            "timestamp": "2022-04-20T18:42:53Z",
-            "version": 1,
-            "changeset": 119968131,
-            "user": "ptarac",
-            "uid": 11496679,
+            "lat": 54.347181,
+            "lon": 18.6473235,
+            "timestamp": "2022-05-21T12:35:44Z",
+            "version": 2,
+            "changeset": 121280517,
+            "user": "GeoFreak14",
+            "uid": 14754706,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na parterze, przy portierni.",
