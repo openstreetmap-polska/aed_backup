@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-21T15:31:18Z",
-        "timestamp_areas_base": "2022-05-21T15:16:10Z",
+        "timestamp_osm_base": "2022-05-21T16:31:15Z",
+        "timestamp_areas_base": "2022-05-21T16:16:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63422,6 +63422,27 @@
                 "indoor": "yes",
                 "operator": "Uniwersytet Gdański",
                 "phone": "+48 725 991 148"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9759644578,
+            "lat": 54.2590731,
+            "lon": 17.9988182,
+            "timestamp": "2022-05-21T15:48:02Z",
+            "version": 1,
+            "changeset": 121287887,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Na parterze budynku.",
+                "defibrillator:location:en": "On the ground floor of the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Gdański",
+                "phone": "+48 58 684 32 72"
             }
         },
         {
