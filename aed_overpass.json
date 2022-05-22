@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-22T14:31:11Z",
-        "timestamp_areas_base": "2022-05-22T14:24:09Z",
+        "timestamp_osm_base": "2022-05-22T15:31:56Z",
+        "timestamp_areas_base": "2022-05-22T15:23:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63506,6 +63506,22 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9761973018,
+            "lat": 50.6178575,
+            "lon": 17.8629877,
+            "timestamp": "2022-05-22T15:25:11Z",
+            "version": 1,
+            "changeset": 121323805,
+            "user": "Patryq21",
+            "uid": 15965761,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Domecko"
             }
         },
         {
