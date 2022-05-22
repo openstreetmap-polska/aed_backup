@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-22T08:31:44Z",
-        "timestamp_areas_base": "2022-05-22T08:21:30Z",
+        "timestamp_osm_base": "2022-05-22T09:31:24Z",
+        "timestamp_areas_base": "2022-05-22T09:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63487,6 +63487,25 @@
                 "indoor": "yes",
                 "operator": "Uniwersytet Gdański",
                 "phone": "+48 58 684 60 17"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9761253752,
+            "lat": 51.1299774,
+            "lon": 17.0428953,
+            "timestamp": "2022-05-22T09:11:01Z",
+            "version": 1,
+            "changeset": 121309705,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w recepcji przychodni na ścianie po prawej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
             }
         },
         {
