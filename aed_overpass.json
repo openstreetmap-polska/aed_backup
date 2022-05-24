@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-24T10:31:27Z",
+        "timestamp_osm_base": "2022-05-24T11:31:14Z",
         "timestamp_areas_base": "2022-05-24T08:44:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63541,6 +63541,23 @@
                 "indoor": "yes",
                 "manufacturer": "Philips",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9766852917,
+            "lat": 54.3714392,
+            "lon": 18.6221726,
+            "timestamp": "2022-05-24T10:58:37Z",
+            "version": 1,
+            "changeset": 121417195,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ściana na prawo od wejścia do biblioteki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
