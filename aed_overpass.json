@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-27T17:31:39Z",
-        "timestamp_areas_base": "2022-05-27T17:26:39Z",
+        "timestamp_osm_base": "2022-05-27T18:31:25Z",
+        "timestamp_areas_base": "2022-05-27T18:27:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63593,6 +63593,27 @@
                 "defibrillator:location:en": "In customer office IKEA",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9775615039,
+            "lat": 50.3796562,
+            "lon": 18.2433966,
+            "timestamp": "2022-05-27T18:06:30Z",
+            "version": 1,
+            "changeset": 121588467,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W kapsule na ścianie remizy przy bramie wjazdowej",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Cisowa",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/ospksrgcisowa/posts/3192201087683216",
+                "wheelchair": "yes"
             }
         },
         {
