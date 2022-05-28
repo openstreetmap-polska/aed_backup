@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-28T13:31:28Z",
-        "timestamp_areas_base": "2022-05-28T12:32:41Z",
+        "timestamp_osm_base": "2022-05-28T14:32:08Z",
+        "timestamp_areas_base": "2022-05-28T13:33:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62025,34 +62025,6 @@
                 "emergency": "defibrillator",
                 "operator": "Centrum Powiadamiania Ratunkowego.",
                 "phone": "669 525 726"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9689761206,
-            "lat": 54.4099531,
-            "lon": 18.5672624,
-            "timestamp": "2022-04-24T14:25:05Z",
-            "version": 1,
-            "changeset": 120126484,
-            "user": "yourealwaysbe",
-            "uid": 1878856,
-            "tags": {
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9689763247,
-            "lat": 54.4039471,
-            "lon": 18.5905553,
-            "timestamp": "2022-04-24T14:25:05Z",
-            "version": 1,
-            "changeset": 120126484,
-            "user": "yourealwaysbe",
-            "uid": 1878856,
-            "tags": {
-                "emergency": "defibrillator"
             }
         },
         {
