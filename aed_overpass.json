@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-29T14:30:57Z",
-        "timestamp_areas_base": "2022-05-29T13:41:11Z",
+        "timestamp_osm_base": "2022-05-29T15:31:33Z",
+        "timestamp_areas_base": "2022-05-29T14:41:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63603,6 +63603,120 @@
                 "defibrillator:location": "Na dworcu kolejowym Dzierżoniów Śląski (Sowiogórskie Centrum Komunikacyjne)",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382434,
+            "lat": 52.3792819,
+            "lon": 16.9860109,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu od strony platformy komunikacyjnej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "Hala OW-3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382435,
+            "lat": 52.3779289,
+            "lon": 16.9849174,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "defibrillator:location": "W korytarzu wewnątrz.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "Hala W-1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382436,
+            "lat": 52.3772579,
+            "lon": 16.9865441,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Obok wózkarni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "Hala K-3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382437,
+            "lat": 52.3769369,
+            "lon": 16.9844118,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Brama główna.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "Budka ochrony"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382438,
+            "lat": 52.3761854,
+            "lon": 16.9862114,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Kasa wjazdowa przy hali K-2, od strony ul. Klenowskiej/Franowo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "budka ochrony"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779382439,
+            "lat": 52.376881,
+            "lon": 16.9858786,
+            "timestamp": "2022-05-29T14:34:42Z",
+            "version": 1,
+            "changeset": 121662101,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Obok baru Pogwarka",
+                "emergency": "defibrillator",
+                "fixme": "lokalizacja",
+                "indoor": "yes",
+                "operator": "Wielkopolska Gildia Rolno-Ogrodnicza",
+                "ref": "hala K2"
             }
         },
         {
