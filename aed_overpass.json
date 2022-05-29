@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-29T17:32:09Z",
-        "timestamp_areas_base": "2022-05-29T16:44:24Z",
+        "timestamp_osm_base": "2022-05-29T18:31:55Z",
+        "timestamp_areas_base": "2022-05-29T17:44:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28300,24 +28300,6 @@
         },
         {
             "type": "node",
-            "id": 9461245960,
-            "lat": 49.658972,
-            "lon": 20.343778,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Słopnice"
-            }
-        },
-        {
-            "type": "node",
             "id": 9461245961,
             "lat": 49.4217098,
             "lon": 20.4889217,
@@ -30176,16 +30158,16 @@
             "id": 9467016608,
             "lat": 51.01747,
             "lon": 15.89026,
-            "timestamp": "2022-02-01T20:34:57Z",
-            "version": 1,
-            "changeset": 116884319,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-05-29T18:08:39Z",
+            "version": 2,
+            "changeset": 121672547,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Urządzenie znajduje się w budynku Przychodni",
                 "emergency": "defibrillator",
-                "opening_hours": "Mo-Fr 7:30-18:00",
+                "opening_hours": "Mo-Fr 07:30-18:00",
                 "operator": "Przychodnia Rejonowa SP ZOZ",
                 "phone": "+48 75 7135 233"
             }
@@ -31267,25 +31249,6 @@
                 "opening_hours": "Mo-Fr 7:30-15:30",
                 "operator": "Starostwo Powiatowe w Polkowicach",
                 "phone": "+48 76 7461500"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9472462424,
-            "lat": 51.01747,
-            "lon": 15.89026,
-            "timestamp": "2022-02-03T19:57:44Z",
-            "version": 1,
-            "changeset": 116977804,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Urządzenie znajduje się w budynku Przychodni",
-                "emergency": "defibrillator",
-                "opening_hours": "Mo-Fr 07:30-18:00",
-                "operator": "Przychodnia Rejonowa SP ZOZ",
-                "phone": "+48 75 7135 233"
             }
         },
         {
