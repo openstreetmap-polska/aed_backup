@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-29T09:31:54Z",
-        "timestamp_areas_base": "2022-05-29T08:40:13Z",
+        "timestamp_osm_base": "2022-05-29T10:31:41Z",
+        "timestamp_areas_base": "2022-05-29T09:40:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63586,6 +63586,23 @@
                 "outdoor": "yes",
                 "source": "https://www.facebook.com/ospksrgcisowa/posts/3192201087683216",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9779010917,
+            "lat": 50.7248981,
+            "lon": 16.640584,
+            "timestamp": "2022-05-29T10:26:30Z",
+            "version": 1,
+            "changeset": 121649379,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na dworcu kolejowym Dzierżoniów Śląski (Sowiogórskie Centrum Komunikacyjne)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
