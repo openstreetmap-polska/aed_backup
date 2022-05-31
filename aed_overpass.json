@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-31T20:31:06Z",
-        "timestamp_areas_base": "2022-05-31T20:10:44Z",
+        "timestamp_osm_base": "2022-05-31T21:31:59Z",
+        "timestamp_areas_base": "2022-05-31T21:11:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63713,6 +63713,41 @@
                 "defibrillator:location": "Ściana na prawo od głównego wejścia - początek korytarza",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9786829845,
+            "lat": 54.6011851,
+            "lon": 18.2448514,
+            "timestamp": "2022-05-31T21:05:50Z",
+            "version": 1,
+            "changeset": 121785075,
+            "user": "Marek_Bolszewo",
+            "uid": 13419410,
+            "tags": {
+                "defibrillator:location": "Przy wejściu do Sądu Rejonowego w Wejherowie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Sąd Rejonowy w Wejherowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9786829846,
+            "lat": 54.6013868,
+            "lon": 18.2396096,
+            "timestamp": "2022-05-31T21:05:50Z",
+            "version": 1,
+            "changeset": 121785075,
+            "user": "Marek_Bolszewo",
+            "uid": 13419410,
+            "tags": {
+                "defibrillator:location": "Defibrylator w samochodzie Straży Miejskiej w Wejherowie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Straż Miejska w Wejherowie"
             }
         },
         {
