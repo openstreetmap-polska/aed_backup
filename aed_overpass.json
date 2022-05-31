@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.57.2 48842a1b",
     "osm3s": {
-        "timestamp_osm_base": "2022-05-31T22:31:46Z",
-        "timestamp_areas_base": "2022-05-31T22:11:27Z",
+        "timestamp_osm_base": "2022-05-31T23:31:35Z",
+        "timestamp_areas_base": "2022-05-31T23:12:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63748,6 +63748,23 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Straż Miejska w Wejherowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9786987317,
+            "lat": 52.3039803,
+            "lon": 17.5371134,
+            "timestamp": "2022-05-31T22:43:52Z",
+            "version": 1,
+            "changeset": 121787356,
+            "user": "Aim311",
+            "uid": 4493657,
+            "tags": {
+                "access": "employees",
+                "defibrillator:location": "Wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
