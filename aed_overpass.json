@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-03T17:31:54Z",
-        "timestamp_areas_base": "2022-06-03T16:41:13Z",
+        "timestamp_osm_base": "2022-06-03T18:31:55Z",
+        "timestamp_areas_base": "2022-06-03T17:42:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3858,7 +3858,7 @@
             "timestamp": "2021-06-14T20:47:58Z",
             "version": 1,
             "changeset": 106357521,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "access": "no",
@@ -3892,7 +3892,7 @@
             "timestamp": "2021-06-20T20:03:29Z",
             "version": 1,
             "changeset": 106679276,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "access": "permissive",
@@ -4211,7 +4211,7 @@
             "timestamp": "2021-07-26T11:41:47Z",
             "version": 1,
             "changeset": 108621396,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "emergency": "defibrillator",
@@ -4228,7 +4228,7 @@
             "timestamp": "2021-07-26T11:41:47Z",
             "version": 1,
             "changeset": 108621396,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "W Zespołach Ratownictwa Medycznego",
@@ -4245,7 +4245,7 @@
             "timestamp": "2021-07-26T11:41:47Z",
             "version": 1,
             "changeset": 108621396,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "Samochody ratowniczo-gaśnicze",
@@ -56243,7 +56243,7 @@
             "timestamp": "2022-04-03T19:51:28Z",
             "version": 1,
             "changeset": 119276972,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "Szpitalny Oddział Ratunkowy w Wejherowie",
@@ -56261,7 +56261,7 @@
             "timestamp": "2022-04-03T19:51:28Z",
             "version": 1,
             "changeset": 119276972,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "Przychodnia Sim-Med",
@@ -63723,7 +63723,7 @@
             "timestamp": "2022-05-31T21:05:50Z",
             "version": 1,
             "changeset": 121785075,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "Przy wejściu do Sądu Rejonowego w Wejherowie",
@@ -63740,7 +63740,7 @@
             "timestamp": "2022-05-31T21:05:50Z",
             "version": 1,
             "changeset": 121785075,
-            "user": "Marek_Bolszewo",
+            "user": "Maciej_3004",
             "uid": 13419410,
             "tags": {
                 "defibrillator:location": "Defibrylator w samochodzie Straży Miejskiej w Wejherowie",
