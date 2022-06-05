@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-05T16:31:40Z",
-        "timestamp_areas_base": "2022-06-05T16:00:08Z",
+        "timestamp_osm_base": "2022-06-05T17:31:27Z",
+        "timestamp_areas_base": "2022-06-05T17:01:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6324,13 +6324,13 @@
         {
             "type": "node",
             "id": 9328120925,
-            "lat": 53.1542415,
-            "lon": 16.716196,
-            "timestamp": "2021-12-10T20:15:43Z",
-            "version": 1,
-            "changeset": 114797814,
-            "user": "lama99",
-            "uid": 9514620,
+            "lat": 53.1542936,
+            "lon": 16.7161091,
+            "timestamp": "2022-06-05T17:12:41Z",
+            "version": 2,
+            "changeset": 121987106,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Korytarz",
@@ -13614,13 +13614,14 @@
             "id": 9423777991,
             "lat": 52.8859802,
             "lon": 16.0141769,
-            "timestamp": "2022-01-16T22:07:13Z",
-            "version": 1,
-            "changeset": 116230484,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-06-05T17:12:41Z",
+            "version": 2,
+            "changeset": 121987106,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
             "tags": {
-                "access": "customers",
+                "access": "permit",
+                "defibrillator:location": "Budynek Nadleśnictwa Krzyż, parter, ściana głównego korytarza przy sekretariacie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Nadleśnictwo Krzyż"
@@ -63765,6 +63766,82 @@
                 "defibrillator:location": "Wewnątrz budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9796936617,
+            "lat": 53.0412209,
+            "lon": 16.4747176,
+            "timestamp": "2022-06-05T17:05:16Z",
+            "version": 2,
+            "changeset": 121986741,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Hydro Extrusion Poland Sp. z o. o.\nPunkt Ochrony (od ul. Grunwaldzkiej/Aluminiowej)",
+                "defibrillator:location:en": "Hydro Extrusion Poland Sp. z o. o.\nSecurity Point (access from Grunwaldzka/Aluminiowa Street)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hydro Extrusion Poland Sp. z o. o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9796940417,
+            "lat": 53.0385182,
+            "lon": 16.4718678,
+            "timestamp": "2022-06-05T17:06:19Z",
+            "version": 2,
+            "changeset": 121986782,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Hydro Extrusion Poland Sp. z o. o.\nPunkt Ochrony (od ul. Kopernika)",
+                "defibrillator:location:en": "Hydro Extrusion Poland Sp. z o. o.\nSecurity Point (access from  Grunwaldzka/Aluminiowa Street)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hydro Extrusion Poland Sp. z o. o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9796942217,
+            "lat": 53.039685,
+            "lon": 16.4709738,
+            "timestamp": "2022-06-05T17:06:19Z",
+            "version": 2,
+            "changeset": 121986782,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hydro Extrusion Poland Sp. z o. o.\nBudynek Administracji, hol przy recepcji",
+                "defibrillator:location:en": "Hydro Extrusion Poland Sp. z o. o.\nAdministration building, hall near the Reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hydro Extrusion Poland Sp. z o. o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9796962417,
+            "lat": 53.1538252,
+            "lon": 16.7168011,
+            "timestamp": "2022-06-05T17:12:41Z",
+            "version": 2,
+            "changeset": 121987106,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "NZPOZ \"MEDICO\"\nRejestracja przychodni",
+                "defibrillator:location:en": "NZPOZ \"MEDICO\"\nRegistration point",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "NZPOZ \"MEDICO\""
             }
         },
         {
