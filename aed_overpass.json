@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-06T20:32:11Z",
-        "timestamp_areas_base": "2022-06-06T20:14:06Z",
+        "timestamp_osm_base": "2022-06-06T21:31:58Z",
+        "timestamp_areas_base": "2022-06-06T21:14:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32949,13 +32949,13 @@
         {
             "type": "node",
             "id": 9487630115,
-            "lat": 53.8427951,
-            "lon": 22.9867225,
-            "timestamp": "2022-02-07T19:04:53Z",
-            "version": 1,
-            "changeset": 117132042,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 53.842766,
+            "lon": 22.9866927,
+            "timestamp": "2022-06-06T21:10:18Z",
+            "version": 2,
+            "changeset": 122043738,
+            "user": "Raczek",
+            "uid": 534052,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu do Urzędu Stanu Cywilnego",
