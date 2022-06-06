@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-06T05:32:02Z",
-        "timestamp_areas_base": "2022-06-06T05:04:39Z",
+        "timestamp_osm_base": "2022-06-06T06:35:42Z",
+        "timestamp_areas_base": "2022-06-06T06:05:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12,15 +12,17 @@
             "id": 477958354,
             "lat": 49.5878956,
             "lon": 19.5168185,
-            "timestamp": "2018-01-18T08:31:45Z",
-            "version": 10,
-            "changeset": 55542855,
-            "user": "A_Ku",
-            "uid": 3423733,
+            "timestamp": "2022-06-06T05:35:41Z",
+            "version": 11,
+            "changeset": 122004424,
+            "user": "kwachu",
+            "uid": 605546,
             "tags": {
+                "defibrillator:location": "Na ścianie w jadalni",
                 "ele": "1180",
                 "email": "markowe.szczawiny@op.pl",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "name": "Schronisko PTTK Markowe Szczawiny",
                 "operator": "PTTK",
                 "phone": "+48 33 877 51 05",
