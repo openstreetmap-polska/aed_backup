@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-07T12:31:22Z",
+        "timestamp_osm_base": "2022-06-07T13:31:13Z",
         "timestamp_areas_base": "2022-06-07T12:20:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -56925,13 +56925,13 @@
         {
             "type": "node",
             "id": 9645390636,
-            "lat": 54.3564031,
-            "lon": 18.6430552,
-            "timestamp": "2022-04-06T11:10:55Z",
-            "version": 1,
-            "changeset": 119381867,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 54.3564124,
+            "lon": 18.6430534,
+            "timestamp": "2022-06-07T13:25:01Z",
+            "version": 2,
+            "changeset": 122072929,
+            "user": "kukułka",
+            "uid": 2757838,
             "tags": {
                 "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
@@ -63861,6 +63861,49 @@
                 "defibrillator:location": "W gabinecie zabiegowym przychodni Medyk",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9801599391,
+            "lat": 53.2085579,
+            "lon": 23.3386382,
+            "timestamp": "2022-06-07T13:05:41Z",
+            "version": 1,
+            "changeset": 122072135,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie tężni solankowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Supraśl",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/SupraslNaszaGmina/posts/1975627242640056"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9801626684,
+            "lat": 52.0104656,
+            "lon": 15.9823126,
+            "timestamp": "2022-06-07T12:57:23Z",
+            "version": 1,
+            "changeset": 122071813,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na zewnętrznej ścianie portierni Ośr. Wyp. Wilga w Rudnie, kilkaset metrów od Wilcza, przy głównej drodze",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Ośrodek Wypoczynkowy Wilga",
+                "source": "https://www.facebook.com/wilczesolectwo/posts/2347249302081873"
             }
         },
         {
