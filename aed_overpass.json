@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-08T09:31:41Z",
+        "timestamp_osm_base": "2022-06-08T10:31:25Z",
         "timestamp_areas_base": "2022-06-08T09:30:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63904,6 +63904,74 @@
                 "opening_hours": "24/7",
                 "operator": "Ośrodek Wypoczynkowy Wilga",
                 "source": "https://www.facebook.com/wilczesolectwo/posts/2347249302081873"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9803557318,
+            "lat": 53.7111016,
+            "lon": 20.4296341,
+            "timestamp": "2022-06-08T10:02:59Z",
+            "version": 1,
+            "changeset": 122109938,
+            "user": "Jarosław Świdyński",
+            "uid": 2412634,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "przy recepcji Tetra Pak",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "89 679 61 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9803558919,
+            "lat": 53.6927393,
+            "lon": 20.4132356,
+            "timestamp": "2022-06-08T10:04:35Z",
+            "version": 1,
+            "changeset": 122109938,
+            "user": "Jarosław Świdyński",
+            "uid": 2412634,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9803562217,
+            "lat": 53.6292191,
+            "lon": 20.480382,
+            "timestamp": "2022-06-08T10:01:10Z",
+            "version": 1,
+            "changeset": 122109938,
+            "user": "Jarosław Świdyński",
+            "uid": 2412634,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "w recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 89 512 11 80"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9803576117,
+            "lat": 53.6130925,
+            "lon": 20.4158101,
+            "timestamp": "2022-06-08T10:08:34Z",
+            "version": 1,
+            "changeset": 122109938,
+            "user": "Jarosław Świdyński",
+            "uid": 2412634,
+            "tags": {
+                "defibrillator:location": "recepcja",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
