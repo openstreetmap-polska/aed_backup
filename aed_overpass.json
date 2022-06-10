@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-10T08:32:00Z",
-        "timestamp_areas_base": "2022-06-10T07:08:45Z",
+        "timestamp_osm_base": "2022-06-10T09:31:46Z",
+        "timestamp_areas_base": "2022-06-10T09:10:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63972,6 +63972,25 @@
                 "defibrillator:location": "recepcja",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9808186517,
+            "lat": 49.6857437,
+            "lon": 21.18974,
+            "timestamp": "2022-06-10T09:07:17Z",
+            "version": 1,
+            "changeset": 122200204,
+            "user": "Gorlice",
+            "uid": 16248442,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu przy schodach na scianie po prawej stronie przy głównym wejściu do siedziby firmy.",
+                "defibrillator:location:en": "On the wall near stairs (right side) in main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "18 3538420"
             }
         },
         {
