@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-11T18:31:52Z",
-        "timestamp_areas_base": "2022-06-11T18:25:41Z",
+        "timestamp_osm_base": "2022-06-11T19:31:40Z",
+        "timestamp_areas_base": "2022-06-11T19:26:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -21930,15 +21930,16 @@
             "id": 9445518517,
             "lat": 52.2047656,
             "lon": 21.0090265,
-            "timestamp": "2022-01-24T18:56:19Z",
-            "version": 1,
-            "changeset": 116554930,
-            "user": "Koprivo",
-            "uid": 14931582,
+            "timestamp": "2022-06-11T19:10:43Z",
+            "version": 2,
+            "changeset": 122261461,
+            "user": "rthrb",
+            "uid": 824271,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na parterze w holu naprzeciw recepcji",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
