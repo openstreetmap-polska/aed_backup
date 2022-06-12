@@ -1,14 +1,14 @@
-# AED backup and stats (2022-06-11 19:33:10)
+# AED backup and stats (2022-06-12 10:33:08)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3494
+Total AED: 3495
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 371\
-Average daily growth since beginning of the year: 21.51
+Average daily growth since beginning of the year: 21.37
 
 ## Top creators
 | # | User | Created |
@@ -29,8 +29,8 @@ Average daily growth since beginning of the year: 21.51
 | 14 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 33 |
 | 15 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 28 |
 | 16 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
-| 17 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
-| 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 23 |
+| 17 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
+| 18 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
 | 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
 | 20 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 | 21 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
