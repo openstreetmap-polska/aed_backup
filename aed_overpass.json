@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T11:31:56Z",
-        "timestamp_areas_base": "2022-06-14T10:50:22Z",
+        "timestamp_osm_base": "2022-06-14T12:31:39Z",
+        "timestamp_areas_base": "2022-06-14T11:50:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2093,12 +2093,13 @@
             "id": 6878332105,
             "lat": 52.4027088,
             "lon": 16.9124346,
-            "timestamp": "2022-02-07T15:16:59Z",
-            "version": 2,
-            "changeset": 117124169,
-            "user": "millup",
-            "uid": 12035222,
+            "timestamp": "2022-06-14T12:11:34Z",
+            "version": 3,
+            "changeset": 122370991,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
             "tags": {
+                "defibrillator:location": "W budynku Dworca PKP na ścianie przed kasami biletowymi",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "1"
@@ -64116,6 +64117,23 @@
         },
         {
             "type": "node",
+            "id": 9817001106,
+            "lat": 50.2923659,
+            "lon": 21.4307627,
+            "timestamp": "2022-06-14T11:35:12Z",
+            "version": 1,
+            "changeset": 122369383,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817018344,
             "lat": 54.4266028,
             "lon": 18.5814544,
@@ -64129,6 +64147,59 @@
                 "defibrillator:location": "Przy wejściu C1",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817019061,
+            "lat": 53.0433619,
+            "lon": 18.8433204,
+            "timestamp": "2022-06-14T11:44:55Z",
+            "version": 1,
+            "changeset": 122369836,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy",
+                "phone": "+48 606 920 604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817019062,
+            "lat": 50.2965557,
+            "lon": 21.4378165,
+            "timestamp": "2022-06-14T11:46:01Z",
+            "version": 1,
+            "changeset": 122369887,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817019099,
+            "lat": 50.4108757,
+            "lon": 22.3033036,
+            "timestamp": "2022-06-14T11:50:32Z",
+            "version": 1,
+            "changeset": 122370094,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
@@ -64225,6 +64296,20 @@
         },
         {
             "type": "node",
+            "id": 9817048802,
+            "lat": 54.4452293,
+            "lon": 18.5551808,
+            "timestamp": "2022-06-14T11:42:04Z",
+            "version": 1,
+            "changeset": 122369690,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817050364,
             "lat": 52.9298061,
             "lon": 18.8022746,
@@ -64259,6 +64344,40 @@
         },
         {
             "type": "node",
+            "id": 9817058005,
+            "lat": 50.2859325,
+            "lon": 21.4207156,
+            "timestamp": "2022-06-14T11:45:27Z",
+            "version": 1,
+            "changeset": 122369865,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817059177,
+            "lat": 50.2847621,
+            "lon": 21.4206692,
+            "timestamp": "2022-06-14T11:39:58Z",
+            "version": 1,
+            "changeset": 122369601,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "177874241"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817060317,
             "lat": 54.5014761,
             "lon": 18.4533771,
@@ -64286,6 +64405,779 @@
             "uid": 11196347,
             "tags": {
                 "defibrillator:location": "Posterunek Policji",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817066160,
+            "lat": 53.1504643,
+            "lon": 18.9004992,
+            "timestamp": "2022-06-14T11:33:17Z",
+            "version": 1,
+            "changeset": 122369293,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat Szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa im Marii Konopnickiej w Kowalewie Pomorskim",
+                "phone": "+48 56 684 01 85"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817066811,
+            "lat": 51.6940733,
+            "lon": 15.918125,
+            "timestamp": "2022-06-14T11:34:32Z",
+            "version": 1,
+            "changeset": 122369353,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817070522,
+            "lat": 53.9038387,
+            "lon": 17.063348,
+            "timestamp": "2022-06-14T11:32:23Z",
+            "version": 1,
+            "changeset": 122369262,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817070523,
+            "lat": 53.9038383,
+            "lon": 17.0632498,
+            "timestamp": "2022-06-14T11:32:23Z",
+            "version": 1,
+            "changeset": 122369262,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817071049,
+            "lat": 50.2949578,
+            "lon": 21.4205309,
+            "timestamp": "2022-06-14T11:40:35Z",
+            "version": 1,
+            "changeset": 122369627,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817076573,
+            "lat": 50.4884239,
+            "lon": 22.2275763,
+            "timestamp": "2022-06-14T11:36:47Z",
+            "version": 1,
+            "changeset": 122369451,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817077140,
+            "lat": 54.604896,
+            "lon": 18.8025536,
+            "timestamp": "2022-06-14T11:37:35Z",
+            "version": 1,
+            "changeset": 122369483,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Elewacja budynku Urzędu Miasta Helu - ściana od ulicy Żeglarskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Helu",
+                "phone": "+48 79 106 06 04"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817077144,
+            "lat": 52.9840963,
+            "lon": 18.8662817,
+            "timestamp": "2022-06-14T11:39:22Z",
+            "version": 1,
+            "changeset": 122369573,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy",
+                "phone": "+48 606 920 604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817079912,
+            "lat": 53.1570678,
+            "lon": 18.897271,
+            "timestamp": "2022-06-14T11:41:10Z",
+            "version": 1,
+            "changeset": 122369645,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Kowalewo Pomorskie",
+                "phone": "+48 663 071 873"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817081279,
+            "lat": 54.1956469,
+            "lon": 18.3246426,
+            "timestamp": "2022-06-14T11:43:22Z",
+            "version": 1,
+            "changeset": 122369749,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817088170,
+            "lat": 50.2904317,
+            "lon": 21.4393103,
+            "timestamp": "2022-06-14T11:49:43Z",
+            "version": 1,
+            "changeset": 122370053,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "177874241"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817088208,
+            "lat": 54.1966168,
+            "lon": 18.3265598,
+            "timestamp": "2022-06-14T11:55:15Z",
+            "version": 1,
+            "changeset": 122370313,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnątrz budynku przy pokoju dyrektora",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817095617,
+            "lat": 53.835383,
+            "lon": 20.3466545,
+            "timestamp": "2022-06-14T11:42:44Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Mątkach",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817097217,
+            "lat": 53.8245127,
+            "lon": 20.3049184,
+            "timestamp": "2022-06-14T11:43:15Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Jonkowie",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817097218,
+            "lat": 49.2946512,
+            "lon": 19.9642223,
+            "timestamp": "2022-06-14T11:50:49Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Budynek Komendy Powiatowej Policji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817101198,
+            "lat": 50.2928249,
+            "lon": 21.4427903,
+            "timestamp": "2022-06-14T11:54:29Z",
+            "version": 1,
+            "changeset": 122370282,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817101199,
+            "lat": 54.442631,
+            "lon": 18.5559374,
+            "timestamp": "2022-06-14T11:54:55Z",
+            "version": 1,
+            "changeset": 122370297,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817104606,
+            "lat": 50.5937826,
+            "lon": 16.8252622,
+            "timestamp": "2022-06-14T11:53:53Z",
+            "version": 1,
+            "changeset": 122370253,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817104766,
+            "lat": 51.6399921,
+            "lon": 15.997479,
+            "timestamp": "2022-06-14T11:49:15Z",
+            "version": 1,
+            "changeset": 122370034,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817105733,
+            "lat": 52.7431306,
+            "lon": 18.9182973,
+            "timestamp": "2022-06-14T11:56:36Z",
+            "version": 1,
+            "changeset": 122370358,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817106141,
+            "lat": 53.1709102,
+            "lon": 18.9493975,
+            "timestamp": "2022-06-14T11:48:35Z",
+            "version": 1,
+            "changeset": 122370002,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Pluskowęsy",
+                "phone": "661502812"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817107417,
+            "lat": 51.8123994,
+            "lon": 21.7942209,
+            "timestamp": "2022-06-14T11:47:51Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Budynek OSP",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817107418,
+            "lat": 51.8123994,
+            "lon": 21.7942209,
+            "timestamp": "2022-06-14T11:50:11Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Budynek OSP",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817107659,
+            "lat": 52.9702939,
+            "lon": 18.8830735,
+            "timestamp": "2022-06-14T11:52:39Z",
+            "version": 1,
+            "changeset": 122370196,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się przy głównych drzwiach wejsciowych do urzędu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy",
+                "phone": "+48 606 920 604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817117917,
+            "lat": 51.4587824,
+            "lon": 22.6133127,
+            "timestamp": "2022-06-14T11:52:21Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817129917,
+            "lat": 52.2206966,
+            "lon": 19.4361702,
+            "timestamp": "2022-06-14T11:58:53Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817129918,
+            "lat": 49.6591773,
+            "lon": 21.8371132,
+            "timestamp": "2022-06-14T12:03:58Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP Pustyny, defibrylator dostępny na samochodzie",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817134517,
+            "lat": 50.3001625,
+            "lon": 19.2436185,
+            "timestamp": "2022-06-14T12:02:21Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817135017,
+            "lat": 52.3984122,
+            "lon": 20.9310397,
+            "timestamp": "2022-06-14T12:02:53Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817140417,
+            "lat": 49.6574353,
+            "lon": 21.8355962,
+            "timestamp": "2022-06-14T12:05:24Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Dostępny na samochodzie OSP w Pustynach",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817145718,
+            "lat": 50.018523,
+            "lon": 21.9644242,
+            "timestamp": "2022-06-14T12:13:32Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku urzędu celnego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817146118,
+            "lat": 51.9206515,
+            "lon": 15.5002222,
+            "timestamp": "2022-06-14T12:14:45Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Przy kasie ogrodu botanicznego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817146119,
+            "lat": 54.0544483,
+            "lon": 18.6171352,
+            "timestamp": "2022-06-14T12:16:00Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817146120,
+            "lat": 50.2999891,
+            "lon": 19.2446418,
+            "timestamp": "2022-06-14T12:17:05Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817146319,
+            "lat": 50.479616,
+            "lon": 23.0560478,
+            "timestamp": "2022-06-14T12:17:41Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu pojazdu ratowniczego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817169717,
+            "lat": 52.4488602,
+            "lon": 16.7071405,
+            "timestamp": "2022-06-14T12:16:21Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817169718,
+            "lat": 50.7759551,
+            "lon": 19.6739446,
+            "timestamp": "2022-06-14T12:19:37Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817169719,
+            "lat": 52.3873265,
+            "lon": 18.5012057,
+            "timestamp": "2022-06-14T12:21:28Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Sompolnie",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817169720,
+            "lat": 50.72238,
+            "lon": 23.08415,
+            "timestamp": "2022-06-14T12:23:00Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Wielączy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817174317,
+            "lat": 50.5073451,
+            "lon": 16.7407032,
+            "timestamp": "2022-06-14T12:18:30Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu pojazdu ratowniczego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817174318,
+            "lat": 53.7507155,
+            "lon": 20.2774776,
+            "timestamp": "2022-06-14T12:25:23Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Nagladach",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817175117,
+            "lat": 49.7866498,
+            "lon": 19.1953165,
+            "timestamp": "2022-06-14T12:18:58Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Międzybrodziu Bialskim",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817184817,
+            "lat": 51.3812566,
+            "lon": 19.3769396,
+            "timestamp": "2022-06-14T12:23:35Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817189017,
+            "lat": 50.9615532,
+            "lon": 19.4718331,
+            "timestamp": "2022-06-14T12:24:56Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Gidle",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817192717,
+            "lat": 52.1240083,
+            "lon": 17.4802126,
+            "timestamp": "2022-06-14T12:26:15Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP Orzechowo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817198517,
+            "lat": 50.1416595,
+            "lon": 18.6084625,
+            "timestamp": "2022-06-14T12:28:35Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Rybniku-Kamieniu",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817199119,
+            "lat": 51.7453536,
+            "lon": 15.5944749,
+            "timestamp": "2022-06-14T12:29:23Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817200318,
+            "lat": 51.8489239,
+            "lon": 15.7096957,
+            "timestamp": "2022-06-14T12:30:34Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "OSP w Otyniu",
                 "emergency": "defibrillator"
             }
         },
