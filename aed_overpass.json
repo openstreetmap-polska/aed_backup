@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T14:31:17Z",
-        "timestamp_areas_base": "2022-06-14T11:50:16Z",
+        "timestamp_osm_base": "2022-06-14T15:35:09Z",
+        "timestamp_areas_base": "2022-06-14T14:53:31Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -65270,6 +65270,61 @@
         },
         {
             "type": "node",
+            "id": 9817341505,
+            "lat": 53.9708596,
+            "lon": 18.5555343,
+            "timestamp": "2022-06-14T14:41:12Z",
+            "version": 1,
+            "changeset": 122375833,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Hotelu I Restauracji Strzelnica",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817341508,
+            "lat": 53.6050969,
+            "lon": 18.2640442,
+            "timestamp": "2022-06-14T14:43:05Z",
+            "version": 1,
+            "changeset": 122375909,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wdeckie Wodne Ochotnicze Pogotowie Ratunkowe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817341516,
+            "lat": 53.9039061,
+            "lon": 18.2227577,
+            "timestamp": "2022-06-14T14:47:45Z",
+            "version": 1,
+            "changeset": 122376089,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Gminnego Ośrodka Kultury",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817342561,
             "lat": 53.9577284,
             "lon": 18.5421958,
@@ -65367,6 +65422,45 @@
         },
         {
             "type": "node",
+            "id": 9817355473,
+            "lat": 50.5698373,
+            "lon": 17.1543311,
+            "timestamp": "2022-06-14T14:39:24Z",
+            "version": 1,
+            "changeset": 122375755,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Kamiennik",
+                "phone": "+48 796147785"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817355474,
+            "lat": 53.9745604,
+            "lon": 17.9288752,
+            "timestamp": "2022-06-14T14:40:00Z",
+            "version": 1,
+            "changeset": 122375773,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wdzydze Tucholskie"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817358892,
             "lat": 54.0386006,
             "lon": 22.5073031,
@@ -65425,6 +65519,44 @@
         },
         {
             "type": "node",
+            "id": 9817367691,
+            "lat": 50.7490058,
+            "lon": 20.6197073,
+            "timestamp": "2022-06-14T14:32:40Z",
+            "version": 1,
+            "changeset": 122375495,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Prawa Strona Od Głównego Wejścia Do Budynku. Bezpośrednio Przy Wejściu Do Skrzydła Urzędu Miasta I Gminy Morawica.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Miasta I Gminy Morawica",
+                "phone": "+48 413114691"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817377252,
+            "lat": 53.5990309,
+            "lon": 18.3475603,
+            "timestamp": "2022-06-14T14:31:34Z",
+            "version": 1,
+            "changeset": 122375434,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Osie"
+            }
+        },
+        {
+            "type": "node",
             "id": 9817384978,
             "lat": 54.1144228,
             "lon": 22.5149915,
@@ -65460,6 +65592,44 @@
                 "indoor": "yes",
                 "operator": "OSP Lenarty",
                 "phone": "+48 875201201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817389111,
+            "lat": 53.9652114,
+            "lon": 18.5462258,
+            "timestamp": "2022-06-14T14:36:03Z",
+            "version": 1,
+            "changeset": 122375625,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Brama Wjazdowa Ii Liceum Ogólnokształcącego",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817394381,
+            "lat": 53.8250564,
+            "lon": 22.3486325,
+            "timestamp": "2022-06-14T14:50:08Z",
+            "version": 1,
+            "changeset": 122376191,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód straży miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Straż Miejska W Ełku",
+                "phone": "+48 877326287"
             }
         },
         {
@@ -65517,6 +65687,314 @@
                 "indoor": "yes",
                 "operator": "Nadleśnictwo Strzebielino",
                 "phone": "+48 586782078"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817401282,
+            "lat": 51.838597,
+            "lon": 15.62421,
+            "timestamp": "2022-06-14T14:37:58Z",
+            "version": 1,
+            "changeset": 122375703,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Ścianie Budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Otyń",
+                "phone": "+48 683559400"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817401289,
+            "lat": 53.941643,
+            "lon": 22.4372842,
+            "timestamp": "2022-06-14T14:39:01Z",
+            "version": 1,
+            "changeset": 122375743,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Gąski",
+                "phone": "+48 875201201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817402499,
+            "lat": 54.2202517,
+            "lon": 17.4280288,
+            "timestamp": "2022-06-14T14:43:46Z",
+            "version": 1,
+            "changeset": 122375929,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Niedarzyno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817404028,
+            "lat": 54.2002225,
+            "lon": 17.3665862,
+            "timestamp": "2022-06-14T14:35:44Z",
+            "version": 1,
+            "changeset": 122375612,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Borzytuchom"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817405956,
+            "lat": 53.4107413,
+            "lon": 18.8746794,
+            "timestamp": "2022-06-14T14:36:51Z",
+            "version": 1,
+            "changeset": 122375659,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817413513,
+            "lat": 54.7210105,
+            "lon": 18.4147381,
+            "timestamp": "2022-06-14T14:48:32Z",
+            "version": 1,
+            "changeset": 122376124,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Znajduje Się W Urzędzie Miasta Puck W Pomieszczeniu Biura Obsługi Klienta. Parter Pokój Nr 2",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Puck",
+                "phone": "+48 586730527"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817415683,
+            "lat": 54.0794605,
+            "lon": 22.5833757,
+            "timestamp": "2022-06-14T14:55:52Z",
+            "version": 1,
+            "changeset": 122376381,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Szczecinki",
+                "phone": "+48 875201201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817416853,
+            "lat": 53.9530106,
+            "lon": 18.5710287,
+            "timestamp": "2022-06-14T14:50:52Z",
+            "version": 1,
+            "changeset": 122376214,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Budynku Technikum",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817416854,
+            "lat": 53.7469304,
+            "lon": 18.6870179,
+            "timestamp": "2022-06-14T14:54:38Z",
+            "version": 1,
+            "changeset": 122376331,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817417730,
+            "lat": 52.5815736,
+            "lon": 14.6343264,
+            "timestamp": "2022-06-14T14:48:56Z",
+            "version": 1,
+            "changeset": 122376137,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Budynku Um W Hallu Na Parterze",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Kostrzyn Nad Odrą",
+                "phone": "+48 607770210"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817417731,
+            "lat": 52.9096945,
+            "lon": 17.8844007,
+            "timestamp": "2022-06-14T14:50:24Z",
+            "version": 1,
+            "changeset": 122376200,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Lubostroń",
+                "phone": "+48 531060127"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817418215,
+            "lat": 54.1253693,
+            "lon": 22.5774268,
+            "timestamp": "2022-06-14T14:48:08Z",
+            "version": 1,
+            "changeset": 122376108,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Plewki",
+                "phone": "+48 875201201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817418983,
+            "lat": 53.960187,
+            "lon": 18.5301885,
+            "timestamp": "2022-06-14T14:49:30Z",
+            "version": 1,
+            "changeset": 122376164,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Sklepu Gama",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Starostwo Powiatowe W Starogardzie Gdańskim",
+                "phone": "+48 587673594"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817419360,
+            "lat": 50.8538613,
+            "lon": 21.3681408,
+            "timestamp": "2022-06-14T14:53:30Z",
+            "version": 1,
+            "changeset": 122376293,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Sadowie",
+                "phone": "+48 158692437"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817423719,
+            "lat": 54.0362856,
+            "lon": 22.5040117,
+            "timestamp": "2022-06-14T14:46:47Z",
+            "version": 1,
+            "changeset": 122376052,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed Wejściem Do Urzędu Miejskiego W Olecku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Urząd Miejski W Olecku",
+                "phone": "+48 875201201"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817437598,
+            "lat": 50.878331,
+            "lon": 22.9776555,
+            "timestamp": "2022-06-14T14:54:05Z",
+            "version": 1,
+            "changeset": 122376313,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Rudnik"
             }
         },
         {
