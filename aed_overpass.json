@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T10:32:10Z",
-        "timestamp_areas_base": "2022-06-14T09:49:52Z",
+        "timestamp_osm_base": "2022-06-14T11:31:56Z",
+        "timestamp_areas_base": "2022-06-14T10:50:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -64062,6 +64062,231 @@
                 "defibrillator:location": "Ściana przy schodach, na lewo od głównego wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817001090,
+            "lat": 50.2854986,
+            "lon": 21.4703111,
+            "timestamp": "2022-06-14T11:20:53Z",
+            "version": 1,
+            "changeset": 122368687,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817001101,
+            "lat": 50.2879904,
+            "lon": 21.4598528,
+            "timestamp": "2022-06-14T11:28:16Z",
+            "version": 1,
+            "changeset": 122369076,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+ 48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817001102,
+            "lat": 50.4402004,
+            "lon": 22.2486901,
+            "timestamp": "2022-06-14T11:29:58Z",
+            "version": 1,
+            "changeset": 122369151,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817018344,
+            "lat": 54.4266028,
+            "lon": 18.5814544,
+            "timestamp": "2022-06-14T11:23:17Z",
+            "version": 1,
+            "changeset": 122368797,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu C1",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817022161,
+            "lat": 53.0089235,
+            "lon": 18.8336627,
+            "timestamp": "2022-06-14T11:19:36Z",
+            "version": 1,
+            "changeset": 122368618,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy",
+                "phone": "+48 606920604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817027118,
+            "lat": 50.4679511,
+            "lon": 17.1783785,
+            "timestamp": "2022-06-14T11:30:15Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się w remizie OSP. Możliwy do użycia po zaalarmowaniu włącznikiem przy wejściu do remizy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817027476,
+            "lat": 50.2953331,
+            "lon": 21.4396401,
+            "timestamp": "2022-06-14T11:21:32Z",
+            "version": 1,
+            "changeset": 122368723,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
+                "phone": "+48 17 787 42 41"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817027477,
+            "lat": 53.1443577,
+            "lon": 18.8103253,
+            "timestamp": "2022-06-14T11:23:54Z",
+            "version": 1,
+            "changeset": 122368826,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wielkie Rychnowo",
+                "phone": "+48 665 732 547"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817043820,
+            "lat": 54.2467448,
+            "lon": 18.3852664,
+            "timestamp": "2022-06-14T11:24:15Z",
+            "version": 1,
+            "changeset": 122368846,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817050364,
+            "lat": 52.9298061,
+            "lon": 18.8022746,
+            "timestamp": "2022-06-14T11:27:30Z",
+            "version": 1,
+            "changeset": 122369035,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy",
+                "phone": "606920604"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817051617,
+            "lat": 54.5014774,
+            "lon": 18.4533752,
+            "timestamp": "2022-06-14T11:27:12Z",
+            "version": 1,
+            "changeset": 122369011,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817060317,
+            "lat": 54.5014761,
+            "lon": 18.4533771,
+            "timestamp": "2022-06-14T11:29:09Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator dostępny na budynku szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817065617,
+            "lat": 51.23841,
+            "lon": 19.5763,
+            "timestamp": "2022-06-14T11:31:07Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Posterunek Policji",
+                "emergency": "defibrillator"
             }
         },
         {
