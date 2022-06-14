@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T12:31:39Z",
+        "timestamp_osm_base": "2022-06-14T13:25:57Z",
         "timestamp_areas_base": "2022-06-14T11:50:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -64395,21 +64395,6 @@
         },
         {
             "type": "node",
-            "id": 9817065617,
-            "lat": 51.23841,
-            "lon": 19.5763,
-            "timestamp": "2022-06-14T11:31:07Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
-            "tags": {
-                "defibrillator:location": "Posterunek Policji",
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
             "id": 9817066160,
             "lat": 53.1504643,
             "lon": 18.9004992,
@@ -64865,20 +64850,6 @@
         },
         {
             "type": "node",
-            "id": 9817134517,
-            "lat": 50.3001625,
-            "lon": 19.2436185,
-            "timestamp": "2022-06-14T12:02:21Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
-            "tags": {
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
             "id": 9817135017,
             "lat": 52.3984122,
             "lon": 20.9310397,
@@ -65163,6 +65134,21 @@
             "uid": 11196347,
             "tags": {
                 "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9817200019,
+            "lat": 53.9757902,
+            "lon": 18.5204857,
+            "timestamp": "2022-06-14T12:41:27Z",
+            "version": 1,
+            "changeset": 122369116,
+            "user": "Karolina | Yanosik",
+            "uid": 11196347,
+            "tags": {
+                "defibrillator:location": "Hotel REN",
                 "emergency": "defibrillator"
             }
         },
