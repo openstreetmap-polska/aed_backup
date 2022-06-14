@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T09:31:39Z",
-        "timestamp_areas_base": "2022-06-14T08:49:52Z",
+        "timestamp_osm_base": "2022-06-14T10:32:10Z",
+        "timestamp_areas_base": "2022-06-14T09:49:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10652,11 +10652,11 @@
             "id": 9407301618,
             "lat": 51.3037806,
             "lon": 16.9125767,
-            "timestamp": "2022-03-27T20:38:57Z",
-            "version": 5,
-            "changeset": 118995787,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-06-14T10:28:06Z",
+            "version": 6,
+            "changeset": 122366299,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu do OSiR",
@@ -10665,7 +10665,7 @@
                 "location": "outdoor",
                 "opening_hours": "24/7",
                 "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
-                "phone": "71 310 35 19",
+                "phone": "+48 71 310 12 70",
                 "source": "https://www.facebook.com/permalink.php?story_fbid=1868211443367085&id=229875397200706"
             }
         },
