@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.2 2b5354b1",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-14T07:31:23Z",
-        "timestamp_areas_base": "2022-06-14T05:48:08Z",
+        "timestamp_osm_base": "2022-06-14T08:31:30Z",
+        "timestamp_areas_base": "2022-06-14T07:48:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -64045,6 +64045,23 @@
             "tags": {
                 "defibrillator:location": "Przy wejściu na plac rynku",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9816609217,
+            "lat": 54.4173109,
+            "lon": 18.5767164,
+            "timestamp": "2022-06-14T08:13:32Z",
+            "version": 1,
+            "changeset": 122359589,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ściana przy schodach, na lewo od głównego wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
