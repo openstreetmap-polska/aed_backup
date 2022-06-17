@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-17T08:32:16Z",
+        "timestamp_osm_base": "2022-06-17T09:31:11Z",
         "timestamp_areas_base": "2022-06-17T08:27:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -64334,15 +64334,18 @@
         {
             "type": "node",
             "id": 9817051617,
-            "lat": 54.5014774,
-            "lon": 18.4533752,
-            "timestamp": "2022-06-14T11:27:12Z",
-            "version": 1,
-            "changeset": 122369011,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "lat": 54.5014761,
+            "lon": 18.4533771,
+            "timestamp": "2022-06-17T09:19:41Z",
+            "version": 2,
+            "changeset": 122499262,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Defibrylator dostępny na budynku szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
@@ -64377,23 +64380,6 @@
                 "indoor": "yes",
                 "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
                 "phone": "177874241"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9817060317,
-            "lat": 54.5014761,
-            "lon": 18.4533771,
-            "timestamp": "2022-06-14T11:29:09Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Defibrylator dostępny na budynku szkoły.",
-                "emergency": "defibrillator",
-                "indoor": "no"
             }
         },
         {
