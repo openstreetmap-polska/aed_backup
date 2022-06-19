@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-19T13:31:40Z",
-        "timestamp_areas_base": "2022-06-19T11:47:25Z",
+        "timestamp_osm_base": "2022-06-19T14:31:33Z",
+        "timestamp_areas_base": "2022-06-19T13:49:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -7585,9 +7585,9 @@
             "id": 9367990425,
             "lat": 50.4857822,
             "lon": 19.3386092,
-            "timestamp": "2022-06-19T12:34:10Z",
-            "version": 2,
-            "changeset": 122577918,
+            "timestamp": "2022-06-19T13:39:23Z",
+            "version": 3,
+            "changeset": 122580143,
             "user": "Ronczka",
             "uid": 9548812,
             "tags": {
@@ -62225,30 +62225,13 @@
         {
             "type": "node",
             "id": 9705977017,
-            "lat": 54.4534894,
-            "lon": 17.0289223,
-            "timestamp": "2022-04-30T21:01:33Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "ul. Zielona 8 NZOZ \"Salus\"\nDostępne w izbie przyjęć pon-piątek/24h  sobota do godziny 10:00",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9705977117,
-            "lat": 54.4534894,
-            "lon": 17.0289223,
-            "timestamp": "2022-04-30T21:01:37Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "lat": 54.4534613,
+            "lon": 17.0289733,
+            "timestamp": "2022-06-19T13:36:23Z",
+            "version": 2,
+            "changeset": 122580070,
+            "user": "Aim311",
+            "uid": 4493657,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "ul. Zielona 8 NZOZ \"Salus\"\nDostępne w izbie przyjęć pon-piątek/24h  sobota do godziny 10:00",
