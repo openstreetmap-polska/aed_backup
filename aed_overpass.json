@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-19T07:31:54Z",
-        "timestamp_areas_base": "2022-06-19T06:46:25Z",
+        "timestamp_osm_base": "2022-06-19T08:31:40Z",
+        "timestamp_areas_base": "2022-06-19T07:46:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3649,18 +3649,18 @@
             "id": 8647039351,
             "lat": 50.0004388,
             "lon": 18.4587816,
-            "timestamp": "2022-02-04T17:26:09Z",
-            "version": 2,
-            "changeset": 117015616,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-06-19T08:14:32Z",
+            "version": 3,
+            "changeset": 122570363,
+            "user": "Josef73",
+            "uid": 213831,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "ściana przy drzwiach wejściowych wewnątrz budynku.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "name": "Defibrylator AED",
-                "opening_hours": "Mo-We 07:00-16.00; Th 07:00-18.00; Fr 07:00-14.00",
+                "opening_hours": "Mo-We 07:00-16:00; Th 07:00-18:00; Fr 07:00-14:00",
                 "phone": "+48 32 459 06 28"
             }
         },
