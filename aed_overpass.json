@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-20T19:31:54Z",
-        "timestamp_areas_base": "2022-06-20T19:05:25Z",
+        "timestamp_osm_base": "2022-06-20T20:31:34Z",
+        "timestamp_areas_base": "2022-06-20T20:06:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2019,21 +2019,19 @@
         {
             "type": "node",
             "id": 6795886812,
-            "lat": 51.8412009,
-            "lon": 19.4648118,
-            "timestamp": "2022-04-06T13:13:55Z",
-            "version": 2,
-            "changeset": 119387120,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 51.8411987,
+            "lon": 19.4648628,
+            "timestamp": "2022-06-20T20:04:54Z",
+            "version": 3,
+            "changeset": 122637599,
+            "user": "Fan map",
+            "uid": 2092025,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na budynku OSP",
                 "defibrillator:location:en": "On the OSP building",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "name": "Rada osiedla Łagiewniki",
-                "office": "yes",
                 "operator": "OSP Łódź-Łagiewniki",
                 "phone": "+48 42 659 03 85"
             }
