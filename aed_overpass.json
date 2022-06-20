@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-20T13:32:06Z",
+        "timestamp_osm_base": "2022-06-20T14:38:01Z",
         "timestamp_areas_base": "2022-06-20T07:58:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -65981,6 +65981,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Autostrada Wolności. A2 punkt poboru opłat Tarnawa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9833608217,
+            "lat": 50.0138007,
+            "lon": 20.8630413,
+            "timestamp": "2022-06-20T14:00:54Z",
+            "version": 1,
+            "changeset": 122626132,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Gminne Centrum Kultury w Wierzchosławicach - recepcja Hotelu czynne 24/h",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 / 998",
+                "indoor": "yes",
+                "phone": "+48 14657 57 57"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9833618717,
+            "lat": 50.0159506,
+            "lon": 20.8626336,
+            "timestamp": "2022-06-20T14:06:28Z",
+            "version": 1,
+            "changeset": 122626132,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "BUDYNEK URZĘDU GMINY w WIERZCHOSŁAWICACH - Wejście główne obok PUNKTU INFORMACYJNEGO",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 / 998",
+                "indoor": "yes",
+                "phone": "+48 14 631 90 30"
             }
         },
         {
