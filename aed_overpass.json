@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-21T05:33:07Z",
-        "timestamp_areas_base": "2022-06-21T05:09:52Z",
+        "timestamp_osm_base": "2022-06-21T06:31:54Z",
+        "timestamp_areas_base": "2022-06-21T06:09:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66017,6 +66017,80 @@
                 "emergency:phone": "112 / 999 / 998",
                 "indoor": "yes",
                 "phone": "+48 14 631 90 30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9835169217,
+            "lat": 50.0200906,
+            "lon": 20.8451976,
+            "timestamp": "2022-06-21T05:43:21Z",
+            "version": 1,
+            "changeset": 122647706,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek Remizy OSP w Wierzchosławicach AED na sam. Ratowniczo-Gaśniczym",
+                "defibrillator:location:en": "The building of the Remizy OSP in Wierzchosławice AED on the same. Rescue and Fire Fighting",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 /998",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9835182617,
+            "lat": 50.0239128,
+            "lon": 20.8824833,
+            "timestamp": "2022-06-21T05:52:49Z",
+            "version": 1,
+            "changeset": 122648040,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek - Remiza OSP w Gosławicach \nAED na sam. Ratowniczo-Gaśniczym",
+                "defibrillator:location:en": "The building of Remiza OSP in Gosławice AED on the same. Rescue and Fire Fighting",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 / 998",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9835184317,
+            "lat": 49.9829944,
+            "lon": 20.8750589,
+            "timestamp": "2022-06-21T05:55:09Z",
+            "version": 1,
+            "changeset": 122648040,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Remizy OSP w Mikołajowicach AED na sam. Ratowniczo-Gaśniczym",
+                "defibrillator:location:en": "The building of Remiza OSP in Mikołajowice AED on the same. Rescue and Fire Fighting",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 / 998",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9835186917,
+            "lat": 49.9972082,
+            "lon": 20.8414616,
+            "timestamp": "2022-06-21T05:57:33Z",
+            "version": 1,
+            "changeset": 122648040,
+            "user": "UGWierzchosławice",
+            "uid": 16324920,
+            "tags": {
+                "defibrillator:location": "Budynek Remizy OSP w Łętowicach \nAED na sam. Ratowniczo-Gaśniczym",
+                "defibrillator:location:en": "The building of Remiza OSP in Łętowice AED on the same. Rescue and Fire Fighting",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 / 999 / 998"
             }
         },
         {
