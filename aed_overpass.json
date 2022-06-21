@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-21T09:32:08Z",
-        "timestamp_areas_base": "2022-06-21T09:10:54Z",
+        "timestamp_osm_base": "2022-06-21T10:31:39Z",
+        "timestamp_areas_base": "2022-06-21T10:11:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66091,6 +66091,25 @@
                 "defibrillator:location:en": "The building of Remiza OSP in Łętowice AED on the same. Rescue and Fire Fighting",
                 "emergency": "defibrillator",
                 "emergency:phone": "112 / 999 / 998"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9835745117,
+            "lat": 53.4738219,
+            "lon": 22.65731,
+            "timestamp": "2022-06-21T10:12:35Z",
+            "version": 1,
+            "changeset": 122659339,
+            "user": "mfabik",
+            "uid": 551059,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w końcu korytarza przy Straży Parku",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "85 738 06 20"
             }
         },
         {
