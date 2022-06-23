@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-23T15:31:41Z",
+        "timestamp_osm_base": "2022-06-23T16:32:26Z",
         "timestamp_areas_base": "2022-06-23T14:40:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66110,6 +66110,24 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "85 738 06 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9842050917,
+            "lat": 51.113095,
+            "lon": 17.0522549,
+            "timestamp": "2022-06-23T16:08:16Z",
+            "version": 1,
+            "changeset": 122766164,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze",
+                "defibrillator:location:en": "On the ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
