@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-27T18:31:40Z",
+        "timestamp_osm_base": "2022-06-27T19:31:12Z",
         "timestamp_areas_base": "2022-06-27T15:31:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66128,6 +66128,40 @@
                 "defibrillator:location:en": "On the ground floor",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9851360018,
+            "lat": 50.6876505,
+            "lon": 16.6258683,
+            "timestamp": "2022-06-27T18:56:46Z",
+            "version": 1,
+            "changeset": 122923964,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Eco Cafe",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9851378217,
+            "lat": 50.6791192,
+            "lon": 16.5908648,
+            "timestamp": "2022-06-27T18:56:01Z",
+            "version": 2,
+            "changeset": 122923988,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie kompleksu basenowego Campingu Sudety",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
