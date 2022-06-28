@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-28T11:32:08Z",
+        "timestamp_osm_base": "2022-06-28T12:31:54Z",
         "timestamp_areas_base": "2022-06-28T08:41:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66181,6 +66181,25 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9853229010,
+            "lat": 54.602317,
+            "lon": 18.2259438,
+            "timestamp": "2022-06-28T12:11:09Z",
+            "version": 1,
+            "changeset": 122954714,
+            "user": "Maciej_3004",
+            "uid": 13419410,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Wewnątrz budynku, dostępny  w godzinach pracy przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "NZOZ \"Bukowa\""
             }
         },
         {
