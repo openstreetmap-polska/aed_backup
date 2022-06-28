@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-28T01:31:33Z",
-        "timestamp_areas_base": "2022-06-28T00:38:53Z",
+        "timestamp_osm_base": "2022-06-28T02:32:16Z",
+        "timestamp_areas_base": "2022-06-28T01:38:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66146,6 +66146,22 @@
                 "defibrillator:location": "Na terenie kompleksu basenowego Campingu Sudety",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9852044329,
+            "lat": 51.1238744,
+            "lon": 15.915718,
+            "timestamp": "2022-06-28T01:45:45Z",
+            "version": 1,
+            "changeset": 122933126,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
