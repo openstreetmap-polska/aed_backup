@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-29T04:32:24Z",
-        "timestamp_areas_base": "2022-06-29T03:52:39Z",
+        "timestamp_osm_base": "2022-06-29T05:32:09Z",
+        "timestamp_areas_base": "2022-06-29T04:52:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66200,6 +66200,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "NZOZ \"Bukowa\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 9854845317,
+            "lat": 49.7379983,
+            "lon": 21.46554,
+            "timestamp": "2022-06-29T05:12:52Z",
+            "version": 1,
+            "changeset": 122982529,
+            "user": "MILUDENT",
+            "uid": 16399818,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Gabinet Stomatologiczny MILUDENT,  I piętro",
+                "defibrillator:location:en": "MILUDENT Dental Clinic, 1st floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48606384106"
             }
         },
         {
