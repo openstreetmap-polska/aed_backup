@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-29T11:31:40Z",
+        "timestamp_osm_base": "2022-06-29T12:31:39Z",
         "timestamp_areas_base": "2022-06-29T07:52:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66219,6 +66219,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48606384106"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9855685417,
+            "lat": 51.1667723,
+            "lon": 16.7402868,
+            "timestamp": "2022-06-29T12:16:26Z",
+            "version": 1,
+            "changeset": 123000509,
+            "user": "Kampol Logistyka_",
+            "uid": 16402874,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Brama nr 4, boczne wejście do budynku",
+                "defibrillator:location:en": "Gate No. 4, side entrance to the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 798 584 574"
             }
         },
         {
