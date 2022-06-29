@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-29T21:31:39Z",
+        "timestamp_osm_base": "2022-06-29T22:32:16Z",
         "timestamp_areas_base": "2022-06-29T21:01:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66254,6 +66254,24 @@
                 "access": "customers",
                 "defibrillator:location": "Przy kasie biletowej pływalni",
                 "defibrillator:location:en": "At the swimming pool ticket office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9856697117,
+            "lat": 50.0490921,
+            "lon": 21.9767505,
+            "timestamp": "2022-06-29T21:38:11Z",
+            "version": 1,
+            "changeset": 123020769,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie za wejściem głównym.",
+                "defibrillator:location:en": "Wall on the right side near main entrace",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
