@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-30T06:31:37Z",
-        "timestamp_areas_base": "2022-06-30T06:07:19Z",
+        "timestamp_osm_base": "2022-06-30T07:31:20Z",
+        "timestamp_areas_base": "2022-06-30T07:07:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66274,6 +66274,24 @@
                 "defibrillator:location:en": "Wall on the right side near main entrace",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9857431517,
+            "lat": 50.0446721,
+            "lon": 21.9554455,
+            "timestamp": "2022-06-30T07:14:25Z",
+            "version": 1,
+            "changeset": 123030962,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt pobrań naprzeciw rejestracji.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 177421315"
             }
         },
         {
