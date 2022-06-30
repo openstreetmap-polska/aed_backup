@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-30T13:31:54Z",
+        "timestamp_osm_base": "2022-06-30T14:31:38Z",
         "timestamp_areas_base": "2022-06-30T12:09:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -40669,13 +40669,13 @@
         {
             "type": "node",
             "id": 9522362519,
-            "lat": 49.8584734,
-            "lon": 19.3464042,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 1,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.8584323,
+            "lon": 19.3463723,
+            "timestamp": "2022-06-30T13:33:05Z",
+            "version": 2,
+            "changeset": 123045921,
+            "user": "kubahahaha",
+            "uid": 1479852,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "na parterze budynku, obok Rejestracji Pacjentów",
