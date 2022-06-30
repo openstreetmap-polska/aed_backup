@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-06-30T18:31:39Z",
+        "timestamp_osm_base": "2022-06-30T19:32:24Z",
         "timestamp_areas_base": "2022-06-30T18:14:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66292,6 +66292,31 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 177421315"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9858880527,
+            "lat": 52.8569069,
+            "lon": 15.8138755,
+            "timestamp": "2022-06-30T19:28:10Z",
+            "version": 1,
+            "changeset": 123058498,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku, na ścianie na prawo od głównego wejścia, przy sali konferencyjnej.",
+                "defibrillator:location:en": "Inside the building, on the wall to the right of the building, in the conference room.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "model": "Heartstart",
+                "opening_hours": "Mo-Fr 7:00-17:00, Sa, Su off;",
+                "operator": "Nadleśnictwo Smolarz",
+                "phone": "+48 95 762 05 63",
+                "wheelchair": "yes"
             }
         },
         {
