@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-01T05:32:28Z",
-        "timestamp_areas_base": "2022-07-01T05:19:21Z",
+        "timestamp_osm_base": "2022-07-01T06:31:23Z",
+        "timestamp_areas_base": "2022-07-01T06:20:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66317,6 +66317,23 @@
                 "operator": "Nadleśnictwo Smolarz",
                 "phone": "+48 95 762 05 63",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9859634617,
+            "lat": 51.0966893,
+            "lon": 17.0363988,
+            "timestamp": "2022-07-01T06:15:54Z",
+            "version": 1,
+            "changeset": 123070035,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie na wprost od wejścia na dworzec autobusowy od ulicy Suchej (obok drzwi wyjściowych z Biedronki)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
