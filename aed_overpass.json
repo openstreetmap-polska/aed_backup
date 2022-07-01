@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-01T16:32:00Z",
+        "timestamp_osm_base": "2022-07-01T17:31:54Z",
         "timestamp_areas_base": "2022-07-01T16:26:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66359,17 +66359,18 @@
             "id": 9860029017,
             "lat": 52.2502838,
             "lon": 21.0119882,
-            "timestamp": "2022-07-01T09:55:35Z",
-            "version": 1,
-            "changeset": 123078785,
+            "timestamp": "2022-07-01T17:14:43Z",
+            "version": 2,
+            "changeset": 123094620,
             "user": "ruzka",
             "uid": 6812164,
             "tags": {
-                "access": "customers",
+                "access": "permissive",
                 "defibrillator:location": "Na ścianie na prawo od wejścia służbowego przy ochronie",
                 "defibrillator:location:en": "On the wall to the right of door near security desk",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Muzeum Warszawy",
                 "phone": "+48 22 277 43 00"
             }
         },
