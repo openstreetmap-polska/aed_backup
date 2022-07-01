@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-01T09:31:08Z",
-        "timestamp_areas_base": "2022-07-01T09:21:54Z",
+        "timestamp_osm_base": "2022-07-01T10:31:54Z",
+        "timestamp_areas_base": "2022-07-01T10:21:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41036,6 +41036,24 @@
         },
         {
             "type": "node",
+            "id": 9524004576,
+            "lat": 51.645062,
+            "lon": 20.9534861,
+            "timestamp": "2022-07-01T10:05:32Z",
+            "version": 4,
+            "changeset": 123079199,
+            "user": "02b5357d",
+            "uid": 15215305,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Wewnątrz budynku szkoły PSP 1 na ścianie przy wejściu głównym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Publiczna Szkoła Podstawowa nr 1 im. Komisji Edukacji Narodowej w Białobrzegach"
+            }
+        },
+        {
+            "type": "node",
             "id": 9524038417,
             "lat": 51.6443667,
             "lon": 20.9560266,
@@ -66334,6 +66352,25 @@
                 "defibrillator:location": "Na ścianie na wprost od wejścia na dworzec autobusowy od ulicy Suchej (obok drzwi wyjściowych z Biedronki)",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9860029017,
+            "lat": 52.2502838,
+            "lon": 21.0119882,
+            "timestamp": "2022-07-01T09:55:35Z",
+            "version": 1,
+            "changeset": 123078785,
+            "user": "ruzka",
+            "uid": 6812164,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie na prawo od wejścia służbowego przy ochronie",
+                "defibrillator:location:en": "On the wall to the right of door near security desk",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 22 277 43 00"
             }
         },
         {
