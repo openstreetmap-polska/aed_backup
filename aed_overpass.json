@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-02T13:32:02Z",
-        "timestamp_areas_base": "2022-07-02T12:37:09Z",
+        "timestamp_osm_base": "2022-07-02T14:32:02Z",
+        "timestamp_areas_base": "2022-07-02T13:38:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66372,6 +66372,20 @@
                 "indoor": "yes",
                 "operator": "Muzeum Warszawy",
                 "phone": "+48 22 277 43 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862355217,
+            "lat": 52.240724,
+            "lon": 20.8914236,
+            "timestamp": "2022-07-02T14:14:57Z",
+            "version": 1,
+            "changeset": 123121605,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
