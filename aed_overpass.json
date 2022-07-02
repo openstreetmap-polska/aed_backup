@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-02T21:32:02Z",
-        "timestamp_areas_base": "2022-07-02T20:41:24Z",
+        "timestamp_osm_base": "2022-07-02T22:31:51Z",
+        "timestamp_areas_base": "2022-07-02T21:42:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66612,6 +66612,81 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "609389541"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862965217,
+            "lat": 52.1374345,
+            "lon": 16.7690702,
+            "timestamp": "2022-07-02T21:42:17Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępny w godzinach otwarcia Hali Sportowej. W śród tygodnia w trakcie trwania zajęć lekcyjnych \nW weekendy w trakcie imprez sportowych\nNa korytarzu koło szatni",
+                "defibrillator:location:en": "Available during the opening hours of the Sports Hall. On weekdays during school hours\nAt weekends, during sports events\nIn the corridor, near the cloakroom",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "601195513"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862967717,
+            "lat": 52.0978753,
+            "lon": 16.7641494,
+            "timestamp": "2022-07-02T21:46:08Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W środku remizy OSP Gorzyce, na samochodzie wyjazdowym \nDostępny po załączeniu syreny alarmowej znajdującej się przy wejściu do remizy",
+                "defibrillator:location:en": "In the middle of the Gorzyce Volunteer Fire Department, on an exit car\nIt is available after activating the alarm siren located at the entrance to the firehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609389541"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862967718,
+            "lat": 51.9107927,
+            "lon": 17.4642266,
+            "timestamp": "2022-07-02T21:49:52Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "2 AED dostępne na terenie firmy Blastrac Polska w szatniach pracowników \nDostępność w godzinach pracy zakładu",
+                "defibrillator:location:en": "2 AEDs available on the premises of Blastrac Polska in employee locker rooms\nAvailability during plant operating hours",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "697822093"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9863003617,
+            "lat": 52.0077487,
+            "lon": 16.9500971,
+            "timestamp": "2022-07-02T22:06:35Z",
+            "version": 1,
+            "changeset": 123134740,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku DPS Mościszki\nDostępny w Punkcie Pielęgniarskim Ośrodka",
+                "defibrillator:location:en": "In the DPS Mościszki building\nAvailable at the Nursing Center of the Center",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
