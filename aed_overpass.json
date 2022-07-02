@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-02T20:31:24Z",
-        "timestamp_areas_base": "2022-07-02T19:40:37Z",
+        "timestamp_osm_base": "2022-07-02T21:32:02Z",
+        "timestamp_areas_base": "2022-07-02T20:41:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66403,6 +66403,215 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862895217,
+            "lat": 51.9505419,
+            "lon": 16.9337009,
+            "timestamp": "2022-07-02T20:52:02Z",
+            "version": 1,
+            "changeset": 123132997,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana remizy OSP Bielewo",
+                "defibrillator:location:en": "Wall of the fire station OSP Bielewo",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "609389541"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862898317,
+            "lat": 51.9792449,
+            "lon": 16.9392982,
+            "timestamp": "2022-07-02T20:54:28Z",
+            "version": 1,
+            "changeset": 123132997,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana remizy OSP Bieżyń",
+                "defibrillator:location:en": "Wall of the fire station OSP Bieżyń",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "882255911"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862908517,
+            "lat": 51.9583962,
+            "lon": 16.8236008,
+            "timestamp": "2022-07-02T21:02:49Z",
+            "version": 1,
+            "changeset": 123133265,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall at the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "655170517"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862908518,
+            "lat": 51.9597349,
+            "lon": 16.8239304,
+            "timestamp": "2022-07-02T21:06:02Z",
+            "version": 1,
+            "changeset": 123133265,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie OSP Krzywiń. Na samochodzie wyjazdowym.\nAby uzyskać AED należy włączyć syrenę alarmową przy bramie remizy",
+                "defibrillator:location:en": "At the Krzywiń Volunteer Fire Department. On an exit car\nTo obtain an AED, the alarm siren must be turned on at the fire station gate",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609941976"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862913717,
+            "lat": 52.0224966,
+            "lon": 16.8584963,
+            "timestamp": "2022-07-02T21:08:43Z",
+            "version": 1,
+            "changeset": 123133265,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie OSP, na samochodzie wyjazdowym\nAby uzyskać dostęp do AED należy włączyć syrenę alarmową znajdującą się przy wejściu do remizy",
+                "defibrillator:location:en": "At the Volunteer Fire Department, on the exit car\nTo access the AED, turn on the siren at the entrance to the firehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "669249918"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862924317,
+            "lat": 52.0069877,
+            "lon": 16.8191232,
+            "timestamp": "2022-07-02T21:13:08Z",
+            "version": 1,
+            "changeset": 123133265,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie OSP, na samochodzie wyjazdowym\nAby uzyskać dostęp do AED należy włączyć syrenę alarmową znajdującą się przy wejściu do remizy",
+                "defibrillator:location:en": "At the Volunteer Fire Department, on the exit car\nTo access the AED, turn on the siren at the entrance to the firehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "693683689"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862924318,
+            "lat": 51.9980393,
+            "lon": 16.8470655,
+            "timestamp": "2022-07-02T21:14:23Z",
+            "version": 1,
+            "changeset": 123133265,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie OSP, na samochodzie wyjazdowym\nAby uzyskać dostęp do AED należy włączyć syrenę alarmową znajdującą się przy wejściu do remizy",
+                "defibrillator:location:en": "At the Volunteer Fire Department, on the exit car\nTo access the AED, turn on the siren at the entrance to the firehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "782257457"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862926418,
+            "lat": 52.0051341,
+            "lon": 16.9130784,
+            "timestamp": "2022-07-02T21:17:36Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu na plażę",
+                "defibrillator:location:en": "On the wall at the entrance to the beach",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "695604302"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862926419,
+            "lat": 51.9679917,
+            "lon": 16.8236983,
+            "timestamp": "2022-07-02T21:19:42Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED dostępne w okresie letnim od 25-06 do 01.09. U Ratowników WOPR\nPrzeniesiony na czas letni z Banku Spółdzielczego w Krzywiniu ul. Rynek",
+                "defibrillator:location:en": "AED available during the summer period from 25-06 to 01/09. At WOPR Rescuers\nTransferred to summer time from Bank Spółdzielczy in Krzywiniu ul. Rynek",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609389541"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862937017,
+            "lat": 51.99623,
+            "lon": 16.7097949,
+            "timestamp": "2022-07-02T21:21:40Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku przy plaży głównej",
+                "defibrillator:location:en": "On the wall of the building next to the main beach",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "65 513 00 05"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9862943217,
+            "lat": 51.9952011,
+            "lon": 16.9782434,
+            "timestamp": "2022-07-02T21:27:57Z",
+            "version": 1,
+            "changeset": 123133598,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępny w okresie letnim Od 25 Czerwca do 01 Września\nDostępny w trakcie pracy Ratowników WOPR w domku Ratowników przy plaży głównej. W godzinach 08:00- 18:00",
+                "defibrillator:location:en": "Available during the summer period From June 25 to September 01\nAvailable during the work of WOPR lifeguards in the lifeguards' house on the main beach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609389541"
             }
         },
         {
