@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-07T10:31:06Z",
+        "timestamp_osm_base": "2022-07-07T11:31:54Z",
         "timestamp_areas_base": "2022-07-07T07:33:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66707,6 +66707,24 @@
                 "indoor": "yes",
                 "operator": "Muzeum Warszawy",
                 "phone": "+48 22 277 43 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9872147018,
+            "lat": 54.3776493,
+            "lon": 18.6002973,
+            "timestamp": "2022-07-07T10:56:25Z",
+            "version": 1,
+            "changeset": 123313825,
+            "user": "Bartek1979",
+            "uid": 16475117,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "1 piętro budynku komendy",
+                "defibrillator:location:en": "1 floor on fire station",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
