@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-07T13:31:54Z",
+        "timestamp_osm_base": "2022-07-07T14:32:25Z",
         "timestamp_areas_base": "2022-07-07T07:33:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -64211,18 +64211,19 @@
         {
             "type": "node",
             "id": 9817027118,
-            "lat": 50.4679511,
-            "lon": 17.1783785,
-            "timestamp": "2022-06-14T11:30:15Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "lat": 50.4679504,
+            "lon": 17.1783656,
+            "timestamp": "2022-07-07T14:15:58Z",
+            "version": 2,
+            "changeset": 123322792,
+            "user": "woojtopl",
+            "uid": 12646591,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Defibrylator AED znajduje się w remizie OSP. Możliwy do użycia po zaalarmowaniu włącznikiem przy wejściu do remizy.",
+                "defibrillator:location": "Defibrylator AED znajduje się w remizie OSP. Możliwy do użycia po zaalarmowaniu Druhów włącznikiem znajdującym się po lewej stronie budynku, przy bramie garażowej.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Otmuchowie."
             }
         },
         {
