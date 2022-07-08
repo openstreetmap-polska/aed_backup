@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-08T12:31:54Z",
+        "timestamp_osm_base": "2022-07-08T13:31:39Z",
         "timestamp_areas_base": "2022-07-08T11:49:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66724,6 +66724,40 @@
                 "access": "private",
                 "defibrillator:location": "1 piętro budynku komendy",
                 "defibrillator:location:en": "1 floor on fire station",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9874420818,
+            "lat": 54.3715637,
+            "lon": 18.6125997,
+            "timestamp": "2022-07-08T13:03:35Z",
+            "version": 1,
+            "changeset": 123362530,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ściana na lewo od głównego wejścia do Nowego ETI",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9874425817,
+            "lat": 54.3833834,
+            "lon": 18.6059269,
+            "timestamp": "2022-07-08T13:05:25Z",
+            "version": 1,
+            "changeset": 123362530,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ściana korytarza na lewo od wejścia z ul. Nad Stawem - naprzeciwko pizzerii Mąka i Kawa",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
