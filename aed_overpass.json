@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-08T19:31:23Z",
-        "timestamp_areas_base": "2022-07-08T18:53:54Z",
+        "timestamp_osm_base": "2022-07-08T20:32:02Z",
+        "timestamp_areas_base": "2022-07-08T19:54:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66760,6 +66760,20 @@
                 "defibrillator:location": "Ściana korytarza na lewo od wejścia z ul. Nad Stawem - naprzeciwko pizzerii Mąka i Kawa",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9875108594,
+            "lat": 50.613747,
+            "lon": 20.761791,
+            "timestamp": "2022-07-08T20:18:49Z",
+            "version": 1,
+            "changeset": 123380609,
+            "user": "pedro's",
+            "uid": 6423094,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
