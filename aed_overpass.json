@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-09T18:31:24Z",
+        "timestamp_osm_base": "2022-07-09T19:33:23Z",
         "timestamp_areas_base": "2022-07-09T16:02:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3683,18 +3683,19 @@
             "id": 8669535551,
             "lat": 54.3810904,
             "lon": 18.6061111,
-            "timestamp": "2022-03-07T08:44:36Z",
-            "version": 6,
-            "changeset": 118187660,
-            "user": "kukułka",
-            "uid": 2757838,
+            "timestamp": "2022-07-09T19:07:17Z",
+            "version": 7,
+            "changeset": 123411159,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "contact:phone": "+48 693 813 060",
-                "defibrillator:location": "ściana budynku dworca",
+                "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
                 "image": "https://photos.app.goo.gl/8uNesB9MwWk3V2hp6",
                 "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "WBiZK",
                 "phone": "+48 58 778 60 00"
             }
         },
@@ -56532,24 +56533,6 @@
         },
         {
             "type": "node",
-            "id": 9645230662,
-            "lat": 54.3814736,
-            "lon": 18.6050056,
-            "timestamp": "2022-04-06T09:54:56Z",
-            "version": 1,
-            "changeset": 119378243,
-            "user": "Cristoffs",
-            "uid": 6765127,
-            "tags": {
-                "defibrillator:location": "wolnostojący postument",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "operator": "WBiZK",
-                "phone": "+48 58 778 60 00"
-            }
-        },
-        {
-            "type": "node",
             "id": 9645233771,
             "lat": 54.4206578,
             "lon": 18.5732241,
@@ -66791,6 +66774,26 @@
                 "defibrillator:location": "LUX MED, 1 piętro na prawo od wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9877088854,
+            "lat": 54.3827026,
+            "lon": 18.6006519,
+            "timestamp": "2022-07-09T19:11:51Z",
+            "version": 2,
+            "changeset": 123411256,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W informacji (do wydania przez obsługę; podczas wizji w terenie nie było nikogo)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+                "website": "https://www.galeriabaltycka.pl/uslugi/defibrylator-s18268/?location=p966-10012"
             }
         },
         {
