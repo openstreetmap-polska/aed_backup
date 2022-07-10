@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-10T00:31:56Z",
-        "timestamp_areas_base": "2022-07-10T00:07:25Z",
+        "timestamp_osm_base": "2022-07-10T01:31:58Z",
+        "timestamp_areas_base": "2022-07-10T01:07:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -64714,29 +64714,14 @@
         },
         {
             "type": "node",
-            "id": 9817107417,
-            "lat": 51.8123994,
-            "lon": 21.7942209,
-            "timestamp": "2022-06-14T11:47:51Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
-            "tags": {
-                "defibrillator:location": "Budynek OSP",
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
             "id": 9817107418,
-            "lat": 51.8123994,
-            "lon": 21.7942209,
-            "timestamp": "2022-06-14T11:50:11Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "lat": 51.8123963,
+            "lon": 21.7941977,
+            "timestamp": "2022-07-10T00:36:41Z",
+            "version": 2,
+            "changeset": 123416926,
+            "user": "B_KSL",
+            "uid": 553541,
             "tags": {
                 "defibrillator:location": "Budynek OSP",
                 "emergency": "defibrillator"
