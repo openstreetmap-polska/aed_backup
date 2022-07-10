@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-10T10:31:23Z",
-        "timestamp_areas_base": "2022-07-10T10:09:53Z",
+        "timestamp_osm_base": "2022-07-10T11:32:24Z",
+        "timestamp_areas_base": "2022-07-10T11:11:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -57336,13 +57336,13 @@
         {
             "type": "node",
             "id": 9645616095,
-            "lat": 51.7592568,
-            "lon": 19.4572398,
-            "timestamp": "2022-04-06T12:51:19Z",
-            "version": 2,
-            "changeset": 119386173,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 51.7591769,
+            "lon": 19.4575972,
+            "timestamp": "2022-07-10T11:03:27Z",
+            "version": 3,
+            "changeset": 123427826,
+            "user": "Fan map",
+            "uid": 2092025,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na przystanku tramwajowym",
