@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-12T12:31:04Z",
+        "timestamp_osm_base": "2022-07-12T13:32:09Z",
         "timestamp_areas_base": "2022-07-12T06:33:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -31589,12 +31589,13 @@
             "id": 9476452200,
             "lat": 50.8426014,
             "lon": 18.9178403,
-            "timestamp": "2022-02-04T17:21:47Z",
-            "version": 1,
-            "changeset": 117015438,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-12T12:53:17Z",
+            "version": 2,
+            "changeset": 123520555,
+            "user": "The Polish",
+            "uid": 1863681,
             "tags": {
+                "addr:housenumber": "1",
                 "addr:street": "Henryka Sienkiewicza",
                 "defibrillator:location": "przy wejściu z tyłu budynku",
                 "emergency": "defibrillator",
