@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-12T17:31:44Z",
+        "timestamp_osm_base": "2022-07-12T18:32:44Z",
         "timestamp_areas_base": "2022-07-12T16:39:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66844,6 +66844,23 @@
                 "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9883565613,
+            "lat": 53.97669,
+            "lon": 18.5255424,
+            "timestamp": "2022-07-12T18:01:59Z",
+            "version": 1,
+            "changeset": 123531293,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "Na elewacji budynku straży miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
