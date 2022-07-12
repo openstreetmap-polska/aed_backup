@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-12T10:32:08Z",
+        "timestamp_osm_base": "2022-07-12T11:32:09Z",
         "timestamp_areas_base": "2022-07-12T06:33:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66795,6 +66795,52 @@
                 "access": "yes",
                 "defibrillator:location": "Wejście główne do Szkoły Podstawowej im. Powstańców 1863 Roku w Zaborowie, ul.Stołeczna 182",
                 "defibrillator:location:en": "Main entrance to the Primary Insurgents of 1863 in Zaborów, 182 Stołeczna Street",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9882889384,
+            "lat": 49.9695625,
+            "lon": 18.9876261,
+            "timestamp": "2022-07-12T10:35:07Z",
+            "version": 1,
+            "changeset": 123514070,
+            "user": "bobiko1",
+            "uid": 4797207,
+            "tags": {
+                "defibrillator:location": "Defibrylator na samochodzie ratowniczo gaśniczym",
+                "emergency": "defibrillator",
+                "operator": "OSP Ćwiklice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9882983608,
+            "lat": 53.8746939,
+            "lon": 21.3180044,
+            "timestamp": "2022-07-12T11:12:26Z",
+            "version": 1,
+            "changeset": 123515840,
+            "user": "dziabaducha",
+            "uid": 775276,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9883025417,
+            "lat": 52.5345171,
+            "lon": 17.5985713,
+            "timestamp": "2022-07-12T11:28:10Z",
+            "version": 1,
+            "changeset": 123516600,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
