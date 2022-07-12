@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-12T04:32:51Z",
-        "timestamp_areas_base": "2022-07-12T03:33:16Z",
+        "timestamp_osm_base": "2022-07-12T05:32:38Z",
+        "timestamp_areas_base": "2022-07-12T04:32:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44056,11 +44056,11 @@
             "id": 9530896933,
             "lat": 52.1674379,
             "lon": 20.8002162,
-            "timestamp": "2022-02-23T20:57:16Z",
-            "version": 1,
-            "changeset": 117787354,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-12T05:16:42Z",
+            "version": 2,
+            "changeset": 123498939,
+            "user": "tomzyl",
+            "uid": 530338,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "AED umieszczone jest w holu szkoły, przy portierni",
@@ -44069,7 +44069,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-17:00",
                 "operator": "Liceum Ogółnokształcące im.Tomasza Zana",
-                "phone": "22 758 77 35"
+                "phone": "+48 22 758 77 35"
             }
         },
         {
