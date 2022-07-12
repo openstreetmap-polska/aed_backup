@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-12T06:31:24Z",
-        "timestamp_areas_base": "2022-07-12T05:33:39Z",
+        "timestamp_osm_base": "2022-07-12T07:31:19Z",
+        "timestamp_areas_base": "2022-07-12T06:33:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -66779,6 +66779,24 @@
                 "level": "0",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
                 "website": "https://www.galeriabaltycka.pl/uslugi/defibrylator-s18268/?location=p966-10012"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9882568417,
+            "lat": 52.2620289,
+            "lon": 20.6787412,
+            "timestamp": "2022-07-12T07:24:41Z",
+            "version": 1,
+            "changeset": 123503891,
+            "user": "Szkoła",
+            "uid": 16523099,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wejście główne do Szkoły Podstawowej im. Powstańców 1863 Roku w Zaborowie, ul.Stołeczna 182",
+                "defibrillator:location:en": "Main entrance to the Primary Insurgents of 1863 in Zaborów, 182 Stołeczna Street",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
