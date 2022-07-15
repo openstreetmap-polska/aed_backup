@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-15T12:32:09Z",
+        "timestamp_osm_base": "2022-07-15T13:31:49Z",
         "timestamp_areas_base": "2022-07-15T06:12:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66955,6 +66955,63 @@
                 "defibrillator:location": "W budynku ZOW NFZ.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9889796117,
+            "lat": 50.4003738,
+            "lon": 16.5135004,
+            "timestamp": "2022-07-15T13:14:50Z",
+            "version": 1,
+            "changeset": 123653257,
+            "user": "operator112_osp_ratmed",
+            "uid": 16554003,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy SCANIA",
+                "defibrillator:location:en": "Fire-rescue truck - SCANIA",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 86 57 200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9889810417,
+            "lat": 50.4004723,
+            "lon": 16.5135573,
+            "timestamp": "2022-07-15T13:21:03Z",
+            "version": 1,
+            "changeset": 123653257,
+            "user": "operator112_osp_ratmed",
+            "uid": 16554003,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód lekki ratownictwa technicznego - MITSUBISHI L200",
+                "defibrillator:location:en": "Rescue vehicle - Mitsubishi L200",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 86 57 200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9889830317,
+            "lat": 50.4356571,
+            "lon": 16.6515334,
+            "timestamp": "2022-07-15T13:31:41Z",
+            "version": 1,
+            "changeset": 123653257,
+            "user": "operator112_osp_ratmed",
+            "uid": 16554003,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Starostwo powiatowe 7:30-15:30",
+                "defibrillator:location:en": "District Authority Office 7:30-15:30",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 865 75 23"
             }
         },
         {
