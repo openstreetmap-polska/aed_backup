@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-15T13:31:49Z",
+        "timestamp_osm_base": "2022-07-15T14:32:09Z",
         "timestamp_areas_base": "2022-07-15T06:12:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67012,6 +67012,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "74 865 75 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9889845617,
+            "lat": 50.4373101,
+            "lon": 16.6459177,
+            "timestamp": "2022-07-15T13:37:53Z",
+            "version": 1,
+            "changeset": 123653257,
+            "user": "operator112_osp_ratmed",
+            "uid": 16554003,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Kryta pływalnia - 1 piętro; 07:00-21:00",
+                "defibrillator:location:en": "Swimming pool - 1st floor; 07:00-21:00",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 74 866 53 04"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9889954517,
+            "lat": 50.4380766,
+            "lon": 16.6500221,
+            "timestamp": "2022-07-15T14:24:15Z",
+            "version": 1,
+            "changeset": 123656351,
+            "user": "operator112_osp_ratmed",
+            "uid": 16554003,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Państwowa Straż Pożarna",
+                "defibrillator:location:en": "Fire Department",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 86 57 200"
             }
         },
         {
