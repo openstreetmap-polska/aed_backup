@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-16T16:31:54Z",
-        "timestamp_areas_base": "2022-07-16T16:29:54Z",
+        "timestamp_osm_base": "2022-07-16T17:31:54Z",
+        "timestamp_areas_base": "2022-07-16T17:30:47Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67065,6 +67065,22 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W punkcie obsługi pasażera",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9891867502,
+            "lat": 50.1999973,
+            "lon": 19.4541087,
+            "timestamp": "2022-07-16T17:05:56Z",
+            "version": 1,
+            "changeset": 123696344,
+            "user": "VA00",
+            "uid": 1745828,
+            "tags": {
+                "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
