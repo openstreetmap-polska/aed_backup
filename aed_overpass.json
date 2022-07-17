@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-17T08:31:47Z",
-        "timestamp_areas_base": "2022-07-17T06:35:07Z",
+        "timestamp_osm_base": "2022-07-17T09:32:01Z",
+        "timestamp_areas_base": "2022-07-17T08:36:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67083,6 +67083,25 @@
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9892877921,
+            "lat": 51.6797891,
+            "lon": 17.8146847,
+            "timestamp": "2022-07-17T08:48:32Z",
+            "version": 1,
+            "changeset": 123712539,
+            "user": "Błażej Busza",
+            "uid": 16569099,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępny w biurze, w godzinach pracy firmy: 07.00 - 16.00. Pracownicy są przeszkoleni do jego użycia.",
+                "defibrillator:location:en": "Available in the office, during the company's working hours: 07.00 - 16.00. Employees are trained to use it.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48627378800"
             }
         },
         {
