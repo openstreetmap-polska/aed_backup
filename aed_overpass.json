@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-18T15:31:09Z",
+        "timestamp_osm_base": "2022-07-18T16:32:12Z",
         "timestamp_areas_base": "2022-07-18T12:48:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67174,6 +67174,25 @@
                 "defibrillator:location:en": "Main entrance - dormitory DS1",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895556866,
+            "lat": 50.9023068,
+            "lon": 15.7557386,
+            "timestamp": "2022-07-18T16:05:58Z",
+            "version": 1,
+            "changeset": 123770633,
+            "user": "maraf24",
+            "uid": 2098272,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Koleje Dolnośląskie",
+                "wheelchair": "yes"
             }
         },
         {
