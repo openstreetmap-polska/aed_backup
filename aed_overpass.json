@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-18T16:32:12Z",
+        "timestamp_osm_base": "2022-07-18T17:32:08Z",
         "timestamp_areas_base": "2022-07-18T12:48:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -44166,16 +44166,17 @@
             "id": 9530977852,
             "lat": 51.9833418,
             "lon": 21.2194337,
-            "timestamp": "2022-02-23T21:52:36Z",
-            "version": 1,
-            "changeset": 117789225,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-18T17:07:55Z",
+            "version": 2,
+            "changeset": 123772595,
+            "user": "pomocnysztab",
+            "uid": 14165189,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ogólnodostępny w budynku remizy",
                 "defibrillator:location:en": "Inside the fire station",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Górze Kalwarii",
                 "source": "https://www.facebook.com/ospgorakalwaria/posts/5031516706863199"
             }
@@ -44185,16 +44186,17 @@
             "id": 9530977853,
             "lat": 51.9833988,
             "lon": 21.2194164,
-            "timestamp": "2022-02-23T21:52:36Z",
-            "version": 1,
-            "changeset": 117789225,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-18T17:07:55Z",
+            "version": 2,
+            "changeset": 123772595,
+            "user": "pomocnysztab",
+            "uid": 14165189,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Góra Kalwaria",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "Ochotnicza Straż Pożarna w Górze Kalwarii",
                 "source": "https://www.facebook.com/ospgorakalwaria/posts/5031516706863199"
             }
@@ -67193,6 +67195,103 @@
                 "level": "0",
                 "operator": "Koleje Dolnośląskie",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895609119,
+            "lat": 51.9856046,
+            "lon": 21.2163181,
+            "timestamp": "2022-07-18T16:37:16Z",
+            "version": 1,
+            "changeset": 123771606,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895613617,
+            "lat": 51.9809095,
+            "lon": 21.219765,
+            "timestamp": "2022-07-18T17:07:55Z",
+            "version": 2,
+            "changeset": 123772595,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895615717,
+            "lat": 51.9865822,
+            "lon": 21.1958372,
+            "timestamp": "2022-07-18T16:37:41Z",
+            "version": 1,
+            "changeset": 123771606,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895633518,
+            "lat": 52.1053148,
+            "lon": 21.0208046,
+            "timestamp": "2022-07-18T16:50:22Z",
+            "version": 1,
+            "changeset": 123772001,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Punkcie Obsługi Klienta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895639117,
+            "lat": 52.0956212,
+            "lon": 21.0229002,
+            "timestamp": "2022-07-18T16:49:52Z",
+            "version": 1,
+            "changeset": 123772001,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt Obsługi Klienta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9895651508,
+            "lat": 51.9856012,
+            "lon": 21.2166327,
+            "timestamp": "2022-07-18T17:07:55Z",
+            "version": 1,
+            "changeset": 123772595,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
