@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.3 b33c3320",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-17T23:32:36Z",
-        "timestamp_areas_base": "2022-07-17T22:42:53Z",
+        "timestamp_osm_base": "2022-07-18T00:31:38Z",
+        "timestamp_areas_base": "2022-07-17T23:42:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67092,14 +67092,14 @@
             "id": 9894055617,
             "lat": 54.20364,
             "lon": 16.1975926,
-            "timestamp": "2022-07-17T22:10:26Z",
-            "version": 1,
-            "changeset": 123736730,
-            "user": "AED POLITECHNIKA KOSZALIÑSKA",
-            "uid": 16573440,
+            "timestamp": "2022-07-17T23:34:35Z",
+            "version": 2,
+            "changeset": 123737943,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "PORTIERNIA BUD. A",
+                "defibrillator:location": "Portiernia bud. A",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -67109,15 +67109,15 @@
             "id": 9894060518,
             "lat": 54.2051435,
             "lon": 16.1782843,
-            "timestamp": "2022-07-17T22:15:45Z",
-            "version": 1,
-            "changeset": 123736730,
-            "user": "AED POLITECHNIKA KOSZALIÑSKA",
-            "uid": 16573440,
+            "timestamp": "2022-07-17T23:34:35Z",
+            "version": 2,
+            "changeset": 123737943,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "PORTIERNIA - GŁÓWNE WEJŚCIE",
-                "defibrillator:location:en": "RECEPTION DESK - MAIN ENTRANCE",
+                "defibrillator:location": "Portiernia - główne wejście",
+                "defibrillator:location:en": "Reception desk - main entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -67127,15 +67127,15 @@
             "id": 9894070017,
             "lat": 54.2040222,
             "lon": 16.1972299,
-            "timestamp": "2022-07-17T22:19:01Z",
-            "version": 1,
-            "changeset": 123736866,
-            "user": "AED POLITECHNIKA KOSZALIÑSKA",
-            "uid": 16573440,
+            "timestamp": "2022-07-17T23:34:35Z",
+            "version": 2,
+            "changeset": 123737943,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "PARTER - POMIESZCZENIE 9C",
-                "defibrillator:location:en": "GROUND FLOOR - ROOM 9C",
+                "defibrillator:location": "Parter - pomieszczenie 9C",
+                "defibrillator:location:en": "Ground floor - room 9C",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -67145,15 +67145,15 @@
             "id": 9894073417,
             "lat": 54.1855594,
             "lon": 16.1945704,
-            "timestamp": "2022-07-17T22:21:56Z",
-            "version": 1,
-            "changeset": 123736866,
-            "user": "AED POLITECHNIKA KOSZALIÑSKA",
-            "uid": 16573440,
+            "timestamp": "2022-07-17T23:34:35Z",
+            "version": 2,
+            "changeset": 123737943,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "GŁÓWNE WEJŚCIE - PORTIERNIA BUD. A",
-                "defibrillator:location:en": "MAIN ENTRANCE",
+                "defibrillator:location": "Główne wejście - portiernia bud. A",
+                "defibrillator:location:en": "Main entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -67163,15 +67163,15 @@
             "id": 9894080817,
             "lat": 54.1979064,
             "lon": 16.2023905,
-            "timestamp": "2022-07-17T22:25:23Z",
-            "version": 1,
-            "changeset": 123736866,
-            "user": "AED POLITECHNIKA KOSZALIÑSKA",
-            "uid": 16573440,
+            "timestamp": "2022-07-17T23:34:35Z",
+            "version": 2,
+            "changeset": 123737943,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "GŁÓWNE WEJŚCIE - PORTIERNIA DS1",
-                "defibrillator:location:en": "MAIN ENTRANCE - DORMITORY DS1",
+                "defibrillator:location": "Główne wejście - portiernia DS1",
+                "defibrillator:location:en": "Main entrance - dormitory DS1",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
