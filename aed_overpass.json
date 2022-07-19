@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.58.3 b33c3320",
+    "generator": "Overpass API 0.7.58.4 b0e83fa7",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-19T20:31:09Z",
-        "timestamp_areas_base": "2022-07-19T20:28:09Z",
+        "timestamp_osm_base": "2022-07-19T21:31:53Z",
+        "timestamp_areas_base": "2022-07-19T21:07:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38213,24 +38213,6 @@
         },
         {
             "type": "node",
-            "id": 9507819636,
-            "lat": 52.1623749,
-            "lon": 20.8124385,
-            "timestamp": "2022-02-15T13:22:14Z",
-            "version": 1,
-            "changeset": 117436376,
-            "user": "NieWnen",
-            "uid": 3885790,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Przy wejściu do UM na ścianie po lewej stronie",
-                "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
             "id": 9508036901,
             "lat": 51.3814497,
             "lon": 21.1702587,
@@ -67311,6 +67293,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9898361783,
+            "lat": 52.1623698,
+            "lon": 20.8124459,
+            "timestamp": "2022-07-19T21:26:56Z",
+            "version": 1,
+            "changeset": 123824998,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do UM na ścianie po lewej stronie",
+                "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
