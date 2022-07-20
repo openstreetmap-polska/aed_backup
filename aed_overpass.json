@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.4 b0e83fa7",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-20T07:32:05Z",
-        "timestamp_areas_base": "2022-07-20T04:08:08Z",
+        "timestamp_osm_base": "2022-07-20T08:31:07Z",
+        "timestamp_areas_base": "2022-07-20T07:10:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67311,6 +67311,40 @@
                 "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9899044417,
+            "lat": 51.647082,
+            "lon": 17.8198422,
+            "timestamp": "2022-07-20T07:44:49Z",
+            "version": 1,
+            "changeset": 123837291,
+            "user": "Błażej Busza",
+            "uid": 16569099,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępne w biurze podawczym, na parterze",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9899050417,
+            "lat": 51.6576312,
+            "lon": 17.8474172,
+            "timestamp": "2022-07-20T07:47:39Z",
+            "version": 1,
+            "changeset": 123837291,
+            "user": "Błażej Busza",
+            "uid": 16569099,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dostępny w biurze ochrony obiektu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
