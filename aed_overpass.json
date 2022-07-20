@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-20T15:32:25Z",
+        "timestamp_osm_base": "2022-07-20T16:31:59Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10428,18 +10428,20 @@
             "id": 9404563192,
             "lat": 53.1353159,
             "lon": 17.9914508,
-            "timestamp": "2022-01-09T12:09:12Z",
-            "version": 1,
-            "changeset": 115939335,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-07-20T16:25:51Z",
+            "version": 2,
+            "changeset": 123858792,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie w poczekalni",
-                "defibrillator:location:en": "On the wall in the waiting room",
+                "defibrillator:location": "Na ścianie w poczekalni między peronami 3 i 4, parter",
+                "defibrillator:location:en": "On the wall in the waiting room between platforms 3 and 4, ground floor",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7"
+                "level": "0",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         },
         {
@@ -67361,6 +67363,27 @@
                 "defibrillator:location": "W budynku pompowni wody",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9900146511,
+            "lat": 53.1353025,
+            "lon": 17.9914059,
+            "timestamp": "2022-07-20T16:25:51Z",
+            "version": 1,
+            "changeset": 123858792,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do tunelu z poczekalni na poziomie -1",
+                "defibrillator:location:en": "Near entrance to the tunnel, in the waiting room at level -1",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "-1",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         },
         {
