@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-20T13:31:39Z",
+        "timestamp_osm_base": "2022-07-20T14:31:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -43352,11 +43352,11 @@
             "id": 9530545699,
             "lat": 52.1632356,
             "lon": 20.8019152,
-            "timestamp": "2022-02-23T17:57:08Z",
-            "version": 1,
-            "changeset": 117781552,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-20T14:09:43Z",
+            "version": 2,
+            "changeset": 123853328,
+            "user": "Piotr Strębski",
+            "uid": 5060085,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urządzenie AED umieszczone jest na parterze budynku w Sali A, za stanowiskiem nr 13. Wejście od ulicy Drzymały 30",
@@ -43365,7 +43365,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo,We 08:00-18:00; Tu,Th 08:00-16:00; Fr 08:00-14:00",
                 "operator": "Starostwo Powiatu Pruszkowskiego - Wydział Obsługi Mieszkańców",
-                "phone": "22 738-14-13."
+                "phone": "+48 22 738 14 13"
             }
         },
         {
@@ -52298,11 +52298,11 @@
             "id": 9582816238,
             "lat": 52.0179351,
             "lon": 20.7307425,
-            "timestamp": "2022-03-16T12:01:04Z",
-            "version": 1,
-            "changeset": 118548932,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-07-20T14:09:43Z",
+            "version": 2,
+            "changeset": 123853328,
+            "user": "Piotr Strębski",
+            "uid": 5060085,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie remizy",
@@ -52310,7 +52310,6 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "phone": "Ochotnicza Straż Pożarna Żelechów",
                 "source": "https://www.facebook.com/mdpzelechow/photos/a.1895188220749004/3273486066252539/"
             }
         },
