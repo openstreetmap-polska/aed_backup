@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-21T18:31:34Z",
+        "timestamp_osm_base": "2022-07-21T19:31:17Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67401,6 +67401,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSiR Góra Kalwaria"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902536618,
+            "lat": 54.5949319,
+            "lon": 18.366074,
+            "timestamp": "2022-07-21T19:27:26Z",
+            "version": 1,
+            "changeset": 123906983,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie obok kas, przy wejściu do basenu sportowego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
