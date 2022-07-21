@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-21T22:31:51Z",
+        "timestamp_osm_base": "2022-07-21T23:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67418,6 +67418,188 @@
                 "defibrillator:location": "na ścianie obok kas, przy wejściu do basenu sportowego",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902877118,
+            "lat": 49.6350613,
+            "lon": 21.7858573,
+            "timestamp": "2022-07-21T22:55:28Z",
+            "version": 1,
+            "changeset": 123913214,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Miejsce Piastowe",
+                "defibrillator:location:en": "OSP Miejsce Piastowe",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902877119,
+            "lat": 49.5542902,
+            "lon": 21.6863114,
+            "timestamp": "2022-07-21T22:56:39Z",
+            "version": 1,
+            "changeset": 123913214,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Dukla",
+                "defibrillator:location:en": "OSP Dukla",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902877120,
+            "lat": 49.6765764,
+            "lon": 21.7243256,
+            "timestamp": "2022-07-21T22:59:53Z",
+            "version": 1,
+            "changeset": 123913214,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "DPD Oddział Krosno - Przemysłowa 3, 38-457 Świerzowa Polska",
+                "defibrillator:location:en": "DPD Oddział Krosno - Przemysłowa 3, 38-457 Świerzowa Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902877523,
+            "lat": 49.4416747,
+            "lon": 21.8021779,
+            "timestamp": "2022-07-21T23:02:50Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Jaśliska",
+                "defibrillator:location:en": "OSP Jaśliska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902877524,
+            "lat": 49.7386492,
+            "lon": 21.7395307,
+            "timestamp": "2022-07-21T23:03:28Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Odrzykoń",
+                "defibrillator:location:en": "OSP Odrzykoń",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902879117,
+            "lat": 49.6344759,
+            "lon": 21.7800497,
+            "timestamp": "2022-07-21T22:54:56Z",
+            "version": 1,
+            "changeset": 123913214,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "NZOZ Vita Miejsce Piastowe",
+                "defibrillator:location:en": "NZOZ Vita Miejsce Piastowe",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902882317,
+            "lat": 49.5928099,
+            "lon": 21.7204679,
+            "timestamp": "2022-07-21T22:57:19Z",
+            "version": 1,
+            "changeset": 123913214,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Równe",
+                "defibrillator:location:en": "OSP Równe",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902885717,
+            "lat": 49.6920868,
+            "lon": 22.025728,
+            "timestamp": "2022-07-21T23:01:22Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "Szpital Specjalistyczny w Brzozowie",
+                "defibrillator:location:en": "Szpital Specjalistyczny w Brzozowie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902885718,
+            "lat": 49.4416747,
+            "lon": 21.8021779,
+            "timestamp": "2022-07-21T23:02:17Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "OSP Jaśliska",
+                "defibrillator:location:en": "OSP Jaśliska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902889117,
+            "lat": 49.7018739,
+            "lon": 21.7826439,
+            "timestamp": "2022-07-21T23:04:03Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "Wojewódzki Szpital Podkarpacki w Krośnie",
+                "defibrillator:location:en": "Wojewódzki Szpital Podkarpacki w Krośnie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9902889118,
+            "lat": 49.7522379,
+            "lon": 21.4804227,
+            "timestamp": "2022-07-21T23:04:33Z",
+            "version": 1,
+            "changeset": 123913362,
+            "user": "user11112",
+            "uid": 16608285,
+            "tags": {
+                "defibrillator:location": "Szpital Specjalistyczny w Jaśle",
+                "defibrillator:location:en": "Szpital Specjalistyczny w Jaśle",
+                "emergency": "defibrillator"
             }
         },
         {
