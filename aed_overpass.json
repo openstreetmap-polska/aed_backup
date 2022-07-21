@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-21T06:32:00Z",
+        "timestamp_osm_base": "2022-07-21T07:32:10Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67182,22 +67182,6 @@
         },
         {
             "type": "node",
-            "id": 9895609119,
-            "lat": 51.9856046,
-            "lon": 21.2163181,
-            "timestamp": "2022-07-18T16:37:16Z",
-            "version": 1,
-            "changeset": 123771606,
-            "user": "pomocnysztab",
-            "uid": 14165189,
-            "tags": {
-                "access": "customers",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9895613617,
             "lat": 51.9809095,
             "lon": 21.219765,
@@ -67265,11 +67249,11 @@
         {
             "type": "node",
             "id": 9895651508,
-            "lat": 51.9856012,
-            "lon": 21.2166327,
-            "timestamp": "2022-07-18T17:07:55Z",
-            "version": 1,
-            "changeset": 123772595,
+            "lat": 51.9855748,
+            "lon": 21.2166528,
+            "timestamp": "2022-07-21T06:33:28Z",
+            "version": 2,
+            "changeset": 123876750,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
@@ -67401,6 +67385,22 @@
                 "defibrillator:location": "Wewnątrz remizy OSP Żabia Wola na samochodzie MAN",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9901190421,
+            "lat": 51.9883257,
+            "lon": 21.1997418,
+            "timestamp": "2022-07-21T06:34:57Z",
+            "version": 1,
+            "changeset": 123876799,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSiR Góra Kalwaria"
             }
         },
         {
