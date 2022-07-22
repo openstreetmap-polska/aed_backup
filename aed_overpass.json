@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-22T18:31:34Z",
+        "timestamp_osm_base": "2022-07-22T19:31:40Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -590,16 +590,17 @@
             "id": 3472197244,
             "lat": 50.0682927,
             "lon": 19.9477076,
-            "timestamp": "2022-02-22T02:55:55Z",
-            "version": 4,
-            "changeset": 117707290,
-            "user": "FundacjaAED",
-            "uid": 14770831,
+            "timestamp": "2022-07-22T19:14:06Z",
+            "version": 5,
+            "changeset": 123952948,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "defibrillator:location": "przystanek tramwajowy w tunelu, ograniczona dostępność, w nocy brak pomiedzy 23:45-4:30",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "layer": "-2",
+                "level": "-2",
+                "opening_hours": "Mo-Su 4:30-23:45",
                 "operator": "Urząd Miasta Krakowa - Biuro ds. Zdrowia"
             }
         },
@@ -608,16 +609,17 @@
             "id": 3472197245,
             "lat": 50.0681583,
             "lon": 19.947712,
-            "timestamp": "2022-02-22T02:58:45Z",
-            "version": 4,
-            "changeset": 117707324,
-            "user": "FundacjaAED",
-            "uid": 14770831,
+            "timestamp": "2022-07-22T19:14:06Z",
+            "version": 5,
+            "changeset": 123952948,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "defibrillator:location": "Przystanek tramwajowy Dworzec Główny Tunel. Dostępny od 4:30-23:45 (w nocy brak dostępu)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "layer": "-2",
+                "level": "-2",
+                "opening_hours": "Mo-Su 04:30-23:45",
                 "operator": "Urząd Miasta Krakowa - Biuro ds. Zdrowia"
             }
         },
@@ -32582,18 +32584,18 @@
             "id": 9486285507,
             "lat": 50.0682967,
             "lon": 19.9473841,
-            "timestamp": "2022-02-22T02:47:35Z",
-            "version": 2,
-            "changeset": 117707207,
-            "user": "FundacjaAED",
-            "uid": 14770831,
+            "timestamp": "2022-07-22T19:14:06Z",
+            "version": 3,
+            "changeset": 123952948,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na filarze przy globusie, brak dostępu w godz. 22:00-6:00",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "-1",
-                "opening_hours": "24/7"
+                "opening_hours": "Mo-Su 06:00-22:00"
             }
         },
         {
@@ -41437,16 +41439,17 @@
             "id": 9525940717,
             "lat": 50.0685739,
             "lon": 19.9476714,
-            "timestamp": "2022-02-22T02:43:02Z",
-            "version": 1,
-            "changeset": 117707154,
-            "user": "FundacjaAED",
-            "uid": 14770831,
+            "timestamp": "2022-07-22T19:14:06Z",
+            "version": 2,
+            "changeset": 123952948,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Punkt informacji na hali dworca. Pon.-Niedz. 7:00-21:00",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 07:00-21:00"
             }
         },
         {
