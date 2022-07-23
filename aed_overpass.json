@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-23T17:31:54Z",
+        "timestamp_osm_base": "2022-07-23T18:31:51Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67637,6 +67637,39 @@
                 "defibrillator:location": "Na ścianie wypożyczalni sprzętu wodnego.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9906274389,
+            "lat": 51.3937078,
+            "lon": 16.2058604,
+            "timestamp": "2022-07-23T17:41:01Z",
+            "version": 1,
+            "changeset": 123984969,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "defibrillator:location": "na poziomie 0, na słupie koło windy, naprzeciwko wejścia do marketu Lidl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9906294926,
+            "lat": 52.2347197,
+            "lon": 20.9675297,
+            "timestamp": "2022-07-23T18:22:48Z",
+            "version": 1,
+            "changeset": 123986143,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
