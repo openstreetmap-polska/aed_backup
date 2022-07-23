@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-23T16:31:53Z",
+        "timestamp_osm_base": "2022-07-23T17:31:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67620,6 +67620,23 @@
                 "defibrillator:location": "Sala operatorska Centrum Powiadamiania Ratunkowego",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9906258917,
+            "lat": 50.6784618,
+            "lon": 16.5939528,
+            "timestamp": "2022-07-23T17:13:02Z",
+            "version": 1,
+            "changeset": 123984173,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie wypożyczalni sprzętu wodnego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
