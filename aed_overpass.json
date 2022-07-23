@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-23T12:31:59Z",
+        "timestamp_osm_base": "2022-07-23T13:32:04Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67604,6 +67604,22 @@
                 "defibrillator:location": "Szpital Specjalistyczny w Jaśle",
                 "defibrillator:location:en": "Szpital Specjalistyczny w Jaśle",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9905844517,
+            "lat": 51.0818692,
+            "lon": 17.0363508,
+            "timestamp": "2022-07-23T12:54:10Z",
+            "version": 1,
+            "changeset": 123974824,
+            "user": "zalef",
+            "uid": 1810440,
+            "tags": {
+                "defibrillator:location": "Sala operatorska Centrum Powiadamiania Ratunkowego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
