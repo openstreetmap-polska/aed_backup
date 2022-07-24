@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-24T20:31:59Z",
+        "timestamp_osm_base": "2022-07-24T21:32:02Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15034,18 +15034,18 @@
             "id": 9426491356,
             "lat": 53.3333574,
             "lon": 15.0375429,
-            "timestamp": "2022-01-17T19:48:19Z",
-            "version": 1,
-            "changeset": 116269246,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2022-07-24T20:51:59Z",
+            "version": 2,
+            "changeset": 124024276,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "defibrillator:location": "na wyposażeniu wozu bojowego Państwowej Straży Pożarnej",
                 "emergency": "defibrillator",
                 "mobile": "yes",
                 "opening_hours": "24/7",
                 "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w Stargardzie",
-                "phone": "911"
+                "phone": "112"
             }
         },
         {
