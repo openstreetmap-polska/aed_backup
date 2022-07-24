@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-24T16:30:55Z",
+        "timestamp_osm_base": "2022-07-24T17:30:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67744,6 +67744,41 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48632784259"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9907852201,
+            "lat": 50.0521931,
+            "lon": 19.8506923,
+            "timestamp": "2022-07-24T16:57:22Z",
+            "version": 1,
+            "changeset": 124017375,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej budynku przy bramkach wejściowych do ZOO",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9907852202,
+            "lat": 50.0551428,
+            "lon": 19.8540319,
+            "timestamp": "2022-07-24T16:57:22Z",
+            "version": 1,
+            "changeset": 124017375,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej budynku przy bramkach wejściowych do ZOO",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         }
     ]
