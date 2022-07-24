@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-23T23:31:55Z",
+        "timestamp_osm_base": "2022-07-24T00:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -45260,6 +45260,27 @@
         },
         {
             "type": "node",
+            "id": 9533436662,
+            "lat": 49.7242277,
+            "lon": 22.8135613,
+            "timestamp": "2022-07-23T23:47:40Z",
+            "version": 5,
+            "changeset": 123993156,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
+                "phone": "+48 600 949 409",
+                "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251"
+            }
+        },
+        {
+            "type": "node",
             "id": 9533488341,
             "lat": 50.3351549,
             "lon": 23.5225006,
@@ -67708,65 +67729,22 @@
             }
         },
         {
-            "type": "way",
-            "id": 370886576,
-            "timestamp": "2022-03-15T09:44:48Z",
-            "version": 8,
-            "changeset": 118503273,
-            "user": "Władysław Komorek",
-            "uid": 693154,
-            "nodes": [
-                4034704542,
-                9533436662,
-                4034704539,
-                4034704543,
-                4034704542
-            ],
+            "type": "node",
+            "id": 9906745717,
+            "lat": 52.0173901,
+            "lon": 18.51091,
+            "timestamp": "2022-07-24T00:07:27Z",
+            "version": 1,
+            "changeset": 123993420,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
-                "access": "private",
-                "addr:housenumber": "34",
-                "addr:place": "Hermanowice",
-                "addr:postcode": "37-733",
-                "amenity": "fire_station",
-                "building": "yes",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Hermanowice",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "access": "customers",
+                "defibrillator:location": "Na terenie pływalni krytej, w sąsiedztwie kas.",
                 "emergency": "defibrillator",
-                "ksrg": "no",
-                "name": "Ochotnicza Straż Pożarna w Hermanowicach",
-                "name:uk": "Добровільна пожежна частина в Германовіцах",
-                "opening_hours": "24/7",
-                "operator": "Ochotnicza Straż Pożarna w Hermanowicach",
-                "phone": "+48 600 949 409",
-                "short_name": "OSP Hermanowice",
-                "source": "https://www.facebook.com/OSPHERMANOWICE/photos/a.105407517884578/105407454551251",
-                "source:addr": "EMUiA (emuia.gugik.gov.pl)",
-                "website": "http://osp.hermanowice.pl/"
+                "indoor": "yes",
+                "phone": "+48632784259"
             }
-        },
-        {
-            "type": "node",
-            "id": 4034704539,
-            "lat": 49.7241873,
-            "lon": 22.8136928
-        },
-        {
-            "type": "node",
-            "id": 4034704542,
-            "lat": 49.7242738,
-            "lon": 22.813449
-        },
-        {
-            "type": "node",
-            "id": 4034704543,
-            "lat": 49.7243186,
-            "lon": 22.8136005
-        },
-        {
-            "type": "node",
-            "id": 9533436662,
-            "lat": 49.7241425,
-            "lon": 22.8135413
         }
     ]
 }
