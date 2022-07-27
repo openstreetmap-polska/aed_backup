@@ -1,14 +1,14 @@
-# AED backup and stats (2022-07-25 14:33:05)
+# AED backup and stats (2022-07-27 09:33:04)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3705
+Total AED: 3706
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 367\
-Average daily growth since beginning of the year: 18.76
+Average daily growth since beginning of the year: 18.66
 
 ## Top creators
 | # | User | Created |
@@ -26,12 +26,12 @@ Average daily growth since beginning of the year: 18.76
 | 11 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
 | 12 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 40 |
 | 13 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 37 |
-| 14 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 15 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
+| 14 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
+| 15 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 16 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 32 |
 | 17 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
-| 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
-| 19 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
+| 18 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
+| 19 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
 | 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
 | 21 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 | 22 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
