@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-27T14:31:08Z",
+        "timestamp_osm_base": "2022-07-27T15:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24470,13 +24470,13 @@
         {
             "type": "node",
             "id": 9450880924,
-            "lat": 52.2379177,
-            "lon": 20.9592407,
-            "timestamp": "2022-01-26T18:43:53Z",
-            "version": 1,
-            "changeset": 116634219,
-            "user": "syntex",
-            "uid": 6668641,
+            "lat": 52.2376295,
+            "lon": 20.9608079,
+            "timestamp": "2022-07-27T14:33:36Z",
+            "version": 2,
+            "changeset": 124144626,
+            "user": "Anas masuris",
+            "uid": 16260494,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Młynów",
