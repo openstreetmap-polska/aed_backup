@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-28T12:31:53Z",
+        "timestamp_osm_base": "2022-07-28T13:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67813,6 +67813,74 @@
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917046318,
+            "lat": 50.2457266,
+            "lon": 21.7700817,
+            "timestamp": "2022-07-28T12:54:37Z",
+            "version": 1,
+            "changeset": 124185894,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Obok Punktu Obsługi Klienta w budynku Krytej Pływalni Fregata",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 17 744 48 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917058117,
+            "lat": 50.2419881,
+            "lon": 21.769729,
+            "timestamp": "2022-07-28T12:57:32Z",
+            "version": 1,
+            "changeset": 124186006,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze budynku Urzędu Miejskiego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 17 227 13 33"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917083317,
+            "lat": 50.239387,
+            "lon": 21.7722081,
+            "timestamp": "2022-07-28T13:11:48Z",
+            "version": 1,
+            "changeset": 124186564,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "emergency": "defibrillator",
+                "phone": "+48 17 227 47 85"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917097617,
+            "lat": 50.2256036,
+            "lon": 21.6390012,
+            "timestamp": "2022-07-28T13:23:53Z",
+            "version": 2,
+            "changeset": 124187047,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu, obok bankomatu",
+                "emergency": "defibrillator",
                 "indoor": "no"
             }
         }
