@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-28T17:31:10Z",
+        "timestamp_osm_base": "2022-07-28T18:31:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67898,6 +67898,42 @@
                 "access": "customers",
                 "defibrillator:location": "w korytarzu Instytutu Informatyki UMCS",
                 "defibrillator:location:en": "in the coridor of IT institute UMCS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917590917,
+            "lat": 54.5947059,
+            "lon": 18.3660913,
+            "timestamp": "2022-07-28T18:07:26Z",
+            "version": 1,
+            "changeset": 124197926,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hala Aquaparku na ścianie pomiędzy wejściem do pryszniców a atrakcją Pirate Bay (po wyjściu z pryszniców należy kierować się w prawą stronę).",
+                "defibrillator:location:en": "Aquapark hall on the wall between the entrance to the showers and the Pirate Bay attraction (after leaving the showers, go right).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917610517,
+            "lat": 49.5218869,
+            "lon": 22.4110645,
+            "timestamp": "2022-07-28T18:24:41Z",
+            "version": 1,
+            "changeset": 124198502,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Naprzeciw recepcji, obok windy.",
+                "defibrillator:location:en": "In front od reception desk, next to elevator.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
