@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-28T15:32:09Z",
+        "timestamp_osm_base": "2022-07-28T16:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67882,6 +67882,24 @@
                 "defibrillator:location": "Na ścianie przy wejściu, obok bankomatu",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9917406117,
+            "lat": 51.2454183,
+            "lon": 22.5429014,
+            "timestamp": "2022-07-28T15:56:19Z",
+            "version": 1,
+            "changeset": 124193289,
+            "user": "charl3s",
+            "uid": 8019013,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w korytarzu Instytutu Informatyki UMCS",
+                "defibrillator:location:en": "in the coridor of IT institute UMCS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
