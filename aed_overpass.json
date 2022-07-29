@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-29T19:32:08Z",
+        "timestamp_osm_base": "2022-07-29T20:32:20Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67938,6 +67938,38 @@
                 "access": "yes",
                 "defibrillator:location": "Naprzeciw recepcji, obok windy.",
                 "defibrillator:location:en": "Opposite reception, next to the elevator.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9919885842,
+            "lat": 52.1835595,
+            "lon": 21.0042169,
+            "timestamp": "2022-07-29T19:42:19Z",
+            "version": 2,
+            "changeset": 124245589,
+            "user": "Wesołowski Marcin",
+            "uid": 8504354,
+            "tags": {
+                "defibrillator:location": "w remizie strażackiej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9919885843,
+            "lat": 52.1835597,
+            "lon": 21.0042874,
+            "timestamp": "2022-07-29T19:42:19Z",
+            "version": 2,
+            "changeset": 124245589,
+            "user": "Wesołowski Marcin",
+            "uid": 8504354,
+            "tags": {
+                "defibrillator:location": "w remizie strażackiej",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
