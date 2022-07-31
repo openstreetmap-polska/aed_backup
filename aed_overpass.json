@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-31T14:32:02Z",
+        "timestamp_osm_base": "2022-07-31T15:32:03Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -19817,11 +19817,11 @@
             "id": 9439394617,
             "lat": 53.7727491,
             "lon": 20.4766613,
-            "timestamp": "2022-02-25T18:17:08Z",
-            "version": 3,
-            "changeset": 117858475,
-            "user": "serdelll",
-            "uid": 485927,
+            "timestamp": "2022-07-31T14:55:50Z",
+            "version": 4,
+            "changeset": 124306762,
+            "user": "garfild1994",
+            "uid": 10582146,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Obok wejścia głównego",
@@ -19829,6 +19829,7 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "location": "outdoor",
+                "opening_hours": "24/7",
                 "operator": "Komenda Miejska Państwowej Straży Pożarnej"
             }
         },
@@ -45558,15 +45559,17 @@
             "id": 9535345717,
             "lat": 53.781539,
             "lon": 20.4831682,
-            "timestamp": "2022-02-25T18:21:11Z",
-            "version": 1,
-            "changeset": 117858490,
-            "user": "serdelll",
-            "uid": 485927,
+            "timestamp": "2022-07-31T14:54:07Z",
+            "version": 2,
+            "changeset": 124306692,
+            "user": "garfild1994",
+            "uid": 10582146,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:00",
+                "operator": "Warmińsko - Mazurski Oddział Okręgowy PCK w Olsztynie"
             }
         },
         {
