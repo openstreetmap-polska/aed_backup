@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-07-31T21:31:51Z",
+        "timestamp_osm_base": "2022-07-31T22:31:47Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67992,6 +67992,120 @@
                 "defibrillator:location": "Na piętrze, na lewo od schodów",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302467,
+            "lat": 51.4193244,
+            "lon": 21.9710805,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "po prawej stronie od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302468,
+            "lat": 51.4459378,
+            "lon": 21.9742328,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "po lewej stronie od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302469,
+            "lat": 51.414263,
+            "lon": 21.9995495,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "po prawej stronie od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302470,
+            "lat": 51.4177908,
+            "lon": 21.9721647,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "po lewej stronie od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302471,
+            "lat": 51.4187237,
+            "lon": 21.9547894,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "na wprost od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302472,
+            "lat": 51.4166799,
+            "lon": 21.9726114,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "po lewej stronie od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9923302473,
+            "lat": 51.4152122,
+            "lon": 21.963788,
+            "timestamp": "2022-07-31T21:41:57Z",
+            "version": 1,
+            "changeset": 124319606,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "po lewej stronie wejścia do Centrum Informacji Turystycznej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         }
     ]
