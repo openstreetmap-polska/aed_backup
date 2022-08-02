@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-02T19:31:24Z",
+        "timestamp_osm_base": "2022-08-02T20:32:22Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47529,16 +47529,18 @@
             "id": 9556969159,
             "lat": 49.646037,
             "lon": 22.0404948,
-            "timestamp": "2022-03-06T00:13:28Z",
-            "version": 1,
-            "changeset": 118144214,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-08-02T20:22:35Z",
+            "version": 2,
+            "changeset": 124408452,
+            "user": "ad08r",
+            "uid": 2272450,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Górki (W przypadku zagrożenia życia uruchomić syrenę alarmową przyciskiem przy wejściu)",
+                "access": "permit",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy Iveco OSP Górki (W przypadku zagrożenia życia uruchomić syrenę alarmową przyciskiem przy wejściu)",
                 "defibrillator:location:en": "Rescue and firefighting car (In case of emergency, press the alarm button next to the entrance)",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Górkach",
                 "source": "https://www.facebook.com/umbrzozow/posts/3089939097921586"
             }
