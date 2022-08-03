@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-03T12:31:24Z",
+        "timestamp_osm_base": "2022-08-03T13:31:23Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50012,15 +50012,14 @@
             "id": 9570724443,
             "lat": 51.6616234,
             "lon": 16.0789132,
-            "timestamp": "2022-03-11T12:06:46Z",
-            "version": 1,
-            "changeset": 118361602,
+            "timestamp": "2022-08-03T12:48:54Z",
+            "version": 2,
+            "changeset": 124435732,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "access": "yes",
-                "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "emergency": "defibrillator"
             }
         },
         {
@@ -50028,15 +50027,14 @@
             "id": 9570725477,
             "lat": 51.6632232,
             "lon": 16.0796869,
-            "timestamp": "2022-03-11T12:13:33Z",
-            "version": 1,
-            "changeset": 118361830,
+            "timestamp": "2022-08-03T12:48:54Z",
+            "version": 2,
+            "changeset": 124435732,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "Biblioteka Publiczna Miejska",
                 "phone": "+48767265622"
             }
@@ -50046,14 +50044,13 @@
             "id": 9570735556,
             "lat": 52.4375122,
             "lon": 20.6886781,
-            "timestamp": "2022-03-11T12:19:17Z",
-            "version": 1,
-            "changeset": 118362022,
+            "timestamp": "2022-08-03T12:48:54Z",
+            "version": 2,
+            "changeset": 124435732,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "Ochotnicza Straż Pożarna w Nowym Dworze Mazowieckim - Ratownictwo Wodne"
             }
         },
@@ -50062,16 +50059,15 @@
             "id": 9570744565,
             "lat": 50.2670068,
             "lon": 19.0093553,
-            "timestamp": "2022-03-11T12:16:39Z",
-            "version": 1,
-            "changeset": 118361929,
+            "timestamp": "2022-08-03T12:48:54Z",
+            "version": 2,
+            "changeset": 124435732,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "Face2Face Business Campus"
             }
         },
@@ -50080,15 +50076,14 @@
             "id": 9570746479,
             "lat": 49.941293,
             "lon": 18.6025387,
-            "timestamp": "2022-03-11T12:23:18Z",
-            "version": 1,
-            "changeset": 118362150,
+            "timestamp": "2022-08-03T12:48:54Z",
+            "version": 2,
+            "changeset": 124435732,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "Jastrzębski Zakład Wodociągów i Kanalizacji S.A."
             }
         },
@@ -50112,15 +50107,14 @@
             "id": 9570772819,
             "lat": 54.1793883,
             "lon": 19.391008,
-            "timestamp": "2022-03-11T12:29:41Z",
-            "version": 1,
-            "changeset": 118362420,
+            "timestamp": "2022-08-03T12:59:00Z",
+            "version": 2,
+            "changeset": 124436157,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "defibrillator:location": "Defibrylator AED na na bramie browaru.",
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "Grupa Żywiec S.A. Browar w Elblągu",
                 "phone": "+48552390000"
             }
@@ -50472,14 +50466,13 @@
             "id": 9570937559,
             "lat": 50.4641484,
             "lon": 19.0711069,
-            "timestamp": "2022-03-11T14:00:10Z",
-            "version": 1,
-            "changeset": 118365414,
+            "timestamp": "2022-08-03T12:59:00Z",
+            "version": 2,
+            "changeset": 124436157,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "OSP Pyrzowice"
             }
         },
@@ -50537,14 +50530,13 @@
             "id": 9570955578,
             "lat": 50.0613696,
             "lon": 21.2484021,
-            "timestamp": "2022-03-11T14:24:43Z",
-            "version": 1,
-            "changeset": 118366250,
+            "timestamp": "2022-08-03T12:59:00Z",
+            "version": 2,
+            "changeset": 124436157,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "OSP Czarna"
             }
         },
@@ -50604,14 +50596,13 @@
             "id": 9570974869,
             "lat": 53.0343883,
             "lon": 16.7488711,
-            "timestamp": "2022-03-11T14:39:47Z",
-            "version": 1,
-            "changeset": 118366754,
+            "timestamp": "2022-08-03T12:59:00Z",
+            "version": 2,
+            "changeset": 124436157,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "OSP Nowa Wieś Ujska"
             }
         },
@@ -50672,14 +50663,13 @@
             "id": 9570996725,
             "lat": 53.0544589,
             "lon": 16.7303149,
-            "timestamp": "2022-03-11T14:41:08Z",
-            "version": 1,
-            "changeset": 118366801,
+            "timestamp": "2022-08-03T12:59:00Z",
+            "version": 2,
+            "changeset": 124436157,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia",
                 "operator": "OSP Ujście"
             }
         },
