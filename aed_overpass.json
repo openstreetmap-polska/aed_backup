@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-03T11:31:38Z",
+        "timestamp_osm_base": "2022-08-03T12:31:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49547,15 +49547,14 @@
             "id": 9570381073,
             "lat": 52.405458,
             "lon": 16.7410506,
-            "timestamp": "2022-03-11T09:11:02Z",
-            "version": 1,
-            "changeset": 118354141,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "indoor": "yes"
             }
         },
         {
@@ -49579,15 +49578,14 @@
             "id": 9570412413,
             "lat": 50.264759,
             "lon": 19.0259081,
-            "timestamp": "2022-03-11T09:31:00Z",
-            "version": 1,
-            "changeset": 118354869,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "indoor": "yes"
             }
         },
         {
@@ -49689,16 +49687,15 @@
             "id": 9570557283,
             "lat": 52.4481672,
             "lon": 16.7328786,
-            "timestamp": "2022-03-11T11:03:43Z",
-            "version": 1,
-            "changeset": 118358793,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "defibrillator:location": "Defibrylator AED wewnątrz firmy.",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "indoor": "yes"
             }
         },
         {
@@ -49759,16 +49756,15 @@
             "id": 9570627799,
             "lat": 54.5294132,
             "lon": 18.5208271,
-            "timestamp": "2022-03-11T11:28:08Z",
-            "version": 1,
-            "changeset": 118359941,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
                 "defibrillator:location": "Defibrylator AED wewnątrz budynku- przy wejściu, po prawej stronie.",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "indoor": "yes"
             }
         },
         {
@@ -49793,14 +49789,13 @@
             "id": 9570632022,
             "lat": 50.053504,
             "lon": 20.003459,
-            "timestamp": "2022-03-11T11:23:21Z",
-            "version": 1,
-            "changeset": 118359679,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
-                "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "emergency": "defibrillator"
             }
         },
         {
@@ -49844,29 +49839,13 @@
             "id": 9570674315,
             "lat": 54.6029175,
             "lon": 18.2408296,
-            "timestamp": "2022-03-11T11:42:02Z",
-            "version": 1,
-            "changeset": 118360570,
+            "timestamp": "2022-08-03T12:25:08Z",
+            "version": 2,
+            "changeset": 124434689,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
-                "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9570680748,
-            "lat": 53.7826758,
-            "lon": 20.48694,
-            "timestamp": "2022-03-11T11:45:37Z",
-            "version": 1,
-            "changeset": 118360723,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "emergency": "defibrillator",
-                "note": "istnienie urządzenia do potwierdzenia"
+                "emergency": "defibrillator"
             }
         },
         {
@@ -68108,6 +68087,24 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9929403064,
+            "lat": 50.2894671,
+            "lon": 18.8757274,
+            "timestamp": "2022-08-03T11:39:42Z",
+            "version": 1,
+            "changeset": 124432778,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się w środku budynku przy bankomatach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "ING Bank Śląski"
             }
         }
     ]
