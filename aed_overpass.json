@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-03T18:31:10Z",
+        "timestamp_osm_base": "2022-08-03T19:32:10Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68109,6 +68109,24 @@
             "uid": 14559635,
             "tags": {
                 "defibrillator:location": "Wejście do zakrystii kościoła.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9930139517,
+            "lat": 51.0345096,
+            "lon": 16.7686454,
+            "timestamp": "2022-08-03T18:39:28Z",
+            "version": 1,
+            "changeset": 124448835,
+            "user": "s_limak",
+            "uid": 590721,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hala Widowiskowo-Sportowa",
+                "defibrillator:location:en": "Sport and entertainment hall",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
