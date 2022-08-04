@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-04T09:31:58Z",
+        "timestamp_osm_base": "2022-08-04T10:32:08Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68127,6 +68127,23 @@
                 "access": "customers",
                 "defibrillator:location": "Hala Widowiskowo-Sportowa",
                 "defibrillator:location:en": "Sport and entertainment hall",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9931440417,
+            "lat": 52.1691414,
+            "lon": 20.8595429,
+            "timestamp": "2022-08-04T09:54:04Z",
+            "version": 1,
+            "changeset": 124472053,
+            "user": "Zespół Szkolno Przedszkolny imienia Mikołaja Kopernika w Nowej Wsi Warszawskiej",
+            "uid": 16730129,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "hala sportowa",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
