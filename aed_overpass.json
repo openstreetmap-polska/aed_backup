@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-04T20:31:24Z",
+        "timestamp_osm_base": "2022-08-04T21:32:22Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -46455,19 +46455,19 @@
             "id": 9536965128,
             "lat": 52.1616539,
             "lon": 20.7840959,
-            "timestamp": "2022-02-26T12:18:06Z",
-            "version": 1,
-            "changeset": 117877218,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-08-04T21:25:18Z",
+            "version": 2,
+            "changeset": 124498100,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu głównym Międzyszkolnego Ośrodka Sportowego, na ścianie po lewej stronie od wejścia",
                 "defibrillator:location:en": "In the main hall of the Interschool Sports Centre on the wall to the left of the entrance",
                 "emergency": "defibrillator",
-                "opening_hours": "6,30-22,30",
-                "operator": "MOS Prószków",
-                "phone": "22 758 22 91"
+                "opening_hours": "6:30-22:30",
+                "operator": "MOS Pruszków",
+                "phone": "+48 22 758 22 91"
             }
         },
         {
