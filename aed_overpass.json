@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-04T11:32:09Z",
+        "timestamp_osm_base": "2022-08-04T12:31:23Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68144,6 +68144,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "hala sportowa",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9931692218,
+            "lat": 52.1428956,
+            "lon": 20.7966365,
+            "timestamp": "2022-08-04T12:14:31Z",
+            "version": 1,
+            "changeset": 124478410,
+            "user": "Zespół Szkolno Przedszkolny imienia Mikołaja Kopernika w Nowej Wsi Warszawskiej",
+            "uid": 16730129,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Zespół Szkolno-Przedszkolny im. Mikołaja Kopernika ul. Główna 96",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
