@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-04T06:31:24Z",
+        "timestamp_osm_base": "2022-08-04T07:31:38Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10200,16 +10200,16 @@
         {
             "type": "node",
             "id": 9402009607,
-            "lat": 50.124843,
-            "lon": 19.427969,
-            "timestamp": "2022-01-08T10:56:55Z",
-            "version": 2,
-            "changeset": 115904709,
+            "lat": 50.12583,
+            "lon": 19.4271965,
+            "timestamp": "2022-08-04T07:20:04Z",
+            "version": 3,
+            "changeset": 124465644,
             "user": "Adam_Piszczek",
             "uid": 2027953,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na terenie zakładu hala produkcyjna",
+                "defibrillator:location": "Na terenie zakładu hala produkcyjna,przejście pomiędzy nową halą a starą halą",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
