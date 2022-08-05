@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-05T06:31:22Z",
+        "timestamp_osm_base": "2022-08-05T07:34:52Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -522,11 +522,11 @@
             "id": 2972658169,
             "lat": 53.6651519,
             "lon": 17.3608343,
-            "timestamp": "2020-01-21T15:51:53Z",
-            "version": 3,
-            "changeset": 79864788,
-            "user": "Damian05",
-            "uid": 2574483,
+            "timestamp": "2022-08-05T07:29:03Z",
+            "version": 4,
+            "changeset": 124508954,
+            "user": "Damian96",
+            "uid": 4382212,
             "tags": {
                 "addr:city": "Człuchów",
                 "addr:postcode": "77-300",
