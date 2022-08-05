@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-05T11:32:58Z",
+        "timestamp_osm_base": "2022-08-05T12:31:25Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68346,6 +68346,180 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Biała"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933662143,
+            "lat": 54.4583787,
+            "lon": 18.4594592,
+            "timestamp": "2022-08-05T11:45:59Z",
+            "version": 1,
+            "changeset": 124519546,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Teknos Sp. z o.o.",
+                "emergency": "defibrillator",
+                "operator": "Teknos Sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933662144,
+            "lat": 53.4324604,
+            "lon": 14.5377761,
+            "timestamp": "2022-08-05T11:45:59Z",
+            "version": 1,
+            "changeset": 124519546,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku ZUT.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Regionalne Centrum Innowacji i Transferu Technologii - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933662145,
+            "lat": 53.6448916,
+            "lon": 23.1923767,
+            "timestamp": "2022-08-05T11:45:59Z",
+            "version": 1,
+            "changeset": 124519546,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje sie na elewacji budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933678600,
+            "lat": 51.2466838,
+            "lon": 22.5493133,
+            "timestamp": "2022-08-05T12:02:33Z",
+            "version": 1,
+            "changeset": 124520198,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się przy Kancelarii Ogólnej Urzędu Marszałkowskiego Województwa Lubuskiego",
+                "emergency": "defibrillator",
+                "operator": "Urząd Marszałkowski Województwa Lubelskiego w Lublinie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933678601,
+            "lat": 50.2916165,
+            "lon": 18.6745544,
+            "timestamp": "2022-08-05T12:02:33Z",
+            "version": 1,
+            "changeset": 124520198,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się w Rektoracie Politechniki Śląskiej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Rektorat Politechniki Śląskiej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933679576,
+            "lat": 50.4151328,
+            "lon": 19.3277508,
+            "timestamp": "2022-08-05T12:23:07Z",
+            "version": 1,
+            "changeset": 124521165,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w remizie OSP Chruszczobród",
+                "emergency": "defibrillator",
+                "operator": "OSP Chruszczobród"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933706184,
+            "lat": 51.2058339,
+            "lon": 16.1938747,
+            "timestamp": "2022-08-05T12:17:19Z",
+            "version": 1,
+            "changeset": 124520840,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz gabinetu lekarza ortopedy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zakład Rehabilitacji Leczniczej REH-MED"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933706185,
+            "lat": 51.2082693,
+            "lon": 16.1585902,
+            "timestamp": "2022-08-05T12:17:19Z",
+            "version": 1,
+            "changeset": 124520840,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz wydziału spraw obywatelskich - wejście przez dziedziniec",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Miasta Legnica. Wydział Spraw Obywatelskich"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933706186,
+            "lat": 50.8362246,
+            "lon": 17.3163159,
+            "timestamp": "2022-08-05T12:17:19Z",
+            "version": 1,
+            "changeset": 124520840,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na elewacji budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Owczary"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933728417,
+            "lat": 50.8505034,
+            "lon": 15.5888323,
+            "timestamp": "2022-08-05T12:23:16Z",
+            "version": 1,
+            "changeset": 124521176,
+            "user": "Sandra Huta",
+            "uid": 16750952,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie między sklepem a kawiarnią",
+                "defibrillator:location:en": "On the wall between factory shop and cafe",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
