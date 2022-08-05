@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-05T10:31:35Z",
+        "timestamp_osm_base": "2022-08-05T11:32:58Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68147,6 +68147,205 @@
                 "defibrillator:location": "W recepcji/informacji przy schodach",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933576074,
+            "lat": 52.1348348,
+            "lon": 20.8002202,
+            "timestamp": "2022-08-05T11:07:46Z",
+            "version": 1,
+            "changeset": 124517825,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu na halę sportową obok szatni",
+                "defibrillator:location:en": "At the entrance to the sports hall next to the locker room",
+                "description": "iPad – Intelligent Public Acccess Defibrillator, CU Medical Systems",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933576497,
+            "lat": 50.4682184,
+            "lon": 19.0480325,
+            "timestamp": "2022-08-05T11:00:33Z",
+            "version": 1,
+            "changeset": 124517568,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Dostępny defibrylator AED w jednostce OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ożarowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933576498,
+            "lat": 49.5042949,
+            "lon": 22.155691,
+            "timestamp": "2022-08-05T11:00:33Z",
+            "version": 1,
+            "changeset": 124517568,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED w remizie OSP.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Niebieszczany"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933576499,
+            "lat": 51.7976724,
+            "lon": 19.4212584,
+            "timestamp": "2022-08-05T11:00:33Z",
+            "version": 1,
+            "changeset": 124517568,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie elektrociepłowni EC3.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Elektrociepłownia EC3"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933576500,
+            "lat": 51.217821,
+            "lon": 18.5475588,
+            "timestamp": "2022-08-05T11:00:33Z",
+            "version": 1,
+            "changeset": 124517568,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na parterze w hali magazynowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00",
+                "operator": "Europart Polska S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610181,
+            "lat": 54.0313796,
+            "lon": 22.2991263,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na elewacji budynku stacji paliw.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610182,
+            "lat": 51.226546,
+            "lon": 17.2062108,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz stacji paliw Orlen.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Orlen"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610183,
+            "lat": 52.3201794,
+            "lon": 16.9509182,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED marki Philips FRx znajduje się na wyposażeniu OSP Poznań Głuszyna",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Poznań-Głuszyna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610184,
+            "lat": 51.2547148,
+            "lon": 18.6376794,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Masłowice.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Masłowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610185,
+            "lat": 54.0778727,
+            "lon": 21.3807245,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Powiatowego Urzedu Pracy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Powiatowy Urząd Pracy w Olsztynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9933610186,
+            "lat": 50.380985,
+            "lon": 17.6571614,
+            "timestamp": "2022-08-05T11:32:38Z",
+            "version": 1,
+            "changeset": 124518889,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED w remizie OSP.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Biała"
             }
         }
     ]
