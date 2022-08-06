@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-06T09:32:09Z",
+        "timestamp_osm_base": "2022-08-06T10:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68649,6 +68649,26 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Stare Bukowno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9935234391,
+            "lat": 51.3045019,
+            "lon": 16.9120462,
+            "timestamp": "2022-08-06T09:39:09Z",
+            "version": 1,
+            "changeset": 124553966,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku kasy biletowej Basenu Miejskiego",
+                "defibrillator:location:en": "In the building of ticket office of Municipal Swimming Pooll",
+                "emergency": "defibrillator",
+                "location": "indoor",
+                "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
+                "phone": "+48 71 310 12 70"
             }
         }
     ]
