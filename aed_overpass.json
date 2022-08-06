@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-06T11:34:12Z",
+        "timestamp_osm_base": "2022-08-06T12:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1936,6 +1936,22 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6594890931,
+            "lat": 50.0407925,
+            "lon": 19.5873211,
+            "timestamp": "2022-08-06T11:48:50Z",
+            "version": 2,
+            "changeset": 124558748,
+            "user": "VA00",
+            "uid": 1745828,
+            "tags": {
+                "defibrillator:location": "Na ścianie OSP, od frontu",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
