@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-07T13:31:54Z",
+        "timestamp_osm_base": "2022-08-07T14:31:52Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -32458,17 +32458,17 @@
             "id": 9483804525,
             "lat": 52.9598132,
             "lon": 15.1206143,
-            "timestamp": "2022-02-06T16:27:11Z",
-            "version": 1,
-            "changeset": 117085753,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2022-08-07T14:07:58Z",
+            "version": 2,
+            "changeset": 124599007,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Rychnów",
+                "operator": "Ochotnicza Straż Pożarna w Rychnowie",
                 "phone": "+48 95 746 55 46"
             }
         },
