@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-09T11:31:24Z",
+        "timestamp_osm_base": "2022-08-09T12:32:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -47942,7 +47942,7 @@
             "timestamp": "2022-03-09T08:37:32Z",
             "version": 3,
             "changeset": 118268173,
-            "user": "matiziol",
+            "user": "ameziol",
             "uid": 13791333,
             "tags": {
                 "access": "customers",
@@ -68720,6 +68720,23 @@
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się na zachodniej ścianie kościoła, przy prawym wejściu na chór.",
                 "defibrillator:location:en": "The AED defibrillator is located on the west wall of the church, near the right entrance to the choir.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9942448617,
+            "lat": 54.8162936,
+            "lon": 17.958297,
+            "timestamp": "2022-08-09T12:07:31Z",
+            "version": 1,
+            "changeset": 124682852,
+            "user": "steelman",
+            "uid": 9502,
+            "tags": {
+                "defibrillator:location": "left of garage door",
+                "defidefibrillator:location:pl": "na lewo od bramy garażowej",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
