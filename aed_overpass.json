@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-10T10:31:49Z",
+        "timestamp_osm_base": "2022-08-10T11:31:15Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68729,16 +68729,18 @@
             "id": 9942448617,
             "lat": 54.8162936,
             "lon": 17.958297,
-            "timestamp": "2022-08-09T12:07:31Z",
-            "version": 1,
-            "changeset": 124682852,
+            "timestamp": "2022-08-10T10:42:23Z",
+            "version": 2,
+            "changeset": 124724450,
             "user": "steelman",
             "uid": 9502,
             "tags": {
                 "defibrillator:location": "left of garage door",
                 "defidefibrillator:location:pl": "na lewo od bramy garażowej",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         },
         {
