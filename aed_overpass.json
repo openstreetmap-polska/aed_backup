@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-13T05:31:54Z",
+        "timestamp_osm_base": "2022-08-13T06:31:50Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68798,6 +68798,24 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9950494917,
+            "lat": 49.3981121,
+            "lon": 22.4486116,
+            "timestamp": "2022-08-13T05:39:41Z",
+            "version": 1,
+            "changeset": 124840591,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy drzwiach wejściowych na peron kolejki",
+                "defibrillator:location:en": "On the wall near platform entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
