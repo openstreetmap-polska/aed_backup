@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-16T13:32:09Z",
+        "timestamp_osm_base": "2022-08-16T14:32:01Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -43391,11 +43391,11 @@
             "id": 9530545699,
             "lat": 52.1632356,
             "lon": 20.8019152,
-            "timestamp": "2022-07-20T14:09:43Z",
-            "version": 2,
-            "changeset": 123853328,
-            "user": "Piotr Strębski",
-            "uid": 5060085,
+            "timestamp": "2022-08-16T14:01:49Z",
+            "version": 3,
+            "changeset": 124974337,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urządzenie AED umieszczone jest na parterze budynku w Sali A, za stanowiskiem nr 13. Wejście od ulicy Drzymały 30",
@@ -43404,7 +43404,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo,We 08:00-18:00; Tu,Th 08:00-16:00; Fr 08:00-14:00",
                 "operator": "Starostwo Powiatu Pruszkowskiego - Wydział Obsługi Mieszkańców",
-                "phone": "+48 22 738 14 13"
+                "phone": "+48 22 738 14 13"
             }
         },
         {
