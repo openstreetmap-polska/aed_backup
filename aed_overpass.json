@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-16T07:31:24Z",
+        "timestamp_osm_base": "2022-08-16T08:31:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10867,20 +10867,21 @@
         {
             "type": "node",
             "id": 9411132817,
-            "lat": 50.0357108,
-            "lon": 21.9972391,
-            "timestamp": "2022-08-12T10:10:36Z",
-            "version": 3,
-            "changeset": 124811383,
+            "lat": 50.0356788,
+            "lon": 21.9972309,
+            "timestamp": "2022-08-16T08:13:05Z",
+            "version": 4,
+            "changeset": 124959127,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Wewnątrz wiaty przystankowej",
+                "defibrillator:location": "Pod ławką, wewnątrz wiaty przystankowej",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "location": "outdoor",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         },
         {
