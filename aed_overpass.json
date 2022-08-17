@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-17T10:31:39Z",
+        "timestamp_osm_base": "2022-08-17T11:31:40Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -32940,13 +32940,13 @@
         {
             "type": "node",
             "id": 9487630114,
-            "lat": 53.8578793,
-            "lon": 23.0065177,
-            "timestamp": "2022-02-07T19:04:53Z",
-            "version": 1,
-            "changeset": 117132042,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 53.8579188,
+            "lon": 23.0065331,
+            "timestamp": "2022-08-17T10:43:30Z",
+            "version": 2,
+            "changeset": 125011456,
+            "user": "ygcgjp5",
+            "uid": 3273297,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu na stadion miejski",
@@ -68848,6 +68848,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9958977517,
+            "lat": 50.319566,
+            "lon": 17.5770167,
+            "timestamp": "2022-08-17T10:41:56Z",
+            "version": 2,
+            "changeset": 125011395,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "wikimedia_commons": "File:Prudnik, Zespół Szkół Ogólnokształcących nr 1 defibrylator AED, 2017.08.20.jpg"
             }
         }
     ]

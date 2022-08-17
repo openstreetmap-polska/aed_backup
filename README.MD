@@ -1,14 +1,14 @@
-# AED backup and stats (2022-08-16 18:33:08)
+# AED backup and stats (2022-08-17 11:33:08)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 3765
+Total AED: 3766
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 365\
-Average daily growth since beginning of the year: 17.37
+Average daily growth since beginning of the year: 17.29
 
 ## Top creators
 | # | User | Created |
@@ -23,18 +23,18 @@ Average daily growth since beginning of the year: 17.37
 | 8 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 74 |
 | 10 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 66 |
-| 11 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 41 |
-| 12 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
+| 11 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
+| 12 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 41 |
 | 13 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 37 |
-| 14 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
-| 15 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
+| 14 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
+| 15 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
 | 16 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 33 |
 | 17 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 18 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
 | 19 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
 | 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 22 |
-| 21 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
-| 22 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
+| 21 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
+| 22 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 | 23 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 19 |
 | 24 | [Mateusz Mówka](<https://www.openstreetmap.org/user/Mateusz Mówka>) | 18 |
 | 25 | [lukubuku](<https://www.openstreetmap.org/user/lukubuku>) | 17 |
