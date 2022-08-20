@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-20T21:31:39Z",
+        "timestamp_osm_base": "2022-08-20T22:32:21Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69003,6 +69003,40 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966708626,
+            "lat": 54.0945048,
+            "lon": 15.0775082,
+            "timestamp": "2022-08-20T21:48:02Z",
+            "version": 1,
+            "changeset": 125163716,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966720285,
+            "lat": 54.0828571,
+            "lon": 15.0206251,
+            "timestamp": "2022-08-20T21:45:19Z",
+            "version": 1,
+            "changeset": 125163670,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Jan-Jun,Sep-Dec Mo-Fr 07:30-15:30; Jul-Aug Mo-Fr 07:00-15:00; Sa,Su off; PH off",
+                "phone": "+48 91 384 90 11"
             }
         }
     ]
