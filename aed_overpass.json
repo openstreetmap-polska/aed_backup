@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-20T20:31:39Z",
+        "timestamp_osm_base": "2022-08-20T21:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68937,6 +68937,72 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
                 "phone": "+48 512 339 035; +48 502 279 964"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966617929,
+            "lat": 54.0237677,
+            "lon": 14.7457123,
+            "timestamp": "2022-08-20T20:50:45Z",
+            "version": 1,
+            "changeset": 125162436,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Su 07:00-21:00",
+                "phone": "+48 91 381 33 20"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966633373,
+            "lat": 53.9266496,
+            "lon": 14.4458513,
+            "timestamp": "2022-08-20T20:38:09Z",
+            "version": 1,
+            "changeset": 125162114,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Tu 07:30-15:30; We 07:30-16:30; Th 07:30-15:30; Fr 07:30-14:30; Sa,Su off; PH off",
+                "phone": "+48 91 327 56 38"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966664095,
+            "lat": 54.0017178,
+            "lon": 14.7001966,
+            "timestamp": "2022-08-20T21:12:16Z",
+            "version": 1,
+            "changeset": 125162928,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9966664530,
+            "lat": 54.031657,
+            "lon": 14.8058296,
+            "timestamp": "2022-08-20T21:02:04Z",
+            "version": 1,
+            "changeset": 125162702,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
