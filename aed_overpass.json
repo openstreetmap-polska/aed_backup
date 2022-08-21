@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-21T17:32:05Z",
+        "timestamp_osm_base": "2022-08-21T18:32:18Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69236,6 +69236,60 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:15-15:15; Sa-Su off; PH off",
                 "phone": "+48 94 31 66 202"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968282686,
+            "lat": 54.4007336,
+            "lon": 16.5530866,
+            "timestamp": "2022-08-21T18:05:55Z",
+            "version": 1,
+            "changeset": 125194043,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie znajduje się w pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "The device is located in an rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Stary Jarosław"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968301683,
+            "lat": 54.4222547,
+            "lon": 16.4158695,
+            "timestamp": "2022-08-21T17:42:34Z",
+            "version": 1,
+            "changeset": 125193147,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "phone": "+48 94 314 34 97"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968347486,
+            "lat": 54.3007562,
+            "lon": 16.3603178,
+            "timestamp": "2022-08-21T18:01:14Z",
+            "version": 1,
+            "changeset": 125193851,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie znajduje się w pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "The device is located in an rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Wiekowice"
             }
         }
     ]
