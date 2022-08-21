@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-21T15:32:24Z",
+        "timestamp_osm_base": "2022-08-21T16:32:18Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69037,6 +69037,76 @@
                 "indoor": "yes",
                 "opening_hours": "Jan-Jun,Sep-Dec Mo-Fr 07:30-15:30; Jul-Aug Mo-Fr 07:00-15:00; Sa,Su off; PH off",
                 "phone": "+48 91 384 90 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968067966,
+            "lat": 53.9079045,
+            "lon": 14.2498975,
+            "timestamp": "2022-08-21T15:50:32Z",
+            "version": 1,
+            "changeset": 125189067,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:00-14:00",
+                "phone": "+48 503 457 200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968117726,
+            "lat": 53.8593849,
+            "lon": 14.277197,
+            "timestamp": "2022-08-21T16:07:43Z",
+            "version": 1,
+            "changeset": 125189775,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pomieszczeniach socjalnych cumowników Przeprawy Centrum.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968125750,
+            "lat": 54.0624731,
+            "lon": 15.2659655,
+            "timestamp": "2022-08-21T16:21:57Z",
+            "version": 1,
+            "changeset": 125190371,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "phone": "+48 91 387 29 84"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968140514,
+            "lat": 53.8619749,
+            "lon": 14.2868381,
+            "timestamp": "2022-08-21T16:10:32Z",
+            "version": 1,
+            "changeset": 125189891,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pomieszczeniach socjalnych cumowników Przeprawy Centrum.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
