@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-21T16:32:18Z",
+        "timestamp_osm_base": "2022-08-21T17:32:05Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69107,6 +69107,135 @@
                 "defibrillator:location": "W pomieszczeniach socjalnych cumowników Przeprawy Centrum.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968158166,
+            "lat": 54.1756004,
+            "lon": 15.5650998,
+            "timestamp": "2022-08-21T16:45:01Z",
+            "version": 1,
+            "changeset": 125191238,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hol hali łuczniczej.",
+                "defibrillator:location:en": "Reception hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:30-22:00",
+                "phone": "+48 94 35 51 400",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968184182,
+            "lat": 54.1745797,
+            "lon": 15.5654025,
+            "timestamp": "2022-08-21T16:38:33Z",
+            "version": 1,
+            "changeset": 125190994,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hol hali recepcyjnej.",
+                "defibrillator:location:en": "Reception hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:30-22:00",
+                "phone": "+48 94 35 51 400",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968208570,
+            "lat": 54.1514605,
+            "lon": 15.3948649,
+            "timestamp": "2022-08-21T16:52:06Z",
+            "version": 1,
+            "changeset": 125191533,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968210258,
+            "lat": 54.2152696,
+            "lon": 15.7636813,
+            "timestamp": "2022-08-21T17:00:08Z",
+            "version": 1,
+            "changeset": 125191792,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "phone": "+48 94 35 15 095"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968215055,
+            "lat": 54.2581806,
+            "lon": 16.0525683,
+            "timestamp": "2022-08-21T17:26:57Z",
+            "version": 1,
+            "changeset": 125192654,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 09:00-14:00; PH off",
+                "phone": "+48 94 316 60 48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968215058,
+            "lat": 54.2488829,
+            "lon": 15.9567915,
+            "timestamp": "2022-08-21T17:31:31Z",
+            "version": 1,
+            "changeset": 125192803,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo,Tu,Th,Fr 10:00-17:00",
+                "phone": "+48 94 34 35 021"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9968253399,
+            "lat": 54.2669384,
+            "lon": 16.0831211,
+            "timestamp": "2022-08-21T17:18:53Z",
+            "version": 1,
+            "changeset": 125192384,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:15-15:15; Sa-Su off; PH off",
+                "phone": "+48 94 31 66 202"
             }
         }
     ]
