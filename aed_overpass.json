@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-23T16:31:24Z",
+        "timestamp_osm_base": "2022-08-23T17:31:23Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24264,15 +24264,16 @@
             "id": 9450852257,
             "lat": 52.1320926,
             "lon": 21.0650723,
-            "timestamp": "2022-01-26T18:27:07Z",
-            "version": 1,
-            "changeset": 116633663,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-08-23T17:12:35Z",
+            "version": 2,
+            "changeset": 125281609,
+            "user": "mccartney436",
+            "uid": 6750593,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Kabaty",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
