@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-23T08:31:54Z",
+        "timestamp_osm_base": "2022-08-23T09:31:44Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68911,15 +68911,15 @@
             "id": 9964220817,
             "lat": 51.6392599,
             "lon": 22.4465131,
-            "timestamp": "2022-08-19T15:54:04Z",
-            "version": 1,
-            "changeset": 125114818,
+            "timestamp": "2022-08-23T08:41:49Z",
+            "version": 2,
+            "changeset": 125259532,
             "user": "charl3s",
             "uid": 8019013,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W ośrodku zdrowia",
-                "defibrillator:location:en": "Schowany, pytać personel",
+                "description": "Schowany, pytać personel",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
