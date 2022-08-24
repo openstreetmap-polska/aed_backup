@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-24T21:31:54Z",
+        "timestamp_osm_base": "2022-08-24T22:31:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69344,6 +69344,26 @@
                 "defibrillator:location": "W spedycji ZTM",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9975885617,
+            "lat": 53.3138163,
+            "lon": 20.6737815,
+            "timestamp": "2022-08-24T21:33:22Z",
+            "version": 1,
+            "changeset": 125333886,
+            "user": "Marek Świderski",
+            "uid": 16928085,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wyposażeniu samochodu OSP",
+                "defibrillator:location:en": "In the Firecar",
+                "emergency": "defibrillator",
+                "emergency:phone": "998",
+                "indoor": "yes",
+                "phone": "998"
             }
         }
     ]
