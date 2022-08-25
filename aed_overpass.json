@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-25T11:31:37Z",
+        "timestamp_osm_base": "2022-08-25T12:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15579,11 +15579,11 @@
             "id": 9428235429,
             "lat": 52.16906,
             "lon": 20.8593845,
-            "timestamp": "2022-01-18T14:25:15Z",
-            "version": 2,
-            "changeset": 116301514,
-            "user": "NieWnen",
-            "uid": 3885790,
+            "timestamp": "2022-08-25T12:11:21Z",
+            "version": 3,
+            "changeset": 125358733,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W budynku Urzędu Gminy Michałowice na parterze za stanowiskiem ochrony.",
@@ -15592,7 +15592,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "note:opening_hours": "Odpowiedź z urzędu: \"Pracownicy ochrony dostępni są 24h na dobę, stąd też dostęp do urządzenia jest bezproblemowy\"",
+                "note:opening_hours": "Pracownicy ochrony dostępni są 24h na dobę, stąd też dostęp do urządzenia jest bezproblemowy (Odpowiedź Urzędu)",
                 "opening_hours": "24/7"
             }
         },
