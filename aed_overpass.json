@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-27T08:32:09Z",
+        "timestamp_osm_base": "2022-08-27T09:32:08Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69404,6 +69404,24 @@
                 "defibrillator:location:en": "Reception. On the wall to the left",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9981219521,
+            "lat": 52.3821053,
+            "lon": 18.0446401,
+            "timestamp": "2022-08-27T09:17:41Z",
+            "version": 1,
+            "changeset": 125434999,
+            "user": "Kuba Jóźwiak",
+            "uid": 5620416,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, po lewej stronie schodów",
+                "defibrillator:location:en": "On the wall, on the left side of the stairs",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
