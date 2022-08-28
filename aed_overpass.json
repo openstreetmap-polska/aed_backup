@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-28T12:31:39Z",
+        "timestamp_osm_base": "2022-08-28T13:31:40Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39310,16 +39310,17 @@
             "id": 9514529753,
             "lat": 51.4317693,
             "lon": 21.3256562,
-            "timestamp": "2022-02-21T23:01:48Z",
-            "version": 3,
-            "changeset": 117703970,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-08-28T13:12:51Z",
+            "version": 6,
+            "changeset": 125477258,
+            "user": "Oliver Afro",
+            "uid": 16777674,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie na zewnątrz remizy w specjalnej kapsule, która po odkręceniu uruchamia syrenę alarmową na remizie i alarmuje wszystkich ochotników",
                 "defibrillator:location:en": "On the wall outside the firestation placed in the special capsule, which alarm the firefighters when is turn on",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "OSP Jedlnia-Letnisko",
                 "wheelchair": "yes"
