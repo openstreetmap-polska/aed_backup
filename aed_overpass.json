@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-28T19:32:24Z",
+        "timestamp_osm_base": "2022-08-28T20:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7581,11 +7581,11 @@
         {
             "type": "node",
             "id": 9367990424,
-            "lat": 50.4481548,
-            "lon": 19.5189025,
-            "timestamp": "2022-01-01T15:10:05Z",
-            "version": 2,
-            "changeset": 115639897,
+            "lat": 50.4481512,
+            "lon": 19.5188918,
+            "timestamp": "2022-08-28T20:09:54Z",
+            "version": 3,
+            "changeset": 125493559,
             "user": "Ronczka",
             "uid": 9548812,
             "tags": {
@@ -69424,6 +69424,106 @@
                 "defibrillator:location:en": "On the wall, on the left side of the stairs",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9983990328,
+            "lat": 49.7088028,
+            "lon": 19.0122259,
+            "timestamp": "2022-08-28T20:02:46Z",
+            "version": 1,
+            "changeset": 125493334,
+            "user": "_kj88",
+            "uid": 16761312,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "CSR GOPR Beskidy",
+                "description": "Centralna Stacja Ratunkowa GB GOPR - Szczyrk",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOPR Beskidy",
+                "phone": "985"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9983992085,
+            "lat": 49.5876597,
+            "lon": 19.5174059,
+            "timestamp": "2022-08-28T20:23:27Z",
+            "version": 1,
+            "changeset": 125494041,
+            "user": "_kj88",
+            "uid": 16761312,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dyżurka GOPR Beskidy",
+                "description": "Dyżurka GB GOPR - Markowe Szczawiny",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOPR Beskidy",
+                "phone": "985"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9984004128,
+            "lat": 49.5400126,
+            "lon": 19.3166479,
+            "timestamp": "2022-08-28T20:09:02Z",
+            "version": 1,
+            "changeset": 125493530,
+            "user": "_kj88",
+            "uid": 16761312,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dyżurka GOPR Beskidy",
+                "description": "Dyżurka GB GOPR - Hala Miziowa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOPR Beskidy",
+                "phone": "985"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9984019675,
+            "lat": 49.5962591,
+            "lon": 18.9836713,
+            "timestamp": "2022-08-28T20:17:50Z",
+            "version": 1,
+            "changeset": 125493836,
+            "user": "_kj88",
+            "uid": 16761312,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dyżurka GOPR Beskidy",
+                "description": "Dyżurka GB GOPR - Przysłop",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOPR Beskidy",
+                "phone": "985"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9984037177,
+            "lat": 49.7952946,
+            "lon": 19.4468618,
+            "timestamp": "2022-08-28T20:27:02Z",
+            "version": 1,
+            "changeset": 125494166,
+            "user": "_kj88",
+            "uid": 16761312,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dyżurka GOPR Beskidy",
+                "description": "Dyżurka GB GOPR - Leskowiec",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOPR Beskidy",
+                "phone": "985"
             }
         }
     ]
