@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-29T11:31:38Z",
+        "timestamp_osm_base": "2022-08-29T12:31:29Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -12,21 +12,20 @@
             "id": 477958354,
             "lat": 49.5878956,
             "lon": 19.5168185,
-            "timestamp": "2022-06-06T05:35:41Z",
-            "version": 11,
-            "changeset": 122004424,
-            "user": "kwachu",
-            "uid": 605546,
+            "timestamp": "2022-08-29T12:06:23Z",
+            "version": 12,
+            "changeset": 125520683,
+            "user": "☆Finvenkulo",
+            "uid": 4128818,
             "tags": {
                 "defibrillator:location": "Na ścianie w jadalni",
+                "description": "Schronisko PTTK Markowe Szczawiny",
                 "ele": "1180",
                 "email": "markowe.szczawiny@op.pl",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "name": "Schronisko PTTK Markowe Szczawiny",
                 "operator": "PTTK",
-                "phone": "+48 33 877 51 05",
-                "website": "http://www.markoweszczawiny.pttk.pl/"
+                "phone": "+48 33 877 51 05"
             }
         },
         {
@@ -69452,18 +69451,18 @@
             "id": 9983992085,
             "lat": 49.5876597,
             "lon": 19.5174059,
-            "timestamp": "2022-08-28T20:23:27Z",
-            "version": 1,
-            "changeset": 125494041,
-            "user": "_kj88",
-            "uid": 16761312,
+            "timestamp": "2022-08-29T12:06:23Z",
+            "version": 2,
+            "changeset": 125520683,
+            "user": "☆Finvenkulo",
+            "uid": 4128818,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Dyżurka GOPR Beskidy",
                 "description": "Dyżurka GB GOPR - Markowe Szczawiny",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "GOPR Beskidy",
+                "operator": "Grupa Beskidzka GOPR",
                 "phone": "985"
             }
         },
@@ -69525,6 +69524,23 @@
                 "indoor": "yes",
                 "operator": "GOPR Beskidy",
                 "phone": "985"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9985858917,
+            "lat": 53.4582796,
+            "lon": 19.8423635,
+            "timestamp": "2022-08-29T11:34:32Z",
+            "version": 1,
+            "changeset": 125519288,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie po prawej od bramy remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
