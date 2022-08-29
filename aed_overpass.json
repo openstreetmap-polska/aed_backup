@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-29T09:33:39Z",
+        "timestamp_osm_base": "2022-08-29T10:31:34Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -16292,15 +16292,16 @@
             "id": 9430713619,
             "lat": 50.067534,
             "lon": 19.9114322,
-            "timestamp": "2022-01-19T11:30:07Z",
-            "version": 1,
-            "changeset": 116337709,
-            "user": "lyncz",
-            "uid": 2270608,
+            "timestamp": "2022-08-29T09:52:19Z",
+            "version": 2,
+            "changeset": 125514517,
+            "user": "Zabrolak",
+            "uid": 16953578,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Budynek Akademickiego Centrum Materiałów i Nanotechnologii - Szatnia - D 16",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
