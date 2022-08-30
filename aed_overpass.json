@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-30T18:31:22Z",
+        "timestamp_osm_base": "2022-08-30T19:31:21Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69559,6 +69559,21 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "M-GOKIS Praszka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9989096368,
+            "lat": 50.0625661,
+            "lon": 19.9318175,
+            "timestamp": "2022-08-30T19:03:06Z",
+            "version": 1,
+            "changeset": 125583680,
+            "user": "dziabaducha",
+            "uid": 775276,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
