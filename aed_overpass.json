@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-08-31T12:31:39Z",
+        "timestamp_osm_base": "2022-08-31T13:31:35Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69591,6 +69591,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo 07:30-16:00; Tu-Fr 07:30-15:00; Sa-Su off"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9990625217,
+            "lat": 51.2291798,
+            "lon": 22.6410148,
+            "timestamp": "2022-08-31T13:04:46Z",
+            "version": 1,
+            "changeset": 125611959,
+            "user": "ABM Greiffenberger Polska",
+            "uid": 16992261,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Kierowników Zmian",
+                "defibrillator:location:en": "Shift managers office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
