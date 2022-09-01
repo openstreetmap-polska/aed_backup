@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-01T13:31:39Z",
+        "timestamp_osm_base": "2022-09-01T14:31:46Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69608,6 +69608,42 @@
                 "defibrillator:location": "Biuro Kierowników Zmian",
                 "defibrillator:location:en": "Shift managers office",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9992905617,
+            "lat": 49.621709,
+            "lon": 20.6369882,
+            "timestamp": "2022-09-01T13:59:27Z",
+            "version": 1,
+            "changeset": 125657955,
+            "user": "Marcin198308",
+            "uid": 16999995,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód GBA",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9992906717,
+            "lat": 49.6237622,
+            "lon": 20.6387169,
+            "timestamp": "2022-09-01T14:00:10Z",
+            "version": 1,
+            "changeset": 125657955,
+            "user": "Marcin198308",
+            "uid": 16999995,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu po prawej stronie",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes"
             }
         }
