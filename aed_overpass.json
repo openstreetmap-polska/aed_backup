@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-03T16:31:23Z",
+        "timestamp_osm_base": "2022-09-03T17:32:23Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48333,15 +48333,16 @@
             "id": 9568596317,
             "lat": 49.582539,
             "lon": 20.6721792,
-            "timestamp": "2022-03-10T12:03:19Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-09-03T16:34:11Z",
+            "version": 2,
+            "changeset": 125745421,
+            "user": "Aim311",
+            "uid": 4493657,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ochotnicza Straż Pożarna \"Biegonice\". Dostępny 24h na dobę.",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
