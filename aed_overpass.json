@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-05T13:32:24Z",
+        "timestamp_osm_base": "2022-09-05T14:32:10Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -58074,18 +58074,18 @@
             "id": 9645859943,
             "lat": 51.7949797,
             "lon": 19.5240862,
-            "timestamp": "2022-04-06T14:19:28Z",
-            "version": 1,
-            "changeset": 119390025,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-09-05T13:41:50Z",
+            "version": 2,
+            "changeset": 125816284,
+            "user": "Fan map",
+            "uid": 2092025,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na budynku OSP",
                 "defibrillator:location:en": "On the OSP building",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "OSP Łódź- Sikawa",
+                "operator": "OSP Łódź - Sikawa",
                 "phone": "+48 515 567 460"
             }
         },
