@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-06T09:30:51Z",
+        "timestamp_osm_base": "2022-09-06T10:31:52Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69803,6 +69803,60 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10003929217,
+            "lat": 52.3201522,
+            "lon": 17.0688371,
+            "timestamp": "2022-09-06T09:58:41Z",
+            "version": 1,
+            "changeset": 125849963,
+            "user": "Julita WW",
+            "uid": 17048956,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "AED znajduje się przy stanowisku ochrony przy wejściu na halę magazynową.",
+                "defibrillator:location:en": "AED is located close to security desk at the entrance to the warehouse hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10003929218,
+            "lat": 52.3182758,
+            "lon": 17.0686467,
+            "timestamp": "2022-09-06T10:01:29Z",
+            "version": 1,
+            "changeset": 125849963,
+            "user": "Julita WW",
+            "uid": 17048956,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "AED znajduje się przy stanowisku ochrony przy wejściu na halę magazynową.",
+                "defibrillator:location:en": "AED is located close to security desk at the entrance to the warehouse hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10003979617,
+            "lat": 52.3233862,
+            "lon": 17.066018,
+            "timestamp": "2022-09-06T10:28:33Z",
+            "version": 1,
+            "changeset": 125849963,
+            "user": "Julita WW",
+            "uid": 17048956,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "AED jest dostępny przy wejściu na halę magazynową, przed bramkami po prawej stronie.",
+                "defibrillator:location:en": "AED is available at the entrance to the warehouse hall, in front of the security gates on the right-hand side.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
