@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-11T16:31:53Z",
+        "timestamp_osm_base": "2022-09-11T17:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15451,13 +15451,13 @@
         {
             "type": "node",
             "id": 9427874217,
-            "lat": 51.1086519,
-            "lon": 17.0402668,
-            "timestamp": "2022-09-10T22:57:05Z",
-            "version": 5,
-            "changeset": 126032106,
-            "user": "Bąbel",
-            "uid": 3418763,
+            "lat": 51.1086549,
+            "lon": 17.0402774,
+            "timestamp": "2022-09-11T17:12:33Z",
+            "version": 6,
+            "changeset": 126057970,
+            "user": "Mordechai23",
+            "uid": 8826419,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "poziom -1 (w biurze ochrony)",
