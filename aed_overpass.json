@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-11T17:31:39Z",
+        "timestamp_osm_base": "2022-09-11T18:31:38Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -17343,20 +17343,26 @@
         {
             "type": "node",
             "id": 9438078900,
-            "lat": 52.4356323,
-            "lon": 21.0408538,
-            "timestamp": "2022-02-11T20:08:17Z",
-            "version": 2,
-            "changeset": 117301459,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.4356626,
+            "lon": 21.0408476,
+            "timestamp": "2022-09-11T17:42:46Z",
+            "version": 3,
+            "changeset": 126059028,
+            "user": "cytryn",
+            "uid": 13889611,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "zewnętrzna, południowa ściana budynku recepcji/bosmanatu, na lewo od drzwi",
+                "defibrillator:location:en": "outer southern wall of the harbour master's office, on the left of the entrance",
+                "description": "okrągła kapsuła w kolorze zielonym",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
+                "location": "outdoor",
+                "manufacturer": "Philips",
                 "opening_hours": "Dec-Mar Mo-Fr 08:00-16:00; Apr-Nov 08:00-17:00",
                 "operator": "Kompleks Rekreacyjno-Wypoczynkowy Nieporęt PILAWA",
-                "phone": "+48 668 481 739"
+                "phone": "+48 668 481 739",
+                "support": "wall"
             }
         },
         {
