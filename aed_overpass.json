@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-12T17:31:54Z",
+        "timestamp_osm_base": "2022-09-12T18:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -8178,12 +8178,13 @@
             "id": 9372773565,
             "lat": 53.7395556,
             "lon": 20.4837227,
-            "timestamp": "2022-08-27T12:35:59Z",
-            "version": 2,
-            "changeset": 125441124,
+            "timestamp": "2022-09-12T18:05:04Z",
+            "version": 3,
+            "changeset": 126101613,
             "user": "serdelll",
             "uid": 485927,
             "tags": {
+                "defibrillator:location": "po remoncie budynku (podobno) przeniesiony do części socjalno-magazynowej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Biedronka"
@@ -69940,6 +69941,24 @@
                 "opening_hours": "24/7",
                 "operator": "Mispol S.A.",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10018919422,
+            "lat": 53.7315253,
+            "lon": 20.4938962,
+            "timestamp": "2022-09-12T18:03:49Z",
+            "version": 1,
+            "changeset": 126101581,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
