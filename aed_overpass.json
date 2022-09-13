@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-13T08:32:03Z",
+        "timestamp_osm_base": "2022-09-13T09:32:06Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70008,6 +70008,22 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na poziomie sklepu, naprzeciw ruchomego chodnika.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10020272705,
+            "lat": 51.1129274,
+            "lon": 17.0191394,
+            "timestamp": "2022-09-13T08:46:01Z",
+            "version": 1,
+            "changeset": 126121546,
+            "user": "Rademenes",
+            "uid": 3417830,
+            "tags": {
+                "defibrillator:location": "W hallu budynku. Na słupie między drzwiami głównymi",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
