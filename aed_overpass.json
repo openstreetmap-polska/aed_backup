@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-14T15:32:09Z",
+        "timestamp_osm_base": "2022-09-14T16:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70033,9 +70033,9 @@
             "id": 10024714274,
             "lat": 52.1465025,
             "lon": 20.8156813,
-            "timestamp": "2022-09-14T15:21:38Z",
-            "version": 1,
-            "changeset": 126187348,
+            "timestamp": "2022-09-14T15:36:08Z",
+            "version": 2,
+            "changeset": 126187884,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
@@ -70045,7 +70045,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "source": "survey",
-                "wheelchair": "yes"
+                "wheelchair": "yes",
+                "wikimedia_commons": "File:AED_–_Szkoła_Podstawowa_im._Marii_Dąbrowskiej_w_Komorowie.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10024772788,
+            "lat": 51.1635945,
+            "lon": 17.4734222,
+            "timestamp": "2022-09-14T15:50:33Z",
+            "version": 1,
+            "changeset": 126188436,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "We wnęce na prawo od wejścia do biblioteki.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         }
     ]
