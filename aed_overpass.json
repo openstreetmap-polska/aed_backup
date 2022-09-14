@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-14T18:31:58Z",
+        "timestamp_osm_base": "2022-09-14T19:32:02Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70066,6 +70066,24 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10025324517,
+            "lat": 49.4755952,
+            "lon": 19.6928138,
+            "timestamp": "2022-09-14T19:07:02Z",
+            "version": 1,
+            "changeset": 126195066,
+            "user": "OSP JABŁONKA",
+            "uid": 17130169,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W samochodzie GCBARt MAN TGM",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "605 055 588"
             }
         }
     ]
