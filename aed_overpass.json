@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-16T08:32:10Z",
+        "timestamp_osm_base": "2022-09-16T09:32:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70084,6 +70084,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "605 055 588"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10028971468,
+            "lat": 49.935359,
+            "lon": 20.0637441,
+            "timestamp": "2022-09-16T09:07:12Z",
+            "version": 1,
+            "changeset": 126254883,
+            "user": "MateuszD998",
+            "uid": 14559635,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu samochodu strażackiego.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
