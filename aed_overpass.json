@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-16T20:31:24Z",
+        "timestamp_osm_base": "2022-09-16T21:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70100,6 +70100,42 @@
                 "defibrillator:location": "Na wyposażeniu samochodu strażackiego.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10030473217,
+            "lat": 49.9202137,
+            "lon": 18.5975681,
+            "timestamp": "2022-09-16T21:27:14Z",
+            "version": 1,
+            "changeset": 126279009,
+            "user": "irik",
+            "uid": 248439,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pod wiatą przy Żelaznym Szlaku Rowerowym.",
+                "defibrillator:location:en": "Under the shelter at the Iron Bicycle Trail.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10030474417,
+            "lat": 49.9344091,
+            "lon": 18.5354726,
+            "timestamp": "2022-09-16T21:28:21Z",
+            "version": 1,
+            "changeset": 126279009,
+            "user": "irik",
+            "uid": 248439,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pod wiatą przy Żelaznym Szlaku Rowerowym.",
+                "defibrillator:location:en": "Under the shelter at the Iron Bicycle Trail.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
