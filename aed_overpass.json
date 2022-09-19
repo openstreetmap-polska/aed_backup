@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T08:31:24Z",
+        "timestamp_osm_base": "2022-09-19T09:31:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70309,6 +70309,39 @@
                 "defibrillator:location": "Ochrona",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10036031717,
+            "lat": 53.4050287,
+            "lon": 23.4959885,
+            "timestamp": "2022-09-19T09:06:21Z",
+            "version": 1,
+            "changeset": 126361557,
+            "user": "Marcin Puszko",
+            "uid": 17173500,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w holu przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10036076217,
+            "lat": 50.6523258,
+            "lon": 23.3696709,
+            "timestamp": "2022-09-19T09:29:46Z",
+            "version": 1,
+            "changeset": 126362506,
+            "user": "Adam Sokołowski",
+            "uid": 5537623,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator"
             }
         }
     ]
