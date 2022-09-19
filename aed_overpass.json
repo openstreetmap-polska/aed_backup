@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T18:31:52Z",
+        "timestamp_osm_base": "2022-09-19T19:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70461,16 +70461,19 @@
             "id": 10037589630,
             "lat": 54.3862044,
             "lon": 16.3244264,
-            "timestamp": "2022-09-19T17:33:28Z",
-            "version": 1,
-            "changeset": 126389009,
+            "timestamp": "2022-09-19T18:54:53Z",
+            "version": 3,
+            "changeset": 126393411,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
+                "defibrillator:location": "W budynku szkoły.",
+                "defibrillator:location:en": "In the school building.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 08:00-16:00"
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "phone": "+48 94 314 86 23"
             }
         },
         {
@@ -70503,6 +70506,58 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "AED znajduje się na samochodzie 329[K]66 \"Jerzy\".",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037860717,
+            "lat": 52.3265042,
+            "lon": 21.1074781,
+            "timestamp": "2022-09-19T19:06:43Z",
+            "version": 1,
+            "changeset": 126393758,
+            "user": "Pawelsi11",
+            "uid": 12651405,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku urzędu miasta, przed wejściem po lewej stronie",
+                "defibrillator:location:en": "On the wall of the city hall building, in front of the entrance, on the left side",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037872317,
+            "lat": 50.8754422,
+            "lon": 20.6294039,
+            "timestamp": "2022-09-19T19:13:10Z",
+            "version": 1,
+            "changeset": 126393952,
+            "user": "mcoval",
+            "uid": 2347195,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037897417,
+            "lat": 51.1457281,
+            "lon": 17.0464595,
+            "timestamp": "2022-09-19T19:26:07Z",
+            "version": 1,
+            "changeset": 126394344,
+            "user": "jacek olechowski",
+            "uid": 17178701,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near to entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
