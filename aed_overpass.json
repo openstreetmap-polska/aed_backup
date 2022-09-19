@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T05:32:54Z",
+        "timestamp_osm_base": "2022-09-19T06:39:53Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5497,12 +5497,13 @@
             "id": 9266835810,
             "lat": 49.2013562,
             "lon": 20.0712319,
-            "timestamp": "2021-11-19T12:17:09Z",
-            "version": 1,
-            "changeset": 113988648,
-            "user": "Squnxik",
-            "uid": 3068937,
+            "timestamp": "2022-09-19T06:07:04Z",
+            "version": 2,
+            "changeset": 126354347,
+            "user": "Jan Gąsienica-Fronek",
+            "uid": 17171771,
             "tags": {
+                "defibrillator:location": "Schronisko PTTK Morskie Oko",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -70151,6 +70152,92 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W pomieszczeniu Punktu Obsługi Pasażerów na stacji metra Bemowo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035626817,
+            "lat": 49.28475,
+            "lon": 19.964682,
+            "timestamp": "2022-09-19T06:00:22Z",
+            "version": 1,
+            "changeset": 126354102,
+            "user": "Jan Gąsienica-Fronek",
+            "uid": 17171771,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "601100300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035626818,
+            "lat": 49.2847395,
+            "lon": 19.9647141,
+            "timestamp": "2022-09-19T06:01:23Z",
+            "version": 1,
+            "changeset": 126354102,
+            "user": "Jan Gąsienica-Fronek",
+            "uid": 17171771,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Tatrzańskie Ochotnicze Pogotowie Ratunkowe -TOPR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "601100300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035658717,
+            "lat": 49.213584,
+            "lon": 20.0486747,
+            "timestamp": "2022-09-19T06:11:35Z",
+            "version": 1,
+            "changeset": 126354497,
+            "user": "Jan Gąsienica-Fronek",
+            "uid": 17171771,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Schronisko Górskie PTTK Pięć Stawów",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035660617,
+            "lat": 49.2434271,
+            "lon": 20.0072239,
+            "timestamp": "2022-09-19T06:13:41Z",
+            "version": 1,
+            "changeset": 126354497,
+            "user": "Jan Gąsienica-Fronek",
+            "uid": 17171771,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Schronisko Górskie PTTK Murowaniec",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035700317,
+            "lat": 52.3051518,
+            "lon": 21.0168785,
+            "timestamp": "2022-09-19T06:20:53Z",
+            "version": 1,
+            "changeset": 126354837,
+            "user": "Bogusław Ciemiński",
+            "uid": 17171885,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Obsługi Klienta",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
