@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T17:33:54Z",
+        "timestamp_osm_base": "2022-09-19T18:31:52Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9675,17 +9675,17 @@
             "id": 9388179118,
             "lat": 53.8447363,
             "lon": 14.6158997,
-            "timestamp": "2022-01-03T12:34:18Z",
-            "version": 1,
-            "changeset": 115709465,
-            "user": "puchaczowsky",
-            "uid": 7518458,
+            "timestamp": "2022-09-19T18:06:26Z",
+            "version": 2,
+            "changeset": 126391124,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie pomiędzy oknami",
                 "defibrillator:location:en": "On the wall between the windows",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no"
             }
         },
         {
@@ -68943,9 +68943,9 @@
             "id": 9966351281,
             "lat": 53.8444005,
             "lon": 14.6167046,
-            "timestamp": "2022-08-20T17:22:38Z",
-            "version": 1,
-            "changeset": 125156257,
+            "timestamp": "2022-09-19T18:06:26Z",
+            "version": 2,
+            "changeset": 126391124,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -68953,7 +68953,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
-                "phone": "+48 512 339 035; +48 502 279 964"
+                "phone": "+48 512 339 035;+48 502 279 964"
             }
         },
         {
@@ -68978,14 +68978,15 @@
             "id": 9966633373,
             "lat": 53.9266496,
             "lon": 14.4458513,
-            "timestamp": "2022-08-20T20:38:09Z",
-            "version": 1,
-            "changeset": 125162114,
+            "timestamp": "2022-09-19T18:11:20Z",
+            "version": 2,
+            "changeset": 126391421,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "Mo-Tu 07:30-15:30; We 07:30-16:30; Th 07:30-15:30; Fr 07:30-14:30; Sa,Su off; PH off",
                 "phone": "+48 91 327 56 38"
             }
@@ -70470,6 +70471,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 08:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037691319,
+            "lat": 50.733521,
+            "lon": 16.5603794,
+            "timestamp": "2022-09-19T18:29:10Z",
+            "version": 1,
+            "changeset": 126392475,
+            "user": "Straż Piskorzów",
+            "uid": 17178428,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "STRAZ POŻARNA",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037692517,
+            "lat": 49.9381252,
+            "lon": 19.8092724,
+            "timestamp": "2022-09-19T18:22:25Z",
+            "version": 1,
+            "changeset": 126392052,
+            "user": "filpaj",
+            "uid": 12211456,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "AED znajduje się na samochodzie 329[K]66 \"Jerzy\".",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
