@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T22:31:19Z",
+        "timestamp_osm_base": "2022-09-19T23:32:08Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2749,13 +2749,13 @@
         {
             "type": "node",
             "id": 7274264910,
-            "lat": 54.4099592,
-            "lon": 18.5672538,
-            "timestamp": "2022-04-06T10:03:59Z",
-            "version": 4,
-            "changeset": 119378753,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 54.4099393,
+            "lon": 18.5672737,
+            "timestamp": "2022-09-19T23:16:09Z",
+            "version": 5,
+            "changeset": 126399464,
+            "user": "czebureks",
+            "uid": 11437083,
             "tags": {
                 "access": "yes",
                 "defibrillator:location:en": "A free-standing post at a tram stop",
