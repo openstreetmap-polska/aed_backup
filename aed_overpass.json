@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T12:31:08Z",
+        "timestamp_osm_base": "2022-09-19T13:31:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70343,6 +70343,42 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Łabunie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10036452117,
+            "lat": 49.6880917,
+            "lon": 18.9763634,
+            "timestamp": "2022-09-19T12:40:26Z",
+            "version": 1,
+            "changeset": 126370876,
+            "user": "Prmku",
+            "uid": 17175682,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "508294132"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10036475717,
+            "lat": 49.6878935,
+            "lon": 18.9764341,
+            "timestamp": "2022-09-19T12:51:02Z",
+            "version": 1,
+            "changeset": 126371554,
+            "user": "Prmku",
+            "uid": 17175682,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Aed",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "0048508294132"
             }
         }
     ]
