@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T16:31:53Z",
+        "timestamp_osm_base": "2022-09-19T17:33:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70396,6 +70396,80 @@
                 "defibrillator:location": "Ściana frontowa OSP",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037403218,
+            "lat": 53.6878733,
+            "lon": 21.4311298,
+            "timestamp": "2022-09-19T16:33:03Z",
+            "version": 1,
+            "changeset": 126385565,
+            "user": "kwittbrodt",
+            "uid": 17177715,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na klatce schodowej",
+                "defibrillator:location:en": "on the staircase",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "897421405"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037440533,
+            "lat": 53.6871943,
+            "lon": 21.4304323,
+            "timestamp": "2022-09-19T16:35:29Z",
+            "version": 1,
+            "changeset": 126385659,
+            "user": "kwittbrodt",
+            "uid": 17177715,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz muzeum",
+                "defibrillator:location:en": "On museum",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "897421405"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037440919,
+            "lat": 53.6874937,
+            "lon": 21.4308808,
+            "timestamp": "2022-09-19T16:34:44Z",
+            "version": 1,
+            "changeset": 126385659,
+            "user": "kwittbrodt",
+            "uid": 17177715,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na klatce schodowej",
+                "defibrillator:location:en": "on the staircase",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "897421405"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10037589630,
+            "lat": 54.3862044,
+            "lon": 16.3244264,
+            "timestamp": "2022-09-19T17:33:28Z",
+            "version": 1,
+            "changeset": 126389009,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00"
             }
         }
     ]
