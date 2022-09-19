@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-19T07:31:39Z",
+        "timestamp_osm_base": "2022-09-19T08:31:24Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70240,6 +70240,75 @@
                 "defibrillator:location": "Biuro Obsługi Klienta",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035903817,
+            "lat": 50.9193517,
+            "lon": 19.090332,
+            "timestamp": "2022-09-19T07:57:12Z",
+            "version": 1,
+            "changeset": 126358737,
+            "user": "M_anui",
+            "uid": 17172653,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035904917,
+            "lat": 50.919213,
+            "lon": 19.0891304,
+            "timestamp": "2022-09-19T07:57:43Z",
+            "version": 1,
+            "changeset": 126358737,
+            "user": "M_anui",
+            "uid": 17172653,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Recepcja ochrona",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035904918,
+            "lat": 49.9403147,
+            "lon": 22.0192209,
+            "timestamp": "2022-09-19T07:57:54Z",
+            "version": 1,
+            "changeset": 126358762,
+            "user": "mlody1m",
+            "uid": 17172637,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "AED znajduję się na wyposażeniu pojazdu bojowego, przytrzymując oznaczony przycisk na ścianie budynku uruchamia się syrenę przywołując strażaków",
+                "defibrillator:location:en": "AED is on the equipment of the combat vehicle, holding the marked button on the wall of the building activates the siren to summon the firefighters",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10035906617,
+            "lat": 50.6857467,
+            "lon": 19.1334027,
+            "timestamp": "2022-09-19T07:58:36Z",
+            "version": 1,
+            "changeset": 126358737,
+            "user": "M_anui",
+            "uid": 17172653,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ochrona",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
