@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-20T15:31:09Z",
+        "timestamp_osm_base": "2022-09-20T16:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70563,13 +70563,13 @@
         {
             "type": "node",
             "id": 10038592617,
-            "lat": 53.6871556,
-            "lon": 21.4291518,
-            "timestamp": "2022-09-20T05:53:26Z",
-            "version": 1,
-            "changeset": 126405643,
-            "user": "kwittbrodt",
-            "uid": 17177715,
+            "lat": 53.6859392,
+            "lon": 21.4290848,
+            "timestamp": "2022-09-20T15:32:39Z",
+            "version": 2,
+            "changeset": 126428313,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W remizie OSP",
