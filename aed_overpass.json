@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-20T11:26:09Z",
+        "timestamp_osm_base": "2022-09-20T13:31:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70658,6 +70658,41 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10039444417,
+            "lat": 53.4078764,
+            "lon": 23.5085493,
+            "timestamp": "2022-09-20T12:26:18Z",
+            "version": 1,
+            "changeset": 126421120,
+            "user": "Marcin Puszko",
+            "uid": 17173500,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w holu Krytej Pływalni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10039444517,
+            "lat": 53.2711324,
+            "lon": 16.4714127,
+            "timestamp": "2022-09-20T12:26:19Z",
+            "version": 1,
+            "changeset": 126421124,
+            "user": "CypBer",
+            "uid": 17185966,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Korytarz przy wejściu głównym Sądu Rejonowego w Wałczu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48672501924"
             }
         }
     ]
