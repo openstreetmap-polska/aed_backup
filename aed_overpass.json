@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-21T11:32:09Z",
+        "timestamp_osm_base": "2022-09-21T12:31:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70706,6 +70706,23 @@
             "user": "MateuszD998",
             "uid": 14559635,
             "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10042523817,
+            "lat": 50.2020204,
+            "lon": 17.8232619,
+            "timestamp": "2022-09-21T12:13:44Z",
+            "version": 1,
+            "changeset": 126462869,
+            "user": "Przedszkole nr 2",
+            "uid": 17175843,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie korytarz parter",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
