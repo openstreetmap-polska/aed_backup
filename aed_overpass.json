@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-21T17:31:38Z",
+        "timestamp_osm_base": "2022-09-21T18:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68690,17 +68690,18 @@
             "id": 9935234391,
             "lat": 51.3045019,
             "lon": 16.9120462,
-            "timestamp": "2022-08-06T09:39:09Z",
-            "version": 1,
-            "changeset": 124553966,
+            "timestamp": "2022-09-21T18:19:32Z",
+            "version": 2,
+            "changeset": 126476505,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "W budynku kasy biletowej Basenu Miejskiego",
+                "access": "permissive",
+                "defibrillator:location": "W budynku kasy biletowej Basenu Miejskiego w sezonie działania basenu",
                 "defibrillator:location:en": "In the building of ticket office of Municipal Swimming Pooll",
                 "emergency": "defibrillator",
                 "location": "indoor",
+                "opening_hours": "summer",
                 "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
                 "phone": "+48 71 310 12 70"
             }
