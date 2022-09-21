@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-21T12:31:09Z",
+        "timestamp_osm_base": "2022-09-21T13:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70725,6 +70725,27 @@
                 "defibrillator:location": "Na ścianie korytarz parter",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10042600189,
+            "lat": 51.318064,
+            "lon": 16.9129854,
+            "timestamp": "2022-09-21T13:10:16Z",
+            "version": 1,
+            "changeset": 126465313,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pomieszczeniu ochrony firmy Joynext tuż za szlabanem",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Joynext",
+                "wheelchair": "yes"
             }
         }
     ]
