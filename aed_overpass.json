@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-22T07:31:33Z",
+        "timestamp_osm_base": "2022-09-22T08:31:38Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70779,6 +70779,43 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "korytarz parter, na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10044218917,
+            "lat": 50.8214055,
+            "lon": 19.1200449,
+            "timestamp": "2022-09-22T07:38:20Z",
+            "version": 1,
+            "changeset": 126492304,
+            "user": "PiterekK",
+            "uid": 17202768,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wysoki parter, obok portierni/szatni",
+                "defibrillator:location:en": "higher ground floor, next to cloakroom",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 343 250 957"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10044305119,
+            "lat": 54.6007412,
+            "lon": 18.2216819,
+            "timestamp": "2022-09-22T08:26:23Z",
+            "version": 1,
+            "changeset": 126494017,
+            "user": "GOPSWejherowo",
+            "uid": 17204027,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Korytarz GOPS na I piętrze",
+                "defibrillator:location:en": "GOPS corridor on the first floor",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
