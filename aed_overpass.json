@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-24T14:31:53Z",
+        "timestamp_osm_base": "2022-09-24T15:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -42452,14 +42452,17 @@
             "id": 9529401247,
             "lat": 53.1212221,
             "lon": 23.1217572,
-            "timestamp": "2022-02-23T10:08:17Z",
-            "version": 1,
-            "changeset": 117762358,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-09-24T15:04:22Z",
+            "version": 2,
+            "changeset": 126585339,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:15-15:15; Sa,Su off; PH off",
+                "phone": "+48 85 745 85 55; +48 85 745 85 01"
             }
         },
         {
@@ -69935,14 +69938,15 @@
             "id": 10015355908,
             "lat": 53.120801,
             "lon": 23.1221536,
-            "timestamp": "2022-09-11T09:16:10Z",
-            "version": 1,
-            "changeset": 126041130,
-            "user": "wifon",
-            "uid": 1307889,
+            "timestamp": "2022-09-24T15:04:22Z",
+            "version": 2,
+            "changeset": 126585339,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "portiernia budynku",
+                "defibrillator:location": "Portiernia budynku.",
+                "defibrillator:location:en": "The concierge desk of the building.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -70323,18 +70327,21 @@
         {
             "type": "node",
             "id": 10036031717,
-            "lat": 53.4050527,
-            "lon": 23.4973403,
-            "timestamp": "2022-09-19T11:47:50Z",
-            "version": 2,
-            "changeset": 126368271,
-            "user": "Marcin Puszko",
-            "uid": 17173500,
+            "lat": 53.4050507,
+            "lon": 23.4973451,
+            "timestamp": "2022-09-24T14:52:07Z",
+            "version": 3,
+            "changeset": 126584893,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie w holu przy wejściu",
+                "defibrillator:location": "Na ścianie w holu przy wejściu.",
+                "defibrillator:location:en": "On the wall in the hall at the entrance.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "phone": "+48 85 711 09 00"
             }
         },
         {
@@ -70675,16 +70682,19 @@
             "id": 10039444417,
             "lat": 53.4078764,
             "lon": 23.5085493,
-            "timestamp": "2022-09-20T12:26:18Z",
-            "version": 1,
-            "changeset": 126421120,
-            "user": "Marcin Puszko",
-            "uid": 17173500,
+            "timestamp": "2022-09-24T14:41:47Z",
+            "version": 2,
+            "changeset": 126584551,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie w holu Krytej Pływalni",
+                "defibrillator:location": "Na ścianie w holu.",
+                "defibrillator:location:en": "On the wall in the hall.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-21:45; Sa,Su 08:00-21:45; PH off; SH Mo-Su 14:00-21:45",
+                "phone": "+48 85 711 48 07; +48 85 711 25 71"
             }
         },
         {
