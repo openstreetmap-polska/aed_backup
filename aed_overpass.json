@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-24T18:31:53Z",
+        "timestamp_osm_base": "2022-09-24T19:31:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70090,19 +70090,21 @@
         {
             "type": "node",
             "id": 10025324517,
-            "lat": 49.4755952,
-            "lon": 19.6928138,
-            "timestamp": "2022-09-14T19:07:02Z",
-            "version": 1,
-            "changeset": 126195066,
-            "user": "OSP JABŁONKA",
-            "uid": 17130169,
+            "lat": 49.4755664,
+            "lon": 19.6927527,
+            "timestamp": "2022-09-24T18:35:39Z",
+            "version": 2,
+            "changeset": 126593683,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "W samochodzie GCBARt MAN TGM",
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy GCBARt MAN TGM",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "605 055 588"
+                "operator": "OSP Jabłonka",
+                "phone": "+48 605 055 588"
             }
         },
         {
@@ -70214,13 +70216,13 @@
             "id": 10035658717,
             "lat": 49.213584,
             "lon": 20.0486747,
-            "timestamp": "2022-09-19T06:11:35Z",
-            "version": 1,
-            "changeset": 126354497,
-            "user": "Jan Gąsienica-Fronek",
-            "uid": 17171771,
+            "timestamp": "2022-09-24T18:48:54Z",
+            "version": 2,
+            "changeset": 126593981,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "Schronisko Górskie PTTK Pięć Stawów",
                 "emergency": "defibrillator",
                 "indoor": "yes"
@@ -70229,15 +70231,15 @@
         {
             "type": "node",
             "id": 10035660617,
-            "lat": 49.2434271,
-            "lon": 20.0072239,
-            "timestamp": "2022-09-19T06:13:41Z",
-            "version": 1,
-            "changeset": 126354497,
-            "user": "Jan Gąsienica-Fronek",
-            "uid": 17171771,
+            "lat": 49.2434259,
+            "lon": 20.0072302,
+            "timestamp": "2022-09-24T18:47:50Z",
+            "version": 2,
+            "changeset": 126593959,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "private",
+                "access": "customers",
                 "defibrillator:location": "Schronisko Górskie PTTK Murowaniec",
                 "emergency": "defibrillator",
                 "indoor": "yes"
@@ -70297,19 +70299,20 @@
         {
             "type": "node",
             "id": 10035904918,
-            "lat": 49.9403147,
-            "lon": 22.0192209,
-            "timestamp": "2022-09-19T07:57:54Z",
-            "version": 1,
-            "changeset": 126358762,
-            "user": "mlody1m",
-            "uid": 17172637,
+            "lat": 49.9403355,
+            "lon": 22.0192222,
+            "timestamp": "2022-09-24T18:56:55Z",
+            "version": 2,
+            "changeset": 126594195,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "AED znajduję się na wyposażeniu pojazdu bojowego, przytrzymując oznaczony przycisk na ścianie budynku uruchamia się syrenę przywołując strażaków",
-                "defibrillator:location:en": "AED is on the equipment of the combat vehicle, holding the marked button on the wall of the building activates the siren to summon the firefighters",
+                "defibrillator:location": "AED znajduję się na wyposażeniu pojazdu bojowego. Przytrzymując oznaczony przycisk na ścianie budynku uruchamia się syrenę przywołując strażaków.",
+                "defibrillator:location:en": "The AED is included in the equipment of a rescue and firefighting vehicle. By holding the marked button on the wall of the building, you activate the siren, summoning firefighters.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Hermanowa"
             }
         },
         {
