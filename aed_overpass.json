@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-24T13:32:01Z",
+        "timestamp_osm_base": "2022-09-24T14:31:53Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -883,12 +883,15 @@
             "id": 4434128287,
             "lat": 53.6551996,
             "lon": 14.5073449,
-            "timestamp": "2020-08-01T20:43:23Z",
-            "version": 2,
-            "changeset": 88824534,
-            "user": "pio2_122",
-            "uid": 3214275,
+            "timestamp": "2022-09-24T14:23:47Z",
+            "version": 4,
+            "changeset": 126583896,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle .",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Trzebież",
@@ -18199,9 +18202,9 @@
             "id": 9438265929,
             "lat": 53.720456,
             "lon": 14.5574733,
-            "timestamp": "2022-02-17T21:26:00Z",
-            "version": 2,
-            "changeset": 117538912,
+            "timestamp": "2022-09-24T14:02:27Z",
+            "version": 3,
+            "changeset": 126583180,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -18209,6 +18212,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Czarnocin"
             }
         },
@@ -45273,9 +45277,9 @@
             "id": 9533247689,
             "lat": 53.7366119,
             "lon": 14.6602842,
-            "timestamp": "2022-02-25T09:29:24Z",
-            "version": 3,
-            "changeset": 117841471,
+            "timestamp": "2022-09-24T14:03:41Z",
+            "version": 4,
+            "changeset": 126583228,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -45284,6 +45288,7 @@
                 "defibrillator:location:en": "Rescue and firefighting vehicle",
                 "email": "osp_zarnowo@stepnica.pl",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Żarnowo",
                 "website": "https://www.facebook.com/ospzarnowo/"
             }
