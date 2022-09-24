@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-24T17:31:54Z",
+        "timestamp_osm_base": "2022-09-24T18:31:53Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68699,18 +68699,18 @@
             "id": 9935234391,
             "lat": 51.3045019,
             "lon": 16.9120462,
-            "timestamp": "2022-09-21T18:19:32Z",
-            "version": 2,
-            "changeset": 126476505,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-09-24T18:16:16Z",
+            "version": 3,
+            "changeset": 126593230,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "customers",
                 "defibrillator:location": "W budynku kasy biletowej Basenu Miejskiego w sezonie działania basenu",
                 "defibrillator:location:en": "In the building of ticket office of Municipal Swimming Pooll",
                 "emergency": "defibrillator",
                 "location": "indoor",
-                "opening_hours": "summer",
+                "opening_hours": "SH",
                 "operator": "Ośrodek Sportu i Rekreacji w Obornikach Śląskich",
                 "phone": "+48 71 310 12 70"
             }
@@ -70317,16 +70317,16 @@
             "id": 10035906617,
             "lat": 50.6857467,
             "lon": 19.1334027,
-            "timestamp": "2022-09-19T07:58:36Z",
-            "version": 1,
-            "changeset": 126358737,
-            "user": "M_anui",
-            "uid": 17172653,
+            "timestamp": "2022-09-24T18:13:11Z",
+            "version": 2,
+            "changeset": 126593155,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Ochrona",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "yes"
             }
         },
         {
@@ -70490,16 +70490,16 @@
         {
             "type": "node",
             "id": 10037691319,
-            "lat": 50.733521,
-            "lon": 16.5603794,
-            "timestamp": "2022-09-19T18:29:10Z",
-            "version": 1,
-            "changeset": 126392475,
-            "user": "Straż Piskorzów",
-            "uid": 17178428,
+            "lat": 50.7335273,
+            "lon": 16.5604119,
+            "timestamp": "2022-09-24T18:20:56Z",
+            "version": 2,
+            "changeset": 126593345,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "STRAZ POŻARNA",
+                "access": "private",
+                "defibrillator:location": "OSP Piskorzów",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -70551,15 +70551,17 @@
             "id": 10037872317,
             "lat": 50.8754422,
             "lon": 20.6294039,
-            "timestamp": "2022-09-19T19:13:10Z",
-            "version": 1,
-            "changeset": 126393952,
-            "user": "mcoval",
-            "uid": 2347195,
+            "timestamp": "2022-09-24T17:33:38Z",
+            "version": 2,
+            "changeset": 126592106,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "phone": "+48 41 342 18 00"
             }
         },
         {
@@ -70585,13 +70587,13 @@
             "id": 10038153917,
             "lat": 51.8255564,
             "lon": 15.6971839,
-            "timestamp": "2022-09-19T21:41:43Z",
-            "version": 1,
-            "changeset": 126398038,
-            "user": "Andrzej Kłam",
-            "uid": 17179366,
+            "timestamp": "2022-09-24T18:14:13Z",
+            "version": 2,
+            "changeset": 126593172,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "customers",
+                "access": "private",
                 "defibrillator:location": "Na ścianie w mistrzówce Działu Produkcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
@@ -70829,18 +70831,19 @@
         {
             "type": "node",
             "id": 10044218917,
-            "lat": 50.8214055,
-            "lon": 19.1200449,
-            "timestamp": "2022-09-22T07:38:20Z",
-            "version": 1,
-            "changeset": 126492304,
-            "user": "PiterekK",
-            "uid": 17202768,
+            "lat": 50.8213865,
+            "lon": 19.1200218,
+            "timestamp": "2022-09-24T17:55:04Z",
+            "version": 2,
+            "changeset": 126592651,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "wysoki parter, obok portierni/szatni",
-                "defibrillator:location:en": "higher ground floor, next to cloakroom",
+                "defibrillator:location": "Wysoki parter, obok portierni/szatni.",
+                "defibrillator:location:en": "Higher ground floor, next to cloakroom.",
                 "emergency": "defibrillator",
+                "fixme": "Zweryfikować lokalizację. AED zostało zaznaczone w budynku Biblioteki Uniwersyteckiej Uniwersytetu Humanistyczno-Przyrodniczego w Częstochowie. W opisie defibrylatora podano numer telefonu do Biblioteki Głównej Politechniki Częstochowskiej.",
                 "indoor": "yes",
                 "phone": "+48 343 250 957"
             }
@@ -70889,19 +70892,20 @@
         {
             "type": "node",
             "id": 10048269617,
-            "lat": 50.5976773,
-            "lon": 17.6501691,
-            "timestamp": "2022-09-23T21:46:19Z",
-            "version": 1,
-            "changeset": 126564604,
-            "user": "OSP Tułowice",
-            "uid": 17220769,
+            "lat": 50.597718,
+            "lon": 17.6500885,
+            "timestamp": "2022-09-24T18:29:05Z",
+            "version": 2,
+            "changeset": 126593535,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W wozie strażackim w kabinie z przodu.",
-                "defibrillator:location:en": "In FireFighters. inside truck, on rigt side, nearly to the seering wheel.",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy, w kabinie z przodu po stronie kierowcy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle, in the front part of cabin, on the driver's side.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "mobile": "+48 516 466 375"
             }
         }
     ]
