@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-24T23:32:21Z",
+        "timestamp_osm_base": "2022-09-25T00:31:22Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1475,25 +1475,6 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5812087265,
-            "lat": 53.1312255,
-            "lon": 23.1702024,
-            "timestamp": "2022-03-19T22:02:00Z",
-            "version": 4,
-            "changeset": 118680528,
-            "user": "Michoo",
-            "uid": 594456,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "na ścianie budynku, na prawo od wejścia do Urzędu Miejskiego",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "opening_hours": "24/7",
-                "operator": "Urząd Miejski w Białymstoku"
             }
         },
         {
@@ -42505,13 +42486,14 @@
             "id": 9529425163,
             "lat": 53.1322594,
             "lon": 23.1700561,
-            "timestamp": "2022-02-23T10:09:35Z",
-            "version": 1,
-            "changeset": 117762402,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-09-25T00:27:40Z",
+            "version": 2,
+            "changeset": 126600051,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7"
             }
         },
@@ -70909,6 +70891,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "mobile": "+48 516 466 375"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10050086023,
+            "lat": 53.1312481,
+            "lon": 23.1701759,
+            "timestamp": "2022-09-25T00:27:40Z",
+            "version": 1,
+            "changeset": 126600051,
+            "user": "Michoo",
+            "uid": 594456,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku, na lewo od wejścia do Urzędu Miejskiego",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Białymstoku"
             }
         }
     ]
