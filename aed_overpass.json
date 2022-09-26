@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-26T04:32:28Z",
+        "timestamp_osm_base": "2022-09-26T05:32:37Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70820,13 +70820,13 @@
         {
             "type": "node",
             "id": 10044218917,
-            "lat": 50.8213865,
-            "lon": 19.1200218,
-            "timestamp": "2022-09-24T17:55:04Z",
-            "version": 2,
-            "changeset": 126592651,
-            "user": "ptarac",
-            "uid": 11496679,
+            "lat": 50.8210967,
+            "lon": 19.1186163,
+            "timestamp": "2022-09-26T05:32:10Z",
+            "version": 3,
+            "changeset": 126636848,
+            "user": "PiterekK",
+            "uid": 17202768,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Wysoki parter, obok portierni/szatni.",
