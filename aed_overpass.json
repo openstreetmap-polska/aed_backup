@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-26T06:38:39Z",
+        "timestamp_osm_base": "2022-09-26T07:31:29Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70932,6 +70932,30 @@
                 "defibrillator:location:en": "On the wall, on the right side of the main entrance to the building.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10052948108,
+            "lat": 52.4063929,
+            "lon": 16.9353647,
+            "timestamp": "2022-09-26T07:25:33Z",
+            "version": 2,
+            "changeset": 126640851,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy głównym wejściu, stanowisko ochrony obiektu",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "MEDPAD AED CU-SP1 AUTO",
+                "opening_hours": "24/7",
+                "operator": "Wydział Obsługi Urzędu UMP",
+                "phone": "+48 61 878 58 39",
+                "wheelchair": "yes"
             }
         }
     ]
