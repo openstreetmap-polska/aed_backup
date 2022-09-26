@@ -11,7 +11,7 @@ from osmcache import OsmCache
 from report import create_report_md, REPORT_DIR
 
 
-QUERY_FILE = 'overpass_query.txt'
+QUERY_FILE = 'query.overpassql'
 BACKUP_FILE = 'aed_overpass.json'
 README_FILE = 'README.MD'
 
