@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-27T18:31:38Z",
+        "timestamp_osm_base": "2022-09-27T19:31:28Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48079,15 +48079,18 @@
             "id": 9568467017,
             "lat": 49.6483493,
             "lon": 21.3886947,
-            "timestamp": "2022-03-10T10:57:52Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-09-27T19:19:44Z",
+            "version": 2,
+            "changeset": 126711016,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Jednostka straży pożarnej posiada AED na samochodzie.",
-                "emergency": "defibrillator"
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Cieklin"
             }
         },
         {
@@ -71173,6 +71176,26 @@
                 "defibrillator:location": "Na ścianie, po lewej stronie od wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10056913643,
+            "lat": 49.617682,
+            "lon": 21.2018922,
+            "timestamp": "2022-09-27T19:16:31Z",
+            "version": 1,
+            "changeset": 126710926,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Sękowa"
             }
         }
     ]
