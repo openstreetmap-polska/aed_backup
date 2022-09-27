@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-27T07:31:03Z",
+        "timestamp_osm_base": "2022-09-27T08:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70976,6 +70976,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Sulęcinek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10055577217,
+            "lat": 50.4753611,
+            "lon": 18.8001749,
+            "timestamp": "2022-09-27T08:17:29Z",
+            "version": 1,
+            "changeset": 126686221,
+            "user": "Poltech",
+            "uid": 17250426,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "sekretariat firmy Poltech sp. z o.o.",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 516052629"
             }
         }
     ]
