@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-27T19:31:28Z",
+        "timestamp_osm_base": "2022-09-27T20:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11131,18 +11131,23 @@
         {
             "type": "node",
             "id": 9412182419,
-            "lat": 53.8224757,
-            "lon": 14.9768157,
-            "timestamp": "2022-01-12T08:41:27Z",
-            "version": 1,
-            "changeset": 116056241,
-            "user": "grzesiek22lew",
-            "uid": 10772965,
+            "lat": 53.8225106,
+            "lon": 14.9768093,
+            "timestamp": "2022-09-27T19:33:07Z",
+            "version": 2,
+            "changeset": 126711442,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Urząd Miasta i Gminy Golczewo, przy głównym wejściu ",
+                "defibrillator:location": "Przy głównym wejściu do Urzędu Miasta i Gminy.",
+                "defibrillator:location:en": "At the main entrance to the City and Commune Office.",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:30-15:30; Sa,Su off; PH off",
+                "operator": "UMiG Golczewo",
+                "phone": "+48 91 386 01 27"
             }
         },
         {
@@ -71196,6 +71201,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Sękowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10056992060,
+            "lat": 53.8287504,
+            "lon": 14.976574,
+            "timestamp": "2022-09-27T19:54:50Z",
+            "version": 1,
+            "changeset": 126712134,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Golczewo"
             }
         }
     ]
