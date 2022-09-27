@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-27T17:30:38Z",
+        "timestamp_osm_base": "2022-09-27T18:31:38Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24403,16 +24403,17 @@
             "id": 9450865121,
             "lat": 52.2450109,
             "lon": 21.00123,
-            "timestamp": "2022-02-25T08:22:29Z",
-            "version": 2,
-            "changeset": 117838967,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2022-09-27T17:39:20Z",
+            "version": 3,
+            "changeset": 126707847,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Ratusz Arsenał",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "-2",
                 "location": "indoor"
             }
         },
