@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-28T07:32:23Z",
+        "timestamp_osm_base": "2022-09-28T08:31:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71131,9 +71131,9 @@
             "id": 10055661866,
             "lat": 52.3604028,
             "lon": 16.9041905,
-            "timestamp": "2022-09-27T09:06:39Z",
-            "version": 1,
-            "changeset": 126688320,
+            "timestamp": "2022-09-28T08:19:47Z",
+            "version": 2,
+            "changeset": 126728402,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -71141,6 +71141,7 @@
                 "defibrillator:location": "przy głównym wejściu, stanowisko ochrony obiektu",
                 "description": "apteczka",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "level": "0",
                 "manufacturer": "PAD SAM300P",
                 "opening_hours": "24/7",
