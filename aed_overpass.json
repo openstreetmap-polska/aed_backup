@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-29T05:32:19Z",
+        "timestamp_osm_base": "2022-09-29T06:32:22Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71265,6 +71265,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Drzonowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10060133117,
+            "lat": 53.801004,
+            "lon": 22.9685276,
+            "timestamp": "2022-09-29T06:07:08Z",
+            "version": 1,
+            "changeset": 126762728,
+            "user": "Klemo2103",
+            "uid": 11663189,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie biblioteki, po lewej stronie od wejścia.",
+                "defibrillator:location:en": "On the library wall, to the left of the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "660564902"
             }
         }
     ]
