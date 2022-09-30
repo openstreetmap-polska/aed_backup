@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-30T14:31:54Z",
+        "timestamp_osm_base": "2022-09-30T15:31:54Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71396,6 +71396,57 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Dalachowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064543724,
+            "lat": 51.0245743,
+            "lon": 18.4210778,
+            "timestamp": "2022-09-30T15:28:41Z",
+            "version": 1,
+            "changeset": 126828171,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Gorzowie Śląskim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064543725,
+            "lat": 50.9821797,
+            "lon": 18.4035314,
+            "timestamp": "2022-09-30T15:28:41Z",
+            "version": 1,
+            "changeset": 126828171,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Kozłowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064543726,
+            "lat": 51.1102821,
+            "lon": 18.3478492,
+            "timestamp": "2022-09-30T15:28:41Z",
+            "version": 1,
+            "changeset": 126828171,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Uszycach"
             }
         }
     ]
