@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-09-30T11:31:53Z",
+        "timestamp_osm_base": "2022-09-30T12:31:17Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -69730,13 +69730,15 @@
             "id": 9995639218,
             "lat": 51.0549939,
             "lon": 18.4493127,
-            "timestamp": "2022-09-02T18:37:30Z",
-            "version": 1,
-            "changeset": 125711199,
+            "timestamp": "2022-09-30T11:39:35Z",
+            "version": 2,
+            "changeset": 126819527,
             "user": "mateem",
             "uid": 17004705,
             "tags": {
-                "emergency": "defibrillator"
+                "defibrillator:location": "Przy wejściu na sale widowiskową",
+                "emergency": "defibrillator",
+                "operator": "MGOKiS Praszka"
             }
         },
         {
@@ -71292,6 +71294,108 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "phone": "+48 660 564 902"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064158815,
+            "lat": 51.0570943,
+            "lon": 18.4522973,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Praszce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064158816,
+            "lat": 51.036453,
+            "lon": 18.5019578,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Strojcu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064174217,
+            "lat": 51.0931935,
+            "lon": 18.435567,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Przedmościu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064174218,
+            "lat": 51.0640715,
+            "lon": 18.4605632,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Neapco Europe"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064174219,
+            "lat": 51.0759472,
+            "lon": 18.4756135,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Kowalach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10064174220,
+            "lat": 51.0766365,
+            "lon": 18.5898578,
+            "timestamp": "2022-09-30T12:23:18Z",
+            "version": 1,
+            "changeset": 126821188,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Dalachowie"
             }
         }
     ]
