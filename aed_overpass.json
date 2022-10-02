@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-02T09:31:39Z",
+        "timestamp_osm_base": "2022-10-02T10:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71452,6 +71452,21 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Uszycach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068275176,
+            "lat": 50.0720905,
+            "lon": 20.0348096,
+            "timestamp": "2022-10-02T09:49:10Z",
+            "version": 1,
+            "changeset": 126886132,
+            "user": "dziabaducha",
+            "uid": 775276,
+            "tags": {
+                "emergency": "defibrillator",
+                "wheelchair": "limited"
             }
         }
     ]
