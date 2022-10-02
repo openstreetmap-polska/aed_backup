@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-02T16:31:38Z",
+        "timestamp_osm_base": "2022-10-02T17:31:31Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36779,11 +36779,11 @@
             "id": 9498045404,
             "lat": 50.4075312,
             "lon": 16.513858,
-            "timestamp": "2022-02-11T13:00:53Z",
-            "version": 1,
-            "changeset": 117287232,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-10-02T17:04:42Z",
+            "version": 2,
+            "changeset": 126902534,
+            "user": "Ancymon",
+            "uid": 1593161,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód Straży miejskiej",
@@ -36791,7 +36791,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 07:00-15:00",
                 "operator": "Straż miejska",
-                "phone": "748680652,000000"
+                "phone": "748680652"
             }
         },
         {
@@ -71654,6 +71654,23 @@
                 "defibrillator:location:en": "On level -1 after gates",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10069020417,
+            "lat": 51.7268964,
+            "lon": 15.8225206,
+            "timestamp": "2022-10-02T16:48:41Z",
+            "version": 1,
+            "changeset": 126901928,
+            "user": "ZWARYCZ",
+            "uid": 17302489,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na stojaku",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
