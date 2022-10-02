@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-02T10:31:39Z",
+        "timestamp_osm_base": "2022-10-02T11:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71467,6 +71467,159 @@
             "tags": {
                 "emergency": "defibrillator",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068387917,
+            "lat": 50.6414146,
+            "lon": 16.6405644,
+            "timestamp": "2022-10-02T10:45:03Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Ostroszowicach",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068387918,
+            "lat": 50.7972981,
+            "lon": 16.6473867,
+            "timestamp": "2022-10-02T10:52:27Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Tuszynie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068390017,
+            "lat": 50.7761211,
+            "lon": 16.5855623,
+            "timestamp": "2022-10-02T10:46:46Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Mościsku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068397317,
+            "lat": 50.7302574,
+            "lon": 16.6484969,
+            "timestamp": "2022-10-02T10:49:45Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Urządzenie to znajduje się w centrali Banku Spółdzielczego przy ul. Daszyńskiego 24 w Dzierżoniowie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068397318,
+            "lat": 50.6964243,
+            "lon": 16.6948394,
+            "timestamp": "2022-10-02T10:51:23Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Piławie Dolnej.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068397319,
+            "lat": 50.7429328,
+            "lon": 16.7348702,
+            "timestamp": "2022-10-02T10:53:35Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Roztoczniku.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068412917,
+            "lat": 50.7197846,
+            "lon": 16.6432402,
+            "timestamp": "2022-10-02T11:00:23Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu Ośrodka Sportu i Rekreacji w Dzierżoniowie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068412918,
+            "lat": 50.7253415,
+            "lon": 16.6349716,
+            "timestamp": "2022-10-02T11:04:15Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu 'Wodociągów i Kanalizacji' w Dzierżoniowie.\n(na podst. przetargu: https://www.wik.dzierzoniow.pl/dane/przetargi_pdf/przetarg_384_zal2.pdf)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10068429817,
+            "lat": 50.6948871,
+            "lon": 16.6380675,
+            "timestamp": "2022-10-02T11:09:10Z",
+            "version": 1,
+            "changeset": 126887837,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W posiadaniu OSP w Bielawie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
