@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-03T10:31:39Z",
+        "timestamp_osm_base": "2022-10-03T11:31:29Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71696,9 +71696,9 @@
             "id": 10072545628,
             "lat": 52.3851357,
             "lon": 16.9780669,
-            "timestamp": "2022-10-03T10:01:50Z",
-            "version": 1,
-            "changeset": 126927650,
+            "timestamp": "2022-10-03T10:36:25Z",
+            "version": 2,
+            "changeset": 126929257,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -71711,7 +71711,7 @@
                 "manufacturer": "AED CU Medical iPAD SP1",
                 "opening_hours": "Mo-Fr 06:00-22:00",
                 "operator": "Zespół Szkół Ogólnokształcących nr 4",
-                "phone": "61 8776058",
+                "phone": "+48 61 877 60 58",
                 "wheelchair": "yes"
             }
         },
@@ -71720,9 +71720,9 @@
             "id": 10072620269,
             "lat": 52.3831573,
             "lon": 16.8892327,
-            "timestamp": "2022-10-03T10:30:01Z",
-            "version": 1,
-            "changeset": 126928965,
+            "timestamp": "2022-10-03T10:36:25Z",
+            "version": 2,
+            "changeset": 126929257,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -71735,8 +71735,51 @@
                 "manufacturer": "Defibrylator FRx",
                 "opening_hours": "Mo-Fr 06:30-17:00",
                 "operator": "Przedszkole Nr 8",
-                "phone": "618661684",
+                "phone": "+48 61 866 16 84",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10072730746,
+            "lat": 52.3843683,
+            "lon": 16.8148724,
+            "timestamp": "2022-10-03T11:25:14Z",
+            "version": 1,
+            "changeset": 126931679,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "aula - sala kolumnowa",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "LIFEline",
+                "opening_hours": "Mo-Fr 06:00-17:00",
+                "operator": "Szkoła Podstawowa nr 78",
+                "phone": "+48 61 867 79 16",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10072738068,
+            "lat": 49.578475,
+            "lon": 22.0118401,
+            "timestamp": "2022-10-03T11:28:20Z",
+            "version": 1,
+            "changeset": 126931820,
+            "user": "OSP POSADA ZARSZYŃSKA",
+            "uid": 17307664,
+            "tags": {
+                "defibrillator:location": "Rozjazd ul. Beskidzkiej i ul. Browarnej obok kapliczki",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP w Posadzie Zarszyńskiej",
+                "ref": "38-530",
+                "start_date": "2022-05-04"
             }
         }
     ]
