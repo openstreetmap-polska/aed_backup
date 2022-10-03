@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-03T09:31:38Z",
+        "timestamp_osm_base": "2022-10-03T10:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71689,6 +71689,54 @@
                 "defibrillator:location:en": "On the footbridge.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10072545628,
+            "lat": 52.3851357,
+            "lon": 16.9780669,
+            "timestamp": "2022-10-03T10:01:50Z",
+            "version": 1,
+            "changeset": 126927650,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "szafka przy portierni",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "AED CU Medical iPAD SP1",
+                "opening_hours": "Mo-Fr 06:00-22:00",
+                "operator": "Zespół Szkół Ogólnokształcących nr 4",
+                "phone": "61 8776058",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10072620269,
+            "lat": 52.3831573,
+            "lon": 16.8892327,
+            "timestamp": "2022-10-03T10:30:01Z",
+            "version": 1,
+            "changeset": 126928965,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "szatnia przedszkolna",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Defibrylator FRx",
+                "opening_hours": "Mo-Fr 06:30-17:00",
+                "operator": "Przedszkole Nr 8",
+                "phone": "618661684",
+                "wheelchair": "no"
             }
         }
     ]
