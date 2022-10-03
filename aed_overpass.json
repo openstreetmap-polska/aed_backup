@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-03T18:31:08Z",
+        "timestamp_osm_base": "2022-10-03T19:31:08Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71798,6 +71798,25 @@
                 "emergency:phone": "112",
                 "indoor": "no",
                 "phone": "783719593"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10073595417,
+            "lat": 52.2202668,
+            "lon": 17.294891,
+            "timestamp": "2022-10-03T18:33:11Z",
+            "version": 1,
+            "changeset": 126953095,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Korytarz Firmy przy Sekretariacie (BIURZE)",
+                "defibrillator:location:en": "Budynek Firmy Meblowej. Wejście do Biura.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 28 60 611"
             }
         }
     ]
