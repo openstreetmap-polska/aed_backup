@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-04T09:31:39Z",
+        "timestamp_osm_base": "2022-10-04T10:31:37Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71862,6 +71862,31 @@
                 "opening_hours": "Mo-Sa 06:00-18:00",
                 "operator": "Zespół Szkół Specjalnych Nr 105",
                 "phone": "+48 61 877 22 94",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10074753005,
+            "lat": 52.4252695,
+            "lon": 16.9458162,
+            "timestamp": "2022-10-04T10:21:36Z",
+            "version": 1,
+            "changeset": 126986231,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "CU Medical iPAD SP1",
+                "opening_hours": "Mo-Fr 05:00-21:00",
+                "operator": "Zespół Szkół Łączności im. Mikołaja Kopernika",
+                "phone": "+48 61 825 00 11",
                 "wheelchair": "yes"
             }
         }
