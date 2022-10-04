@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-04T07:31:44Z",
+        "timestamp_osm_base": "2022-10-04T08:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71822,18 +71822,23 @@
         {
             "type": "node",
             "id": 10074182499,
-            "lat": 53.6515219,
-            "lon": 14.6236262,
-            "timestamp": "2022-10-04T03:33:38Z",
-            "version": 1,
-            "changeset": 126968432,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "lat": 53.6515344,
+            "lon": 14.6236249,
+            "timestamp": "2022-10-04T07:40:38Z",
+            "version": 2,
+            "changeset": 126977700,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "na I piętrze przy wejściu do sekretariatu",
+                "defibrillator:location": "Na I piętrze przy wejściu do sekretariatu.",
+                "defibrillator:location:en": "On the first floor at the entrance to the secretariat.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa-Su off; PH off",
+                "operator": "Gmina Stepnica",
+                "phone": "+48 91 418 85 21"
             }
         },
         {
