@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-04T06:31:38Z",
+        "timestamp_osm_base": "2022-10-04T07:31:44Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71834,6 +71834,30 @@
                 "defibrillator:location": "na I piętrze przy wejściu do sekretariatu",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10074507668,
+            "lat": 52.4145724,
+            "lon": 16.9822735,
+            "timestamp": "2022-10-04T07:29:56Z",
+            "version": 1,
+            "changeset": 126977089,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia ZSS105",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "opening_hours": "Mo-Sa 06:00-18:00",
+                "operator": "Zespół Szkół Specjalnych Nr 105",
+                "phone": "+48 61 877 22 94",
+                "wheelchair": "yes"
             }
         }
     ]
