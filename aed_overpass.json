@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-04T10:31:37Z",
+        "timestamp_osm_base": "2022-10-04T11:31:39Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -16304,15 +16304,16 @@
             "id": 9430722717,
             "lat": 50.0658867,
             "lon": 19.9193913,
-            "timestamp": "2022-01-19T11:27:22Z",
-            "version": 1,
-            "changeset": 116337709,
-            "user": "lyncz",
-            "uid": 2270608,
+            "timestamp": "2022-10-04T10:45:14Z",
+            "version": 2,
+            "changeset": 126987208,
+            "user": "rayleigh1",
+            "uid": 6739817,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Budynek Wydziału Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej - Wejście główne - B1",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
