@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-05T12:31:13Z",
+        "timestamp_osm_base": "2022-10-05T13:31:14Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -9583,13 +9583,13 @@
         {
             "type": "node",
             "id": 9386569695,
-            "lat": 50.4410308,
-            "lon": 19.2750054,
-            "timestamp": "2022-01-23T11:59:41Z",
-            "version": 2,
-            "changeset": 116496179,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 50.4410192,
+            "lon": 19.2750385,
+            "timestamp": "2022-10-05T12:57:19Z",
+            "version": 3,
+            "changeset": 127046094,
+            "user": "arturp",
+            "uid": 426784,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku",
@@ -31391,11 +31391,11 @@
             "id": 9475404858,
             "lat": 49.8197518,
             "lon": 19.2173917,
-            "timestamp": "2022-02-20T17:53:53Z",
-            "version": 2,
-            "changeset": 117648777,
-            "user": "VA00",
-            "uid": 1745828,
+            "timestamp": "2022-10-05T12:57:19Z",
+            "version": 3,
+            "changeset": 127046094,
+            "user": "arturp",
+            "uid": 426784,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na zewnątrz budynku OSP Porąbka",
@@ -31403,7 +31403,7 @@
                 "indoor": "no",
                 "manufacturer": "Defibrylator LIFELINE (typ DDU-100A) firmy Defibtech",
                 "opening_hours": "24/7",
-                "operator": "OSP Czaniec"
+                "operator": "OSP Porąbka"
             }
         },
         {
