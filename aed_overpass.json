@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-05T10:32:05Z",
+        "timestamp_osm_base": "2022-10-05T11:31:38Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48110,16 +48110,22 @@
             "id": 9568471417,
             "lat": 52.4458104,
             "lon": 16.8721961,
-            "timestamp": "2022-03-10T11:01:07Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-10-05T10:37:52Z",
+            "version": 2,
+            "changeset": 127040556,
+            "user": "polar7",
+            "uid": 3894590,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na zewnątrz budynku kościoła pw. Ojca Pio od ul. Wańkowicza.",
+                "defibrillator:location": "na zewnątrz budynku kościoła pw. Ojca Pio",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "emergency_telephone_code": "112",
+                "indoor": "no",
+                "manufacturer": "Philips FRx standard NR:B20L-01574",
+                "opening_hours": "24/7",
+                "operator": "Rada Osielda Strzeszyn",
+                "phone": "+48 61 624 63 11",
+                "wheelchair": "yes"
             }
         },
         {
@@ -48127,16 +48133,21 @@
             "id": 9568482117,
             "lat": 52.4528026,
             "lon": 16.848306,
-            "timestamp": "2022-03-10T11:06:08Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-10-05T10:52:11Z",
+            "version": 2,
+            "changeset": 127041184,
+            "user": "polar7",
+            "uid": 3894590,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na zewnątrz budynku Domu Parafialnego parafii św. Moniki przy Biskupińskiej 29.",
+                "defibrillator:location": "Na zewnątrz budynku Domu Parafialnego parafii św. Moniki",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "manufacturer": "Philips FRx standard NR: B20A-00240",
+                "opening_hours": "24/7",
+                "operator": "Rada Osiedla Strszeszyn",
+                "phone": "+48 61 624 63 11",
+                "wheelchair": "yes"
             }
         },
         {
