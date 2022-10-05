@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-05T16:32:09Z",
+        "timestamp_osm_base": "2022-10-05T17:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71929,19 +71929,20 @@
         {
             "type": "node",
             "id": 10077550017,
-            "lat": 52.8756181,
-            "lon": 16.3183194,
-            "timestamp": "2022-10-05T14:14:23Z",
-            "version": 1,
-            "changeset": 127049945,
+            "lat": 52.8756343,
+            "lon": 16.3182832,
+            "timestamp": "2022-10-05T17:05:59Z",
+            "version": 2,
+            "changeset": 127057969,
             "user": "Strażak16",
             "uid": 16616221,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Remiza OSP ROSKO",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
                 "defibrillator:location:en": "Volunteer Fire Department Rosko",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Rosko"
             }
         },
         {
@@ -71949,17 +71950,36 @@
             "id": 10077552317,
             "lat": 52.8756815,
             "lon": 16.2397371,
-            "timestamp": "2022-10-05T14:16:45Z",
-            "version": 1,
-            "changeset": 127049945,
+            "timestamp": "2022-10-05T17:08:38Z",
+            "version": 2,
+            "changeset": 127058112,
             "user": "Strażak16",
             "uid": 16616221,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Kapsuła OSP Wrzeszczyna",
+                "defibrillator:location": "Kapsuła na zewnątrz budynku",
                 "defibrillator:location:en": "Volunteer Fire Department Rosko",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna we Wrzeszczynie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10078021017,
+            "lat": 52.8441529,
+            "lon": 16.4120485,
+            "timestamp": "2022-10-05T17:18:20Z",
+            "version": 1,
+            "changeset": 127058626,
+            "user": "Strażak16",
+            "uid": 16616221,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "defibrillator:location:en": "Fire truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
