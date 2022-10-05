@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-05T13:31:14Z",
+        "timestamp_osm_base": "2022-10-05T14:32:09Z",
         "timestamp_areas_base": "2022-07-20T10:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71924,6 +71924,42 @@
                 "operator": "ZSO33",
                 "phone": "+48 61 866 42 26",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10077550017,
+            "lat": 52.8756181,
+            "lon": 16.3183194,
+            "timestamp": "2022-10-05T14:14:23Z",
+            "version": 1,
+            "changeset": 127049945,
+            "user": "Strażak16",
+            "uid": 16616221,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Remiza OSP ROSKO",
+                "defibrillator:location:en": "Volunteer Fire Department Rosko",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10077552317,
+            "lat": 52.8756815,
+            "lon": 16.2397371,
+            "timestamp": "2022-10-05T14:16:45Z",
+            "version": 1,
+            "changeset": 127049945,
+            "user": "Strażak16",
+            "uid": 16616221,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Kapsuła OSP Wrzeszczyna",
+                "defibrillator:location:en": "Volunteer Fire Department Rosko",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
