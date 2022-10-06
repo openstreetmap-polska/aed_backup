@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-06T18:32:10Z",
+        "timestamp_osm_base": "2022-10-06T19:32:09Z",
         "timestamp_areas_base": "2022-10-06T04:32:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -68645,21 +68645,22 @@
         {
             "type": "node",
             "id": 9933758179,
-            "lat": 51.1449244,
-            "lon": 17.8483969,
-            "timestamp": "2022-08-05T12:54:07Z",
-            "version": 1,
-            "changeset": 124522671,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 51.1449113,
+            "lon": 17.8483704,
+            "timestamp": "2022-10-06T18:56:18Z",
+            "version": 2,
+            "changeset": 127115244,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na jednej z ścian urzędu gminy znajduje się defibrylator AED.",
+                "defibrillator:location": "Na ścianie siedziby Urzędu Gminy na lewo od głównego wejścia.",
+                "defibrillator:location:en": "On the wall of the seat of the Commune Office to the left of the main entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Gminy Rychtal",
-                "phone": "+48627816800"
+                "phone": "+48 627 816 800"
             }
         },
         {
@@ -72115,6 +72116,25 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "Nadleśnictwo Gniewkowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10080531371,
+            "lat": 50.0992126,
+            "lon": 18.3969665,
+            "timestamp": "2022-10-06T19:08:46Z",
+            "version": 1,
+            "changeset": 127115724,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]
