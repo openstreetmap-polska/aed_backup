@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-06T15:31:53Z",
+        "timestamp_osm_base": "2022-10-06T16:31:56Z",
         "timestamp_areas_base": "2022-10-06T04:32:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24500,15 +24500,16 @@
             "id": 9450880573,
             "lat": 52.254059,
             "lon": 21.0354898,
-            "timestamp": "2022-01-26T18:46:31Z",
-            "version": 1,
-            "changeset": 116634328,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-10-06T15:40:41Z",
+            "version": 2,
+            "changeset": 127108703,
+            "user": "Kiciunio",
+            "uid": 17302248,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Dworzec Wileński",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "location": "indoor"
             }
         },
