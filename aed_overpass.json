@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-06T11:31:54Z",
+        "timestamp_osm_base": "2022-10-06T12:31:59Z",
         "timestamp_areas_base": "2022-10-06T04:32:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71931,9 +71931,9 @@
             "id": 10077550017,
             "lat": 52.8756343,
             "lon": 16.3182832,
-            "timestamp": "2022-10-05T19:42:51Z",
-            "version": 3,
-            "changeset": 127065095,
+            "timestamp": "2022-10-06T12:30:20Z",
+            "version": 4,
+            "changeset": 127100883,
             "user": "Strażak16",
             "uid": 16616221,
             "tags": {
@@ -71942,7 +71942,9 @@
                 "defibrillator:location:en": "Volunteer Fire Department Rosko",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Ochotnicza Straż Pożarna Rosko"
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Rosko",
+                "website": "https://www.facebook.com/OspRosko"
             }
         },
         {
@@ -72034,6 +72036,24 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Na ścianie w hotelu Mercure na parterze (przy szybie od strony chodnika).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10079938018,
+            "lat": 52.8518395,
+            "lon": 16.5219173,
+            "timestamp": "2022-10-06T12:22:41Z",
+            "version": 1,
+            "changeset": 127100610,
+            "user": "Strażak16",
+            "uid": 16616221,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "defibrillator:location:en": "Fire Truck",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
