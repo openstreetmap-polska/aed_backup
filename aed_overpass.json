@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-06T06:31:41Z",
+        "timestamp_osm_base": "2022-10-06T07:31:39Z",
         "timestamp_areas_base": "2022-10-06T04:32:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -72019,6 +72019,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Pęckowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10079240817,
+            "lat": 51.1085644,
+            "lon": 17.039141,
+            "timestamp": "2022-10-06T06:38:46Z",
+            "version": 1,
+            "changeset": 127083273,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie w hotelu Mercure na parterze (przy szybie od strony chodnika).",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
