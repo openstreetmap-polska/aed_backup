@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-07T08:32:02Z",
+        "timestamp_osm_base": "2022-10-07T09:31:09Z",
         "timestamp_areas_base": "2022-10-07T04:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -72273,9 +72273,9 @@
             "id": 10081341770,
             "lat": 52.4069444,
             "lon": 16.9529902,
-            "timestamp": "2022-10-07T08:28:13Z",
-            "version": 1,
-            "changeset": 127138601,
+            "timestamp": "2022-10-07T08:33:35Z",
+            "version": 2,
+            "changeset": 127138765,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -72288,7 +72288,7 @@
                 "level": "0",
                 "manufacturer": "AED Cu Medical -PAD SP1",
                 "opening_hours": "24/7",
-                "operator": "Instytut Chemii Bioorganicznej PAN - Poznańskie Centrum Superkomputerowo- Sieciowe",
+                "operator": "Instytut Chemii Bioorganicznej PAN - Poznańskie Centrum Superkomputerowo-Sieciowe",
                 "phone": "+48 858 20 02",
                 "wheelchair": "yes"
             }
@@ -72339,6 +72339,55 @@
                 "operator": "Instytut Chemii Bioorganicznej PAN",
                 "phone": "+ 48 61 852 85 03",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10081411422,
+            "lat": 52.4084529,
+            "lon": 16.9084166,
+            "timestamp": "2022-10-07T08:33:35Z",
+            "version": 1,
+            "changeset": 127138765,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "level": "0",
+                "manufacturer": "AED Cu Medical -PAD SP1",
+                "opening_hours": "24/7",
+                "operator": "Instytut Chemii Bioorganicznej PAN - Poznańskie Centrum Superkomputerowo-Sieciowe",
+                "phone": "+48 510117254",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10081444786,
+            "lat": 52.4039792,
+            "lon": 16.9383407,
+            "timestamp": "2022-10-07T08:48:49Z",
+            "version": 1,
+            "changeset": 127139365,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia szkolna",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "XFT AED TRAINER",
+                "opening_hours": "Mo-Fr 06:00-18:00",
+                "operator": "Liceum Ogółnokształcace św. Marii Magdaleny",
+                "phone": "+48 61 852 77 05",
+                "wheelchair": "no"
             }
         }
     ]
