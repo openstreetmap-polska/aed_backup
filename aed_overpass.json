@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-07T06:31:51Z",
+        "timestamp_osm_base": "2022-10-07T07:31:34Z",
         "timestamp_areas_base": "2022-10-07T04:48:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5269,15 +5269,24 @@
             "id": 9081670920,
             "lat": 52.412337,
             "lon": 16.9514012,
-            "timestamp": "2021-09-11T09:16:09Z",
-            "version": 1,
-            "changeset": 111054385,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-10-07T07:01:09Z",
+            "version": 2,
+            "changeset": 127135075,
+            "user": "polar7",
+            "uid": 3894590,
             "tags": {
-                "defibrillator:location": "przy sklepie z pamiątkami",
+                "access": "customers",
+                "defibrillator:location": "hol główny",
+                "description": "apteczka",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "PRIMEDIC HeartSave AED",
+                "opening_hours": "Tu-Fr 09:00-18:00; Sa-Su 10:00-19:00; Mo off",
+                "operator": "Poznańskie Centrum Dziedzictwa",
+                "phone": "+48 61 647 76 00",
+                "wheelchair": "no"
             }
         },
         {
@@ -72135,6 +72144,78 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10081261345,
+            "lat": 52.4076499,
+            "lon": 16.9198359,
+            "timestamp": "2022-10-07T07:01:09Z",
+            "version": 2,
+            "changeset": 127135075,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "1 piętro (Centrum Szyfrów Enigma)",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "PRIMEDIC HeartSave AED",
+                "opening_hours": "Tu-Fr 09:00-18:00; Sa-Su 10:00-19:00; Mo off",
+                "operator": "Poznańskie Centrum Dziedzictwa",
+                "phone": "+48 61 888 45 00",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10081261346,
+            "lat": 52.4076047,
+            "lon": 16.9198123,
+            "timestamp": "2022-10-07T06:49:37Z",
+            "version": 1,
+            "changeset": 127134490,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "hol budynku (portiernia)",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "PHILLIPS HeartStart Frx",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "operator": "Uniwersytet im. Adama Mickiewicza",
+                "phone": "+48 61 829 47 30",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10081261347,
+            "lat": 52.4078391,
+            "lon": 16.9191652,
+            "timestamp": "2022-10-07T06:49:37Z",
+            "version": 1,
+            "changeset": 127134490,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "1 piętro Nowej Części; Atrium; Ściana wschodnia",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "iPAD SP1",
+                "opening_hours": "Mo-Su 08:00-21:00",
+                "operator": "Centrum Kultury Zamek",
+                "phone": "+48 61 646 52 21",
+                "wheelchair": "yes"
             }
         }
     ]
