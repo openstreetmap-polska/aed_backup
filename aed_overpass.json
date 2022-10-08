@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-08T15:32:08Z",
+        "timestamp_osm_base": "2022-10-08T16:30:53Z",
         "timestamp_areas_base": "2022-10-08T08:04:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -72524,6 +72524,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "ENEA Wytwarzanie sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10084647195,
+            "lat": 52.9157544,
+            "lon": 14.3551567,
+            "timestamp": "2022-10-08T15:39:36Z",
+            "version": 1,
+            "changeset": 127208698,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Mętno"
             }
         }
     ]
