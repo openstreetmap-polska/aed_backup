@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-09T11:36:08Z",
+        "timestamp_osm_base": "2022-10-09T12:36:43Z",
         "timestamp_areas_base": "2022-10-09T11:19:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55152,11 +55152,11 @@
             "id": 9623835626,
             "lat": 50.6724873,
             "lon": 17.9350841,
-            "timestamp": "2022-03-30T13:02:31Z",
-            "version": 2,
-            "changeset": 119115928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-10-09T12:16:01Z",
+            "version": 3,
+            "changeset": 127245180,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W portierni budynku",
@@ -55165,7 +55165,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Wydział Nauk o Zdrowiu Uniwersytetu Opolskiego",
-                "phone": "77 442 35 28",
+                "phone": "+48 77 442 35 28",
                 "source": "https://www.facebook.com/PielegniarstwoWydzialNaukoZdrowiuUO/posts/4279117008848507"
             }
         },
@@ -72544,6 +72544,28 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Mętno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10086864813,
+            "lat": 50.663944,
+            "lon": 17.9308683,
+            "timestamp": "2022-10-09T12:30:34Z",
+            "version": 1,
+            "changeset": 127245698,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pomieszczeniu dyżurnego Straży Miejskiej.",
+                "defibrillator:location:en": "In the duty room of the City Guard.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Straż Miejska w Opolu",
+                "phone": "986; +48 77 40 25 100",
+                "website": "https://www.strazmiejska.opole.pl/index.php?idstrony=2&idpodstrony=64"
             }
         }
     ]
