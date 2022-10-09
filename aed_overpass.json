@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-09T08:32:09Z",
+        "timestamp_osm_base": "2022-10-09T09:31:09Z",
         "timestamp_areas_base": "2022-10-09T08:18:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -57036,13 +57036,13 @@
         {
             "type": "node",
             "id": 9645422232,
-            "lat": 54.32536,
-            "lon": 18.6338137,
-            "timestamp": "2022-04-15T09:53:48Z",
-            "version": 2,
-            "changeset": 119744077,
-            "user": "mueschel",
-            "uid": 616774,
+            "lat": 54.3253752,
+            "lon": 18.6338874,
+            "timestamp": "2022-10-09T09:10:17Z",
+            "version": 3,
+            "changeset": 127237311,
+            "user": "kukułka",
+            "uid": 2757838,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "elewacja budynku",
