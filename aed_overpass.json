@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-09T17:30:54Z",
-        "timestamp_areas_base": "2022-10-09T14:22:09Z",
+        "timestamp_osm_base": "2022-10-09T18:31:52Z",
+        "timestamp_areas_base": "2022-10-09T18:23:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -38997,11 +38997,11 @@
             "id": 9512387173,
             "lat": 51.8487578,
             "lon": 16.5799665,
-            "timestamp": "2022-02-21T14:22:02Z",
-            "version": 2,
-            "changeset": 117684181,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-10-09T18:20:02Z",
+            "version": 3,
+            "changeset": 127262252,
+            "user": "bardziejgreckinizserekgrecki",
+            "uid": 714456,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na parterze, przy punkcie ksero.",
@@ -39009,7 +39009,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7",
-                "operator": "Państwowa Wyższa Szkoła Zawodowa im. Jana Amosa Komeńskiego w Lesznie",
+                "operator": "Akademia Nauk Stosowanych im. Jana Amosa Komeńskiego w Lesznie",
                 "phone": "65 529 60 55"
             }
         },
@@ -72776,6 +72776,93 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Opole Bierkowice",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087449708,
+            "lat": 50.1889724,
+            "lon": 19.151563,
+            "timestamp": "2022-10-09T17:44:59Z",
+            "version": 1,
+            "changeset": 127261162,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie remizy.",
+                "defibrillator:location:en": "On the outer wall of the firehouse.",
+                "description": "W zielonej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Kosztowy",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087515646,
+            "lat": 52.426587,
+            "lon": 17.4865397,
+            "timestamp": "2022-10-09T18:21:19Z",
+            "version": 2,
+            "changeset": 127262287,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Pojazd ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Czerniejewo",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087554517,
+            "lat": 52.4253165,
+            "lon": 17.4851138,
+            "timestamp": "2022-10-09T18:21:19Z",
+            "version": 1,
+            "changeset": 127262287,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W recepcji w Hali Widowiskowo-Sportowej.",
+                "defibrillator:location:en": "At the reception in the Sports and Entertainment Hall.",
+                "description": "Dostępna w godzinach otwarcia hali.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 15:00-21:00; Sa,Su off; PH off",
+                "operator": "UG Czerniejewo",
+                "phone": "+48 665 407 788",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087554519,
+            "lat": 52.4263686,
+            "lon": 17.4870566,
+            "timestamp": "2022-10-09T18:21:19Z",
+            "version": 1,
+            "changeset": 127262287,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy drzwiach wejściowych na sale gimnastyczną, na ścianie po lewej stronie.",
+                "defibrillator:location:en": "At the entrance door to the gym, on the wall on the left.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "1",
+                "opening_hours": "24/7"
             }
         }
     ]
