@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-09T16:30:58Z",
+        "timestamp_osm_base": "2022-10-09T17:30:54Z",
         "timestamp_areas_base": "2022-10-09T14:22:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -72737,6 +72737,45 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "UM Opole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087313208,
+            "lat": 50.6880636,
+            "lon": 17.8805911,
+            "timestamp": "2022-10-09T16:40:41Z",
+            "version": 1,
+            "changeset": 127258016,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "W Centrum Sportu",
+                "emergency": "defibrillator",
+                "fixme": "uzupełnić dane AED'a."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10087367970,
+            "lat": 50.6823074,
+            "lon": 17.8540221,
+            "timestamp": "2022-10-09T17:09:08Z",
+            "version": 1,
+            "changeset": 127259456,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie budynku, od strony boiska sportowego.",
+                "defibrillator:location:en": "On the outer wall of the building, facing the sports field.",
+                "description": "W zielonej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Opole Bierkowice",
+                "wheelchair": "limited"
             }
         }
     ]
