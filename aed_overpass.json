@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-10T10:32:17Z",
+        "timestamp_osm_base": "2022-10-10T11:31:09Z",
         "timestamp_areas_base": "2022-10-10T04:30:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1689,21 +1689,6 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 6291841431,
-            "lat": 49.5397638,
-            "lon": 20.577042,
-            "timestamp": "2022-01-30T19:26:47Z",
-            "version": 2,
-            "changeset": 116793727,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "defibrillator:location": "na ścianie OSP",
-                "emergency": "defibrillator"
             }
         },
         {
@@ -72890,6 +72875,42 @@
                 "operator": "Ośrodek dla Bezdomnych nr 1",
                 "phone": "+48 61 879 82 12",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10089475517,
+            "lat": 52.2528269,
+            "lon": 21.163777,
+            "timestamp": "2022-10-10T11:24:49Z",
+            "version": 2,
+            "changeset": 127297470,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W portierni szkoły, na ścianie po lewej stronie, zaraz przy drzwiach wejściowych do budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "06:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10089483217,
+            "lat": 52.2557729,
+            "lon": 20.9204635,
+            "timestamp": "2022-10-10T11:28:13Z",
+            "version": 2,
+            "changeset": 127297687,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Budynek OKiE Wola. Można się dostać do środka zewnętrznymi schodami na 1 piętro lub windą (wejście od ul. Lencewicza).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "08:00-20:00"
             }
         }
     ]
