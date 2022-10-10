@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-10T18:31:45Z",
+        "timestamp_osm_base": "2022-10-10T19:31:38Z",
         "timestamp_areas_base": "2022-10-10T04:30:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73004,19 +73004,55 @@
         },
         {
             "type": "node",
+            "id": 10090297343,
+            "lat": 52.2403594,
+            "lon": 20.9878633,
+            "timestamp": "2022-10-10T18:37:38Z",
+            "version": 1,
+            "changeset": 127318525,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W korytarzu tuż przy szatni na parterze",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "Mo-Su 09:00-19:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10090297344,
+            "lat": 52.2438815,
+            "lon": 20.9444581,
+            "timestamp": "2022-10-10T18:37:38Z",
+            "version": 1,
+            "changeset": 127318525,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Na ścianie przy oknie, obok stanowiska bibliotekarza",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Su 09:00-19:00"
+            }
+        },
+        {
+            "type": "node",
             "id": 10090305317,
             "lat": 52.2344267,
             "lon": 20.9414762,
-            "timestamp": "2022-10-10T18:18:53Z",
-            "version": 1,
-            "changeset": 127317947,
+            "timestamp": "2022-10-10T18:37:38Z",
+            "version": 2,
+            "changeset": 127318525,
             "user": "starsep",
             "uid": 11306447,
             "tags": {
                 "access": "customers",
                 "defibrillator:location:pl": "W korytarzu Biblioteki/Wypożyczalni",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Tu, Th 09:00-15:30; Mo, We, Fr 12:00-19:00"
             }
         }
     ]
