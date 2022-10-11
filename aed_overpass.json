@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-11T21:32:21Z",
-        "timestamp_areas_base": "2022-10-11T19:56:04Z",
+        "timestamp_osm_base": "2022-10-11T22:31:21Z",
+        "timestamp_areas_base": "2022-10-11T21:57:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11092,18 +11092,19 @@
             "id": 9412020017,
             "lat": 52.1718258,
             "lon": 21.2317465,
-            "timestamp": "2022-02-14T12:31:10Z",
-            "version": 2,
-            "changeset": 117391719,
-            "user": "Mateusz Konieczny",
-            "uid": 1722488,
+            "timestamp": "2022-10-11T21:38:29Z",
+            "version": 3,
+            "changeset": 127382610,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu do WCK",
                 "defibrillator:location:en": "On the wall nearby entrance",
                 "description": "Aed umieszczony jest na ścianie budynku na zewnątrz na prawo od wejścia. Teren posesji Centrum Kultury jest ogrodzony i po ostatnich zajęciach ok. godziny 21:00 często zamykana jest furtka i brama. Stąd w informacja o ograniczonej dostępności.",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -73134,6 +73135,61 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 08:00-22:00; PH off"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10093520205,
+            "lat": 52.2045447,
+            "lon": 20.9612102,
+            "timestamp": "2022-10-11T21:51:52Z",
+            "version": 1,
+            "changeset": 127382903,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Urządzenie zawieszone na zewnętrznej ścianie budynku przy samym wejściu do obiektu",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "phone": "+48 726 061 016"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10093520206,
+            "lat": 52.2151604,
+            "lon": 20.9726964,
+            "timestamp": "2022-10-11T21:51:52Z",
+            "version": 1,
+            "changeset": 127382903,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "AED zawieszone na ścianie na wprost wejścia do obiektu krytej pływalni",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "phone": "+48 512 777 104"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10093527786,
+            "lat": 52.23621,
+            "lon": 20.9618768,
+            "timestamp": "2022-10-11T21:45:38Z",
+            "version": 1,
+            "changeset": 127382757,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W Wydziale Świadczeń Socjalnych",
+                "emergency": "defibrillator",
+                "level": "0",
+                "location": "indoor",
+                "opening_hours": "Mo-Fr 08:00-16:00"
             }
         }
     ]
