@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-11T05:31:58Z",
+        "timestamp_osm_base": "2022-10-11T06:33:07Z",
         "timestamp_areas_base": "2022-10-11T04:46:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73054,6 +73054,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Tu, Th 09:00-15:30; Mo, We, Fr 12:00-19:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10091473117,
+            "lat": 52.1970963,
+            "lon": 20.9776399,
+            "timestamp": "2022-10-11T06:29:40Z",
+            "version": 1,
+            "changeset": 127338108,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Na ścianie w holu głównym biblioteki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
