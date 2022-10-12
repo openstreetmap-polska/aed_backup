@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-12T12:31:39Z",
+        "timestamp_osm_base": "2022-10-12T13:31:29Z",
         "timestamp_areas_base": "2022-10-12T00:58:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73255,6 +73255,125 @@
                 "operator": "Przedszkole nr 7",
                 "phone": "+48 789 193 499",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350597,
+            "lat": 50.9777569,
+            "lon": 18.5017943,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Kościeliskach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350598,
+            "lat": 50.9332067,
+            "lon": 18.5327967,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Radłowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350599,
+            "lat": 50.9591177,
+            "lon": 18.542912,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Ligocie Oleskiej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350600,
+            "lat": 50.8761416,
+            "lon": 18.4185934,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w Oleśńie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350601,
+            "lat": 50.9099133,
+            "lon": 18.6343688,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Bodzanowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350602,
+            "lat": 50.8649335,
+            "lon": 18.5596426,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Borkach Wielkich"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095350603,
+            "lat": 50.8408183,
+            "lon": 18.4387647,
+            "timestamp": "2022-10-12T13:28:18Z",
+            "version": 1,
+            "changeset": 127416787,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Wysokiej"
             }
         }
     ]
