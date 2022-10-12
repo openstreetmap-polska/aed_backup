@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-12T07:31:53Z",
+        "timestamp_osm_base": "2022-10-12T08:31:52Z",
         "timestamp_areas_base": "2022-10-12T00:58:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48152,9 +48152,9 @@
             "id": 9568482117,
             "lat": 52.4528026,
             "lon": 16.848306,
-            "timestamp": "2022-10-05T10:52:11Z",
-            "version": 2,
-            "changeset": 127041184,
+            "timestamp": "2022-10-12T08:11:29Z",
+            "version": 3,
+            "changeset": 127399198,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -48164,7 +48164,7 @@
                 "indoor": "no",
                 "manufacturer": "Philips FRx standard NR: B20A-00240",
                 "opening_hours": "24/7",
-                "operator": "Rada Osiedla Strszeszyn",
+                "operator": "Rada Osiedla Strzeszyn",
                 "phone": "+48 61 624 63 11",
                 "wheelchair": "yes"
             }
@@ -72947,9 +72947,9 @@
             "id": 10089548158,
             "lat": 52.4000391,
             "lon": 16.9474933,
-            "timestamp": "2022-10-10T12:13:32Z",
-            "version": 1,
-            "changeset": 127300002,
+            "timestamp": "2022-10-12T07:33:07Z",
+            "version": 2,
+            "changeset": 127397705,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -72962,7 +72962,7 @@
                 "manufacturer": "IPAD",
                 "opening_hours": "24/7",
                 "operator": "Stowarzyszenie Na Rzecz Osób Niepełnosprawnych \"Równy Start\"",
-                "phone": "+48602226692",
+                "phone": "+48 602 226 692",
                 "wheelchair": "no"
             }
         },
@@ -73190,6 +73190,47 @@
                 "level": "0",
                 "location": "indoor",
                 "opening_hours": "Mo-Fr 08:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10094740931,
+            "lat": 52.415537,
+            "lon": 16.932701,
+            "timestamp": "2022-10-12T08:19:43Z",
+            "version": 1,
+            "changeset": 127399484,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat XII LO",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "IPAD CU-SP1",
+                "opening_hours": "Mo-Fr 07:00-17:35",
+                "operator": "XII LO",
+                "phone": "+48 61 852 55 58",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10094754517,
+            "lat": 52.1924333,
+            "lon": 20.9250695,
+            "timestamp": "2022-10-12T08:28:55Z",
+            "version": 2,
+            "changeset": 127399814,
+            "user": "frydzio",
+            "uid": 1208322,
+            "tags": {
+                "defibrillator:location": "Na ścianie na wprost od wejścia, za schodami",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
