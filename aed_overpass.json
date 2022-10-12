@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-12T18:31:09Z",
+        "timestamp_osm_base": "2022-10-12T19:32:09Z",
         "timestamp_areas_base": "2022-10-12T00:58:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -72971,18 +72971,20 @@
             "id": 10090006672,
             "lat": 52.2944884,
             "lon": 17.8666846,
-            "timestamp": "2022-10-10T15:43:21Z",
-            "version": 1,
-            "changeset": 127310878,
+            "timestamp": "2022-10-12T19:12:27Z",
+            "version": 2,
+            "changeset": 127432407,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "AED znajduje się w pokoju ratowników (pokój nr 13). Z recepcji korytarz w prawo.",
+                "defibrillator:location:en": "The AED is located in the paramedics room (number 13). Right from the reception desk.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
                 "mobile": "+48 500 025 055",
-                "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00; PH 07:00-21:00",
+                "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
                 "operator": "OSiR Słupca",
                 "wheelchair": "yes"
             }
