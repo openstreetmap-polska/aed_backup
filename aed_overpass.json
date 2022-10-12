@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.58.5 b0c4acbb",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-12T11:31:53Z",
+        "timestamp_osm_base": "2022-10-12T12:31:39Z",
         "timestamp_areas_base": "2022-10-12T00:58:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73231,6 +73231,30 @@
                 "defibrillator:location": "Na ścianie na wprost od wejścia, za schodami",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10095217344,
+            "lat": 52.3695947,
+            "lon": 16.8717776,
+            "timestamp": "2022-10-12T12:13:39Z",
+            "version": 1,
+            "changeset": 127412304,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "hol budynku",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Heartstart FRX PHILIPS",
+                "opening_hours": "Mo-Fr 06:30-17:00",
+                "operator": "Przedszkole nr 7",
+                "phone": "+48 789 193 499",
+                "wheelchair": "no"
             }
         }
     ]
