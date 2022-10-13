@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-13T15:31:36Z",
+        "timestamp_osm_base": "2022-10-13T16:32:38Z",
         "timestamp_areas_base": "2022-10-13T11:16:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73427,6 +73427,20 @@
                 "defibrillator:location": "Na ścianie przy wejściu do budynku starostwa powiatowego",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10098385318,
+            "lat": 50.2468572,
+            "lon": 21.778279,
+            "timestamp": "2022-10-13T15:41:01Z",
+            "version": 1,
+            "changeset": 127477607,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "emergency": "defibrillator"
             }
         }
     ]
