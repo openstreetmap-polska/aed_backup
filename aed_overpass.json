@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-13T06:31:53Z",
+        "timestamp_osm_base": "2022-10-13T07:18:38Z",
         "timestamp_areas_base": "2022-10-13T06:15:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73376,6 +73376,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Wysokiej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10097078717,
+            "lat": 50.0352588,
+            "lon": 18.7039126,
+            "timestamp": "2022-10-13T07:17:06Z",
+            "version": 1,
+            "changeset": 127451870,
+            "user": "asbb",
+            "uid": 2563391,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Po prawej stronie od wejścia.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
