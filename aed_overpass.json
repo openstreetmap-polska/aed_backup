@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-14T12:32:09Z",
+        "timestamp_osm_base": "2022-10-14T13:31:24Z",
         "timestamp_areas_base": "2022-10-14T10:30:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73461,31 +73461,6 @@
                 "emergency_telephone_code": "112",
                 "indoor": "yes",
                 "level": "2",
-                "manufacturer": "MEPAD Public Access Defibrillator, model CU-SP1",
-                "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "Dom Pomocy Społecznej",
-                "phone": "+48 61 828 43 00",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10100365348,
-            "lat": 52.4267097,
-            "lon": 16.9513474,
-            "timestamp": "2022-10-14T07:05:17Z",
-            "version": 1,
-            "changeset": 127507088,
-            "user": "polar7",
-            "uid": 3894590,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "piętro 1 budynek \"20\"",
-                "description": "apteczka",
-                "emergency": "defibrillator",
-                "emergency_telephone_code": "112",
-                "indoor": "yes",
-                "level": "1",
                 "manufacturer": "MEPAD Public Access Defibrillator, model CU-SP1",
                 "opening_hours": "Mo-Su 06:00-22:00",
                 "operator": "Dom Pomocy Społecznej",
