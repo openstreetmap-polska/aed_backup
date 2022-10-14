@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-14T20:32:34Z",
-        "timestamp_areas_base": "2022-10-14T19:36:34Z",
+        "timestamp_osm_base": "2022-10-14T21:31:10Z",
+        "timestamp_areas_base": "2022-10-14T20:37:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -26044,24 +26044,6 @@
         },
         {
             "type": "node",
-            "id": 9459253777,
-            "lat": 51.3426293,
-            "lon": 18.253099,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Galewice"
-            }
-        },
-        {
-            "type": "node",
             "id": 9459253778,
             "lat": 51.40144,
             "lon": 18.27814,
@@ -44830,24 +44812,6 @@
                 "emergency": "defibrillator",
                 "fixme": "exact location, access, description",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9532265349,
-            "lat": 51.3425911,
-            "lon": 18.2530967,
-            "timestamp": "2022-02-24T12:23:50Z",
-            "version": 1,
-            "changeset": 117810244,
-            "user": "Marek-M",
-            "uid": 598860,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Galewice"
             }
         },
         {
@@ -73525,6 +73489,25 @@
                 "defibrillator:location:en": "On level -1 in main reception",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10102139196,
+            "lat": 52.4338366,
+            "lon": 16.9363314,
+            "timestamp": "2022-10-14T21:20:22Z",
+            "version": 1,
+            "changeset": 127545954,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, blisko kas",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "w godzinach pracy sklepu",
+                "operator": "Castorama"
             }
         }
     ]
