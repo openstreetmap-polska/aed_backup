@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-14T14:31:38Z",
+        "timestamp_osm_base": "2022-10-14T15:38:54Z",
         "timestamp_areas_base": "2022-10-14T10:30:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73506,6 +73506,23 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location:en": "In the middle of the second floor in conference center, next to stairs going down.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10101353317,
+            "lat": 52.2400523,
+            "lon": 21.0470967,
+            "timestamp": "2022-10-14T15:00:12Z",
+            "version": 1,
+            "changeset": 127530435,
+            "user": "Adikso",
+            "uid": 3167354,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "On level -1 in main reception",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
