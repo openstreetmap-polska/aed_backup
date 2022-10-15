@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-15T17:32:07Z",
+        "timestamp_osm_base": "2022-10-15T18:32:06Z",
         "timestamp_areas_base": "2022-10-15T14:43:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -35115,16 +35115,16 @@
         {
             "type": "node",
             "id": 9490773430,
-            "lat": 53.5620077,
-            "lon": 14.8373812,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "lat": 53.5619953,
+            "lon": 14.8373803,
+            "timestamp": "2022-10-15T18:30:46Z",
+            "version": 6,
+            "changeset": 127583550,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "contact:phone": "+48914182104",
+                "contact:phone": "+48 91 418 21 04",
                 "defibrillator:location": "Hala sportowa w pokoju gospodarza hali",
                 "defibrillator:location:en": "Sports hall - in the hall's host room.",
                 "description": "Hala sportowa przy SP2",
