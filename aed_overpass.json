@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-15T08:32:25Z",
-        "timestamp_areas_base": "2022-10-15T07:39:36Z",
+        "timestamp_osm_base": "2022-10-15T09:31:25Z",
+        "timestamp_areas_base": "2022-10-15T08:39:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2955,18 +2955,18 @@
             "id": 7785630027,
             "lat": 52.5967243,
             "lon": 15.4982813,
-            "timestamp": "2022-02-05T19:39:23Z",
-            "version": 4,
-            "changeset": 117058486,
-            "user": "user_5359",
-            "uid": 5359,
+            "timestamp": "2022-10-15T08:58:38Z",
+            "version": 5,
+            "changeset": 127560528,
+            "user": "kmpoppe (@ Mapillary Update)",
+            "uid": 14309561,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "przy budynku Nadleśnictwa",
                 "emergency": "defibrillator",
                 "image": "https://images.mapillary.com/pZLoie5e088vVowuCDSv4o/thumb-2048.jpg",
                 "indoor": "no",
-                "mapillary": "https://www.mapillary.com/map/im/pZLoie5e088vVowuCDSv4o",
+                "mapillary": "549623356004022",
                 "opening_hours": "24/7",
                 "operator": "Nadleśnictwo Skwierzyna"
             }
