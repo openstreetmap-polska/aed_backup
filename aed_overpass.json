@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-17T00:31:55Z",
-        "timestamp_areas_base": "2022-10-17T00:01:34Z",
+        "timestamp_osm_base": "2022-10-17T01:32:51Z",
+        "timestamp_areas_base": "2022-10-17T01:01:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2222,15 +2222,15 @@
             "id": 7105318578,
             "lat": 51.9406072,
             "lon": 15.508794,
-            "timestamp": "2020-01-03T18:22:39Z",
-            "version": 1,
-            "changeset": 79168570,
-            "user": "km2bp",
-            "uid": 3610826,
+            "timestamp": "2022-10-17T00:59:39Z",
+            "version": 2,
+            "changeset": 127643017,
+            "user": "kmpoppe (@ Mapillary Update)",
+            "uid": 14309561,
             "tags": {
                 "emergency": "defibrillator",
                 "image": "https://images.mapillary.com/PfZRkO8gBTGQV83uz5Ji6w/thumb-2048.jpg",
-                "mapillary": "https://www.mapillary.com/map/im/PfZRkO8gBTGQV83uz5Ji6w"
+                "mapillary": "1364071977308687"
             }
         },
         {
