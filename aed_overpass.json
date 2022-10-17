@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-17T05:00:24Z",
+        "timestamp_osm_base": "2022-10-17T06:33:51Z",
         "timestamp_areas_base": "2022-10-17T04:02:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73559,6 +73559,30 @@
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10107916650,
+            "lat": 52.4102293,
+            "lon": 16.818314,
+            "timestamp": "2022-10-17T06:01:10Z",
+            "version": 1,
+            "changeset": 127649701,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "klataka schodowa",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "VIRIDIAN",
+                "opening_hours": "Mo-Fr 06:00-17:00",
+                "operator": "Przedszkole nr 36",
+                "phone": "+48 61 677 10 01",
+                "wheelchair": "no"
             }
         }
     ]
