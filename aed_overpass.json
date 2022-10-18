@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-18T10:31:09Z",
-        "timestamp_areas_base": "2022-10-18T07:18:09Z",
+        "timestamp_osm_base": "2022-10-18T11:31:08Z",
+        "timestamp_areas_base": "2022-10-18T11:20:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46194,14 +46194,14 @@
             "id": 9536899695,
             "lat": 52.2516748,
             "lon": 21.0354344,
-            "timestamp": "2022-02-26T12:08:22Z",
-            "version": 1,
-            "changeset": 117877009,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-10-18T10:54:15Z",
+            "version": 2,
+            "changeset": 127719692,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku (wejście A, punkt Ochrony)",
                 "defibrillator:location:en": "The device is located inside the building",
                 "emergency": "defibrillator",
                 "operator": "Urząd Marszałkowski Województwa Mazowieckiego"
@@ -73654,6 +73654,26 @@
                 "defibrillator:location": "w wewnętrznej wnęce wejściowej do Apteki",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111105714,
+            "lat": 54.2369997,
+            "lon": 18.2005076,
+            "timestamp": "2022-10-18T11:05:49Z",
+            "version": 1,
+            "changeset": 127720557,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej budynku OSP",
+                "defibrillator:location:en": "On the front wall of the Fire Department",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Somonino"
             }
         }
     ]
