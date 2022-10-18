@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-18T16:31:52Z",
-        "timestamp_areas_base": "2022-10-18T11:20:53Z",
+        "timestamp_osm_base": "2022-10-18T17:31:48Z",
+        "timestamp_areas_base": "2022-10-18T17:24:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73675,6 +73675,115 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "OSP Egiertowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111780617,
+            "lat": 52.2236068,
+            "lon": 16.3654676,
+            "timestamp": "2022-10-18T16:57:41Z",
+            "version": 2,
+            "changeset": 127738317,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w holu głównym Urzędu Miejskiego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111785761,
+            "lat": 53.9019478,
+            "lon": 17.0662145,
+            "timestamp": "2022-10-18T17:16:29Z",
+            "version": 1,
+            "changeset": 127739548,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana na lewo od wejścia do Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111794217,
+            "lat": 53.359661,
+            "lon": 20.4258039,
+            "timestamp": "2022-10-18T17:02:48Z",
+            "version": 1,
+            "changeset": 127738663,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana na lewo od wejścia do Urzędu Miasta i Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111806366,
+            "lat": 52.7391888,
+            "lon": 14.7058385,
+            "timestamp": "2022-10-18T17:08:42Z",
+            "version": 1,
+            "changeset": 127739044,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w biurze obsługi klienta, przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-16:00; Tu-Th 07:00-15:00; Fr 07:00-14:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111807499,
+            "lat": 50.1751342,
+            "lon": 20.9864489,
+            "timestamp": "2022-10-18T17:28:13Z",
+            "version": 1,
+            "changeset": 127740083,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana na lewo od wejścia do Urzędu Miasta i Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10111848517,
+            "lat": 52.45236,
+            "lon": 15.5845137,
+            "timestamp": "2022-10-18T17:27:27Z",
+            "version": 1,
+            "changeset": 127740056,
+            "user": "szejk07",
+            "uid": 17333939,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się na parterze na ścianie, w korytarzu łączącym salę sesyjną z budynkiem głównym",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "+48660860112"
             }
         }
     ]
