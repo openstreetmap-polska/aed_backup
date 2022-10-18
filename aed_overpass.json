@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-18T06:33:35Z",
-        "timestamp_areas_base": "2022-10-18T06:18:14Z",
+        "timestamp_osm_base": "2022-10-18T07:31:22Z",
+        "timestamp_areas_base": "2022-10-18T07:18:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44813,6 +44813,24 @@
                 "emergency": "defibrillator",
                 "fixme": "exact location, access, description",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9532265349,
+            "lat": 51.3425911,
+            "lon": 18.2530967,
+            "timestamp": "2022-10-18T06:54:08Z",
+            "version": 3,
+            "changeset": 127707114,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Galewice"
             }
         },
         {
