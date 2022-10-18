@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-18T20:31:29Z",
-        "timestamp_areas_base": "2022-10-18T20:27:24Z",
+        "timestamp_osm_base": "2022-10-18T21:31:36Z",
+        "timestamp_areas_base": "2022-10-18T21:29:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73959,6 +73959,40 @@
                 "fixme": "lokalizacja",
                 "indoor": "yes",
                 "operator": "Praktyka Lekarzy Małgorzata Jordan i Ewa Majcherek-Jaworska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112230152,
+            "lat": 49.9754636,
+            "lon": 19.8273334,
+            "timestamp": "2022-10-18T20:49:17Z",
+            "version": 1,
+            "changeset": 127747395,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Komisariat Policji w Skawinie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112230153,
+            "lat": 49.971608,
+            "lon": 19.8537613,
+            "timestamp": "2022-10-18T20:49:17Z",
+            "version": 1,
+            "changeset": 127747395,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Szkoła Podstawowa Nr 4 im. Stanisława Wyspiańskiego w Skawinie"
             }
         }
     ]
