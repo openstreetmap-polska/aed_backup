@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-18T19:31:37Z",
-        "timestamp_areas_base": "2022-10-18T17:24:38Z",
+        "timestamp_osm_base": "2022-10-18T20:31:29Z",
+        "timestamp_areas_base": "2022-10-18T20:27:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73855,6 +73855,110 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 08:00-21:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170948,
+            "lat": 49.9754736,
+            "lon": 19.8258567,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta i Gminy Skawina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170949,
+            "lat": 49.9746907,
+            "lon": 19.8333061,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ad Vitam prychodnia rodzinna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170950,
+            "lat": 49.9719177,
+            "lon": 19.8273605,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "dokładna lokalizacja",
+                "indoor": "yes",
+                "operator": "SKAW-MED Spółka z o.o. Niepubliczny Zakład Opieki Zdrowotnej Poradnie Specjalistyczne POZ"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170951,
+            "lat": 49.9391684,
+            "lon": 19.8150164,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Przychodnia Radziszów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170952,
+            "lat": 49.9611089,
+            "lon": 19.7005369,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy windzie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "NZOZ Praktyka Lekarska s. c."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10112170953,
+            "lat": 49.9077564,
+            "lon": 19.7874305,
+            "timestamp": "2022-10-18T20:16:04Z",
+            "version": 1,
+            "changeset": 127746232,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "fixme": "lokalizacja",
+                "indoor": "yes",
+                "operator": "Praktyka Lekarzy Małgorzata Jordan i Ewa Majcherek-Jaworska"
             }
         }
     ]
