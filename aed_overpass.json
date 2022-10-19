@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-19T17:32:18Z",
+        "timestamp_osm_base": "2022-10-19T18:32:24Z",
         "timestamp_areas_base": "2022-10-19T05:31:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74011,6 +74011,23 @@
                 "defibrillator:location:en": "On the wall of the gatehouse",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10114872517,
+            "lat": 51.2374642,
+            "lon": 21.0111291,
+            "timestamp": "2022-10-19T18:18:34Z",
+            "version": 1,
+            "changeset": 127799560,
+            "user": "Jankes1997",
+            "uid": 17436089,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na wyposażeniu samochodu OSP Nowy Dwór",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
