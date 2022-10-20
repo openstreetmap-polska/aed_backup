@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-20T16:31:23Z",
-        "timestamp_areas_base": "2022-10-20T15:51:39Z",
+        "timestamp_osm_base": "2022-10-20T17:32:17Z",
+        "timestamp_areas_base": "2022-10-20T16:52:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74026,6 +74026,23 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Na wyposażeniu samochodu OSP Nowy Dwór",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10116928022,
+            "lat": 52.1647841,
+            "lon": 21.0896685,
+            "timestamp": "2022-10-20T16:50:01Z",
+            "version": 1,
+            "changeset": 127847831,
+            "user": "Coolawik",
+            "uid": 13547019,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W Muzeum Pałacu Króla Jana III w Wilanowie (na ścianie po wejściu).",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
