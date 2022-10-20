@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-20T14:31:39Z",
+        "timestamp_osm_base": "2022-10-20T15:31:25Z",
         "timestamp_areas_base": "2022-10-20T12:48:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -17601,13 +17601,13 @@
         {
             "type": "node",
             "id": 9438078912,
-            "lat": 52.24654,
-            "lon": 21.06856,
-            "timestamp": "2022-01-21T21:15:09Z",
-            "version": 1,
-            "changeset": 116447996,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 52.2465287,
+            "lon": 21.0685823,
+            "timestamp": "2022-10-20T15:23:48Z",
+            "version": 2,
+            "changeset": 127844804,
+            "user": "Bi Bim Bap",
+            "uid": 13126619,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Sala Obsługi Mieszkańców Urzędu Dzielnicy Praga-Południe, parter, naprzeciwko stanowiska Informacji",
