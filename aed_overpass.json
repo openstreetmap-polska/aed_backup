@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-20T22:32:09Z",
-        "timestamp_areas_base": "2022-10-20T21:55:44Z",
+        "timestamp_osm_base": "2022-10-20T23:32:02Z",
+        "timestamp_areas_base": "2022-10-20T22:56:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74028,6 +74028,23 @@
                 "defibrillator:location:pl": "W Muzeum Pałacu Króla Jana III w Wilanowie (na ścianie po wejściu).",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10117572417,
+            "lat": 52.2905042,
+            "lon": 18.258317,
+            "timestamp": "2022-10-20T22:51:49Z",
+            "version": 1,
+            "changeset": 127858180,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po lewej stronie wejścia do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
