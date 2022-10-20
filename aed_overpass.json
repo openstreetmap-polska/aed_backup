@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-20T20:31:54Z",
-        "timestamp_areas_base": "2022-10-20T18:53:23Z",
+        "timestamp_osm_base": "2022-10-20T21:31:29Z",
+        "timestamp_areas_base": "2022-10-20T20:55:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73889,23 +73889,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ad Vitam prychodnia rodzinna"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10112170950,
-            "lat": 49.9719177,
-            "lon": 19.8273605,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
-            "tags": {
-                "emergency": "defibrillator",
-                "fixme": "dokładna lokalizacja",
-                "indoor": "yes",
-                "operator": "SKAW-MED Spółka z o.o. Niepubliczny Zakład Opieki Zdrowotnej Poradnie Specjalistyczne POZ"
             }
         },
         {
