@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-21T21:32:24Z",
-        "timestamp_areas_base": "2022-10-21T21:06:39Z",
+        "timestamp_osm_base": "2022-10-21T22:32:02Z",
+        "timestamp_areas_base": "2022-10-21T22:08:31Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74133,6 +74133,76 @@
                 "defibrillator:location": "w holu recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119844806,
+            "lat": 53.8894869,
+            "lon": 18.3526683,
+            "timestamp": "2022-10-21T22:04:51Z",
+            "version": 1,
+            "changeset": 127904141,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "na szkolnym budynku przed szlabanem",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119844807,
+            "lat": 53.9831054,
+            "lon": 18.3901332,
+            "timestamp": "2022-10-21T22:04:51Z",
+            "version": 1,
+            "changeset": 127904141,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "remiza OSP - na lewo od drzwi garażowych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119844808,
+            "lat": 53.9226275,
+            "lon": 18.2834238,
+            "timestamp": "2022-10-21T22:04:51Z",
+            "version": 1,
+            "changeset": 127904141,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "remiza OSP - na prawo od drzwi garażowych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119844810,
+            "lat": 53.9336121,
+            "lon": 18.3264177,
+            "timestamp": "2022-10-21T22:04:51Z",
+            "version": 1,
+            "changeset": 127904141,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy wejściu do GOKU, po prawej stronie (koło windy);",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         }
     ]
