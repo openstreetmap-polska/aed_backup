@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-21T22:32:02Z",
-        "timestamp_areas_base": "2022-10-21T22:08:31Z",
+        "timestamp_osm_base": "2022-10-21T23:32:24Z",
+        "timestamp_areas_base": "2022-10-21T23:08:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74203,6 +74203,23 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119909302,
+            "lat": 51.5969096,
+            "lon": 17.7589683,
+            "timestamp": "2022-10-21T22:43:08Z",
+            "version": 1,
+            "changeset": 127904787,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "operator": "OSP Topola Wielka"
             }
         }
     ]
