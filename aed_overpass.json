@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-22T13:32:05Z",
-        "timestamp_areas_base": "2022-10-22T13:12:39Z",
+        "timestamp_osm_base": "2022-10-22T14:31:54Z",
+        "timestamp_areas_base": "2022-10-22T14:12:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74272,6 +74272,40 @@
                 "access": "customers",
                 "defibrillator:location": "Recepcja firmy Vestas, IV piętro",
                 "defibrillator:location:en": "Vestas front desk, 4th floor",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10121177918,
+            "lat": 53.1429617,
+            "lon": 18.1312594,
+            "timestamp": "2022-10-22T14:06:11Z",
+            "version": 1,
+            "changeset": 127923853,
+            "user": "ISBM",
+            "uid": 6850472,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy portierni głównej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10121177919,
+            "lat": 53.1430655,
+            "lon": 18.1310515,
+            "timestamp": "2022-10-22T14:07:20Z",
+            "version": 1,
+            "changeset": 127923882,
+            "user": "ISBM",
+            "uid": 6850472,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy portierni głównej (przy wejściu)",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
