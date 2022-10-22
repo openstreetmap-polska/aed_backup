@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-22T09:32:16Z",
+        "timestamp_osm_base": "2022-10-22T10:32:09Z",
         "timestamp_areas_base": "2022-10-22T09:10:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74256,6 +74256,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "seasonal": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10120614117,
+            "lat": 53.4255256,
+            "lon": 14.550283,
+            "timestamp": "2022-10-22T10:23:00Z",
+            "version": 1,
+            "changeset": 127916194,
+            "user": "antychroost",
+            "uid": 17459638,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja firmy Vestas, IV piętro",
+                "defibrillator:location:en": "Vestas front desk, 4th floor",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
