@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-21T23:32:24Z",
-        "timestamp_areas_base": "2022-10-21T23:08:51Z",
+        "timestamp_osm_base": "2022-10-22T00:32:05Z",
+        "timestamp_areas_base": "2022-10-22T00:09:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74220,6 +74220,42 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "operator": "OSP Topola Wielka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119955112,
+            "lat": 53.7045243,
+            "lon": 19.9603096,
+            "timestamp": "2022-10-22T00:20:01Z",
+            "version": 1,
+            "changeset": 127906011,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "defibrillator:location": "Biuro Obsługi Interesanta (parter budynku, vis-a-vis wejścia głównego)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10119957580,
+            "lat": 54.5165772,
+            "lon": 18.5503256,
+            "timestamp": "2022-10-21T23:59:17Z",
+            "version": 1,
+            "changeset": 127905715,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pomieszczeniu ratowników, dostępny w sezonie letnim.",
+                "defibrillator:location:en": "Lifeguards' room, available in the summer season",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "seasonal": "yes"
             }
         }
     ]
