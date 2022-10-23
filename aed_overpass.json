@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-23T17:32:25Z",
+        "timestamp_osm_base": "2022-10-23T18:32:12Z",
         "timestamp_areas_base": "2022-10-23T16:24:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -13225,16 +13225,17 @@
             "id": 9422535217,
             "lat": 52.2441258,
             "lon": 21.0863138,
-            "timestamp": "2022-01-16T12:33:15Z",
-            "version": 1,
-            "changeset": 116212195,
-            "user": "ChrupChrup",
-            "uid": 14866379,
+            "timestamp": "2022-10-23T18:13:23Z",
+            "version": 2,
+            "changeset": 127968840,
+            "user": "kwiatek_123",
+            "uid": 14519311,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Na słupku przed wejściem do sklepu WSS Społem Universam (parter)",
                 "defibrillator:location:en": "On the column in front of the entrance to the WSS Społem Universam grocery store",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
