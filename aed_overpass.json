@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-23T21:32:05Z",
+        "timestamp_osm_base": "2022-10-23T22:32:09Z",
         "timestamp_areas_base": "2022-10-23T20:28:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74312,6 +74312,22 @@
                 "level": "0",
                 "operator": "Zarząd Transportu Publicznego w Krakowie",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10125095417,
+            "lat": 52.3298788,
+            "lon": 16.893882,
+            "timestamp": "2022-10-23T22:19:56Z",
+            "version": 1,
+            "changeset": 127975093,
+            "user": "Marcin CIESIELSKI",
+            "uid": 1655861,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
