@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-24T10:32:09Z",
+        "timestamp_osm_base": "2022-10-24T11:32:10Z",
         "timestamp_areas_base": "2022-10-24T07:32:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74316,8 +74316,8 @@
         {
             "type": "node",
             "id": 10125095417,
-            "lat": 52.3298788,
-            "lon": 16.893882,
+            "lat": 52.3298877,
+            "lon": 16.8939413,
             "timestamp": "2022-10-24T10:32:44Z",
             "version": 2,
             "changeset": 127990101,
@@ -74352,17 +74352,18 @@
             "id": 10125651819,
             "lat": 52.0107594,
             "lon": 20.7343128,
-            "timestamp": "2022-10-24T09:16:04Z",
-            "version": 1,
-            "changeset": 127987023,
+            "timestamp": "2022-10-24T11:31:55Z",
+            "version": 2,
+            "changeset": 127992456,
             "user": "cesio80",
             "uid": 17474888,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy wejściu na ścianie budynku",
+                "defibrillator:location": "Przy wejściu głównym na ścianie budynku",
                 "defibrillator:location:en": "On the wall near entrance to the building",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Szkoła Podstawowa w Ojrzanowie"
             }
         }
     ]
