@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-25T13:31:39Z",
+        "timestamp_osm_base": "2022-10-25T14:32:37Z",
         "timestamp_areas_base": "2022-10-25T05:45:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74379,6 +74379,22 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W budynku urzędu miasta, na parterze po prawej stronie od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10128161162,
+            "lat": 52.1770154,
+            "lon": 20.9895337,
+            "timestamp": "2022-10-25T13:35:47Z",
+            "version": 1,
+            "changeset": 128040843,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "defibrillator:location": "W prawo od wejścia do budynku, wisi na ścianie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
