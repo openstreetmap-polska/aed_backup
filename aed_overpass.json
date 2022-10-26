@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-26T21:32:10Z",
-        "timestamp_areas_base": "2022-10-26T20:47:24Z",
+        "timestamp_osm_base": "2022-10-26T22:32:09Z",
+        "timestamp_areas_base": "2022-10-26T21:49:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73611,17 +73611,19 @@
             "id": 10108633717,
             "lat": 53.9615213,
             "lon": 18.3485411,
-            "timestamp": "2022-10-17T12:33:05Z",
-            "version": 1,
-            "changeset": 127669963,
+            "timestamp": "2022-10-26T22:01:09Z",
+            "version": 2,
+            "changeset": 128103424,
             "user": "OSP Pinczyn",
             "uid": 2638348,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "defibrillator:location:en": "On the wall near entrance",
+                "description": "Remiza OSP Pinczyn",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
