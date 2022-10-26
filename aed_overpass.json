@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-26T19:32:12Z",
+        "timestamp_osm_base": "2022-10-26T20:31:09Z",
         "timestamp_areas_base": "2022-10-26T18:45:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10716,13 +10716,14 @@
             "id": 9407332718,
             "lat": 51.4716823,
             "lon": 16.9086653,
-            "timestamp": "2022-02-22T22:36:09Z",
-            "version": 3,
-            "changeset": 117746426,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-10-26T20:07:05Z",
+            "version": 4,
+            "changeset": 128100334,
+            "user": "Alexey Vazhnov",
+            "uid": 91771,
             "tags": {
                 "access": "yes",
+                "check_date": "2022-10-26",
                 "defibrillator:location": "Na północnej ścianie Urzędu Miasta (od strony Dino)",
                 "defibrillator:location:en": "On the northen wall of the City Hall (from the side of Dino)",
                 "emergency": "defibrillator",
