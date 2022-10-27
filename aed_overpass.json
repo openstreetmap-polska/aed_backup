@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-27T15:31:47Z",
+        "timestamp_osm_base": "2022-10-27T16:31:54Z",
         "timestamp_areas_base": "2022-10-27T11:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74535,6 +74535,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 10:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10132954417,
+            "lat": 50.5149907,
+            "lon": 17.3340983,
+            "timestamp": "2022-10-27T16:01:29Z",
+            "version": 1,
+            "changeset": 128136760,
+            "user": "Ochotnicza Straż Pożarna w Regulicach",
+            "uid": 17508244,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator na samochodzie bojowym\nW razie potrzeby dzwoń SK PSP w Nysie nr 112 lub uruchom syrenę alarmową przycisk na ścianie obok bramy wjazdowej",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10132968817,
+            "lat": 53.2641974,
+            "lon": 16.4513447,
+            "timestamp": "2022-10-27T16:09:42Z",
+            "version": 1,
+            "changeset": 128136997,
+            "user": "Patryk2710",
+            "uid": 12914377,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator"
             }
         }
     ]
