@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-27T05:32:09Z",
-        "timestamp_areas_base": "2022-10-27T04:52:23Z",
+        "timestamp_osm_base": "2022-10-27T06:32:08Z",
+        "timestamp_areas_base": "2022-10-27T05:52:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74402,6 +74402,96 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 7:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10131870217,
+            "lat": 52.406154,
+            "lon": 16.9181921,
+            "timestamp": "2022-10-27T05:39:58Z",
+            "version": 1,
+            "changeset": 128110794,
+            "user": "ewapio",
+            "uid": 17476489,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie naprzeciwko wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 856 90 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10131880117,
+            "lat": 52.4045603,
+            "lon": 16.9216469,
+            "timestamp": "2022-10-27T05:45:07Z",
+            "version": 1,
+            "changeset": 128110794,
+            "user": "ewapio",
+            "uid": 17476489,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze, na ścianie przy szatni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 856 90 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10131881117,
+            "lat": 52.4066072,
+            "lon": 16.9179681,
+            "timestamp": "2022-10-27T05:46:31Z",
+            "version": 1,
+            "changeset": 128110794,
+            "user": "ewapio",
+            "uid": 17476489,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na 1. piętrze na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 856 90 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10131881817,
+            "lat": 52.4054324,
+            "lon": 16.9220274,
+            "timestamp": "2022-10-27T05:47:22Z",
+            "version": 1,
+            "changeset": 128110794,
+            "user": "ewapio",
+            "uid": 17476489,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 856 90 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10131882117,
+            "lat": 52.4063331,
+            "lon": 16.9167185,
+            "timestamp": "2022-10-27T05:48:22Z",
+            "version": 1,
+            "changeset": 128110794,
+            "user": "ewapio",
+            "uid": 17476489,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 61 856 90 00"
             }
         }
     ]
