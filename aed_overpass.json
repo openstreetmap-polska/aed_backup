@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-27T17:31:39Z",
+        "timestamp_osm_base": "2022-10-27T18:31:44Z",
         "timestamp_areas_base": "2022-10-27T11:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -14229,23 +14229,6 @@
         },
         {
             "type": "node",
-            "id": 9424917812,
-            "lat": 49.7808603,
-            "lon": 22.7685907,
-            "timestamp": "2022-01-17T09:55:39Z",
-            "version": 1,
-            "changeset": 116246100,
-            "user": "Marek Janowski",
-            "uid": 14873342,
-            "tags": {
-                "defibrillator:location": "Mur narożny ulic Zamkowej i Kapitulnej, na wprost wejścia do Archikatedry.",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "operator": "Urząd Miejski w Przemyślu"
-            }
-        },
-        {
-            "type": "node",
             "id": 9424931417,
             "lat": 50.3407748,
             "lon": 19.563934,
@@ -14340,19 +14323,20 @@
         {
             "type": "node",
             "id": 9425151918,
-            "lat": 49.7808401,
-            "lon": 22.7685909,
-            "timestamp": "2022-01-17T11:02:42Z",
-            "version": 1,
-            "changeset": 116248272,
-            "user": "Marek Janowski",
-            "uid": 14873342,
+            "lat": 49.7807961,
+            "lon": 22.7685651,
+            "timestamp": "2022-10-27T18:28:26Z",
+            "version": 2,
+            "changeset": 128142007,
+            "user": "kwiatek_123",
+            "uid": 14519311,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Róg ulic Zamkowej i Kapitulnej. Na murze.",
                 "emergency": "defibrillator",
-                "emergency:phone": "112/999",
-                "location": "outdoor"
+                "indoor": "no",
+                "location": "outdoor",
+                "operator": "Urząd Miejski w Przemyślu"
             }
         },
         {
