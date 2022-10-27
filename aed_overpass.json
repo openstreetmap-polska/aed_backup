@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-27T11:31:39Z",
-        "timestamp_areas_base": "2022-10-27T10:53:53Z",
+        "timestamp_osm_base": "2022-10-27T12:31:38Z",
+        "timestamp_areas_base": "2022-10-27T11:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74492,6 +74492,30 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 61 856 90 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10132496505,
+            "lat": 52.4119686,
+            "lon": 16.9935146,
+            "timestamp": "2022-10-27T12:17:04Z",
+            "version": 1,
+            "changeset": 128127282,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dyżurka pielęgniarska 1 piętro",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "AED life POINT",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "operator": "Zakład Opiekuńczo-Leczniczy i Rehabilitacji Medycznej Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "phone": "+48 61 873 87 00",
+                "wheelchair": "yes"
             }
         }
     ]
