@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-27T13:31:42Z",
+        "timestamp_osm_base": "2022-10-27T14:31:43Z",
         "timestamp_areas_base": "2022-10-27T11:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66385,9 +66385,9 @@
             "id": 9860029017,
             "lat": 52.2502838,
             "lon": 21.0119882,
-            "timestamp": "2022-07-01T17:14:43Z",
-            "version": 2,
-            "changeset": 123094620,
+            "timestamp": "2022-10-27T13:46:14Z",
+            "version": 3,
+            "changeset": 128131133,
             "user": "ruzka",
             "uid": 6812164,
             "tags": {
@@ -66721,17 +66721,18 @@
             "id": 9868094595,
             "lat": 52.2499736,
             "lon": 21.011429,
-            "timestamp": "2022-07-05T11:48:41Z",
-            "version": 1,
-            "changeset": 123231609,
+            "timestamp": "2022-10-27T13:46:14Z",
+            "version": 2,
+            "changeset": 128131133,
             "user": "ruzka",
             "uid": 6812164,
             "tags": {
-                "access": "yes",
+                "access": "permissive",
                 "defibrillator:location": "Obok kasy biletowej",
                 "defibrillator:location:en": "Near the ticket office",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Tu-Fr 11:00-18:00; Th,Sa 11:00-20:00; Su 11:00-18:00",
                 "operator": "Muzeum Warszawy",
                 "phone": "+48 22 277 43 00"
             }
