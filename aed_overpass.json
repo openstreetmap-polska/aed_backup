@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-28T14:30:26Z",
+        "timestamp_osm_base": "2022-10-28T15:31:37Z",
         "timestamp_areas_base": "2022-10-28T13:10:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74569,6 +74569,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10135691917,
+            "lat": 51.2361596,
+            "lon": 22.5511386,
+            "timestamp": "2022-10-28T15:31:37Z",
+            "version": 2,
+            "changeset": 128180537,
+            "user": "charl3s",
+            "uid": 8019013,
+            "tags": {
+                "defibrillator:location": "w szatni na kondygnacji po wejściu schodami z zewnątrz. Kondygnacja zbliżona do parteru, ale w tym budynku jest to nietypowo trzecie piętro",
+                "defibrillator:location:pl": "w szatni na kondygnacji po wejściu schodami z zewnątrz. Kondygnacja zbliżona do parteru, ale w tym budynku jest to nietypowo trzecie piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
