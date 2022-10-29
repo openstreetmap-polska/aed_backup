@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-29T17:31:54Z",
-        "timestamp_areas_base": "2022-10-29T17:24:54Z",
+        "timestamp_osm_base": "2022-10-29T18:31:52Z",
+        "timestamp_areas_base": "2022-10-29T18:25:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74602,6 +74602,28 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138172315,
+            "lat": 53.9244054,
+            "lon": 14.4549436,
+            "timestamp": "2022-10-29T18:17:39Z",
+            "version": 1,
+            "changeset": 128222179,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku dworca.",
+                "defibrylator:location:en": "In the station building",
+                "description": "W kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Gmina Międzyzdroje",
+                "wheelchair": "limited"
             }
         }
     ]
