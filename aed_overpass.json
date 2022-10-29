@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-29T10:30:18Z",
-        "timestamp_areas_base": "2022-10-29T10:22:09Z",
+        "timestamp_osm_base": "2022-10-29T11:31:10Z",
+        "timestamp_areas_base": "2022-10-29T11:23:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50276,17 +50276,17 @@
             "id": 9570817327,
             "lat": 50.2879889,
             "lon": 21.4588737,
-            "timestamp": "2022-03-11T12:56:24Z",
-            "version": 1,
-            "changeset": 118363187,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-10-29T10:51:41Z",
+            "version": 2,
+            "changeset": 128205880,
+            "user": "Patryk2710",
+            "uid": 12914377,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator położony na filarze wewnątrz galerii handlowej.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Th 10:00-21:00, Fr-Sa 09:00-21:00, Su 10:00-19:00",
+                "opening_hours": "Mo-Th 10:00-21:00, Fr-Sa 09:00-21:00, Jan 30,Apr 10,Apr 24,Jun 26,Aug 28,Dec 11,Dec 18 Su 10:00-19:00",
                 "operator": "Galeria Navigator",
                 "phone": "+48177492350"
             }
@@ -64091,16 +64091,16 @@
             "id": 9817001101,
             "lat": 50.2879904,
             "lon": 21.4598528,
-            "timestamp": "2022-06-14T11:28:16Z",
-            "version": 1,
-            "changeset": 122369076,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-10-29T10:51:41Z",
+            "version": 2,
+            "changeset": 128205880,
+            "user": "Patryk2710",
+            "uid": 12914377,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
-                "phone": "+ 48 17 787 42 41"
+                "phone": "+48 17 787 42 41"
             }
         },
         {
@@ -74586,6 +74586,22 @@
                 "defibrillator:location:pl": "w szatni na kondygnacji po wejściu schodami z zewnątrz. Kondygnacja zbliżona do parteru, ale w tym budynku jest to nietypowo trzecie piętro",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10137587918,
+            "lat": 51.7462158,
+            "lon": 19.4388928,
+            "timestamp": "2022-10-29T11:28:19Z",
+            "version": 1,
+            "changeset": 128207089,
+            "user": "Squnxik",
+            "uid": 3068937,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]
