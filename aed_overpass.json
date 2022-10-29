@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-29T19:31:54Z",
-        "timestamp_areas_base": "2022-10-29T19:26:53Z",
+        "timestamp_osm_base": "2022-10-29T20:31:54Z",
+        "timestamp_areas_base": "2022-10-29T20:26:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68480,13 +68480,13 @@
             "id": 9933678601,
             "lat": 50.2916165,
             "lon": 18.6745544,
-            "timestamp": "2022-10-29T18:41:15Z",
-            "version": 2,
-            "changeset": 128222966,
+            "timestamp": "2022-10-29T20:03:38Z",
+            "version": 3,
+            "changeset": 128225327,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "private",
+                "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się na portierni przy wejściu do Rektoratu Politechniki Śląskiej.",
                 "defibrylator:location:en": "The AED defibrillator is located at the gatehouse at the entrance to the Rector's Office of the Silesian University of Technology.",
                 "emergency": "defibrillator",
@@ -74762,6 +74762,26 @@
                 "access": "yes",
                 "defibrillator:location": "Portiernia przy wejściu głównym do budynku Wydziału Inżynierii Materiałowej Politechniki Śląskiej.",
                 "defibrylator:location:en": "The concierge at the main entrance to the building of the Faculty of Materials Science and Engineering of the Silesian University of Technology.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138374542,
+            "lat": 50.297084,
+            "lon": 18.7801336,
+            "timestamp": "2022-10-29T19:39:44Z",
+            "version": 1,
+            "changeset": 128224660,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu do budynku A Wydziału Organizacji i Zarządzania.",
+                "defibrylator:location:en": "Reception desk at the entrance to building A of the Faculty of Organization and Management of the Silesian University of Technology.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
