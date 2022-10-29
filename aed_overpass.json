@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-29T18:31:52Z",
-        "timestamp_areas_base": "2022-10-29T18:25:54Z",
+        "timestamp_osm_base": "2022-10-29T19:31:54Z",
+        "timestamp_areas_base": "2022-10-29T19:26:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68480,16 +68480,18 @@
             "id": 9933678601,
             "lat": 50.2916165,
             "lon": 18.6745544,
-            "timestamp": "2022-08-05T12:02:33Z",
-            "version": 1,
-            "changeset": 124520198,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-10-29T18:41:15Z",
+            "version": 2,
+            "changeset": 128222966,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Defibrylator AED znajduje się w Rektoracie Politechniki Śląskiej.",
+                "defibrillator:location": "Defibrylator AED znajduje się na portierni przy wejściu do Rektoratu Politechniki Śląskiej.",
+                "defibrylator:location:en": "The AED defibrillator is located at the gatehouse at the entrance to the Rector's Office of the Silesian University of Technology.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "24/7",
                 "operator": "Rektorat Politechniki Śląskiej"
             }
         },
@@ -74624,6 +74626,146 @@
                 "level": "0",
                 "operator": "Gmina Międzyzdroje",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138292805,
+            "lat": 50.2902275,
+            "lon": 18.6775298,
+            "timestamp": "2022-10-29T18:53:57Z",
+            "version": 1,
+            "changeset": 128223308,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu głównym do budynku Wydziału Budownictwa Politechniki Śląskiej.",
+                "defibrylator:location:en": "The concierge at the main entrance to the building of the Faculty of Civil Engineering of the Silesian University of Technology.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138295279,
+            "lat": 50.2914838,
+            "lon": 18.6801695,
+            "timestamp": "2022-10-29T18:49:01Z",
+            "version": 1,
+            "changeset": 128223179,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu głównym do budynku Biblioteki Głównej Politechniki Śląskiej.",
+                "defibrylator:location:en": "Reception desk at the main entrance to the building of the Main Library of the Silesian University of Technology.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138303316,
+            "lat": 50.2926453,
+            "lon": 18.6816563,
+            "timestamp": "2022-10-29T19:01:14Z",
+            "version": 1,
+            "changeset": 128223560,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu głównym do budynku Centrum Edukacyjno-Kongresowe Politechniki Śląskiej.",
+                "defibrylator:location:en": "The concierge at the main entrance to the building of the Educational and Congress Center of the Silesian University of Technology.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138315774,
+            "lat": 50.2943016,
+            "lon": 18.6806327,
+            "timestamp": "2022-10-29T19:12:04Z",
+            "version": 1,
+            "changeset": 128223891,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "1 piętro budynku C, obok winy i klatki schodowej, naprzeciwko wejścia do toalety męskiej (informacja o lokalizacji AED w budynku znajduje się przy portierni obok wejścia głównego, a do urządzenia prowadzą kierunkowskazy)",
+                "defibrylator:location:en": "1st floor of building C, next to the fault and the staircase, opposite the entrance to the men's toilet (information about the location of the AED in the building is at the reception desk next to the main entrance, and there are signposts to the device)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-20:00; Sa,Su 08:00-17:45",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138315775,
+            "lat": 50.2936001,
+            "lon": 18.6800187,
+            "timestamp": "2022-10-29T19:12:04Z",
+            "version": 1,
+            "changeset": 128223891,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "3 piętro budynku A, obok windy (informacja o lokalizacji AED w budynku znajduje się na portierni obok wejścia głównego)",
+                "defibrylator:location:en": "3rd floor of building A, next to the elevator (information about the location of the AED in the building is available at the reception desk next to the main entrance)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138325246,
+            "lat": 50.2852125,
+            "lon": 18.6778534,
+            "timestamp": "2022-10-29T19:19:11Z",
+            "version": 1,
+            "changeset": 128224095,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu głównym do budynku Centrum Kultury Studenckiej „Mrowisko”.",
+                "defibrylator:location:en": "Reception desk at the main entrance to the building of the Student Culture Center \"Mrowisko\".",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10138370113,
+            "lat": 50.2554424,
+            "lon": 19.0331467,
+            "timestamp": "2022-10-29T19:30:18Z",
+            "version": 1,
+            "changeset": 128224424,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Portiernia przy wejściu głównym do budynku Wydziału Inżynierii Materiałowej Politechniki Śląskiej.",
+                "defibrylator:location:en": "The concierge at the main entrance to the building of the Faculty of Materials Science and Engineering of the Silesian University of Technology.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Politechnika Śląska"
             }
         }
     ]
