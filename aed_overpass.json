@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-30T11:32:09Z",
-        "timestamp_areas_base": "2022-10-30T10:31:09Z",
+        "timestamp_osm_base": "2022-10-30T12:31:05Z",
+        "timestamp_areas_base": "2022-10-30T11:31:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74786,6 +74786,27 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Politechnika Śląska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10139567425,
+            "lat": 51.8846906,
+            "lon": 16.5339497,
+            "timestamp": "2022-10-30T12:04:00Z",
+            "version": 1,
+            "changeset": 128243366,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy Ochotniczej Straży Pożarnej w Wilkowicach.",
+                "defibrylator:location:en": "On the wall of the Volunteer Fire Department in Wilkowice.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
             }
         }
     ]
