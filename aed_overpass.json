@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-31T08:32:24Z",
-        "timestamp_areas_base": "2022-10-31T07:39:34Z",
+        "timestamp_osm_base": "2022-10-31T09:31:24Z",
+        "timestamp_areas_base": "2022-10-31T08:40:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74808,6 +74808,26 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10142433317,
+            "lat": 50.026275,
+            "lon": 18.590487,
+            "timestamp": "2022-10-31T09:11:05Z",
+            "version": 1,
+            "changeset": 128286950,
+            "user": "Bogusia Kruk",
+            "uid": 17539503,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu do szkoły",
+                "defibrillator:location:en": "AEL PLUS ZOLL",
+                "emergency": "defibrillator",
+                "emergency:phone": "999",
+                "indoor": "yes",
+                "phone": "324304189"
             }
         }
     ]
