@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-31T09:31:24Z",
+        "timestamp_osm_base": "2022-10-31T10:34:24Z",
         "timestamp_areas_base": "2022-10-31T08:40:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74828,6 +74828,26 @@
                 "emergency:phone": "999",
                 "indoor": "yes",
                 "phone": "324304189"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10142529017,
+            "lat": 50.0262045,
+            "lon": 18.5909658,
+            "timestamp": "2022-10-31T09:59:12Z",
+            "version": 1,
+            "changeset": 128289296,
+            "user": "Bogusia Kruk",
+            "uid": 17539503,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu do szkoły",
+                "defibrillator:location:en": "Szkoła Podstawowa nr 1 w Świerklanach",
+                "emergency": "defibrillator",
+                "emergency:phone": "999",
+                "indoor": "yes",
+                "phone": "324304188"
             }
         }
     ]
