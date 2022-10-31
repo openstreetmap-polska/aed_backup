@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-10-31T22:31:44Z",
-        "timestamp_areas_base": "2022-10-31T21:50:07Z",
+        "timestamp_osm_base": "2022-10-31T23:31:34Z",
+        "timestamp_areas_base": "2022-10-31T22:51:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -64372,16 +64372,16 @@
             "id": 9817059177,
             "lat": 50.2847621,
             "lon": 21.4206692,
-            "timestamp": "2022-06-14T11:39:58Z",
-            "version": 1,
-            "changeset": 122369601,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2022-10-31T23:26:29Z",
+            "version": 2,
+            "changeset": 128319908,
+            "user": "Patryk2710",
+            "uid": 12914377,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Biuro Zarządzania Kryzysowego UM w Mielcu",
-                "phone": "177874241"
+                "phone": "+48 17 787 42 41"
             }
         },
         {
