@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-02T12:31:58Z",
+        "timestamp_osm_base": "2022-11-02T13:30:54Z",
         "timestamp_areas_base": "2022-11-02T11:06:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74848,6 +74848,23 @@
                 "emergency:phone": "999",
                 "indoor": "yes",
                 "phone": "324304188"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10151397118,
+            "lat": 49.7790823,
+            "lon": 22.771444,
+            "timestamp": "2022-11-02T13:02:29Z",
+            "version": 1,
+            "changeset": 128391597,
+            "user": "CTiR",
+            "uid": 17561158,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Oddziale Dziennym Rehabilitacji Kardiologicznej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
