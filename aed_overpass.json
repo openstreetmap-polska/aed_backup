@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-02T17:30:39Z",
+        "timestamp_osm_base": "2022-11-02T18:30:26Z",
         "timestamp_areas_base": "2022-11-02T11:06:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74865,6 +74865,28 @@
                 "defibrillator:location": "W Oddziale Dziennym Rehabilitacji Kardiologicznej",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10152027549,
+            "lat": 50.8423887,
+            "lon": 16.2920749,
+            "timestamp": "2022-11-02T17:33:06Z",
+            "version": 1,
+            "changeset": 128403891,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze przy portierni.",
+                "defibrillator:location:en": "On the ground floor at the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Zamek Książ w Wałbrzychu sp. z o.o.",
+                "phone": "+48 74 66 43 850"
             }
         }
     ]
