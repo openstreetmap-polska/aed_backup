@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-03T16:31:29Z",
-        "timestamp_areas_base": "2022-11-03T09:17:40Z",
+        "timestamp_osm_base": "2022-11-03T17:31:22Z",
+        "timestamp_areas_base": "2022-11-03T17:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74927,6 +74927,81 @@
                 "emergency:phone": "112",
                 "indoor": "no",
                 "source": "https://liszki.pl/urzadzenia-aed-w-gminie-liszki,art-3968"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155051917,
+            "lat": 49.8018956,
+            "lon": 19.0199301,
+            "timestamp": "2022-11-03T16:54:53Z",
+            "version": 1,
+            "changeset": 128447948,
+            "user": "TomekBB",
+            "uid": 17572966,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na frontowej ścianie strażnicy Ochotniczej Straży Pożarnej w Bielsku-Białej Kamienicy",
+                "defibrillator:location:en": "On the front wall of the fire station.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 33 819 27 25"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155070616,
+            "lat": 52.3851463,
+            "lon": 16.8276756,
+            "timestamp": "2022-11-03T17:03:56Z",
+            "version": 1,
+            "changeset": 128448285,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na słupku, przy drodze w zielonej kapsule.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Medaid"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155075817,
+            "lat": 49.8216508,
+            "lon": 19.051521,
+            "timestamp": "2022-11-03T17:05:53Z",
+            "version": 1,
+            "changeset": 128448353,
+            "user": "TomekBB",
+            "uid": 17572966,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dziennik Podawczy w Biurze Obsługi Interesanta Urzędu Miejskiego w Bielsku-Białej. Czynne: poniedziałek–środa 7:30–15:30, czwartek 7:30–18:00, piątek 7:30–13:00",
+                "defibrillator:location:en": "Customer service office in city hall of Bielsko-Biala. Open: Monday-Wednesday 7:30–15:30, Thursday 7:30–18:00 Friday 7:30–13:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 33 4971 800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155090917,
+            "lat": 49.8266901,
+            "lon": 19.0308476,
+            "timestamp": "2022-11-03T17:15:57Z",
+            "version": 1,
+            "changeset": 128448353,
+            "user": "TomekBB",
+            "uid": 17572966,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie obok portierni Śląskiego Urzędu Wojewódzkiego - placówki w Bielsku-Białej. Czynne: Poniedziałek, środa, czwartek, piątek 7:30 - 15:30, Wtorek 7:30 - 18:00.",
+                "defibrillator:location:en": "On the wall near the lodge of voivodship office. Open: Monday, Wednesday, Thursday, Friday 7:30 - 15:30, Thusday7:30 - 18:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+ 48 33 813 62 00"
             }
         }
     ]
