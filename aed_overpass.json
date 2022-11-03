@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-03T19:31:39Z",
-        "timestamp_areas_base": "2022-11-03T18:17:03Z",
+        "timestamp_osm_base": "2022-11-03T20:32:38Z",
+        "timestamp_areas_base": "2022-11-03T20:25:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56928,13 +56928,13 @@
         {
             "type": "node",
             "id": 9645390625,
-            "lat": 54.0869164,
-            "lon": 18.7932801,
-            "timestamp": "2022-04-06T11:03:37Z",
-            "version": 1,
-            "changeset": 119381504,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 54.0869173,
+            "lon": 18.7932896,
+            "timestamp": "2022-11-03T20:03:35Z",
+            "version": 2,
+            "changeset": 128453932,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "w pomieszczeniu dozoru urzędu",
@@ -75020,6 +75020,26 @@
                 "defibrillator:location:pl": "Food court, piętro 3",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155487821,
+            "lat": 49.645902,
+            "lon": 19.7803505,
+            "timestamp": "2022-11-03T20:26:40Z",
+            "version": 1,
+            "changeset": 128454614,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Bystra"
             }
         }
     ]
