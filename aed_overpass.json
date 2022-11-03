@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-03T21:31:21Z",
+        "timestamp_osm_base": "2022-11-03T22:31:22Z",
         "timestamp_areas_base": "2022-11-03T21:27:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -57892,13 +57892,13 @@
         {
             "type": "node",
             "id": 9645670368,
-            "lat": 54.3575897,
-            "lon": 18.7106787,
-            "timestamp": "2022-04-06T13:09:20Z",
-            "version": 1,
-            "changeset": 119386940,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 54.357482,
+            "lon": 18.710684,
+            "timestamp": "2022-11-03T22:30:28Z",
+            "version": 2,
+            "changeset": 128458066,
+            "user": "czebureks",
+            "uid": 11437083,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "AED na wysposażeniu przystani",
