@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-03T17:31:22Z",
-        "timestamp_areas_base": "2022-11-03T17:22:14Z",
+        "timestamp_osm_base": "2022-11-03T18:31:37Z",
+        "timestamp_areas_base": "2022-11-03T18:17:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11550,16 +11550,17 @@
             "id": 9413497533,
             "lat": 49.8005292,
             "lon": 19.0668705,
-            "timestamp": "2022-01-12T19:58:23Z",
-            "version": 2,
-            "changeset": 116080682,
-            "user": "Landrinka",
-            "uid": 12830729,
+            "timestamp": "2022-11-03T17:34:09Z",
+            "version": 3,
+            "changeset": 128449387,
+            "user": "TomekBB",
+            "uid": 17572966,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ściana szaletu",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "operator": "Wydział Gospodarki Miejskiej Urzędu Miejskiego w Bielsku-Białej"
             }
         },
         {
@@ -75002,6 +75003,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+ 48 33 813 62 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10155208317,
+            "lat": 52.2297004,
+            "lon": 21.0021409,
+            "timestamp": "2022-11-03T18:04:55Z",
+            "version": 1,
+            "changeset": 128450360,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Food court, piętro 3",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
