@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-03T09:31:59Z",
+        "timestamp_osm_base": "2022-11-03T10:32:09Z",
         "timestamp_areas_base": "2022-11-03T09:17:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74887,6 +74887,46 @@
                 "opening_hours": "24/7",
                 "operator": "Zamek Książ w Wałbrzychu sp. z o.o.",
                 "phone": "+48 74 66 43 850"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10154225601,
+            "lat": 50.0381085,
+            "lon": 19.7662037,
+            "timestamp": "2022-11-03T09:32:09Z",
+            "version": 1,
+            "changeset": 128428404,
+            "user": "ukolaj",
+            "uid": 9716964,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku, przy wejściu.",
+                "defibrillator:location:en": "On the building, near the entrance.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no",
+                "source": "https://liszki.pl/urzadzenia-aed-w-gminie-liszki,art-3968"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10154225602,
+            "lat": 50.0421107,
+            "lon": 19.797966,
+            "timestamp": "2022-11-03T09:32:09Z",
+            "version": 1,
+            "changeset": 128428404,
+            "user": "ukolaj",
+            "uid": 9716964,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku, przy wejściu.",
+                "defibrillator:location:en": "On the building, near the entrance.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no",
+                "source": "https://liszki.pl/urzadzenia-aed-w-gminie-liszki,art-3968"
             }
         }
     ]
