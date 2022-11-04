@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T06:32:25Z",
-        "timestamp_areas_base": "2022-11-04T06:31:24Z",
+        "timestamp_osm_base": "2022-11-04T07:31:39Z",
+        "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75040,6 +75040,24 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Bystra"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156237618,
+            "lat": 50.1163065,
+            "lon": 22.0110989,
+            "timestamp": "2022-11-04T07:08:41Z",
+            "version": 1,
+            "changeset": 128467957,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Gabinet nr 3 - po lewej za rejestracją.",
+                "defibrillator:location:en": "Room number 3.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
