@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T15:31:24Z",
+        "timestamp_osm_base": "2022-11-04T16:31:39Z",
         "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74935,9 +74935,9 @@
             "id": 10155051917,
             "lat": 49.8018956,
             "lon": 19.0199301,
-            "timestamp": "2022-11-03T16:54:53Z",
-            "version": 1,
-            "changeset": 128447948,
+            "timestamp": "2022-11-04T16:23:29Z",
+            "version": 2,
+            "changeset": 128491659,
             "user": "TomekBB",
             "uid": 17572966,
             "tags": {
@@ -74945,7 +74945,8 @@
                 "defibrillator:location": "Na frontowej ścianie strażnicy Ochotniczej Straży Pożarnej w Bielsku-Białej Kamienicy",
                 "defibrillator:location:en": "On the front wall of the fire station.",
                 "emergency": "defibrillator",
-                "indoor": "no",
+                "name": "Lifepak CR2",
+                "operator": "Ochotnicza Straż Pożarna w Bielsku-Białej Kamienicy",
                 "phone": "+48 33 819 27 25"
             }
         },
@@ -74972,9 +74973,9 @@
             "id": 10155075817,
             "lat": 49.8216508,
             "lon": 19.051521,
-            "timestamp": "2022-11-03T17:05:53Z",
-            "version": 1,
-            "changeset": 128448353,
+            "timestamp": "2022-11-04T16:19:09Z",
+            "version": 2,
+            "changeset": 128491504,
             "user": "TomekBB",
             "uid": 17572966,
             "tags": {
@@ -74983,6 +74984,7 @@
                 "defibrillator:location:en": "Customer service office in city hall of Bielsko-Biala. Open: Monday-Wednesday 7:30–15:30, Thursday 7:30–18:00 Friday 7:30–13:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Wydział Gospodarki Miejskiej Urzędu Miejskiego w Bielsku-Białej",
                 "phone": "+48 33 4971 800"
             }
         },
@@ -74991,9 +74993,9 @@
             "id": 10155090917,
             "lat": 49.8266901,
             "lon": 19.0308476,
-            "timestamp": "2022-11-03T17:15:57Z",
-            "version": 1,
-            "changeset": 128448353,
+            "timestamp": "2022-11-04T16:25:56Z",
+            "version": 2,
+            "changeset": 128491772,
             "user": "TomekBB",
             "uid": 17572966,
             "tags": {
@@ -75002,6 +75004,8 @@
                 "defibrillator:location:en": "On the wall near the lodge of voivodship office. Open: Monday, Wednesday, Thursday, Friday 7:30 - 15:30, Thusday7:30 - 18:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "name": "HS Medical",
+                "operator": "Śląski Urząd Wojewódzki - placówka w Bielsku-Białej",
                 "phone": "+ 48 33 813 62 00"
             }
         },
