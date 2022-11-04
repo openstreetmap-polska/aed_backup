@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T12:29:50Z",
+        "timestamp_osm_base": "2022-11-04T13:30:10Z",
         "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75082,16 +75082,17 @@
             "id": 10156806717,
             "lat": 53.3733058,
             "lon": 14.6757837,
-            "timestamp": "2022-11-04T11:29:02Z",
-            "version": 1,
-            "changeset": 128478953,
+            "timestamp": "2022-11-04T13:14:54Z",
+            "version": 3,
+            "changeset": 128483556,
             "user": "SEC2022",
             "uid": 17579946,
             "tags": {
-                "access": "private",
+                "access": "no",
                 "defibrillator:location": "Ciepłownia Rejonowa Dąbska – hala kotłów 1 piętro",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Szczecińska Energetyka Cieplna Sp. z o.o.",
                 "phone": "914668260"
             }
         },
@@ -75100,16 +75101,17 @@
             "id": 10156808117,
             "lat": 53.4226037,
             "lon": 14.5637225,
-            "timestamp": "2022-11-04T11:30:04Z",
-            "version": 1,
-            "changeset": 128478953,
+            "timestamp": "2022-11-04T13:14:05Z",
+            "version": 3,
+            "changeset": 128483523,
             "user": "SEC2022",
             "uid": 17579946,
             "tags": {
-                "access": "private",
+                "access": "no",
                 "defibrillator:location": "Lastadia Office sekcja B – recepcja 5 piętro",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Szczecińska Energetyka Cieplna Sp. z o.o.",
                 "phone": "91 450 97 83"
             }
         },
@@ -75118,16 +75120,37 @@
             "id": 10156814717,
             "lat": 53.4011917,
             "lon": 14.5248923,
-            "timestamp": "2022-11-04T11:32:31Z",
-            "version": 1,
-            "changeset": 128478953,
+            "timestamp": "2022-11-04T13:15:57Z",
+            "version": 3,
+            "changeset": 128483599,
             "user": "SEC2022",
             "uid": 17579946,
             "tags": {
-                "access": "customers",
+                "access": "no",
                 "defibrillator:location": "parter, jadalnia",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Szczecińska Energetyka Cieplna Sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156967497,
+            "lat": 53.758609,
+            "lon": 14.7855536,
+            "timestamp": "2022-11-04T12:43:51Z",
+            "version": 1,
+            "changeset": 128482231,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Przybiernów"
             }
         }
     ]
