@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T11:30:39Z",
+        "timestamp_osm_base": "2022-11-04T12:29:50Z",
         "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75111,6 +75111,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "91 450 97 83"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156814717,
+            "lat": 53.4011917,
+            "lon": 14.5248923,
+            "timestamp": "2022-11-04T11:32:31Z",
+            "version": 1,
+            "changeset": 128478953,
+            "user": "SEC2022",
+            "uid": 17579946,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "parter, jadalnia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
