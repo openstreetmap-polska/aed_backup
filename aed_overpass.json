@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T10:31:29Z",
+        "timestamp_osm_base": "2022-11-04T11:30:39Z",
         "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75058,6 +75058,59 @@
                 "defibrillator:location:en": "Room number 3.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156778093,
+            "lat": 50.0667175,
+            "lon": 19.9699768,
+            "timestamp": "2022-11-04T11:26:11Z",
+            "version": 1,
+            "changeset": 128478845,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku",
+                "emergency": "defibrillator",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156806717,
+            "lat": 53.3733058,
+            "lon": 14.6757837,
+            "timestamp": "2022-11-04T11:29:02Z",
+            "version": 1,
+            "changeset": 128478953,
+            "user": "SEC2022",
+            "uid": 17579946,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ciepłownia Rejonowa Dąbska – hala kotłów 1 piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "914668260"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10156808117,
+            "lat": 53.4226037,
+            "lon": 14.5637225,
+            "timestamp": "2022-11-04T11:30:04Z",
+            "version": 1,
+            "changeset": 128478953,
+            "user": "SEC2022",
+            "uid": 17579946,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lastadia Office sekcja B – recepcja 5 piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "91 450 97 83"
             }
         }
     ]
