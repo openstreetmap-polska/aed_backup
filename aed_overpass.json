@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-04T17:30:54Z",
+        "timestamp_osm_base": "2022-11-04T18:31:54Z",
         "timestamp_areas_base": "2022-11-04T07:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75174,6 +75174,25 @@
                 "indoor": "yes",
                 "opening_hours": "W godzinach pracy sądu",
                 "operator": "Sąd Rejonowy w Szamotułach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10157548477,
+            "lat": 52.4865159,
+            "lon": 16.8514398,
+            "timestamp": "2022-11-04T17:44:45Z",
+            "version": 1,
+            "changeset": 128494632,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy kasie na ścianie, żółte opakowanie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "W godzinach pracy sklepu",
+                "operator": "Leroy Merlin"
             }
         }
     ]
