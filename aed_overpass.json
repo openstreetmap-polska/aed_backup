@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-05T09:32:09Z",
-        "timestamp_areas_base": "2022-11-05T08:44:26Z",
+        "timestamp_osm_base": "2022-11-05T10:31:13Z",
+        "timestamp_areas_base": "2022-11-05T09:45:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -13724,16 +13724,17 @@
             "id": 9423802618,
             "lat": 51.6132909,
             "lon": 16.861917,
-            "timestamp": "2022-01-16T22:23:20Z",
-            "version": 1,
-            "changeset": 116230753,
-            "user": "Fernando_Whitmor",
-            "uid": 14869248,
+            "timestamp": "2022-11-05T10:25:25Z",
+            "version": 2,
+            "changeset": 128514777,
+            "user": "kitsune69",
+            "uid": 17570416,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie baru Neptun",
                 "defibrillator:location:en": "on a wall of Neptun's buffet/pub",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "location": "outdoor"
             }
         },
