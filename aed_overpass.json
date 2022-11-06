@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-06T20:32:09Z",
-        "timestamp_areas_base": "2022-11-06T20:01:39Z",
+        "timestamp_osm_base": "2022-11-06T21:32:09Z",
+        "timestamp_areas_base": "2022-11-06T21:02:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75194,6 +75194,25 @@
                 "indoor": "yes",
                 "opening_hours": "W godzinach pracy sklepu",
                 "operator": "Leroy Merlin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10163868617,
+            "lat": 49.611702,
+            "lon": 19.7281376,
+            "timestamp": "2022-11-06T21:31:07Z",
+            "version": 2,
+            "changeset": 128571284,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Przy wejściu do ośrodka zdrowia.",
+                "emergency": "defibrillator",
+                "image": "https://www.suchainfo.pl/media/k2/items/cache/e5958f730a07aedbb3720cd26b9d72db_XL.jpg",
+                "indoor": "no",
+                "source": "https://www.suchainfo.pl/wydarzenia/5027-sidzina-zyskala-defibrylator-aed"
             }
         }
     ]
