@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T19:32:03Z",
-        "timestamp_areas_base": "2022-11-07T10:07:24Z",
+        "timestamp_osm_base": "2022-11-07T20:31:53Z",
+        "timestamp_areas_base": "2022-11-07T20:13:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75282,11 +75282,11 @@
         {
             "type": "node",
             "id": 10167218258,
-            "lat": 53.907665,
-            "lon": 14.2418802,
-            "timestamp": "2022-11-07T18:37:11Z",
-            "version": 2,
-            "changeset": 128609683,
+            "lat": 53.9076686,
+            "lon": 14.2418777,
+            "timestamp": "2022-11-07T19:52:22Z",
+            "version": 3,
+            "changeset": 128611798,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75297,7 +75297,7 @@
                 "indoor": "yes",
                 "mobile": "+48 727 795 720",
                 "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
-                "opening_hours": "Mo-Fr 06:30-16:30; Sa,Su off; PH off",
+                "opening_hours": "Mo-Fr 06:30-16:30; Sa,Su off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 321 47 46"
             }
@@ -75307,9 +75307,9 @@
             "id": 10167263014,
             "lat": 53.9084245,
             "lon": 14.2394223,
-            "timestamp": "2022-11-07T18:37:11Z",
-            "version": 1,
-            "changeset": 128609683,
+            "timestamp": "2022-11-07T19:52:22Z",
+            "version": 2,
+            "changeset": 128611798,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75319,7 +75319,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
-                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 321 34 65"
             }
@@ -75329,9 +75329,9 @@
             "id": 10167266018,
             "lat": 53.9080238,
             "lon": 14.2409707,
-            "timestamp": "2022-11-07T18:37:11Z",
-            "version": 1,
-            "changeset": 128609683,
+            "timestamp": "2022-11-07T19:52:22Z",
+            "version": 2,
+            "changeset": 128611798,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75341,7 +75341,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
-                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 321 37 07"
             }
