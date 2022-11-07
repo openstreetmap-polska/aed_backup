@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T20:31:53Z",
-        "timestamp_areas_base": "2022-11-07T20:13:35Z",
+        "timestamp_osm_base": "2022-11-07T21:31:52Z",
+        "timestamp_areas_base": "2022-11-07T21:16:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75263,9 +75263,9 @@
             "id": 10167096500,
             "lat": 53.9055437,
             "lon": 14.2338752,
-            "timestamp": "2022-11-07T17:46:39Z",
-            "version": 2,
-            "changeset": 128608143,
+            "timestamp": "2022-11-07T20:35:09Z",
+            "version": 3,
+            "changeset": 128612927,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75274,7 +75274,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
-                "opening_hours": "Mo-Fr 06:30-16:30; Su,Sa off; PH off",
+                "opening_hours": "Mo-Fr 06:30-16:30; Su,Sa off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 32 74 614"
             }
@@ -75305,11 +75305,11 @@
         {
             "type": "node",
             "id": 10167263014,
-            "lat": 53.9084245,
-            "lon": 14.2394223,
-            "timestamp": "2022-11-07T19:52:22Z",
-            "version": 2,
-            "changeset": 128611798,
+            "lat": 53.9080179,
+            "lon": 14.2409621,
+            "timestamp": "2022-11-07T20:32:43Z",
+            "version": 3,
+            "changeset": 128612859,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75327,11 +75327,11 @@
         {
             "type": "node",
             "id": 10167266018,
-            "lat": 53.9080238,
-            "lon": 14.2409707,
-            "timestamp": "2022-11-07T19:52:22Z",
-            "version": 2,
-            "changeset": 128611798,
+            "lat": 53.9068102,
+            "lon": 14.2423393,
+            "timestamp": "2022-11-07T20:32:43Z",
+            "version": 3,
+            "changeset": 128612859,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75344,6 +75344,50 @@
                 "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 321 37 07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10167439287,
+            "lat": 53.9084283,
+            "lon": 14.2394126,
+            "timestamp": "2022-11-07T20:32:43Z",
+            "version": 1,
+            "changeset": 128612859,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku B szkoły podstawowej nr 1.",
+                "defibrillator:location:en": "In building B of primary school no. 1.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
+                "operator": "Miasto Świnoujście",
+                "phone": "+48 91 321 47 14"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10167546777,
+            "lat": 52.181119,
+            "lon": 20.9958198,
+            "timestamp": "2022-11-07T21:29:42Z",
+            "version": 1,
+            "changeset": 128614634,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu po lewej stronie",
+                "defibrillator:location:en": "At the entrance on the left",
+                "description": "Philips HeartStart",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "yes",
+                "wikimedia_commons": "File:AED_–_Warszawa_Postępu_17A.jpg"
             }
         }
     ]
