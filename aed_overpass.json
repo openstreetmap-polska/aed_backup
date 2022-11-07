@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T18:31:05Z",
+        "timestamp_osm_base": "2022-11-07T19:32:03Z",
         "timestamp_areas_base": "2022-11-07T10:07:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75282,16 +75282,17 @@
         {
             "type": "node",
             "id": 10167218258,
-            "lat": 53.9076837,
-            "lon": 14.2418616,
-            "timestamp": "2022-11-07T18:17:34Z",
-            "version": 1,
-            "changeset": 128609142,
+            "lat": 53.907665,
+            "lon": 14.2418802,
+            "timestamp": "2022-11-07T18:37:11Z",
+            "version": 2,
+            "changeset": 128609683,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "permissive",
-                "defibrillator:location": "W budynku przedszkola.",
+                "defibrillator:location": "W budynku przedszkola miejskiego nr 3.",
+                "defibrillator:location:en": "In the building of the municipal kindergarten no. 3.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "mobile": "+48 727 795 720",
@@ -75299,6 +75300,50 @@
                 "opening_hours": "Mo-Fr 06:30-16:30; Sa,Su off; PH off",
                 "operator": "Miasto Świnoujście",
                 "phone": "+48 91 321 47 46"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10167263014,
+            "lat": 53.9084245,
+            "lon": 14.2394223,
+            "timestamp": "2022-11-07T18:37:11Z",
+            "version": 1,
+            "changeset": 128609683,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku B szkoły podstawowej nr 6.",
+                "defibrillator:location:en": "In building B of primary school no. 6.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "operator": "Miasto Świnoujście",
+                "phone": "+48 91 321 34 65"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10167266018,
+            "lat": 53.9080238,
+            "lon": 14.2409707,
+            "timestamp": "2022-11-07T18:37:11Z",
+            "version": 1,
+            "changeset": 128609683,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku A szkoły podstawowej nr 6.",
+                "defibrillator:location:en": "In building A of primary school no. 6.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "Budżet obywatelski na 2022. Działanie \"Iskra życia\".",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off; PH off",
+                "operator": "Miasto Świnoujście",
+                "phone": "+48 91 321 37 07"
             }
         }
     ]
