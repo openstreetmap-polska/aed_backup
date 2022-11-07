@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T16:32:09Z",
+        "timestamp_osm_base": "2022-11-07T17:32:09Z",
         "timestamp_areas_base": "2022-11-07T10:07:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75256,6 +75256,27 @@
                 "opening_hours": "Mo-Su 05:30-21:00",
                 "operator": "Gmina Goleniów",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10167096500,
+            "lat": 53.9055437,
+            "lon": 14.2338752,
+            "timestamp": "2022-11-07T17:31:34Z",
+            "version": 1,
+            "changeset": 128607618,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W budynku przedszkola",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "Budżet obywatelski \"Iskra życia\" 2022",
+                "opening_hours": "Mo-Fr 06:30-16:30; Su,Sa off; PH off",
+                "operator": "Miasto Świnoujście",
+                "phone": "+48 91 32 74 614"
             }
         }
     ]
