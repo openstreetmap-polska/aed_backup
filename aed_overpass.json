@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T06:31:53Z",
-        "timestamp_areas_base": "2022-11-07T06:06:27Z",
+        "timestamp_osm_base": "2022-11-07T07:31:54Z",
+        "timestamp_areas_base": "2022-11-07T07:07:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11707,15 +11707,16 @@
             "id": 9413742317,
             "lat": 52.1903525,
             "lon": 21.0163851,
-            "timestamp": "2022-01-26T18:31:00Z",
-            "version": 3,
-            "changeset": 116633785,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-07T07:15:38Z",
+            "version": 4,
+            "changeset": 128583134,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Wierzbno, pierwsza ławka od wejścia od północy (ulica Naruszewicza)",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "level": "-2",
                 "location": "indoor",
                 "manufacturer:website": "https://maxharter.com"
@@ -24225,15 +24226,16 @@
             "id": 9450846479,
             "lat": 52.181793,
             "lon": 21.0231433,
-            "timestamp": "2022-01-26T18:30:10Z",
-            "version": 1,
-            "changeset": 116633748,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-07T07:18:13Z",
+            "version": 2,
+            "changeset": 128583134,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Wilanowska",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24330,15 +24332,16 @@
             "id": 9450858137,
             "lat": 52.1620492,
             "lon": 21.0276546,
-            "timestamp": "2022-01-26T18:29:28Z",
-            "version": 1,
-            "changeset": 116633738,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-07T07:21:26Z",
+            "version": 2,
+            "changeset": 128583134,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Ursynów",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24400,15 +24403,16 @@
             "id": 9450864129,
             "lat": 52.1989776,
             "lon": 21.0121836,
-            "timestamp": "2022-01-26T18:31:22Z",
-            "version": 1,
-            "changeset": 116633802,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-07T07:13:15Z",
+            "version": 2,
+            "changeset": 128583134,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Racławicka",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
