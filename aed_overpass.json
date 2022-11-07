@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T07:31:54Z",
-        "timestamp_areas_base": "2022-11-07T07:07:30Z",
+        "timestamp_osm_base": "2022-11-07T08:31:54Z",
+        "timestamp_areas_base": "2022-11-07T08:07:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75217,6 +75217,23 @@
                 "image": "https://www.suchainfo.pl/media/k2/items/cache/e5958f730a07aedbb3720cd26b9d72db_XL.jpg",
                 "indoor": "no",
                 "source": "https://www.suchainfo.pl/wydarzenia/5027-sidzina-zyskala-defibrylator-aed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10165100598,
+            "lat": 52.088659,
+            "lon": 22.4415284,
+            "timestamp": "2022-11-07T07:59:30Z",
+            "version": 1,
+            "changeset": 128584817,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
