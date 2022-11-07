@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-07T13:31:23Z",
+        "timestamp_osm_base": "2022-11-07T14:31:24Z",
         "timestamp_areas_base": "2022-11-07T10:07:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75234,6 +75234,28 @@
                 "defibrillator:location": "w budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10166687242,
+            "lat": 53.5593614,
+            "lon": 14.8393106,
+            "timestamp": "2022-11-07T14:27:25Z",
+            "version": 1,
+            "changeset": 128600622,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynu dworca, przy kasach w sąsiedztwie wyjścia na perony.",
+                "defibrillator:location:en": "In the train station building, at the ticket offices, next to the platform exit.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Su 05:30-21:00",
+                "operator": "Gmina Goleniów",
+                "wheelchair": "yes"
             }
         }
     ]
