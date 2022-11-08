@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-08T10:31:24Z",
+        "timestamp_osm_base": "2022-11-08T11:31:24Z",
         "timestamp_areas_base": "2022-11-08T09:23:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75403,6 +75403,23 @@
             "tags": {
                 "check_date": "2022-11-08",
                 "defibrillator:location": "Na ścianie tunelu - prawa strona przed wejściem do hallu dworca. Przy wnęce z biletomatem",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10168881117,
+            "lat": 50.0552313,
+            "lon": 19.9256032,
+            "timestamp": "2022-11-08T11:22:53Z",
+            "version": 1,
+            "changeset": 128635964,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się w środku budynku, przy windzie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
