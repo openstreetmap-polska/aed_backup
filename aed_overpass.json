@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-08T16:30:56Z",
+        "timestamp_osm_base": "2022-11-08T17:31:58Z",
         "timestamp_areas_base": "2022-11-08T15:28:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75395,16 +75395,19 @@
             "id": 10168196172,
             "lat": 52.2189795,
             "lon": 20.9658692,
-            "timestamp": "2022-11-08T06:29:12Z",
-            "version": 1,
-            "changeset": 128624622,
-            "user": "tomzyl",
-            "uid": 530338,
+            "timestamp": "2022-11-08T17:06:47Z",
+            "version": 2,
+            "changeset": 128650091,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
                 "check_date": "2022-11-08",
                 "defibrillator:location": "Na ścianie tunelu - prawa strona przed wejściem do hallu dworca. Przy wnęce z biletomatem",
+                "defibrillator:location:en": "On the tunnel wall - the right side before entering the station hall. At the alcove with a ticket machine",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
