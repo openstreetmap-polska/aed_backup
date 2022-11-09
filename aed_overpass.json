@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-09T07:31:59Z",
-        "timestamp_areas_base": "2022-11-09T06:36:09Z",
+        "timestamp_osm_base": "2022-11-09T08:31:53Z",
+        "timestamp_areas_base": "2022-11-09T07:36:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75241,9 +75241,9 @@
             "id": 10166687242,
             "lat": 53.5593614,
             "lon": 14.8393106,
-            "timestamp": "2022-11-07T14:27:25Z",
-            "version": 1,
-            "changeset": 128600622,
+            "timestamp": "2022-11-09T08:30:37Z",
+            "version": 2,
+            "changeset": 128673927,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -75253,7 +75253,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Su 05:30-21:00",
+                "opening_hours": "Mo-Su 05:30-22:00",
                 "operator": "Gmina Goleniów",
                 "wheelchair": "yes"
             }
