@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-09T18:31:24Z",
+        "timestamp_osm_base": "2022-11-09T19:31:19Z",
         "timestamp_areas_base": "2022-11-09T13:40:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11561,23 +11561,6 @@
                 "emergency": "defibrillator",
                 "location": "outdoor",
                 "operator": "Wydział Gospodarki Miejskiej Urzędu Miejskiego w Bielsku-Białej"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9413497723,
-            "lat": 49.8232165,
-            "lon": 19.0509685,
-            "timestamp": "2022-01-12T18:55:34Z",
-            "version": 1,
-            "changeset": 116078719,
-            "user": "Landrinka",
-            "uid": 12830729,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na drogowskazie",
-                "emergency": "defibrillator",
-                "location": "outdoor"
             }
         },
         {
