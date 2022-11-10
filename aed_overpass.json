@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-10T06:31:48Z",
-        "timestamp_areas_base": "2022-11-10T05:49:09Z",
+        "timestamp_osm_base": "2022-11-10T07:31:45Z",
+        "timestamp_areas_base": "2022-11-10T06:49:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75449,6 +75449,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48691964214"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10172949246,
+            "lat": 51.3790078,
+            "lon": 17.837703,
+            "timestamp": "2022-11-10T06:58:47Z",
+            "version": 1,
+            "changeset": 128717025,
+            "user": "Iga | Yanosik",
+            "uid": 4873389,
+            "tags": {
+                "defibrillator:location": "W jednostce OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
