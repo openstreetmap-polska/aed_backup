@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-10T18:32:09Z",
-        "timestamp_areas_base": "2022-11-10T17:56:37Z",
+        "timestamp_osm_base": "2022-11-10T19:32:07Z",
+        "timestamp_areas_base": "2022-11-10T18:56:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75483,6 +75483,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "survey:date": "2022-11-10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10174186417,
+            "lat": 52.2227315,
+            "lon": 21.1378323,
+            "timestamp": "2022-11-10T18:37:17Z",
+            "version": 1,
+            "changeset": 128746268,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy kasach samoobsługowych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
