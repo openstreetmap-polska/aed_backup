@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-10T16:31:25Z",
-        "timestamp_areas_base": "2022-11-10T15:54:53Z",
+        "timestamp_osm_base": "2022-11-10T17:32:09Z",
+        "timestamp_areas_base": "2022-11-10T16:55:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12366,15 +12366,16 @@
             "id": 9417717828,
             "lat": 52.2185748,
             "lon": 21.0153861,
-            "timestamp": "2022-01-14T11:12:34Z",
-            "version": 1,
-            "changeset": 116143435,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-10T16:33:29Z",
+            "version": 2,
+            "changeset": 128741983,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Politechnika",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -24227,15 +24228,16 @@
             "id": 9450851324,
             "lat": 52.2578788,
             "lon": 20.9943613,
-            "timestamp": "2022-01-26T18:35:50Z",
-            "version": 1,
-            "changeset": 116633943,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-10T16:39:15Z",
+            "version": 2,
+            "changeset": 128741983,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Dworzec Gdański",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
