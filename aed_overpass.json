@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-12T21:31:34Z",
-        "timestamp_areas_base": "2022-11-12T21:22:23Z",
+        "timestamp_osm_base": "2022-11-12T22:32:25Z",
+        "timestamp_areas_base": "2022-11-12T22:22:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -19849,16 +19849,16 @@
         {
             "type": "node",
             "id": 9439394617,
-            "lat": 53.7727491,
-            "lon": 20.4766613,
-            "timestamp": "2022-07-31T14:55:50Z",
-            "version": 4,
-            "changeset": 124306762,
-            "user": "garfild1994",
-            "uid": 10582146,
+            "lat": 53.772678,
+            "lon": 20.4766736,
+            "timestamp": "2022-11-12T21:35:02Z",
+            "version": 5,
+            "changeset": 128828199,
+            "user": "serdelll",
+            "uid": 485927,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Obok wejścia głównego",
+                "defibrillator:location": "ściana b bynku, obok wejścia głównego",
                 "defibrillator:location:en": "Next to the main entrance",
                 "emergency": "defibrillator",
                 "indoor": "no",
