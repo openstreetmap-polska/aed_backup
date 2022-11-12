@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-12T20:31:39Z",
-        "timestamp_areas_base": "2022-11-12T20:20:24Z",
+        "timestamp_osm_base": "2022-11-12T21:31:34Z",
+        "timestamp_areas_base": "2022-11-12T21:22:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24567,15 +24567,16 @@
             "id": 9450887088,
             "lat": 52.2469559,
             "lon": 21.0428972,
-            "timestamp": "2022-01-26T18:46:06Z",
-            "version": 1,
-            "changeset": 116634315,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2022-11-12T21:03:20Z",
+            "version": 2,
+            "changeset": 128827379,
+            "user": "Awizonosz",
+            "uid": 6491543,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Stadion Narodowy",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
