@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-12T09:31:53Z",
-        "timestamp_areas_base": "2022-11-12T09:15:39Z",
+        "timestamp_osm_base": "2022-11-12T10:31:54Z",
+        "timestamp_areas_base": "2022-11-12T10:15:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51,15 +51,16 @@
             "id": 1630123844,
             "lat": 51.8324416,
             "lon": 16.6019445,
-            "timestamp": "2022-05-03T18:07:07Z",
-            "version": 3,
-            "changeset": 120510613,
-            "user": "KORraN",
-            "uid": 642301,
+            "timestamp": "2022-11-12T10:30:33Z",
+            "version": 4,
+            "changeset": 128806956,
+            "user": "Namysław Tatarynowicz",
+            "uid": 1723478,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "www.arteria24.pl"
             }
         },
         {
