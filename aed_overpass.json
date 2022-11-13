@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-13T14:31:54Z",
+        "timestamp_osm_base": "2022-11-13T15:31:36Z",
         "timestamp_areas_base": "2022-11-13T14:26:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75502,6 +75502,24 @@
                 "defibrillator:location": "Przy kasach samoobsługowych",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10180804854,
+            "lat": 52.4064857,
+            "lon": 16.9266249,
+            "timestamp": "2022-11-13T15:30:42Z",
+            "version": 1,
+            "changeset": 128852215,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "defibrillator:location": "Na ścianie przy wejściu po prawej stronie",
+                "description": "Zoll AED Plus",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "survey"
             }
         }
     ]
