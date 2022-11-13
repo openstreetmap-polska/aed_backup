@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-13T19:32:15Z",
+        "timestamp_osm_base": "2022-11-13T20:31:08Z",
         "timestamp_areas_base": "2022-11-13T17:28:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -17616,13 +17616,13 @@
         {
             "type": "node",
             "id": 9438078914,
-            "lat": 50.0404609,
-            "lon": 18.395171,
-            "timestamp": "2022-01-21T21:15:09Z",
-            "version": 1,
-            "changeset": 116447996,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 50.0404882,
+            "lon": 18.3950618,
+            "timestamp": "2022-11-13T20:07:10Z",
+            "version": 2,
+            "changeset": 128861346,
+            "user": "Interswd",
+            "uid": 3414856,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Miejski Ośrodek Kultury",
