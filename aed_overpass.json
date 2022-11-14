@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-14T09:31:54Z",
-        "timestamp_areas_base": "2022-11-14T07:35:08Z",
+        "timestamp_osm_base": "2022-11-14T10:31:53Z",
+        "timestamp_areas_base": "2022-11-14T09:35:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75550,6 +75550,22 @@
             "tags": {
                 "defibrillator:location": "na zewnątrz",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10182308517,
+            "lat": 50.0603481,
+            "lon": 18.9336314,
+            "timestamp": "2022-11-14T09:37:24Z",
+            "version": 1,
+            "changeset": 128880715,
+            "user": "miba2",
+            "uid": 17577998,
+            "tags": {
+                "defibrillator:location": "Samochód Ratowniczo Gaśniczy OSP Kobiór",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
