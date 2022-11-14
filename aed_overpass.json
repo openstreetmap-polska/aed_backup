@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-14T14:31:35Z",
+        "timestamp_osm_base": "2022-11-14T15:31:23Z",
         "timestamp_areas_base": "2022-11-14T12:38:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75566,6 +75566,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "SP Medical"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10183387317,
+            "lat": 52.3972454,
+            "lon": 17.2259533,
+            "timestamp": "2022-11-14T15:20:46Z",
+            "version": 1,
+            "changeset": 128897402,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Urzędu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
