@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-14T10:31:53Z",
-        "timestamp_areas_base": "2022-11-14T09:35:59Z",
+        "timestamp_osm_base": "2022-11-14T11:31:54Z",
+        "timestamp_areas_base": "2022-11-14T10:36:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75564,6 +75564,23 @@
             "uid": 17577998,
             "tags": {
                 "defibrillator:location": "Samochód Ratowniczo Gaśniczy OSP Kobiór",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10182494017,
+            "lat": 51.5944054,
+            "lon": 18.9755416,
+            "timestamp": "2022-11-14T10:56:01Z",
+            "version": 1,
+            "changeset": 128884622,
+            "user": "SP Medical",
+            "uid": 17674111,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "SP Medical-Na ścianie po lewej stronie przy wejściu.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
