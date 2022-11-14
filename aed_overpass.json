@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-14T11:31:54Z",
+        "timestamp_osm_base": "2022-11-14T12:31:39Z",
         "timestamp_areas_base": "2022-11-14T10:36:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71684,24 +71684,6 @@
         },
         {
             "type": "node",
-            "id": 10069306417,
-            "lat": 50.0969478,
-            "lon": 18.2150326,
-            "timestamp": "2022-10-02T19:39:21Z",
-            "version": 1,
-            "changeset": 126907366,
-            "user": "irik",
-            "uid": 248439,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na kładce.",
-                "defibrillator:location:en": "On the footbridge.",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
             "id": 10072545628,
             "lat": 52.3851357,
             "lon": 16.9780669,
@@ -75571,18 +75553,19 @@
         {
             "type": "node",
             "id": 10182494017,
-            "lat": 51.5944054,
-            "lon": 18.9755416,
-            "timestamp": "2022-11-14T10:56:01Z",
-            "version": 1,
-            "changeset": 128884622,
+            "lat": 51.594384,
+            "lon": 18.9753975,
+            "timestamp": "2022-11-14T12:28:44Z",
+            "version": 2,
+            "changeset": 128889062,
             "user": "SP Medical",
             "uid": 17674111,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "SP Medical-Na ścianie po lewej stronie przy wejściu.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "SP Medical"
             }
         }
     ]
