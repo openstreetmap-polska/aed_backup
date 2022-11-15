@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-15T18:31:38Z",
+        "timestamp_osm_base": "2022-11-15T19:31:39Z",
         "timestamp_areas_base": "2022-11-15T15:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75655,6 +75655,23 @@
             "tags": {
                 "access": "permissive",
                 "defibrillator:location": "W luxmed, prawo od wejscia, na scianie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10186543617,
+            "lat": 52.1428281,
+            "lon": 21.0392649,
+            "timestamp": "2022-11-15T18:57:01Z",
+            "version": 1,
+            "changeset": 128955234,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Przy recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
