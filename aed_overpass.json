@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-15T13:31:09Z",
+        "timestamp_osm_base": "2022-11-15T14:32:01Z",
         "timestamp_areas_base": "2022-11-15T10:51:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75591,11 +75591,11 @@
             "id": 10185315917,
             "lat": 50.7362092,
             "lon": 18.554972,
-            "timestamp": "2022-11-15T11:22:34Z",
-            "version": 2,
-            "changeset": 128934311,
-            "user": "OSP Dzielna",
-            "uid": 17683472,
+            "timestamp": "2022-11-15T14:31:54Z",
+            "version": 3,
+            "changeset": 128945497,
+            "user": "02b5357d",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator w kapsule przy wejściu do remizy OSP w Dzielnej.",
@@ -75603,7 +75603,43 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "no",
-                "phone": "692431208"
+                "phone": "+48 692 431 208"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10185997617,
+            "lat": 53.1533005,
+            "lon": 16.6985263,
+            "timestamp": "2022-11-15T13:49:03Z",
+            "version": 1,
+            "changeset": 128943441,
+            "user": "KarpolPL",
+            "uid": 17687353,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W wejściu",
+                "defibrillator:location:en": "In the Entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10186003217,
+            "lat": 53.1526339,
+            "lon": 16.6974553,
+            "timestamp": "2022-11-15T13:52:46Z",
+            "version": 1,
+            "changeset": 128943441,
+            "user": "KarpolPL",
+            "uid": 17687353,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "w służbie ochrony",
+                "defibrillator:location:en": "At the security office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
