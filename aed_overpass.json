@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-15T15:31:52Z",
-        "timestamp_areas_base": "2022-11-15T10:51:43Z",
+        "timestamp_osm_base": "2022-11-15T16:31:39Z",
+        "timestamp_areas_base": "2022-11-15T15:55:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75638,6 +75638,23 @@
                 "access": "yes",
                 "defibrillator:location": "w służbie ochrony",
                 "defibrillator:location:en": "At the security office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10186204632,
+            "lat": 52.2316002,
+            "lon": 20.9802674,
+            "timestamp": "2022-11-15T15:56:10Z",
+            "version": 1,
+            "changeset": 128949090,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "W luxmed, prawo od wejscia, na scianie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
