@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-15T07:31:43Z",
-        "timestamp_areas_base": "2022-11-15T06:49:08Z",
+        "timestamp_osm_base": "2022-11-15T08:31:39Z",
+        "timestamp_areas_base": "2022-11-15T07:48:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75584,6 +75584,25 @@
                 "defibrillator:location:en": "On the wall near entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10185315917,
+            "lat": 50.7362092,
+            "lon": 18.554972,
+            "timestamp": "2022-11-15T08:19:46Z",
+            "version": 1,
+            "changeset": 128925092,
+            "user": "OSP Dzielna",
+            "uid": 17683472,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator w kapsule przy wejściu do remizy OSP w Dzielnej",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no",
+                "phone": "692431208"
             }
         }
     ]
