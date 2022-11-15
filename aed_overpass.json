@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-15T10:31:23Z",
-        "timestamp_areas_base": "2022-11-15T09:50:53Z",
+        "timestamp_osm_base": "2022-11-15T11:31:24Z",
+        "timestamp_areas_base": "2022-11-15T10:51:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75591,14 +75591,15 @@
             "id": 10185315917,
             "lat": 50.7362092,
             "lon": 18.554972,
-            "timestamp": "2022-11-15T08:19:46Z",
-            "version": 1,
-            "changeset": 128925092,
+            "timestamp": "2022-11-15T11:22:34Z",
+            "version": 2,
+            "changeset": 128934311,
             "user": "OSP Dzielna",
             "uid": 17683472,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Defibrylator w kapsule przy wejściu do remizy OSP w Dzielnej",
+                "defibrillator:location": "Defibrylator w kapsule przy wejściu do remizy OSP w Dzielnej.",
+                "description": "Otwarcie kapsuły z defibrylatorem uruchamia alarm i syrenę na budynku. W tym samym czasie powiadamia ratowników OSP Dzielna o alarmie AED.",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "no",
