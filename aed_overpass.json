@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-16T06:31:38Z",
-        "timestamp_areas_base": "2022-11-16T06:03:08Z",
+        "timestamp_osm_base": "2022-11-16T07:31:24Z",
+        "timestamp_areas_base": "2022-11-16T07:03:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75672,6 +75672,40 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location:pl": "Przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10187830217,
+            "lat": 53.4700054,
+            "lon": 22.0210581,
+            "timestamp": "2022-11-16T07:21:40Z",
+            "version": 1,
+            "changeset": 128973916,
+            "user": "kjarzylo",
+            "uid": 14872108,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na samochodzie strażackim OSP Lachowo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10187830218,
+            "lat": 53.4081133,
+            "lon": 21.9335416,
+            "timestamp": "2022-11-16T07:23:05Z",
+            "version": 1,
+            "changeset": 128973916,
+            "user": "kjarzylo",
+            "uid": 14872108,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodach strażackich PSP",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
