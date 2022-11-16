@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-16T16:31:53Z",
+        "timestamp_osm_base": "2022-11-16T17:31:51Z",
         "timestamp_areas_base": "2022-11-16T16:09:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75740,6 +75740,52 @@
                 "defibrillator:location": "W budynku jednostki OSP",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10189200771,
+            "lat": 49.3064393,
+            "lon": 19.9327354,
+            "timestamp": "2022-11-16T17:23:18Z",
+            "version": 1,
+            "changeset": 129002755,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku stacji górnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "defibrillator:location:en": "In the building of the upper station of the cable car to Gubałówka, next to the passenger check-in desk.",
+                "description": "Godziny otwarcia: https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "\"w godzinach otwarcia kolei\"",
+                "operator": "Polskie Koleje Linowe",
+                "phone": "+48 18 20 20 300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10189200772,
+            "lat": 49.2984958,
+            "lon": 19.9453796,
+            "timestamp": "2022-11-16T17:23:18Z",
+            "version": 1,
+            "changeset": 129002755,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku stacji dolnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "defibrillator:location:en": "In the building of the lower station of the cableway to Gubałówka, next to the passenger check-in desk.",
+                "description": "Godziny otwarcia: https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "\"w godzinach otwarcia kolei\"",
+                "operator": "Polskie Koleje Linowe",
+                "phone": "+48 18 20 20 300"
             }
         }
     ]
