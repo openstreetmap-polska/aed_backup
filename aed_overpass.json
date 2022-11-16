@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-16T08:31:24Z",
+        "timestamp_osm_base": "2022-11-16T09:31:23Z",
         "timestamp_areas_base": "2022-11-16T08:03:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75706,6 +75706,22 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na samochodach strażackich PSP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10187967655,
+            "lat": 52.2152253,
+            "lon": 20.9720527,
+            "timestamp": "2022-11-16T08:47:36Z",
+            "version": 1,
+            "changeset": 128977590,
+            "user": "domi_nick",
+            "uid": 2850965,
+            "tags": {
+                "defibrillator:location": "W hallu głównym, obok toalety.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
