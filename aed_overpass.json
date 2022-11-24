@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-24T20:32:06Z",
-        "timestamp_areas_base": "2022-11-24T19:48:23Z",
+        "timestamp_osm_base": "2022-11-24T21:32:09Z",
+        "timestamp_areas_base": "2022-11-24T20:50:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74557,6 +74557,21 @@
         },
         {
             "type": "node",
+            "id": 10135292461,
+            "lat": 52.4038398,
+            "lon": 16.943333,
+            "timestamp": "2022-11-24T21:18:03Z",
+            "version": 2,
+            "changeset": 129343905,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "name": "Defibrylator AED Polska Spółka Gazownictwa Sp z.o.o."
+            }
+        },
+        {
+            "type": "node",
             "id": 10135691917,
             "lat": 51.2361596,
             "lon": 22.5511386,
@@ -76902,64 +76917,6 @@
                 "operator": "Urząd Miejski w Łomiankach / Straż Miejska w Łomiankach",
                 "phone": "986, +48 22 751 35 03"
             }
-        },
-        {
-            "type": "way",
-            "id": 440458500,
-            "timestamp": "2022-11-22T14:44:55Z",
-            "version": 4,
-            "changeset": 129243356,
-            "user": "mueschel",
-            "uid": 616774,
-            "nodes": [
-                4381981609,
-                4381981608,
-                4385010386,
-                4381981604,
-                10135292461,
-                4381981605,
-                4381981609
-            ],
-            "tags": {
-                "building": "yes",
-                "emergency": "defibrillator"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4381981604,
-            "lat": 52.4038269,
-            "lon": 16.9433776
-        },
-        {
-            "type": "node",
-            "id": 4381981605,
-            "lat": 52.4038446,
-            "lon": 16.9433163
-        },
-        {
-            "type": "node",
-            "id": 4381981608,
-            "lat": 52.4038866,
-            "lon": 16.943426
-        },
-        {
-            "type": "node",
-            "id": 4381981609,
-            "lat": 52.403905,
-            "lon": 16.9433637
-        },
-        {
-            "type": "node",
-            "id": 4385010386,
-            "lat": 52.403869,
-            "lon": 16.9434117
-        },
-        {
-            "type": "node",
-            "id": 10135292461,
-            "lat": 52.4038398,
-            "lon": 16.943333
         }
     ]
 }
