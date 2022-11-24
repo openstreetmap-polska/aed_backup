@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-24T22:32:09Z",
-        "timestamp_areas_base": "2022-11-24T21:51:24Z",
+        "timestamp_osm_base": "2022-11-24T23:31:55Z",
+        "timestamp_areas_base": "2022-11-24T22:52:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -874,22 +874,27 @@
         {
             "type": "node",
             "id": 4430364323,
-            "lat": 54.1767545,
-            "lon": 15.5763864,
-            "timestamp": "2022-02-01T19:10:38Z",
-            "version": 2,
-            "changeset": 116881163,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 54.1767138,
+            "lon": 15.5763547,
+            "timestamp": "2022-11-24T23:28:53Z",
+            "version": 4,
+            "changeset": 129346103,
+            "user": "taxi301",
+            "uid": 657596,
             "tags": {
                 "access": "customers",
                 "addr:city": "Kołobrzeg",
                 "addr:housenumber": "13",
+                "addr:postcode": "78-100",
                 "addr:street": "Ratuszowa",
+                "defibrillator:location": "na ścianie po lewej stronie",
+                "defibrillator:location:en": "on the wall on the left",
+                "description": "https://westnordost.de/p/122799.jpg",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Fr 08:00-15:30",
-                "wheelchair": "no"
+                "wheelchair": "limited"
             }
         },
         {
