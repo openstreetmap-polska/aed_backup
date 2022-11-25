@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-25T06:31:39Z",
-        "timestamp_areas_base": "2022-11-25T05:53:54Z",
+        "timestamp_osm_base": "2022-11-25T07:32:09Z",
+        "timestamp_areas_base": "2022-11-25T06:54:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -76921,6 +76921,23 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Łomiankach / Straż Miejska w Łomiankach",
                 "phone": "986, +48 22 751 35 03"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10216462264,
+            "lat": 52.2413161,
+            "lon": 20.9327858,
+            "timestamp": "2022-11-25T07:03:30Z",
+            "version": 1,
+            "changeset": 129353606,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Luxmed 4p, po wejściu za rogiem na ścianie po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
