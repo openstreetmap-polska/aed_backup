@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-25T12:31:36Z",
+        "timestamp_osm_base": "2022-11-25T13:30:59Z",
         "timestamp_areas_base": "2022-11-25T11:57:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -76938,6 +76938,72 @@
                 "defibrillator:location": "Luxmed 4p, po wejściu za rogiem na ścianie po prawej stronie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10217049428,
+            "lat": 51.2314683,
+            "lon": 18.5882208,
+            "timestamp": "2022-11-25T12:43:15Z",
+            "version": 1,
+            "changeset": 129367269,
+            "user": "Iga | Yanosik",
+            "uid": 4873389,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:en": "At the front door at the reception desk.",
+                "defibrillator:note": "przeznaczenie dla pracowników Gala Poland, dostawców, podwykonawców",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10217085845,
+            "lat": 52.4023892,
+            "lon": 16.9141716,
+            "timestamp": "2022-11-25T13:02:25Z",
+            "version": 1,
+            "changeset": 129367893,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Poczekalnia dla pasażerów, po lewej stronie od stanowiska Informacji pasażerskiej",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "AED ME PAD (iPAD) CU SP1",
+                "opening_hours": "24/7",
+                "operator": "ZKZL - Dworzec Autobusowy",
+                "phone": "+48 61 415 86 91",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10217085846,
+            "lat": 52.4005869,
+            "lon": 16.8999211,
+            "timestamp": "2022-11-25T13:02:25Z",
+            "version": 1,
+            "changeset": 129367893,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hol główny naprzeciwko stanowiska ochrony",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Defibtech LifeLine AED",
+                "opening_hours": "Mo 08:00-17:00, Tu-Fr 08:00-15:30",
+                "operator": "ZKZL",
+                "phone": "+48 61 415 86 49",
+                "wheelchair": "yes"
             }
         }
     ]
