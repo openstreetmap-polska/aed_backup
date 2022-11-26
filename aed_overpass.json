@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-26T17:31:38Z",
+        "timestamp_osm_base": "2022-11-26T18:31:39Z",
         "timestamp_areas_base": "2022-11-26T17:12:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77038,6 +77038,49 @@
                 "defibrillator:location": "Na ścianie po prawej stronie od bramek wejściowych do Auchan",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10220171418,
+            "lat": 51.2596739,
+            "lon": 18.3221129,
+            "timestamp": "2022-11-26T18:13:03Z",
+            "version": 1,
+            "changeset": 129411380,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Czastary",
+                "phone": "112; +48 783 884 399"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10220171460,
+            "lat": 51.2596321,
+            "lon": 18.3221837,
+            "timestamp": "2022-11-26T18:13:03Z",
+            "version": 1,
+            "changeset": 129411380,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy OSP Czastary w okrągłej kapsule rotaid.",
+                "defibrillator:location:en": "On the wall of the OSP Czastary firehouse in a round rotaid capsule.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Czastary",
+                "phone": "112; +48 783 884 399",
+                "wheelchair": "yes"
             }
         }
     ]
