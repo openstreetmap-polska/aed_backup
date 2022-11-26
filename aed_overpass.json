@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-26T18:31:39Z",
-        "timestamp_areas_base": "2022-11-26T17:12:15Z",
+        "timestamp_osm_base": "2022-11-26T19:31:29Z",
+        "timestamp_areas_base": "2022-11-26T19:14:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77043,11 +77043,11 @@
         {
             "type": "node",
             "id": 10220171418,
-            "lat": 51.2596739,
-            "lon": 18.3221129,
-            "timestamp": "2022-11-26T18:13:03Z",
-            "version": 1,
-            "changeset": 129411380,
+            "lat": 51.2596882,
+            "lon": 18.3221061,
+            "timestamp": "2022-11-26T19:23:23Z",
+            "version": 4,
+            "changeset": 129413094,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -77056,7 +77056,6 @@
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7",
                 "operator": "OSP Czastary",
                 "phone": "112; +48 783 884 399"
             }
@@ -77064,11 +77063,11 @@
         {
             "type": "node",
             "id": 10220171460,
-            "lat": 51.2596321,
-            "lon": 18.3221837,
-            "timestamp": "2022-11-26T18:13:03Z",
-            "version": 1,
-            "changeset": 129411380,
+            "lat": 51.2596307,
+            "lon": 18.3221839,
+            "timestamp": "2022-11-26T18:34:53Z",
+            "version": 2,
+            "changeset": 129411859,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -77080,6 +77079,28 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Czastary",
                 "phone": "112; +48 783 884 399",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10220186996,
+            "lat": 51.2419295,
+            "lon": 18.3174047,
+            "timestamp": "2022-11-26T18:49:49Z",
+            "version": 1,
+            "changeset": 129412243,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy OSP Parcice w okrągłej kapsule Rotaid.",
+                "defibrillator:location:en": "On the wall of the OSP Parcice firehouse in a round Rotaid capsule.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Parcice",
+                "phone": "112",
                 "wheelchair": "yes"
             }
         }
