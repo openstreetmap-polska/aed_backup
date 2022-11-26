@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-26T15:31:39Z",
+        "timestamp_osm_base": "2022-11-26T16:31:39Z",
         "timestamp_areas_base": "2022-11-26T14:10:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77004,6 +77004,40 @@
                 "operator": "ZKZL",
                 "phone": "+48 61 415 86 49",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10219951319,
+            "lat": 50.0866855,
+            "lon": 19.9761031,
+            "timestamp": "2022-11-26T16:02:58Z",
+            "version": 1,
+            "changeset": 129407779,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Placówka Medicover, na 1 piętrze przy rejestracji, trzeba jechać windą",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10219964119,
+            "lat": 54.4028969,
+            "lon": 18.5874639,
+            "timestamp": "2022-11-26T16:02:07Z",
+            "version": 1,
+            "changeset": 129407743,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie po prawej stronie od bramek wejściowych do Auchan",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]

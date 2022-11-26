@@ -1,14 +1,14 @@
-# AED backup and stats (2022-11-25 13:33:08)
+# AED backup and stats (2022-11-26 16:33:06)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4183
+Total AED: 4185
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 356\
-Average daily growth since beginning of the year: 13.47
+Average daily growth since beginning of the year: 13.43
 
 ## Top creators
 | # | User | Created |
@@ -20,7 +20,7 @@ Average daily growth since beginning of the year: 13.47
 | 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 270 |
 | 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 257 |
 | 7 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 143 |
-| 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 106 |
+| 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 107 |
 | 9 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 10 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 69 |
 | 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 57 |
@@ -28,13 +28,13 @@ Average daily growth since beginning of the year: 13.47
 | 13 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
 | 14 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 15 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 36 |
-| 16 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
-| 17 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
+| 16 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
+| 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 34 |
 | 18 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 27 |
 | 19 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
-| 20 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 24 |
-| 21 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
-| 22 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
+| 20 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
+| 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 24 |
+| 22 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 24 |
 | 23 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 | 24 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 | 25 | [Mentisekk](<https://www.openstreetmap.org/user/Mentisekk>) | 19 |
