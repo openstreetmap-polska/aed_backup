@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-26T20:32:23Z",
+        "timestamp_osm_base": "2022-11-26T21:31:25Z",
         "timestamp_areas_base": "2022-11-26T20:14:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77102,6 +77102,24 @@
                 "operator": "OSP Parcice",
                 "phone": "112",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10220383117,
+            "lat": 51.3592775,
+            "lon": 19.3691305,
+            "timestamp": "2022-11-26T20:33:06Z",
+            "version": 1,
+            "changeset": 129414801,
+            "user": "pan_wisnia_ebe",
+            "uid": 17719056,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie biura targowiska",
+                "defibrillator:location:en": "on wall of market management' office",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
