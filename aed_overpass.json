@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-27T13:32:10Z",
+        "timestamp_osm_base": "2022-11-27T14:31:53Z",
         "timestamp_areas_base": "2022-11-27T13:19:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5290,14 +5290,14 @@
             "id": 9081670920,
             "lat": 52.412337,
             "lon": 16.9514012,
-            "timestamp": "2022-10-07T07:01:09Z",
-            "version": 2,
-            "changeset": 127135075,
-            "user": "polar7",
-            "uid": 3894590,
+            "timestamp": "2022-11-27T14:13:45Z",
+            "version": 3,
+            "changeset": 129436331,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "hol główny",
+                "defibrillator:location": "hol główny, przy przejściu do korytarza, na ścianie",
                 "description": "apteczka",
                 "emergency": "defibrillator",
                 "emergency_telephone_code": "112",
@@ -77120,6 +77120,26 @@
                 "defibrillator:location:en": "on wall of market management' office",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10221460691,
+            "lat": 53.7492622,
+            "lon": 17.7327583,
+            "timestamp": "2022-11-27T14:25:46Z",
+            "version": 1,
+            "changeset": 129436750,
+            "user": "Jerry_W2k",
+            "uid": 4732840,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na budynku biurowca Nadleśnictwa Rytel, tuż przy drzwiach wejściowych",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Nadleśnictwo Rytel",
+                "phone": "+48 696 058 216",
+                "source": "https://rytel.torun.lasy.gov.pl/witamy/-/asset_publisher/Wo5w/content/defibrylator-aed-w-nadlesnictwie-rytel#"
             }
         }
     ]
