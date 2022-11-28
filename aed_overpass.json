@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T06:38:43Z",
-        "timestamp_areas_base": "2022-11-28T06:30:37Z",
+        "timestamp_osm_base": "2022-11-28T07:31:39Z",
+        "timestamp_areas_base": "2022-11-28T07:30:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77140,6 +77140,43 @@
                 "operator": "Nadleśnictwo Rytel",
                 "phone": "+48 696 058 216",
                 "source": "https://rytel.torun.lasy.gov.pl/witamy/-/asset_publisher/Wo5w/content/defibrylator-aed-w-nadlesnictwie-rytel#"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10223000318,
+            "lat": 51.8253003,
+            "lon": 17.4540359,
+            "timestamp": "2022-11-28T06:55:53Z",
+            "version": 1,
+            "changeset": 129461126,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Korytarz przy recepcji UMiG Koźmin WLKP - główne wejście",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "663722925"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10223017517,
+            "lat": 51.8248949,
+            "lon": 17.4486568,
+            "timestamp": "2022-11-28T06:59:32Z",
+            "version": 1,
+            "changeset": 129461126,
+            "user": "Michał Rat Med",
+            "uid": 16432586,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Klubu Seniora",
+                "emergency": "defibrillator",
+                "emergency:phone": "999",
+                "indoor": "yes",
+                "phone": "722 216 253"
             }
         }
     ]
