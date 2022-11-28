@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T12:31:23Z",
+        "timestamp_osm_base": "2022-11-28T13:41:22Z",
         "timestamp_areas_base": "2022-11-28T07:30:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77212,6 +77212,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "K&K Wojtanowicz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10223563165,
+            "lat": 54.130138,
+            "lon": 20.5740203,
+            "timestamp": "2022-11-28T12:56:02Z",
+            "version": 1,
+            "changeset": 129476127,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku w przychodni Esculap",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "operator": "Eskulap",
+                "phone": "+48897670205"
             }
         }
     ]
