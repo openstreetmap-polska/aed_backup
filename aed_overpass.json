@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T20:31:48Z",
-        "timestamp_areas_base": "2022-11-28T07:30:39Z",
+        "timestamp_osm_base": "2022-11-28T21:31:38Z",
+        "timestamp_areas_base": "2022-11-28T20:36:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77239,9 +77239,9 @@
             "id": 10224287018,
             "lat": 53.8994579,
             "lon": 16.8342885,
-            "timestamp": "2022-11-28T19:41:24Z",
-            "version": 1,
-            "changeset": 129489719,
+            "timestamp": "2022-11-28T20:35:00Z",
+            "version": 2,
+            "changeset": 129491401,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -77250,7 +77250,7 @@
                 "defibrillator:location:en": "In the building of the Municipal Office.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo 07:15-16:30; Tu-Th 07:15-15:15; Fr 07:15-14:00; Sa,Su off; PH off",
+                "opening_hours": "Mo 07:15-16:30; Tu-Th 07:15-15:15; Fr 07:15-14:00; Sa,Su off",
                 "operator": "Urząd Miasta Biały Bór",
                 "phone": "+48 94 373 90 02; +48 94 373 90 29"
             }
@@ -77295,6 +77295,25 @@
                 "opening_hours": "Mo 07:15-16:30; Tu-Th 07:15-15:15; Fr 07:15-14:00; Sa, Su off",
                 "operator": "Urząd Miejski w Białym Borze",
                 "phone": "+48 94 37 39 718; +48 94 37 39 737"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10224393771,
+            "lat": 50.411081,
+            "lon": 17.3305156,
+            "timestamp": "2022-11-28T20:52:46Z",
+            "version": 1,
+            "changeset": 129491958,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeżdzie ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Przełęk"
             }
         }
     ]
