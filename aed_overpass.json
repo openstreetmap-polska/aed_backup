@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T19:31:53Z",
+        "timestamp_osm_base": "2022-11-28T20:31:48Z",
         "timestamp_areas_base": "2022-11-28T07:30:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77232,6 +77232,69 @@
                 "opening_hours": "Mo-Fr 08:00-18:00",
                 "operator": "Eskulap",
                 "phone": "+48897670205"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10224287018,
+            "lat": 53.8994579,
+            "lon": 16.8342885,
+            "timestamp": "2022-11-28T19:41:24Z",
+            "version": 1,
+            "changeset": 129489719,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Urzędu Miejskiego.",
+                "defibrillator:location:en": "In the building of the Municipal Office.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:15-16:30; Tu-Th 07:15-15:15; Fr 07:15-14:00; Sa,Su off; PH off",
+                "operator": "Urząd Miasta Biały Bór",
+                "phone": "+48 94 373 90 02; +48 94 373 90 29"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10224312903,
+            "lat": 53.8959435,
+            "lon": 16.8347021,
+            "timestamp": "2022-11-28T20:00:13Z",
+            "version": 1,
+            "changeset": 129490282,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Białoborskiego Centrum Kultury i Rekreacji.",
+                "defibrillator:location:en": "In the building of the Center for Culture and Recreation in Biały Bór.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-18:00; Tu 08:00-20:00; We,Fr 08:00-16:00; Th 08:00-18:00; Sa-Su off",
+                "operator": "Urząd Miasta w Białym Borze",
+                "phone": "+48 94 37 39 466"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10224335958,
+            "lat": 53.8971301,
+            "lon": 16.8364485,
+            "timestamp": "2022-11-28T20:19:42Z",
+            "version": 1,
+            "changeset": 129490865,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Miejsko-Gminny Ośrodku Pomocy Społecznej w Białym Borze.",
+                "defibrillator:location:en": "At the Municipal and Communal Social Welfare Center in Biały Bór.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:15-16:30; Tu-Th 07:15-15:15; Fr 07:15-14:00; Sa, Su off",
+                "operator": "Urząd Miejski w Białym Borze",
+                "phone": "+48 94 37 39 718; +48 94 37 39 737"
             }
         }
     ]
