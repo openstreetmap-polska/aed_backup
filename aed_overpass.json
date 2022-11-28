@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T09:31:23Z",
+        "timestamp_osm_base": "2022-11-28T10:31:22Z",
         "timestamp_areas_base": "2022-11-28T07:30:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10023,15 +10023,16 @@
             "id": 9395473090,
             "lat": 54.3738217,
             "lon": 18.5178275,
-            "timestamp": "2022-01-05T22:06:58Z",
-            "version": 1,
-            "changeset": 115814468,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2022-11-28T09:49:09Z",
+            "version": 2,
+            "changeset": 129468213,
+            "user": "BestiaPL",
+            "uid": 32533,
             "tags": {
                 "defibrillator:location": "na ścianie obok głównego wejścia",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "IKEA"
             }
         },
         {
@@ -49208,6 +49209,23 @@
         },
         {
             "type": "node",
+            "id": 9568898617,
+            "lat": 54.2513813,
+            "lon": 20.8102891,
+            "timestamp": "2022-11-28T09:45:49Z",
+            "version": 3,
+            "changeset": 129468077,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na placu Konstytucji 3 maja. Dostępny 24h na dobę.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 9568902717,
             "lat": 54.2527952,
             "lon": 20.8037374,
@@ -77177,6 +77195,23 @@
                 "emergency:phone": "999",
                 "indoor": "yes",
                 "phone": "722 216 253"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10223287918,
+            "lat": 54.5421024,
+            "lon": 18.4528669,
+            "timestamp": "2022-11-28T09:49:09Z",
+            "version": 1,
+            "changeset": 129468213,
+            "user": "BestiaPL",
+            "uid": 32533,
+            "tags": {
+                "defibrillator:location": "Przy drzwiach wejściowych do salomu samochodowego.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "K&K Wojtanowicz"
             }
         }
     ]
