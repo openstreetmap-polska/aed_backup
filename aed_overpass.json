@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-28T21:31:38Z",
-        "timestamp_areas_base": "2022-11-28T20:36:52Z",
+        "timestamp_osm_base": "2022-11-28T22:31:38Z",
+        "timestamp_areas_base": "2022-11-28T21:39:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77302,14 +77302,15 @@
             "id": 10224393771,
             "lat": 50.411081,
             "lon": 17.3305156,
-            "timestamp": "2022-11-28T20:52:46Z",
-            "version": 1,
-            "changeset": 129491958,
+            "timestamp": "2022-11-28T21:38:09Z",
+            "version": 2,
+            "changeset": 129493309,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W pojeżdzie ratowniczo-gaśniczym.",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
