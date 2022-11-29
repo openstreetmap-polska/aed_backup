@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-29T08:33:01Z",
+        "timestamp_osm_base": "2022-11-29T09:31:04Z",
         "timestamp_areas_base": "2022-11-29T05:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77315,6 +77315,23 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Przełęk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10225220717,
+            "lat": 52.3425951,
+            "lon": 21.2254032,
+            "timestamp": "2022-11-29T09:06:53Z",
+            "version": 1,
+            "changeset": 129510719,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Wydziału Komunikacji w Wołominie",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
