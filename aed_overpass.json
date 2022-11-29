@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-29T13:31:52Z",
+        "timestamp_osm_base": "2022-11-29T14:31:43Z",
         "timestamp_areas_base": "2022-11-29T05:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77403,6 +77403,25 @@
                 "operator": "ZDM Poznań",
                 "phone": "+48 61 647 72 01",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10225648546,
+            "lat": 50.4766466,
+            "lon": 17.4288058,
+            "timestamp": "2022-11-29T13:35:29Z",
+            "version": 1,
+            "changeset": 129522060,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "defibrillator:location",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Kubice"
             }
         }
     ]
