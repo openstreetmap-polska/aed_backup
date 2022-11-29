@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-29T12:31:53Z",
+        "timestamp_osm_base": "2022-11-29T13:31:52Z",
         "timestamp_areas_base": "2022-11-29T05:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77332,6 +77332,77 @@
                 "defibrillator:location": "Na ścianie budynku Wydziału Komunikacji w Wołominie",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10225575497,
+            "lat": 52.3812887,
+            "lon": 16.8984803,
+            "timestamp": "2022-11-29T12:36:46Z",
+            "version": 1,
+            "changeset": 129519730,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "dyżurka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Powerheart AED G3 Cardiac Science",
+                "opening_hours": "24/7",
+                "operator": "ZDM Poznań",
+                "phone": "+48 61 661 44 46",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10225575498,
+            "lat": 52.4154855,
+            "lon": 16.9176673,
+            "timestamp": "2022-11-29T12:36:46Z",
+            "version": 1,
+            "changeset": 129519730,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "parter budynku biur (wejście przez portiernię)",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Powerheart AED G3 Cardiac Science",
+                "opening_hours": "Mo 07:30-17:30, Tu-Fr 07:00-15:30",
+                "operator": "ZDM Poznań",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10225575499,
+            "lat": 52.4302452,
+            "lon": 16.9505335,
+            "timestamp": "2022-11-29T12:36:46Z",
+            "version": 1,
+            "changeset": 129519730,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "portiernia",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Powerheart AED G3 Cardiac Science",
+                "opening_hours": "Mo-Fr 06:30-16:00; \"Akcja zima\"",
+                "operator": "ZDM Poznań",
+                "phone": "+48 61 647 72 01",
+                "wheelchair": "yes"
             }
         }
     ]
