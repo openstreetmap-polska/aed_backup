@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-29T18:31:24Z",
+        "timestamp_osm_base": "2022-11-29T19:31:24Z",
         "timestamp_areas_base": "2022-11-29T05:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77422,6 +77422,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Kubice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10226330417,
+            "lat": 51.4045857,
+            "lon": 19.6933199,
+            "timestamp": "2022-11-29T19:19:50Z",
+            "version": 1,
+            "changeset": 129533464,
+            "user": "Artek",
+            "uid": 134423,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Na ścianie przy recepcji/szatni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 44 732 52 37"
             }
         }
     ]
