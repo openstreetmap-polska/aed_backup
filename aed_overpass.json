@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-30T05:31:34Z",
+        "timestamp_osm_base": "2022-11-30T06:31:33Z",
         "timestamp_areas_base": "2022-11-30T04:59:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77440,6 +77440,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 44 732 52 37"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10227047517,
+            "lat": 50.7177963,
+            "lon": 18.8038364,
+            "timestamp": "2022-11-30T06:23:58Z",
+            "version": 1,
+            "changeset": 129546246,
+            "user": "OSP Chwostek",
+            "uid": 17839231,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48889481856"
             }
         }
     ]
