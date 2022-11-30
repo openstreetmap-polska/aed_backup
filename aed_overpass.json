@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-30T11:32:10Z",
+        "timestamp_osm_base": "2022-11-30T12:31:54Z",
         "timestamp_areas_base": "2022-11-30T07:59:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -29668,12 +29668,12 @@
             "type": "node",
             "id": 9466540438,
             "lat": 50.86628,
-            "lon": 18.82694,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lon": 18.8269408,
+            "timestamp": "2022-11-30T12:02:41Z",
+            "version": 2,
+            "changeset": 129559058,
+            "user": "Bąbel",
+            "uid": 3418763,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -77475,6 +77475,31 @@
                 "defibrillator:location": "W budynku PGE Dystrybucja, korytarz na 1. piętrze, na ścianie przy pokoju nr 107",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10228230517,
+            "lat": 52.3999927,
+            "lon": 16.9053725,
+            "timestamp": "2022-11-30T12:31:18Z",
+            "version": 1,
+            "changeset": 129560124,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wejście B, sala obsługi klienta",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "SamaritanPAD350",
+                "opening_hours": "Mo-Fr 07:30-17:30",
+                "operator": "Straż Miejska Miasta Poznania",
+                "phone": "+48 61 878 16 20",
+                "wheelchair": "yes"
             }
         }
     ]
