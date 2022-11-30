@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-30T10:32:09Z",
+        "timestamp_osm_base": "2022-11-30T11:32:10Z",
         "timestamp_areas_base": "2022-11-30T07:59:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2586,13 +2586,13 @@
             "id": 7206180203,
             "lat": 50.0367636,
             "lon": 21.9750944,
-            "timestamp": "2021-08-06T18:52:26Z",
-            "version": 2,
-            "changeset": 109279652,
+            "timestamp": "2022-11-30T10:36:37Z",
+            "version": 3,
+            "changeset": 129555788,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "On the wall behind cash desks.",
                 "defibrillator:location:pl": "Na ścianie za kasami",
                 "emergency": "defibrillator",
@@ -66305,13 +66305,13 @@
             "id": 9856697117,
             "lat": 50.0490921,
             "lon": 21.9767505,
-            "timestamp": "2022-06-29T21:38:11Z",
-            "version": 1,
-            "changeset": 123020769,
+            "timestamp": "2022-11-30T10:36:37Z",
+            "version": 2,
+            "changeset": 129555788,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "Na ścianie po prawej stronie za wejściem głównym.",
                 "defibrillator:location:en": "Wall on the right side near main entrace",
                 "emergency": "defibrillator",
@@ -77458,6 +77458,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48889481856"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10228025347,
+            "lat": 52.6024763,
+            "lon": 21.4291486,
+            "timestamp": "2022-11-30T10:51:37Z",
+            "version": 1,
+            "changeset": 129556320,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku PGE Dystrybucja, korytarz na 1. piętrze, na ścianie przy pokoju nr 107",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
