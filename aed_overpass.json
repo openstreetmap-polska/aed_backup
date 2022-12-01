@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-11-30T23:31:39Z",
-        "timestamp_areas_base": "2022-11-30T23:10:23Z",
+        "timestamp_osm_base": "2022-12-01T00:31:26Z",
+        "timestamp_areas_base": "2022-12-01T00:11:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77500,6 +77500,23 @@
                 "operator": "Straż Miejska Miasta Poznania",
                 "phone": "+48 61 878 16 20",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10229564610,
+            "lat": 50.0917302,
+            "lon": 19.8926214,
+            "timestamp": "2022-11-30T23:52:10Z",
+            "version": 1,
+            "changeset": 129580057,
+            "user": "edc22",
+            "uid": 6529331,
+            "tags": {
+                "defibrillator:location": "Luxmed",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Luxmed"
             }
         }
     ]
