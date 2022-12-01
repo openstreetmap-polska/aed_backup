@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-01T15:31:24Z",
+        "timestamp_osm_base": "2022-12-01T16:31:24Z",
         "timestamp_areas_base": "2022-12-01T13:16:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -77517,6 +77517,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Luxmed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10231143017,
+            "lat": 51.9787959,
+            "lon": 21.2170631,
+            "timestamp": "2022-12-01T15:56:00Z",
+            "version": 2,
+            "changeset": 129609772,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Warsztaty Terapii Zajęciowej na 2 piętrze za drzwiami",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
