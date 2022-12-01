@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-01T18:31:09Z",
-        "timestamp_areas_base": "2022-12-01T13:16:54Z",
+        "timestamp_osm_base": "2022-12-01T19:32:08Z",
+        "timestamp_areas_base": "2022-12-01T19:19:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77534,6 +77534,26 @@
                 "defibrillator:location": "Warsztaty Terapii Zajęciowej na 2 piętrze za drzwiami",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10231539327,
+            "lat": 52.2052997,
+            "lon": 20.8856682,
+            "timestamp": "2022-12-01T18:48:30Z",
+            "version": 1,
+            "changeset": 129616207,
+            "user": "adamsc",
+            "uid": 9147405,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na poziomie \"0\", w pomieszczeniu za recepcją, po lewej stronie.",
+                "defibrillator:location:en": "On the level \"0\", in the room behind reception desk, on the left.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-14:00",
+                "operator": "Würth Polska"
             }
         }
     ]
