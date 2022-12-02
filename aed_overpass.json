@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-02T07:31:59Z",
-        "timestamp_areas_base": "2022-12-02T07:24:53Z",
+        "timestamp_osm_base": "2022-12-02T08:32:09Z",
+        "timestamp_areas_base": "2022-12-02T08:24:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77554,6 +77554,52 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-14:00",
                 "operator": "Würth Polska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232578958,
+            "lat": 52.4107699,
+            "lon": 16.9328726,
+            "timestamp": "2022-12-02T08:28:19Z",
+            "version": 1,
+            "changeset": 129633841,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED PLUS",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 1 w Poznaniu",
+                "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232578959,
+            "lat": 52.4107878,
+            "lon": 16.9329221,
+            "timestamp": "2022-12-02T08:28:19Z",
+            "version": 1,
+            "changeset": 129633841,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED 3",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 1 w Poznaniu",
+                "phone": "+48 47 771 63 00"
             }
         }
     ]
