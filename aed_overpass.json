@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-02T09:31:25Z",
-        "timestamp_areas_base": "2022-12-02T09:25:22Z",
+        "timestamp_osm_base": "2022-12-02T10:31:44Z",
+        "timestamp_areas_base": "2022-12-02T10:25:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -77967,6 +77967,122 @@
                 "manufacturer": "ZOLL AED 3",
                 "opening_hours": "24/7",
                 "operator": "Jednostka Ratowniczo-Gaśnicza nr 7 w Poznaniu",
+                "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232677393,
+            "lat": 52.3866182,
+            "lon": 16.9665615,
+            "timestamp": "2022-12-02T09:56:15Z",
+            "version": 1,
+            "changeset": 129637127,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "hol główny",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "HEARTSINE 300P",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Komenda Miejska PSP w Poznaniu",
+                "phone": "+48 47 771 63 00",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232699960,
+            "lat": 52.2412331,
+            "lon": 16.84838,
+            "timestamp": "2022-12-02T09:48:00Z",
+            "version": 1,
+            "changeset": 129636794,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED PLUS",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 9 w Mosinie",
+                "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232699961,
+            "lat": 52.2412719,
+            "lon": 16.8483675,
+            "timestamp": "2022-12-02T09:48:00Z",
+            "version": 1,
+            "changeset": 129636794,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED 3",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 9 w Mosinie",
+                "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232705825,
+            "lat": 52.5494919,
+            "lon": 16.9744095,
+            "timestamp": "2022-12-02T09:43:50Z",
+            "version": 1,
+            "changeset": 129636586,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED PLUS",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 8 w Bolechowie",
+                "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10232705826,
+            "lat": 52.5495863,
+            "lon": 16.9744095,
+            "timestamp": "2022-12-02T09:43:50Z",
+            "version": 1,
+            "changeset": 129636586,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "samochód pożarniczy",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "manufacturer": "ZOLL AED 3",
+                "opening_hours": "24/7",
+                "operator": "Jednostka Ratowniczo-Gaśnicza nr 8 w Bolechowie",
                 "phone": "+48 47 771 63 00"
             }
         }
