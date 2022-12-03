@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-03T17:31:38Z",
-        "timestamp_areas_base": "2022-12-03T15:38:24Z",
+        "timestamp_osm_base": "2022-12-03T18:30:57Z",
+        "timestamp_areas_base": "2022-12-03T17:38:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -18199,9 +18199,9 @@
             "id": 9438265929,
             "lat": 53.720456,
             "lon": 14.5574733,
-            "timestamp": "2022-09-24T14:02:27Z",
-            "version": 3,
-            "changeset": 126583180,
+            "timestamp": "2022-12-03T18:02:12Z",
+            "version": 4,
+            "changeset": 129684958,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -18209,7 +18209,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "location": "vehicle",
                 "operator": "OSP Czarnocin"
             }
         },
@@ -41402,27 +41402,6 @@
                 "operator": "Gmina Nowogard",
                 "phone": "+48 91 39 26 200",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9525613687,
-            "lat": 53.5656529,
-            "lon": 14.8302137,
-            "timestamp": "2022-02-22T10:19:14Z",
-            "version": 2,
-            "changeset": 117719785,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Samochód Straży Gminnej w Goleniowie.",
-                "defibrillator:location:en": "The car of the Commune Guard in Goleniów.",
-                "emergency": "defibrillator",
-                "emergency:phone": "986",
-                "indoor": "no",
-                "operator": "Gmina Goleniów.",
-                "phone": "+48 91 46 98 292"
             }
         },
         {
@@ -75952,18 +75931,19 @@
             "id": 10197752908,
             "lat": 53.5590596,
             "lon": 14.8391818,
-            "timestamp": "2022-11-17T18:41:50Z",
-            "version": 1,
-            "changeset": 129055388,
+            "timestamp": "2022-12-03T17:56:10Z",
+            "version": 2,
+            "changeset": 129684813,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "private",
                 "defibrillator:location": "Samochód Straży Miejskiej w Goleniowie.",
                 "defibrillator:location:en": "The car of the Commune Guard in Goleniów.",
                 "emergency": "defibrillator",
                 "emergency:phone": "986",
                 "indoor": "no",
+                "location": "vehicle",
                 "operator": "Gmina Goleniów.",
                 "phone": "+48 91 46 98 292"
             }
