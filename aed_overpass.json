@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-03T10:31:21Z",
-        "timestamp_areas_base": "2022-12-03T09:35:24Z",
+        "timestamp_osm_base": "2022-12-03T11:32:09Z",
+        "timestamp_areas_base": "2022-12-03T10:35:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78084,6 +78084,24 @@
                 "opening_hours": "24/7",
                 "operator": "Jednostka Ratowniczo-Gaśnicza nr 8 w Bolechowie",
                 "phone": "+48 47 771 63 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10235384341,
+            "lat": 51.5470669,
+            "lon": 23.5550401,
+            "timestamp": "2022-12-03T11:25:38Z",
+            "version": 1,
+            "changeset": 129672983,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wewnątrz przedsionka, na ścianie obok drzwi.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "UM Włodawa"
             }
         }
     ]
