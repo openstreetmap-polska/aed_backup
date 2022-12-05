@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-05T20:31:54Z",
-        "timestamp_areas_base": "2022-12-05T20:02:24Z",
+        "timestamp_osm_base": "2022-12-05T21:31:53Z",
+        "timestamp_areas_base": "2022-12-05T21:03:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78189,6 +78189,23 @@
                 "operator": "Komenda Miejska Policji w Poznaniu",
                 "phone": "+48 47 771 56 92",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10241085309,
+            "lat": 52.2287183,
+            "lon": 20.9846948,
+            "timestamp": "2022-12-05T21:28:42Z",
+            "version": 1,
+            "changeset": 129757932,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Na korytarzu w podziemiach Warsaw Hub, poziom -1",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
