@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-05T13:31:55Z",
+        "timestamp_osm_base": "2022-12-05T14:32:09Z",
         "timestamp_areas_base": "2022-12-05T10:56:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78114,6 +78114,81 @@
                 "defibrillator:location": "Po lewej  stronie od wejścia do windy do przejścia podziemnego, na górnym poziomie.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10240231995,
+            "lat": 52.3985592,
+            "lon": 16.9611165,
+            "timestamp": "2022-12-05T14:07:13Z",
+            "version": 1,
+            "changeset": 129743560,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Stanowisko Dowodzenia Jednostki",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Saver One",
+                "opening_hours": "24/7",
+                "operator": "KP Poznań Nowe Miasto",
+                "phone": "+48 47 771 23 11",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10240231996,
+            "lat": 52.4107247,
+            "lon": 16.9291399,
+            "timestamp": "2022-12-05T14:07:13Z",
+            "version": 1,
+            "changeset": 129743560,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Stanowisko Dowodzenia Jednostki",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Zoll AED 3",
+                "opening_hours": "24/7",
+                "operator": "KP Poznań Stare Miasto",
+                "phone": "+48 47 771 24 11",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10240231997,
+            "lat": 52.4067497,
+            "lon": 16.9008246,
+            "timestamp": "2022-12-05T14:07:13Z",
+            "version": 1,
+            "changeset": 129743560,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Stanowisko Recepcyjne KMP w Poznaniu",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Frx",
+                "opening_hours": "24/7",
+                "operator": "Komenda Miejska Policji w Poznaniu",
+                "phone": "+48 47 771 56 92",
+                "wheelchair": "yes"
             }
         }
     ]
