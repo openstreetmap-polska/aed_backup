@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-05T21:31:53Z",
+        "timestamp_osm_base": "2022-12-05T22:31:53Z",
         "timestamp_areas_base": "2022-12-05T21:03:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78204,6 +78204,24 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location:pl": "Na korytarzu w podziemiach Warsaw Hub, poziom -1",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10241126309,
+            "lat": 51.198119,
+            "lon": 18.5570001,
+            "timestamp": "2022-12-05T22:00:24Z",
+            "version": 1,
+            "changeset": 129758592,
+            "user": "OSP_Gaszyn",
+            "uid": 17897566,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wóz bojowy OSP w Gaszynie",
+                "defibrillator:location:en": "Firebrigade car",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
