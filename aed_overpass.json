@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-06T06:32:06Z",
-        "timestamp_areas_base": "2022-12-06T06:06:53Z",
+        "timestamp_osm_base": "2022-12-06T07:32:02Z",
+        "timestamp_areas_base": "2022-12-06T07:07:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78222,6 +78222,41 @@
                 "access": "customers",
                 "defibrillator:location": "Wóz bojowy OSP w Gaszynie",
                 "defibrillator:location:en": "Firebrigade car",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10241707309,
+            "lat": 50.205665,
+            "lon": 19.2006974,
+            "timestamp": "2022-12-06T06:53:37Z",
+            "version": 1,
+            "changeset": 129768007,
+            "user": "kwachu",
+            "uid": 605546,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt Pierwszej Pomocy Elvita Centrum Medyczne \"Trójka\"",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 327452238"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10241734409,
+            "lat": 50.2055715,
+            "lon": 19.2012781,
+            "timestamp": "2022-12-06T07:12:43Z",
+            "version": 1,
+            "changeset": 129768007,
+            "user": "kwachu",
+            "uid": 605546,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek \"A\" Portiernia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
