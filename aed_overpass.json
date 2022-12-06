@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-06T10:31:54Z",
+        "timestamp_osm_base": "2022-12-06T11:31:53Z",
         "timestamp_areas_base": "2022-12-06T08:08:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78277,6 +78277,25 @@
                 "emergency": "defibrillator",
                 "opening_hours": "03:30-24:00",
                 "operator": "PKP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10242180209,
+            "lat": 51.2884547,
+            "lon": 17.5662795,
+            "timestamp": "2022-12-06T11:30:10Z",
+            "version": 2,
+            "changeset": 129779283,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Na ścianie budynku świetlicy/remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://mojaolesnica.pl/50936,313770,defibrylator-aed-dla-solectwa-slizow"
             }
         }
     ]
