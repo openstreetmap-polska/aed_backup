@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-08T16:31:22Z",
-        "timestamp_areas_base": "2022-12-08T10:35:52Z",
+        "timestamp_osm_base": "2022-12-08T17:31:20Z",
+        "timestamp_areas_base": "2022-12-08T16:40:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78316,6 +78316,22 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10247099454,
+            "lat": 50.0540366,
+            "lon": 19.826129,
+            "timestamp": "2022-12-08T16:44:49Z",
+            "version": 1,
+            "changeset": 129868609,
+            "user": "VA00",
+            "uid": 1745828,
+            "tags": {
+                "defibrillator:location": "Na portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
