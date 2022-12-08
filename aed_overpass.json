@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-08T19:32:01Z",
-        "timestamp_areas_base": "2022-12-08T18:42:24Z",
+        "timestamp_osm_base": "2022-12-08T20:31:40Z",
+        "timestamp_areas_base": "2022-12-08T19:44:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78332,6 +78332,59 @@
                 "defibrillator:location": "Na portierni",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10247516709,
+            "lat": 50.0756413,
+            "lon": 19.9293323,
+            "timestamp": "2022-12-08T19:49:16Z",
+            "version": 1,
+            "changeset": 129875403,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Medyczne Medicover - recepcja",
+                "defibrillator:location:en": "Medical Center Medicover - reception",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10247548209,
+            "lat": 49.6968675,
+            "lon": 21.6792684,
+            "timestamp": "2022-12-08T20:08:30Z",
+            "version": 1,
+            "changeset": 129875862,
+            "user": "OSP Dobieszyn",
+            "uid": 14892891,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przed wejściem",
+                "defibrillator:location:en": "On the wall in front of the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10247574409,
+            "lat": 49.5749049,
+            "lon": 21.9435431,
+            "timestamp": "2022-12-08T20:27:40Z",
+            "version": 1,
+            "changeset": 129876330,
+            "user": "obywatel",
+            "uid": 2909427,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
