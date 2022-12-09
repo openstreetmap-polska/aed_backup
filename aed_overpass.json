@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-09T08:31:33Z",
+        "timestamp_osm_base": "2022-12-09T09:31:29Z",
         "timestamp_areas_base": "2022-12-09T07:49:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78403,6 +78403,23 @@
                 "defibrillator:location:en": "On the wall by the gatehouse",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10248428622,
+            "lat": 52.1595742,
+            "lon": 20.7649695,
+            "timestamp": "2022-12-09T08:54:37Z",
+            "version": 1,
+            "changeset": 129891229,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "na 1 piętrze",
+                "emergency": "defibrillator",
                 "indoor": "yes"
             }
         }
