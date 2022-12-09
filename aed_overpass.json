@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-09T22:31:13Z",
-        "timestamp_areas_base": "2022-12-09T21:57:38Z",
+        "timestamp_osm_base": "2022-12-09T23:32:21Z",
+        "timestamp_areas_base": "2022-12-09T22:57:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78355,19 +78355,21 @@
         {
             "type": "node",
             "id": 10247548209,
-            "lat": 49.6968675,
-            "lon": 21.6792684,
-            "timestamp": "2022-12-08T20:08:30Z",
-            "version": 1,
-            "changeset": 129875862,
+            "lat": 49.6968863,
+            "lon": 21.6793181,
+            "timestamp": "2022-12-09T22:39:46Z",
+            "version": 2,
+            "changeset": 129916863,
             "user": "OSP Dobieszyn",
             "uid": 14892891,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie przed wejściem",
+                "defibrillator:location": "Na ścianie przed wejściem do budynku remizy OSP",
                 "defibrillator:location:en": "On the wall in front of the entrance",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "OSP Dobieszyn",
+                "ref": "P1947R"
             }
         },
         {
