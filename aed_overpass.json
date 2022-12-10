@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-10T08:35:05Z",
-        "timestamp_areas_base": "2022-12-10T08:01:39Z",
+        "timestamp_osm_base": "2022-12-10T09:31:29Z",
+        "timestamp_areas_base": "2022-12-10T09:02:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -13861,16 +13861,17 @@
             "id": 9424000918,
             "lat": 52.2344824,
             "lon": 21.0131413,
-            "timestamp": "2022-01-16T22:48:31Z",
-            "version": 1,
-            "changeset": 116231386,
-            "user": "ye_lo",
-            "uid": 14869402,
+            "timestamp": "2022-12-10T08:35:19Z",
+            "version": 2,
+            "changeset": 129925768,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Na pierwszym piętrze, wejście do budynku w bramie na samym środku. Prosić ochronę o defibrylator.",
                 "defibrillator:location:en": "First floor. Ask Security for AED.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
