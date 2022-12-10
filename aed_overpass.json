@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-10T14:31:05Z",
+        "timestamp_osm_base": "2022-12-10T15:31:22Z",
         "timestamp_areas_base": "2022-12-10T14:04:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78414,16 +78414,18 @@
             "id": 10248428622,
             "lat": 52.1595742,
             "lon": 20.7649695,
-            "timestamp": "2022-12-09T08:54:37Z",
-            "version": 1,
-            "changeset": 129891229,
-            "user": "tomzyl",
-            "uid": 530338,
+            "timestamp": "2022-12-10T14:45:30Z",
+            "version": 2,
+            "changeset": 129935910,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "na 1 piętrze",
+                "defibrillator:location": "W korytarzu na 1 piętrze",
+                "defibrillator:location:en": "In the hallway on the 1st floor",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1"
             }
         },
         {
