@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-10T11:32:09Z",
-        "timestamp_areas_base": "2022-12-10T11:02:45Z",
+        "timestamp_osm_base": "2022-12-10T12:31:25Z",
+        "timestamp_areas_base": "2022-12-10T12:03:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62867,13 +62867,13 @@
         {
             "type": "node",
             "id": 9735848317,
-            "lat": 54.4542561,
-            "lon": 16.9880886,
-            "timestamp": "2022-05-12T20:16:40Z",
-            "version": 1,
-            "changeset": 120905155,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "lat": 54.4542504,
+            "lon": 16.9883144,
+            "timestamp": "2022-12-10T11:39:00Z",
+            "version": 2,
+            "changeset": 129930746,
+            "user": "taxi301",
+            "uid": 657596,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Decathlon w sklepie w środku",
