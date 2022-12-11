@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-11T22:31:54Z",
-        "timestamp_areas_base": "2022-12-11T22:19:39Z",
+        "timestamp_osm_base": "2022-12-11T23:31:41Z",
+        "timestamp_areas_base": "2022-12-11T23:20:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78477,6 +78477,22 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10253988154,
+            "lat": 50.6665956,
+            "lon": 20.6648906,
+            "timestamp": "2022-12-11T22:48:06Z",
+            "version": 1,
+            "changeset": 129978571,
+            "user": "pedro's",
+            "uid": 6423094,
+            "tags": {
+                "defibrillator:location": "Średni samochód ratowniczo - gaśniczy 309[T]16",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Piotrkowicach"
             }
         }
     ]
