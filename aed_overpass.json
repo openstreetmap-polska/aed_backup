@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-12T15:31:34Z",
+        "timestamp_osm_base": "2022-12-12T16:31:20Z",
         "timestamp_areas_base": "2022-12-12T14:26:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48041,22 +48041,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "43 843 77 07"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9568460117,
-            "lat": 51.1944892,
-            "lon": 20.4132519,
-            "timestamp": "2022-03-10T10:54:31Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Urządzenie znajduje się na rogu apteki.",
-                "emergency": "defibrillator"
             }
         },
         {
