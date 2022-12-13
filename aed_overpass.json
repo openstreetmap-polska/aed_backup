@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-13T07:31:24Z",
+        "timestamp_osm_base": "2022-12-13T08:31:22Z",
         "timestamp_areas_base": "2022-12-13T04:35:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78340,19 +78340,20 @@
         {
             "type": "node",
             "id": 10247548209,
-            "lat": 49.6968863,
-            "lon": 21.6793181,
-            "timestamp": "2022-12-09T22:39:46Z",
-            "version": 2,
-            "changeset": 129916863,
-            "user": "OSP Dobieszyn",
-            "uid": 14892891,
+            "lat": 49.6968868,
+            "lon": 21.679319,
+            "timestamp": "2022-12-13T08:16:57Z",
+            "version": 3,
+            "changeset": 130025624,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przed wejściem do budynku remizy OSP",
                 "defibrillator:location:en": "On the wall in front of the entrance",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "OSP Dobieszyn",
                 "ref": "P1947R"
             }
@@ -78477,6 +78478,24 @@
                 "defibrillator:location": "Średni samochód ratowniczo - gaśniczy 309[T]16",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Piotrkowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10259076725,
+            "lat": 53.1993761,
+            "lon": 22.0990809,
+            "timestamp": "2022-12-13T08:28:54Z",
+            "version": 1,
+            "changeset": 130026021,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter klatki schodowej w budynku Urzędu Gminy Piątnica",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]
