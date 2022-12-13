@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-13T17:32:09Z",
+        "timestamp_osm_base": "2022-12-13T18:31:55Z",
         "timestamp_areas_base": "2022-12-13T04:35:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78520,6 +78520,27 @@
                 "level": "-1",
                 "location": "indoor",
                 "opening_hours": "Mo 08:00-18:00;Tu-Fr 08:00-18:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10261011167,
+            "lat": 52.1081294,
+            "lon": 21.1144371,
+            "timestamp": "2022-12-13T18:26:51Z",
+            "version": 1,
+            "changeset": 130046192,
+            "user": "cytryn",
+            "uid": 13889611,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "wewnętrzna ściana budynku, na lewo od wyjścia (patrząc od wewnątrz budynku)",
+                "defibrillator:location:en": "inner wall, on the left of the entrance (looking from inside)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "location": "indoor",
+                "support": "wall"
             }
         }
     ]
