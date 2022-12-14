@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-14T19:32:37Z",
+        "timestamp_osm_base": "2022-12-14T20:32:23Z",
         "timestamp_areas_base": "2022-12-14T13:52:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49,18 +49,22 @@
         {
             "type": "node",
             "id": 1630123844,
-            "lat": 51.8324416,
-            "lon": 16.6019445,
-            "timestamp": "2022-11-12T10:30:33Z",
-            "version": 4,
-            "changeset": 128806956,
-            "user": "Namysław Tatarynowicz",
-            "uid": 1723478,
+            "lat": 51.8324336,
+            "lon": 16.6019634,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 5,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Przed wejściem do szkoły na ścianie zewnętrznej",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "www.arteria24.pl"
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa nr 13 z Oddziałami Integracyjnymi im. Króla Stanisława Leszczyńskiego",
+                "outdoor": "yes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -2271,16 +2275,17 @@
             "id": 7140191785,
             "lat": 51.837963,
             "lon": 16.5807889,
-            "timestamp": "2020-12-31T17:51:57Z",
-            "version": 3,
-            "changeset": 96746730,
-            "user": "jk_7",
-            "uid": 4827054,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 4,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "Jan-Dec: 24/7"
+                "opening_hours": "Jan-Dec: 24/7",
+                "operator": "Nova Clinic"
             }
         },
         {
@@ -9845,18 +9850,21 @@
         {
             "type": "node",
             "id": 9391508619,
-            "lat": 51.8469574,
-            "lon": 16.5721319,
-            "timestamp": "2022-01-04T08:48:12Z",
-            "version": 1,
-            "changeset": 115742959,
-            "user": "lukubuku",
-            "uid": 12342978,
+            "lat": 51.8469788,
+            "lon": 16.5722864,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 2,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W budynku",
+                "defibrillator:location": "Po lewej stronie przed wejściem do budynku od strony ulicy Kurpińskiego",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "location": "indoor",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkół nr 4 im. Powstańców Wielkopolskich",
+                "outdoor": "yes"
             }
         },
         {
@@ -78584,6 +78592,123 @@
                 "operator": "Miejskie Centrum Sportu",
                 "source": "https://www.facebook.com/mcsbelchatow/posts/pfbid0gArYE4swQTkNvb47dBCXcT9TBzF8LujiF532xQ3wXoTiMajfxGgGKbvpH2mkwxBGl",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263238381,
+            "lat": 51.8434804,
+            "lon": 16.5745273,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 1,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed ścianą ratusza",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Lesznie",
+                "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263238384,
+            "lat": 51.8429928,
+            "lon": 16.5717079,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 1,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Kamienicy przy rogu ulicy Słowiańskiej i Placu Jana Metziga. Na lewo od wejścia do Żabki",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Miasto Leszno",
+                "outdoor": "yes",
+                "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263238385,
+            "lat": 51.8411749,
+            "lon": 16.5926147,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 1,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrznej ścianie Hali Trapez",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Hala Widowiskowo–Sportowa Trapez im. Zbigniewa Białasa",
+                "source": "https://www.leszno.pl/AED_na_terenie_miasta.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263238386,
+            "lat": 51.8402254,
+            "lon": 16.5821681,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 1,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zachodniej ścianie zewnętrznej szkoły, obok furtki od Alei Jana Pawła II",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa nr 7 im. Wojska Polskiego",
+                "outdoor": "yes",
+                "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263238387,
+            "lat": 51.8196719,
+            "lon": 16.5826997,
+            "timestamp": "2022-12-14T19:41:44Z",
+            "version": 1,
+            "changeset": 130087928,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "operator": "Stowarzyszenie Na Rzecz Osób Niepełnosprawnych Nasz Dom Nasz Świat",
+                "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263250344,
+            "lat": 50.0458788,
+            "lon": 21.4121242,
+            "timestamp": "2022-12-14T19:46:01Z",
+            "version": 1,
+            "changeset": 130088049,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się na poziomie 1 pomiędzy salonem Monnari i Martes Sport.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-19:00",
+                "operator": "Galeria Dębicka",
+                "phone": "14 666 66 00",
+                "source": "https://www.facebook.com/galeriadebicka/posts/pfbid0f46LnegV3UikKR8ZvdTiLCxRVfqdiwzsJvYZxSgQXZ8548g8u5Zggfj6u8JTEax2l"
             }
         }
     ]
