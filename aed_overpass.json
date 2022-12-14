@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-14T20:32:23Z",
-        "timestamp_areas_base": "2022-12-14T13:52:10Z",
+        "timestamp_osm_base": "2022-12-14T21:32:10Z",
+        "timestamp_areas_base": "2022-12-14T20:57:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -15708,16 +15708,17 @@
             "id": 9428422917,
             "lat": 50.8055907,
             "lon": 20.9980887,
-            "timestamp": "2022-01-18T13:45:48Z",
-            "version": 1,
-            "changeset": 116299645,
-            "user": "gminaBieliny",
-            "uid": 14883046,
+            "timestamp": "2022-12-14T21:03:22Z",
+            "version": 2,
+            "changeset": 130089774,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "AED zlokalizowany w wozie bojowym jednostki OSP Lechów.",
+                "defibrillator:location": "AED zlokalizowany w wozie bojowym jednostki OSP Lechów",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "location": "indoor",
+                "operator": "Ochotnicza Straż Pożarna w Lechowie"
             }
         },
         {
