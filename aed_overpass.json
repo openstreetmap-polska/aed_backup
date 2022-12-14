@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-14T08:32:09Z",
+        "timestamp_osm_base": "2022-12-14T09:31:54Z",
         "timestamp_areas_base": "2022-12-14T07:49:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78504,14 +78504,14 @@
             "id": 10259130534,
             "lat": 52.1735309,
             "lon": 21.0265782,
-            "timestamp": "2022-12-13T09:00:49Z",
-            "version": 1,
-            "changeset": 130027086,
+            "timestamp": "2022-12-14T09:22:24Z",
+            "version": 2,
+            "changeset": 130066359,
             "user": "Grzegorz_Kujawa",
             "uid": 1703910,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "w Puncie Obsługi Pasażerów ZTM",
+                "defibrillator:location": "w Punkcie Obsługi Pasażerów ZTM",
                 "defibrillator:location:en": "in Passenger Service Point",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
