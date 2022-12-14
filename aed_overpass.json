@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-14T14:31:54Z",
+        "timestamp_osm_base": "2022-12-14T15:31:39Z",
         "timestamp_areas_base": "2022-12-14T13:52:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67657,23 +67657,6 @@
         },
         {
             "type": "node",
-            "id": 9906258917,
-            "lat": 50.6784618,
-            "lon": 16.5939528,
-            "timestamp": "2022-07-23T17:13:02Z",
-            "version": 1,
-            "changeset": 123984173,
-            "user": "Coolawik",
-            "uid": 13547019,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Na ścianie wypożyczalni sprzętu wodnego.",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
             "id": 9906274389,
             "lat": 51.3937078,
             "lon": 16.2058604,
@@ -78541,6 +78524,23 @@
                 "level": "0",
                 "location": "indoor",
                 "support": "wall"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10262621082,
+            "lat": 50.6784093,
+            "lon": 16.5937943,
+            "timestamp": "2022-12-14T15:01:02Z",
+            "version": 1,
+            "changeset": 130079592,
+            "user": "_AENL",
+            "uid": 2567476,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie wypożyczalni sprzętu wodnego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
