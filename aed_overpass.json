@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-14T18:30:54Z",
+        "timestamp_osm_base": "2022-12-14T19:32:37Z",
         "timestamp_areas_base": "2022-12-14T13:52:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78541,6 +78541,49 @@
                 "defibrillator:location": "Na ścianie wypożyczalni sprzętu wodnego.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263149836,
+            "lat": 49.766736,
+            "lon": 19.2136681,
+            "timestamp": "2022-12-14T19:10:42Z",
+            "version": 1,
+            "changeset": 130087155,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na prawo od wjazdu do garażu remizy OSP Międzybrodzie Żywieckie",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Międzybrodziu Żywieckim",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/strazmiedzybrodzie.zywieckie/posts/pfbid0f8MRb2PtvmYhu64o6pMB9PXvVN37xVDkGw492r6PQoVBKpLJ3kLHke3chGgHwNWCl",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10263175310,
+            "lat": 51.3661785,
+            "lon": 19.3825791,
+            "timestamp": "2022-12-14T19:02:11Z",
+            "version": 1,
+            "changeset": 130086976,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W lewej części budynku Miejskiego Centrum Sportu, 𝐩𝐨 𝐥𝐞𝐰𝐞𝐣 𝐬𝐭𝐫𝐨𝐧𝐢𝐞 𝐳𝐚 𝐝𝐫𝐳𝐰𝐢𝐚𝐦𝐢 𝐰𝐞𝐣𝐬́𝐜𝐢𝐨𝐰𝐲𝐦𝐢 𝐝𝐨 𝐬𝐢𝐞𝐝𝐳𝐢𝐛𝐲 𝐅𝐮𝐧𝐝𝐚𝐜𝐣𝐢 𝐀𝐤𝐚𝐝𝐞𝐦𝐢𝐢 𝐆𝐊𝐒 𝐁𝐞ł𝐜𝐡𝐚𝐭ó𝐰",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Miejskie Centrum Sportu",
+                "source": "https://www.facebook.com/mcsbelchatow/posts/pfbid0gArYE4swQTkNvb47dBCXcT9TBzF8LujiF532xQ3wXoTiMajfxGgGKbvpH2mkwxBGl",
+                "wheelchair": "yes"
             }
         }
     ]
