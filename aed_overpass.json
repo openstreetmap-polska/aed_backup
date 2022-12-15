@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-15T09:31:38Z",
+        "timestamp_osm_base": "2022-12-15T10:31:25Z",
         "timestamp_areas_base": "2022-12-15T07:05:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78710,6 +78710,24 @@
                 "operator": "Galeria Dębicka",
                 "phone": "14 666 66 00",
                 "source": "https://www.facebook.com/galeriadebicka/posts/pfbid0f46LnegV3UikKR8ZvdTiLCxRVfqdiwzsJvYZxSgQXZ8548g8u5Zggfj6u8JTEax2l"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10264646197,
+            "lat": 49.6165365,
+            "lon": 19.1356881,
+            "timestamp": "2022-12-15T10:20:27Z",
+            "version": 1,
+            "changeset": 130107805,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na elewacji budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         }
     ]
