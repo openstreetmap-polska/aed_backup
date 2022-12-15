@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-15T12:31:16Z",
-        "timestamp_areas_base": "2022-12-15T07:05:40Z",
+        "timestamp_osm_base": "2022-12-15T13:32:09Z",
+        "timestamp_areas_base": "2022-12-15T13:07:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78728,6 +78728,41 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10264902894,
+            "lat": 49.5646755,
+            "lon": 18.8955211,
+            "timestamp": "2022-12-15T12:46:03Z",
+            "version": 1,
+            "changeset": 130113778,
+            "user": "SQ9NIT",
+            "uid": 147230,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Istebna Centrum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10264902895,
+            "lat": 49.5641451,
+            "lon": 18.8957992,
+            "timestamp": "2022-12-15T12:46:03Z",
+            "version": 1,
+            "changeset": 130113778,
+            "user": "SQ9NIT",
+            "uid": 147230,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Z tyłu urzędu gminy",
+                "emergency": "defibrillator",
+                "operator": "Urząd Gminy Istebna"
             }
         }
     ]
