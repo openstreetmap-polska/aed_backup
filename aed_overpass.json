@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-15T18:31:39Z",
-        "timestamp_areas_base": "2022-12-15T13:07:51Z",
+        "timestamp_osm_base": "2022-12-15T19:31:16Z",
+        "timestamp_areas_base": "2022-12-15T19:12:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48856,15 +48856,15 @@
             "id": 9568755817,
             "lat": 51.4634256,
             "lon": 19.3959016,
-            "timestamp": "2022-03-10T13:17:40Z",
-            "version": 1,
-            "changeset": 118323660,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-12-15T19:29:25Z",
+            "version": 2,
+            "changeset": 130128388,
+            "user": "norbert998",
+            "uid": 15406824,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Defibrylator AED OSP Drużbice.",
-                "emergency": "defibrillator"
+                "defibrillator:location": "Defibrylator AED na wyposażeniu Samochodu ratowniczo-gaśniczego OSP Drużbice",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
