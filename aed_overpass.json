@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-16T22:31:29Z",
-        "timestamp_areas_base": "2022-12-16T19:25:30Z",
+        "timestamp_osm_base": "2022-12-16T23:31:52Z",
+        "timestamp_areas_base": "2022-12-16T23:28:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78819,6 +78819,27 @@
                 "defibrillator:location:en": "Behind the bus stop",
                 "emergency": "defibrillator",
                 "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10268718596,
+            "lat": 50.9728117,
+            "lon": 18.2200238,
+            "timestamp": "2022-12-16T23:27:59Z",
+            "version": 1,
+            "changeset": 130173137,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu do pokoju nr 211",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "operator": "Starostwo Powiatowe w Kluczborku",
+                "phone": "+48 77 418 52 18",
+                "source": "https://www.facebook.com/AkcjaDlaSerca/posts/pfbid0cLBCzXtmyi5TiXpW9eE9XVh5UbWekwNZi3HVaEmDpFxuSr8dFcdm7UBvfpTLG9xwl"
             }
         }
     ]
