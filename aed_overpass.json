@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-16T20:32:31Z",
+        "timestamp_osm_base": "2022-12-16T21:31:24Z",
         "timestamp_areas_base": "2022-12-16T19:25:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78801,6 +78801,24 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna z gminy Nekla"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10268516513,
+            "lat": 52.8817788,
+            "lon": 20.6190611,
+            "timestamp": "2022-12-16T20:51:28Z",
+            "version": 1,
+            "changeset": 130170377,
+            "user": "JerzyUrban",
+            "uid": 12422586,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Z tyłu przystanku autobusowego",
+                "defibrillator:location:en": "Behind the bus stop",
+                "emergency": "defibrillator",
+                "location": "outdoor"
             }
         }
     ]
