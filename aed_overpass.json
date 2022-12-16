@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-16T11:31:23Z",
+        "timestamp_osm_base": "2022-12-16T12:32:27Z",
         "timestamp_areas_base": "2022-12-16T05:18:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78763,6 +78763,25 @@
                 "defibrillator:location": "Z tyłu urzędu gminy",
                 "emergency": "defibrillator",
                 "operator": "Urząd Gminy Istebna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10267369009,
+            "lat": 52.3236078,
+            "lon": 17.5690621,
+            "timestamp": "2022-12-16T12:08:06Z",
+            "version": 1,
+            "changeset": 130153517,
+            "user": "Sławomir J",
+            "uid": 18004570,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-16",
+                "defibrillator:location:pl": "W Starostwie Powiatowym, w biurze obsługi interesanta, za ladą na wprost głównego wejścia.\nponiedziałek 8.00-16.00 \nwtorek-piątek 7.00.15.00",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "61 640 44 44"
             }
         }
     ]
