@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-16T12:32:27Z",
+        "timestamp_osm_base": "2022-12-16T13:32:24Z",
         "timestamp_areas_base": "2022-12-16T05:18:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78770,18 +78770,19 @@
             "id": 10267369009,
             "lat": 52.3236078,
             "lon": 17.5690621,
-            "timestamp": "2022-12-16T12:08:06Z",
-            "version": 1,
-            "changeset": 130153517,
-            "user": "Sławomir J",
-            "uid": 18004570,
+            "timestamp": "2022-12-16T13:31:37Z",
+            "version": 2,
+            "changeset": 130156627,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "check_date": "2022-12-16",
-                "defibrillator:location:pl": "W Starostwie Powiatowym, w biurze obsługi interesanta, za ladą na wprost głównego wejścia.\nponiedziałek 8.00-16.00 \nwtorek-piątek 7.00.15.00",
+                "defibrillator:location:pl": "W Starostwie Powiatowym, w biurze obsługi interesanta, za ladą na wprost głównego wejścia.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "61 640 44 44"
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00",
+                "phone": "+48 61 640 44 44"
             }
         }
     ]
