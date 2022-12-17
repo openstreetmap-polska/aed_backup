@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-16T23:31:52Z",
-        "timestamp_areas_base": "2022-12-16T23:28:45Z",
+        "timestamp_osm_base": "2022-12-17T00:32:14Z",
+        "timestamp_areas_base": "2022-12-17T00:31:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78819,6 +78819,27 @@
                 "defibrillator:location:en": "Behind the bus stop",
                 "emergency": "defibrillator",
                 "location": "outdoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10268639798,
+            "lat": 51.0459195,
+            "lon": 18.030481,
+            "timestamp": "2022-12-16T23:39:48Z",
+            "version": 1,
+            "changeset": 130173332,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy przystanku autobusowym w centrum przysiółka",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Przysiółek Ligota Mała \"Ligotka\"",
+                "outdoor": "yes",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02brsbpeJxTN9aKM4QqecVRLpsFAenA7jRz3q7r9v8xkcZHSmjgxa6QpASRKFPmVUJl&id=100084193596509",
+                "wheelchair": "yes"
             }
         },
         {
