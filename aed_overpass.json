@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-18T10:32:22Z",
+        "timestamp_osm_base": "2022-12-18T11:32:07Z",
         "timestamp_areas_base": "2022-12-18T08:43:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78868,15 +78868,15 @@
             "id": 10271095209,
             "lat": 51.7436546,
             "lon": 18.0770006,
-            "timestamp": "2022-12-18T10:20:39Z",
-            "version": 1,
-            "changeset": 130207442,
-            "user": "Mushu8",
-            "uid": 18021214,
+            "timestamp": "2022-12-18T11:04:55Z",
+            "version": 3,
+            "changeset": 130208677,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Prywatny w domu",
-                "defibrillator:location:en": "Priv in House",
+                "defibrillator:location": "W prywatnym domu",
+                "defibrillator:location:en": "In a private house",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 602795351"
