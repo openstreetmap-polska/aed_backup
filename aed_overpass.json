@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-19T10:31:40Z",
-        "timestamp_areas_base": "2022-12-19T06:54:37Z",
+        "timestamp_osm_base": "2022-12-19T11:31:39Z",
+        "timestamp_areas_base": "2022-12-19T10:57:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78955,6 +78955,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://www.facebook.com/photo/?fbid=452063633765267&set=pcb.452067320431565"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10273060909,
+            "lat": 53.3562527,
+            "lon": 20.4154668,
+            "timestamp": "2022-12-19T10:51:34Z",
+            "version": 1,
+            "changeset": 130243242,
+            "user": "Szymon79",
+            "uid": 18029135,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-19",
+                "defibrillator:location:pl": "W Jednostce Ratowniczo-Gaśniczej KP PSP w Nidzicy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48477329650"
             }
         }
     ]
