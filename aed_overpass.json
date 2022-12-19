@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-19T08:32:07Z",
+        "timestamp_osm_base": "2022-12-19T09:31:52Z",
         "timestamp_areas_base": "2022-12-19T06:54:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78935,6 +78935,26 @@
                 "emergency:phone": "112",
                 "indoor": "no",
                 "phone": "122735858"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10272893209,
+            "lat": 51.2438056,
+            "lon": 17.4432403,
+            "timestamp": "2022-12-19T09:19:11Z",
+            "version": 2,
+            "changeset": 130239688,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-04",
+                "defibrillator:location:pl": "W kapsule na ścianie remizy, w lewej części budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://www.facebook.com/photo/?fbid=452063633765267&set=pcb.452067320431565"
             }
         }
     ]
