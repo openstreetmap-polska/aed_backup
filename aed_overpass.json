@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-19T18:31:45Z",
-        "timestamp_areas_base": "2022-12-19T10:57:09Z",
+        "timestamp_osm_base": "2022-12-19T19:31:37Z",
+        "timestamp_areas_base": "2022-12-19T19:02:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78974,6 +78974,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48477329650"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10274065309,
+            "lat": 51.1143069,
+            "lon": 16.9965874,
+            "timestamp": "2022-12-19T19:29:27Z",
+            "version": 2,
+            "changeset": 130261490,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy recepcji budynku",
+                "defibrillator:location:en": "On the wall near the recepcion",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48788953489"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10274073809,
+            "lat": 51.1142383,
+            "lon": 16.9923804,
+            "timestamp": "2022-12-19T19:30:26Z",
+            "version": 2,
+            "changeset": 130261513,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie obok recepcji w głównym holu",
+                "defibrillator:location:en": "On the wall near the reception desk in the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48788953489"
             }
         }
     ]
