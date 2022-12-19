@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-19T07:36:09Z",
+        "timestamp_osm_base": "2022-12-19T08:32:07Z",
         "timestamp_areas_base": "2022-12-19T06:54:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78880,6 +78880,61 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 602795351"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10272707646,
+            "lat": 52.8683251,
+            "lon": 20.5997327,
+            "timestamp": "2022-12-19T08:14:26Z",
+            "version": 1,
+            "changeset": 130237095,
+            "user": "JerzyUrban",
+            "uid": 12422586,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na słupie w hali produkcyjnej nr 1",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "location": "indoor",
+                "operator": "Fabryka Narzędzi FANAR S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10272751618,
+            "lat": 53.324855,
+            "lon": 14.8546809,
+            "timestamp": "2022-12-19T07:48:35Z",
+            "version": 1,
+            "changeset": 130236063,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na wozie strażackim",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Bielkowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10272819609,
+            "lat": 49.8028649,
+            "lon": 20.01678,
+            "timestamp": "2022-12-19T08:30:03Z",
+            "version": 1,
+            "changeset": 130237794,
+            "user": "lukas15",
+            "uid": 18028303,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no",
+                "phone": "122735858"
             }
         }
     ]
