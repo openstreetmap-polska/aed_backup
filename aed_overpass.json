@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T07:32:24Z",
+        "timestamp_osm_base": "2022-12-20T08:32:09Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79012,6 +79012,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48788953489"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275043109,
+            "lat": 49.5651486,
+            "lon": 21.7926475,
+            "timestamp": "2022-12-20T07:55:51Z",
+            "version": 1,
+            "changeset": 130277732,
+            "user": "SPZOZ GPL",
+            "uid": 18037687,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu na ścianie po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275043409,
+            "lat": 49.5652243,
+            "lon": 21.7909858,
+            "timestamp": "2022-12-20T07:57:07Z",
+            "version": 1,
+            "changeset": 130277732,
+            "user": "SPZOZ GPL",
+            "uid": 18037687,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu na ścianie po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
