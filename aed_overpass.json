@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T17:31:05Z",
+        "timestamp_osm_base": "2022-12-20T18:31:59Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79423,6 +79423,25 @@
                 "defibrillator:location:en": "In the main hall. Hangs on a pillar",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10276382710,
+            "lat": 50.2697664,
+            "lon": 19.0755506,
+            "timestamp": "2022-12-20T18:05:05Z",
+            "version": 1,
+            "changeset": 130301048,
+            "user": "cody3223",
+            "uid": 10085376,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-20",
+                "defibrillator:location:en": "Swimming pool lifeguard's room AED",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48327882680"
             }
         }
     ]
