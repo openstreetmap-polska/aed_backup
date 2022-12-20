@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T12:31:39Z",
+        "timestamp_osm_base": "2022-12-20T13:31:19Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66378,15 +66378,17 @@
             "id": 9862355217,
             "lat": 52.240724,
             "lon": 20.8914236,
-            "timestamp": "2022-08-18T13:58:31Z",
-            "version": 2,
-            "changeset": 125063902,
+            "timestamp": "2022-12-20T13:07:54Z",
+            "version": 3,
+            "changeset": 130290071,
             "user": "SzymonH",
             "uid": 1189934,
             "tags": {
+                "access": "customers",
                 "defibrillator:location": "Po prawej stronie na ścianie przy drzwiach wejściowych",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Decathlon"
             }
         },
         {
@@ -79382,6 +79384,43 @@
                 "indoor": "yes",
                 "level": "10",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275637397,
+            "lat": 51.9715807,
+            "lon": 20.5643831,
+            "timestamp": "2022-12-20T12:36:16Z",
+            "version": 1,
+            "changeset": 130288995,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się przy recepcji w firmie Corning Optical Fiber Polska.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Corning Optical Fiber Polska",
+                "phone": "+48515141516"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275652109,
+            "lat": 50.2467477,
+            "lon": 19.0263289,
+            "timestamp": "2022-12-20T12:40:40Z",
+            "version": 1,
+            "changeset": 130289110,
+            "user": "Mati_F",
+            "uid": 2271674,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W holu głównym, wisi na filarze",
+                "defibrillator:location:en": "In the main hall. Hangs on a pillar",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
