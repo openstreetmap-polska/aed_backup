@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T22:31:26Z",
-        "timestamp_areas_base": "2022-12-20T20:16:38Z",
+        "timestamp_osm_base": "2022-12-20T23:32:19Z",
+        "timestamp_areas_base": "2022-12-20T23:20:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78434,15 +78434,14 @@
             "id": 10248729109,
             "lat": 50.046928,
             "lon": 19.9038288,
-            "timestamp": "2022-12-09T11:40:37Z",
-            "version": 1,
-            "changeset": 129897367,
-            "user": "PROLAND SPORT",
-            "uid": 17935979,
+            "timestamp": "2022-12-20T22:34:01Z",
+            "version": 2,
+            "changeset": 130308118,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu w budynku",
-                "defibrillator:location:en": "Kolejowy Klub Wodny 1929",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+484270500"
