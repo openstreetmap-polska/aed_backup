@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T08:32:09Z",
+        "timestamp_osm_base": "2022-12-20T09:31:07Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73060,9 +73060,9 @@
             "id": 10092263818,
             "lat": 52.2485451,
             "lon": 20.9537204,
-            "timestamp": "2022-10-11T16:00:52Z",
-            "version": 2,
-            "changeset": 127368502,
+            "timestamp": "2022-12-20T09:12:35Z",
+            "version": 3,
+            "changeset": 130280662,
             "user": "SzymonH",
             "uid": 1189934,
             "tags": {
@@ -73070,7 +73070,8 @@
                 "defibrillator:location": "Na ścianie w hallu głównym, na wprost wejścia do budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Su 08:00-22:00; PH off"
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "operator": "OSiR Wola"
             }
         },
         {
@@ -79016,23 +79017,6 @@
         },
         {
             "type": "node",
-            "id": 10275043109,
-            "lat": 49.5651486,
-            "lon": 21.7926475,
-            "timestamp": "2022-12-20T07:55:51Z",
-            "version": 1,
-            "changeset": 130277732,
-            "user": "SPZOZ GPL",
-            "uid": 18037687,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Przy wejściu na ścianie po prawej stronie",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 10275043409,
             "lat": 49.5652243,
             "lon": 21.7909858,
@@ -79046,6 +79030,40 @@
                 "defibrillator:location": "Przy wejściu na ścianie po prawej stronie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275217809,
+            "lat": 49.6039086,
+            "lon": 21.7992586,
+            "timestamp": "2022-12-20T09:04:31Z",
+            "version": 1,
+            "changeset": 130280325,
+            "user": "SPZOZ GPL",
+            "uid": 18037687,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275223263,
+            "lat": 53.0359251,
+            "lon": 16.4569308,
+            "timestamp": "2022-12-20T09:19:21Z",
+            "version": 1,
+            "changeset": 130280929,
+            "user": "Olga | Yanosik",
+            "uid": 2844322,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w szkole",
+                "emergency": "defibrillator",
+                "wheelchair": "yes"
             }
         }
     ]
