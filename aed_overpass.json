@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T20:31:51Z",
+        "timestamp_osm_base": "2022-12-20T21:31:38Z",
         "timestamp_areas_base": "2022-12-20T20:16:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5755,17 +5755,18 @@
             "id": 9328104391,
             "lat": 53.1572803,
             "lon": 16.7511973,
-            "timestamp": "2021-12-10T20:15:43Z",
-            "version": 1,
-            "changeset": 114797814,
-            "user": "lama99",
-            "uid": 9514620,
+            "timestamp": "2022-12-20T21:04:49Z",
+            "version": 2,
+            "changeset": 130306134,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Punkt ochrony (parter)",
+                "defibrillator:location": "na parterze, korytarz po prawej stronie przy pokoju 121",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 07:30-15:30"
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "source:defibrillator:location": "https://pila.sr.gov.pl/index.php?p=m&idg=m2,337"
             }
         },
         {
@@ -79475,6 +79476,23 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10276680309,
+            "lat": 52.3984874,
+            "lon": 17.0530492,
+            "timestamp": "2022-12-20T21:02:10Z",
+            "version": 2,
+            "changeset": 130306075,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Klinika Kolasiński-Hair Clinic",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
