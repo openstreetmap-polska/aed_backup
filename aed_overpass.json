@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T18:31:59Z",
+        "timestamp_osm_base": "2022-12-20T19:31:57Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79442,6 +79442,41 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48327882680"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10276477109,
+            "lat": 49.7918336,
+            "lon": 20.0894119,
+            "timestamp": "2022-12-20T18:35:47Z",
+            "version": 1,
+            "changeset": 130301964,
+            "user": "Łukasz Kaczmarczyk",
+            "uid": 18043897,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall by the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10276477510,
+            "lat": 49.7918252,
+            "lon": 20.0894481,
+            "timestamp": "2022-12-20T18:37:46Z",
+            "version": 1,
+            "changeset": 130301964,
+            "user": "Łukasz Kaczmarczyk",
+            "uid": 18043897,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
