@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-20T10:32:02Z",
+        "timestamp_osm_base": "2022-12-20T11:31:54Z",
         "timestamp_areas_base": "2022-12-20T06:09:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79066,6 +79066,321 @@
                 "level": "0",
                 "opening_hours": "Mo-Fr 07:00-20:00",
                 "phone": "+48 67 216 34 95",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452684,
+            "lat": 52.231965,
+            "lon": 20.9839697,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "24",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452685,
+            "lat": 52.2319664,
+            "lon": 20.9839647,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "23",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452686,
+            "lat": 52.2319679,
+            "lon": 20.9839597,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "22",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452687,
+            "lat": 52.2319694,
+            "lon": 20.9839547,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "21",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452688,
+            "lat": 52.2319709,
+            "lon": 20.9839498,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "20",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452689,
+            "lat": 52.2319723,
+            "lon": 20.9839448,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "19",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452690,
+            "lat": 52.2319738,
+            "lon": 20.9839398,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "18",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452691,
+            "lat": 52.2319753,
+            "lon": 20.9839349,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "17",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452692,
+            "lat": 52.2319768,
+            "lon": 20.9839299,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "16",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452693,
+            "lat": 52.2319782,
+            "lon": 20.9839249,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "15",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452694,
+            "lat": 52.2319797,
+            "lon": 20.9839199,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "14",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452695,
+            "lat": 52.2319812,
+            "lon": 20.983915,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "13",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452696,
+            "lat": 52.2319827,
+            "lon": 20.98391,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "12",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452697,
+            "lat": 52.2319841,
+            "lon": 20.983905,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "11",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10275452698,
+            "lat": 52.2319856,
+            "lon": 20.9839001,
+            "timestamp": "2022-12-20T11:00:29Z",
+            "version": 1,
+            "changeset": 130285094,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W biurze Samsung przy kuchni",
+                "defibrillator:location:en": "In the Samsung's office near the kitchen",
+                "description": "Defibrylator Zoll AED 3",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "10",
                 "wheelchair": "yes"
             }
         }
