@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-21T08:32:02Z",
-        "timestamp_areas_base": "2022-12-21T08:23:54Z",
+        "timestamp_osm_base": "2022-12-21T09:31:38Z",
+        "timestamp_areas_base": "2022-12-21T09:24:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79492,6 +79492,23 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Klinika Kolasiński-Hair Clinic",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10277508448,
+            "lat": 51.8775422,
+            "lon": 16.950262,
+            "timestamp": "2022-12-21T08:53:56Z",
+            "version": 1,
+            "changeset": 130321548,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
