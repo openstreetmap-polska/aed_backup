@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-22T17:31:24Z",
-        "timestamp_areas_base": "2022-12-22T16:40:41Z",
+        "timestamp_osm_base": "2022-12-22T18:31:24Z",
+        "timestamp_areas_base": "2022-12-22T17:41:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79565,6 +79565,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Kornix"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10280822109,
+            "lat": 52.323665,
+            "lon": 21.0984542,
+            "timestamp": "2022-12-22T17:32:39Z",
+            "version": 1,
+            "changeset": 130385953,
+            "user": "beethhyyy",
+            "uid": 17988121,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-22",
+                "defibrillator:location:pl": "Ściana przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
