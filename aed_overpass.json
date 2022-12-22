@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-22T11:30:54Z",
+        "timestamp_osm_base": "2022-12-22T12:31:24Z",
         "timestamp_areas_base": "2022-12-22T10:37:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79511,6 +79511,43 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10280135210,
+            "lat": 51.7347079,
+            "lon": 19.7248559,
+            "timestamp": "2022-12-22T12:11:02Z",
+            "version": 2,
+            "changeset": 130372958,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Ochotniczej Straży Pożarnej w Gałkowie Dużym",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://koluszki.naszemiasto.pl/na-scianie-budynku-osp-galkow-duzy-zawisnie-defibrylator/ar/c1-8899153"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10280145710,
+            "lat": 50.1983234,
+            "lon": 21.8264551,
+            "timestamp": "2022-12-22T12:14:27Z",
+            "version": 3,
+            "changeset": 130373107,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://korsokolbuszowskie.pl/wiadomosci/nowy-sprzet-do-ratowania-zycia-na-wyposazeniu-strazakow-z-osp-kupno-to-prezent-od-mieszkancow/KdjG7z4CKzO0kE5PRnSP"
             }
         }
     ]
