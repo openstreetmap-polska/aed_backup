@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-23T20:32:20Z",
-        "timestamp_areas_base": "2022-12-23T19:53:34Z",
+        "timestamp_osm_base": "2022-12-23T21:31:27Z",
+        "timestamp_areas_base": "2022-12-23T20:53:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79649,6 +79649,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10282986209,
+            "lat": 51.6935333,
+            "lon": 15.9160409,
+            "timestamp": "2022-12-23T21:23:18Z",
+            "version": 1,
+            "changeset": 130437518,
+            "user": "Nowik998",
+            "uid": 18074089,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
