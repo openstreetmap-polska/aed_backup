@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-23T19:30:59Z",
-        "timestamp_areas_base": "2022-12-23T18:52:24Z",
+        "timestamp_osm_base": "2022-12-23T20:32:20Z",
+        "timestamp_areas_base": "2022-12-23T19:53:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79615,6 +79615,40 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na wydziale urologicznym przy recepcji, piętro 0.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10282874909,
+            "lat": 50.0217753,
+            "lon": 20.0743748,
+            "timestamp": "2022-12-23T19:56:44Z",
+            "version": 1,
+            "changeset": 130435140,
+            "user": "ZYBEX",
+            "uid": 18073661,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10282874910,
+            "lat": 50.0210016,
+            "lon": 20.0936618,
+            "timestamp": "2022-12-23T19:57:55Z",
+            "version": 1,
+            "changeset": 130435140,
+            "user": "ZYBEX",
+            "uid": 18073661,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
