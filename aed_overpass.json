@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-23T18:31:54Z",
-        "timestamp_areas_base": "2022-12-23T17:52:04Z",
+        "timestamp_osm_base": "2022-12-23T19:30:59Z",
+        "timestamp_areas_base": "2022-12-23T18:52:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79600,6 +79600,23 @@
                 "emergency": "defibrillator",
                 "fixme": "Location oraz indoor do ustalenia, brak danych w artykule.",
                 "source": "https://powiat.limanowski.pl/blog/prelekcja-na-temat-bezpieczenstwa-i-pierwszej-pomocy-w-zespole-szkoly-i-przedszkola-nr-1-w-kasinie-wielkiej/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10282812209,
+            "lat": 52.2516087,
+            "lon": 21.0286665,
+            "timestamp": "2022-12-23T19:20:23Z",
+            "version": 1,
+            "changeset": 130434083,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wydziale urologicznym przy recepcji, piętro 0.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
