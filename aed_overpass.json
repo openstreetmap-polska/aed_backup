@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-25T08:31:38Z",
-        "timestamp_areas_base": "2022-12-25T08:03:10Z",
+        "timestamp_osm_base": "2022-12-25T09:31:23Z",
+        "timestamp_areas_base": "2022-12-25T09:04:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79668,6 +79668,25 @@
                 "defibrillator:location": "W remizie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10285675209,
+            "lat": 50.3057152,
+            "lon": 19.1566732,
+            "timestamp": "2022-12-25T09:12:53Z",
+            "version": 1,
+            "changeset": 130475740,
+            "user": "enzetka",
+            "uid": 18084898,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Prywatny dom",
+                "defibrillator:location:en": "Private property",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48665967367, +48512396691"
             }
         }
     ]
