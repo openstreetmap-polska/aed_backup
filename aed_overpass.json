@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-25T12:31:10Z",
-        "timestamp_areas_base": "2022-12-25T12:04:54Z",
+        "timestamp_osm_base": "2022-12-25T13:32:10Z",
+        "timestamp_areas_base": "2022-12-25T13:04:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68770,15 +68770,15 @@
             "id": 9942928545,
             "lat": 49.7383579,
             "lon": 19.0073222,
-            "timestamp": "2022-12-25T12:27:17Z",
-            "version": 3,
-            "changeset": 130480765,
+            "timestamp": "2022-12-25T13:00:26Z",
+            "version": 4,
+            "changeset": 130481605,
             "user": "Freerando",
             "uid": 6475743,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Stacja Ratunkowa GB GOPR Klimczok",
-                "description": "Stacja Ratunkowa GB GOPR Klimczok",
+                "defibrillator:location": "Stacja Ratunkowa GB GOPR - Klimczok",
+                "description": "Stacja Ratunkowa GB GOPR - Klimczok",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Grupa Beskidzka GOPR",
