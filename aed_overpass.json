@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T10:31:40Z",
+        "timestamp_osm_base": "2022-12-28T11:31:29Z",
         "timestamp_areas_base": "2022-12-28T10:31:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67956,12 +67956,13 @@
             "id": 9919885842,
             "lat": 52.1835595,
             "lon": 21.0042169,
-            "timestamp": "2022-12-28T10:30:24Z",
-            "version": 4,
-            "changeset": 130593534,
+            "timestamp": "2022-12-28T10:35:08Z",
+            "version": 5,
+            "changeset": 130593836,
             "user": "Wesołowski Marcin",
             "uid": 8504354,
             "tags": {
+                "access": "private",
                 "defibrillator:location": "Wyposażenie pojazdu strażackiego",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -67976,12 +67977,13 @@
             "id": 9919885843,
             "lat": 52.1835597,
             "lon": 21.0042874,
-            "timestamp": "2022-12-28T10:30:24Z",
-            "version": 4,
-            "changeset": 130593534,
+            "timestamp": "2022-12-28T10:35:08Z",
+            "version": 5,
+            "changeset": 130593836,
             "user": "Wesołowski Marcin",
             "uid": 8504354,
             "tags": {
+                "access": "private",
                 "defibrillator:location": "Wyposażenie pojazdu strażackiego",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -79801,6 +79803,24 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Moryniu",
                 "source": "https://www.chojna24.pl/2022/12/dzieki-dofinansowaniu-kupili-quada.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10291138334,
+            "lat": 49.580293,
+            "lon": 20.6692415,
+            "timestamp": "2022-12-28T10:43:10Z",
+            "version": 1,
+            "changeset": 130594234,
+            "user": "emtiwi",
+            "uid": 313969,
+            "tags": {
+                "defibrillator:location": "Wewnątrz kościoła po prawej stronie na ścianie za głównym wejściem",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Parafia Biegonice",
+                "wheelchair": "limited"
             }
         }
     ]
