@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T12:31:27Z",
-        "timestamp_areas_base": "2022-12-28T10:31:40Z",
+        "timestamp_osm_base": "2022-12-28T13:32:24Z",
+        "timestamp_areas_base": "2022-12-28T12:32:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79648,14 +79648,14 @@
             "id": 10282986209,
             "lat": 51.6935333,
             "lon": 15.9160409,
-            "timestamp": "2022-12-23T21:23:18Z",
-            "version": 1,
-            "changeset": 130437518,
-            "user": "Nowik998",
-            "uid": 18074089,
+            "timestamp": "2022-12-28T12:54:25Z",
+            "version": 2,
+            "changeset": 130600408,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W remizie",
+                "defibrillator:location": "W remizie, w wozie strażackim",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
