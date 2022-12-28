@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T19:31:54Z",
-        "timestamp_areas_base": "2022-12-28T18:36:01Z",
+        "timestamp_osm_base": "2022-12-28T20:31:39Z",
+        "timestamp_areas_base": "2022-12-28T19:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79824,6 +79824,24 @@
                 "indoor": "yes",
                 "operator": "Parafia Biegonice",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292011479,
+            "lat": 52.160308,
+            "lon": 20.8003864,
+            "timestamp": "2022-12-28T20:05:42Z",
+            "version": 1,
+            "changeset": 130616786,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall at the entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
