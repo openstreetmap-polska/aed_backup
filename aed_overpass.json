@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T22:32:37Z",
-        "timestamp_areas_base": "2022-12-28T21:37:39Z",
+        "timestamp_osm_base": "2022-12-28T23:31:31Z",
+        "timestamp_areas_base": "2022-12-28T22:38:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79861,6 +79861,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP KOBRZYNIEC"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292290110,
+            "lat": 54.0690819,
+            "lon": 18.4377901,
+            "timestamp": "2022-12-28T22:56:21Z",
+            "version": 1,
+            "changeset": 130621429,
+            "user": "Marcin Bargański",
+            "uid": 18116946,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "KORNIX Skarszewy, budynek biurowy, parter, w pobliżu wejścia.",
+                "defibrillator:location:en": "KORNIX Skarszewy, office building, ground floor, close to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292290309,
+            "lat": 53.5109528,
+            "lon": 19.7390298,
+            "timestamp": "2022-12-28T22:52:58Z",
+            "version": 1,
+            "changeset": 130621363,
+            "user": "Marcin Bargański",
+            "uid": 18116946,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "KORNIX Lubawa, budynek biurowy parter, w pobliżu wejścia.",
+                "defibrillator:location:en": "KORNIX Lubawa, office building, close to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
