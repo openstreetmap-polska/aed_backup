@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T09:31:54Z",
-        "timestamp_areas_base": "2022-12-28T09:30:55Z",
+        "timestamp_osm_base": "2022-12-28T10:31:40Z",
+        "timestamp_areas_base": "2022-12-28T10:31:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67956,15 +67956,19 @@
             "id": 9919885842,
             "lat": 52.1835595,
             "lon": 21.0042169,
-            "timestamp": "2022-07-29T19:42:19Z",
-            "version": 2,
-            "changeset": 124245589,
+            "timestamp": "2022-12-28T10:30:24Z",
+            "version": 4,
+            "changeset": 130593534,
             "user": "Wesołowski Marcin",
             "uid": 8504354,
             "tags": {
-                "defibrillator:location": "w remizie strażackiej",
+                "defibrillator:location": "Wyposażenie pojazdu strażackiego",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Państwowa Straż Pożarna",
+                "phone": "+48 22 596 70 90"
             }
         },
         {
@@ -67972,15 +67976,19 @@
             "id": 9919885843,
             "lat": 52.1835597,
             "lon": 21.0042874,
-            "timestamp": "2022-07-29T19:42:19Z",
-            "version": 2,
-            "changeset": 124245589,
+            "timestamp": "2022-12-28T10:30:24Z",
+            "version": 4,
+            "changeset": 130593534,
             "user": "Wesołowski Marcin",
             "uid": 8504354,
             "tags": {
-                "defibrillator:location": "w remizie strażackiej",
+                "defibrillator:location": "Wyposażenie pojazdu strażackiego",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Państwowa Straż Pożarna",
+                "phone": "+48 22 596 70 90"
             }
         },
         {
