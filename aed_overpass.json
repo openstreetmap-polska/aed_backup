@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T05:32:18Z",
-        "timestamp_areas_base": "2022-12-28T05:30:21Z",
+        "timestamp_osm_base": "2022-12-28T06:34:07Z",
+        "timestamp_areas_base": "2022-12-28T06:30:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79774,6 +79774,25 @@
                 "defibrillator:location:en": "On the wall near entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10290755848,
+            "lat": 52.8575074,
+            "lon": 14.3989158,
+            "timestamp": "2022-12-28T06:06:35Z",
+            "version": 1,
+            "changeset": 130583796,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Moryniu",
+                "source": "https://www.chojna24.pl/2022/12/dzieki-dofinansowaniu-kupili-quada.html"
             }
         }
     ]
