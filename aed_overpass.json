@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-28T20:31:39Z",
-        "timestamp_areas_base": "2022-12-28T19:36:54Z",
+        "timestamp_osm_base": "2022-12-28T21:31:39Z",
+        "timestamp_areas_base": "2022-12-28T20:37:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79842,6 +79842,25 @@
                 "defibrillator:location:en": "On the wall at the entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292107710,
+            "lat": 52.9740546,
+            "lon": 19.3281776,
+            "timestamp": "2022-12-28T20:46:51Z",
+            "version": 1,
+            "changeset": 130618101,
+            "user": "Danywww",
+            "uid": 14406203,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP KOBRZYNIEC"
             }
         }
     ]
