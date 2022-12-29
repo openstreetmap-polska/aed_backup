@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T08:32:38Z",
-        "timestamp_areas_base": "2022-12-29T07:40:52Z",
+        "timestamp_osm_base": "2022-12-29T09:31:39Z",
+        "timestamp_areas_base": "2022-12-29T08:40:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51,11 +51,11 @@
             "id": 1630123844,
             "lat": 51.8324336,
             "lon": 16.6019634,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 5,
-            "changeset": 130087928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 6,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przed wejściem do szkoły na ścianie zewnętrznej",
@@ -63,7 +63,6 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa nr 13 z Oddziałami Integracyjnymi im. Króla Stanisława Leszczyńskiego",
-                "outdoor": "yes",
                 "wheelchair": "yes"
             }
         },
@@ -9871,18 +9870,18 @@
         {
             "type": "node",
             "id": 9391508619,
-            "lat": 51.8469788,
-            "lon": 16.5722864,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 2,
-            "changeset": 130087928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 51.846986,
+            "lon": 16.5722015,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 3,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Po lewej stronie przed wejściem do budynku od strony ulicy Kurpińskiego",
                 "emergency": "defibrillator",
-                "location": "indoor",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Zespół Szkół nr 4 im. Powstańców Wielkopolskich",
                 "outdoor": "yes"
@@ -10166,18 +10165,18 @@
             "id": 9400769217,
             "lat": 51.8449376,
             "lon": 16.5710895,
-            "timestamp": "2022-01-07T20:58:59Z",
-            "version": 2,
-            "changeset": 115892160,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 3,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W korytarzu na pierwszym piętrze",
                 "defibrillator:location:en": "On the corridor on the first floor",
                 "emergency": "defibrillator",
                 "image": "https://www.leszno.pl/photos/gal/60094/WhatsApp_Image_2022-01-05_at_13.36.51_2.jpeg.jpg",
-                "location": "indoor",
+                "indoor": "yes",
                 "website": "https://www.leszno.pl/Kolejny_defibrylator_zamontowany.html"
             }
         },
@@ -50587,14 +50586,15 @@
             "id": 9570944837,
             "lat": 50.8082136,
             "lon": 19.5851057,
-            "timestamp": "2022-03-11T14:11:11Z",
-            "version": 1,
-            "changeset": 118365809,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-12-29T09:27:37Z",
+            "version": 2,
+            "changeset": 130634997,
+            "user": "OSP Ulesie",
+            "uid": 14095520,
             "tags": {
+                "defibrillator:location": "Garaż OSP",
                 "emergency": "defibrillator",
-                "indoor": "no",
+                "indoor": "yes",
                 "operator": "OSP Ulesie"
             }
         },
@@ -54988,24 +54988,6 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urząd Miasta",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9617116617,
-            "lat": 52.3880218,
-            "lon": 18.198749,
-            "timestamp": "2022-03-29T06:27:28Z",
-            "version": 2,
-            "changeset": 119051674,
-            "user": "KacperP",
-            "uid": 15432257,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "AED na wyposażeniu wozu ratowniczo gaśniczego . Wcisnąć przycisk na ścianie który zaalarmuje strażaków Ochotniczej Straży Pożarnej w celu udostępnienia AED.",
-                "defibrillator:location:en": "AED on a rescue and firefighting vehicle.  Press the button on the wall that will alert the volunteer firefighters to enable the AED.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -78633,18 +78615,18 @@
             "id": 10263238384,
             "lat": 51.8429928,
             "lon": 16.5717079,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 1,
-            "changeset": 130087928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 2,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie Kamienicy przy rogu ulicy Słowiańskiej i Placu Jana Metziga. Na lewo od wejścia do Żabki",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Miasto Leszno",
-                "outdoor": "yes",
                 "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
             }
         },
@@ -78673,18 +78655,18 @@
             "id": 10263238386,
             "lat": 51.8402254,
             "lon": 16.5821681,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 1,
-            "changeset": 130087928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 2,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na zachodniej ścianie zewnętrznej szkoły, obok furtki od Alei Jana Pawła II",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa nr 7 im. Wojska Polskiego",
-                "outdoor": "yes",
                 "source": "https://www.leszno.pl/AED_na_terenie_miasta.html"
             }
         },
@@ -79932,6 +79914,321 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "660782490"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292782809,
+            "lat": 51.2529879,
+            "lon": 18.279481,
+            "timestamp": "2022-12-29T08:36:59Z",
+            "version": 1,
+            "changeset": 130633125,
+            "user": "drabina94",
+            "uid": 11354728,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292787609,
+            "lat": 51.6556709,
+            "lon": 16.9536446,
+            "timestamp": "2022-12-29T08:41:00Z",
+            "version": 1,
+            "changeset": 130633275,
+            "user": "MaciejPtak",
+            "uid": 18119921,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "2x AED na wyposażeniu samochodów straży pożarnej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "998, 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807844,
+            "lat": 52.1191046,
+            "lon": 19.9454442,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807845,
+            "lat": 52.1079629,
+            "lon": 19.9371459,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807846,
+            "lat": 52.1047699,
+            "lon": 19.9589098,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807847,
+            "lat": 52.1058005,
+            "lon": 19.9140248,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807848,
+            "lat": 52.1046093,
+            "lon": 19.9463191,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807849,
+            "lat": 52.103197,
+            "lon": 19.9279089,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292807850,
+            "lat": 52.0992131,
+            "lon": 19.9309782,
+            "timestamp": "2022-12-29T08:58:51Z",
+            "version": 1,
+            "changeset": 130633889,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292813269,
+            "lat": 51.865778,
+            "lon": 16.5846821,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 1,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292813270,
+            "lat": 51.8483688,
+            "lon": 16.5674647,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 1,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292813271,
+            "lat": 51.8317117,
+            "lon": 16.5302409,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 1,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292813272,
+            "lat": 51.8489428,
+            "lon": 16.5614817,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 1,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji (wg danych Skateplaza, ul. Św. Franciszka z Asyżu 19)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292813277,
+            "lat": 51.8401192,
+            "lon": 16.5691632,
+            "timestamp": "2022-12-29T09:22:43Z",
+            "version": 1,
+            "changeset": 130634793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292828409,
+            "lat": 51.6592354,
+            "lon": 19.326798,
+            "timestamp": "2022-12-29T09:15:45Z",
+            "version": 1,
+            "changeset": 130634526,
+            "user": "WL83",
+            "uid": 18120198,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Odrodzenia 11, na ścianie szczytowej od strony ul. Szarych Szeregów.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292832809,
+            "lat": 51.6502206,
+            "lon": 19.3697882,
+            "timestamp": "2022-12-29T09:18:03Z",
+            "version": 1,
+            "changeset": 130634526,
+            "user": "WL83",
+            "uid": 18120198,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Miejski Ośrodek Sportu i Rekreacji, przy głównym wejściu.",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292843209,
+            "lat": 51.6694745,
+            "lon": 19.36872,
+            "timestamp": "2022-12-29T09:21:27Z",
+            "version": 1,
+            "changeset": 130634526,
+            "user": "WL83",
+            "uid": 18120198,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Lumileds Poland, Wejście główne do firmy, przy ochronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292844809,
+            "lat": 51.6459578,
+            "lon": 19.3600301,
+            "timestamp": "2022-12-29T09:23:07Z",
+            "version": 1,
+            "changeset": 130634526,
+            "user": "WL83",
+            "uid": 18120198,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "OSP Pabianice",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 42 215 94 57"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292848965,
+            "lat": 52.1050875,
+            "lon": 19.9396513,
+            "timestamp": "2022-12-29T09:31:23Z",
+            "version": 1,
+            "changeset": 130635154,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku przy drzwiach wejściowych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292854709,
+            "lat": 52.388014,
+            "lon": 18.1987547,
+            "timestamp": "2022-12-29T09:31:30Z",
+            "version": 1,
+            "changeset": 130635108,
+            "user": "KacperP",
+            "uid": 15432257,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "AED na wyposażeniu wozu ratowniczo gaśniczego . Wcisnąć przycisk na ścianie który zaalarmuje strażaków Ochotniczej Straży Pożarnej w celu udostępnienia AED.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "723446386"
             }
         }
     ]
