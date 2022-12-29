@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T17:32:39Z",
+        "timestamp_osm_base": "2022-12-29T18:31:30Z",
         "timestamp_areas_base": "2022-12-29T15:44:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -80940,6 +80940,22 @@
                 "defibrillator:location:pl": "Na słupie koło recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293813237,
+            "lat": 50.8509279,
+            "lon": 16.0159935,
+            "timestamp": "2022-12-29T18:27:12Z",
+            "version": 1,
+            "changeset": 130658279,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "source": "https://czadrow24.pl/urzad-gminy-marciszow-wsparl-placowke-medyczna?fbclid=IwAR2a_Yaj5BzCSWbvtS5PhPXn08ptmX27nDUeduz6w9_YBQBPjzoQ38IyNHg",
+                "start_date": "2021-01-27"
             }
         }
     ]
