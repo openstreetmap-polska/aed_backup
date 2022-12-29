@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T19:32:16Z",
-        "timestamp_areas_base": "2022-12-29T18:47:39Z",
+        "timestamp_osm_base": "2022-12-29T20:35:01Z",
+        "timestamp_areas_base": "2022-12-29T19:48:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75541,15 +75541,18 @@
             "id": 10182308517,
             "lat": 50.0603481,
             "lon": 18.9336314,
-            "timestamp": "2022-11-14T09:37:24Z",
-            "version": 1,
-            "changeset": 128880715,
-            "user": "miba2",
-            "uid": 17577998,
+            "timestamp": "2022-12-29T20:26:10Z",
+            "version": 2,
+            "changeset": 130661843,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "defibrillator:location": "Samochód Ratowniczo Gaśniczy OSP Kobiór",
+                "access": "private",
+                "defibrillator:location": "Samchód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting vehicle",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Kobiór"
             }
         },
         {
@@ -81056,18 +81059,18 @@
             "id": 10293863309,
             "lat": 50.9090318,
             "lon": 16.6614396,
-            "timestamp": "2022-12-29T18:54:47Z",
-            "version": 1,
-            "changeset": 130659195,
-            "user": "FIKU",
-            "uid": 18121100,
+            "timestamp": "2022-12-29T19:32:54Z",
+            "version": 2,
+            "changeset": 130660288,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-29",
                 "defibrillator:location:pl": "AED znajduje się w budynku OSP. Alarm jest na zewnątrz przy wejściu do budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "660573779"
+                "phone": "+48 660 573 779"
             }
         },
         {
@@ -81088,6 +81091,43 @@
                 "opening_hours": "24/7",
                 "source": "https://kartuzy.info/artykul/ogolnodostepny-defibrylator/1378692",
                 "start_date": "2022-11-29"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293971609,
+            "lat": 52.9931418,
+            "lon": 15.2177357,
+            "timestamp": "2022-12-29T20:13:07Z",
+            "version": 1,
+            "changeset": 130661433,
+            "user": "MW Barlinek",
+            "uid": 10154877,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie, obok recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "530040132"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293972609,
+            "lat": 53.002324,
+            "lon": 15.2054141,
+            "timestamp": "2022-12-29T20:14:01Z",
+            "version": 1,
+            "changeset": 130661433,
+            "user": "MW Barlinek",
+            "uid": 10154877,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "W pomieszczeniu gdzie znajduje się bankomat GBS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
