@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T13:31:57Z",
+        "timestamp_osm_base": "2022-12-29T14:30:54Z",
         "timestamp_areas_base": "2022-12-29T11:42:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -80635,6 +80635,222 @@
                 "defibrillator:location:pl": "Samochód ratowoniczo-gaśniczy OSP Gródki.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293252709,
+            "lat": 53.2350357,
+            "lon": 19.9446548,
+            "timestamp": "2022-12-29T13:32:36Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Wielki Łęck.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293252711,
+            "lat": 53.3492995,
+            "lon": 20.105367,
+            "timestamp": "2022-12-29T13:45:15Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Uzdowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293254909,
+            "lat": 53.2723176,
+            "lon": 20.010649,
+            "timestamp": "2022-12-29T13:33:45Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Płośnica.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293254910,
+            "lat": 53.2451549,
+            "lon": 20.1657811,
+            "timestamp": "2022-12-29T13:41:18Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Biurowiec - stara siedziba.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293254911,
+            "lat": 53.2644698,
+            "lon": 20.1886407,
+            "timestamp": "2022-12-29T13:44:11Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Teren wewnętrzny zakładu. Hala produkcyjna.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293257909,
+            "lat": 53.3484741,
+            "lon": 19.8662051,
+            "timestamp": "2022-12-29T13:35:53Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Urządzenie ogólnodostępne. Remiza OSP Tarczyny.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293258609,
+            "lat": 53.3465839,
+            "lon": 19.8214431,
+            "timestamp": "2022-12-29T13:36:41Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo-gaśniczego.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293289710,
+            "lat": 50.6823153,
+            "lon": 17.8308213,
+            "timestamp": "2022-12-29T13:45:10Z",
+            "version": 1,
+            "changeset": 130646652,
+            "user": "Vyehoo",
+            "uid": 18122757,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie budynku klubu LZS Wrzoski. Koło wejścia.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293293809,
+            "lat": 53.3472643,
+            "lon": 20.1030336,
+            "timestamp": "2022-12-29T13:46:16Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Dom Pomocy Społecznej w Uzdowie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293299810,
+            "lat": 53.2981399,
+            "lon": 19.8612621,
+            "timestamp": "2022-12-29T13:53:08Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Remiza OSP w Jeleniu.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293299811,
+            "lat": 53.2612966,
+            "lon": 19.8227045,
+            "timestamp": "2022-12-29T13:58:12Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo-gaśniczego OSP KSRG Lidzbark.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293304709,
+            "lat": 53.2021933,
+            "lon": 19.782254,
+            "timestamp": "2022-12-29T13:53:49Z",
+            "version": 1,
+            "changeset": 130646071,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Remiza OSP w Bryńsku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
