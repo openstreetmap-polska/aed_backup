@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T16:31:48Z",
+        "timestamp_osm_base": "2022-12-29T17:32:39Z",
         "timestamp_areas_base": "2022-12-29T15:44:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -80911,17 +80911,35 @@
             "id": 10293576909,
             "lat": 49.9934379,
             "lon": 20.299277,
-            "timestamp": "2022-12-29T16:09:28Z",
-            "version": 1,
-            "changeset": 130653028,
-            "user": "El Marek Pil",
-            "uid": 18123744,
+            "timestamp": "2022-12-29T17:09:44Z",
+            "version": 2,
+            "changeset": 130655417,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Wejście główne",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "122841045"
+                "phone": "+48122841045"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293670509,
+            "lat": 53.4503609,
+            "lon": 14.5363999,
+            "timestamp": "2022-12-29T17:07:54Z",
+            "version": 1,
+            "changeset": 130655353,
+            "user": "Paweł Muszyński",
+            "uid": 18124448,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na słupie koło recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
