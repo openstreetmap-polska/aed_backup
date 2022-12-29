@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T15:31:49Z",
-        "timestamp_areas_base": "2022-12-29T11:42:36Z",
+        "timestamp_osm_base": "2022-12-29T16:31:48Z",
+        "timestamp_areas_base": "2022-12-29T15:44:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -80904,6 +80904,24 @@
                 "defibrillator:location:pl": "AED dostępne na samochodach ratowniczo - gaśniczych",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293576909,
+            "lat": 49.9934379,
+            "lon": 20.299277,
+            "timestamp": "2022-12-29T16:09:28Z",
+            "version": 1,
+            "changeset": 130653028,
+            "user": "El Marek Pil",
+            "uid": 18123744,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wejście główne",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "122841045"
             }
         }
     ]
