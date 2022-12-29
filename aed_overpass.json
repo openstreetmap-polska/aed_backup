@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T09:31:39Z",
-        "timestamp_areas_base": "2022-12-29T08:40:54Z",
+        "timestamp_osm_base": "2022-12-29T10:31:25Z",
+        "timestamp_areas_base": "2022-12-29T09:40:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -80229,6 +80229,138 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "723446386"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292881910,
+            "lat": 52.3700798,
+            "lon": 17.4133535,
+            "timestamp": "2022-12-29T10:05:21Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "W remizie OSP Nekla w samochodach ratowniczo-gaśniczych. Włączyć syrenę, jeśli będzie potrzeba pomocy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292903109,
+            "lat": 52.3110105,
+            "lon": 17.4393978,
+            "timestamp": "2022-12-29T09:59:37Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Przy schodach głównego wejścia do Szkoły w Targowej Górce",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48725172114"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292904009,
+            "lat": 52.3633271,
+            "lon": 17.4133339,
+            "timestamp": "2022-12-29T10:00:59Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie przy wejściu do Urzędu Miasta i Gminy Nekla",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48725172114"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292905009,
+            "lat": 52.3645462,
+            "lon": 17.406418,
+            "timestamp": "2022-12-29T10:01:28Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie przy głównym wejściu do szkoły w Nekli",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48725172114"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292905209,
+            "lat": 52.4014475,
+            "lon": 17.3726836,
+            "timestamp": "2022-12-29T10:02:08Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie Schroniska Młodzieżowego w Nekielce",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48725172114"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292906809,
+            "lat": 52.3463331,
+            "lon": 17.474331,
+            "timestamp": "2022-12-29T10:02:55Z",
+            "version": 1,
+            "changeset": 130636455,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Na ścianie przy głównym wejściu do szkoły w Zasutowie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48725172114"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292944410,
+            "lat": 52.180375,
+            "lon": 18.6352284,
+            "timestamp": "2022-12-29T10:28:28Z",
+            "version": 1,
+            "changeset": 130637689,
+            "user": "rnamyslak",
+            "uid": 11023679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Pn-Pt od godz. 07.00 do 15.00\nna parterze w sekretariacie urzędu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 63 27 22 420"
             }
         }
     ]
