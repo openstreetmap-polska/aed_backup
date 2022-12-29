@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T07:33:37Z",
-        "timestamp_areas_base": "2022-12-29T06:40:53Z",
+        "timestamp_osm_base": "2022-12-29T08:32:38Z",
+        "timestamp_areas_base": "2022-12-29T07:40:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6701,16 +6701,20 @@
         {
             "type": "node",
             "id": 9340067757,
-            "lat": 53.8005088,
-            "lon": 22.3501792,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "lat": 53.8006728,
+            "lon": 22.3500531,
+            "timestamp": "2022-12-29T08:12:20Z",
+            "version": 3,
+            "changeset": 130632175,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hala Sportowa",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "indoor": "yes",
+                "source": "https://elk.dlawas.info/wiadomosci/11-defibrylatorow-w-elku-pomoze-ratowac-ludzkie-zycie/cid;13592;a"
             }
         },
         {
@@ -6718,14 +6722,16 @@
             "id": 9340067758,
             "lat": 53.8078985,
             "lon": 22.3691407,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:13:21Z",
+            "version": 2,
+            "changeset": 130632217,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "operator": "Biedronka"
             }
         },
         {
@@ -6733,12 +6739,13 @@
             "id": 9340067759,
             "lat": 53.8208818,
             "lon": 22.3464264,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator"
             }
         },
@@ -6747,12 +6754,13 @@
             "id": 9340067760,
             "lat": 53.8214599,
             "lon": 22.3528566,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
                 "fixme": "place"
             }
@@ -6762,12 +6770,13 @@
             "id": 9340067761,
             "lat": 53.8227041,
             "lon": 22.3591402,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
                 "fixme": "place"
             }
@@ -6777,12 +6786,13 @@
             "id": 9340067762,
             "lat": 53.8235168,
             "lon": 22.3551571,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator"
             }
         },
@@ -6791,12 +6801,13 @@
             "id": 9340067763,
             "lat": 53.8290114,
             "lon": 22.3675544,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
                 "emergency": "defibrillator",
                 "fixme": "place"
             }
@@ -6806,14 +6817,16 @@
             "id": 9340067764,
             "lat": 53.8326306,
             "lon": 22.357539,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "operator": "Biedronka"
             }
         },
         {
@@ -6821,12 +6834,13 @@
             "id": 9340067765,
             "lat": 53.8287542,
             "lon": 22.3481767,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
                 "fixme": "place"
             }
@@ -6836,14 +6850,16 @@
             "id": 9340067766,
             "lat": 53.8313448,
             "lon": 22.3435615,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "operator": "Biedronka"
             }
         },
         {
@@ -6851,14 +6867,16 @@
             "id": 9340067767,
             "lat": 53.8353649,
             "lon": 22.3409626,
-            "timestamp": "2021-12-15T10:26:28Z",
-            "version": 1,
-            "changeset": 114957784,
-            "user": "dodoelk",
-            "uid": 854765,
+            "timestamp": "2022-12-29T08:23:39Z",
+            "version": 2,
+            "changeset": 130632619,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "operator": "Biedronka"
             }
         },
         {
@@ -35186,9 +35204,9 @@
             "id": 9490795361,
             "lat": 53.5594951,
             "lon": 14.8558712,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "timestamp": "2022-12-29T08:11:36Z",
+            "version": 5,
+            "changeset": 130632142,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -35198,8 +35216,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "Crown Packaging - Opakowania",
-                "phone": "+48914697830"
+                "operator": "Eviosys Packaging Polska, Crown Packaking Polska",
+                "phone": "+48 91 469 78 01"
             }
         },
         {
@@ -41359,18 +41377,17 @@
             "id": 9525375785,
             "lat": 53.5664525,
             "lon": 14.8397183,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 3,
-            "changeset": 117701605,
+            "timestamp": "2022-12-29T08:11:36Z",
+            "version": 4,
+            "changeset": 130632142,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "no",
                 "defibrillator:location": "Hala Lakiernia Komponent",
                 "defibrillator:location:en": "Component Varnish Hall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Goleniów",
                 "phone": "+48 91 464 70 00"
             }
@@ -41380,18 +41397,17 @@
             "id": 9525375786,
             "lat": 53.563354,
             "lon": 14.8403348,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 3,
-            "changeset": 117701605,
+            "timestamp": "2022-12-29T08:11:36Z",
+            "version": 4,
+            "changeset": 130632142,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "no",
                 "defibrillator:location": "Hala – Maszynownia",
                 "defibrillator:location:en": "Hall - Engine room",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Goleniów",
                 "phone": "+48 91 464 70 00"
             }
@@ -79897,6 +79913,25 @@
                 "defibrillator:location:en": "KORNIX Lubawa, office building, close to the entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10292744409,
+            "lat": 53.1309661,
+            "lon": 17.6042284,
+            "timestamp": "2022-12-29T08:07:57Z",
+            "version": 1,
+            "changeset": 130632014,
+            "user": "Przystań Powiat Nakielski",
+            "uid": 18119649,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Korytarz - parter budynku Przystani Powiat Nakielski",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "660782490"
             }
         }
     ]
