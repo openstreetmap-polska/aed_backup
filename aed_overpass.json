@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T11:31:24Z",
-        "timestamp_areas_base": "2022-12-29T10:41:38Z",
+        "timestamp_osm_base": "2022-12-29T12:32:09Z",
+        "timestamp_areas_base": "2022-12-29T11:42:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22911,17 +22911,18 @@
             "id": 9445590177,
             "lat": 49.5581382,
             "lon": 21.8565696,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 4,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-12-29T12:11:57Z",
+            "version": 5,
+            "changeset": 130642428,
+            "user": "krzysiekkrukar",
+            "uid": 5529291,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy - pierwsza skrytka  za kabiną po stronie dowódcy- pasażera.",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "note": "jest 1",
+                "indoor": "yes",
+                "note": "W razie potrzeby klucz do budynku znajduje się sklepie obok remizy w godzinach jego otwarcia.\nW razie potrzeby możliwość zdalnego otwarcia budynku pod numerem telefonu 697 117 724.",
                 "opening_hours": "24/7",
                 "operator": "OSP Posada Górna"
             }
@@ -62711,18 +62712,21 @@
             "id": 9727497317,
             "lat": 53.6252792,
             "lon": 15.0812777,
-            "timestamp": "2022-05-09T17:01:06Z",
-            "version": 1,
-            "changeset": 120757889,
+            "timestamp": "2022-12-29T11:46:26Z",
+            "version": 3,
+            "changeset": 130641303,
             "user": "Nixev",
             "uid": 14867708,
             "tags": {
-                "access": "yes",
+                "access": "permit",
                 "defibrillator:location": "Wóz ratowniczo-gaśniczy",
+                "description": "Remiza OSP",
                 "emergency": "defibrillator",
                 "emergency:phone": "505724165",
                 "indoor": "yes",
-                "phone": "505724165"
+                "operator": "OSP Wyszomierz",
+                "phone": "505724165",
+                "website": "www.facebook.com/wyszomierzosp"
             }
         },
         {
@@ -80361,6 +80365,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 63 27 22 420"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293039709,
+            "lat": 53.1389552,
+            "lon": 17.6047421,
+            "timestamp": "2022-12-29T11:31:29Z",
+            "version": 1,
+            "changeset": 130640571,
+            "user": "Raflo",
+            "uid": 1826899,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pokój nr 2, na ścianie koło okna",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "52 386 79 27"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293042109,
+            "lat": 53.1394926,
+            "lon": 17.6039622,
+            "timestamp": "2022-12-29T11:33:16Z",
+            "version": 1,
+            "changeset": 130640571,
+            "user": "Raflo",
+            "uid": 1826899,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Obsługi Mieszkańców, pierwsze pomieszczenie po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "52 386 79 13"
             }
         }
     ]
