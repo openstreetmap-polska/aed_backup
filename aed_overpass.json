@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T20:35:01Z",
-        "timestamp_areas_base": "2022-12-29T19:48:21Z",
+        "timestamp_osm_base": "2022-12-29T21:32:48Z",
+        "timestamp_areas_base": "2022-12-29T20:50:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14033,15 +14033,16 @@
             "id": 9424580724,
             "lat": 53.4268906,
             "lon": 21.8879358,
-            "timestamp": "2022-01-17T06:55:49Z",
-            "version": 1,
-            "changeset": 116239591,
+            "timestamp": "2022-12-29T20:40:16Z",
+            "version": 2,
+            "changeset": 130662307,
             "user": "kjarzylo",
             "uid": 14872108,
             "tags": {
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Czerwone",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
@@ -49677,16 +49678,21 @@
         {
             "type": "node",
             "id": 9570430479,
-            "lat": 53.772812,
-            "lon": 15.405266,
-            "timestamp": "2022-03-11T09:38:35Z",
-            "version": 1,
-            "changeset": 118355155,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 53.7729115,
+            "lon": 15.4051947,
+            "timestamp": "2022-12-29T21:05:31Z",
+            "version": 2,
+            "changeset": 130663140,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na północnej ścianie budynku Urzędu Miejskiego w Resku od strony ulicy Wojska Polskiego.",
+                "defibrillator:location:en": "On the northern wall of the building of the Municipal Office in Resko from the side of Wojska Polskiego Street.",
+                "description": "Defibrylator ogólnodostępny umieszczony w kapsule Rotaid.",
+                "description:en": "A public defibrillator placed in a Rotaid capsule.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Resku"
             }
@@ -59959,21 +59965,20 @@
             "id": 9680438885,
             "lat": 53.7662994,
             "lon": 15.400828,
-            "timestamp": "2022-04-20T15:40:11Z",
-            "version": 1,
-            "changeset": 119960421,
+            "timestamp": "2022-12-29T21:08:41Z",
+            "version": 2,
+            "changeset": 130663247,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "no",
                 "defibrillator:location": "Hala",
                 "defibrillator:location:en": "Hall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "mobile": "+48 572 707 083",
-                "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Resko",
-                "phone": "+48 91 8174 000"
+                "phone": "+48 91 81 74 000"
             }
         },
         {
@@ -63074,18 +63079,18 @@
             "id": 9751185820,
             "lat": 53.8992241,
             "lon": 15.2221989,
-            "timestamp": "2022-05-18T08:26:15Z",
-            "version": 1,
-            "changeset": 121133637,
+            "timestamp": "2022-12-29T21:12:17Z",
+            "version": 2,
+            "changeset": 130663407,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "customers",
                 "defibrillator:location": "W budynku nadleśnictwa.",
                 "defibrillator:location:en": "In the building of the forest inspectorate.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off; PH off",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Nadleśnictwo Gryfice",
                 "phone": "+48 91 384 33 21"
             }
@@ -80355,17 +80360,19 @@
             "id": 10292944410,
             "lat": 52.180375,
             "lon": 18.6352284,
-            "timestamp": "2022-12-29T10:28:28Z",
-            "version": 1,
-            "changeset": 130637689,
-            "user": "rnamyslak",
-            "uid": 11023679,
+            "timestamp": "2022-12-29T20:40:03Z",
+            "version": 2,
+            "changeset": 130662297,
+            "user": "blxght",
+            "uid": 16345719,
             "tags": {
                 "access": "customers",
                 "check_date": "2022-12-29",
-                "defibrillator:location:pl": "Pn-Pt od godz. 07.00 do 15.00\nna parterze w sekretariacie urzędu",
+                "defibrillator:location": "Na parterze w sekretariacie urzędu",
+                "defibrillator:location:en": "On the ground floor in the secreteriat of the office",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
                 "phone": "+48 63 27 22 420"
             }
         },
@@ -81128,6 +81135,26 @@
                 "defibrillator:location:pl": "W pomieszczeniu gdzie znajduje się bankomat GBS",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10294069062,
+            "lat": 50.439002,
+            "lon": 16.6542638,
+            "timestamp": "2022-12-29T21:19:52Z",
+            "version": 1,
+            "changeset": 130663627,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pomieszczeniu do obsługi petentów, po prawej stronie od wejścia, na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-17:00; Tu-Fr 08:00-15:00",
+                "operator": "Zakład Ubezpieczeń Społecznych"
             }
         }
     ]
