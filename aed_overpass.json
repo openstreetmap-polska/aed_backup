@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T18:31:30Z",
-        "timestamp_areas_base": "2022-12-29T15:44:55Z",
+        "timestamp_osm_base": "2022-12-29T19:32:16Z",
+        "timestamp_areas_base": "2022-12-29T18:47:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54826,9 +54826,9 @@
             "id": 9612429717,
             "lat": 49.4995701,
             "lon": 20.0437803,
-            "timestamp": "2022-03-28T07:31:01Z",
-            "version": 1,
-            "changeset": 119007845,
+            "timestamp": "2022-12-29T18:49:59Z",
+            "version": 2,
+            "changeset": 130659043,
             "user": "badifire",
             "uid": 2638466,
             "tags": {
@@ -54836,6 +54836,7 @@
                 "defibrillator:location": "Na samochodzie OSP",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Nowy Targ",
                 "phone": "+48570 290 404"
             }
         },
@@ -54844,9 +54845,9 @@
             "id": 9612432217,
             "lat": 49.4651747,
             "lon": 19.9965439,
-            "timestamp": "2022-03-28T07:31:41Z",
-            "version": 1,
-            "changeset": 119007845,
+            "timestamp": "2022-12-29T18:51:28Z",
+            "version": 2,
+            "changeset": 130659089,
             "user": "badifire",
             "uid": 2638466,
             "tags": {
@@ -54854,7 +54855,7 @@
                 "defibrillator:location": "Na samochodzie JRG",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 18 26 109 71"
+                "phone": "+47 831 72 78"
             }
         },
         {
@@ -59916,18 +59917,17 @@
             "id": 9680349891,
             "lat": 53.6516601,
             "lon": 14.6354105,
-            "timestamp": "2022-04-20T15:08:51Z",
-            "version": 1,
-            "changeset": 119959278,
+            "timestamp": "2022-12-29T19:17:30Z",
+            "version": 2,
+            "changeset": 130659884,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "no",
                 "defibrillator:location": "Hala – Maszynownia",
                 "defibrillator:location:en": "Hall - Engine room",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 00:00-24:00",
                 "operator": "Ikea Industry Stepnica",
                 "phone": "+48 91 464 74 10"
             }
@@ -80944,6 +80944,51 @@
         },
         {
             "type": "node",
+            "id": 10293779484,
+            "lat": 52.1614538,
+            "lon": 20.7949544,
+            "timestamp": "2022-12-29T18:35:04Z",
+            "version": 1,
+            "changeset": 130658518,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293779485,
+            "lat": 52.1592106,
+            "lon": 20.8139424,
+            "timestamp": "2022-12-29T18:35:04Z",
+            "version": 1,
+            "changeset": 130658518,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293779486,
+            "lat": 52.1640603,
+            "lon": 20.8111802,
+            "timestamp": "2022-12-29T18:35:04Z",
+            "version": 1,
+            "changeset": 130658518,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
             "id": 10293813237,
             "lat": 50.8509279,
             "lon": 16.0159935,
@@ -80956,6 +81001,93 @@
                 "emergency": "defibrillator",
                 "source": "https://czadrow24.pl/urzad-gminy-marciszow-wsparl-placowke-medyczna?fbclid=IwAR2a_Yaj5BzCSWbvtS5PhPXn08ptmX27nDUeduz6w9_YBQBPjzoQ38IyNHg",
                 "start_date": "2021-01-27"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293860210,
+            "lat": 52.1782687,
+            "lon": 20.7981264,
+            "timestamp": "2022-12-29T18:52:11Z",
+            "version": 1,
+            "changeset": 130659114,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293860211,
+            "lat": 52.1884486,
+            "lon": 20.815237,
+            "timestamp": "2022-12-29T18:52:11Z",
+            "version": 1,
+            "changeset": 130659114,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293860212,
+            "lat": 52.1746696,
+            "lon": 20.8032116,
+            "timestamp": "2022-12-29T18:52:11Z",
+            "version": 1,
+            "changeset": 130659114,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293863309,
+            "lat": 50.9090318,
+            "lon": 16.6614396,
+            "timestamp": "2022-12-29T18:54:47Z",
+            "version": 1,
+            "changeset": 130659195,
+            "user": "FIKU",
+            "uid": 18121100,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "AED znajduje się w budynku OSP. Alarm jest na zewnątrz przy wejściu do budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "660573779"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293877074,
+            "lat": 54.3578921,
+            "lon": 18.1659858,
+            "timestamp": "2022-12-29T19:10:51Z",
+            "version": 1,
+            "changeset": 130659664,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://kartuzy.info/artykul/ogolnodostepny-defibrylator/1378692",
+                "start_date": "2022-11-29"
             }
         }
     ]
