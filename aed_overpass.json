@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-29T14:30:54Z",
+        "timestamp_osm_base": "2022-12-29T15:31:49Z",
         "timestamp_areas_base": "2022-12-29T11:42:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62710,23 +62710,21 @@
         {
             "type": "node",
             "id": 9727497317,
-            "lat": 53.6252792,
-            "lon": 15.0812777,
-            "timestamp": "2022-12-29T11:46:26Z",
-            "version": 3,
-            "changeset": 130641303,
-            "user": "Nixev",
-            "uid": 14867708,
+            "lat": 53.625269,
+            "lon": 15.0812947,
+            "timestamp": "2022-12-29T14:42:00Z",
+            "version": 4,
+            "changeset": 130649207,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "permit",
                 "defibrillator:location": "Wóz ratowniczo-gaśniczy",
                 "description": "Remiza OSP",
                 "emergency": "defibrillator",
-                "emergency:phone": "505724165",
                 "indoor": "yes",
                 "operator": "OSP Wyszomierz",
-                "phone": "505724165",
-                "website": "www.facebook.com/wyszomierzosp"
+                "phone": "505724165"
             }
         },
         {
@@ -79907,18 +79905,18 @@
             "id": 10292744409,
             "lat": 53.1309661,
             "lon": 17.6042284,
-            "timestamp": "2022-12-29T08:07:57Z",
-            "version": 1,
-            "changeset": 130632014,
-            "user": "Przystań Powiat Nakielski",
-            "uid": 18119649,
+            "timestamp": "2022-12-29T15:25:51Z",
+            "version": 2,
+            "changeset": 130651177,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-29",
                 "defibrillator:location:pl": "Korytarz - parter budynku Przystani Powiat Nakielski",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "660782490"
+                "phone": "+48 660 782 490"
             }
         },
         {
@@ -79945,18 +79943,18 @@
             "id": 10292787609,
             "lat": 51.6556709,
             "lon": 16.9536446,
-            "timestamp": "2022-12-29T08:41:00Z",
-            "version": 1,
-            "changeset": 130633275,
-            "user": "MaciejPtak",
-            "uid": 18119921,
+            "timestamp": "2022-12-29T15:26:21Z",
+            "version": 2,
+            "changeset": 130651197,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-29",
                 "defibrillator:location:pl": "2x AED na wyposażeniu samochodów straży pożarnej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "998, 112"
+                "phone": "112"
             }
         },
         {
@@ -80851,6 +80849,61 @@
                 "defibrillator:location:pl": "Remiza OSP w Bryńsku.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293382609,
+            "lat": 49.8818873,
+            "lon": 19.5054323,
+            "timestamp": "2022-12-29T14:31:58Z",
+            "version": 1,
+            "changeset": 130648754,
+            "user": "Filip Kosarski",
+            "uid": 18121077,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Portiernia firmy Maspex - Chopina 10",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293386209,
+            "lat": 49.8764967,
+            "lon": 19.5000036,
+            "timestamp": "2022-12-29T14:33:56Z",
+            "version": 1,
+            "changeset": 130648754,
+            "user": "Filip Kosarski",
+            "uid": 18121077,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa - Oddział Terenowy w Wadowicach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "338732956"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10293395509,
+            "lat": 49.8876446,
+            "lon": 19.4925782,
+            "timestamp": "2022-12-29T14:36:03Z",
+            "version": 1,
+            "changeset": 130648754,
+            "user": "Filip Kosarski",
+            "uid": 18121077,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "AED dostępne na samochodach ratowniczo - gaśniczych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
