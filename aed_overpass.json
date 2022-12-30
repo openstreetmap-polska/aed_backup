@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-30T08:32:31Z",
+        "timestamp_osm_base": "2022-12-30T09:31:22Z",
         "timestamp_areas_base": "2022-12-30T07:51:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50382,26 +50382,6 @@
         },
         {
             "type": "node",
-            "id": 9570868522,
-            "lat": 49.8206512,
-            "lon": 21.623259,
-            "timestamp": "2022-12-30T08:22:52Z",
-            "version": 4,
-            "changeset": 130675572,
-            "user": "dziki1975",
-            "uid": 3054751,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Urządzenie znajduje się wewnątrz remizy strażackiej.",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "note": "numer kontaktowy: +48 667 271 451",
-                "opening_hours": "24/7",
-                "operator": "OSP Twierdza"
-            }
-        },
-        {
-            "type": "node",
             "id": 9570878492,
             "lat": 53.5336997,
             "lon": 17.5165616,
@@ -62003,13 +61983,13 @@
             "id": 9690370210,
             "lat": 49.8360545,
             "lon": 21.6157043,
-            "timestamp": "2022-12-30T07:47:44Z",
-            "version": 2,
-            "changeset": 130674673,
+            "timestamp": "2022-12-30T09:17:39Z",
+            "version": 3,
+            "changeset": 130677449,
             "user": "dziki1975",
             "uid": 3054751,
             "tags": {
-                "access": "permit",
+                "access": "permissive",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "GOSiR Frysztak"
@@ -81209,18 +81189,42 @@
             "id": 10294720312,
             "lat": 49.8206193,
             "lon": 21.6232426,
-            "timestamp": "2022-12-30T08:28:55Z",
-            "version": 1,
-            "changeset": 130675742,
+            "timestamp": "2022-12-30T09:18:25Z",
+            "version": 4,
+            "changeset": 130677472,
             "user": "dziki1975",
             "uid": 3054751,
             "tags": {
-                "access": "yes",
+                "access": "private",
                 "check_date": "2022-12-30",
+                "defibrillator:location": "defibrylator znajduje się wewnątrz remizy strażackiej",
                 "defibrillator:location:pl": "wewnątrz remizy strażackiej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "note": "potrzebę użycia defibrylatora należy zgłosić tak samo jak samo zagrożenie na numer alarmowy 112",
+                "opening_hours": "24/7",
+                "operator": "OSP TWIERDZA",
                 "phone": "+48 667 271 451"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10294765733,
+            "lat": 50.2486097,
+            "lon": 16.6934862,
+            "timestamp": "2022-12-30T09:13:23Z",
+            "version": 1,
+            "changeset": 130677283,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP KSRG Wilkanów"
             }
         }
     ]
