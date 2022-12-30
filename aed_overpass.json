@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-30T19:31:25Z",
-        "timestamp_areas_base": "2022-12-30T18:57:54Z",
+        "timestamp_osm_base": "2022-12-30T20:32:23Z",
+        "timestamp_areas_base": "2022-12-30T19:57:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10780,9 +10780,9 @@
             "id": 9408005817,
             "lat": 54.3340554,
             "lon": 18.2056894,
-            "timestamp": "2022-01-10T18:05:48Z",
-            "version": 2,
-            "changeset": 115992709,
+            "timestamp": "2022-12-30T19:40:34Z",
+            "version": 3,
+            "changeset": 130700738,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -10791,6 +10791,7 @@
                 "defibrillator:location:en": "On the corridor wall on the ground floor of the station, between the main entrance and the elevator",
                 "description": "Dworzec PKP Kartuzy",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
