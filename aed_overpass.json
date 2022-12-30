@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-30T13:31:09Z",
-        "timestamp_areas_base": "2022-12-30T12:54:37Z",
+        "timestamp_osm_base": "2022-12-30T14:31:24Z",
+        "timestamp_areas_base": "2022-12-30T13:53:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -81173,19 +81173,17 @@
             "id": 10294720312,
             "lat": 49.8206193,
             "lon": 21.6232426,
-            "timestamp": "2022-12-30T09:18:25Z",
-            "version": 4,
-            "changeset": 130677472,
-            "user": "dziki1975",
-            "uid": 3054751,
+            "timestamp": "2022-12-30T14:09:45Z",
+            "version": 5,
+            "changeset": 130688722,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
-                "access": "private",
+                "access": "permissive",
                 "check_date": "2022-12-30",
-                "defibrillator:location": "defibrylator znajduje się wewnątrz remizy strażackiej",
-                "defibrillator:location:pl": "wewnątrz remizy strażackiej",
+                "defibrillator:location": "Defibrylator znajduje się wewnątrz remizy strażackiej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "note": "potrzebę użycia defibrylatora należy zgłosić tak samo jak samo zagrożenie na numer alarmowy 112",
                 "opening_hours": "24/7",
                 "operator": "OSP TWIERDZA",
                 "phone": "+48 667 271 451"
@@ -81280,6 +81278,456 @@
                 "access": "private",
                 "check_date": "2022-12-30",
                 "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy  OSP KSRG Iłowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295068110,
+            "lat": 53.4178858,
+            "lon": 19.9350321,
+            "timestamp": "2022-12-30T13:36:43Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Rumian.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295068111,
+            "lat": 53.2859395,
+            "lon": 20.1477283,
+            "timestamp": "2022-12-30T13:44:23Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Filice.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295068310,
+            "lat": 53.3454962,
+            "lon": 19.9875613,
+            "timestamp": "2022-12-30T13:33:00Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Żabiny.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295073409,
+            "lat": 53.2346678,
+            "lon": 20.0980859,
+            "timestamp": "2022-12-30T13:31:32Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Wysoka.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295073410,
+            "lat": 53.2245375,
+            "lon": 19.8991772,
+            "timestamp": "2022-12-30T13:34:07Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Remiza OSP.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295073411,
+            "lat": 53.1876213,
+            "lon": 19.9586313,
+            "timestamp": "2022-12-30T13:34:53Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Remiza OSP KSRG w Starym Dłutowie..",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295073412,
+            "lat": 53.4190982,
+            "lon": 19.8743785,
+            "timestamp": "2022-12-30T13:37:54Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Truszczyny.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295078909,
+            "lat": 53.3250132,
+            "lon": 19.970056,
+            "timestamp": "2022-12-30T13:35:48Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Koszelewy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082009,
+            "lat": 53.3872037,
+            "lon": 19.8761733,
+            "timestamp": "2022-12-30T13:38:32Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Jeglia.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082010,
+            "lat": 53.3998837,
+            "lon": 19.8442678,
+            "timestamp": "2022-12-30T13:39:20Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Hartowiec.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082011,
+            "lat": 53.294519,
+            "lon": 19.7563002,
+            "timestamp": "2022-12-30T13:41:01Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Remiza OSP Słup.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082012,
+            "lat": 53.1854066,
+            "lon": 20.0080913,
+            "timestamp": "2022-12-30T13:42:04Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Remiza OSP Jabłonowo.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082013,
+            "lat": 53.1583662,
+            "lon": 20.0137951,
+            "timestamp": "2022-12-30T13:43:26Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Zalesie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082014,
+            "lat": 53.2708969,
+            "lon": 20.0618319,
+            "timestamp": "2022-12-30T13:45:57Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Rutkowice.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295082015,
+            "lat": 53.1591986,
+            "lon": 20.1346737,
+            "timestamp": "2022-12-30T13:46:44Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Petrykozy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295087709,
+            "lat": 53.173931,
+            "lon": 20.0468852,
+            "timestamp": "2022-12-30T13:42:45Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Niechłonin.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295087710,
+            "lat": 53.185387,
+            "lon": 20.2551829,
+            "timestamp": "2022-12-30T13:47:23Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Narzym.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295089909,
+            "lat": 53.3835154,
+            "lon": 20.1240224,
+            "timestamp": "2022-12-30T13:45:07Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Ruszkowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295089910,
+            "lat": 53.2130083,
+            "lon": 20.2732399,
+            "timestamp": "2022-12-30T13:48:13Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Remiza OSP Brodowo.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295098909,
+            "lat": 53.3074298,
+            "lon": 20.0878208,
+            "timestamp": "2022-12-30T13:49:10Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Turza Wielka.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295098910,
+            "lat": 53.3933297,
+            "lon": 19.8997779,
+            "timestamp": "2022-12-30T13:50:26Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Dębień.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295098911,
+            "lat": 53.3858143,
+            "lon": 19.9300049,
+            "timestamp": "2022-12-30T13:52:26Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP KSRG Rybno.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295099109,
+            "lat": 53.3141022,
+            "lon": 20.0024061,
+            "timestamp": "2022-12-30T13:49:50Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP Gralewo.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295100010,
+            "lat": 53.3868494,
+            "lon": 19.9316089,
+            "timestamp": "2022-12-30T13:54:15Z",
+            "version": 1,
+            "changeset": 130687172,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Strażnica OSP ul. Lubawska 15A.\nSamochód ratowniczo-gaśniczy OSP KSRG Rybno.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10295110109,
+            "lat": 53.2369594,
+            "lon": 20.1739096,
+            "timestamp": "2022-12-30T13:58:27Z",
+            "version": 1,
+            "changeset": 130688268,
+            "user": "KPP PSP Działdowo",
+            "uid": 18122548,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "Budynek wewnętrznej służby BHP.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }

@@ -1,14 +1,14 @@
-# AED backup and stats (2022-12-30 13:33:09)
+# AED backup and stats (2022-12-30 14:33:14)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4407
+Total AED: 4432
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2022-01-01: 342\
-Average daily growth since beginning of the year: 12.86
+Average daily growth since beginning of the year: 12.94
 
 ## Top creators
 | # | User | Created |
@@ -25,18 +25,18 @@ Average daily growth since beginning of the year: 12.86
 | 10 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 87 |
 | 11 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 75 |
 | 12 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 71 |
-| 13 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
-| 14 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 15 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
-| 16 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
-| 17 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 18 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
+| 13 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
+| 14 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
+| 15 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
+| 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
+| 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
+| 18 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 20 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
+| 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
 | 21 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 25 |
-| 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
-| 23 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
-| 24 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
+| 22 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
+| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
+| 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
 | 25 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 
 ## Tag access pie
