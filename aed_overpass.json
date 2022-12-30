@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-30T11:31:24Z",
-        "timestamp_areas_base": "2022-12-30T10:53:54Z",
+        "timestamp_osm_base": "2022-12-30T12:31:10Z",
+        "timestamp_areas_base": "2022-12-30T11:53:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49071,17 +49071,19 @@
         {
             "type": "node",
             "id": 9568845717,
-            "lat": 49.5807169,
-            "lon": 20.6678331,
-            "timestamp": "2022-03-10T13:59:22Z",
-            "version": 1,
-            "changeset": 118325207,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 49.5807368,
+            "lon": 20.6679325,
+            "timestamp": "2022-12-30T11:57:47Z",
+            "version": 2,
+            "changeset": 130683793,
+            "user": "emtiwi",
+            "uid": 313969,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Defibrylator AED.",
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie przy wejściu do budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "wheelchair": "limited"
             }
         },
         {
@@ -66990,9 +66992,9 @@
             "id": 9889796117,
             "lat": 50.4003738,
             "lon": 16.5135004,
-            "timestamp": "2022-12-30T07:12:59Z",
-            "version": 2,
-            "changeset": 130673683,
+            "timestamp": "2022-12-30T12:11:14Z",
+            "version": 3,
+            "changeset": 130684399,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -67001,6 +67003,7 @@
                 "defibrillator:location:en": "Fire-rescue truck - SCANIA",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "location": "vehicle",
                 "phone": "+48 74 86 57 200"
             }
         },
@@ -81167,26 +81170,6 @@
         },
         {
             "type": "node",
-            "id": 10294654190,
-            "lat": 50.4005145,
-            "lon": 16.512925,
-            "timestamp": "2022-12-30T07:12:59Z",
-            "version": 1,
-            "changeset": 130673683,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód lekki ratownictwa technicznego - MITSUBISHI L200",
-                "defibrillator:location:en": "Rescue vehicle - Mitsubishi L200",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "location": "vehicle",
-                "phone": "+48 74 86 57 200"
-            }
-        },
-        {
-            "type": "node",
             "id": 10294720312,
             "lat": 49.8206193,
             "lon": 21.6232426,
@@ -81213,13 +81196,14 @@
             "id": 10294765733,
             "lat": 50.2486097,
             "lon": 16.6934862,
-            "timestamp": "2022-12-30T09:13:23Z",
-            "version": 1,
-            "changeset": 130677283,
+            "timestamp": "2022-12-30T11:32:11Z",
+            "version": 2,
+            "changeset": 130682776,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
+                "check_date": "2022-12-30",
                 "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
                 "defibrillator:location:en": "In the rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
