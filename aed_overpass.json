@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-30T07:32:39Z",
-        "timestamp_areas_base": "2022-12-30T06:52:01Z",
+        "timestamp_osm_base": "2022-12-30T08:32:31Z",
+        "timestamp_areas_base": "2022-12-30T07:51:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50385,16 +50385,17 @@
             "id": 9570868522,
             "lat": 49.8206512,
             "lon": 21.623259,
-            "timestamp": "2022-03-11T13:19:27Z",
-            "version": 1,
-            "changeset": 118363946,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2022-12-30T08:22:52Z",
+            "version": 4,
+            "changeset": 130675572,
+            "user": "dziki1975",
+            "uid": 3054751,
             "tags": {
-                "access": "permissive",
-                "defibrillator:location": "Urządzenie znajduje sie wewnątrz remizy.",
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się wewnątrz remizy strażackiej.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "note": "numer kontaktowy: +48 667 271 451",
                 "opening_hours": "24/7",
                 "operator": "OSP Twierdza"
             }
@@ -62002,13 +62003,16 @@
             "id": 9690370210,
             "lat": 49.8360545,
             "lon": 21.6157043,
-            "timestamp": "2022-04-24T19:25:20Z",
-            "version": 1,
-            "changeset": 120136454,
-            "user": "WMietek",
-            "uid": 2144790,
+            "timestamp": "2022-12-30T07:47:44Z",
+            "version": 2,
+            "changeset": 130674673,
+            "user": "dziki1975",
+            "uid": 3054751,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "permit",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "GOSiR Frysztak"
             }
         },
         {
@@ -81198,6 +81202,25 @@
                 "indoor": "yes",
                 "location": "vehicle",
                 "phone": "+48 74 86 57 200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10294720312,
+            "lat": 49.8206193,
+            "lon": 21.6232426,
+            "timestamp": "2022-12-30T08:28:55Z",
+            "version": 1,
+            "changeset": 130675742,
+            "user": "dziki1975",
+            "uid": 3054751,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location:pl": "wewnątrz remizy strażackiej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 667 271 451"
             }
         }
     ]
