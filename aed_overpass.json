@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T10:31:44Z",
-        "timestamp_areas_base": "2022-12-31T10:03:08Z",
+        "timestamp_osm_base": "2022-12-31T11:31:52Z",
+        "timestamp_areas_base": "2022-12-31T11:04:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82112,6 +82112,158 @@
                 "defibrillator:location:pl": "Budynek remizy OSP Słowino",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296632909,
+            "lat": 53.6657828,
+            "lon": 15.4462393,
+            "timestamp": "2022-12-31T11:05:46Z",
+            "version": 1,
+            "changeset": 130716042,
+            "user": "OSP RADOWO MAŁE",
+            "uid": 18138614,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Na ścianie Remizy OSP Radowo Małe",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "999 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296635109,
+            "lat": 52.3694425,
+            "lon": 22.7831928,
+            "timestamp": "2022-12-31T11:16:18Z",
+            "version": 2,
+            "changeset": 130716382,
+            "user": "Gacek96",
+            "uid": 18138599,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "defibrillator:location:en": "Rescue fire extinguishing car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mężenin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296649309,
+            "lat": 49.3032849,
+            "lon": 19.9196706,
+            "timestamp": "2022-12-31T11:22:13Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich, AED dostępne tylko w sezonie zimowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296649809,
+            "lat": 49.3249829,
+            "lon": 19.9762496,
+            "timestamp": "2022-12-31T11:23:51Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich, AED dostępne w sezonie zimowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296650414,
+            "lat": 49.3298723,
+            "lon": 19.9823302,
+            "timestamp": "2022-12-31T11:24:45Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich, AED dostępne w sezonie narciarskim",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296650512,
+            "lat": 49.3067096,
+            "lon": 20.0891196,
+            "timestamp": "2022-12-31T11:26:49Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296650513,
+            "lat": 49.3125496,
+            "lon": 20.0391039,
+            "timestamp": "2022-12-31T11:27:41Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296653209,
+            "lat": 49.3187633,
+            "lon": 19.8136207,
+            "timestamp": "2022-12-31T11:28:29Z",
+            "version": 1,
+            "changeset": 130716576,
+            "user": "DobryChlopak",
+            "uid": 18138738,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka ratowników narciarskich",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 941 496"
             }
         }
     ]
