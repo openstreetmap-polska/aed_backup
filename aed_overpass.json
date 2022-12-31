@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T09:32:24Z",
-        "timestamp_areas_base": "2022-12-31T09:03:47Z",
+        "timestamp_osm_base": "2022-12-31T10:31:44Z",
+        "timestamp_areas_base": "2022-12-31T10:03:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -81747,6 +81747,369 @@
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Samochód Ratowniczo- Gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296547179,
+            "lat": 51.3733247,
+            "lon": 20.9418695,
+            "timestamp": "2022-12-31T10:22:39Z",
+            "version": 1,
+            "changeset": 130714777,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Strzałków",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Strzałkowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296552409,
+            "lat": 51.1429954,
+            "lon": 23.4794664,
+            "timestamp": "2022-12-31T09:32:45Z",
+            "version": 1,
+            "changeset": 130713550,
+            "user": "Kawkej",
+            "uid": 18137834,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Sklep Castorama, przy punkcie obsługi klienta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296552609,
+            "lat": 51.1402747,
+            "lon": 23.4931951,
+            "timestamp": "2022-12-31T09:33:36Z",
+            "version": 1,
+            "changeset": 130713550,
+            "user": "Kawkej",
+            "uid": 18137834,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Sklep Biedronka",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296552610,
+            "lat": 51.1321624,
+            "lon": 23.4768079,
+            "timestamp": "2022-12-31T09:34:15Z",
+            "version": 1,
+            "changeset": 130713550,
+            "user": "Kawkej",
+            "uid": 18137834,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "PZU",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296552611,
+            "lat": 49.8892057,
+            "lon": 18.8022003,
+            "timestamp": "2022-12-31T09:35:28Z",
+            "version": 1,
+            "changeset": 130713597,
+            "user": "Artur Śmieja",
+            "uid": 18137829,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "516151152"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296555509,
+            "lat": 52.5132579,
+            "lon": 16.2495573,
+            "timestamp": "2022-12-31T09:38:01Z",
+            "version": 1,
+            "changeset": 130713657,
+            "user": "Adrian Fitzner",
+            "uid": 18137887,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Fasada drewnianego  budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296555510,
+            "lat": 49.7217919,
+            "lon": 19.2642296,
+            "timestamp": "2022-12-31T09:41:35Z",
+            "version": 1,
+            "changeset": 130713745,
+            "user": "Ruspiotrek",
+            "uid": 18137938,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "W samochodzie ratowniczo - gaśniczym. Ręcznie uruchomić syrenę alarmową, której przycisk znajduję się od strony ulicy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296556609,
+            "lat": 52.4527944,
+            "lon": 14.871855,
+            "timestamp": "2022-12-31T09:40:07Z",
+            "version": 1,
+            "changeset": 130713701,
+            "user": "RobertWargol",
+            "uid": 18137905,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Remiza OSP w celu uzyskania pomocy zbić szybkę przy drzwiach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48605221907"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296556610,
+            "lat": 50.0932908,
+            "lon": 18.1990324,
+            "timestamp": "2022-12-31T09:46:38Z",
+            "version": 1,
+            "changeset": 130713859,
+            "user": "KierowcaPL",
+            "uid": 18138004,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "AED Znajduje się przy głównym wejściu od razu za drzwiami na ścianie. Obok od razu jest pomieszczenie ochrony.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296556809,
+            "lat": 52.507346,
+            "lon": 16.2505945,
+            "timestamp": "2022-12-31T09:40:44Z",
+            "version": 1,
+            "changeset": 130713713,
+            "user": "Adrian Fitzner",
+            "uid": 18137887,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Ściana budynku Straży Miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296556810,
+            "lat": 52.5076136,
+            "lon": 16.2545985,
+            "timestamp": "2022-12-31T09:42:44Z",
+            "version": 1,
+            "changeset": 130713713,
+            "user": "Adrian Fitzner",
+            "uid": 18137887,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Defibrylator AED w wozie Strażackim",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296558609,
+            "lat": 53.6659675,
+            "lon": 15.4455687,
+            "timestamp": "2022-12-31T09:42:47Z",
+            "version": 1,
+            "changeset": 130713766,
+            "user": "Artur Piedo",
+            "uid": 18137826,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "505372368"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296558909,
+            "lat": 52.2528778,
+            "lon": 20.7338196,
+            "timestamp": "2022-12-31T09:42:57Z",
+            "version": 1,
+            "changeset": 130713771,
+            "user": "Hubert0570",
+            "uid": 14812279,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Ochotnicza Straż Pożarna w Borzęcinie Dużym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 22 752 07 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296565309,
+            "lat": 53.2037649,
+            "lon": 16.5818076,
+            "timestamp": "2022-12-31T09:48:28Z",
+            "version": 1,
+            "changeset": 130713917,
+            "user": "Marcin Tunkiewicz",
+            "uid": 18137922,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296565509,
+            "lat": 53.203742,
+            "lon": 16.5817453,
+            "timestamp": "2022-12-31T09:49:27Z",
+            "version": 1,
+            "changeset": 130713942,
+            "user": "Marcin Tunkiewicz",
+            "uid": 18137922,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Samochod ratowniczo-gaśniczy",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296574809,
+            "lat": 50.1098001,
+            "lon": 18.2765454,
+            "timestamp": "2022-12-31T10:03:10Z",
+            "version": 1,
+            "changeset": 130714283,
+            "user": "GruchaRD",
+            "uid": 18138111,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "518223578"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296576209,
+            "lat": 50.1132128,
+            "lon": 18.2749749,
+            "timestamp": "2022-12-31T10:04:24Z",
+            "version": 1,
+            "changeset": 130714283,
+            "user": "GruchaRD",
+            "uid": 18138111,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Na ścianie budynku przy wejściu do przedszkola",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296577210,
+            "lat": 52.319119,
+            "lon": 21.0966189,
+            "timestamp": "2022-12-31T10:08:55Z",
+            "version": 1,
+            "changeset": 130714433,
+            "user": "misio6",
+            "uid": 18138138,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Wewnątrz przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "884966660"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296582910,
+            "lat": 54.1050534,
+            "lon": 22.9386436,
+            "timestamp": "2022-12-31T10:25:27Z",
+            "version": 1,
+            "changeset": 130714839,
+            "user": "elot360",
+            "uid": 3068878,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-28",
+                "defibrillator:location:en": "Na filarze od daszku nad wejściem do poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296590809,
+            "lat": 54.3586613,
+            "lon": 16.5124621,
+            "timestamp": "2022-12-31T10:24:32Z",
+            "version": 1,
+            "changeset": 130714820,
+            "user": "ola2007",
+            "uid": 18138297,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Budynek remizy OSP Słowino",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
