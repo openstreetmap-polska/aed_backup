@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T12:31:24Z",
-        "timestamp_areas_base": "2022-12-31T12:04:43Z",
+        "timestamp_osm_base": "2022-12-31T13:31:59Z",
+        "timestamp_areas_base": "2022-12-31T13:05:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82342,6 +82342,58 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "261168350"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296736790,
+            "lat": 53.7840748,
+            "lon": 16.1789991,
+            "timestamp": "2022-12-31T12:46:34Z",
+            "version": 1,
+            "changeset": 130719155,
+            "user": "malin2k5",
+            "uid": 18139236,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296814009,
+            "lat": 52.8806713,
+            "lon": 16.0170139,
+            "timestamp": "2022-12-31T13:28:53Z",
+            "version": 1,
+            "changeset": 130720658,
+            "user": "OSPKrzyz",
+            "uid": 18139674,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "AED umieszczony w samochodzie bojowym SLRT 419[P]13",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "998, 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296816409,
+            "lat": 52.8806866,
+            "lon": 16.0169582,
+            "timestamp": "2022-12-31T13:29:34Z",
+            "version": 1,
+            "changeset": 130720658,
+            "user": "OSPKrzyz",
+            "uid": 18139674,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "AED umieszczony na samochodzie bojowym GCBA 419[P]12",
+                "emergency": "defibrillator",
+                "phone": "998, 112"
             }
         }
     ]
