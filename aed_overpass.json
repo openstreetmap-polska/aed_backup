@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T11:31:52Z",
-        "timestamp_areas_base": "2022-12-31T11:04:24Z",
+        "timestamp_osm_base": "2022-12-31T12:31:24Z",
+        "timestamp_areas_base": "2022-12-31T12:04:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -25255,17 +25255,19 @@
             "id": 9453974296,
             "lat": 51.9870943,
             "lon": 19.878597,
-            "timestamp": "2022-01-27T20:56:36Z",
-            "version": 1,
-            "changeset": 116682229,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-12-31T12:19:16Z",
+            "version": 2,
+            "changeset": 130718286,
+            "user": "Darek1983",
+            "uid": 18139096,
             "tags": {
-                "access": "private",
+                "access": "permit",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Łyszkowice"
+                "indoor": "yes",
+                "kontak": "112",
+                "operator": "OSP Czatolin"
             }
         },
         {
@@ -78244,15 +78246,17 @@
             "id": 10242018433,
             "lat": 53.1339584,
             "lon": 23.1351912,
-            "timestamp": "2022-12-06T10:06:31Z",
-            "version": 1,
-            "changeset": 129775686,
+            "timestamp": "2022-12-31T12:15:14Z",
+            "version": 2,
+            "changeset": 130718151,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
                 "access": "permissive",
                 "defibrillator:location": "W budynku dworca",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
                 "opening_hours": "03:30-24:00",
                 "operator": "PKP"
             }
@@ -82264,6 +82268,80 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 508 941 496"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296676510,
+            "lat": 51.7365505,
+            "lon": 19.3979164,
+            "timestamp": "2022-12-31T11:49:01Z",
+            "version": 1,
+            "changeset": 130717409,
+            "user": "Tobiaszto",
+            "uid": 18138857,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Dyżurka OPP Łódź",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296689009,
+            "lat": 51.372518,
+            "lon": 20.0390458,
+            "timestamp": "2022-12-31T11:49:14Z",
+            "version": 1,
+            "changeset": 130717418,
+            "user": "gummibear",
+            "uid": 18138891,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy MAN TGL 12.250 OSP Mniszków",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296700009,
+            "lat": 51.3725084,
+            "lon": 20.0391021,
+            "timestamp": "2022-12-31T11:54:32Z",
+            "version": 1,
+            "changeset": 130717588,
+            "user": "gummibear",
+            "uid": 18138891,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy MAN 12.250 TGL OSP MNISZKÓW",
+                "emergency": "defibrillator",
+                "phone": "998 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296710010,
+            "lat": 51.9960266,
+            "lon": 19.1474424,
+            "timestamp": "2022-12-31T12:06:42Z",
+            "version": 1,
+            "changeset": 130717930,
+            "user": "tomasek11",
+            "uid": 18138961,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "AED u oficera dyżurnego garnizonu Łęczyca",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "261168350"
             }
         }
     ]
