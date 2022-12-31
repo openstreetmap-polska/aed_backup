@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T18:31:50Z",
-        "timestamp_areas_base": "2022-12-31T18:07:31Z",
+        "timestamp_osm_base": "2022-12-31T19:32:12Z",
+        "timestamp_areas_base": "2022-12-31T19:08:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2816,13 +2816,17 @@
             "id": 7474230189,
             "lat": 50.2217789,
             "lon": 19.9781249,
-            "timestamp": "2020-05-02T18:11:13Z",
-            "version": 1,
-            "changeset": 84532153,
-            "user": "Mkix",
-            "uid": 10743763,
+            "timestamp": "2022-12-31T18:59:32Z",
+            "version": 2,
+            "changeset": 130731419,
+            "user": "adamdu",
+            "uid": 4454542,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Umieszczeony na zewnętrznej ścianie budynku remizy OSP Iwanowice.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Gmina Iwanowice, OSP Iwanowice"
             }
         },
         {
@@ -25238,17 +25242,17 @@
             "id": 9453974295,
             "lat": 51.9596583,
             "lon": 19.8911483,
-            "timestamp": "2022-01-27T20:56:36Z",
-            "version": 1,
-            "changeset": 116682229,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2022-12-31T19:13:04Z",
+            "version": 2,
+            "changeset": 130731673,
+            "user": "Darek1983",
+            "uid": 18139096,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Czatolin"
+                "operator": "OSP Kalenice"
             }
         },
         {
@@ -25256,14 +25260,13 @@
             "id": 9453974296,
             "lat": 51.9870943,
             "lon": 19.878597,
-            "timestamp": "2022-12-31T12:19:16Z",
-            "version": 2,
-            "changeset": 130718286,
+            "timestamp": "2022-12-31T19:17:00Z",
+            "version": 3,
+            "changeset": 130731744,
             "user": "Darek1983",
             "uid": 18139096,
             "tags": {
                 "access": "permit",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -82500,20 +82503,59 @@
         {
             "type": "node",
             "id": 10297062409,
-            "lat": 51.4110521,
-            "lon": 21.387244,
-            "timestamp": "2022-12-31T16:23:11Z",
+            "lat": 51.4108335,
+            "lon": 21.3873222,
+            "timestamp": "2022-12-31T18:32:46Z",
+            "version": 2,
+            "changeset": 130730916,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "W budynku OSP Słupica",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Słupica",
+                "phone": "+48 723 515 682"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297270470,
+            "lat": 51.3768892,
+            "lon": 20.9568379,
+            "timestamp": "2022-12-31T18:40:02Z",
             "version": 1,
-            "changeset": 130727440,
-            "user": "Jakub Wachnicki",
-            "uid": 17655008,
+            "changeset": 130731053,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na terenie zakładu produkcyjnego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zakład Produkcyjny Pipelife",
+                "phone": "48 618 77 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297295309,
+            "lat": 52.6264532,
+            "lon": 18.1710496,
+            "timestamp": "2022-12-31T18:49:55Z",
+            "version": 1,
+            "changeset": 130731236,
+            "user": "juniorseba24",
+            "uid": 9319500,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-31",
-                "defibrillator:location:pl": "W budynku OSP Słupica.",
+                "defibrillator:location:pl": "W pojeździe ratowniczym",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 723 515 682"
+                "phone": "+48 523189208"
             }
         }
     ]
