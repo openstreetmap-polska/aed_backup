@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T13:31:59Z",
-        "timestamp_areas_base": "2022-12-31T13:05:24Z",
+        "timestamp_osm_base": "2022-12-31T14:31:34Z",
+        "timestamp_areas_base": "2022-12-31T14:04:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82394,6 +82394,62 @@
                 "defibrillator:location:pl": "AED umieszczony na samochodzie bojowym GCBA 419[P]12",
                 "emergency": "defibrillator",
                 "phone": "998, 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296834410,
+            "lat": 52.0816429,
+            "lon": 18.3230179,
+            "timestamp": "2022-12-31T13:44:33Z",
+            "version": 1,
+            "changeset": 130721286,
+            "user": "Sikor112",
+            "uid": 18139729,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W ambulansie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "725472560"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296886509,
+            "lat": 50.2956817,
+            "lon": 19.3815991,
+            "timestamp": "2022-12-31T14:16:54Z",
+            "version": 1,
+            "changeset": 130722594,
+            "user": "Kamil Skubis",
+            "uid": 18139966,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:en": "Wyposażenie wozu strażackiego Ochotniczej Straży Pożarnej w Sławkowie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112/998/999"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296888909,
+            "lat": 50.2772893,
+            "lon": 19.3395711,
+            "timestamp": "2022-12-31T14:19:04Z",
+            "version": 1,
+            "changeset": 130722594,
+            "user": "Kamil Skubis",
+            "uid": 18139966,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:en": "Wyposażenie pojazdu specjalistycznej grupy ratownictwa terenowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48790552592"
             }
         }
     ]
