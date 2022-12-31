@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T14:31:34Z",
-        "timestamp_areas_base": "2022-12-31T14:04:54Z",
+        "timestamp_osm_base": "2022-12-31T15:36:24Z",
+        "timestamp_areas_base": "2022-12-31T15:06:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10686,16 +10686,17 @@
             "id": 9407296917,
             "lat": 50.5765517,
             "lon": 16.5037597,
-            "timestamp": "2022-01-10T11:19:00Z",
-            "version": 1,
-            "changeset": 115977205,
-            "user": "asd1asd",
-            "uid": 8067678,
+            "timestamp": "2022-12-31T15:28:34Z",
+            "version": 2,
+            "changeset": 130725398,
+            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
+            "uid": 18140509,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Miejski Ośrodek Kultury ul. Strzelecka 2",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "location": "indoor",
+                "operator": "Miejski Ośrodek Kultury"
             }
         },
         {
@@ -54387,20 +54388,23 @@
         {
             "type": "node",
             "id": 9609503557,
-            "lat": 53.6659656,
-            "lon": 15.445568,
-            "timestamp": "2022-03-26T18:33:00Z",
-            "version": 1,
-            "changeset": 118958457,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 53.6657828,
+            "lon": 15.4462393,
+            "timestamp": "2022-12-31T15:27:56Z",
+            "version": 2,
+            "changeset": 130725364,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
+                "check_date": "2022-12-31",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Radowo Małe",
-                "phone": "+48 609 643 018"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Radowie Małym",
+                "phone": "+48505372368"
             }
         },
         {
@@ -81958,20 +81962,24 @@
         {
             "type": "node",
             "id": 10296558609,
-            "lat": 53.6659675,
-            "lon": 15.4455687,
-            "timestamp": "2022-12-31T09:42:47Z",
-            "version": 1,
-            "changeset": 130713766,
-            "user": "Artur Piedo",
-            "uid": 18137826,
+            "lat": 53.665841,
+            "lon": 15.4463365,
+            "timestamp": "2022-12-31T15:27:56Z",
+            "version": 2,
+            "changeset": 130725364,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-31",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall at the entrance",
                 "defibrillator:location:pl": "Na ścianie przy wejściu",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "505372368"
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Radowie Małym",
+                "phone": "+48505372368"
             }
         },
         {
@@ -82116,25 +82124,6 @@
                 "defibrillator:location:pl": "Budynek remizy OSP Słowino",
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10296632909,
-            "lat": 53.6657828,
-            "lon": 15.4462393,
-            "timestamp": "2022-12-31T11:05:46Z",
-            "version": 1,
-            "changeset": 130716042,
-            "user": "OSP RADOWO MAŁE",
-            "uid": 18138614,
-            "tags": {
-                "access": "yes",
-                "check_date": "2022-12-31",
-                "defibrillator:location:pl": "Na ścianie Remizy OSP Radowo Małe",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "phone": "999 112"
             }
         },
         {
@@ -82450,6 +82439,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48790552592"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296968909,
+            "lat": 50.6013841,
+            "lon": 16.5065332,
+            "timestamp": "2022-12-31T15:21:46Z",
+            "version": 1,
+            "changeset": 130725079,
+            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
+            "uid": 18140509,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "W ambulansie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "600 590 112"
             }
         }
     ]
