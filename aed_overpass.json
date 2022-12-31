@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T19:32:12Z",
-        "timestamp_areas_base": "2022-12-31T19:08:08Z",
+        "timestamp_osm_base": "2022-12-31T20:32:20Z",
+        "timestamp_areas_base": "2022-12-31T20:08:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11161,17 +11161,19 @@
             "id": 9412022317,
             "lat": 51.9336549,
             "lon": 22.2483297,
-            "timestamp": "2022-01-12T07:20:07Z",
-            "version": 1,
-            "changeset": 116053574,
+            "timestamp": "2022-12-31T20:02:42Z",
+            "version": 2,
+            "changeset": 130732509,
             "user": "Rafalllle",
             "uid": 14834401,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Na samochodzie osp",
+                "defibrillator:location": "Na samochodzie osp , wrazie zdarzenia prosze o podanie dyspozytorowi 112 żeby zadysponowal zastep z OSP.",
                 "defibrillator:location:en": "On the car",
                 "emergency": "defibrillator",
-                "location": "indoor"
+                "indoor": "yes",
+                "location": "indoor",
+                "operator": "OSP KSRG Dąbie"
             }
         },
         {
@@ -82556,6 +82558,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 523189208"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297413809,
+            "lat": 50.8922103,
+            "lon": 15.7487129,
+            "timestamp": "2022-12-31T20:11:12Z",
+            "version": 1,
+            "changeset": 130732637,
+            "user": "SemperLupus",
+            "uid": 18142071,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Stacja centralna Grupy Karkonoskiej GOPR",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297414409,
+            "lat": 50.8177677,
+            "lon": 15.5202171,
+            "timestamp": "2022-12-31T20:12:46Z",
+            "version": 1,
+            "changeset": 130732637,
+            "user": "SemperLupus",
+            "uid": 18142071,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Stacja ratunkowa GOPR Marysienka",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
