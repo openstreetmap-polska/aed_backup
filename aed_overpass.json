@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T04:33:40Z",
-        "timestamp_areas_base": "2022-12-31T04:03:09Z",
+        "timestamp_osm_base": "2022-12-31T05:33:52Z",
+        "timestamp_areas_base": "2022-12-31T05:03:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -81729,6 +81729,24 @@
                 "access": "customers",
                 "check_date": "2022-12-30",
                 "defibrillator:location:pl": "Budynek wewnętrznej służby BHP.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296364709,
+            "lat": 51.4152571,
+            "lon": 18.6069675,
+            "timestamp": "2022-12-31T05:14:01Z",
+            "version": 1,
+            "changeset": 130709349,
+            "user": "OSP Złoczew",
+            "uid": 18136498,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "Samochód Ratowniczo- Gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
