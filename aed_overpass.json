@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2022-12-31T15:36:24Z",
-        "timestamp_areas_base": "2022-12-31T15:06:40Z",
+        "timestamp_osm_base": "2022-12-31T16:31:44Z",
+        "timestamp_areas_base": "2022-12-31T16:06:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82446,9 +82446,9 @@
             "id": 10296968909,
             "lat": 50.6013841,
             "lon": 16.5065332,
-            "timestamp": "2022-12-31T15:21:46Z",
-            "version": 1,
-            "changeset": 130725079,
+            "timestamp": "2022-12-31T15:38:41Z",
+            "version": 2,
+            "changeset": 130725836,
             "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
             "uid": 18140509,
             "tags": {
@@ -82457,7 +82457,63 @@
                 "defibrillator:location:pl": "W ambulansie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Grupa Poszukiwawczo-Ratownicza LIFE",
                 "phone": "600 590 112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10296987309,
+            "lat": 52.3105858,
+            "lon": 20.9177654,
+            "timestamp": "2022-12-31T15:49:42Z",
+            "version": 2,
+            "changeset": 130726255,
+            "user": "thevoitek",
+            "uid": 18140640,
+            "tags": {
+                "access": "permissive",
+                "check_date": "2022-12-31",
+                "defibrillator:location:en": "Hallway at the ground floor in UKSW Collegium Medicum's building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Wydział Medyczny. Collegium Medicum UKSW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297014946,
+            "lat": 54.4327362,
+            "lon": 18.5859697,
+            "timestamp": "2022-12-31T15:53:15Z",
+            "version": 1,
+            "changeset": 130726393,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Łódź ratownicza",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297062409,
+            "lat": 51.4110521,
+            "lon": 21.387244,
+            "timestamp": "2022-12-31T16:23:11Z",
+            "version": 1,
+            "changeset": 130727440,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-31",
+                "defibrillator:location:pl": "W budynku OSP Słupica.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 723 515 682"
             }
         }
     ]
