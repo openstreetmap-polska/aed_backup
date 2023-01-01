@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T14:31:53Z",
-        "timestamp_areas_base": "2023-01-01T14:12:39Z",
+        "timestamp_osm_base": "2023-01-01T15:31:39Z",
+        "timestamp_areas_base": "2023-01-01T15:12:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82684,6 +82684,80 @@
                 "defibrillator:location:pl": "Na ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298338782,
+            "lat": 49.9599204,
+            "lon": 19.66686,
+            "timestamp": "2023-01-01T15:21:47Z",
+            "version": 1,
+            "changeset": 130752583,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Pojazd ratowniczo-gaśniczy.",
+                "defibrillator:location:aed": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Jaśkowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298354509,
+            "lat": 51.1515378,
+            "lon": 17.1309516,
+            "timestamp": "2023-01-01T15:21:58Z",
+            "version": 1,
+            "changeset": 130752595,
+            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
+            "uid": 18140509,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "II piętro oddział rehabilitacji - pielęgniarki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298356109,
+            "lat": 51.1322136,
+            "lon": 17.078339,
+            "timestamp": "2023-01-01T15:24:31Z",
+            "version": 1,
+            "changeset": 130752595,
+            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
+            "uid": 18140509,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Portiernia na parterze czynne całodobowo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298356609,
+            "lat": 51.1317117,
+            "lon": 17.0745805,
+            "timestamp": "2023-01-01T15:25:27Z",
+            "version": 1,
+            "changeset": 130752595,
+            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
+            "uid": 18140509,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Portiernia na parterze czynne całodobowo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]

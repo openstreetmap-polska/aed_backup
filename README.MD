@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-01 14:33:08)
+# AED backup and stats (2023-01-01 15:33:08)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4483
+Total AED: 4487
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2023-01-01: 4483\
-Average daily growth since beginning of the year: 6.00
+AED for 2023-01-01: 4487\
+Average daily growth since beginning of the year: 10.00
 
 ## Top creators
 | # | User | Created |
@@ -17,7 +17,7 @@ Average daily growth since beginning of the year: 6.00
 | 2 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 359 |
 | 3 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 4 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 331 |
-| 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 281 |
+| 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 282 |
 | 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 260 |
 | 7 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 143 |
 | 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 107 |
@@ -31,13 +31,13 @@ Average daily growth since beginning of the year: 6.00
 | 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
 | 18 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
+| 19 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
+| 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
 | 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
 | 22 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 25 |
 | 23 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
-| 25 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
+| 25 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
 
 ## Tag access pie
 ![](report_data/tag_access.svg)
