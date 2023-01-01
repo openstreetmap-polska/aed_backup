@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T21:32:04Z",
-        "timestamp_areas_base": "2023-01-01T21:16:54Z",
+        "timestamp_osm_base": "2023-01-01T22:31:55Z",
+        "timestamp_areas_base": "2023-01-01T22:17:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -17508,13 +17508,13 @@
         {
             "type": "node",
             "id": 9438078906,
-            "lat": 52.29054,
-            "lon": 21.12163,
-            "timestamp": "2022-01-21T21:15:09Z",
-            "version": 1,
-            "changeset": 116447996,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 52.2905769,
+            "lon": 21.1219907,
+            "timestamp": "2023-01-01T21:43:27Z",
+            "version": 2,
+            "changeset": 130764710,
+            "user": "Andrzej3345",
+            "uid": 1875665,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Wisi na ścianie obok kas.",
@@ -83127,6 +83127,25 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "PSP JRG Goleniów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299380710,
+            "lat": 49.9389232,
+            "lon": 18.2915238,
+            "timestamp": "2023-01-01T21:42:17Z",
+            "version": 1,
+            "changeset": 130764679,
+            "user": "bene1994",
+            "uid": 4255552,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Urochom syrenę przyciskiem na budynku, AED w pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 47 851 85 15"
             }
         }
     ]
