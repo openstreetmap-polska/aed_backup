@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T20:32:10Z",
-        "timestamp_areas_base": "2023-01-01T20:15:55Z",
+        "timestamp_osm_base": "2023-01-01T21:32:04Z",
+        "timestamp_areas_base": "2023-01-01T21:16:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14343,21 +14343,20 @@
             "id": 9425131320,
             "lat": 53.5658582,
             "lon": 14.8302623,
-            "timestamp": "2022-04-18T15:12:05Z",
-            "version": 9,
-            "changeset": 119864309,
+            "timestamp": "2023-01-01T20:43:25Z",
+            "version": 10,
+            "changeset": 130763182,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "Biuro Obsługi Interesanta",
                 "defibrillator:location:en": "Customer Service Office",
                 "emergency": "defibrillator",
-                "emergency:phone": "986; 0 800 69 69 01",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 07:30-15:30",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "operator": "Gmina Goleniów",
-                "phone": "+48914698268"
+                "phone": "+48 91 46 98 268; 0 800 69 69 01"
             }
         },
         {
@@ -25264,18 +25263,18 @@
             "id": 9453974296,
             "lat": 51.9870943,
             "lon": 19.878597,
-            "timestamp": "2022-12-31T19:17:00Z",
-            "version": 3,
-            "changeset": 130731744,
-            "user": "Darek1983",
-            "uid": 18139096,
+            "timestamp": "2023-01-01T20:58:36Z",
+            "version": 4,
+            "changeset": 130763608,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "permit",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "kontak": "112",
-                "operator": "OSP Czatolin"
+                "operator": "OSP Czatolin",
+                "phone": "112"
             }
         },
         {
@@ -35065,13 +35064,14 @@
             "id": 9490605271,
             "lat": 53.5565584,
             "lon": 14.8277386,
-            "timestamp": "2022-04-18T15:12:05Z",
-            "version": 6,
-            "changeset": 119864309,
+            "timestamp": "2023-01-01T20:36:28Z",
+            "version": 7,
+            "changeset": 130762999,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
+                "check_date": "2022-12-28",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -35084,22 +35084,21 @@
         {
             "type": "node",
             "id": 9490605272,
-            "lat": 53.5585773,
-            "lon": 14.8259989,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 7,
-            "changeset": 117701605,
+            "lat": 53.5584805,
+            "lon": 14.8260554,
+            "timestamp": "2023-01-01T20:38:29Z",
+            "version": 8,
+            "changeset": 130763055,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Fr 07:30-16:00",
+                "opening_hours": "Mo-Fr 07:30-16:00; Sa,Su off",
                 "operator": "OSiR Goleniów",
-                "phone": "+48 91 407 15 02",
-                "phone_1": "+48 91 418 21 04"
+                "phone": "+48 91 407 15 02; +48 91 418 21 04"
             }
         },
         {
@@ -35107,42 +35106,42 @@
             "id": 9490700852,
             "lat": 53.5627194,
             "lon": 14.8329835,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "timestamp": "2023-01-01T20:40:26Z",
+            "version": 5,
+            "changeset": 130763103,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "Polmed. Pokój nr 3 - gabinet zabiegowy.",
                 "defibrillator:location:en": "Polmed. Room no. 3 - treatment room.",
                 "description": "Polmed-Przychodnia",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 08:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off",
                 "operator": "Polmed-Przychodnia Sp. z o.o.",
-                "phone": "+48914191505"
+                "phone": "+48 91 419 15 05"
             }
         },
         {
             "type": "node",
             "id": 9490773429,
-            "lat": 53.5587516,
-            "lon": 14.83815,
-            "timestamp": "2022-12-28T17:10:33Z",
-            "version": 6,
-            "changeset": 130611316,
+            "lat": 53.5587882,
+            "lon": 14.8381499,
+            "timestamp": "2023-01-01T20:34:44Z",
+            "version": 7,
+            "changeset": 130762958,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "check_date": "2022-12-28",
                 "defibrillator:location": "Na ścianie po lewej stronie Biura Obsługi Interesanta Starostwa",
                 "defibrillator:location:en": "On the wall to the left of the Starosty Customer Service Office.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Su 07:30-15:30",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "operator": "Starostwo Powiatowe w Goleniowie",
                 "phone": "+48 91 471 02 65",
                 "wheelchair": "limited"
@@ -35153,13 +35152,13 @@
             "id": 9490773430,
             "lat": 53.5619953,
             "lon": 14.8373803,
-            "timestamp": "2022-10-15T18:30:46Z",
-            "version": 6,
-            "changeset": 127583550,
+            "timestamp": "2023-01-01T20:41:04Z",
+            "version": 7,
+            "changeset": 130763121,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "contact:phone": "+48 91 418 21 04",
                 "defibrillator:location": "Hala sportowa w pokoju gospodarza hali",
                 "defibrillator:location:en": "Sports hall - in the hall's host room.",
@@ -35175,19 +35174,19 @@
             "id": 9490773431,
             "lat": 53.5581465,
             "lon": 14.8446184,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 6,
-            "changeset": 117701605,
+            "timestamp": "2023-01-01T20:46:39Z",
+            "version": 7,
+            "changeset": 130763294,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Fr 07:00-15:00",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Wodociągi Zachodniopomorskie",
-                "phone": "+4891 418 44 31",
+                "phone": "+48 91 418 44 31",
                 "wheelchair": "no"
             }
         },
@@ -35196,19 +35195,18 @@
             "id": 9490795357,
             "lat": 53.5559339,
             "lon": 14.8492825,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "timestamp": "2023-01-01T20:48:11Z",
+            "version": 5,
+            "changeset": 130763344,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 07:00-15:00",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Goleniowskie Wodociągi i Kanalizacja",
-                "phone": "+4891 407 25 31",
-                "phone_1": "+4891 881 23 28"
+                "phone": "+48 91 407 25 31; +48 91 881 23 28"
             }
         },
         {
@@ -35258,17 +35256,19 @@
             "id": 9492457194,
             "lat": 53.5933708,
             "lon": 14.8942614,
-            "timestamp": "2022-02-09T14:15:53Z",
-            "version": 1,
-            "changeset": 117204658,
+            "timestamp": "2023-01-01T21:01:46Z",
+            "version": 2,
+            "changeset": 130763696,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-We 04:00-24:00; Th 06:00-24:00; Fr 04:00-00:00; Sa-Su 06:00-00:00",
                 "operator": "Port Lotniczy Szczecin Goleniów",
                 "operator:en": "Szczecin Goleniow Airport",
-                "phone": "+48914817400"
+                "phone": "+48 91 481 74 00; +48 703 202 002"
             }
         },
         {
@@ -35276,17 +35276,19 @@
             "id": 9492457195,
             "lat": 53.5058009,
             "lon": 14.7009526,
-            "timestamp": "2022-02-19T18:38:51Z",
-            "version": 2,
-            "changeset": 117615410,
+            "timestamp": "2023-01-01T20:55:21Z",
+            "version": 3,
+            "changeset": 130763496,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
+                "access": "customers",
                 "defibrillator:location:en": "At WOPR water rescuers",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "Jul-Aug Mo-Su 10:00-18:00",
                 "operator": "OSiR Goleniów",
-                "phone": "+48914182104"
+                "phone": "+48 91 418 21 04"
             }
         },
         {
@@ -75247,13 +75249,13 @@
             "id": 10166687242,
             "lat": 53.5594158,
             "lon": 14.8393371,
-            "timestamp": "2022-12-28T17:47:31Z",
-            "version": 5,
-            "changeset": 130612662,
+            "timestamp": "2023-01-01T20:45:26Z",
+            "version": 6,
+            "changeset": 130763263,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "check_date": "2022-12-28",
                 "defibrillator:location": "W budynu dworca, przy kasach w sąsiedztwie wyjścia na perony.",
                 "defibrillator:location:en": "In the train station building, at the ticket offices, next to the platform exit.",
@@ -75440,13 +75442,13 @@
             "id": 10170940487,
             "lat": 53.5706003,
             "lon": 14.821556,
-            "timestamp": "2022-11-09T09:29:53Z",
-            "version": 2,
-            "changeset": 128676666,
+            "timestamp": "2023-01-01T20:44:12Z",
+            "version": 3,
+            "changeset": 130763208,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "defibrillator:location": "Pomieszczenie ratowników w hali basenowej pływalni \"Fala\".",
                 "defibrillator:location:en": "Lifeguard room in the \"Fala\" swimming pool hall.",
                 "emergency": "defibrillator",
@@ -81874,18 +81876,18 @@
             "id": 10296552611,
             "lat": 49.8892057,
             "lon": 18.8022003,
-            "timestamp": "2022-12-31T09:35:28Z",
-            "version": 1,
-            "changeset": 130713597,
-            "user": "Artur Śmieja",
-            "uid": 18137829,
+            "timestamp": "2023-01-01T20:52:53Z",
+            "version": 2,
+            "changeset": 130763436,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "516151152"
+                "phone": "+48 516 151 152"
             }
         },
         {
@@ -82078,17 +82080,17 @@
             "id": 10296574809,
             "lat": 50.1098001,
             "lon": 18.2765454,
-            "timestamp": "2022-12-31T10:03:10Z",
-            "version": 1,
-            "changeset": 130714283,
-            "user": "GruchaRD",
-            "uid": 18138111,
+            "timestamp": "2023-01-01T20:55:16Z",
+            "version": 2,
+            "changeset": 130763495,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "518223578"
+                "phone": "+48 518 223 578"
             }
         },
         {
@@ -82114,18 +82116,18 @@
             "id": 10296577210,
             "lat": 52.319119,
             "lon": 21.0966189,
-            "timestamp": "2022-12-31T10:08:55Z",
-            "version": 1,
-            "changeset": 130714433,
-            "user": "misio6",
-            "uid": 18138138,
+            "timestamp": "2023-01-01T20:55:46Z",
+            "version": 2,
+            "changeset": 130763510,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Wewnątrz przy wejściu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "884966660"
+                "phone": "+48 884 966 660"
             }
         },
         {
@@ -82339,17 +82341,17 @@
             "id": 10296700009,
             "lat": 51.3725084,
             "lon": 20.0391021,
-            "timestamp": "2022-12-31T11:54:32Z",
-            "version": 1,
-            "changeset": 130717588,
-            "user": "gummibear",
-            "uid": 18138891,
+            "timestamp": "2023-01-01T20:57:44Z",
+            "version": 2,
+            "changeset": 130763569,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy MAN 12.250 TGL OSP MNISZKÓW",
                 "emergency": "defibrillator",
-                "phone": "998 112"
+                "phone": "112"
             }
         },
         {
@@ -82357,18 +82359,18 @@
             "id": 10296710010,
             "lat": 51.9960266,
             "lon": 19.1474424,
-            "timestamp": "2022-12-31T12:06:42Z",
-            "version": 1,
-            "changeset": 130717930,
-            "user": "tomasek11",
-            "uid": 18138961,
+            "timestamp": "2023-01-01T20:58:09Z",
+            "version": 2,
+            "changeset": 130763584,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "AED u oficera dyżurnego garnizonu Łęczyca",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "261168350"
+                "phone": "+48 261 168 350"
             }
         },
         {
@@ -82391,18 +82393,18 @@
             "id": 10296814009,
             "lat": 52.8806713,
             "lon": 16.0170139,
-            "timestamp": "2022-12-31T13:28:53Z",
-            "version": 1,
-            "changeset": 130720658,
-            "user": "OSPKrzyz",
-            "uid": 18139674,
+            "timestamp": "2023-01-01T20:59:18Z",
+            "version": 2,
+            "changeset": 130763628,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "AED umieszczony w samochodzie bojowym SLRT 419[P]13",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "998, 112"
+                "phone": "112"
             }
         },
         {
@@ -82410,17 +82412,18 @@
             "id": 10296816409,
             "lat": 52.8806866,
             "lon": 16.0169582,
-            "timestamp": "2022-12-31T13:29:34Z",
-            "version": 1,
-            "changeset": 130720658,
-            "user": "OSPKrzyz",
-            "uid": 18139674,
+            "timestamp": "2023-01-01T20:59:18Z",
+            "version": 2,
+            "changeset": 130763628,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "AED umieszczony na samochodzie bojowym GCBA 419[P]12",
                 "emergency": "defibrillator",
-                "phone": "998, 112"
+                "indoor": "yes",
+                "phone": "112"
             }
         },
         {
@@ -82428,17 +82431,17 @@
             "id": 10296834410,
             "lat": 52.0816429,
             "lon": 18.3230179,
-            "timestamp": "2022-12-31T13:44:33Z",
-            "version": 1,
-            "changeset": 130721286,
-            "user": "Sikor112",
-            "uid": 18139729,
+            "timestamp": "2023-01-01T20:59:38Z",
+            "version": 2,
+            "changeset": 130763633,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W ambulansie",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "725472560"
+                "phone": "+48 725 472 560"
             }
         },
         {
@@ -82446,18 +82449,18 @@
             "id": 10296886509,
             "lat": 50.2956817,
             "lon": 19.3815991,
-            "timestamp": "2022-12-31T14:16:54Z",
-            "version": 1,
-            "changeset": 130722594,
-            "user": "Kamil Skubis",
-            "uid": 18139966,
+            "timestamp": "2023-01-01T21:00:24Z",
+            "version": 2,
+            "changeset": 130763666,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "check_date": "2022-12-31",
                 "defibrillator:location:en": "Wyposażenie wozu strażackiego Ochotniczej Straży Pożarnej w Sławkowie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "112/998/999"
+                "phone": "112"
             }
         },
         {
@@ -82892,15 +82895,15 @@
             "id": 10298707809,
             "lat": 52.140868,
             "lon": 16.8928131,
-            "timestamp": "2023-01-01T20:19:37Z",
-            "version": 3,
-            "changeset": 130762585,
+            "timestamp": "2023-01-01T21:31:17Z",
+            "version": 7,
+            "changeset": 130764434,
             "user": "OSP Brodnica",
             "uid": 18148370,
             "tags": {
-                "access": "permissive",
+                "access": "private",
                 "check_date": "2023-01-01",
-                "defibrillator:location:pl": "Remiza OSP Brodnica, ul. Parkowa 1, 63-112 Brodnica. AED znajduje się na wyposażeniu wozu strażackiego OSP Brodnica GBA-Rt IVECO 609p01. Przed wejściem do remizy znajduje się przycisk pozwalający uruchomić syrenę wzywającą strażaków ochotników do remizy.",
+                "defibrillator:location:pl": "Remiza OSP Brodnica. AED znajduje się na wyposażeniu wozu strażackiego. Przed wejściem do remizy znajduje się przycisk pozwalający uruchomić syrenę wzywającą strażaków ochotników do remizy.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -83103,6 +83106,27 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Kopanka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299328434,
+            "lat": 53.5593065,
+            "lon": 14.830519,
+            "timestamp": "2023-01-01T20:53:08Z",
+            "version": 1,
+            "changeset": 130763441,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "PSP JRG Goleniów"
             }
         }
     ]
