@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T09:32:38Z",
-        "timestamp_areas_base": "2023-01-01T09:11:21Z",
+        "timestamp_osm_base": "2023-01-01T10:32:40Z",
+        "timestamp_areas_base": "2023-01-01T10:11:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82592,6 +82592,42 @@
                 "access": "customers",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Stacja ratunkowa GOPR Marysienka",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297988809,
+            "lat": 52.2201327,
+            "lon": 16.5315599,
+            "timestamp": "2023-01-01T10:21:39Z",
+            "version": 1,
+            "changeset": 130742234,
+            "user": "Młody Adept Ratownictwa",
+            "uid": 18145139,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "defibrillator:location:en": "Near the enter to school",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10297988810,
+            "lat": 52.2222996,
+            "lon": 16.5266891,
+            "timestamp": "2023-01-01T10:22:37Z",
+            "version": 1,
+            "changeset": 130742234,
+            "user": "Młody Adept Ratownictwa",
+            "uid": 18145139,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie strażackiej - włącz syrenę alarmową",
+                "defibrillator:location:en": "In Fire Station - launch fire alert",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
