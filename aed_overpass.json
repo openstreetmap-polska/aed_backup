@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T13:32:03Z",
-        "timestamp_areas_base": "2023-01-01T13:11:50Z",
+        "timestamp_osm_base": "2023-01-01T14:31:53Z",
+        "timestamp_areas_base": "2023-01-01T14:12:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82451,11 +82451,11 @@
             "id": 10296968909,
             "lat": 50.6013841,
             "lon": 16.5065332,
-            "timestamp": "2022-12-31T15:38:41Z",
-            "version": 2,
-            "changeset": 130725836,
-            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
-            "uid": 18140509,
+            "timestamp": "2023-01-01T13:56:41Z",
+            "version": 3,
+            "changeset": 130749312,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
@@ -82463,7 +82463,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Grupa Poszukiwawczo-Ratownicza LIFE",
-                "phone": "600 590 112"
+                "phone": "+48 600 590 112"
             }
         },
         {
@@ -82630,6 +82630,60 @@
                 "defibrillator:location:en": "In Fire Station - launch fire alert",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298191809,
+            "lat": 53.5234275,
+            "lon": 15.8246422,
+            "timestamp": "2023-01-01T13:34:41Z",
+            "version": 1,
+            "changeset": 130748521,
+            "user": "Zosia Zbożnik",
+            "uid": 18146498,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298193209,
+            "lat": 53.5374717,
+            "lon": 15.8073582,
+            "timestamp": "2023-01-01T13:35:39Z",
+            "version": 1,
+            "changeset": 130748521,
+            "user": "Zosia Zbożnik",
+            "uid": 18146498,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Na ścianie przy wejściu do gabinetu stomatologicznego",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298195909,
+            "lat": 53.5282396,
+            "lon": 15.8308971,
+            "timestamp": "2023-01-01T13:38:56Z",
+            "version": 1,
+            "changeset": 130748521,
+            "user": "Zosia Zbożnik",
+            "uid": 18146498,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Na ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
