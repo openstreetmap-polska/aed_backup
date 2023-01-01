@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T16:32:39Z",
+        "timestamp_osm_base": "2023-01-01T17:31:24Z",
         "timestamp_areas_base": "2023-01-01T16:13:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73746,19 +73746,22 @@
         {
             "type": "node",
             "id": 10111887485,
-            "lat": 49.9743461,
-            "lon": 19.8620629,
-            "timestamp": "2022-10-18T18:02:05Z",
-            "version": 1,
-            "changeset": 127741269,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "lat": 49.9743539,
+            "lon": 19.8620607,
+            "timestamp": "2023-01-01T16:57:59Z",
+            "version": 2,
+            "changeset": 130756422,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "defibrillator:location": "ściana na prawo od wejścia do zakonu",
-                "description": "do ustalenia dostęp - AED jest na zewnątrz budynku, ale teren otoczony ogrodzeniem i bramą",
+                "defibrillator:location": "Ściana na prawo od głównego wejścia do zakonu.",
+                "defibrillator:location:en": "The wall to the right of the main entrance to the monastery.",
+                "description": "W kwadratowej kasecie.",
                 "emergency": "defibrillator",
+                "fixme": "do ustalenia dostęp - AED jest na zewnątrz budynku, ale teren otoczony ogrodzeniem i bramą",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "phone": "+48 514 785 898; +48 12 346 34 73"
             }
         },
         {
@@ -79799,17 +79802,20 @@
             "id": 10289795209,
             "lat": 51.5891192,
             "lon": 18.7273153,
-            "timestamp": "2022-12-27T15:55:22Z",
-            "version": 1,
-            "changeset": 130563491,
+            "timestamp": "2023-01-01T17:21:04Z",
+            "version": 2,
+            "changeset": 130757208,
             "user": "Pescan",
             "uid": 529629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "defibrillator:location:en": "On the wall near entrance",
+                "description": "W soboty - otwarte tylko w pierwszą i ostatnią sobotę miesiąca",
+                "description:en": "On Saturday - only open on first and last Saturday of the month",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Tu 09:00-18:00; We-Fr 09:00-17:00; Sa 09:00-13:00"
             }
         },
         {
@@ -82807,6 +82813,26 @@
                 "opening_hours": "24/7",
                 "operator": "Straż miejska w Skawinie",
                 "phone": "+48 12 276 29 73"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298616212,
+            "lat": 49.9707074,
+            "lon": 19.8532725,
+            "timestamp": "2023-01-01T17:05:41Z",
+            "version": 1,
+            "changeset": 130756707,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Skawina II"
             }
         }
     ]
