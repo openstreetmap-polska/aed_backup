@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T18:32:24Z",
-        "timestamp_areas_base": "2023-01-01T18:14:09Z",
+        "timestamp_osm_base": "2023-01-01T19:32:09Z",
+        "timestamp_areas_base": "2023-01-01T19:15:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73877,37 +73877,42 @@
         {
             "type": "node",
             "id": 10112170952,
-            "lat": 49.9611089,
-            "lon": 19.7005369,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "lat": 49.9611029,
+            "lon": 19.7005368,
+            "timestamp": "2023-01-01T18:53:38Z",
+            "version": 2,
+            "changeset": 130760091,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie przy windzie.",
+                "defibrillator:location:en": "On the wall by the elevator.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "NZOZ Praktyka Lekarska s. c."
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off",
+                "operator": "NZOZ Praktyka Lekarska s. c.",
+                "phone": "+48 12 270 60 05"
             }
         },
         {
             "type": "node",
             "id": 10112170953,
-            "lat": 49.9077564,
-            "lon": 19.7874305,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "lat": 49.9076926,
+            "lon": 19.7873576,
+            "timestamp": "2023-01-01T18:49:09Z",
+            "version": 2,
+            "changeset": 130759971,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "private",
+                "access": "customers",
                 "emergency": "defibrillator",
-                "fixme": "lokalizacja",
+                "fixme": "opis lokalizacji, piętro",
                 "indoor": "yes",
-                "operator": "Praktyka Lekarzy Małgorzata Jordan i Ewa Majcherek-Jaworska"
+                "opening_hours": "Mo-Fr 07:30-18:00; Sa,Su off",
+                "operator": "Praktyka Lekarzy Małgorzata Jordan i Ewa Majcherek-Jaworska",
+                "phone": "+48 12 275 41 23"
             }
         },
         {
@@ -82912,6 +82917,125 @@
                 "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off",
                 "operator": "Skaw-Med",
                 "phone": "+48 12 276 79 01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298792768,
+            "lat": 49.9079144,
+            "lon": 19.7875608,
+            "timestamp": "2023-01-01T18:49:09Z",
+            "version": 1,
+            "changeset": 130759971,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Wola Radziszowska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298953806,
+            "lat": 49.972107,
+            "lon": 19.8261581,
+            "timestamp": "2023-01-01T18:36:06Z",
+            "version": 1,
+            "changeset": 130759579,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "fixme": "Uzupełnić dokładną lokalizację AED.",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:30-22:15",
+                "phone": "+48 12 256 95 60"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299137396,
+            "lat": 49.9577228,
+            "lon": 19.6692512,
+            "timestamp": "2023-01-01T19:19:08Z",
+            "version": 1,
+            "changeset": 130760702,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na południowej ścianie budynku Domu Ludowego.",
+                "defibrillator:location:en": "On the southern wall of the \"Dom Ludowy\" building.",
+                "description": "W kapsule RotAid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299189109,
+            "lat": 51.6691737,
+            "lon": 16.9896869,
+            "timestamp": "2023-01-01T19:16:43Z",
+            "version": 1,
+            "changeset": 130760642,
+            "user": "OSP SOBIAŁKOWO",
+            "uid": 18148642,
+            "tags": {
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "AED na wyposażeniu samochodu OCHOTNICZEJ STRAŻY POŻARNEJ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299195218,
+            "lat": 49.9683462,
+            "lon": 19.7994402,
+            "timestamp": "2023-01-01T19:26:07Z",
+            "version": 1,
+            "changeset": 130760884,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Państwowa Straż Pożarna JRG Skawina"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10299195219,
+            "lat": 49.9754899,
+            "lon": 19.8251244,
+            "timestamp": "2023-01-01T19:28:57Z",
+            "version": 1,
+            "changeset": 130760950,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Skawina I"
             }
         }
     ]
