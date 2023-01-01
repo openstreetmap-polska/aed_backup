@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T15:31:39Z",
-        "timestamp_areas_base": "2023-01-01T15:12:25Z",
+        "timestamp_osm_base": "2023-01-01T16:32:39Z",
+        "timestamp_areas_base": "2023-01-01T16:13:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73853,14 +73853,15 @@
             "id": 10112170951,
             "lat": 49.9391684,
             "lon": 19.8150164,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "timestamp": "2023-01-01T15:55:26Z",
+            "version": 2,
+            "changeset": 130754000,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
+                "fixme": "Uzupełnić dokładną lokalizację i opis AED.",
                 "indoor": "yes",
                 "operator": "Przychodnia Radziszów"
             }
@@ -73906,33 +73907,42 @@
             "id": 10112230152,
             "lat": 49.9754636,
             "lon": 19.8273334,
-            "timestamp": "2022-10-18T20:49:17Z",
-            "version": 1,
-            "changeset": 127747395,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "timestamp": "2023-01-01T15:59:34Z",
+            "version": 2,
+            "changeset": 130754203,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Komisariat Policji w Skawinie"
+                "opening_hours": "24/7",
+                "operator": "Komisariat Policji w Skawinie",
+                "phone": "+48 12 277 71 11"
             }
         },
         {
             "type": "node",
             "id": 10112230153,
-            "lat": 49.971608,
-            "lon": 19.8537613,
-            "timestamp": "2022-10-18T20:49:17Z",
-            "version": 1,
-            "changeset": 127747395,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "lat": 49.9715498,
+            "lon": 19.853835,
+            "timestamp": "2023-01-01T16:18:55Z",
+            "version": 2,
+            "changeset": 130754948,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie budynku, na prawo od głównego wejścia do budynku szkoły.",
+                "defibrillator:location:en": "On the outer wall of the building, to the right of the main entrance to the school building.",
+                "description": "W kwadratowej kasecie.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "Szkoła Podstawowa Nr 4 im. Stanisława Wyspiańskiego w Skawinie"
+                "level": "1",
+                "manufacturer": "Zoll",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa Nr 4 im. Stanisława Wyspiańskiego w Skawinie",
+                "phone": "+48 12 275 32 40"
             }
         },
         {
@@ -82758,6 +82768,45 @@
                 "defibrillator:location:pl": "Portiernia na parterze czynne całodobowo",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298357300,
+            "lat": 49.9724375,
+            "lon": 19.8295146,
+            "timestamp": "2023-01-01T15:36:48Z",
+            "version": 1,
+            "changeset": 130753190,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "fixme": "Uzupełnić dokładną lokalizację AED.",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298369403,
+            "lat": 49.9708123,
+            "lon": 19.8301663,
+            "timestamp": "2023-01-01T15:48:48Z",
+            "version": 1,
+            "changeset": 130753672,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Straż miejska",
+                "emergency": "defibrillator",
+                "fixme": "Uzupełnić dokładną lokalizację i opis AED.",
+                "note": "Dane z www gminy.",
+                "opening_hours": "24/7",
+                "operator": "Straż miejska w Skawinie",
+                "phone": "+48 12 276 29 73"
             }
         }
     ]
