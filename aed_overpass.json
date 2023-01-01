@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-01T17:31:24Z",
-        "timestamp_areas_base": "2023-01-01T16:13:18Z",
+        "timestamp_osm_base": "2023-01-01T18:32:24Z",
+        "timestamp_areas_base": "2023-01-01T18:14:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73748,15 +73748,16 @@
             "id": 10111887485,
             "lat": 49.9743539,
             "lon": 19.8620607,
-            "timestamp": "2023-01-01T16:57:59Z",
-            "version": 2,
-            "changeset": 130756422,
+            "timestamp": "2023-01-01T18:21:11Z",
+            "version": 3,
+            "changeset": 130759202,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
+                "access": "permissive",
                 "defibrillator:location": "Ściana na prawo od głównego wejścia do zakonu.",
                 "defibrillator:location:en": "The wall to the right of the main entrance to the monastery.",
-                "description": "W kwadratowej kasecie.",
+                "description": "Do ustalenia dostęp - AED jest na zewnątrz budynku, ale teren otoczony ogrodzeniem i bramą.",
                 "emergency": "defibrillator",
                 "fixme": "do ustalenia dostęp - AED jest na zewnątrz budynku, ale teren otoczony ogrodzeniem i bramą",
                 "indoor": "no",
@@ -73822,33 +73823,37 @@
             "id": 10112170948,
             "lat": 49.9754736,
             "lon": 19.8258567,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "timestamp": "2023-01-01T17:52:33Z",
+            "version": 2,
+            "changeset": 130758221,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Urząd Miasta i Gminy Skawina"
+                "opening_hours": "Mo 08:00-17:00; Tu-Th 07:30-15:30; Fr 07:30-14:30; Sa,Su off",
+                "operator": "Urząd Miasta i Gminy Skawina",
+                "phone": "+ 48 12 277 01 00"
             }
         },
         {
             "type": "node",
             "id": 10112170949,
-            "lat": 49.9746907,
-            "lon": 19.8333061,
-            "timestamp": "2022-10-18T20:16:04Z",
-            "version": 1,
-            "changeset": 127746232,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "lat": 49.9746794,
+            "lon": 19.8333059,
+            "timestamp": "2023-01-01T17:59:42Z",
+            "version": 2,
+            "changeset": 130758517,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Ad Vitam prychodnia rodzinna"
+                "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su off",
+                "operator": "Ad Vitam prychodnia rodzinna",
+                "phone": "+48 12 444 53 73"
             }
         },
         {
@@ -82817,6 +82822,24 @@
         },
         {
             "type": "node",
+            "id": 10298574194,
+            "lat": 49.9753,
+            "lon": 19.8210212,
+            "timestamp": "2023-01-01T17:44:19Z",
+            "version": 1,
+            "changeset": 130757943,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su off",
+                "phone": "+48 12 276 84 88"
+            }
+        },
+        {
+            "type": "node",
             "id": 10298616212,
             "lat": 49.9707074,
             "lon": 19.8532725,
@@ -82833,6 +82856,62 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Skawina II"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298644295,
+            "lat": 49.9768834,
+            "lon": 19.8220125,
+            "timestamp": "2023-01-01T17:39:44Z",
+            "version": 1,
+            "changeset": 130757799,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "fixme": "Uzupełnić dokładną lokalizację i opis AED.",
+                "operator": "Miejsska Biblioteka Publiczna w Skawinie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298707809,
+            "lat": 52.140868,
+            "lon": 16.8928131,
+            "timestamp": "2023-01-01T18:05:49Z",
+            "version": 1,
+            "changeset": 130758726,
+            "user": "OSP Brodnica",
+            "uid": 18148370,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-01",
+                "defibrillator:location:pl": "Remiza OSP Brodnica, ul. Parkowa 1, 63-112 Brodnica\n\nAED znajduje się na wyposażeniu wozu strażackiego OSP Brodnica GBA-Rt IVECO 609p01. Przed wejściem do remizy znajduje się przycisk pozwalający uruchomić syrenę wzywającą strażaków ochotników do remizy.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10298780298,
+            "lat": 49.9718622,
+            "lon": 19.8276123,
+            "timestamp": "2023-01-01T18:18:31Z",
+            "version": 1,
+            "changeset": 130759122,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przychodni lekarskiej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off",
+                "operator": "Skaw-Med",
+                "phone": "+48 12 276 79 01"
             }
         }
     ]
