@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-02T03:32:08Z",
-        "timestamp_areas_base": "2023-01-02T02:21:09Z",
+        "timestamp_osm_base": "2023-01-02T13:32:25Z",
+        "timestamp_areas_base": "2023-01-02T11:24:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83146,6 +83146,144 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 47 851 85 15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300035010,
+            "lat": 51.8515165,
+            "lon": 17.0112958,
+            "timestamp": "2023-01-02T07:51:14Z",
+            "version": 1,
+            "changeset": 130775524,
+            "user": "Kostek111",
+            "uid": 18151830,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED w biurowcu firmy Mann+Hummel",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 65 572 8900"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300043609,
+            "lat": 51.8515231,
+            "lon": 17.0090221,
+            "timestamp": "2023-01-02T08:00:35Z",
+            "version": 1,
+            "changeset": 130775792,
+            "user": "Kostek111",
+            "uid": 18151830,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "W budynku hali produkcyjnej Mann+Hummel",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300250770,
+            "lat": 50.3458099,
+            "lon": 16.8722596,
+            "timestamp": "2023-01-02T11:00:33Z",
+            "version": 1,
+            "changeset": 130782109,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze budynku urzędu gminy, na korytarzu.",
+                "defibrillator:location:en": "On the ground floor of the commune office building, in the corridor.",
+                "description": "Dostęp za posrednictwem pracownika urzędu.",
+                "destination:en": "Access via an office employee.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
+                "operator": "Urząd Miasta i Gminy w Lądku Zdroju",
+                "phone": "+48 74 811 78 50"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300281522,
+            "lat": 50.3459839,
+            "lon": 16.7866284,
+            "timestamp": "2023-01-02T11:11:58Z",
+            "version": 1,
+            "changeset": 130782577,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Trzebieszowice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300282198,
+            "lat": 50.344736,
+            "lon": 16.8734772,
+            "timestamp": "2023-01-02T11:07:46Z",
+            "version": 1,
+            "changeset": 130782426,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Lądek Zdrój",
+                "phone": "+48 724 329 105"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300307076,
+            "lat": 50.3097933,
+            "lon": 16.9178683,
+            "timestamp": "2023-01-02T11:32:59Z",
+            "version": 1,
+            "changeset": 130783369,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Stary Gierałtów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300322009,
+            "lat": 51.641178,
+            "lon": 17.1307901,
+            "timestamp": "2023-01-02T11:27:06Z",
+            "version": 1,
+            "changeset": 130783165,
+            "user": "AndrzejBar",
+            "uid": 18153776,
+            "tags": {
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED w Remizie Strażackiej OSP Śląskowo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+47 771 90 10"
             }
         }
     ]
