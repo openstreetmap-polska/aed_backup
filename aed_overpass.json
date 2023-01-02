@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-02T17:31:08Z",
+        "timestamp_osm_base": "2023-01-02T18:31:06Z",
         "timestamp_areas_base": "2023-01-02T16:28:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83300,6 +83300,78 @@
                 "access": "private",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED znajduje się w remizie OSP. Aby uzyskać dostęp należy uruchomić ręcznie syrenę alarmową oznaczonym przyciskiem znajdującym się  po lewej stronie bramy wjazdowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300967619,
+            "lat": 50.2900073,
+            "lon": 16.8797309,
+            "timestamp": "2023-01-02T18:24:48Z",
+            "version": 1,
+            "changeset": 130798691,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Stronie Śląskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300975909,
+            "lat": 51.0855621,
+            "lon": 17.010446,
+            "timestamp": "2023-01-02T18:12:31Z",
+            "version": 1,
+            "changeset": 130798283,
+            "user": "Gotowi_Do_Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED dostępne na 1 piętrze w sekretariacie firmy Trans.eu Group S.A. Dostępne w godzinach pracy sekretariatu 09:00-17:00",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300979509,
+            "lat": 51.0855432,
+            "lon": 17.0103763,
+            "timestamp": "2023-01-02T18:15:05Z",
+            "version": 1,
+            "changeset": 130798283,
+            "user": "Gotowi_Do_Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-02",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300982709,
+            "lat": 51.0483076,
+            "lon": 17.0007533,
+            "timestamp": "2023-01-02T18:16:20Z",
+            "version": 1,
+            "changeset": 130798283,
+            "user": "Gotowi_Do_Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED dostępne sekretariacie firmy Trans.eu Group S.A. w godzinach 09:00-17:00. Sekretariat zlokalizowany na parterze, wejście główne - na wprost.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
