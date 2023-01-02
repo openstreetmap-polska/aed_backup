@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-02T16:31:10Z",
+        "timestamp_osm_base": "2023-01-02T17:31:08Z",
         "timestamp_areas_base": "2023-01-02T16:28:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83284,6 +83284,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+47 771 90 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10300856111,
+            "lat": 50.4125705,
+            "lon": 18.2626644,
+            "timestamp": "2023-01-02T17:18:10Z",
+            "version": 1,
+            "changeset": 130796470,
+            "user": "Błażej Duk",
+            "uid": 2270881,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED znajduje się w remizie OSP. Aby uzyskać dostęp należy uruchomić ręcznie syrenę alarmową oznaczonym przyciskiem znajdującym się  po lewej stronie bramy wjazdowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
