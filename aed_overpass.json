@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-02T22:31:39Z",
-        "timestamp_areas_base": "2023-01-02T16:28:05Z",
+        "timestamp_osm_base": "2023-01-02T23:31:22Z",
+        "timestamp_areas_base": "2023-01-02T22:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83136,17 +83136,19 @@
             "id": 10299380710,
             "lat": 49.9389232,
             "lon": 18.2915238,
-            "timestamp": "2023-01-01T21:42:17Z",
-            "version": 1,
-            "changeset": 130764679,
+            "timestamp": "2023-01-02T23:23:10Z",
+            "version": 2,
+            "changeset": 130806752,
             "user": "bene1994",
             "uid": 4255552,
             "tags": {
                 "access": "private",
                 "check_date": "2023-01-01",
+                "defibrillator:location": "Budynek Remizy OSP, włącz alarm.",
                 "defibrillator:location:pl": "Urochom syrenę przyciskiem na budynku, AED w pojeździe ratowniczo-gaśniczym.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Rudyszwałd",
                 "phone": "+48 47 851 85 15"
             }
         },
