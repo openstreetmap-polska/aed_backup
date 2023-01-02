@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-02T18:31:06Z",
+        "timestamp_osm_base": "2023-01-02T19:31:59Z",
         "timestamp_areas_base": "2023-01-02T16:28:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -82727,15 +82727,15 @@
             "id": 10298338782,
             "lat": 49.9599204,
             "lon": 19.66686,
-            "timestamp": "2023-01-01T15:21:47Z",
-            "version": 1,
-            "changeset": 130752583,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-01-02T18:48:35Z",
+            "version": 2,
+            "changeset": 130799569,
+            "user": "danieldegroot2",
+            "uid": 11212507,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Pojazd ratowniczo-gaśniczy.",
-                "defibrillator:location:aed": "Rescue and firefighting vehicle.",
+                "defibrillator:location:en": "Rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -83329,17 +83329,19 @@
             "id": 10300975909,
             "lat": 51.0855621,
             "lon": 17.010446,
-            "timestamp": "2023-01-02T18:12:31Z",
-            "version": 1,
-            "changeset": 130798283,
-            "user": "Gotowi_Do_Ratowania",
+            "timestamp": "2023-01-02T19:20:12Z",
+            "version": 2,
+            "changeset": 130800553,
+            "user": "Gotowi Do Ratowania",
             "uid": 18157098,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED dostępne na 1 piętrze w sekretariacie firmy Trans.eu Group S.A. Dostępne w godzinach pracy sekretariatu 09:00-17:00",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "note": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
+                "operator": "Trans Group S.A."
             }
         },
         {
@@ -83350,7 +83352,7 @@
             "timestamp": "2023-01-02T18:15:05Z",
             "version": 1,
             "changeset": 130798283,
-            "user": "Gotowi_Do_Ratowania",
+            "user": "Gotowi Do Ratowania",
             "uid": 18157098,
             "tags": {
                 "access": "customers",
@@ -83363,17 +83365,19 @@
             "id": 10300982709,
             "lat": 51.0483076,
             "lon": 17.0007533,
-            "timestamp": "2023-01-02T18:16:20Z",
-            "version": 1,
-            "changeset": 130798283,
-            "user": "Gotowi_Do_Ratowania",
+            "timestamp": "2023-01-02T19:25:09Z",
+            "version": 2,
+            "changeset": 130800691,
+            "user": "Gotowi Do Ratowania",
             "uid": 18157098,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED dostępne sekretariacie firmy Trans.eu Group S.A. w godzinach 09:00-17:00. Sekretariat zlokalizowany na parterze, wejście główne - na wprost.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "note": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
+                "operator": "Trans Group S.A."
             }
         }
     ]
