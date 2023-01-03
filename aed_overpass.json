@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T18:31:19Z",
+        "timestamp_osm_base": "2023-01-03T19:31:09Z",
         "timestamp_areas_base": "2023-01-03T12:39:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83707,6 +83707,23 @@
                 "defibrillator:location": "ściana toalety",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302968803,
+            "lat": 53.6931038,
+            "lon": 17.5612353,
+            "timestamp": "2023-01-03T18:42:34Z",
+            "version": 1,
+            "changeset": 130838307,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Katolickie Liceum Ogólnokształcące im. Romualda Traugutta"
             }
         }
     ]
