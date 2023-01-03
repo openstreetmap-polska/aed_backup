@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T14:31:50Z",
+        "timestamp_osm_base": "2023-01-03T15:39:52Z",
         "timestamp_areas_base": "2023-01-03T12:39:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83603,6 +83603,108 @@
                 "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su 08:00-22:00",
                 "operator": "CRS Bielany",
                 "phone": "+48228350009"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302545409,
+            "lat": 52.3860796,
+            "lon": 16.4764631,
+            "timestamp": "2023-01-03T14:41:36Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302545609,
+            "lat": 52.3883065,
+            "lon": 16.4744111,
+            "timestamp": "2023-01-03T14:42:05Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302545610,
+            "lat": 52.3295804,
+            "lon": 17.0912099,
+            "timestamp": "2023-01-03T14:42:53Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302545611,
+            "lat": 52.3273134,
+            "lon": 17.0937646,
+            "timestamp": "2023-01-03T14:43:21Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302545612,
+            "lat": 52.3175184,
+            "lon": 17.4207867,
+            "timestamp": "2023-01-03T14:44:36Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302547409,
+            "lat": 52.3185879,
+            "lon": 17.4188784,
+            "timestamp": "2023-01-03T14:44:12Z",
+            "version": 1,
+            "changeset": 130829625,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
