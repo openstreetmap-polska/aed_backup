@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T12:31:09Z",
-        "timestamp_areas_base": "2023-01-03T11:38:19Z",
+        "timestamp_osm_base": "2023-01-03T13:31:54Z",
+        "timestamp_areas_base": "2023-01-03T12:39:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83525,6 +83525,43 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "KW PSP Olsztyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302429317,
+            "lat": 50.8427316,
+            "lon": 16.4989318,
+            "timestamp": "2023-01-03T13:23:10Z",
+            "version": 1,
+            "changeset": 130826632,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku przychodni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Przychodnia Mieszko",
+                "phone": "+48748568787"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302441383,
+            "lat": 52.2370867,
+            "lon": 20.9832193,
+            "timestamp": "2023-01-03T13:30:32Z",
+            "version": 1,
+            "changeset": 130826879,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED dostępny w recepcji, u ochrony, w budynku PGE Energia Odnawialna S.A.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "PGE Energia Odnawialna S.A.",
+                "phone": "+48224331300"
             }
         }
     ]
