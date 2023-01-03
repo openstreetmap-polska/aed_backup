@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T20:32:09Z",
-        "timestamp_areas_base": "2023-01-03T12:39:07Z",
+        "timestamp_osm_base": "2023-01-03T21:31:09Z",
+        "timestamp_areas_base": "2023-01-03T20:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22043,16 +22043,16 @@
         {
             "type": "node",
             "id": 9445554138,
-            "lat": 51.5446764,
-            "lon": 23.5522409,
-            "timestamp": "2022-01-24T19:30:45Z",
-            "version": 1,
-            "changeset": 116555969,
+            "lat": 51.5447105,
+            "lon": 23.5519969,
+            "timestamp": "2023-01-03T20:50:40Z",
+            "version": 2,
+            "changeset": 130842296,
             "user": "kpv8",
             "uid": 10492626,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratownictwa wodnego",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "operator": "OSP Włodawa"
             }
@@ -83730,6 +83730,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Katolickie Liceum Ogólnokształcące im. Romualda Traugutta"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10303283416,
+            "lat": 51.1122905,
+            "lon": 16.9939738,
+            "timestamp": "2023-01-03T21:13:28Z",
+            "version": 1,
+            "changeset": 130842974,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-03",
+                "defibrillator:location:pl": "Wejście główne, na lewo od recepcji na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10303288710,
+            "lat": 51.0982854,
+            "lon": 17.0325679,
+            "timestamp": "2023-01-03T21:16:51Z",
+            "version": 1,
+            "changeset": 130842974,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-03",
+                "defibrillator:location:pl": "Luxmed, recepcja.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
