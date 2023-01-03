@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T08:32:24Z",
-        "timestamp_areas_base": "2023-01-03T07:36:39Z",
+        "timestamp_osm_base": "2023-01-03T09:31:22Z",
+        "timestamp_areas_base": "2023-01-03T08:37:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83417,6 +83417,44 @@
                 "defibrillator:location": "ściana toalety",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302043310,
+            "lat": 53.3420041,
+            "lon": 16.0842322,
+            "timestamp": "2023-01-03T08:48:10Z",
+            "version": 1,
+            "changeset": 130816520,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Parter, hol od wejścia głównego do budynku",
+                "defibrillator:location:en": "Ground floor, hall from the main entrance to the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 67 259 50 42"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302053209,
+            "lat": 53.342182,
+            "lon": 16.0841461,
+            "timestamp": "2023-01-03T08:51:32Z",
+            "version": 1,
+            "changeset": 130816520,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urządzenie mobilne - Straż Leśna - Pojazd patrolowo-gaśniczy",
+                "defibrillator:location:en": "Mobile device - Forest Guard - Patrol and firefighting vehicle",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 67 259 50 94"
             }
         }
     ]
