@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T17:31:32Z",
+        "timestamp_osm_base": "2023-01-03T18:31:19Z",
         "timestamp_areas_base": "2023-01-03T12:39:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -64624,14 +64624,16 @@
             "id": 9817097217,
             "lat": 53.8245127,
             "lon": 20.3049184,
-            "timestamp": "2022-06-14T11:43:15Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "timestamp": "2023-01-03T17:58:29Z",
+            "version": 2,
+            "changeset": 130836881,
+            "user": "Klaudiusz Omiljan",
+            "uid": 8862368,
             "tags": {
+                "access": "po_zaalarmowaniu_strażaków_(dostępny_przycisk_alarmujący_przy_drzwiach_remizy)",
                 "defibrillator:location": "OSP w Jonkowie",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
