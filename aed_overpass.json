@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T13:31:54Z",
+        "timestamp_osm_base": "2023-01-03T14:31:50Z",
         "timestamp_areas_base": "2023-01-03T12:39:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50623,14 +50623,16 @@
             "id": 9570957929,
             "lat": 52.3697826,
             "lon": 18.1786609,
-            "timestamp": "2022-03-11T14:22:48Z",
-            "version": 1,
-            "changeset": 118366197,
+            "timestamp": "2023-01-03T13:38:48Z",
+            "version": 2,
+            "changeset": 130827200,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Urządzenie znajduje sie na zewnętrznej ścianie budynku.",
                 "emergency": "defibrillator",
+                "opening_hours": "24/7",
                 "operator": "OSP Kleczew",
                 "phone": "+48632701098"
             }
@@ -82433,14 +82435,14 @@
             "id": 10296834410,
             "lat": 52.0816429,
             "lon": 18.3230179,
-            "timestamp": "2023-01-01T20:59:38Z",
-            "version": 2,
-            "changeset": 130763633,
-            "user": "NorthCrab",
-            "uid": 15215305,
+            "timestamp": "2023-01-03T13:34:22Z",
+            "version": 3,
+            "changeset": 130827012,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W ambulansie",
+                "defibrillator:location": "Defibrylator AED znajduje się w ambulansie",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "+48 725 472 560"
@@ -83562,6 +83564,45 @@
                 "indoor": "yes",
                 "operator": "PGE Energia Odnawialna S.A.",
                 "phone": "+48224331300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302448521,
+            "lat": 52.1922612,
+            "lon": 17.4846944,
+            "timestamp": "2023-01-03T13:49:46Z",
+            "version": 1,
+            "changeset": 130827594,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy recepcji.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Bagatelka Centrum Rekreacyjno-Hotelowe",
+                "phone": "+48665169263"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302448522,
+            "lat": 52.2882389,
+            "lon": 20.9437267,
+            "timestamp": "2023-01-03T13:49:46Z",
+            "version": 1,
+            "changeset": 130827594,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w szatni CRS Bielany na ul. Lindego. Dostęp w godzinach pracy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su 08:00-22:00",
+                "operator": "CRS Bielany",
+                "phone": "+48228350009"
             }
         }
     ]
