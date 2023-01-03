@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T07:31:31Z",
-        "timestamp_areas_base": "2023-01-03T06:35:38Z",
+        "timestamp_osm_base": "2023-01-03T08:32:24Z",
+        "timestamp_areas_base": "2023-01-03T07:36:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83382,6 +83382,41 @@
                 "indoor": "yes",
                 "note": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
                 "operator": "Trans Group S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302003009,
+            "lat": 52.3511448,
+            "lon": 16.8446371,
+            "timestamp": "2023-01-03T08:09:16Z",
+            "version": 1,
+            "changeset": 130815404,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy aneksie kuchennym",
+                "defibrillator:location:en": "On the wall near kitchenette",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302010309,
+            "lat": 52.366945,
+            "lon": 16.1896401,
+            "timestamp": "2023-01-03T08:10:44Z",
+            "version": 1,
+            "changeset": 130815404,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ściana toalety",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
