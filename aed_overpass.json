@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-03T09:31:22Z",
+        "timestamp_osm_base": "2023-01-03T10:32:19Z",
         "timestamp_areas_base": "2023-01-03T08:37:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83455,6 +83455,59 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "+48 67 259 50 94"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302077083,
+            "lat": 50.4967757,
+            "lon": 16.5330376,
+            "timestamp": "2023-01-03T09:39:04Z",
+            "version": 1,
+            "changeset": 130818288,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Ścinawka Dolna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302143930,
+            "lat": 51.5890849,
+            "lon": 18.7366373,
+            "timestamp": "2023-01-03T10:06:31Z",
+            "version": 1,
+            "changeset": 130819315,
+            "user": "Pescan",
+            "uid": 529629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-20:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10302143931,
+            "lat": 51.5933202,
+            "lon": 18.7334239,
+            "timestamp": "2023-01-03T10:06:31Z",
+            "version": 1,
+            "changeset": 130819315,
+            "user": "Pescan",
+            "uid": 529629,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
