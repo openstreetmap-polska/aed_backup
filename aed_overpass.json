@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T10:31:23Z",
+        "timestamp_osm_base": "2023-01-04T11:31:07Z",
         "timestamp_areas_base": "2023-01-04T09:49:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5299,11 +5299,11 @@
             "id": 9081670920,
             "lat": 52.412337,
             "lon": 16.9514012,
-            "timestamp": "2022-11-27T14:13:45Z",
-            "version": 3,
-            "changeset": 129436331,
-            "user": "szydzio",
-            "uid": 2313574,
+            "timestamp": "2023-01-04T11:30:09Z",
+            "version": 4,
+            "changeset": 130862671,
+            "user": "polar7",
+            "uid": 3894590,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "hol główny, przy przejściu do korytarza, na ścianie",
@@ -5314,7 +5314,7 @@
                 "level": "0",
                 "manufacturer": "PRIMEDIC HeartSave AED",
                 "opening_hours": "Tu-Fr 09:00-18:00; Sa-Su 10:00-19:00; Mo off",
-                "operator": "Poznańskie Centrum Dziedzictwa",
+                "operator": "Poznańskie Centrum Dziedzictwa - Brama Poznania",
                 "phone": "+48 61 647 76 00",
                 "wheelchair": "no"
             }
