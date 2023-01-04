@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T13:30:54Z",
+        "timestamp_osm_base": "2023-01-04T14:31:39Z",
         "timestamp_areas_base": "2023-01-04T11:50:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52775,17 +52775,18 @@
             "id": 9588364717,
             "lat": 52.4044369,
             "lon": 16.9400123,
-            "timestamp": "2022-03-18T17:54:58Z",
-            "version": 1,
-            "changeset": 118642708,
+            "timestamp": "2023-01-04T13:51:00Z",
+            "version": 2,
+            "changeset": 130868385,
             "user": "snowdog",
             "uid": 373762,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Stróżówka, dostęp 24/7 u strażnika",
+                "defibrillator:location": "biuro firmy Snowdog, dostęp w dni powszednie 8-17",
                 "defibrillator:location:en": "Guard house, 24/7 access by guard",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "yes",
+                "operator": "Snowdog"
             }
         },
         {
@@ -83937,6 +83938,24 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "budynek biurowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304842610,
+            "lat": 54.4134236,
+            "lon": 18.4830584,
+            "timestamp": "2023-01-04T14:24:44Z",
+            "version": 1,
+            "changeset": 130869647,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "check_date": "2022-12-29",
+                "defibrillator:location:pl": "Selgros - przy biurze kierownika kas w pobliżu wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
