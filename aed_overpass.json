@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T12:31:09Z",
+        "timestamp_osm_base": "2023-01-04T13:30:54Z",
         "timestamp_areas_base": "2023-01-04T11:50:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71850,9 +71850,9 @@
             "id": 10074507668,
             "lat": 52.4145724,
             "lon": 16.9822735,
-            "timestamp": "2022-10-04T07:29:56Z",
-            "version": 1,
-            "changeset": 126977089,
+            "timestamp": "2023-01-04T12:37:37Z",
+            "version": 2,
+            "changeset": 130865414,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -71863,7 +71863,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "manufacturer": "Philips",
-                "opening_hours": "Mo-Sa 06:00-18:00",
+                "opening_hours": "Mo-Fr 06:00-18:00",
                 "operator": "Zespół Szkół Specjalnych Nr 105",
                 "phone": "+48 61 877 22 94",
                 "wheelchair": "yes"
@@ -72128,9 +72128,9 @@
             "id": 10081261345,
             "lat": 52.4076499,
             "lon": 16.9198359,
-            "timestamp": "2023-01-04T11:38:00Z",
-            "version": 3,
-            "changeset": 130862963,
+            "timestamp": "2023-01-04T12:44:13Z",
+            "version": 4,
+            "changeset": 130865671,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -72142,7 +72142,7 @@
                 "level": "1",
                 "manufacturer": "PRIMEDIC HeartSave AED",
                 "opening_hours": "Tu-Fr 09:00-18:00; Sa-Su 10:00-19:00; Mo off",
-                "operator": "Poznańskie Centrum Dziedzictwa - ﻿Centrum Szyfrów Enigma)",
+                "operator": "Poznańskie Centrum Dziedzictwa - ﻿Centrum Szyfrów Enigma",
                 "phone": "+48 61 888 45 00",
                 "wheelchair": "yes"
             }
@@ -72275,14 +72275,14 @@
             "id": 10081375095,
             "lat": 52.4118228,
             "lon": 16.9168907,
-            "timestamp": "2023-01-04T12:25:08Z",
-            "version": 3,
-            "changeset": 130864902,
+            "timestamp": "2023-01-04T12:41:51Z",
+            "version": 4,
+            "changeset": 130865580,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "portiernia, wejście od ul. Noskowskiego",
+                "defibrillator:location": "portiernia - wejście od ul. Noskowskiego",
                 "description": "apteczka",
                 "emergency": "defibrillator",
                 "emergency_telephone_code": "112",
@@ -74499,14 +74499,15 @@
             "id": 10132496505,
             "lat": 52.4119686,
             "lon": 16.9935146,
-            "timestamp": "2022-10-27T12:17:04Z",
-            "version": 1,
-            "changeset": 128127282,
+            "timestamp": "2023-01-04T12:36:46Z",
+            "version": 2,
+            "changeset": 130865378,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Dyżurka pielęgniarska 1 piętro",
+                "description": "apteczka",
                 "emergency": "defibrillator",
                 "emergency_telephone_code": "112",
                 "indoor": "yes",
@@ -76448,9 +76449,9 @@
             "id": 10211934295,
             "lat": 52.402216,
             "lon": 16.9878191,
-            "timestamp": "2023-01-04T12:27:47Z",
-            "version": 2,
-            "changeset": 130865022,
+            "timestamp": "2023-01-04T12:32:56Z",
+            "version": 3,
+            "changeset": 130865233,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76462,7 +76463,7 @@
                 "level": "1",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "Posir Oddział Malta",
+                "operator": "POSiR Oddział Malta",
                 "phone": "48 61 876 60 11",
                 "wheelchair": "no"
             }
@@ -76472,9 +76473,9 @@
             "id": 10211934296,
             "lat": 52.4000546,
             "lon": 16.9849175,
-            "timestamp": "2023-01-04T12:27:47Z",
-            "version": 3,
-            "changeset": 130865022,
+            "timestamp": "2023-01-04T12:32:56Z",
+            "version": 4,
+            "changeset": 130865233,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76486,7 +76487,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "24/7",
-                "operator": "Posir Oddział Malta",
+                "operator": "POSiR Oddział Malta",
                 "phone": "+48 61 876 60 11",
                 "wheelchair": "no"
             }
@@ -76496,9 +76497,9 @@
             "id": 10211973931,
             "lat": 52.4052067,
             "lon": 16.9548602,
-            "timestamp": "2022-11-24T10:17:48Z",
-            "version": 2,
-            "changeset": 129317601,
+            "timestamp": "2023-01-04T12:33:29Z",
+            "version": 3,
+            "changeset": 130865253,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76510,7 +76511,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Apr-Oct closed; Nov-Mar Su-Th 08:00-22:00; Fr-Sa 08:00-23:00",
-                "operator": "Posir Oddział Malta Lodowisko",
+                "operator": "POSiR Oddział Malta Lodowisko",
                 "phone": "+48 61 876 60 11",
                 "wheelchair": "yes"
             }
@@ -76626,9 +76627,9 @@
             "id": 10214120596,
             "lat": 52.3925468,
             "lon": 16.9288883,
-            "timestamp": "2022-11-24T09:42:00Z",
-            "version": 1,
-            "changeset": 129315976,
+            "timestamp": "2023-01-04T12:35:15Z",
+            "version": 2,
+            "changeset": 130865321,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76641,7 +76642,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSIR – Oddział Chwiałka",
+                "operator": "POSiR – Oddział Chwiałka",
                 "phone": "+48 61 831 67 19",
                 "wheelchair": "yes"
             }
@@ -76651,9 +76652,9 @@
             "id": 10214120597,
             "lat": 52.3936243,
             "lon": 16.9293281,
-            "timestamp": "2022-11-24T09:42:00Z",
-            "version": 1,
-            "changeset": 129315976,
+            "timestamp": "2023-01-04T12:35:15Z",
+            "version": 2,
+            "changeset": 130865321,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76666,7 +76667,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSIR – Oddział Chwiałka",
+                "operator": "POSiR – Oddział Chwiałka",
                 "phone": "+48 61 833 05 11",
                 "wheelchair": "yes"
             }
@@ -76676,9 +76677,9 @@
             "id": 10214120598,
             "lat": 52.3941489,
             "lon": 16.9295946,
-            "timestamp": "2022-11-24T09:42:00Z",
-            "version": 1,
-            "changeset": 129315976,
+            "timestamp": "2023-01-04T12:35:15Z",
+            "version": 2,
+            "changeset": 130865321,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76691,7 +76692,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSIR – Oddział Chwiałka",
+                "operator": "POSiR – Oddział Chwiałka",
                 "phone": "+48 61 833 05 11 wew. 317 i 318",
                 "wheelchair": "yes"
             }
@@ -76701,9 +76702,9 @@
             "id": 10214120600,
             "lat": 52.3943933,
             "lon": 16.9277524,
-            "timestamp": "2022-11-24T10:26:31Z",
-            "version": 2,
-            "changeset": 129318009,
+            "timestamp": "2023-01-04T12:35:15Z",
+            "version": 3,
+            "changeset": 130865321,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76716,7 +76717,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:30-20:45",
-                "operator": "POSIR – Oddział Chwiałka",
+                "operator": "POSiR – Oddział Chwiałka",
                 "phone": "+48 61 833 05 11",
                 "wheelchair": "yes"
             }
@@ -76726,9 +76727,9 @@
             "id": 10214138087,
             "lat": 52.393005,
             "lon": 16.9438624,
-            "timestamp": "2022-11-24T09:45:18Z",
-            "version": 1,
-            "changeset": 129316136,
+            "timestamp": "2023-01-04T12:34:16Z",
+            "version": 2,
+            "changeset": 130865281,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76741,7 +76742,7 @@
                 "level": "0",
                 "manufacturer": "CU-SP1 Medical Systems [automatyczny]",
                 "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
-                "operator": "POSIR Pływalnia Kryta Rataje",
+                "operator": "POSiR Pływalnia Kryta Rataje",
                 "phone": "+48 61 102 46 97",
                 "wheelchair": "yes"
             }
