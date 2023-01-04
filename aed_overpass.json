@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T06:32:09Z",
-        "timestamp_areas_base": "2023-01-04T05:48:43Z",
+        "timestamp_osm_base": "2023-01-04T07:31:03Z",
+        "timestamp_areas_base": "2023-01-04T06:49:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -64624,16 +64624,18 @@
             "id": 9817097217,
             "lat": 53.8245127,
             "lon": 20.3049184,
-            "timestamp": "2023-01-03T17:58:29Z",
-            "version": 2,
-            "changeset": 130836881,
-            "user": "Klaudiusz Omiljan",
-            "uid": 8862368,
+            "timestamp": "2023-01-04T07:06:21Z",
+            "version": 3,
+            "changeset": 130853459,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "po_zaalarmowaniu_strażaków_(dostępny_przycisk_alarmujący_przy_drzwiach_remizy)",
-                "defibrillator:location": "OSP w Jonkowie",
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "description": "po zaalarmowaniu strażaków (dostępny przycisk alarmujący przy drzwiach remizy)",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP w Jonkowie"
             }
         },
         {
