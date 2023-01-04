@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T09:31:39Z",
-        "timestamp_areas_base": "2023-01-04T08:49:09Z",
+        "timestamp_osm_base": "2023-01-04T10:31:23Z",
+        "timestamp_areas_base": "2023-01-04T09:49:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68001,13 +68001,14 @@
             "id": 9919885843,
             "lat": 52.1835597,
             "lon": 21.0042874,
-            "timestamp": "2022-12-28T10:35:08Z",
-            "version": 5,
-            "changeset": 130593836,
-            "user": "Wesołowski Marcin",
-            "uid": 8504354,
+            "timestamp": "2023-01-04T10:12:55Z",
+            "version": 6,
+            "changeset": 130859650,
+            "user": "olo81",
+            "uid": 334393,
             "tags": {
                 "access": "private",
+                "contact:phone": "022 596 70 90",
                 "defibrillator:location": "Wyposażenie pojazdu strażackiego",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -81019,18 +81020,20 @@
         {
             "type": "node",
             "id": 10293779485,
-            "lat": 52.1591884,
-            "lon": 20.8138803,
-            "timestamp": "2023-01-02T21:24:23Z",
-            "version": 2,
-            "changeset": 130804055,
-            "user": "tomzyl",
-            "uid": 530338,
+            "lat": 52.1592062,
+            "lon": 20.8138716,
+            "timestamp": "2023-01-04T09:39:20Z",
+            "version": 3,
+            "changeset": 130858334,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Po prawej stronie od wejścia, na murze zewnętrznym szkoły, za oknem dyżurki.",
+                "defibrillator:location:en": "To the right of the entrance, on the exterior wall of the school, behind the window of the duty station.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+                "source": "survey"
             }
         },
         {
@@ -81038,16 +81041,19 @@
             "id": 10293779486,
             "lat": 52.164034,
             "lon": 20.8112285,
-            "timestamp": "2023-01-04T05:19:05Z",
-            "version": 2,
-            "changeset": 130851145,
-            "user": "tomzyl",
-            "uid": 530338,
+            "timestamp": "2023-01-04T09:43:56Z",
+            "version": 3,
+            "changeset": 130858505,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "W wejściu do szkoły, na zewnątrz, prawa strona wnęki.",
+                "defibrillator:location:en": "In the entrance to the school, outside, right side of the entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+                "source": "survey",
+                "wheelchair": "no"
             }
         },
         {
@@ -81069,17 +81075,19 @@
         {
             "type": "node",
             "id": 10293860210,
-            "lat": 52.1782687,
-            "lon": 20.7981264,
-            "timestamp": "2022-12-29T18:52:11Z",
-            "version": 1,
-            "changeset": 130659114,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.1782718,
+            "lon": 20.7981002,
+            "timestamp": "2023-01-04T09:52:20Z",
+            "version": 2,
+            "changeset": 130858864,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przed wejściem",
+                "defibrillator:location:en": "On the wall in front of the entrance",
                 "emergency": "defibrillator",
-                "fixme": "Lokalizacja do weryfikacji",
-                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+                "indoor": "no"
             }
         },
         {
@@ -81101,16 +81109,19 @@
         {
             "type": "node",
             "id": 10293860212,
-            "lat": 52.1746696,
-            "lon": 20.8032116,
-            "timestamp": "2022-12-29T18:52:11Z",
-            "version": 1,
-            "changeset": 130659114,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.1746738,
+            "lon": 20.8031697,
+            "timestamp": "2023-01-04T09:48:29Z",
+            "version": 2,
+            "changeset": 130858691,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie budynku targowiska",
+                "defibrillator:location:en": "On the wall of the marketplace building",
                 "emergency": "defibrillator",
-                "fixme": "Lokalizacja do weryfikacji",
+                "indoor": "no",
                 "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
             }
         },
@@ -83768,6 +83779,160 @@
                 "access": "customers",
                 "check_date": "2023-01-03",
                 "defibrillator:location:pl": "Luxmed, recepcja.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304284421,
+            "lat": 51.1398782,
+            "lon": 20.5161168,
+            "timestamp": "2023-01-04T09:46:31Z",
+            "version": 1,
+            "changeset": 130858614,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Czarna",
+                "source": "https://swietokrzyskie.cozadzien.pl/swietokrzyskie/122-tys-zl-z-ministerstwa-sprawiedliwosci-dla-jednostek-osp-odrowaz-czarna-gosan-adamek-staporkow-kozia-wola-krasna/63435"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304379409,
+            "lat": 52.3214152,
+            "lon": 15.5467379,
+            "timestamp": "2023-01-04T09:50:20Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "korytarz w budynku nadzoru",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304393509,
+            "lat": 52.3508136,
+            "lon": 16.7311571,
+            "timestamp": "2023-01-04T09:51:16Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "korytarz w budynku nadzoru",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304393510,
+            "lat": 52.222294,
+            "lon": 17.9510312,
+            "timestamp": "2023-01-04T09:52:30Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "korytarz w budynku nadzoru",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304393709,
+            "lat": 52.3112043,
+            "lon": 17.1508951,
+            "timestamp": "2023-01-04T09:51:56Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "korytarz w budynku nadzoru",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304414209,
+            "lat": 52.2065173,
+            "lon": 18.0190725,
+            "timestamp": "2023-01-04T09:58:18Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "budynek biurowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304414210,
+            "lat": 52.3605846,
+            "lon": 16.099083,
+            "timestamp": "2023-01-04T09:58:59Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "budynek biurowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304415016,
+            "lat": 52.2981215,
+            "lon": 15.651846,
+            "timestamp": "2023-01-04T09:59:32Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "budynek biurowy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10304416209,
+            "lat": 52.3233086,
+            "lon": 15.0850688,
+            "timestamp": "2023-01-04T10:00:13Z",
+            "version": 1,
+            "changeset": 130858768,
+            "user": "Pontyprandyadamban",
+            "uid": 18161110,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "budynek biurowy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
