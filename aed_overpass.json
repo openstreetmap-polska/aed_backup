@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T04:32:12Z",
-        "timestamp_areas_base": "2023-01-04T03:48:39Z",
+        "timestamp_osm_base": "2023-01-04T05:32:24Z",
+        "timestamp_areas_base": "2023-01-04T04:48:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -81034,15 +81034,17 @@
         {
             "type": "node",
             "id": 10293779486,
-            "lat": 52.1640603,
-            "lon": 20.8111802,
-            "timestamp": "2022-12-29T18:35:04Z",
-            "version": 1,
-            "changeset": 130658518,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.164034,
+            "lon": 20.8112285,
+            "timestamp": "2023-01-04T05:19:05Z",
+            "version": 2,
+            "changeset": 130851145,
+            "user": "tomzyl",
+            "uid": 530338,
             "tags": {
+                "defibrillator:location": "W wejściu do szkoły, na zewnątrz, prawa strona wnęki.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
             }
         },
