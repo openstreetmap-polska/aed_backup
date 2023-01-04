@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-04T16:31:25Z",
-        "timestamp_areas_base": "2023-01-04T15:53:54Z",
+        "timestamp_osm_base": "2023-01-04T17:31:25Z",
+        "timestamp_areas_base": "2023-01-04T16:54:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83956,6 +83956,24 @@
                 "access": "customers",
                 "check_date": "2022-12-29",
                 "defibrillator:location:pl": "Selgros - przy biurze kierownika kas w pobliżu wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10305103209,
+            "lat": 54.6157982,
+            "lon": 18.1772565,
+            "timestamp": "2023-01-04T16:47:47Z",
+            "version": 1,
+            "changeset": 130874665,
+            "user": "tdk2005",
+            "uid": 11270349,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-04",
+                "defibrillator:location:pl": "Kabina wozu straży 559G56 GBA przywołanie strażaków możliwe przyciskiem na ścianie.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
