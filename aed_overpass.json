@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T11:31:37Z",
-        "timestamp_areas_base": "2023-01-05T11:05:07Z",
+        "timestamp_osm_base": "2023-01-05T12:31:34Z",
+        "timestamp_areas_base": "2023-01-05T12:06:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84124,6 +84124,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 32 4551840"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308545910,
+            "lat": 50.0149945,
+            "lon": 18.4828309,
+            "timestamp": "2023-01-05T11:45:31Z",
+            "version": 1,
+            "changeset": 130902989,
+            "user": "PWiK Wodzisław Śląski",
+            "uid": 18181725,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-05",
+                "defibrillator:location:pl": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.\nul. Marklowicka 15\n44-300 Wodzisław Śl.\n(biurowiec - Biuro Obsługi Klienta)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "32 455 18 40"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308584709,
+            "lat": 49.9852312,
+            "lon": 18.4294881,
+            "timestamp": "2023-01-05T11:54:34Z",
+            "version": 1,
+            "changeset": 130902989,
+            "user": "PWiK Wodzisław Śląski",
+            "uid": 18181725,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-05",
+                "defibrillator:location:pl": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.\nOczyszczalnia ścieków Karkoszka II\nul. Czyżowicka 131a\n44-300 Wodzisław Śl.\n(w biurowcu - na ścianie, naprzeciw wejścia głównego)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "32 455 18 40"
             }
         }
     ]
