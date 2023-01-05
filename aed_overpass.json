@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T10:31:40Z",
-        "timestamp_areas_base": "2023-01-05T09:04:24Z",
+        "timestamp_osm_base": "2023-01-05T11:31:37Z",
+        "timestamp_areas_base": "2023-01-05T11:05:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84102,6 +84102,25 @@
                 "access": "customers",
                 "check_date": "2023-01-05",
                 "defibrillator:location:pl": "PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z O.O.\n44-300 Wodzisław Śląski, ul. Marklowicka 15\n(Biurowiec - Biuro Obsługi Klienta)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 32 4551840"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308447011,
+            "lat": 50.014282,
+            "lon": 18.482626,
+            "timestamp": "2023-01-05T10:47:32Z",
+            "version": 1,
+            "changeset": 130900622,
+            "user": "PWiK Wodzisław Śląski",
+            "uid": 18181725,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-05",
+                "defibrillator:location:pl": "PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z O.O.\nOczyszczalnia Ścieków Karkoszka II\n44-300 Wodzisław Śląski, ul. Czyżowicka 131\n(biurowiec, na ścianie na wprost wejścia głównego do budynku)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 32 4551840"
