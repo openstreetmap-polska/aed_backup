@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T07:32:09Z",
-        "timestamp_areas_base": "2023-01-05T07:03:39Z",
+        "timestamp_osm_base": "2023-01-05T08:30:54Z",
+        "timestamp_areas_base": "2023-01-05T08:03:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -76628,9 +76628,9 @@
             "id": 10214120596,
             "lat": 52.3925468,
             "lon": 16.9288883,
-            "timestamp": "2023-01-04T12:35:15Z",
-            "version": 2,
-            "changeset": 130865321,
+            "timestamp": "2023-01-05T07:42:36Z",
+            "version": 3,
+            "changeset": 130894067,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76643,7 +76643,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSiR – Oddział Chwiałka",
+                "operator": "POSiR Oddział Chwiałka",
                 "phone": "+48 61 831 67 19",
                 "wheelchair": "yes"
             }
@@ -76653,9 +76653,9 @@
             "id": 10214120597,
             "lat": 52.3936243,
             "lon": 16.9293281,
-            "timestamp": "2023-01-04T12:35:15Z",
-            "version": 2,
-            "changeset": 130865321,
+            "timestamp": "2023-01-05T07:42:36Z",
+            "version": 3,
+            "changeset": 130894067,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76668,7 +76668,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSiR – Oddział Chwiałka",
+                "operator": "POSiR Oddział Chwiałka",
                 "phone": "+48 61 833 05 11",
                 "wheelchair": "yes"
             }
@@ -76678,9 +76678,9 @@
             "id": 10214120598,
             "lat": 52.3941489,
             "lon": 16.9295946,
-            "timestamp": "2023-01-04T12:35:15Z",
-            "version": 2,
-            "changeset": 130865321,
+            "timestamp": "2023-01-05T07:42:36Z",
+            "version": 3,
+            "changeset": 130894067,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76693,7 +76693,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Su 06:00-22:00",
-                "operator": "POSiR – Oddział Chwiałka",
+                "operator": "POSiR Oddział Chwiałka",
                 "phone": "+48 61 833 05 11 wew. 317 i 318",
                 "wheelchair": "yes"
             }
@@ -76703,9 +76703,9 @@
             "id": 10214120600,
             "lat": 52.3943933,
             "lon": 16.9277524,
-            "timestamp": "2023-01-04T12:35:15Z",
-            "version": 3,
-            "changeset": 130865321,
+            "timestamp": "2023-01-05T07:42:36Z",
+            "version": 4,
+            "changeset": 130894067,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76718,7 +76718,7 @@
                 "level": "0",
                 "manufacturer": "PHILIPS",
                 "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:30-20:45",
-                "operator": "POSiR – Oddział Chwiałka",
+                "operator": "POSiR Oddział Chwiałka",
                 "phone": "+48 61 833 05 11",
                 "wheelchair": "yes"
             }
@@ -84066,6 +84066,24 @@
                 "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308150543,
+            "lat": 54.2842812,
+            "lon": 18.3506119,
+            "timestamp": "2023-01-05T07:44:38Z",
+            "version": 1,
+            "changeset": 130894137,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://expresskaszubski.pl/pl/473_na-sygnale/37482_strazacy-z-sianowskiej-huty-i-skrzeszewa-ucza-udzielania-pierwszej-pomocy.html"
             }
         }
     ]
