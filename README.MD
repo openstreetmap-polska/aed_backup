@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-05 12:33:09)
+# AED backup and stats (2023-01-05 13:33:13)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4559
+Total AED: 4561
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4462\
-Average daily growth since beginning of the year: 33.60
+Average daily growth since beginning of the year: 34.00
 
 ## Top creators
 | # | User | Created |
@@ -18,7 +18,7 @@ Average daily growth since beginning of the year: 33.60
 | 3 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 4 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 331 |
 | 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 303 |
-| 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 264 |
+| 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 265 |
 | 7 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 143 |
 | 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 108 |
 | 9 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
@@ -33,11 +33,11 @@ Average daily growth since beginning of the year: 33.60
 | 18 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 19 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
 | 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 21 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 25 |
-| 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
+| 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
+| 22 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 25 |
 | 23 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
-| 25 | [Brian@Brea](<https://www.openstreetmap.org/user/Brian@Brea>) | 20 |
+| 25 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 
 ## Tag access pie
 ![](report_data/tag_access.svg)

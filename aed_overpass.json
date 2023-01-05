@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T12:31:34Z",
-        "timestamp_areas_base": "2023-01-05T12:06:08Z",
+        "timestamp_osm_base": "2023-01-05T13:31:37Z",
+        "timestamp_areas_base": "2023-01-05T13:07:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84162,6 +84162,45 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "32 455 18 40"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308693309,
+            "lat": 50.0469605,
+            "lon": 18.6031177,
+            "timestamp": "2023-01-05T12:55:15Z",
+            "version": 1,
+            "changeset": 130905780,
+            "user": "bugg_rybnik",
+            "uid": 18183287,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-05",
+                "defibrillator:location:en": "Front wall of the building, next to the entrance of OPS",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308722440,
+            "lat": 50.8417517,
+            "lon": 16.4700604,
+            "timestamp": "2023-01-05T13:28:56Z",
+            "version": 1,
+            "changeset": 130907087,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na parterze budynku Urzędu Miasta.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 07:30-15:30; Tu 07:30-17:00; We-Fr 07:30-15:30",
+                "operator": "Urząd Miejski w Świdnicy",
+                "phone": "+48748562800"
             }
         }
     ]
