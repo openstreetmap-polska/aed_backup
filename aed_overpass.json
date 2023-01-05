@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T06:32:25Z",
-        "timestamp_areas_base": "2023-01-05T06:02:40Z",
+        "timestamp_osm_base": "2023-01-05T07:32:09Z",
+        "timestamp_areas_base": "2023-01-05T07:03:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83974,6 +83974,96 @@
                 "access": "customers",
                 "check_date": "2023-01-04",
                 "defibrillator:location:pl": "Kabina wozu straży 559G56 GBA przywołanie strażaków możliwe przyciskiem na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308059611,
+            "lat": 53.3006307,
+            "lon": 16.9911699,
+            "timestamp": "2023-01-05T06:53:15Z",
+            "version": 2,
+            "changeset": 130892704,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "http://www.krajenka.pl/asp/?typ=13&menu=7&dzialy=7&akcja=artykul&artykul=1431"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308068970,
+            "lat": 53.247131,
+            "lon": 17.0202171,
+            "timestamp": "2023-01-05T07:21:40Z",
+            "version": 1,
+            "changeset": 130893531,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "http://www.krajenka.pl/asp/?typ=13&menu=7&dzialy=7&akcja=artykul&artykul=1431"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308068981,
+            "lat": 53.2425306,
+            "lon": 17.0614459,
+            "timestamp": "2023-01-05T07:21:40Z",
+            "version": 1,
+            "changeset": 130893531,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "http://www.krajenka.pl/asp/?typ=13&menu=7&dzialy=7&akcja=artykul&artykul=1431"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308069008,
+            "lat": 53.2486872,
+            "lon": 16.9826868,
+            "timestamp": "2023-01-05T07:21:40Z",
+            "version": 1,
+            "changeset": 130893531,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "http://www.krajenka.pl/asp/?typ=13&menu=7&dzialy=7&akcja=artykul&artykul=1431"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308090409,
+            "lat": 54.3906539,
+            "lon": 18.1346241,
+            "timestamp": "2023-01-05T06:41:17Z",
+            "version": 1,
+            "changeset": 130892335,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-05",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
