@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T13:31:37Z",
+        "timestamp_osm_base": "2023-01-05T14:31:23Z",
         "timestamp_areas_base": "2023-01-05T13:07:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84201,6 +84201,63 @@
                 "opening_hours": "Mo 07:30-15:30; Tu 07:30-17:00; We-Fr 07:30-15:30",
                 "operator": "Urząd Miejski w Świdnicy",
                 "phone": "+48748562800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308723692,
+            "lat": 50.847238,
+            "lon": 16.4698716,
+            "timestamp": "2023-01-05T13:36:18Z",
+            "version": 1,
+            "changeset": 130907386,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w Klubie Senior+",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Urząd Miejski w Świdnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308755865,
+            "lat": 50.8415392,
+            "lon": 16.4907895,
+            "timestamp": "2023-01-05T13:39:36Z",
+            "version": 1,
+            "changeset": 130907516,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Referatu Organizacji Pozarządowych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "Mo-Su 08:00-19:00",
+                "operator": "Urząd Miejski w Świdnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10308761333,
+            "lat": 50.8425324,
+            "lon": 16.4873288,
+            "timestamp": "2023-01-05T13:44:40Z",
+            "version": 1,
+            "changeset": 130907712,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Referatu Organizacji Pozarządowych na korytarzu III piętra.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "3",
+                "opening_hours": "Mo-Su 08:00-19:00",
+                "operator": "Urząd Miejski w Świdnicy"
             }
         }
     ]
