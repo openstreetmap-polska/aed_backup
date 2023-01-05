@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T08:30:54Z",
-        "timestamp_areas_base": "2023-01-05T08:03:40Z",
+        "timestamp_osm_base": "2023-01-05T09:31:52Z",
+        "timestamp_areas_base": "2023-01-05T09:04:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48849,9 +48849,9 @@
             "id": 9568737217,
             "lat": 52.4564036,
             "lon": 16.9244354,
-            "timestamp": "2022-11-23T11:46:14Z",
-            "version": 2,
-            "changeset": 129278638,
+            "timestamp": "2023-01-05T09:10:21Z",
+            "version": 3,
+            "changeset": 130896872,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -48864,7 +48864,7 @@
                 "level": "0",
                 "manufacturer": "HeartSine samaritan PAD SAM 300P",
                 "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-22:00",
-                "operator": "Atlantis POSiR",
+                "operator": "POSiR Oddział Atlantis",
                 "phone": "+48 61 827 60 72",
                 "wheelchair": "yes"
             }
@@ -68948,18 +68948,20 @@
         {
             "type": "node",
             "id": 9961220718,
-            "lat": 54.3796737,
-            "lon": 19.4437963,
-            "timestamp": "2022-08-18T10:20:20Z",
-            "version": 1,
-            "changeset": 125054540,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "lat": 54.3796751,
+            "lon": 19.4438029,
+            "timestamp": "2023-01-05T08:36:16Z",
+            "version": 2,
+            "changeset": 130895711,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "ściana budynku informacji turystycznej",
+                "defibrillator:location": "Ściana budynku informacji turystycznej.",
+                "defibrillator:location:en": "The wall of the tourist information building.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -72909,9 +72911,9 @@
             "id": 10089548158,
             "lat": 52.4000391,
             "lon": 16.9474933,
-            "timestamp": "2022-10-12T07:33:07Z",
-            "version": 2,
-            "changeset": 127397705,
+            "timestamp": "2023-01-05T09:02:11Z",
+            "version": 3,
+            "changeset": 130896593,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -72925,7 +72927,7 @@
                 "opening_hours": "24/7",
                 "operator": "Stowarzyszenie Na Rzecz Osób Niepełnosprawnych \"Równy Start\"",
                 "phone": "+48 602 226 692",
-                "wheelchair": "no"
+                "wheelchair": "yes"
             }
         },
         {
@@ -73203,9 +73205,9 @@
             "id": 10095217344,
             "lat": 52.3695947,
             "lon": 16.8717776,
-            "timestamp": "2022-10-12T12:13:39Z",
-            "version": 1,
-            "changeset": 127412304,
+            "timestamp": "2023-01-05T09:08:31Z",
+            "version": 4,
+            "changeset": 130896815,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -73219,7 +73221,7 @@
                 "opening_hours": "Mo-Fr 06:30-17:00",
                 "operator": "Przedszkole nr 7",
                 "phone": "+48 789 193 499",
-                "wheelchair": "no"
+                "wheelchair": "yes"
             }
         },
         {
@@ -73565,14 +73567,14 @@
             "id": 10107916650,
             "lat": 52.4102293,
             "lon": 16.818314,
-            "timestamp": "2022-10-17T06:01:10Z",
-            "version": 1,
-            "changeset": 127649701,
+            "timestamp": "2023-01-05T09:07:22Z",
+            "version": 2,
+            "changeset": 130896779,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "klataka schodowa",
+                "defibrillator:location": "klatka schodowa",
                 "emergency": "defibrillator",
                 "emergency_telephone_code": "112",
                 "indoor": "yes",
@@ -76377,9 +76379,9 @@
             "id": 10211885048,
             "lat": 52.4379646,
             "lon": 16.9264036,
-            "timestamp": "2022-11-23T11:55:30Z",
-            "version": 1,
-            "changeset": 129279026,
+            "timestamp": "2023-01-05T09:01:03Z",
+            "version": 2,
+            "changeset": 130896557,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76393,7 +76395,7 @@
                 "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-22:00",
                 "operator": "POSiR Pływalnia Miejska Winogrady",
                 "phone": "+48 503 436 934",
-                "wheelchair": "no"
+                "wheelchair": "yes"
             }
         },
         {
@@ -76401,9 +76403,9 @@
             "id": 10211903978,
             "lat": 52.4267865,
             "lon": 16.8904205,
-            "timestamp": "2023-01-04T12:26:45Z",
-            "version": 2,
-            "changeset": 130864975,
+            "timestamp": "2023-01-05T08:59:58Z",
+            "version": 3,
+            "changeset": 130896511,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -76418,7 +76420,7 @@
                 "opening_hours": "Mo-Su 07:00-23:00",
                 "operator": "POSiR Oddział Golęcin",
                 "phone": "+48 61 840 68 72",
-                "wheelchair": "yes"
+                "wheelchair": "no"
             }
         },
         {
@@ -77022,9 +77024,9 @@
             "id": 10217085846,
             "lat": 52.4005869,
             "lon": 16.8999211,
-            "timestamp": "2022-11-25T13:02:25Z",
-            "version": 1,
-            "changeset": 129367893,
+            "timestamp": "2023-01-05T09:11:10Z",
+            "version": 2,
+            "changeset": 130896891,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -77035,7 +77037,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "manufacturer": "Defibtech LifeLine AED",
-                "opening_hours": "Mo 08:00-17:00, Tu-Fr 08:00-15:30",
+                "opening_hours": "Mo 08:00-17:00, Tu-Fr 08:00-15:00",
                 "operator": "ZKZL",
                 "phone": "+48 61 415 86 49",
                 "wheelchair": "yes"
