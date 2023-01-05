@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-05T16:31:39Z",
+        "timestamp_osm_base": "2023-01-05T17:31:39Z",
         "timestamp_areas_base": "2023-01-05T13:07:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84258,6 +84258,24 @@
                 "level": "3",
                 "opening_hours": "Mo-Su 08:00-19:00",
                 "operator": "Urząd Miejski w Świdnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10309029909,
+            "lat": 50.0313891,
+            "lon": 22.0431306,
+            "timestamp": "2023-01-05T16:34:36Z",
+            "version": 1,
+            "changeset": 130914786,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-05",
+                "defibrillator:location:pl": "Parter, gabinet nr 3.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
