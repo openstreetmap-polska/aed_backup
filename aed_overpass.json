@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T19:31:37Z",
+        "timestamp_osm_base": "2023-01-06T20:31:54Z",
         "timestamp_areas_base": "2023-01-06T19:22:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84510,24 +84510,6 @@
         },
         {
             "type": "node",
-            "id": 10311532209,
-            "lat": 50.8019464,
-            "lon": 21.425072,
-            "timestamp": "2023-01-06T17:49:04Z",
-            "version": 1,
-            "changeset": 130957241,
-            "user": "MASTER998",
-            "uid": 18195170,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "W środku budynku",
-                "defibrillator:location:en": "On the building",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 10311536309,
             "lat": 50.8089965,
             "lon": 21.4170521,
@@ -84654,6 +84636,53 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Gmina Krobia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311735747,
+            "lat": 51.3376458,
+            "lon": 16.8155661,
+            "timestamp": "2023-01-06T19:38:14Z",
+            "version": 1,
+            "changeset": 130960354,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie na rogu budynku od strony parku",
+                "defibrillator:location:en": "On the wall of the building from the side of the Park",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Totu - Salwatoriańskie Centrum Młodzieżowe",
+                "outdoor": "yes",
+                "phone": "693 402 211",
+                "source": "https://wroclaw.gosc.pl/doc/7896001.Defibrylator-juz-jest-To-sprawa-zycia-lub-smierci?fbclid=IwAR3yzq4xhqibigC3h3OkodJZahFOPH02pIrZkRq1yCieN0V6fkaI4LmRdhk",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311820840,
+            "lat": 51.6149856,
+            "lon": 15.3242802,
+            "timestamp": "2023-01-06T20:25:59Z",
+            "version": 1,
+            "changeset": 130961485,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy punkcie obsługi.",
+                "defibrillator:location:en": "On the wall by the service desk.",
+                "description": "W białej, kwadratowej gablocie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Th 07:30-15:30; Tu 07:30-17:00; Fr 07:00-14:00; Sa,Su off",
+                "operator": "Urząd Miasta Żagań",
+                "phone": "+48 68 477 10 40"
             }
         }
     ]
