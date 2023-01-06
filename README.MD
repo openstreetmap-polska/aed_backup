@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-06 20:33:08)
+# AED backup and stats (2023-01-06 21:33:09)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4585
+Total AED: 4587
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4461\
-Average daily growth since beginning of the year: 32.50
+Average daily growth since beginning of the year: 32.83
 
 ## Top creators
 | # | User | Created |
@@ -17,7 +17,7 @@ Average daily growth since beginning of the year: 32.50
 | 2 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 360 |
 | 3 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 4 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 331 |
-| 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 316 |
+| 5 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 317 |
 | 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 268 |
 | 7 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 143 |
 | 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 108 |
@@ -31,11 +31,11 @@ Average daily growth since beginning of the year: 32.50
 | 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
 | 18 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
-| 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
+| 19 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
+| 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 21 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 | 22 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 25 |
-| 23 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
+| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
 | 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 24 |
 | 25 | [Marek Janowski](<https://www.openstreetmap.org/user/Marek Janowski>) | 20 |
 
