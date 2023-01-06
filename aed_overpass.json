@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T16:31:02Z",
+        "timestamp_osm_base": "2023-01-06T17:31:20Z",
         "timestamp_areas_base": "2023-01-06T13:17:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84393,11 +84393,11 @@
         {
             "type": "node",
             "id": 10311043177,
-            "lat": 51.7751688,
-            "lon": 16.9895382,
-            "timestamp": "2023-01-06T13:47:17Z",
-            "version": 1,
-            "changeset": 130948366,
+            "lat": 51.7751485,
+            "lon": 16.9896484,
+            "timestamp": "2023-01-06T17:19:22Z",
+            "version": 2,
+            "changeset": 130956363,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -84406,6 +84406,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "note": "OSP Krobia posiada dwa AED'y. Info z ich facebook'a.",
                 "operator": "OSP Krobia"
             }
         },
@@ -84463,6 +84464,26 @@
                 "defibrillator:location": "Przy wejściu do budynku szkoły",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311485320,
+            "lat": 51.7751626,
+            "lon": 16.9893747,
+            "timestamp": "2023-01-06T17:19:22Z",
+            "version": 1,
+            "changeset": 130956363,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "OSP Krobia posiada dwa AED'y. Info z ich facebook'a.",
+                "operator": "OSP Krobia"
             }
         }
     ]
