@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T11:31:09Z",
+        "timestamp_osm_base": "2023-01-06T12:31:22Z",
         "timestamp_areas_base": "2023-01-06T10:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84238,6 +84238,48 @@
                 "defibrillator:location:pl": "Parter, gabinet nr 3.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10310674558,
+            "lat": 54.2520067,
+            "lon": 18.060395,
+            "timestamp": "2023-01-06T11:41:33Z",
+            "version": 1,
+            "changeset": 130943843,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP w Nowych Czaplach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10310753912,
+            "lat": 51.7742449,
+            "lon": 16.9845439,
+            "timestamp": "2023-01-06T11:56:59Z",
+            "version": 1,
+            "changeset": 130944481,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na parterze budynku urzędu gminy przy tablicy informacyjnej.",
+                "defibrillator:location:en": "On the ground floor of the commune office building, by the information board.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00; Sa,Su off",
+                "operator": "Gmina Krobia",
+                "phone": "+48 65 571 11 11"
             }
         }
     ]
