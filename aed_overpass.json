@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T10:31:24Z",
+        "timestamp_osm_base": "2023-01-06T11:31:09Z",
         "timestamp_areas_base": "2023-01-06T10:16:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84086,25 +84086,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://expresskaszubski.pl/pl/473_na-sygnale/37482_strazacy-z-sianowskiej-huty-i-skrzeszewa-ucza-udzielania-pierwszej-pomocy.html"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10308397610,
-            "lat": 50.0026835,
-            "lon": 18.4670067,
-            "timestamp": "2023-01-05T10:15:33Z",
-            "version": 1,
-            "changeset": 130899333,
-            "user": "PWiK Wodzisław Śląski",
-            "uid": 18181725,
-            "tags": {
-                "access": "customers",
-                "check_date": "2023-01-05",
-                "defibrillator:location:pl": "PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z O.O.\n44-300 Wodzisław Śląski, ul. Marklowicka 15\n(Biurowiec - Biuro Obsługi Klienta)",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "+48 32 4551840"
             }
         },
         {
