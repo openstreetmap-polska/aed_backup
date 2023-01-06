@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T18:31:18Z",
-        "timestamp_areas_base": "2023-01-06T18:20:08Z",
+        "timestamp_osm_base": "2023-01-06T19:31:37Z",
+        "timestamp_areas_base": "2023-01-06T19:22:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84567,14 +84567,14 @@
             "id": 10311550909,
             "lat": 50.8028921,
             "lon": 21.4315718,
-            "timestamp": "2023-01-06T17:54:26Z",
-            "version": 1,
-            "changeset": 130957379,
+            "timestamp": "2023-01-06T18:42:30Z",
+            "version": 2,
+            "changeset": 130958702,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W środku budynku",
+                "defibrillator:location": "Zakład Ubezpieczeń Społecznych",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
                 "indoor": "yes"
@@ -84614,6 +84614,26 @@
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311557874,
+            "lat": 51.4843249,
+            "lon": 15.1276477,
+            "timestamp": "2023-01-06T19:19:23Z",
+            "version": 1,
+            "changeset": 130959847,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Borowe"
             }
         },
         {
