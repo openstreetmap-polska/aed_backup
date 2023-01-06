@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T14:31:38Z",
+        "timestamp_osm_base": "2023-01-06T15:31:54Z",
         "timestamp_areas_base": "2023-01-06T13:17:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -30536,14 +30536,15 @@
             "id": 9469333772,
             "lat": 51.5866352,
             "lon": 18.7141574,
-            "timestamp": "2022-02-02T18:12:40Z",
-            "version": 1,
-            "changeset": 116929996,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-01-06T14:33:56Z",
+            "version": 2,
+            "changeset": 130950031,
+            "user": "Pescan",
+            "uid": 529629,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Biuro obsługi interesanta na parterze w budynku urzędu",
+                "defibrillator:location:en": "Behind customer service desk, on the wall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo 7:30-15:30",
@@ -83514,13 +83515,15 @@
             "id": 10302143930,
             "lat": 51.5890849,
             "lon": 18.7366373,
-            "timestamp": "2023-01-03T10:06:31Z",
-            "version": 1,
-            "changeset": 130819315,
+            "timestamp": "2023-01-06T14:33:56Z",
+            "version": 2,
+            "changeset": 130950031,
             "user": "Pescan",
             "uid": 529629,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "Przy kasach, na frontowej ścianie",
+                "defibrillator:location:en": "By checkouts, on the front wall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-20:00"
@@ -83531,13 +83534,15 @@
             "id": 10302143931,
             "lat": 51.5933202,
             "lon": 18.7334239,
-            "timestamp": "2023-01-03T10:06:31Z",
-            "version": 1,
-            "changeset": 130819315,
+            "timestamp": "2023-01-06T14:33:56Z",
+            "version": 2,
+            "changeset": 130950031,
             "user": "Pescan",
             "uid": 529629,
             "tags": {
                 "access": "customers",
+                "defibrillator:location": "Tuż za drzwiami wejściowymi, po lewej stronie, na ścianie.",
+                "defibrillator:location:en": "Right behind entrance, on the left, on the wall.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -84442,6 +84447,22 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Gogolewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311237007,
+            "lat": 54.5442345,
+            "lon": 18.4585182,
+            "timestamp": "2023-01-06T15:03:15Z",
+            "version": 1,
+            "changeset": 130951412,
+            "user": "Mister_of_America",
+            "uid": 6482691,
+            "tags": {
+                "defibrillator:location": "Przy wejściu do budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
