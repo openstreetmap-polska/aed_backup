@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T17:31:20Z",
-        "timestamp_areas_base": "2023-01-06T13:17:14Z",
+        "timestamp_osm_base": "2023-01-06T18:31:18Z",
+        "timestamp_areas_base": "2023-01-06T18:20:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84484,6 +84484,156 @@
                 "level": "0",
                 "note": "OSP Krobia posiada dwa AED'y. Info z ich facebook'a.",
                 "operator": "OSP Krobia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311520453,
+            "lat": 51.7752594,
+            "lon": 16.9864532,
+            "timestamp": "2023-01-06T17:50:02Z",
+            "version": 1,
+            "changeset": 130957273,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na lewo od głównego wejścia, na zewnętrznej ścianie.",
+                "defibrillator:location:en": "To the left of the main entrance, on the outer wall.",
+                "description": "W kwadratowej kasecie.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Gmina Krobia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311532209,
+            "lat": 50.8019464,
+            "lon": 21.425072,
+            "timestamp": "2023-01-06T17:49:04Z",
+            "version": 1,
+            "changeset": 130957241,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku budynku",
+                "defibrillator:location:en": "On the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311536309,
+            "lat": 50.8089965,
+            "lon": 21.4170521,
+            "timestamp": "2023-01-06T17:51:26Z",
+            "version": 1,
+            "changeset": 130957312,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Państwowa Straż Pożarna",
+                "defibrillator:location:en": "Fire Departament",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311550209,
+            "lat": 50.8006326,
+            "lon": 21.4257705,
+            "timestamp": "2023-01-06T17:53:45Z",
+            "version": 1,
+            "changeset": 130957379,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku budynku",
+                "defibrillator:location:en": "In the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311550909,
+            "lat": 50.8028921,
+            "lon": 21.4315718,
+            "timestamp": "2023-01-06T17:54:26Z",
+            "version": 1,
+            "changeset": 130957379,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku budynku",
+                "defibrillator:location:en": "In the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311552509,
+            "lat": 50.8002183,
+            "lon": 21.4303101,
+            "timestamp": "2023-01-06T17:55:20Z",
+            "version": 1,
+            "changeset": 130957379,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku budynku",
+                "defibrillator:location:en": "In the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311557309,
+            "lat": 50.8092036,
+            "lon": 21.4781618,
+            "timestamp": "2023-01-06T17:58:57Z",
+            "version": 1,
+            "changeset": 130957379,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ochotnicza Straż Pożarna",
+                "defibrillator:location:en": "In the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311570105,
+            "lat": 51.8134127,
+            "lon": 17.012751,
+            "timestamp": "2023-01-06T18:14:49Z",
+            "version": 1,
+            "changeset": 130957985,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W świetlicy wiejskiej.",
+                "defibrillator:location:en": "In the village hall.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Gmina Krobia"
             }
         }
     ]
