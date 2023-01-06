@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T13:31:39Z",
+        "timestamp_osm_base": "2023-01-06T14:31:38Z",
         "timestamp_areas_base": "2023-01-06T13:17:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84329,6 +84329,28 @@
         },
         {
             "type": "node",
+            "id": 10310880600,
+            "lat": 51.770464,
+            "lon": 16.9742529,
+            "timestamp": "2023-01-06T13:32:11Z",
+            "version": 1,
+            "changeset": 130947751,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze budynku przy wyjściu na wewnętrzny dziedziniec.",
+                "defibrillator:location:en": "On the ground floor of the building at the exit to the inner courtyard.",
+                "emergency": "defibrillator",
+                "fixme": "doprecyzować dostępność AED",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Gmina Krobia",
+                "phone": "+48 65 571 11 09"
+            }
+        },
+        {
+            "type": "node",
             "id": 10310895509,
             "lat": 50.8488169,
             "lon": 15.6462367,
@@ -84343,6 +84365,83 @@
                 "defibrillator:location:en": "On the wall",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10310897509,
+            "lat": 50.841836,
+            "lon": 15.6490954,
+            "timestamp": "2023-01-06T13:33:27Z",
+            "version": 1,
+            "changeset": 130947710,
+            "user": "Dralookas",
+            "uid": 18193278,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie od strony drogi",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311043177,
+            "lat": 51.7751688,
+            "lon": 16.9895382,
+            "timestamp": "2023-01-06T13:47:17Z",
+            "version": 1,
+            "changeset": 130948366,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Krobia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311151246,
+            "lat": 51.7748373,
+            "lon": 16.9369727,
+            "timestamp": "2023-01-06T13:52:55Z",
+            "version": 1,
+            "changeset": 130948580,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Pudliszki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311170174,
+            "lat": 53.3797626,
+            "lon": 15.1633859,
+            "timestamp": "2023-01-06T13:57:21Z",
+            "version": 1,
+            "changeset": 130948748,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Gogolewo"
             }
         }
     ]
