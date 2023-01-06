@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-06T21:32:09Z",
-        "timestamp_areas_base": "2023-01-06T21:22:51Z",
+        "timestamp_osm_base": "2023-01-06T22:32:08Z",
+        "timestamp_areas_base": "2023-01-06T22:23:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84535,17 +84535,19 @@
             "id": 10311536309,
             "lat": 50.8089965,
             "lon": 21.4170521,
-            "timestamp": "2023-01-06T17:51:26Z",
-            "version": 1,
-            "changeset": 130957312,
+            "timestamp": "2023-01-06T21:43:17Z",
+            "version": 2,
+            "changeset": 130963465,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Państwowa Straż Pożarna",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
                 "defibrillator:location:en": "Fire Departament",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Państwowa Straż Pożarna"
             }
         },
         {
@@ -84553,9 +84555,9 @@
             "id": 10311550209,
             "lat": 50.8006326,
             "lon": 21.4257705,
-            "timestamp": "2023-01-06T17:53:45Z",
-            "version": 1,
-            "changeset": 130957379,
+            "timestamp": "2023-01-06T21:45:52Z",
+            "version": 2,
+            "changeset": 130963527,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
@@ -84563,7 +84565,8 @@
                 "defibrillator:location": "W środku budynku",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Urząd Gminy w Opatowie"
             }
         },
         {
@@ -84589,17 +84592,17 @@
             "id": 10311552509,
             "lat": 50.8002183,
             "lon": 21.4303101,
-            "timestamp": "2023-01-06T17:55:20Z",
-            "version": 1,
-            "changeset": 130957379,
+            "timestamp": "2023-01-06T21:37:15Z",
+            "version": 2,
+            "changeset": 130963327,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W środku budynku",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Starostwo Powiatowe w Opatowie"
             }
         },
         {
@@ -84607,17 +84610,18 @@
             "id": 10311557309,
             "lat": 50.8092036,
             "lon": 21.4781618,
-            "timestamp": "2023-01-06T17:58:57Z",
-            "version": 1,
-            "changeset": 130957379,
+            "timestamp": "2023-01-06T21:34:09Z",
+            "version": 2,
+            "changeset": 130963273,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Ochotnicza Straż Pożarna",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna Brzezie"
             }
         },
         {
