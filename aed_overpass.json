@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-07T00:32:31Z",
-        "timestamp_areas_base": "2023-01-07T00:25:22Z",
+        "timestamp_osm_base": "2023-01-07T01:31:48Z",
+        "timestamp_areas_base": "2023-01-07T01:25:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -83388,18 +83388,18 @@
             "id": 10300975909,
             "lat": 51.0855621,
             "lon": 17.010446,
-            "timestamp": "2023-01-02T19:20:12Z",
-            "version": 2,
-            "changeset": 130800553,
-            "user": "Gotowi Do Ratowania",
-            "uid": 18157098,
+            "timestamp": "2023-01-07T00:38:10Z",
+            "version": 3,
+            "changeset": 130966435,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "permit",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED dostępne na 1 piętrze w sekretariacie firmy Trans.eu Group S.A. Dostępne w godzinach pracy sekretariatu 09:00-17:00",
+                "description": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "note": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
                 "operator": "Trans Group S.A."
             }
         },
@@ -83424,18 +83424,18 @@
             "id": 10300982709,
             "lat": 51.0483076,
             "lon": 17.0007533,
-            "timestamp": "2023-01-02T19:25:09Z",
-            "version": 2,
-            "changeset": 130800691,
-            "user": "Gotowi Do Ratowania",
-            "uid": 18157098,
+            "timestamp": "2023-01-07T00:37:57Z",
+            "version": 3,
+            "changeset": 130966433,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "permit",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED dostępne sekretariacie firmy Trans.eu Group S.A. w godzinach 09:00-17:00. Sekretariat zlokalizowany na parterze, wejście główne - na wprost.",
+                "description": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "note": "Model: AED Zoll Plus, zestaw w szafce, RKO Pocket Mask, rękawiczki, nożyczki, maszynka do golenia, ręczniki do osuszenia klatki piersiowej, torba transportowa, instrukcja pierwszej pomocy w NZK i użycia AED.",
                 "operator": "Trans Group S.A."
             }
         },
@@ -84729,6 +84729,21 @@
                 "indoor": "yes",
                 "opening_hours": "Mo 07:00-18:00; Tu-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Urząd Skarbowy w Żaganiu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10312189999,
+            "lat": 50.9361231,
+            "lon": 18.2764331,
+            "timestamp": "2023-01-07T00:49:35Z",
+            "version": 1,
+            "changeset": 130966557,
+            "user": "liske1",
+            "uid": 18197659,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
