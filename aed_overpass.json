@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-07T06:32:04Z",
-        "timestamp_areas_base": "2023-01-07T06:28:03Z",
+        "timestamp_osm_base": "2023-01-07T07:32:24Z",
+        "timestamp_areas_base": "2023-01-07T07:28:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84574,17 +84574,17 @@
             "id": 10311550909,
             "lat": 50.8028921,
             "lon": 21.4315718,
-            "timestamp": "2023-01-06T18:42:30Z",
-            "version": 2,
-            "changeset": 130958702,
+            "timestamp": "2023-01-07T07:11:04Z",
+            "version": 3,
+            "changeset": 130970731,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Zakład Ubezpieczeń Społecznych",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Zakład Ubezpieczeń Społecznych"
             }
         },
         {
