@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-07T18:31:39Z",
+        "timestamp_osm_base": "2023-01-07T19:31:54Z",
         "timestamp_areas_base": "2023-01-07T13:30:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10695,37 +10695,40 @@
         {
             "type": "node",
             "id": 9407252619,
-            "lat": 50.5790721,
-            "lon": 16.5020408,
-            "timestamp": "2022-01-10T11:16:57Z",
-            "version": 1,
-            "changeset": 115977205,
-            "user": "asd1asd",
-            "uid": 8067678,
+            "lat": 50.5792244,
+            "lon": 16.5015754,
+            "timestamp": "2023-01-07T18:37:00Z",
+            "version": 2,
+            "changeset": 130992284,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "Urząd Miasta Rynek 11",
-                "defibrillator:location:en": "City Hall  ",
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Miejskim",
+                "defibrillator:location:en": "City Hall",
                 "emergency": "defibrillator",
                 "location": "indoor",
-                "phone": "+48748725151"
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
+                "phone": "+48 74 872 51 51; +48 74 872 03 00"
             }
         },
         {
             "type": "node",
             "id": 9407296917,
-            "lat": 50.5765517,
-            "lon": 16.5037597,
-            "timestamp": "2022-12-31T15:28:34Z",
-            "version": 2,
-            "changeset": 130725398,
-            "user": "Grupa Poszukiwawczo-Ratownicza LIFE",
-            "uid": 18140509,
+            "lat": 50.5765715,
+            "lon": 16.50374,
+            "timestamp": "2023-01-07T18:48:23Z",
+            "version": 3,
+            "changeset": 130992582,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Miejski Ośrodek Kultury ul. Strzelecka 2",
+                "defibrillator:location": "W budynku Miejskiego Ośrodka Kultury",
+                "defibrillator:location:en": "In the building of the Municipal Cultural Center",
                 "emergency": "defibrillator",
                 "location": "indoor",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su off",
                 "operator": "Miejski Ośrodek Kultury"
             }
         },
@@ -10734,15 +10737,19 @@
             "id": 9407301617,
             "lat": 50.5460602,
             "lon": 16.5515285,
-            "timestamp": "2022-01-10T11:21:34Z",
-            "version": 1,
-            "changeset": 115977205,
-            "user": "asd1asd",
-            "uid": 8067678,
+            "timestamp": "2023-01-07T19:14:11Z",
+            "version": 2,
+            "changeset": 130993328,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Miejski Ośrodek Kultury Biblioteka Publiczna  ul. Słupiecka 2",
-                "emergency": "defibrillator"
+                "defibrillator:location": "Miejski Ośrodek Kultury Biblioteka Publiczna ul. Słupiecka 2",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 09:00-17:00; Th,Sa,Su off",
+                "operator": "Miejska Biblioteka Publiczna",
+                "phone": "+48 74 872 30 47"
             }
         },
         {
@@ -82525,17 +82532,18 @@
         {
             "type": "node",
             "id": 10296968909,
-            "lat": 50.6013841,
-            "lon": 16.5065332,
-            "timestamp": "2023-01-01T13:56:41Z",
-            "version": 3,
-            "changeset": 130749312,
-            "user": "NorthCrab",
-            "uid": 15215305,
+            "lat": 50.6014308,
+            "lon": 16.5065457,
+            "timestamp": "2023-01-07T19:02:32Z",
+            "version": 4,
+            "changeset": 130992976,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
-                "defibrillator:location:pl": "W ambulansie",
+                "defibrillator:location": "W ambulansie.",
+                "defibrillator:location:en": "In the ambulance.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Grupa Poszukiwawczo-Ratownicza LIFE",
@@ -84729,6 +84737,67 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313400870,
+            "lat": 50.5399693,
+            "lon": 16.5612908,
+            "timestamp": "2023-01-07T18:58:24Z",
+            "version": 1,
+            "changeset": 130992855,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W recepcji.",
+                "defibrillator:location:en": "In reception.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Centrum Turystyczno-Sportowe",
+                "phone": "+48 74 872 64 33"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313452049,
+            "lat": 50.5986385,
+            "lon": 16.5082773,
+            "timestamp": "2023-01-07T19:05:23Z",
+            "version": 1,
+            "changeset": 130993067,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Nowa Ruda"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313485914,
+            "lat": 50.6031636,
+            "lon": 16.5038693,
+            "timestamp": "2023-01-07T19:22:39Z",
+            "version": 1,
+            "changeset": 130993542,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku szkoły.",
+                "defibrillator:location:en": "In the school building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
+                "phone": "+48 74 872 24 21"
             }
         }
     ]
