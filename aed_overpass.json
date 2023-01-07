@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-07T21:31:33Z",
-        "timestamp_areas_base": "2023-01-07T20:35:38Z",
+        "timestamp_osm_base": "2023-01-07T22:32:09Z",
+        "timestamp_areas_base": "2023-01-07T21:36:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84798,6 +84798,60 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
                 "phone": "+48 74 872 24 21"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313691809,
+            "lat": 50.6622819,
+            "lon": 17.9267048,
+            "timestamp": "2023-01-07T21:32:23Z",
+            "version": 1,
+            "changeset": 130996828,
+            "user": "JanuszGrażyniak",
+            "uid": 18205531,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-07",
+                "defibrillator:location:pl": "Hall Główny, na ścianie obok sklepu „1 minute”.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313694709,
+            "lat": 50.6615028,
+            "lon": 17.9277216,
+            "timestamp": "2023-01-07T21:34:02Z",
+            "version": 1,
+            "changeset": 130996828,
+            "user": "JanuszGrażyniak",
+            "uid": 18205531,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-07",
+                "defibrillator:location:pl": "Dyspozytornia w budynku PolRegio",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313711909,
+            "lat": 50.3327006,
+            "lon": 18.2202002,
+            "timestamp": "2023-01-07T21:50:56Z",
+            "version": 1,
+            "changeset": 130997285,
+            "user": "JanuszGrażyniak",
+            "uid": 18205531,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-07",
+                "defibrillator:location:pl": "Dyspozytornia w budynku Polregio S.A.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
