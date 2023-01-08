@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-08T16:31:50Z",
+        "timestamp_osm_base": "2023-01-08T17:31:54Z",
         "timestamp_areas_base": "2023-01-08T13:41:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84866,6 +84866,23 @@
             "uid": 1745828,
             "tags": {
                 "defibrillator:location": "Po lewej od głównego wejścia, naprzeciwko portierni na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315169013,
+            "lat": 51.3994123,
+            "lon": 21.1487928,
+            "timestamp": "2023-01-08T17:31:44Z",
+            "version": 1,
+            "changeset": 131024162,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 1 Państwowej Straży Pożarnej w Radomiu",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
