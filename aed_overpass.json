@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-08T17:31:54Z",
+        "timestamp_osm_base": "2023-01-08T18:31:42Z",
         "timestamp_areas_base": "2023-01-08T13:41:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -60969,18 +60969,18 @@
             "id": 9687672126,
             "lat": 52.6783169,
             "lon": 18.3143708,
-            "timestamp": "2022-04-23T10:38:54Z",
-            "version": 1,
-            "changeset": 120085125,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-01-08T18:22:49Z",
+            "version": 2,
+            "changeset": 131025889,
+            "user": "jslawin2",
+            "uid": 12485703,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód Ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP w Kruszwicy",
-                "phone": "885346815"
+                "phone": "+48885346815"
             }
         },
         {
@@ -84883,6 +84883,56 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 1 Państwowej Straży Pożarnej w Radomiu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315175010,
+            "lat": 51.4203202,
+            "lon": 21.1885885,
+            "timestamp": "2023-01-08T17:33:40Z",
+            "version": 1,
+            "changeset": 131024211,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 2 Państwowej Straży Pożarnej w Radomiu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315180909,
+            "lat": 51.3589395,
+            "lon": 21.1084916,
+            "timestamp": "2023-01-08T17:34:35Z",
+            "version": 1,
+            "changeset": 131024211,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 3 Państwowej Straży Pożarnej w Radomiu",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315181410,
+            "lat": 51.4670576,
+            "lon": 21.4387325,
+            "timestamp": "2023-01-08T17:35:55Z",
+            "version": 1,
+            "changeset": 131024211,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 4 w Pionkach",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
