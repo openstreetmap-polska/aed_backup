@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-08T18:31:42Z",
+        "timestamp_osm_base": "2023-01-08T19:31:39Z",
         "timestamp_areas_base": "2023-01-08T13:41:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78123,18 +78123,20 @@
         {
             "type": "node",
             "id": 10235384341,
-            "lat": 51.5470669,
-            "lon": 23.5550401,
-            "timestamp": "2022-12-03T11:25:38Z",
-            "version": 1,
-            "changeset": 129672983,
+            "lat": 51.5470778,
+            "lon": 23.5550327,
+            "timestamp": "2023-01-08T18:44:41Z",
+            "version": 2,
+            "changeset": 131026654,
             "user": "kpv8",
             "uid": 10492626,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Wewnątrz przedsionka, na ścianie obok drzwi.",
+                "defibrillator:location:en": "Inside the vestibule, on the wall next to the door.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "24/7",
                 "operator": "UM Włodawa"
             }
         },
@@ -84933,6 +84935,93 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W budynku Jednostki Ratowniczo Gaśniczej nr 4 w Pionkach",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315305620,
+            "lat": 51.4021545,
+            "lon": 23.4086154,
+            "timestamp": "2023-01-08T18:44:02Z",
+            "version": 2,
+            "changeset": 131026626,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315426809,
+            "lat": 51.1134214,
+            "lon": 17.0730988,
+            "timestamp": "2023-01-08T19:25:03Z",
+            "version": 1,
+            "changeset": 131027966,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Katedra Ratownictwa Medycznego (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315431709,
+            "lat": 51.1109781,
+            "lon": 17.0687429,
+            "timestamp": "2023-01-08T19:27:48Z",
+            "version": 1,
+            "changeset": 131027966,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Centrum Symulacji Medycznej (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315431710,
+            "lat": 51.1096622,
+            "lon": 17.071777,
+            "timestamp": "2023-01-08T19:30:26Z",
+            "version": 1,
+            "changeset": 131028108,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Wydział Nauk o Zdrowiu (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315432709,
+            "lat": 51.1089372,
+            "lon": 17.0689628,
+            "timestamp": "2023-01-08T19:28:53Z",
+            "version": 1,
+            "changeset": 131027966,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Rektorat (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
