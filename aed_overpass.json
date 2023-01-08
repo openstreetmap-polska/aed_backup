@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-08T19:31:39Z",
-        "timestamp_areas_base": "2023-01-08T13:41:53Z",
+        "timestamp_osm_base": "2023-01-08T20:31:40Z",
+        "timestamp_areas_base": "2023-01-08T19:45:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85024,6 +85024,98 @@
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315437309,
+            "lat": 51.1188522,
+            "lon": 17.0728435,
+            "timestamp": "2023-01-08T19:33:38Z",
+            "version": 1,
+            "changeset": 131028108,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Studium Wychowania Fizycznego i Sportu (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315458709,
+            "lat": 51.0765612,
+            "lon": 17.0320546,
+            "timestamp": "2023-01-08T19:46:04Z",
+            "version": 1,
+            "changeset": 131028108,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Wydział Farmaceutyczny z Oddziałem Analityki Medycznej (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315462109,
+            "lat": 51.0951985,
+            "lon": 17.0588022,
+            "timestamp": "2023-01-08T19:47:36Z",
+            "version": 1,
+            "changeset": 131028108,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu – Wydział Lekarsko-Stomatologiczny (PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315471909,
+            "lat": 51.1117765,
+            "lon": 17.0686826,
+            "timestamp": "2023-01-08T19:53:08Z",
+            "version": 1,
+            "changeset": 131028742,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu – Centrum Naukowej Informacji Medycznej (BIBLIOTEKA PORTIERNIA)",
+                "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10315494891,
+            "lat": 50.7715445,
+            "lon": 15.7595873,
+            "timestamp": "2023-01-08T20:18:58Z",
+            "version": 1,
+            "changeset": 131029529,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Karpacz"
             }
         }
     ]
