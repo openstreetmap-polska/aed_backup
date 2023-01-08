@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-07T23:31:54Z",
+        "timestamp_osm_base": "2023-01-08T00:31:45Z",
         "timestamp_areas_base": "2023-01-07T22:36:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84850,6 +84850,22 @@
                 "access": "private",
                 "check_date": "2023-01-07",
                 "defibrillator:location:pl": "Dyspozytornia w budynku Polregio S.A.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10313858379,
+            "lat": 50.0293433,
+            "lon": 19.9058442,
+            "timestamp": "2023-01-08T00:24:46Z",
+            "version": 1,
+            "changeset": 131000004,
+            "user": "VA00",
+            "uid": 1745828,
+            "tags": {
+                "defibrillator:location": "Po lewej od głównego wejścia, naprzeciwko portierni na ścianie.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
