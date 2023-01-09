@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-09T10:31:24Z",
+        "timestamp_osm_base": "2023-01-09T11:31:24Z",
         "timestamp_areas_base": "2023-01-09T08:52:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85117,6 +85117,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Karpacz"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10316680085,
+            "lat": 52.6107059,
+            "lon": 16.5814254,
+            "timestamp": "2023-01-09T11:22:18Z",
+            "version": 1,
+            "changeset": 131050467,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W poczekalni;Na ścianie, przy drzwiach wejściowych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 7:00-17:00",
+                "operator": "Szpital w Szamotułach"
             }
         }
     ]
