@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-09T16:30:54Z",
-        "timestamp_areas_base": "2023-01-09T08:52:53Z",
+        "timestamp_osm_base": "2023-01-09T17:30:49Z",
+        "timestamp_areas_base": "2023-01-09T16:57:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39900,17 +39900,18 @@
             "id": 9520446375,
             "lat": 51.5698581,
             "lon": 21.5003961,
-            "timestamp": "2022-02-19T20:32:20Z",
-            "version": 1,
-            "changeset": 117618453,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-01-09T17:19:20Z",
+            "version": 2,
+            "changeset": 131066331,
+            "user": "Władysław Komorek",
+            "uid": 693154,
             "tags": {
                 "access": "private",
+                "amenity": "fire_station",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Stanisławowice",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Stanisławowice",
+                "operator": "OSP Stanisławowice",
                 "source": "http://www.kozienicepowiat.pl/images/dokumenty/promocja/2018/biuletyn/12.pdf"
             }
         },
@@ -85173,6 +85174,22 @@
                 "opening_hours": "24/7",
                 "operator": "Schronisko PTTK na Maciejowej",
                 "phone": "+48184475729"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10337919160,
+            "lat": 52.1849986,
+            "lon": 21.0043553,
+            "timestamp": "2023-01-09T16:38:40Z",
+            "version": 1,
+            "changeset": 131064214,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "defibrillator:location": "W recepcji Medicover na kolumnie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
