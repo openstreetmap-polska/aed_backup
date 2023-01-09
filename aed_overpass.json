@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-09T14:32:08Z",
+        "timestamp_osm_base": "2023-01-09T15:30:54Z",
         "timestamp_areas_base": "2023-01-09T08:52:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85136,6 +85136,43 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Sa 7:00-17:00",
                 "operator": "Szpital w Szamotułach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10317020432,
+            "lat": 51.6445575,
+            "lon": 17.8101706,
+            "timestamp": "2023-01-09T14:57:27Z",
+            "version": 1,
+            "changeset": 131058669,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie Targowiska Miejskiego.",
+                "emergency": "defibrillator",
+                "operator": "Targowisko Miejskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10317041837,
+            "lat": 49.5827152,
+            "lon": 20.0082112,
+            "timestamp": "2023-01-09T15:08:20Z",
+            "version": 1,
+            "changeset": 131059062,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibryltor znajduje się wewnątrz Schroniska PTTK na Maciejowej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Schronisko PTTK na Maciejowej",
+                "phone": "+48184475729"
             }
         }
     ]
