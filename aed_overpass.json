@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-09T07:31:39Z",
-        "timestamp_areas_base": "2023-01-09T06:52:02Z",
+        "timestamp_osm_base": "2023-01-09T08:32:34Z",
+        "timestamp_areas_base": "2023-01-09T07:51:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78177,9 +78177,9 @@
             "id": 10240231995,
             "lat": 52.3985592,
             "lon": 16.9611165,
-            "timestamp": "2022-12-05T14:07:13Z",
-            "version": 1,
-            "changeset": 129743560,
+            "timestamp": "2023-01-09T08:15:19Z",
+            "version": 2,
+            "changeset": 131043116,
             "user": "polar7",
             "uid": 3894590,
             "tags": {
@@ -78194,7 +78194,7 @@
                 "opening_hours": "24/7",
                 "operator": "KP Poznań Nowe Miasto",
                 "phone": "+48 47 771 23 11",
-                "wheelchair": "yes"
+                "wheelchair": "no"
             }
         },
         {
@@ -84115,9 +84115,9 @@
             "id": 10308545910,
             "lat": 50.0149945,
             "lon": 18.4828309,
-            "timestamp": "2023-01-05T11:45:31Z",
-            "version": 1,
-            "changeset": 130902989,
+            "timestamp": "2023-01-09T07:52:57Z",
+            "version": 2,
+            "changeset": 131042369,
             "user": "PWiK Wodzisław Śląski",
             "uid": 18181725,
             "tags": {
@@ -84126,6 +84126,7 @@
                 "defibrillator:location:pl": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.\nul. Marklowicka 15\n44-300 Wodzisław Śl.\n(biurowiec - Biuro Obsługi Klienta)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-We 7:00-15:00; Th 7:00-17:00; Fr 7:00-13:0",
                 "phone": "32 455 18 40"
             }
         },
