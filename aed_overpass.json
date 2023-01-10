@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-10T04:32:16Z",
-        "timestamp_areas_base": "2023-01-10T04:07:05Z",
+        "timestamp_osm_base": "2023-01-10T05:32:20Z",
+        "timestamp_areas_base": "2023-01-10T05:06:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85188,6 +85188,24 @@
             "uid": 530338,
             "tags": {
                 "defibrillator:location": "W recepcji Medicover na kolumnie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10536229609,
+            "lat": 52.2937211,
+            "lon": 21.0046246,
+            "timestamp": "2023-01-10T04:54:13Z",
+            "version": 1,
+            "changeset": 131091416,
+            "user": "Gholody",
+            "uid": 18171319,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Medicover Przychodnia pediatryczna2 pietro",
+                "defibrillator:location:en": "MEDICOVER CHILD CARE UNIT 2nd floor",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
