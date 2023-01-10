@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-10T21:31:38Z",
-        "timestamp_areas_base": "2023-01-10T21:17:24Z",
+        "timestamp_osm_base": "2023-01-10T22:34:23Z",
+        "timestamp_areas_base": "2023-01-10T22:18:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85343,6 +85343,23 @@
                 "defibrillator:location:en": "On front wall",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10537915912,
+            "lat": 54.7706415,
+            "lon": 17.7985221,
+            "timestamp": "2023-01-10T22:31:19Z",
+            "version": 2,
+            "changeset": 131124019,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pojazd straży pożarnej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
