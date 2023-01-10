@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-10T17:31:09Z",
+        "timestamp_osm_base": "2023-01-10T18:31:54Z",
         "timestamp_areas_base": "2023-01-10T09:07:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85197,15 +85197,15 @@
             "id": 10536229609,
             "lat": 52.2937211,
             "lon": 21.0046246,
-            "timestamp": "2023-01-10T04:54:13Z",
-            "version": 1,
-            "changeset": 131091416,
-            "user": "Gholody",
-            "uid": 18171319,
+            "timestamp": "2023-01-10T18:31:12Z",
+            "version": 2,
+            "changeset": 131117764,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Medicover Przychodnia pediatryczna2 pietro",
-                "defibrillator:location:en": "MEDICOVER CHILD CARE UNIT 2nd floor",
+                "defibrillator:location": "Medicover przychodnia pediatryczna 2 piętro",
+                "defibrillator:location:en": "Medicover child care unit 2nd floor",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -85323,6 +85323,24 @@
                 "access": "yes",
                 "check_date": "2023-01-10",
                 "defibrillator:location:pl": "AED zamontowany na ścianie po lewej stronie od wejścia do Straży Miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10537526609,
+            "lat": 54.6800012,
+            "lon": 18.4163457,
+            "timestamp": "2023-01-10T18:08:23Z",
+            "version": 1,
+            "changeset": 131117139,
+            "user": "modelot",
+            "uid": 8084922,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej remizy",
+                "defibrillator:location:en": "On front wall",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
