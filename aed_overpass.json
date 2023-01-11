@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T07:31:10Z",
-        "timestamp_areas_base": "2023-01-11T07:20:55Z",
+        "timestamp_osm_base": "2023-01-11T08:31:57Z",
+        "timestamp_areas_base": "2023-01-11T08:20:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85360,6 +85360,44 @@
                 "defibrillator:location": "Pojazd straży pożarnej",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538774710,
+            "lat": 52.715016,
+            "lon": 21.2409083,
+            "timestamp": "2023-01-11T08:07:43Z",
+            "version": 1,
+            "changeset": 131134146,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Obryte",
+                "source": "https://wpu24.pl/pl/19_wiadomosci-z-regionu/12518_te-urzadzenia-ratuja-zycie-udostepnia-je-w-obrytem.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538774729,
+            "lat": 52.7161207,
+            "lon": 21.2553716,
+            "timestamp": "2023-01-11T08:07:43Z",
+            "version": 1,
+            "changeset": 131134146,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Obryte",
+                "source": "https://wpu24.pl/pl/19_wiadomosci-z-regionu/12518_te-urzadzenia-ratuja-zycie-udostepnia-je-w-obrytem.html"
             }
         }
     ]
