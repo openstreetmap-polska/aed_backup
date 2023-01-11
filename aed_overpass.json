@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T08:31:57Z",
-        "timestamp_areas_base": "2023-01-11T08:20:54Z",
+        "timestamp_osm_base": "2023-01-11T09:31:51Z",
+        "timestamp_areas_base": "2023-01-11T09:21:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85398,6 +85398,20 @@
                 "indoor": "yes",
                 "operator": "OSP Obryte",
                 "source": "https://wpu24.pl/pl/19_wiadomosci-z-regionu/12518_te-urzadzenia-ratuja-zycie-udostepnia-je-w-obrytem.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538884209,
+            "lat": 51.0865027,
+            "lon": 17.0476814,
+            "timestamp": "2023-01-11T09:31:08Z",
+            "version": 1,
+            "changeset": 131137186,
+            "user": "jacek lawniczak",
+            "uid": 4210348,
+            "tags": {
+                "emergency": "defibrillator"
             }
         }
     ]
