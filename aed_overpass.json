@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T20:32:25Z",
-        "timestamp_areas_base": "2023-01-11T20:30:24Z",
+        "timestamp_osm_base": "2023-01-11T21:31:19Z",
+        "timestamp_areas_base": "2023-01-11T21:30:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -25694,16 +25694,17 @@
             "id": 9453984419,
             "lat": 51.3509399,
             "lon": 18.7601481,
-            "timestamp": "2022-01-27T20:56:36Z",
-            "version": 1,
-            "changeset": 116682229,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-01-11T21:10:55Z",
+            "version": 2,
+            "changeset": 131162223,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "defibrillator:location": "Dwa defibrylatory AED znajdują się na wyposażeniu pojazdów ratowniczo-gaśniczych OSP Szynkielów.",
                 "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
                 "operator": "OSP Szynkielów"
             }
         },
@@ -30058,18 +30059,21 @@
             "id": 9466870927,
             "lat": 51.2206286,
             "lon": 18.568627,
-            "timestamp": "2022-02-01T20:41:14Z",
-            "version": 2,
-            "changeset": 116884645,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "timestamp": "2023-01-11T20:54:58Z",
+            "version": 3,
+            "changeset": 131161850,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku kina (w holu po lewej stronie)",
+                "access": "yes",
+                "defibrillator:location": "W holu głównym po lewej stronie, przy wejściu A.",
                 "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Su 13:00-21:00",
-                "phone": "+48 43 656 44 66"
+                "operator": "Wieluński Dom Kultury",
+                "phone": "43 656 44 66"
             }
         },
         {
@@ -30098,18 +30102,21 @@
             "id": 9466889991,
             "lat": 51.2193807,
             "lon": 18.5720703,
-            "timestamp": "2022-02-01T19:11:31Z",
-            "version": 1,
-            "changeset": 116881184,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-01-11T21:01:25Z",
+            "version": 2,
+            "changeset": 131161999,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Urządzenie znajduje się wewnątrz budynku w części zajmowanej przez Urząd Miejski w Wieluniu (po lewej stronie)",
+                "access": "yes",
+                "defibrillator:location": "Po lewej stronie od wejścia we wnęce",
                 "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Fr 7:30-15:30",
-                "phone": "+48 43 886 02 34"
+                "operator": "Starostwo Powiatowe w Wieluniu",
+                "phone": "43 843 42 80"
             }
         },
         {
@@ -53624,16 +53631,17 @@
             "id": 9603145013,
             "lat": 51.2196118,
             "lon": 18.5749874,
-            "timestamp": "2022-03-24T12:33:54Z",
-            "version": 1,
-            "changeset": 118863179,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-01-11T21:13:08Z",
+            "version": 2,
+            "changeset": 131162282,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "Defibrylator AED na wyposażeniu jednostki OSP Wieluń.",
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczych OSP Wieluń",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7",
+                "emergency:phone": "112",
+                "indoor": "yes",
                 "operator": "OSP Wieluń"
             }
         },
@@ -53689,16 +53697,19 @@
             "id": 9603181442,
             "lat": 51.223451,
             "lon": 18.5693426,
-            "timestamp": "2022-03-24T12:40:43Z",
-            "version": 1,
-            "changeset": 118863427,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-01-11T20:42:04Z",
+            "version": 2,
+            "changeset": 131161525,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego JRG Wieluń.",
+                "access": "yes",
+                "defibrillator:location": "Dwa defibrylatory AED znajdują się na wyposażeniu pojazdów ratowniczo-gaśniczych JRG Wieluń",
                 "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes",
-                "operator": "Jednostka Ratowniczo-Gaśnicza PSP w Wieluniu"
+                "operator": "KP PSP Wieluń",
+                "phone": "43 841 10 20"
             }
         },
         {
