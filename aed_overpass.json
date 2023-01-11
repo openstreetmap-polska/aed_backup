@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T18:31:39Z",
-        "timestamp_areas_base": "2023-01-11T18:28:39Z",
+        "timestamp_osm_base": "2023-01-11T19:31:29Z",
+        "timestamp_areas_base": "2023-01-11T19:29:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85581,6 +85581,24 @@
                 "check_date": "2023-01-11",
                 "defibrillator:location:pl": "W pomieszczeniu gdzie bankomat GBS",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10540288809,
+            "lat": 52.1836052,
+            "lon": 20.8394909,
+            "timestamp": "2023-01-11T18:48:56Z",
+            "version": 1,
+            "changeset": 131157952,
+            "user": "małyfanfnaf",
+            "uid": 12510523,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "w supermarkecie Auchan",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes"
             }
         }
