@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T13:31:24Z",
+        "timestamp_osm_base": "2023-01-11T14:32:07Z",
         "timestamp_areas_base": "2023-01-11T12:23:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85564,6 +85564,24 @@
                 "indoor": "no",
                 "operator": "Pomorska Kolej Metropolitalna SA.",
                 "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10539758609,
+            "lat": 52.9940619,
+            "lon": 15.2200303,
+            "timestamp": "2023-01-11T14:05:24Z",
+            "version": 1,
+            "changeset": 131147795,
+            "user": "MW Barlinek",
+            "uid": 10154877,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-11",
+                "defibrillator:location:pl": "W pomieszczeniu gdzie bankomat GBS",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
