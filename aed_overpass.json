@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-11T09:31:51Z",
+        "timestamp_osm_base": "2023-01-11T10:31:38Z",
         "timestamp_areas_base": "2023-01-11T09:21:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85412,6 +85412,150 @@
             "uid": 4210348,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538895609,
+            "lat": 54.3874567,
+            "lon": 18.4462785,
+            "timestamp": "2023-01-11T09:38:05Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538897409,
+            "lat": 54.3826482,
+            "lon": 18.4665772,
+            "timestamp": "2023-01-11T09:39:21Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538897410,
+            "lat": 54.3732147,
+            "lon": 18.5066006,
+            "timestamp": "2023-01-11T09:40:27Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538897411,
+            "lat": 54.3552614,
+            "lon": 18.5286566,
+            "timestamp": "2023-01-11T09:41:23Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538904909,
+            "lat": 54.3535668,
+            "lon": 18.5500719,
+            "timestamp": "2023-01-11T09:42:47Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538906309,
+            "lat": 54.3645833,
+            "lon": 18.573368,
+            "timestamp": "2023-01-11T09:44:16Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538906809,
+            "lat": 54.3775452,
+            "lon": 18.5718957,
+            "timestamp": "2023-01-11T09:45:07Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10538907609,
+            "lat": 54.3913143,
+            "lon": 18.5781921,
+            "timestamp": "2023-01-11T09:46:09Z",
+            "version": 1,
+            "changeset": 131137482,
+            "user": "Pomorska Kolej Metropolitalna SA",
+            "uid": 18240485,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Pomorska Kolej Metropolitalna SA \nNa peronie 2, przy słupku SOS/INFO",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 58 350 11 00"
             }
         }
     ]
