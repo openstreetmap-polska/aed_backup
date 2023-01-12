@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T13:31:39Z",
-        "timestamp_areas_base": "2023-01-12T09:34:54Z",
+        "timestamp_osm_base": "2023-01-12T14:30:33Z",
+        "timestamp_areas_base": "2023-01-12T13:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78283,17 +78283,18 @@
             "id": 10241126309,
             "lat": 51.198119,
             "lon": 18.5570001,
-            "timestamp": "2022-12-05T22:00:24Z",
-            "version": 1,
-            "changeset": 129758592,
-            "user": "OSP_Gaszyn",
-            "uid": 17897566,
+            "timestamp": "2023-01-12T14:01:52Z",
+            "version": 3,
+            "changeset": 131190265,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Wóz bojowy OSP w Gaszynie",
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Gaszyn.",
                 "defibrillator:location:en": "Firebrigade car",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Gaszyn"
             }
         },
         {
@@ -85725,6 +85726,118 @@
                 "defibrillator:location:en": "At the gatehouse on the ground floor of the ZUGIL office building at 56 Sieradzka Street",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542939609,
+            "lat": 53.1497898,
+            "lon": 16.7423532,
+            "timestamp": "2023-01-12T13:35:17Z",
+            "version": 1,
+            "changeset": 131189318,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hol główny.\nI piętro - główne wejście od ul. 11-tego listopada",
+                "defibrillator:location:en": "main entrance - first floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "672122643"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542956309,
+            "lat": 53.1434693,
+            "lon": 17.2743241,
+            "timestamp": "2023-01-12T13:46:33Z",
+            "version": 1,
+            "changeset": 131189720,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Recepcja - parter",
+                "defibrillator:location:en": "Reception, ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "602325119"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542962809,
+            "lat": 53.1107096,
+            "lon": 17.0099895,
+            "timestamp": "2023-01-12T13:51:17Z",
+            "version": 1,
+            "changeset": 131189720,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie mobilne.\nWóz bojowy 557 63",
+                "defibrillator:location:en": "Mobile device",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542963914,
+            "lat": 52.4088078,
+            "lon": 16.7771866,
+            "timestamp": "2023-01-12T13:58:13Z",
+            "version": 1,
+            "changeset": 131189720,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Parter",
+                "defibrillator:location:en": "Ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "530483906"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542976709,
+            "lat": 52.7981146,
+            "lon": 21.9074595,
+            "timestamp": "2023-01-12T14:02:20Z",
+            "version": 1,
+            "changeset": 131189720,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Gabinet zabiegowy",
+                "defibrillator:location:en": "Treatment room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "508722993"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542976710,
+            "lat": 53.2640833,
+            "lon": 16.6951239,
+            "timestamp": "2023-01-12T14:08:46Z",
+            "version": 1,
+            "changeset": 131189720,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Świetlica - na zewnątrz budynku",
+                "defibrillator:location:en": "Common room - outside the building",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
