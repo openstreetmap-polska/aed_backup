@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T18:31:09Z",
+        "timestamp_osm_base": "2023-01-12T19:32:03Z",
         "timestamp_areas_base": "2023-01-12T13:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5055,16 +5055,17 @@
             "id": 9036458974,
             "lat": 50.9686987,
             "lon": 20.6786185,
-            "timestamp": "2022-01-29T17:02:41Z",
-            "version": 2,
-            "changeset": 116752603,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-01-12T19:27:25Z",
+            "version": 3,
+            "changeset": 131201964,
+            "user": "Grzesiek9910",
+            "uid": 18257347,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Zagnańsk Chrusty"
             }
         },
@@ -85896,6 +85897,383 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543644910,
+            "lat": 50.9602445,
+            "lon": 21.280132,
+            "timestamp": "2023-01-12T18:34:13Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543644911,
+            "lat": 50.9362001,
+            "lon": 21.3875721,
+            "timestamp": "2023-01-12T18:34:46Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543645909,
+            "lat": 50.9162638,
+            "lon": 21.3260932,
+            "timestamp": "2023-01-12T18:31:37Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543645910,
+            "lat": 50.9393449,
+            "lon": 21.376283,
+            "timestamp": "2023-01-12T18:33:30Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543645911,
+            "lat": 50.8389676,
+            "lon": 21.2039763,
+            "timestamp": "2023-01-12T18:36:12Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543646309,
+            "lat": 50.92475,
+            "lon": 21.3782651,
+            "timestamp": "2023-01-12T18:32:15Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543647609,
+            "lat": 50.9083747,
+            "lon": 21.4393871,
+            "timestamp": "2023-01-12T18:32:48Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543647610,
+            "lat": 50.8992906,
+            "lon": 21.2225691,
+            "timestamp": "2023-01-12T18:36:40Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543647611,
+            "lat": 50.980281,
+            "lon": 21.3168046,
+            "timestamp": "2023-01-12T18:39:03Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543652909,
+            "lat": 50.932216,
+            "lon": 21.3896969,
+            "timestamp": "2023-01-12T18:35:22Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Siedziba ZRM",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543652911,
+            "lat": 51.0150073,
+            "lon": 21.5382687,
+            "timestamp": "2023-01-12T18:37:19Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543652912,
+            "lat": 50.9430759,
+            "lon": 21.3868958,
+            "timestamp": "2023-01-12T18:42:50Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie w środku",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543652913,
+            "lat": 50.9380768,
+            "lon": 21.3307937,
+            "timestamp": "2023-01-12T18:44:40Z",
+            "version": 1,
+            "changeset": 131200634,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543676809,
+            "lat": 50.9404572,
+            "lon": 21.3895819,
+            "timestamp": "2023-01-12T18:42:25Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543679209,
+            "lat": 50.9481604,
+            "lon": 21.4055635,
+            "timestamp": "2023-01-12T18:43:15Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Grupa ratownictwa HCPP",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543679309,
+            "lat": 50.9429269,
+            "lon": 21.3886935,
+            "timestamp": "2023-01-12T18:43:36Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek PCK",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543679809,
+            "lat": 50.9405398,
+            "lon": 21.3751759,
+            "timestamp": "2023-01-12T18:44:01Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543679812,
+            "lat": 50.9249109,
+            "lon": 21.3720897,
+            "timestamp": "2023-01-12T18:48:59Z",
+            "version": 1,
+            "changeset": 131200792,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543687309,
+            "lat": 50.9479866,
+            "lon": 21.4004028,
+            "timestamp": "2023-01-12T18:49:30Z",
+            "version": 1,
+            "changeset": 131200792,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543687509,
+            "lat": 50.9704097,
+            "lon": 21.3874175,
+            "timestamp": "2023-01-12T18:49:51Z",
+            "version": 1,
+            "changeset": 131200792,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543700309,
+            "lat": 50.9822711,
+            "lon": 21.2496774,
+            "timestamp": "2023-01-12T18:57:06Z",
+            "version": 1,
+            "changeset": 131201061,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozie strażackim",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543748779,
+            "lat": 51.1114279,
+            "lon": 17.0660588,
+            "timestamp": "2023-01-12T19:31:39Z",
+            "version": 1,
+            "changeset": 131202094,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Collegium Anatomicum",
+                "emergency": "defibrillator",
+                "source": "https://wroclaw.tvp.pl/65605400/nowe-defibrylatory-na-terenie-uniwersytetu-medycznego"
             }
         }
     ]
