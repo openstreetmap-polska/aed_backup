@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T10:30:54Z",
+        "timestamp_osm_base": "2023-01-12T11:31:39Z",
         "timestamp_areas_base": "2023-01-12T09:34:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85637,16 +85637,17 @@
             "id": 10542608210,
             "lat": 51.1398441,
             "lon": 18.5136835,
-            "timestamp": "2023-01-12T09:34:20Z",
-            "version": 1,
-            "changeset": 131178784,
+            "timestamp": "2023-01-12T10:54:05Z",
+            "version": 2,
+            "changeset": 131182073,
             "user": "Defibrylatorek",
             "uid": 18245510,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego OSP Ożarów",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Ożarów"
             }
         },
         {
@@ -85673,9 +85674,9 @@
             "id": 10542623309,
             "lat": 51.355684,
             "lon": 18.8310976,
-            "timestamp": "2023-01-12T09:42:21Z",
-            "version": 1,
-            "changeset": 131178784,
+            "timestamp": "2023-01-12T10:52:20Z",
+            "version": 2,
+            "changeset": 131181954,
             "user": "Defibrylatorek",
             "uid": 18245510,
             "tags": {
@@ -85683,7 +85684,29 @@
                 "defibrillator:location": "Defibrylator AED znajduje się na terenie prywatnej posesji w budynku mieszkalnym.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Ratownik Medyczny",
                 "phone": "+48 663 995 446"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542680657,
+            "lat": 52.2766403,
+            "lon": 20.9479404,
+            "timestamp": "2023-01-12T10:38:46Z",
+            "version": 1,
+            "changeset": 131181377,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Po prawej stronie od głównego wejścia, na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-16:00",
+                "operator": "Urząd Dzielnicy Bielany",
+                "phone": "+48224434700"
             }
         }
     ]
