@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T17:31:23Z",
+        "timestamp_osm_base": "2023-01-12T18:31:09Z",
         "timestamp_areas_base": "2023-01-12T13:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85838,6 +85838,64 @@
                 "defibrillator:location:en": "Common room - outside the building",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543548309,
+            "lat": 52.5708325,
+            "lon": 21.8371936,
+            "timestamp": "2023-01-12T17:48:20Z",
+            "version": 1,
+            "changeset": 131199097,
+            "user": "OSP TOPÓR",
+            "uid": 18256470,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-12",
+                "defibrillator:location:pl": "Ochotnicza Straż Pożarna w Toporze. Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48506803130"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543644709,
+            "lat": 50.9432311,
+            "lon": 21.3924082,
+            "timestamp": "2023-01-12T18:30:10Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10543644909,
+            "lat": 50.9278127,
+            "lon": 21.3671469,
+            "timestamp": "2023-01-12T18:30:53Z",
+            "version": 1,
+            "changeset": 131200259,
+            "user": "Krystian Mularczyk",
+            "uid": 18256796,
+            "tags": {
+                "defibrillator:location": "W wozie strażackim",
+                "defibrillator:location:en": "In firetruck",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "112"
             }
         }
     ]
