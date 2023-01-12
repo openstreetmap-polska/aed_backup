@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T09:31:54Z",
-        "timestamp_areas_base": "2023-01-12T06:33:09Z",
+        "timestamp_osm_base": "2023-01-12T10:30:54Z",
+        "timestamp_areas_base": "2023-01-12T09:34:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85630,6 +85630,60 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48538515375"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542608210,
+            "lat": 51.1398441,
+            "lon": 18.5136835,
+            "timestamp": "2023-01-12T09:34:20Z",
+            "version": 1,
+            "changeset": 131178784,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego OSP Ożarów",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542609309,
+            "lat": 53.1609343,
+            "lon": 16.7796631,
+            "timestamp": "2023-01-12T09:31:56Z",
+            "version": 1,
+            "changeset": 131178696,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie mobilne.\nPodział bojowy (wóz: GCBA)",
+                "defibrillator:location:en": "Mobile device",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "477718870"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10542623309,
+            "lat": 51.355684,
+            "lon": 18.8310976,
+            "timestamp": "2023-01-12T09:42:21Z",
+            "version": 1,
+            "changeset": 131178784,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie prywatnej posesji w budynku mieszkalnym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 663 995 446"
             }
         }
     ]
