@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T03:32:24Z",
-        "timestamp_areas_base": "2023-01-12T01:31:28Z",
+        "timestamp_osm_base": "2023-01-12T04:32:21Z",
+        "timestamp_areas_base": "2023-01-12T03:33:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -25694,16 +25694,15 @@
             "id": 9453984419,
             "lat": 51.3509399,
             "lon": 18.7601481,
-            "timestamp": "2023-01-11T21:10:55Z",
-            "version": 2,
-            "changeset": 131162223,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Dwa defibrylatory AED znajdują się na wyposażeniu pojazdów ratowniczo-gaśniczych OSP Szynkielów.",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Szynkielów"
             }
@@ -30059,21 +30058,20 @@
             "id": 9466870927,
             "lat": 51.2206286,
             "lon": 18.568627,
-            "timestamp": "2023-01-11T22:05:36Z",
-            "version": 4,
-            "changeset": 131163656,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:12:12Z",
+            "version": 5,
+            "changeset": 131168961,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu głównym po lewej stronie, przy wejściu A.",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Su 13:00-21:00",
                 "operator": "Wieluński Dom Kultury",
-                "phone": "43 656 44 66"
+                "phone": "+48 43 656 44 66"
             }
         },
         {
@@ -30102,21 +30100,20 @@
             "id": 9466889991,
             "lat": 51.2193807,
             "lon": 18.5720703,
-            "timestamp": "2023-01-11T22:06:24Z",
-            "version": 3,
-            "changeset": 131163681,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:12:41Z",
+            "version": 4,
+            "changeset": 131168970,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Po lewej stronie od wejścia we wnęce.",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Fr 7:30-15:30",
                 "operator": "Starostwo Powiatowe w Wieluniu",
-                "phone": "43 843 42 80"
+                "phone": "+48 43 843 42 80"
             }
         },
         {
@@ -48098,21 +48095,20 @@
             "id": 9568038417,
             "lat": 51.2321959,
             "lon": 18.5869169,
-            "timestamp": "2023-01-11T20:06:57Z",
-            "version": 4,
-            "changeset": 131160573,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 5,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Portiernia firmy Gala Poland. Dzwonić domofonem przy furtce.",
                 "defibrillator:location:en": "Reception Gala Poland",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Gala Poland",
-                "phone": "43 843 77 07"
+                "phone": "+48 43 843 77 07"
             }
         },
         {
@@ -51676,16 +51672,15 @@
             "id": 9580178898,
             "lat": 51.2996353,
             "lon": 18.746109,
-            "timestamp": "2023-01-11T19:48:50Z",
-            "version": 2,
-            "changeset": 131159884,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Czernice",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Czernice"
             }
@@ -52067,16 +52062,15 @@
             "id": 9580323398,
             "lat": 51.2872592,
             "lon": 18.7924763,
-            "timestamp": "2023-01-11T19:50:33Z",
-            "version": 2,
-            "changeset": 131159995,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Osjaków.",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Osjaków"
             }
@@ -53631,16 +53625,15 @@
             "id": 9603145013,
             "lat": 51.2196118,
             "lon": 18.5749874,
-            "timestamp": "2023-01-11T21:13:08Z",
-            "version": 2,
-            "changeset": 131162282,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczych OSP Wieluń",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Wieluń"
             }
@@ -53699,19 +53692,18 @@
             "id": 9603181442,
             "lat": 51.223451,
             "lon": 18.5693426,
-            "timestamp": "2023-01-11T20:42:04Z",
-            "version": 2,
-            "changeset": 131161525,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Dwa defibrylatory AED znajdują się na wyposażeniu pojazdów ratowniczo-gaśniczych JRG Wieluń",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "KP PSP Wieluń",
-                "phone": "43 841 10 20"
+                "phone": "+48 43 841 10 20"
             }
         },
         {
@@ -68410,16 +68402,15 @@
             "id": 9933610184,
             "lat": 51.2547148,
             "lon": 18.6376794,
-            "timestamp": "2023-01-11T19:53:35Z",
-            "version": 2,
-            "changeset": 131160169,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Masłowice",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Masłowice"
             }
@@ -76355,16 +76346,15 @@
             "id": 10211760634,
             "lat": 51.3382633,
             "lon": 18.7141906,
-            "timestamp": "2023-01-11T19:46:44Z",
-            "version": 2,
-            "changeset": 131159761,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Wielgie",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Wielgie"
             }
@@ -76374,16 +76364,15 @@
             "id": 10211780345,
             "lat": 51.3162793,
             "lon": 18.6557469,
-            "timestamp": "2023-01-11T19:52:18Z",
-            "version": 2,
-            "changeset": 131160108,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Skrzynno",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "operator": "OSP Skrzynno"
             }
@@ -77020,16 +77009,15 @@
             "id": 10217049428,
             "lat": 51.2314683,
             "lon": 18.5882208,
-            "timestamp": "2023-01-11T20:09:57Z",
-            "version": 2,
-            "changeset": 131160655,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "timestamp": "2023-01-12T04:15:53Z",
+            "version": 3,
+            "changeset": 131169014,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Budynek H-14",
                 "emergency": "defibrillator",
-                "emergency:phone": "112",
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Gala Poland"
