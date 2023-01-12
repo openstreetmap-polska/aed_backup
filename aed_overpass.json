@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T21:31:45Z",
-        "timestamp_areas_base": "2023-01-12T20:41:53Z",
+        "timestamp_osm_base": "2023-01-12T22:32:39Z",
+        "timestamp_areas_base": "2023-01-12T21:45:57Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -29029,17 +29029,17 @@
             "id": 9466540196,
             "lat": 52.60269,
             "lon": 21.54067,
-            "timestamp": "2022-02-26T11:35:02Z",
-            "version": 2,
-            "changeset": 117876215,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-01-12T22:12:37Z",
+            "version": 3,
+            "changeset": 131206637,
+            "user": "Robert2732818",
+            "uid": 18255087,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna Wyszków"
+                "operator": "Ochotnicza Straż Pożarna Kamieńczyku"
             }
         },
         {
