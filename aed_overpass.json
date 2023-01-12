@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-12T08:32:01Z",
+        "timestamp_osm_base": "2023-01-12T09:31:54Z",
         "timestamp_areas_base": "2023-01-12T06:33:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39200,13 +39200,14 @@
             "id": 9514032005,
             "lat": 53.3837539,
             "lon": 14.6675131,
-            "timestamp": "2022-02-19T18:38:51Z",
-            "version": 3,
-            "changeset": 117615410,
+            "timestamp": "2023-01-12T08:53:40Z",
+            "version": 4,
+            "changeset": 131177184,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-01-12",
                 "defibrillator:location": "Decathlon przy kasach.",
                 "defibrillator:location:en": "At the Decathlon checkout.",
                 "emergency": "defibrillator",
