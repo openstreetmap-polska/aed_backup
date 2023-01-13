@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T06:32:22Z",
+        "timestamp_osm_base": "2023-01-13T07:31:09Z",
         "timestamp_areas_base": "2023-01-13T05:48:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86274,6 +86274,24 @@
                 "defibrillator:location": "Collegium Anatomicum",
                 "emergency": "defibrillator",
                 "source": "https://wroclaw.tvp.pl/65605400/nowe-defibrylatory-na-terenie-uniwersytetu-medycznego"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10548294809,
+            "lat": 52.3203359,
+            "lon": 21.6782268,
+            "timestamp": "2023-01-13T07:02:11Z",
+            "version": 1,
+            "changeset": 131216057,
+            "user": "OSP DOBRE",
+            "uid": 18261233,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-13",
+                "defibrillator:location:pl": "Na ścianie budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
