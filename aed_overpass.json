@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T14:31:40Z",
+        "timestamp_osm_base": "2023-01-13T15:30:51Z",
         "timestamp_areas_base": "2023-01-13T12:51:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85846,17 +85846,18 @@
             "id": 10543548309,
             "lat": 52.5708325,
             "lon": 21.8371936,
-            "timestamp": "2023-01-12T17:48:20Z",
-            "version": 1,
-            "changeset": 131199097,
+            "timestamp": "2023-01-13T15:24:46Z",
+            "version": 2,
+            "changeset": 131234701,
             "user": "OSP TOPÓR",
             "uid": 18256470,
             "tags": {
                 "access": "private",
                 "check_date": "2023-01-12",
-                "defibrillator:location:pl": "Ochotnicza Straż Pożarna w Toporze. Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Toporze",
                 "phone": "+48506803130"
             }
         },
@@ -86348,6 +86349,25 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "+48 532 698 072",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10550342809,
+            "lat": 50.6375208,
+            "lon": 18.2854065,
+            "timestamp": "2023-01-13T15:23:28Z",
+            "version": 1,
+            "changeset": 131234634,
+            "user": "Mateusz Krupa",
+            "uid": 18265524,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-13",
+                "defibrillator:location:en": "Ochotnicza Straż Pożarna w Spóroku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48724974442"
             }
         }
     ]
