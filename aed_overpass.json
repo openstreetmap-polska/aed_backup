@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T11:32:02Z",
-        "timestamp_areas_base": "2023-01-13T08:49:23Z",
+        "timestamp_osm_base": "2023-01-13T12:31:09Z",
+        "timestamp_areas_base": "2023-01-13T11:51:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86336,16 +86336,17 @@
             "id": 10548630709,
             "lat": 52.1921537,
             "lon": 21.0081348,
-            "timestamp": "2023-01-13T11:11:59Z",
-            "version": 1,
-            "changeset": 131224853,
-            "user": "II Ogród Jordanowski - Bytnara 15a",
-            "uid": 18263214,
+            "timestamp": "2023-01-13T12:05:41Z",
+            "version": 2,
+            "changeset": 131226910,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator znajduje się w portierni placówki II Ogrodu Jordanowskiego. W placówce w której w ciągu dnia przebywają pracownicy Ogrodu, a po zamknięciu pracownik ochrony. \nKontakt poza godzinami placówki (pracownik ochrony) 532 698 072",
                 "defibrillator:location:en": "The AED is located in the porter's lodge of the 2nd Jordan Garden facility. In a facility where Garden employees stay during the day, and a security guard after closing. Contact outside office hours (security) 532 698 072",
                 "emergency": "defibrillator",
+                "emergency:phone": "+48 532 698 072",
                 "indoor": "yes"
             }
         }
