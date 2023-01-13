@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T18:31:39Z",
-        "timestamp_areas_base": "2023-01-13T17:55:53Z",
+        "timestamp_osm_base": "2023-01-13T19:39:58Z",
+        "timestamp_areas_base": "2023-01-13T18:56:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44391,17 +44391,18 @@
             "id": 9531079855,
             "lat": 51.4315744,
             "lon": 21.3257035,
-            "timestamp": "2022-02-23T22:49:14Z",
-            "version": 1,
-            "changeset": 117790470,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-01-13T18:42:07Z",
+            "version": 2,
+            "changeset": 131241394,
+            "user": "Jakub Wachnicki",
+            "uid": 17655008,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Pionki",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Jedlnia-Letnisko",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "Ochotnicza Straż Pożarna w Pionkach"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Jedlni-Letnisko"
             }
         },
         {
@@ -48744,14 +48745,14 @@
             "id": 9568694117,
             "lat": 51.7995385,
             "lon": 15.7088703,
-            "timestamp": "2022-03-10T12:43:49Z",
-            "version": 1,
-            "changeset": 118321630,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-01-13T18:50:03Z",
+            "version": 2,
+            "changeset": 131241647,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W poczekalni jest dostępny defibrylator.",
+                "defibrillator:location": "W poczekalni",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -65391,16 +65392,17 @@
             "id": 9817350410,
             "lat": 51.865748,
             "lon": 15.7317529,
-            "timestamp": "2022-06-14T14:14:47Z",
-            "version": 1,
-            "changeset": 122374670,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-01-13T19:00:04Z",
+            "version": 2,
+            "changeset": 131241945,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na Ścianie Po Prawej Stronie Wejścia Do Budynku",
+                "defibrillator:location": "Na ścianie po prawej stronie wejścia do budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "OSP Otyń",
                 "phone": "+48 683559400"
             }
@@ -66959,13 +66961,16 @@
             "id": 9885327466,
             "lat": 51.7998472,
             "lon": 15.7240972,
-            "timestamp": "2022-07-14T13:23:06Z",
-            "version": 2,
-            "changeset": 123610332,
-            "user": "Namysław Tatarynowicz",
-            "uid": 1723478,
+            "timestamp": "2023-01-13T18:50:03Z",
+            "version": 3,
+            "changeset": 131241647,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -86388,6 +86393,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Karpaczu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10552708975,
+            "lat": 52.0719233,
+            "lon": 21.0248334,
+            "timestamp": "2023-01-13T19:00:04Z",
+            "version": 1,
+            "changeset": 131241945,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie budynku przy ul. Czajewicza 2/4 w Piasecznie (od strony ul. Czajewicza róg ul. Nadarzyńskiej)",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://itvpiaseczno.pl/artykul/defibrylator-aed-w-centrum/1393382"
             }
         }
     ]
