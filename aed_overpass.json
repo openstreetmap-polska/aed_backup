@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T09:31:38Z",
+        "timestamp_osm_base": "2023-01-13T10:31:54Z",
         "timestamp_areas_base": "2023-01-13T08:49:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -38105,13 +38105,13 @@
         {
             "type": "node",
             "id": 9507408013,
-            "lat": 51.9146646,
-            "lon": 17.239729,
-            "timestamp": "2022-02-15T09:47:38Z",
-            "version": 1,
-            "changeset": 117427781,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 51.9146381,
+            "lon": 17.2397263,
+            "timestamp": "2023-01-13T10:20:13Z",
+            "version": 2,
+            "changeset": 131222953,
+            "user": "lukbas",
+            "uid": 6332587,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy 439[P]55 GBA Scania",
