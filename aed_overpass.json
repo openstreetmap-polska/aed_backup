@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T07:31:09Z",
-        "timestamp_areas_base": "2023-01-13T05:48:45Z",
+        "timestamp_osm_base": "2023-01-13T08:32:09Z",
+        "timestamp_areas_base": "2023-01-13T07:48:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86290,6 +86290,43 @@
                 "access": "yes",
                 "check_date": "2023-01-13",
                 "defibrillator:location:pl": "Na ścianie budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10548349976,
+            "lat": 50.0225723,
+            "lon": 19.8948104,
+            "timestamp": "2023-01-13T08:11:13Z",
+            "version": 1,
+            "changeset": 131218275,
+            "user": "KMadura",
+            "uid": 18110427,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "While it is behind closed doors, you can ask a guard to pass this device to you, or to open the door",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10548382609,
+            "lat": 52.3203623,
+            "lon": 21.6782103,
+            "timestamp": "2023-01-13T08:13:32Z",
+            "version": 1,
+            "changeset": 131218344,
+            "user": "OSP DOBRE",
+            "uid": 18261233,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-13",
+                "defibrillator:location:pl": "Na ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }

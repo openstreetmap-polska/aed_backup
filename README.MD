@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-13 07:33:12)
+# AED backup and stats (2023-01-13 08:33:09)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4673
+Total AED: 4675
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4432\
-Average daily growth since beginning of the year: 23.92
+Average daily growth since beginning of the year: 24.08
 
 ## Top creators
 | # | User | Created |
@@ -22,8 +22,8 @@ Average daily growth since beginning of the year: 23.92
 | 7 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 143 |
 | 8 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 108 |
 | 9 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
-| 10 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 87 |
-| 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 87 |
+| 10 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 87 |
+| 11 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 87 |
 | 12 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 71 |
 | 13 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
 | 14 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
@@ -31,8 +31,8 @@ Average daily growth since beginning of the year: 23.92
 | 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
 | 18 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 19 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
-| 20 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 19 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 28 |
 | 21 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 26 |
 | 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 25 |
 | 23 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
