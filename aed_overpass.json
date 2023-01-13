@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T15:30:51Z",
+        "timestamp_osm_base": "2023-01-13T16:31:08Z",
         "timestamp_areas_base": "2023-01-13T12:51:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86368,6 +86368,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48724974442"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10550530111,
+            "lat": 50.7749171,
+            "lon": 15.7540854,
+            "timestamp": "2023-01-13T15:38:46Z",
+            "version": 2,
+            "changeset": 131235260,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-13",
+                "defibrillator:location:pl": "Ma ścianie Urzędu Miasta.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Karpaczu"
             }
         }
     ]
