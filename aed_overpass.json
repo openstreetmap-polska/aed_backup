@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-13T21:31:54Z",
-        "timestamp_areas_base": "2023-01-13T20:57:09Z",
+        "timestamp_osm_base": "2023-01-13T22:32:04Z",
+        "timestamp_areas_base": "2023-01-13T21:58:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86412,6 +86412,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://itvpiaseczno.pl/artykul/defibrylator-aed-w-centrum/1393382"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10553171509,
+            "lat": 52.3752802,
+            "lon": 22.0572907,
+            "timestamp": "2023-01-13T21:47:41Z",
+            "version": 1,
+            "changeset": 131246649,
+            "user": "OSP Ruchna",
+            "uid": 18254076,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator umieszczony jest w samochodzie pożarniczym.",
+                "defibrillator:location:en": "The defibrillator is placed in the fire truck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "669916343"
             }
         }
     ]
