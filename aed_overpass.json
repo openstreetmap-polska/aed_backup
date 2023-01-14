@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-14T06:32:15Z",
-        "timestamp_areas_base": "2023-01-14T06:01:39Z",
+        "timestamp_osm_base": "2023-01-14T07:31:33Z",
+        "timestamp_areas_base": "2023-01-14T07:01:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86419,14 +86419,14 @@
             "id": 10553171509,
             "lat": 52.3752802,
             "lon": 22.0572907,
-            "timestamp": "2023-01-13T21:47:41Z",
-            "version": 1,
-            "changeset": 131246649,
+            "timestamp": "2023-01-14T07:12:36Z",
+            "version": 2,
+            "changeset": 131254119,
             "user": "OSP Ruchna",
             "uid": 18254076,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Defibrylator umieszczony jest w samochodzie pożarniczym.",
+                "defibrillator:location": "Defibrylator umieszczony jest w samochodzie ratowniczo- gaśniczym.",
                 "defibrillator:location:en": "The defibrillator is placed in the fire truck",
                 "emergency": "defibrillator",
                 "indoor": "yes",
