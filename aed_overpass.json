@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-15T20:31:53Z",
-        "timestamp_areas_base": "2023-01-15T20:22:50Z",
+        "timestamp_osm_base": "2023-01-15T21:31:39Z",
+        "timestamp_areas_base": "2023-01-15T21:22:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86378,17 +86378,18 @@
         {
             "type": "node",
             "id": 10550530111,
-            "lat": 50.7749171,
-            "lon": 15.7540854,
-            "timestamp": "2023-01-13T15:38:46Z",
-            "version": 2,
-            "changeset": 131235260,
+            "lat": 50.774939,
+            "lon": 15.7540886,
+            "timestamp": "2023-01-15T21:14:28Z",
+            "version": 4,
+            "changeset": 131314649,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-01-13",
-                "defibrillator:location:pl": "Ma ścianie Urzędu Miasta.",
+                "defibrillator:location": "Na ścianie Urzędu Miasta.",
+                "defibrillator:location:en": "On the wall of the City Hall.",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
@@ -86471,20 +86472,209 @@
         {
             "type": "node",
             "id": 10557232222,
-            "lat": 50.7771481,
-            "lon": 15.7296134,
-            "timestamp": "2023-01-15T17:19:19Z",
-            "version": 1,
-            "changeset": 131306883,
+            "lat": 50.7772077,
+            "lon": 15.7297258,
+            "timestamp": "2023-01-15T20:56:45Z",
+            "version": 2,
+            "changeset": 131314145,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-01-15",
-                "defibrillator:location:pl": "Przy wyjściu z basenu. W punkcie medycznym.",
+                "defibrillator:location": "Przy wyjściu z kompleksu basenowego. W punkcie medycznym.",
+                "defibrillator:location:en": "At the exit of the swimming pool complex. At the medical point.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 75 76 70 780"
+                "operator": "Hotel Gołębiewski",
+                "phone": "+48 75 76 70 780",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557683000,
+            "lat": 51.8495582,
+            "lon": 17.9311551,
+            "timestamp": "2023-01-15T20:58:23Z",
+            "version": 1,
+            "changeset": 131314194,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Gołuchów",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729250,
+            "lat": 51.8861867,
+            "lon": 17.8595944,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729251,
+            "lat": 51.8873419,
+            "lon": 17.7893596,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729252,
+            "lat": 51.8830724,
+            "lon": 17.7932794,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729253,
+            "lat": 51.8295908,
+            "lon": 17.8396262,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729254,
+            "lat": 51.8892056,
+            "lon": 17.7325644,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729255,
+            "lat": 51.8875235,
+            "lon": 17.7806805,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729256,
+            "lat": 51.8923467,
+            "lon": 17.784475,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729268,
+            "lat": 51.8938164,
+            "lon": 17.7808756,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729269,
+            "lat": 51.8980983,
+            "lon": 17.7654248,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557729270,
+            "lat": 51.8946885,
+            "lon": 17.7808635,
+            "timestamp": "2023-01-15T21:23:28Z",
+            "version": 1,
+            "changeset": 131314890,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do poprawki",
+                "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         }
     ]
