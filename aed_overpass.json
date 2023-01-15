@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-15T16:31:24Z",
+        "timestamp_osm_base": "2023-01-15T17:32:07Z",
         "timestamp_areas_base": "2023-01-15T16:19:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86466,6 +86466,25 @@
                 "emergency": "defibrillator",
                 "image": "https://westnordost.de/p/128355.jpg",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10557232222,
+            "lat": 50.7771481,
+            "lon": 15.7296134,
+            "timestamp": "2023-01-15T17:19:19Z",
+            "version": 1,
+            "changeset": 131306883,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-15",
+                "defibrillator:location:pl": "Przy wyjściu z basenu. W punkcie medycznym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 75 76 70 780"
             }
         }
     ]
