@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-15T05:32:36Z",
-        "timestamp_areas_base": "2023-01-15T05:14:19Z",
+        "timestamp_osm_base": "2023-01-15T06:31:25Z",
+        "timestamp_areas_base": "2023-01-15T06:14:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86431,6 +86431,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "669916343"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10556229750,
+            "lat": 52.322285,
+            "lon": 20.9480723,
+            "timestamp": "2023-01-15T06:24:35Z",
+            "version": 1,
+            "changeset": 131287328,
+            "user": "mikmach",
+            "uid": 115880,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Białołęcki Ośrodek Sportu"
             }
         }
     ]
