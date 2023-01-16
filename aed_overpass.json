@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T09:31:25Z",
+        "timestamp_osm_base": "2023-01-16T10:34:23Z",
         "timestamp_areas_base": "2023-01-16T08:26:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86381,9 +86381,9 @@
             "id": 10550530111,
             "lat": 50.774939,
             "lon": 15.7540886,
-            "timestamp": "2023-01-15T21:14:28Z",
-            "version": 4,
-            "changeset": 131314649,
+            "timestamp": "2023-01-16T09:55:56Z",
+            "version": 5,
+            "changeset": 131330561,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -86394,7 +86394,8 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "Urząd Miejski w Karpaczu"
+                "operator": "Urząd Miejski w Karpaczu",
+                "source": "survey"
             }
         },
         {
@@ -86696,6 +86697,81 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "survey:date": "2023-01-16"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559094710,
+            "lat": 53.0568913,
+            "lon": 16.4606107,
+            "timestamp": "2023-01-16T09:33:26Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "MKS Lubuszanin\nAkademia Lubuszanina Trzcianka",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "668 801 876"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559107023,
+            "lat": 52.2554858,
+            "lon": 20.9934156,
+            "timestamp": "2023-01-16T09:48:22Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "VII piętro\nPhilip Morris Polska Distribution sp. z o.o.",
+                "defibrillator:location:en": "7th floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "502 233 829"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559107330,
+            "lat": 53.0562313,
+            "lon": 16.4583107,
+            "timestamp": "2023-01-16T09:45:14Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "VI PIĘTRO, PRZY RECEPCJI\nPhilip Morris Polska Distribution sp. z o.o.",
+                "defibrillator:location:en": "6th floor, by the reception",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "502 233 829"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559192609,
+            "lat": 53.0863914,
+            "lon": 16.9177217,
+            "timestamp": "2023-01-16T10:31:11Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "I piętro - gabinet medyczny",
+                "defibrillator:location:en": "1st floor - medical office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48605446087"
             }
         }
     ]
