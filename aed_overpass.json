@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T05:44:42Z",
-        "timestamp_areas_base": "2023-01-16T05:26:39Z",
+        "timestamp_osm_base": "2023-01-16T08:45:53Z",
+        "timestamp_areas_base": "2023-01-16T08:26:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86675,6 +86675,26 @@
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10558768809,
+            "lat": 51.5476447,
+            "lon": 23.5481572,
+            "timestamp": "2023-01-16T06:13:57Z",
+            "version": 2,
+            "changeset": 131323041,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, po prawej stronie od wejścia.",
+                "defibrillator:location:en": "On the wall, to the right of the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "survey:date": "2023-01-16"
             }
         }
     ]
