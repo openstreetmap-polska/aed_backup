@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T08:45:53Z",
+        "timestamp_osm_base": "2023-01-16T09:31:25Z",
         "timestamp_areas_base": "2023-01-16T08:26:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85777,9 +85777,9 @@
             "id": 10542962809,
             "lat": 53.1107096,
             "lon": 17.0099895,
-            "timestamp": "2023-01-12T13:51:17Z",
-            "version": 1,
-            "changeset": 131189720,
+            "timestamp": "2023-01-16T09:26:53Z",
+            "version": 2,
+            "changeset": 131329182,
             "user": "PGRM Biuro",
             "uid": 18251006,
             "tags": {
@@ -85787,7 +85787,8 @@
                 "defibrillator:location": "Urządzenie mobilne.\nWóz bojowy 557 63",
                 "defibrillator:location:en": "Mobile device",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "608 110 796"
             }
         },
         {
