@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T17:31:39Z",
+        "timestamp_osm_base": "2023-01-16T18:31:31Z",
         "timestamp_areas_base": "2023-01-16T14:30:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -60145,11 +60145,11 @@
         {
             "type": "node",
             "id": 9681510217,
-            "lat": 50.2660706,
-            "lon": 18.6995641,
-            "timestamp": "2022-04-21T02:15:23Z",
-            "version": 1,
-            "changeset": 119977938,
+            "lat": 50.2655431,
+            "lon": 18.6988001,
+            "timestamp": "2023-01-16T17:35:26Z",
+            "version": 2,
+            "changeset": 131347055,
             "user": "KNWedytor",
             "uid": 2460449,
             "tags": {
@@ -60157,7 +60157,8 @@
                 "defibrillator:location": "Filar przy bramie na warsztat G+",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 508 576 734"
+                "phone": "+48 508 576 734",
+                "survey:date": "2023-01-16"
             }
         },
         {
@@ -75568,15 +75569,15 @@
             "id": 10173623817,
             "lat": 50.2667643,
             "lon": 18.6963816,
-            "timestamp": "2022-11-10T13:29:45Z",
-            "version": 1,
-            "changeset": 128734376,
+            "timestamp": "2023-01-16T17:35:34Z",
+            "version": 2,
+            "changeset": 131347055,
             "user": "KNWedytor",
             "uid": 2460449,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "survey:date": "2022-11-10"
+                "survey:date": "2023-01-16"
             }
         },
         {
