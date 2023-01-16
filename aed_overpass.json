@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T10:34:23Z",
+        "timestamp_osm_base": "2023-01-16T11:32:09Z",
         "timestamp_areas_base": "2023-01-16T08:26:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86772,6 +86772,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48605446087"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559237609,
+            "lat": 53.7075968,
+            "lon": 18.1771941,
+            "timestamp": "2023-01-16T11:04:21Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Gabinet zabiegowy - parter - nr 3",
+                "defibrillator:location:en": "Treatment room - ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48696418452"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559260209,
+            "lat": 53.2771401,
+            "lon": 16.4638302,
+            "timestamp": "2023-01-16T11:18:20Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie mobilne straży leśnej",
+                "defibrillator:location:en": "Forest Guard mobile device",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48694409718"
             }
         }
     ]
