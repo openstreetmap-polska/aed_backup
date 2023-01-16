@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T13:31:53Z",
+        "timestamp_osm_base": "2023-01-16T14:30:53Z",
         "timestamp_areas_base": "2023-01-16T13:28:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -482,6 +482,22 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2682018694,
+            "lat": 49.8416759,
+            "lon": 19.5765297,
+            "timestamp": "2023-01-16T14:24:53Z",
+            "version": 2,
+            "changeset": 131340458,
+            "user": "karol262",
+            "uid": 1937948,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Łękawicy"
             }
         },
         {
@@ -86867,6 +86883,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559478510,
+            "lat": 53.4308591,
+            "lon": 14.502302,
+            "timestamp": "2023-01-16T13:50:23Z",
+            "version": 1,
+            "changeset": 131339187,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559526509,
+            "lat": 53.4029636,
+            "lon": 14.5207925,
+            "timestamp": "2023-01-16T14:09:46Z",
+            "version": 1,
+            "changeset": 131339187,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "ul. 9 maja 13",
+                "defibrillator:location:en": "9/13",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
             }
         }
     ]
