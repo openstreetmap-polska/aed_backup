@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-16T11:32:09Z",
+        "timestamp_osm_base": "2023-01-16T12:37:08Z",
         "timestamp_areas_base": "2023-01-16T08:26:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86810,6 +86810,63 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48694409718"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559291509,
+            "lat": 53.2770961,
+            "lon": 16.4637804,
+            "timestamp": "2023-01-16T11:38:21Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Sekretariat - parter",
+                "defibrillator:location:en": "Secretariat - ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48694409718"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559326909,
+            "lat": 53.4254091,
+            "lon": 14.4874749,
+            "timestamp": "2023-01-16T12:07:47Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lubelska s.c, ul. Kazimierska 4F/1U",
+                "defibrillator:location:en": "no. 4F/1U",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10559340910,
+            "lat": 53.4250418,
+            "lon": 14.4852969,
+            "timestamp": "2023-01-16T12:15:00Z",
+            "version": 1,
+            "changeset": 131329528,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lubelska s.c.",
+                "defibrillator:location:en": "Lubelska s.c.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "508201899"
             }
         }
     ]
