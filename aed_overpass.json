@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-17T08:34:08Z",
-        "timestamp_areas_base": "2023-01-17T07:40:23Z",
+        "timestamp_osm_base": "2023-01-17T09:32:01Z",
+        "timestamp_areas_base": "2023-01-17T08:41:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86972,6 +86972,24 @@
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Miodowa 45 - przychodnia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561668209,
+            "lat": 53.4553681,
+            "lon": 14.4880143,
+            "timestamp": "2023-01-17T08:37:14Z",
+            "version": 1,
+            "changeset": 131366598,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Szafera 16-18, Przychodnia",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48508201899"
