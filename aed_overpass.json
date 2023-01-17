@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-17T07:31:24Z",
-        "timestamp_areas_base": "2023-01-17T06:39:31Z",
+        "timestamp_osm_base": "2023-01-17T08:34:08Z",
+        "timestamp_areas_base": "2023-01-17T07:40:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86917,6 +86917,61 @@
                 "access": "private",
                 "defibrillator:location": "ul. 9 maja 13",
                 "defibrillator:location:en": "9/13",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561605411,
+            "lat": 53.4625161,
+            "lon": 14.4510538,
+            "timestamp": "2023-01-17T08:01:59Z",
+            "version": 1,
+            "changeset": 131366598,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "18b - Przychodnia",
+                "defibrillator:location:en": "18b",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561634209,
+            "lat": 53.4061899,
+            "lon": 14.4998151,
+            "timestamp": "2023-01-17T08:09:58Z",
+            "version": 1,
+            "changeset": 131366598,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ledóchowskiego 16 - przychodnia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561652909,
+            "lat": 53.4793464,
+            "lon": 14.5153257,
+            "timestamp": "2023-01-17T08:25:49Z",
+            "version": 1,
+            "changeset": 131366598,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Miodowa 45 - przychodnia",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48508201899"
