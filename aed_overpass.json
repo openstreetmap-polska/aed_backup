@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-17T10:31:54Z",
+        "timestamp_osm_base": "2023-01-17T11:31:52Z",
         "timestamp_areas_base": "2023-01-17T08:41:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86993,6 +86993,158 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48508201899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561863109,
+            "lat": 50.25487,
+            "lon": 19.0045855,
+            "timestamp": "2023-01-17T10:40:02Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Oddział ginekologiczno-położniczy",
+                "defibrillator:location:en": "Gynecology and obstetrics department",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 324 200 301"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561864309,
+            "lat": 50.2545339,
+            "lon": 19.0055431,
+            "timestamp": "2023-01-17T10:41:06Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "POZ",
+                "defibrillator:location:en": "POZ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 324 200 330"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561864310,
+            "lat": 50.2548097,
+            "lon": 19.0052161,
+            "timestamp": "2023-01-17T10:42:30Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Poradnia onkologiczna",
+                "defibrillator:location:en": "Oncology clinic",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 324 200 330"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561869309,
+            "lat": 53.1797943,
+            "lon": 16.8272769,
+            "timestamp": "2023-01-17T10:45:09Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Baza nurkowa i i rehabilitacyjna \"Krok po kroku\"",
+                "defibrillator:location:en": "Diving and rehabilitation base",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 503 189 349"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561876009,
+            "lat": 52.4448923,
+            "lon": 16.7243403,
+            "timestamp": "2023-01-17T10:49:43Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Centrum Dystrybucji Philip Morris",
+                "defibrillator:location:en": "Philip Morris Distribution Center",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48513006824"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561900409,
+            "lat": 50.025151,
+            "lon": 20.0905055,
+            "timestamp": "2023-01-17T10:57:08Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Centrum Dystrybucji Philip Morris - brama IV",
+                "defibrillator:location:en": "Philip Morris Distribution Center - gate IV",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 880156873"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561910509,
+            "lat": 53.4485155,
+            "lon": 14.5006739,
+            "timestamp": "2023-01-17T11:04:02Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przychodnia - Janickiego 27/U63",
+                "defibrillator:location:en": "Clinic - no. 27/U63",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 508 201 899"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10561938909,
+            "lat": 53.0944193,
+            "lon": 16.1234732,
+            "timestamp": "2023-01-17T11:16:17Z",
+            "version": 1,
+            "changeset": 131372562,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Straż leśna - urządzenie mobilne",
+                "defibrillator:location:en": "Forest Guard - mobile device",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 602 752 581"
             }
         }
     ]
