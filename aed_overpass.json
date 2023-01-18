@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-18T20:32:24Z",
+        "timestamp_osm_base": "2023-01-18T21:31:12Z",
         "timestamp_areas_base": "2023-01-18T14:57:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -82964,18 +82964,24 @@
         {
             "type": "node",
             "id": 10298644295,
-            "lat": 49.9768834,
-            "lon": 19.8220125,
-            "timestamp": "2023-01-01T17:39:44Z",
-            "version": 1,
-            "changeset": 130757799,
+            "lat": 49.9769415,
+            "lon": 19.8219614,
+            "timestamp": "2023-01-18T20:57:14Z",
+            "version": 3,
+            "changeset": 131437915,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "yes",
+                "check_date": "2023-01-18",
+                "defibrillator:location": "W poczekalni dla podróżnych.",
+                "defibrillator:location:en": "In the waiting room for travelers.",
                 "emergency": "defibrillator",
-                "fixme": "Uzupełnić dokładną lokalizację i opis AED.",
-                "operator": "Miejsska Biblioteka Publiczna w Skawinie"
+                "indoor": "yes",
+                "level": "0",
+                "note": "W poczekalini PKP. Urządzeniem administruje Biblioteka.",
+                "opening_hours": "24/7",
+                "operator": "Miejska Biblioteka Publiczna w Skawinie"
             }
         },
         {
@@ -87221,11 +87227,11 @@
         {
             "type": "node",
             "id": 10566023083,
-            "lat": 50.7749334,
-            "lon": 15.7540724,
-            "timestamp": "2023-01-18T20:11:05Z",
-            "version": 1,
-            "changeset": 131436679,
+            "lat": 50.7749298,
+            "lon": 15.7540708,
+            "timestamp": "2023-01-18T21:00:18Z",
+            "version": 2,
+            "changeset": 131437981,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
