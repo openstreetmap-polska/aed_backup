@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-18T09:31:24Z",
+        "timestamp_osm_base": "2023-01-18T10:32:09Z",
         "timestamp_areas_base": "2023-01-18T08:53:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87219,6 +87219,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48672840081"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10564568909,
+            "lat": 53.0397555,
+            "lon": 16.6856073,
+            "timestamp": "2023-01-18T09:33:07Z",
+            "version": 1,
+            "changeset": 131413002,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia (punkt ochrony)\nBrama wjazdowa główna",
+                "defibrillator:location:en": "Concierge (security point)\nThe main entrance gate",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48672 840 083"
             }
         }
     ]
