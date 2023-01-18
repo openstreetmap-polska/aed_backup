@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-18T07:31:52Z",
-        "timestamp_areas_base": "2023-01-18T06:53:24Z",
+        "timestamp_osm_base": "2023-01-18T08:31:39Z",
+        "timestamp_areas_base": "2023-01-18T07:54:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86398,9 +86398,9 @@
             "id": 10550530111,
             "lat": 50.774939,
             "lon": 15.7540886,
-            "timestamp": "2023-01-16T09:55:56Z",
-            "version": 5,
-            "changeset": 131330561,
+            "timestamp": "2023-01-18T07:42:20Z",
+            "version": 6,
+            "changeset": 131409410,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -86412,7 +86412,7 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Karpaczu",
-                "source": "survey"
+                "source": "survey;local knowledge"
             }
         },
         {
