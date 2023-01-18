@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-18T05:32:25Z",
-        "timestamp_areas_base": "2023-01-18T04:52:51Z",
+        "timestamp_osm_base": "2023-01-18T06:32:06Z",
+        "timestamp_areas_base": "2023-01-18T05:53:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87145,6 +87145,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 602 752 581"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10564304779,
+            "lat": 50.7044236,
+            "lon": 17.8605283,
+            "timestamp": "2023-01-18T06:26:20Z",
+            "version": 1,
+            "changeset": 131406561,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED jest zamontowany na elewacji budynku szkoły.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Publiczna Szkoła Podstawowa w Sławicach im. Kawalerów Orderu Uśmiechu"
             }
         }
     ]
