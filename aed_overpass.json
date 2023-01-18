@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-18T08:31:39Z",
-        "timestamp_areas_base": "2023-01-18T07:54:07Z",
+        "timestamp_osm_base": "2023-01-18T09:31:24Z",
+        "timestamp_areas_base": "2023-01-18T08:53:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87162,6 +87162,63 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Publiczna Szkoła Podstawowa w Sławicach im. Kawalerów Orderu Uśmiechu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10564486074,
+            "lat": 54.3688274,
+            "lon": 18.3957376,
+            "timestamp": "2023-01-18T08:42:08Z",
+            "version": 1,
+            "changeset": 131411529,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://www.facebook.com/groups/1341278092716395/permalink/2302828843227977/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10564542609,
+            "lat": 51.2638728,
+            "lon": 22.6341463,
+            "timestamp": "2023-01-18T09:17:57Z",
+            "version": 1,
+            "changeset": 131413002,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lekarz Rodzinny - Wólka 6C",
+                "defibrillator:location:en": "Wólka 6C",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48814 732 355"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10564565909,
+            "lat": 53.0390922,
+            "lon": 16.6840003,
+            "timestamp": "2023-01-18T09:30:27Z",
+            "version": 1,
+            "changeset": 131413002,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala produkcyjna - balkon\nWytwórnia Podkładów Strunobetonowych",
+                "defibrillator:location:en": "Production hall - balcony",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48672840081"
             }
         }
     ]
