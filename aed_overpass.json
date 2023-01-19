@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T08:31:23Z",
+        "timestamp_osm_base": "2023-01-19T09:31:24Z",
         "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83950,14 +83950,14 @@
             "id": 10304414209,
             "lat": 52.2065173,
             "lon": 18.0190725,
-            "timestamp": "2023-01-04T09:58:18Z",
-            "version": 1,
-            "changeset": 130858768,
+            "timestamp": "2023-01-19T08:56:17Z",
+            "version": 2,
+            "changeset": 131454545,
             "user": "Pontyprandyadamban",
             "uid": 18161110,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "budynek biurowy",
+                "defibrillator:location": "budynek biurowy dostępne w godzinach pracy obiektu od 7:00 do 15:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -83967,14 +83967,14 @@
             "id": 10304414210,
             "lat": 52.3605846,
             "lon": 16.099083,
-            "timestamp": "2023-01-04T09:58:59Z",
-            "version": 1,
-            "changeset": 130858768,
+            "timestamp": "2023-01-19T08:54:20Z",
+            "version": 2,
+            "changeset": 131454469,
             "user": "Pontyprandyadamban",
             "uid": 18161110,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "budynek biurowy",
+                "defibrillator:location": "budynek biurowy dostępne w godzinach pracy obiektu od 7:00 do 15:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -83984,14 +83984,14 @@
             "id": 10304415016,
             "lat": 52.2981215,
             "lon": 15.651846,
-            "timestamp": "2023-01-04T09:59:32Z",
-            "version": 1,
-            "changeset": 130858768,
+            "timestamp": "2023-01-19T08:52:36Z",
+            "version": 2,
+            "changeset": 131454391,
             "user": "Pontyprandyadamban",
             "uid": 18161110,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "budynek biurowy",
+                "defibrillator:location": "budynek biurowy dostępne w godzinach pracy obiektu od 7:00 do 15:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -84001,14 +84001,14 @@
             "id": 10304416209,
             "lat": 52.3233086,
             "lon": 15.0850688,
-            "timestamp": "2023-01-04T10:00:13Z",
-            "version": 1,
-            "changeset": 130858768,
+            "timestamp": "2023-01-19T08:50:09Z",
+            "version": 2,
+            "changeset": 131454287,
             "user": "Pontyprandyadamban",
             "uid": 18161110,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "budynek biurowy",
+                "defibrillator:location": "budynek biurowy dostępne w godzinach pracy obiektu od 7:00 do 15:00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
