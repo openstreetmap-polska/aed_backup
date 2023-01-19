@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T13:31:49Z",
+        "timestamp_osm_base": "2023-01-19T14:31:51Z",
         "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84653,14 +84653,14 @@
             "id": 10311557309,
             "lat": 50.8092036,
             "lon": 21.4781618,
-            "timestamp": "2023-01-06T21:34:09Z",
-            "version": 2,
-            "changeset": 130963273,
+            "timestamp": "2023-01-19T14:28:05Z",
+            "version": 3,
+            "changeset": 131469371,
             "user": "MASTER998",
             "uid": 18195170,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Brzezie",
                 "defibrillator:location:en": "In the building",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -87329,6 +87329,205 @@
                 "indoor": "yes",
                 "operator": "OSP Nowa Wieś",
                 "source": "OSP Nowa Wieś"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567924709,
+            "lat": 50.7963904,
+            "lon": 21.2335009,
+            "timestamp": "2023-01-19T13:52:29Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Baćkowice",
+                "defibrillator:location:en": "In the fire truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567929409,
+            "lat": 50.7318519,
+            "lon": 21.2759519,
+            "timestamp": "2023-01-19T13:55:36Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W samochodzie ratowniczo - gaśniczym OSP Iwaniska",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567933309,
+            "lat": 50.9645578,
+            "lon": 21.6704501,
+            "timestamp": "2023-01-19T13:58:13Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Brzozowa",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567935409,
+            "lat": 51.0010782,
+            "lon": 21.7127806,
+            "timestamp": "2023-01-19T14:00:02Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Tarłów",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567939209,
+            "lat": 50.6998225,
+            "lon": 21.3681497,
+            "timestamp": "2023-01-19T14:03:16Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Kamieniec",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567939210,
+            "lat": 50.8435202,
+            "lon": 21.5874285,
+            "timestamp": "2023-01-19T14:08:47Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Wojciechowice",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567939211,
+            "lat": 50.8400436,
+            "lon": 21.6291249,
+            "timestamp": "2023-01-19T14:10:15Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Bidziny",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567943009,
+            "lat": 50.7303551,
+            "lon": 21.4899688,
+            "timestamp": "2023-01-19T14:05:21Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Lipnik",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567943010,
+            "lat": 50.7959973,
+            "lon": 21.1598232,
+            "timestamp": "2023-01-19T14:06:43Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Piórków",
+                "defibrillator:location:en": "In the Fire Truch",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567954109,
+            "lat": 50.7610888,
+            "lon": 21.1704262,
+            "timestamp": "2023-01-19T14:13:05Z",
+            "version": 1,
+            "changeset": 131467935,
+            "user": "MASTER998",
+            "uid": 18195170,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy OSP Wszachów",
+                "defibrillator:location:en": "In the Fire Truck",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567958342,
+            "lat": 52.167804,
+            "lon": 20.8897929,
+            "timestamp": "2023-01-19T14:26:08Z",
+            "version": 1,
+            "changeset": 131469290,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w korytarzu na parterze w budynku C przy przejściu do budynku D.",
+                "defibrillator:location:en": "In the corridor on the first floor (level=0) in Building C near the passage to Building D.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "source": "Szkoła Podstawowa im. Jana Pawła II w Michałowicach"
             }
         }
     ]
