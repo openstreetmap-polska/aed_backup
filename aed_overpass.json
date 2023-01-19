@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T12:31:48Z",
+        "timestamp_osm_base": "2023-01-19T13:31:49Z",
         "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87247,6 +87247,88 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Karpaczu",
                 "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567776578,
+            "lat": 52.2871063,
+            "lon": 21.1123623,
+            "timestamp": "2023-01-19T12:51:34Z",
+            "version": 2,
+            "changeset": 131465644,
+            "user": "Andrzej3345",
+            "uid": 1875665,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zewnętrzna strona ogrodzenia szkoły, na lewo od bramy wjazdowej",
+                "defibrillator:location:en": "external side of school fence, on the left from gate",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "outdoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567823056,
+            "lat": 52.1455409,
+            "lon": 20.7887315,
+            "timestamp": "2023-01-19T13:02:02Z",
+            "version": 1,
+            "changeset": 131466073,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "description": "OSP Nowa Wieś posiada 3 AED (ZOLL PLUS) w 3 samochodach bojowych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nowa Wieś",
+                "source": "OSP Nowa Wieś"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567823057,
+            "lat": 52.1454979,
+            "lon": 20.7887368,
+            "timestamp": "2023-01-19T13:02:02Z",
+            "version": 1,
+            "changeset": 131466073,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "description": "OSP Nowa Wieś posiada 3 AED (ZOLL PLUS) w 3 samochodach bojowych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nowa Wieś",
+                "source": "OSP Nowa Wieś"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10567823058,
+            "lat": 52.1454548,
+            "lon": 20.7887421,
+            "timestamp": "2023-01-19T13:02:02Z",
+            "version": 1,
+            "changeset": 131466073,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "description": "OSP Nowa Wieś posiada 3 AED (ZOLL PLUS) w 3 samochodach bojowych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nowa Wieś",
+                "source": "OSP Nowa Wieś"
             }
         }
     ]
