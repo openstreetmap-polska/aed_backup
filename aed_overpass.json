@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T18:34:53Z",
+        "timestamp_osm_base": "2023-01-19T19:31:50Z",
         "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87528,6 +87528,23 @@
                 "indoor": "yes",
                 "level": "0",
                 "source": "Szkoła Podstawowa im. Jana Pawła II w Michałowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10568559909,
+            "lat": 52.2428927,
+            "lon": 21.0849337,
+            "timestamp": "2023-01-19T19:28:50Z",
+            "version": 1,
+            "changeset": 131479888,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w przychodni Luxmed dla dzieci zdrowych po lewej przy szafkach pełniących rolę szatni.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
