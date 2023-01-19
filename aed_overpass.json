@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T07:31:19Z",
-        "timestamp_areas_base": "2023-01-19T06:07:49Z",
+        "timestamp_osm_base": "2023-01-19T08:31:23Z",
+        "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -20289,16 +20289,19 @@
             "id": 9439918330,
             "lat": 50.9493918,
             "lon": 18.6574607,
-            "timestamp": "2022-01-22T17:44:22Z",
-            "version": 1,
-            "changeset": 116474949,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2023-01-19T07:42:42Z",
+            "version": 2,
+            "changeset": 131451927,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
-                "operator": "OSP Starokrzepice"
+                "indoor": "yes",
+                "manufacturer": "Lifepack 1000",
+                "operator": "OSP Starokrzepice",
+                "source": "https://strazacki.pl/artykuły/foto-nowy-mercedes-benz-atego-w-osp-starokrzepice"
             }
         },
         {
