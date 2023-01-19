@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-19T20:31:54Z",
+        "timestamp_osm_base": "2023-01-19T21:31:53Z",
         "timestamp_areas_base": "2023-01-19T08:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87543,6 +87543,24 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie w przychodni Luxmed dla dzieci zdrowych po lewej przy szafkach pełniących rolę szatni.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10568760909,
+            "lat": 52.2487725,
+            "lon": 18.0166929,
+            "timestamp": "2023-01-19T21:21:45Z",
+            "version": 1,
+            "changeset": 131483295,
+            "user": "Wesolyy",
+            "uid": 18329997,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-19",
+                "defibrillator:location:pl": "W remizie strażackiej",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
