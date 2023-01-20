@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-20T09:32:09Z",
+        "timestamp_osm_base": "2023-01-20T10:32:09Z",
         "timestamp_areas_base": "2023-01-20T09:22:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87515,14 +87515,14 @@
             "id": 10567958342,
             "lat": 52.167804,
             "lon": 20.8897929,
-            "timestamp": "2023-01-19T14:26:08Z",
-            "version": 1,
-            "changeset": 131469290,
+            "timestamp": "2023-01-20T10:12:48Z",
+            "version": 2,
+            "changeset": 131501471,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "w korytarzu na parterze w budynku C przy przejściu do budynku D.",
+                "defibrillator:location": "W korytarzu na parterze w budynku C przy przejściu do budynku D.",
                 "defibrillator:location:en": "In the corridor on the first floor (level=0) in Building C near the passage to Building D.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
