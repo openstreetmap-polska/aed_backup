@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-20T10:32:09Z",
-        "timestamp_areas_base": "2023-01-20T09:22:54Z",
+        "timestamp_osm_base": "2023-01-20T11:32:02Z",
+        "timestamp_areas_base": "2023-01-20T11:23:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87561,6 +87561,41 @@
                 "access": "private",
                 "check_date": "2023-01-19",
                 "defibrillator:location:pl": "W remizie strażackiej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10570271109,
+            "lat": 53.2315232,
+            "lon": 17.8674813,
+            "timestamp": "2023-01-20T10:42:15Z",
+            "version": 1,
+            "changeset": 131502714,
+            "user": "gczeczot",
+            "uid": 2214472,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "właściciel wskaże miejsce",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48697945330"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10570274409,
+            "lat": 53.212322,
+            "lon": 17.837653,
+            "timestamp": "2023-01-20T10:43:28Z",
+            "version": 1,
+            "changeset": 131502714,
+            "user": "gczeczot",
+            "uid": 2214472,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "defibrylator na wyposażeniu OSP Wojnowo",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
