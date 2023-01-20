@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-20T16:31:46Z",
+        "timestamp_osm_base": "2023-01-20T17:31:40Z",
         "timestamp_areas_base": "2023-01-20T14:25:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87598,6 +87598,29 @@
                 "defibrillator:location": "defibrylator na wyposażeniu OSP Wojnowo",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10570853598,
+            "lat": 52.1600972,
+            "lon": 21.0486194,
+            "timestamp": "2023-01-20T17:01:08Z",
+            "version": 1,
+            "changeset": 131516010,
+            "user": "Grzegorz_Kujawa",
+            "uid": 1703910,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w holu Kliniki Małych Zwierząt",
+                "defibrillator:location:en": "in the longue of Veterinary Centre",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "level": "0",
+                "location": "indoor",
+                "manufacturer": "Philips",
+                "opening_hours": "24/7"
             }
         }
     ]
