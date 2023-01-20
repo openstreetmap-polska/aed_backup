@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-20T22:31:54Z",
-        "timestamp_areas_base": "2023-01-20T20:29:39Z",
+        "timestamp_osm_base": "2023-01-20T23:32:09Z",
+        "timestamp_areas_base": "2023-01-20T22:31:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87638,6 +87638,24 @@
                 "defibrillator:location": "Na ścianie przy wejściu do remizy.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10571692047,
+            "lat": 49.5234181,
+            "lon": 20.6530913,
+            "timestamp": "2023-01-20T23:22:49Z",
+            "version": 1,
+            "changeset": 131526324,
+            "user": "emtiwi",
+            "uid": 313969,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Barcice"
             }
         }
     ]
