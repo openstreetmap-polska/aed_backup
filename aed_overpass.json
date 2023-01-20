@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-20T19:31:39Z",
-        "timestamp_areas_base": "2023-01-20T14:25:43Z",
+        "timestamp_osm_base": "2023-01-20T20:31:39Z",
+        "timestamp_areas_base": "2023-01-20T20:29:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87621,6 +87621,23 @@
                 "location": "indoor",
                 "manufacturer": "Philips",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10571390009,
+            "lat": 51.9805035,
+            "lon": 20.6627699,
+            "timestamp": "2023-01-20T20:13:14Z",
+            "version": 1,
+            "changeset": 131521683,
+            "user": "Dominik77711",
+            "uid": 18334797,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do remizy.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
