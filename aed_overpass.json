@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-21T20:32:14Z",
+        "timestamp_osm_base": "2023-01-21T21:31:53Z",
         "timestamp_areas_base": "2023-01-21T19:40:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -83561,9 +83561,9 @@
             "id": 10302077083,
             "lat": 50.4967757,
             "lon": 16.5330376,
-            "timestamp": "2023-01-03T09:39:04Z",
-            "version": 1,
-            "changeset": 130818288,
+            "timestamp": "2023-01-21T20:38:17Z",
+            "version": 2,
+            "changeset": 131553188,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -83573,7 +83573,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "operator": "OSP Ścinawka Dolna"
+                "operator": "OSP Ścinawka Dolna",
+                "source": "Informacja z Urzędu Gminy."
             }
         },
         {
@@ -87838,6 +87839,48 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Zdziechowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573390254,
+            "lat": 50.5223165,
+            "lon": 16.5096084,
+            "timestamp": "2023-01-21T20:37:07Z",
+            "version": 1,
+            "changeset": 131553157,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP w Ścinawce Średniej",
+                "source": "Informacja z Urzędu Gminy."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573402417,
+            "lat": 50.4911161,
+            "lon": 16.457766,
+            "timestamp": "2023-01-21T20:34:35Z",
+            "version": 1,
+            "changeset": 131553102,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Wambierzyce",
+                "source": "Informacja z Urzędu Gminy."
             }
         }
     ]
