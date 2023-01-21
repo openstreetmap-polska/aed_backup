@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-21T18:31:19Z",
-        "timestamp_areas_base": "2023-01-21T15:37:49Z",
+        "timestamp_osm_base": "2023-01-21T19:32:29Z",
+        "timestamp_areas_base": "2023-01-21T18:39:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87675,6 +87675,45 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573247760,
+            "lat": 54.1819441,
+            "lon": 15.5591108,
+            "timestamp": "2023-01-21T19:22:26Z",
+            "version": 1,
+            "changeset": 131551449,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na parterze szkoły, przy wyjściu z budynku.",
+                "defibrillator:location:en": "On the ground floor of the school, at the exit of the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo-Fr 07:30-16:30",
+                "operator": "SP 1 Kołobrzeg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573276309,
+            "lat": 52.2298199,
+            "lon": 20.9777733,
+            "timestamp": "2023-01-21T19:29:31Z",
+            "version": 1,
+            "changeset": 131551608,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-21",
+                "defibrillator:location:en": "In the the reception next to an entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
