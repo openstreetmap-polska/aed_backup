@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-21T19:32:29Z",
-        "timestamp_areas_base": "2023-01-21T18:39:21Z",
+        "timestamp_osm_base": "2023-01-21T20:32:14Z",
+        "timestamp_areas_base": "2023-01-21T19:40:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -4621,18 +4621,20 @@
         {
             "type": "node",
             "id": 9036458931,
-            "lat": 50.8118508,
-            "lon": 20.2613074,
-            "timestamp": "2022-01-29T16:26:54Z",
-            "version": 2,
-            "changeset": 116751211,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 50.8118353,
+            "lon": 20.2613098,
+            "timestamp": "2023-01-21T19:46:19Z",
+            "version": 3,
+            "changeset": 131551991,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
                 "operator": "Małogoszcz"
             }
         },
@@ -87700,6 +87702,26 @@
         },
         {
             "type": "node",
+            "id": 10573257789,
+            "lat": 50.8083751,
+            "lon": 20.2704477,
+            "timestamp": "2023-01-21T19:37:53Z",
+            "version": 1,
+            "changeset": 131551783,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Liceum Ogólnokształcącego.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-16:00; Sa,Su off",
+                "operator": "ZSO",
+                "phone": "+48 41 38 554 70"
+            }
+        },
+        {
+            "type": "node",
             "id": 10573276309,
             "lat": 52.2298199,
             "lon": 20.9777733,
@@ -87714,6 +87736,108 @@
                 "defibrillator:location:en": "In the the reception next to an entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573278711,
+            "lat": 50.8119018,
+            "lon": 20.262456,
+            "timestamp": "2023-01-21T19:46:19Z",
+            "version": 1,
+            "changeset": 131551991,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Ośrodka Zdrowia.",
+                "defibrillator:location:en": "In the Health Center building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off",
+                "phone": "+48 41 387 53 00; +48 41 387 53 10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573302445,
+            "lat": 50.4051708,
+            "lon": 16.2875201,
+            "timestamp": "2023-01-21T20:20:12Z",
+            "version": 2,
+            "changeset": 131552774,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-19",
+                "defibrillator:location": "Na frontowej ścianie Urzędu Gminy Lewin Kłodzki po prawej stronie bezpośrednio przy wejściu do biura Ochotniczej Straży Pożarnej.",
+                "defibrillator:location:en": "On the front wall of the Lewin Kłodzki Commune Office, on the right, directly at the entrance to the Volunteer Fire Brigade office.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "phone": "+48 74 869 84 28",
+                "source": "Informacja z Urzędu Gminy Lewin Kłodzki."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573337887,
+            "lat": 49.2891511,
+            "lon": 19.8865889,
+            "timestamp": "2023-01-21T19:55:17Z",
+            "version": 1,
+            "changeset": 131552181,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo gaśniczym Scania 7/40.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle Scania 7/40.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "OSP Kościelisko posiada dwa defibrylatory,",
+                "operator": "OSP Kościelisko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573337888,
+            "lat": 49.2892217,
+            "lon": 19.8867066,
+            "timestamp": "2023-01-21T19:55:17Z",
+            "version": 1,
+            "changeset": 131552181,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo gaśniczym Scania 5/36.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle Scania 5/36.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "OSP Kościelisko posiada dwa defibrylatory,",
+                "operator": "OSP Kościelisko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10573375885,
+            "lat": 51.0945692,
+            "lon": 18.3950315,
+            "timestamp": "2023-01-21T20:18:54Z",
+            "version": 1,
+            "changeset": 131552742,
+            "user": "mateem",
+            "uid": 17004705,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Zdziechowicach"
             }
         }
     ]
