@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-21T08:31:39Z",
+        "timestamp_osm_base": "2023-01-21T09:31:49Z",
         "timestamp_areas_base": "2023-01-21T07:34:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87656,6 +87656,25 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Barcice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10572305930,
+            "lat": 52.0726645,
+            "lon": 20.7253806,
+            "timestamp": "2023-01-21T08:54:07Z",
+            "version": 1,
+            "changeset": 131533663,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu na przeciwko gabloty z nagrodami.",
+                "defibrillator:location:en": "At the entrance opposite the showcase with awards.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]
