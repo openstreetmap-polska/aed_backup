@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-22T20:31:35Z",
-        "timestamp_areas_base": "2023-01-22T18:48:55Z",
+        "timestamp_osm_base": "2023-01-22T22:31:09Z",
+        "timestamp_areas_base": "2023-01-22T21:50:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86695,11 +86695,11 @@
         {
             "type": "node",
             "id": 10558768809,
-            "lat": 51.5476447,
-            "lon": 23.5481572,
-            "timestamp": "2023-01-16T06:13:57Z",
-            "version": 2,
-            "changeset": 131323041,
+            "lat": 51.5476401,
+            "lon": 23.5481579,
+            "timestamp": "2023-01-22T22:30:44Z",
+            "version": 3,
+            "changeset": 131583871,
             "user": "kpv8",
             "uid": 10492626,
             "tags": {
@@ -87950,6 +87950,46 @@
                 "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Nadleśnictwo Milicz",
                 "phone": "+48 71 38 43 410; +48 661 913 011"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575247975,
+            "lat": 51.3944801,
+            "lon": 17.3022957,
+            "timestamp": "2023-01-22T20:45:58Z",
+            "version": 1,
+            "changeset": 131581251,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku kwatery łowieckiej \"Kubryk\".",
+                "defibrillator:location:en": "In the building of the \"Kubryk\" hunting quarters.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Nadleśnictwo Milicz",
+                "phone": "+48 668 416 977"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575408627,
+            "lat": 51.5548399,
+            "lon": 23.5539207,
+            "timestamp": "2023-01-22T22:30:44Z",
+            "version": 1,
+            "changeset": 131583871,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, po prawej stronie od wejścia.",
+                "defibrillator:location:en": "On the wall, to the right of the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "survey:date": "2023-01-22"
             }
         }
     ]
