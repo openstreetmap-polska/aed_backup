@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-22T19:31:39Z",
+        "timestamp_osm_base": "2023-01-22T20:31:35Z",
         "timestamp_areas_base": "2023-01-22T18:48:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -59429,14 +59429,20 @@
             "id": 9665882715,
             "lat": 51.6957252,
             "lon": 17.4375363,
-            "timestamp": "2022-04-14T13:09:31Z",
-            "version": 1,
-            "changeset": 119712995,
-            "user": "pylades1971",
-            "uid": 2328044,
+            "timestamp": "2023-01-22T19:38:02Z",
+            "version": 2,
+            "changeset": 131579118,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Ratusza.",
+                "defibrillator:location:en": "On the wall of the City Hall building.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa, Su off",
+                "operator": "UM Krotoszyn",
+                "phone": "+48 62 725 42 01"
             }
         },
         {
@@ -87902,6 +87908,48 @@
                 "level": "0",
                 "operator": "OSP Lutowiska",
                 "phone": "+48 509 513 530"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575207859,
+            "lat": 51.5115185,
+            "lon": 17.2771001,
+            "timestamp": "2023-01-22T20:19:02Z",
+            "version": 1,
+            "changeset": 131580386,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Nadleśnictwa.",
+                "defibrillator:location:en": "In the building of the Forestry Inspectorate.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
+                "operator": "Nadleśnictwo Milicz",
+                "phone": "+48 71 38 09 301"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575219640,
+            "lat": 51.504704,
+            "lon": 17.3096522,
+            "timestamp": "2023-01-22T20:29:51Z",
+            "version": 1,
+            "changeset": 131580796,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Ośrodka Edukacji Przyrodniczo - Leśnej \"Dom Drzewa\".",
+                "defibrillator:location:en": "In the building of the Nature and Forest Education Center \"Dom Drzewa\".",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
+                "operator": "Nadleśnictwo Milicz",
+                "phone": "+48 71 38 43 410; +48 661 913 011"
             }
         }
     ]
