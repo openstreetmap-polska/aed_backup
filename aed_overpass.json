@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-22T13:31:08Z",
-        "timestamp_areas_base": "2023-01-22T10:02:35Z",
+        "timestamp_osm_base": "2023-01-22T14:31:08Z",
+        "timestamp_areas_base": "2023-01-22T13:46:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -87881,6 +87881,27 @@
                 "level": "0",
                 "operator": "OSP Wambierzyce",
                 "source": "Informacja z Urzędu Gminy."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10574319631,
+            "lat": 49.2508092,
+            "lon": 22.6952309,
+            "timestamp": "2023-01-22T13:37:49Z",
+            "version": 1,
+            "changeset": 131567066,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Lutowiska",
+                "phone": "+48 509 513 530"
             }
         }
     ]
