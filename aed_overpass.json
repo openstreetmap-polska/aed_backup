@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T19:31:18Z",
+        "timestamp_osm_base": "2023-01-23T20:32:02Z",
         "timestamp_areas_base": "2023-01-23T19:00:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88209,6 +88209,26 @@
                 "defibrillator:location": "Ogrzewalnia u Miecia, bydgoska bazylika. Lewe skrzydło budynku, z tyłu od strony parkingu.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577548226,
+            "lat": 51.5439795,
+            "lon": 23.554165,
+            "timestamp": "2023-01-23T20:29:33Z",
+            "version": 1,
+            "changeset": 131623755,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na szybie wentylacyjnym.",
+                "defibrillator:location:en": "On the ventilation shaft.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "survey:date": "2023-01-23"
             }
         }
     ]
