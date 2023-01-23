@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T12:32:09Z",
+        "timestamp_osm_base": "2023-01-23T13:32:10Z",
         "timestamp_areas_base": "2023-01-23T09:54:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -81997,20 +81997,20 @@
         {
             "type": "node",
             "id": 10296556609,
-            "lat": 52.4527944,
-            "lon": 14.871855,
-            "timestamp": "2022-12-31T09:40:07Z",
-            "version": 1,
-            "changeset": 130713701,
-            "user": "RobertWargol",
-            "uid": 18137905,
+            "lat": 52.45255,
+            "lon": 14.8718429,
+            "timestamp": "2023-01-23T13:27:29Z",
+            "version": 2,
+            "changeset": 131608089,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Remiza OSP w celu uzyskania pomocy zbić szybkę przy drzwiach",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48605221907"
+                "phone": "+48 605 221 907"
             }
         },
         {
@@ -88174,6 +88174,24 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP Gościno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576620241,
+            "lat": 52.8571094,
+            "lon": 16.4087578,
+            "timestamp": "2023-01-23T13:03:39Z",
+            "version": 1,
+            "changeset": 131607243,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Straż leśna - urządzenie mobilne",
+                "defibrillator:location:en": "forest guard - mobile device",
+                "emergency": "defibrillator",
+                "phone": "+48 672 551 825"
             }
         }
     ]
