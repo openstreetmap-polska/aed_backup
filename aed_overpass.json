@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T10:31:24Z",
+        "timestamp_osm_base": "2023-01-23T11:31:15Z",
         "timestamp_areas_base": "2023-01-23T09:54:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88134,6 +88134,26 @@
                 "emergency": "defibrillator",
                 "fixme": "Lokalizacja do weryfikacji",
                 "source": "https://www.powiatkepno.pl/wydarzenia/index/Powiat-Kepinski-zakupil-defibrylatory-AED/idn:17160"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576352723,
+            "lat": 49.3256095,
+            "lon": 22.6641759,
+            "timestamp": "2023-01-23T11:21:32Z",
+            "version": 1,
+            "changeset": 131603035,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP w Czarnej"
             }
         }
     ]
