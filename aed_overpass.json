@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T11:31:15Z",
+        "timestamp_osm_base": "2023-01-23T12:32:09Z",
         "timestamp_areas_base": "2023-01-23T09:54:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88154,6 +88154,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "OSP w Czarnej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576526134,
+            "lat": 54.047139,
+            "lon": 15.6503067,
+            "timestamp": "2023-01-23T12:22:44Z",
+            "version": 1,
+            "changeset": 131605566,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Gościno"
             }
         }
     ]
