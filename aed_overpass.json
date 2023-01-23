@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T22:32:08Z",
-        "timestamp_areas_base": "2023-01-23T22:03:54Z",
+        "timestamp_osm_base": "2023-01-23T23:32:10Z",
+        "timestamp_areas_base": "2023-01-23T23:03:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86666,11 +86666,11 @@
         {
             "type": "node",
             "id": 10558768809,
-            "lat": 51.5476401,
-            "lon": 23.5481579,
-            "timestamp": "2023-01-22T22:30:44Z",
-            "version": 3,
-            "changeset": 131583871,
+            "lat": 51.5476437,
+            "lon": 23.5481702,
+            "timestamp": "2023-01-23T23:04:20Z",
+            "version": 4,
+            "changeset": 131627741,
             "user": "kpv8",
             "uid": 10492626,
             "tags": {
@@ -88293,6 +88293,60 @@
                 "indoor": "yes",
                 "operator": "OSP Ośno Lubuskie",
                 "phone": "+48 605 221 907"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577835441,
+            "lat": 50.0441896,
+            "lon": 19.93882,
+            "timestamp": "2023-01-23T23:07:56Z",
+            "version": 1,
+            "changeset": 131627805,
+            "user": "Piotr Toudi Błoński",
+            "uid": 18347590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biurowiec PIANO, ul. Ludwinowska 7, IV p., siedziba TVN",
+                "defibrillator:location:en": "Piano Office, Ludwinowska Street 7, IV Level",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577837041,
+            "lat": 50.0646278,
+            "lon": 19.9514864,
+            "timestamp": "2023-01-23T23:10:42Z",
+            "version": 1,
+            "changeset": 131627805,
+            "user": "Piotr Toudi Błoński",
+            "uid": 18347590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja Centrum Biurowego Lubicz na paterze (Lubicz 23)",
+                "defibrillator:location:en": "Reception of Centrum Biurowe Lubicz",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577837141,
+            "lat": 50.0644599,
+            "lon": 19.9516808,
+            "timestamp": "2023-01-23T23:11:42Z",
+            "version": 1,
+            "changeset": 131627805,
+            "user": "Piotr Toudi Błoński",
+            "uid": 18347590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Siedziba Banku BNP Paribas (na ścianie)",
+                "defibrillator:location:en": "BNP Pariba",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
