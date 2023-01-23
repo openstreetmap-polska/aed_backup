@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T20:32:02Z",
+        "timestamp_osm_base": "2023-01-23T21:32:08Z",
         "timestamp_areas_base": "2023-01-23T19:00:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -81997,11 +81997,11 @@
         {
             "type": "node",
             "id": 10296556609,
-            "lat": 52.45255,
-            "lon": 14.8718429,
-            "timestamp": "2023-01-23T13:27:29Z",
-            "version": 2,
-            "changeset": 131608089,
+            "lat": 52.4525333,
+            "lon": 14.8718074,
+            "timestamp": "2023-01-23T21:13:47Z",
+            "version": 4,
+            "changeset": 131625007,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -82010,6 +82010,7 @@
                 "defibrillator:location:pl": "Remiza OSP w celu uzyskania pomocy zbić szybkę przy drzwiach",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Ośno Lubuskie",
                 "phone": "+48 605 221 907"
             }
         },
@@ -88229,6 +88230,69 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "survey:date": "2023-01-23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577625761,
+            "lat": 52.4430079,
+            "lon": 14.8859173,
+            "timestamp": "2023-01-23T21:05:52Z",
+            "version": 1,
+            "changeset": 131624790,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do budynku nadleśnictwa.",
+                "defibrillator:location:en": "At the entrance to the Forest District building.",
+                "description": "W kapsule RotAid.",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Nadleśnictwo Ośno Lubuskie",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577639881,
+            "lat": 52.4379671,
+            "lon": 14.9978298,
+            "timestamp": "2023-01-23T21:08:00Z",
+            "version": 1,
+            "changeset": 131624855,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo gaśniczym Scania 5/36.",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Smogóry"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577678956,
+            "lat": 52.4524663,
+            "lon": 14.8719063,
+            "timestamp": "2023-01-23T21:13:47Z",
+            "version": 2,
+            "changeset": 131625007,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-31",
+                "defibrillator:location:en": "In a rescue and firefighting vehicle.",
+                "defibrillator:location:pl": "W pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ośno Lubuskie",
+                "phone": "+48 605 221 907"
             }
         }
     ]
