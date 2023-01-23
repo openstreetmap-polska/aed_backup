@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T16:30:42Z",
+        "timestamp_osm_base": "2023-01-23T17:31:24Z",
         "timestamp_areas_base": "2023-01-23T09:54:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -63030,13 +63030,13 @@
         {
             "type": "node",
             "id": 9741016717,
-            "lat": 54.4377299,
-            "lon": 17.739797,
-            "timestamp": "2022-05-15T11:03:03Z",
-            "version": 1,
-            "changeset": 121007883,
-            "user": "lwierzbowski",
-            "uid": 9470015,
+            "lat": 54.4376423,
+            "lon": 17.7398068,
+            "timestamp": "2023-01-23T17:14:20Z",
+            "version": 2,
+            "changeset": 131616869,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Remiza strażacka OSP CEWICE",
@@ -88192,6 +88192,23 @@
                 "defibrillator:location:en": "forest guard - mobile device",
                 "emergency": "defibrillator",
                 "phone": "+48 672 551 825"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577062541,
+            "lat": 53.1268847,
+            "lon": 18.0166894,
+            "timestamp": "2023-01-23T17:04:44Z",
+            "version": 1,
+            "changeset": 131616522,
+            "user": "step3",
+            "uid": 11251607,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ogrzewalnia u Miecia, bydgoska bazylika. Lewe skrzydło budynku, z tyłu od strony parkingu.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
