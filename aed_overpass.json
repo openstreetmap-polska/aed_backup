@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T07:31:40Z",
-        "timestamp_areas_base": "2023-01-23T06:54:09Z",
+        "timestamp_osm_base": "2023-01-23T08:31:39Z",
+        "timestamp_areas_base": "2023-01-23T07:54:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47453,13 +47453,13 @@
         {
             "type": "node",
             "id": 9555685617,
-            "lat": 51.2840164,
-            "lon": 18.005756,
-            "timestamp": "2022-03-05T09:25:08Z",
-            "version": 1,
-            "changeset": 118118855,
-            "user": "OSP Perzów",
-            "uid": 3110502,
+            "lat": 51.2839648,
+            "lon": 18.0057078,
+            "timestamp": "2023-01-23T07:55:35Z",
+            "version": 2,
+            "changeset": 131594980,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku Urzędu Pracy",
@@ -80867,13 +80867,13 @@
         {
             "type": "node",
             "id": 10293289710,
-            "lat": 50.6823153,
-            "lon": 17.8308213,
-            "timestamp": "2022-12-29T13:45:10Z",
-            "version": 1,
-            "changeset": 130646652,
-            "user": "Vyehoo",
-            "uid": 18122757,
+            "lat": 50.6823811,
+            "lon": 17.8313273,
+            "timestamp": "2023-01-23T07:43:18Z",
+            "version": 2,
+            "changeset": 131594564,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-29",
@@ -87116,13 +87116,13 @@
         {
             "type": "node",
             "id": 10564304779,
-            "lat": 50.7044236,
-            "lon": 17.8605283,
-            "timestamp": "2023-01-18T06:26:20Z",
-            "version": 1,
-            "changeset": 131406561,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 50.7043355,
+            "lon": 17.859859,
+            "timestamp": "2023-01-23T07:32:42Z",
+            "version": 2,
+            "changeset": 131594246,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "defibrillator:location": "Defibrylator AED jest zamontowany na elewacji budynku szkoły.",
                 "emergency": "defibrillator",
@@ -88005,33 +88005,36 @@
             "id": 10576000341,
             "lat": 52.0361055,
             "lon": 23.0237036,
-            "timestamp": "2023-01-23T07:05:28Z",
-            "version": 1,
-            "changeset": 131593375,
+            "timestamp": "2023-01-23T08:07:13Z",
+            "version": 2,
+            "changeset": 131595313,
             "user": "ETMUS",
             "uid": 18344249,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Na ścianie, na wprost wejścia",
                 "defibrillator:location:en": "On the wall, near entrance",
+                "description": "Autoryzowany Serwis Volvo Trucks\n& Renault Trucks",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "name": "ETMUS"
             }
         },
         {
             "type": "node",
-            "id": 10576029441,
-            "lat": 52.0216162,
-            "lon": 23.1712239,
-            "timestamp": "2023-01-23T07:24:26Z",
+            "id": 10576018908,
+            "lat": 50.6760585,
+            "lon": 17.8826992,
+            "timestamp": "2023-01-23T07:32:42Z",
             "version": 1,
-            "changeset": 131593375,
-            "user": "ETMUS",
-            "uid": 18344249,
+            "changeset": 131594246,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "customers",
+                "defibrillator:location": "W szkole",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://nto.pl/defibrylatory-na-ulicach-opola-na-terenie-miasta-beda-zamontowane-nowe-urzadzenia-ratujace-zycie/ar/c14-15134836"
             }
         },
         {
@@ -88048,6 +88051,91 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576038160,
+            "lat": 50.6845928,
+            "lon": 17.8636241,
+            "timestamp": "2023-01-23T07:43:18Z",
+            "version": 1,
+            "changeset": 131594564,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Klub Jeździecki Ostroga",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://nto.pl/defibrylatory-na-ulicach-opola-na-terenie-miasta-beda-zamontowane-nowe-urzadzenia-ratujace-zycie/ar/c14-15134836"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576064886,
+            "lat": 51.2978782,
+            "lon": 18.0071338,
+            "timestamp": "2023-01-23T07:55:35Z",
+            "version": 1,
+            "changeset": 131594980,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Szkoła",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://www.powiatkepno.pl/wydarzenia/index/Powiat-Kepinski-zakupil-defibrylatory-AED/idn:17160"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576064887,
+            "lat": 51.2756222,
+            "lon": 17.9871351,
+            "timestamp": "2023-01-23T07:55:35Z",
+            "version": 1,
+            "changeset": 131594980,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Szkoła",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://www.powiatkepno.pl/wydarzenia/index/Powiat-Kepinski-zakupil-defibrylatory-AED/idn:17160"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576064888,
+            "lat": 51.2755216,
+            "lon": 17.9853426,
+            "timestamp": "2023-01-23T07:55:35Z",
+            "version": 1,
+            "changeset": 131594980,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Szkoła",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://www.powiatkepno.pl/wydarzenia/index/Powiat-Kepinski-zakupil-defibrylatory-AED/idn:17160"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576064889,
+            "lat": 51.2759751,
+            "lon": 17.9866635,
+            "timestamp": "2023-01-23T07:55:35Z",
+            "version": 1,
+            "changeset": 131594980,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Powiatowe Centrum Pomocy Rodzinie w Kępnie",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://www.powiatkepno.pl/wydarzenia/index/Powiat-Kepinski-zakupil-defibrylatory-AED/idn:17160"
             }
         }
     ]
