@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T06:31:54Z",
-        "timestamp_areas_base": "2023-01-23T05:54:09Z",
+        "timestamp_osm_base": "2023-01-23T07:31:40Z",
+        "timestamp_areas_base": "2023-01-23T06:54:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -31128,25 +31128,6 @@
         },
         {
             "type": "node",
-            "id": 9472440713,
-            "lat": 49.8545453,
-            "lon": 19.7960643,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 2,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Przy wejściu głównym",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "note": "są 2",
-                "phone": "+48 12 273 20 75"
-            }
-        },
-        {
-            "type": "node",
             "id": 9472440714,
             "lat": 49.8516407,
             "lon": 19.8006173,
@@ -31168,13 +31149,13 @@
         {
             "type": "node",
             "id": 9472440715,
-            "lat": 49.8408454,
-            "lon": 19.8016833,
-            "timestamp": "2022-02-03T19:57:44Z",
-            "version": 1,
-            "changeset": 116977804,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.840864,
+            "lon": 19.8016926,
+            "timestamp": "2023-01-23T07:10:18Z",
+            "version": 2,
+            "changeset": 131593295,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu głównym",
@@ -40457,34 +40438,21 @@
         {
             "type": "node",
             "id": 9522340201,
-            "lat": 49.8545044,
-            "lon": 19.7960775,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 1,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.8545055,
+            "lon": 19.7960835,
+            "timestamp": "2023-01-23T07:12:00Z",
+            "version": 2,
+            "changeset": 131593295,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "note": "są 2"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9522340202,
-            "lat": 49.8408166,
-            "lon": 19.8016352,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 1,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "yes",
-                "emergency": "defibrillator",
-                "indoor": "no"
+                "opening_hours": "24/7",
+                "phone": "+48 12 273 20 75",
+                "source": "https://gazeta.myslenice.pl/pierwsze-defibrylatory-w-powiecie"
             }
         },
         {
@@ -40523,17 +40491,19 @@
         {
             "type": "node",
             "id": 9522340205,
-            "lat": 49.8231624,
-            "lon": 19.9498216,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 1,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.82316,
+            "lon": 19.949822,
+            "timestamp": "2023-01-23T07:04:38Z",
+            "version": 2,
+            "changeset": 131593295,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://gazeta.myslenice.pl/pierwsze-defibrylatory-w-powiecie"
             }
         },
         {
@@ -87990,6 +87960,94 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "survey:date": "2023-01-22"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575981127,
+            "lat": 49.8351552,
+            "lon": 19.9382,
+            "timestamp": "2023-01-23T07:02:33Z",
+            "version": 1,
+            "changeset": 131593295,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Skrzynka przed wejściem do Urzędu Miasta i Gminy Myślenice",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://gazeta.myslenice.pl/pierwsze-defibrylatory-w-powiecie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10575997888,
+            "lat": 49.8810672,
+            "lon": 20.1005111,
+            "timestamp": "2023-01-23T07:05:56Z",
+            "version": 1,
+            "changeset": 131593295,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wejście do Regionalnego Centrum Oświatowo – Sportowego w Dobczycach",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://gazeta.myslenice.pl/pierwsze-defibrylatory-w-powiecie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576000341,
+            "lat": 52.0361055,
+            "lon": 23.0237036,
+            "timestamp": "2023-01-23T07:05:28Z",
+            "version": 1,
+            "changeset": 131593375,
+            "user": "ETMUS",
+            "uid": 18344249,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, na wprost wejścia",
+                "defibrillator:location:en": "On the wall, near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576029441,
+            "lat": 52.0216162,
+            "lon": 23.1712239,
+            "timestamp": "2023-01-23T07:24:26Z",
+            "version": 1,
+            "changeset": 131593375,
+            "user": "ETMUS",
+            "uid": 18344249,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10576032741,
+            "lat": 52.0209856,
+            "lon": 23.1725612,
+            "timestamp": "2023-01-23T07:26:56Z",
+            "version": 1,
+            "changeset": 131594038,
+            "user": "ETMUS",
+            "uid": 18344249,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
