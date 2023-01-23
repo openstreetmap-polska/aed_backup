@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T09:31:29Z",
-        "timestamp_areas_base": "2023-01-23T08:54:54Z",
+        "timestamp_osm_base": "2023-01-23T10:31:24Z",
+        "timestamp_areas_base": "2023-01-23T09:54:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88005,19 +88005,17 @@
             "id": 10576000341,
             "lat": 52.0361055,
             "lon": 23.0237036,
-            "timestamp": "2023-01-23T08:07:13Z",
-            "version": 2,
-            "changeset": 131595313,
-            "user": "ETMUS",
-            "uid": 18344249,
+            "timestamp": "2023-01-23T10:29:02Z",
+            "version": 4,
+            "changeset": 131601028,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie, na wprost wejścia",
                 "defibrillator:location:en": "On the wall, near entrance",
-                "description": "Autoryzowany Serwis Volvo Trucks\n& Renault Trucks",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "name": "ETMUS"
+                "indoor": "yes"
             }
         },
         {
