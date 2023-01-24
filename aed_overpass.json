@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-23T23:32:10Z",
-        "timestamp_areas_base": "2023-01-23T23:03:39Z",
+        "timestamp_osm_base": "2023-01-24T00:32:10Z",
+        "timestamp_areas_base": "2023-01-24T00:05:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88345,6 +88345,41 @@
                 "access": "customers",
                 "defibrillator:location": "Siedziba Banku BNP Paribas (na ścianie)",
                 "defibrillator:location:en": "BNP Pariba",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577859042,
+            "lat": 50.0601709,
+            "lon": 19.9236716,
+            "timestamp": "2023-01-23T23:38:55Z",
+            "version": 1,
+            "changeset": 131628305,
+            "user": "Piotr Toudi Błoński",
+            "uid": 18347590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hol Muzeum Narodowego, w głębi, na ścianie po lewej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10577859141,
+            "lat": 50.0684433,
+            "lon": 19.9460115,
+            "timestamp": "2023-01-23T23:36:57Z",
+            "version": 1,
+            "changeset": 131628305,
+            "user": "Piotr Toudi Błoński",
+            "uid": 18347590,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "MediaMarkt, Punkt Obsługi Klienta w godzinach pracy.",
+                "defibrillator:location:en": "MediaMarkt.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
