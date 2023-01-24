@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-24T21:31:24Z",
+        "timestamp_osm_base": "2023-01-24T22:31:24Z",
         "timestamp_areas_base": "2023-01-24T15:11:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1327,16 +1327,17 @@
             "id": 5628200513,
             "lat": 50.06588,
             "lon": 19.9875053,
-            "timestamp": "2018-05-19T08:20:19Z",
-            "version": 1,
-            "changeset": 59097483,
-            "user": "Mateusz Konieczny",
-            "uid": 1722488,
+            "timestamp": "2023-01-24T22:28:54Z",
+            "version": 2,
+            "changeset": 131671372,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
             "tags": {
-                "defibrillator:location": "w przedsionku Decathlonu",
+                "defibrillator:location": "Decathlon, przy wejściu głównym. Pn.-sob. 9.00-21.00, nd. 9.00-20.00",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "operator": "Decathlon",
                 "wheelchair": "yes"
             }
         },
@@ -51189,18 +51190,20 @@
             "id": 9579986232,
             "lat": 50.5740648,
             "lon": 17.8729322,
-            "timestamp": "2022-03-15T07:32:33Z",
-            "version": 1,
-            "changeset": 118498318,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-01-24T21:42:16Z",
+            "version": 2,
+            "changeset": 131670132,
+            "user": "Marcin_op",
+            "uid": 2235540,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Prószkowie",
-                "phone": "+48774013700"
+                "phone": "+48774013700",
+                "ref": "Frx"
             }
         },
         {
@@ -88396,6 +88399,197 @@
                 "access": "customers",
                 "defibrillator:location": "MediaMarkt, Punkt Obsługi Klienta w godzinach pracy.",
                 "defibrillator:location:en": "MediaMarkt.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580241641,
+            "lat": 50.0616185,
+            "lon": 19.9462222,
+            "timestamp": "2023-01-24T22:03:00Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Katedra Anatomii UJCM, parter obok szatni, godz. otwarcia budynku: pon-pt 7.00-20.00",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580246641,
+            "lat": 50.0116297,
+            "lon": 19.9939164,
+            "timestamp": "2023-01-24T22:06:15Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "wydział Farmacji CM UJ, na parterze obok portierni",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580248541,
+            "lat": 50.0660383,
+            "lon": 19.9281757,
+            "timestamp": "2023-01-24T22:08:04Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "wydział  Nauk o Zdrowiu CM UJ, obok portierni, dostępny pn-pt 7.00-21.30",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580248842,
+            "lat": 50.0673185,
+            "lon": 19.9785615,
+            "timestamp": "2023-01-24T22:11:01Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Komenda Wojewódzka Policji oraz Wydział Ruchu Drogowego Komendy Miejskiej Policji; 2 szt. - w holu głównym KWP oraz w WRD KMP",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580248843,
+            "lat": 50.0638992,
+            "lon": 19.9408013,
+            "timestamp": "2023-01-24T22:12:34Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Dom Jana Matejki w holu na parterze",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580266341,
+            "lat": 50.0599909,
+            "lon": 19.9300456,
+            "timestamp": "2023-01-24T22:15:43Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Muzeum im. Emeryka Hutten-Czapskiego, hol poziom -1",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580266342,
+            "lat": 50.0447551,
+            "lon": 19.9498844,
+            "timestamp": "2023-01-24T22:17:31Z",
+            "version": 1,
+            "changeset": 131670673,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Urząd Miasta Krakowa, hol, parter",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580272841,
+            "lat": 50.1055477,
+            "lon": 19.9066477,
+            "timestamp": "2023-01-24T22:21:49Z",
+            "version": 1,
+            "changeset": 131671198,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Komenda Powiatowa Policji w Krakowie, u dyżurnego, dostęp 24/7",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580275241,
+            "lat": 50.0690436,
+            "lon": 19.9290055,
+            "timestamp": "2023-01-24T22:24:01Z",
+            "version": 1,
+            "changeset": 131671198,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "Komenda Miejska Policji, recepcja, 24/7",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580278441,
+            "lat": 50.0892222,
+            "lon": 20.0278631,
+            "timestamp": "2023-01-24T22:26:11Z",
+            "version": 1,
+            "changeset": 131671198,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "ZIKiT",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10580278641,
+            "lat": 50.0635459,
+            "lon": 20.0083408,
+            "timestamp": "2023-01-24T22:26:42Z",
+            "version": 1,
+            "changeset": 131671198,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-24",
+                "defibrillator:location:pl": "ZIKiT",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
