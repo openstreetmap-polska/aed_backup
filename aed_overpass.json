@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-24T00:32:10Z",
+        "timestamp_osm_base": "2023-01-24T01:31:59Z",
         "timestamp_areas_base": "2023-01-24T00:05:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -231,14 +231,20 @@
             "id": 2469523539,
             "lat": 50.0649226,
             "lon": 19.9296658,
-            "timestamp": "2014-02-18T10:00:18Z",
-            "version": 2,
-            "changeset": 20632872,
-            "user": "Brian@Brea",
-            "uid": 416346,
+            "timestamp": "2023-01-24T00:46:16Z",
+            "version": 4,
+            "changeset": 131629208,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wojewódzka Biblioteka Publiczna w Krakowie, parter po lewej stronie przy wejściu.",
                 "emergency": "defibrillator",
-                "source": "bip.krakow.pl"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Wojewódzka Biblioteka Publiczna w Krakowie",
+                "source": "bip.krakow.pl;local knowledge"
             }
         },
         {
@@ -393,14 +399,19 @@
             "id": 2514742258,
             "lat": 50.0588419,
             "lon": 19.9377766,
-            "timestamp": "2021-11-13T19:41:18Z",
-            "version": 3,
-            "changeset": 113743102,
-            "user": "KNWedytor",
-            "uid": 2460449,
+            "timestamp": "2023-01-24T00:52:38Z",
+            "version": 4,
+            "changeset": 131629295,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
             "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Pawilon Wyspiański, od strony ul. Grodzkiej.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Su 11:00-19:00",
+                "operator": "KBF"
             }
         },
         {
@@ -69638,14 +69649,19 @@
             "id": 9989096368,
             "lat": 50.0625661,
             "lon": 19.9318175,
-            "timestamp": "2022-08-30T19:03:06Z",
-            "version": 1,
-            "changeset": 125583680,
-            "user": "dziabaducha",
-            "uid": 775276,
+            "timestamp": "2023-01-24T00:44:34Z",
+            "version": 2,
+            "changeset": 131629189,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Punkt sprzedaży biletów MPK",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 11:00-19:00",
+                "operator": "MPK w Krakowie"
             }
         },
         {
