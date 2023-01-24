@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-24T22:31:24Z",
-        "timestamp_areas_base": "2023-01-24T15:11:39Z",
+        "timestamp_osm_base": "2023-01-24T23:32:17Z",
+        "timestamp_areas_base": "2023-01-24T23:17:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88408,17 +88408,19 @@
             "id": 10580241641,
             "lat": 50.0616185,
             "lon": 19.9462222,
-            "timestamp": "2023-01-24T22:03:00Z",
-            "version": 1,
-            "changeset": 131670673,
+            "timestamp": "2023-01-24T22:59:35Z",
+            "version": 2,
+            "changeset": 131672172,
             "user": "Jerzy Woźniakiewicz",
             "uid": 18347793,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "check_date": "2023-01-24",
                 "defibrillator:location:pl": "Katedra Anatomii UJCM, parter obok szatni, godz. otwarcia budynku: pon-pt 7.00-20.00",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-20:00",
+                "operator": "UJ"
             }
         },
         {
