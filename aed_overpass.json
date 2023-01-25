@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T07:31:09Z",
-        "timestamp_areas_base": "2023-01-25T07:21:52Z",
+        "timestamp_osm_base": "2023-01-25T08:31:55Z",
+        "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -80063,17 +80063,18 @@
             "id": 10292787609,
             "lat": 51.6556709,
             "lon": 16.9536446,
-            "timestamp": "2022-12-29T15:26:21Z",
-            "version": 2,
-            "changeset": 130651197,
-            "user": "NorthCrab",
-            "uid": 15215305,
+            "timestamp": "2023-01-25T08:25:58Z",
+            "version": 3,
+            "changeset": 131683719,
+            "user": "MaciejPtak",
+            "uid": 18119921,
             "tags": {
-                "access": "yes",
+                "access": "permit",
                 "check_date": "2022-12-29",
                 "defibrillator:location:pl": "2x AED na wyposażeniu samochodów straży pożarnej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Miejska Górka",
                 "phone": "112"
             }
         },
