@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T16:31:19Z",
+        "timestamp_osm_base": "2023-01-25T17:32:09Z",
         "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86465,15 +86465,14 @@
             "id": 10556580007,
             "lat": 49.9847713,
             "lon": 20.064475,
-            "timestamp": "2023-01-15T11:45:23Z",
-            "version": 1,
-            "changeset": 131294628,
-            "user": "Patryk2710",
-            "uid": 12914377,
+            "timestamp": "2023-01-25T16:32:42Z",
+            "version": 2,
+            "changeset": 131702963,
+            "user": "Mateusz Konieczny - bot account",
+            "uid": 3199858,
             "tags": {
                 "defibrillator:location": "W Mediatece, w środku po prawej od wejścia",
                 "emergency": "defibrillator",
-                "image": "https://westnordost.de/p/128355.jpg",
                 "indoor": "yes"
             }
         },
@@ -88724,6 +88723,23 @@
                 "indoor": "yes",
                 "operator": "Europol Gaz",
                 "phone": "+48225867000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582198058,
+            "lat": 50.3058666,
+            "lon": 18.6504065,
+            "timestamp": "2023-01-25T17:16:58Z",
+            "version": 1,
+            "changeset": 131704401,
+            "user": "gscscnd",
+            "uid": 1701828,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "position (estimated)",
+                "indoor": "yes",
+                "level": "0"
             }
         }
     ]

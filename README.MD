@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-25 15:33:05)
+# AED backup and stats (2023-01-25 17:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4801
+Total AED: 4802
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4404\
-Average daily growth since beginning of the year: 18.64
+Average daily growth since beginning of the year: 18.68
 
 ## Top creators
 | # | User | Created |
@@ -29,8 +29,8 @@ Average daily growth since beginning of the year: 18.64
 | 14 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
 | 15 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
 | 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
-| 17 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 35 |
-| 18 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
+| 17 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
+| 18 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 35 |
 | 19 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 33 |
 | 21 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
