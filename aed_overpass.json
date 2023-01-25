@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T12:31:49Z",
+        "timestamp_osm_base": "2023-01-25T13:31:24Z",
         "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88685,6 +88685,27 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://twojeradio.fm/mozna-juz-korzystac-z-parkingu-przy-ul-barnima.html; Projekt wykoanwczy Park&Ride"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581644116,
+            "lat": 52.3833676,
+            "lon": 16.9950003,
+            "timestamp": "2023-01-25T12:53:04Z",
+            "version": 1,
+            "changeset": 131694297,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "w korytarzu prowadzącym do toalet",
+                "description": "model HeartSine samaritan PAD; typ: SAM 350P",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 07:30-22:00",
+                "source": "survey"
             }
         }
     ]
