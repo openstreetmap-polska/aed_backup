@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T22:31:23Z",
+        "timestamp_osm_base": "2023-01-25T23:32:08Z",
         "timestamp_areas_base": "2023-01-25T19:29:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88742,6 +88742,110 @@
                 "indoor": "yes",
                 "operator": "OSP Łąka Prudnicka",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582835205,
+            "lat": 50.0746815,
+            "lon": 19.9985693,
+            "timestamp": "2023-01-25T23:02:12Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "Revoult Podium Park",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582836005,
+            "lat": 50.0694511,
+            "lon": 20.0018088,
+            "timestamp": "2023-01-25T23:04:03Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "Zespół krytych pływalni AWF",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582836505,
+            "lat": 50.0641782,
+            "lon": 19.96068,
+            "timestamp": "2023-01-25T23:05:06Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "ABB",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582839205,
+            "lat": 50.0874801,
+            "lon": 19.9548279,
+            "timestamp": "2023-01-25T23:10:47Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "IAG GBS,\tbud. 1, piętro 7",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582840705,
+            "lat": 50.0955549,
+            "lon": 19.9550331,
+            "timestamp": "2023-01-25T23:13:49Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "Lafarge Betoniarnia",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582841805,
+            "lat": 50.0872572,
+            "lon": 19.9379259,
+            "timestamp": "2023-01-25T23:16:42Z",
+            "version": 1,
+            "changeset": 131713878,
+            "user": "Jerzy Woźniakiewicz",
+            "uid": 18347793,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "Sanepid",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
