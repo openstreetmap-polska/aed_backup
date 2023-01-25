@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T19:31:50Z",
+        "timestamp_osm_base": "2023-01-25T20:31:54Z",
         "timestamp_areas_base": "2023-01-25T19:29:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88740,6 +88740,25 @@
                 "fixme": "position (estimated)",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10582584407,
+            "lat": 50.3104076,
+            "lon": 17.5260548,
+            "timestamp": "2023-01-25T20:10:23Z",
+            "version": 1,
+            "changeset": 131709680,
+            "user": "Aintdie",
+            "uid": 18356843,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-25",
+                "defibrillator:location:pl": "Defibrylator na samochodzie bojowym OSP Łąka Prudnicka.\nW razie potrzeby dzwoń nr 112 lub uruchom syrenę alarmową przyciskiem na ścianie obok bramy wjazdowej remizy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
             }
         }
     ]
