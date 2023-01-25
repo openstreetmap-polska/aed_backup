@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T13:31:24Z",
+        "timestamp_osm_base": "2023-01-25T14:31:24Z",
         "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88706,6 +88706,24 @@
                 "level": "0",
                 "opening_hours": "Mo-Sa 07:30-22:00",
                 "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581775163,
+            "lat": 52.2388372,
+            "lon": 21.0250912,
+            "timestamp": "2023-01-25T14:04:31Z",
+            "version": 1,
+            "changeset": 131697192,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "W budynku znajduje się kilka defibrylatorów AED.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Europol Gaz",
+                "phone": "+48225867000"
             }
         }
     ]
