@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T10:31:09Z",
+        "timestamp_osm_base": "2023-01-25T11:31:55Z",
         "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84201,17 +84201,19 @@
             "id": 10308693309,
             "lat": 50.0469605,
             "lon": 18.6031177,
-            "timestamp": "2023-01-05T12:55:15Z",
-            "version": 1,
-            "changeset": 130905780,
-            "user": "bugg_rybnik",
-            "uid": 18183287,
+            "timestamp": "2023-01-25T10:35:56Z",
+            "version": 2,
+            "changeset": 131688836,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-01-05",
+                "defibrillator:location": "Ściana budynku obok wejścia do Ośrodka Pomocy Społecznej",
                 "defibrillator:location:en": "Front wall of the building, next to the entrance of OPS",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -88595,6 +88597,75 @@
                 "defibrillator:location:pl": "ZIKiT",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581273269,
+            "lat": 50.3103962,
+            "lon": 17.5260452,
+            "timestamp": "2023-01-25T10:47:27Z",
+            "version": 1,
+            "changeset": 131689295,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.msn.com/pl-pl/wiadomosci/polska/koledzy-z-drużyny-siatkówki-ratowali-mieszkańca-łąki-pomógł-defibrylator-od-miejscowych-strażaków-sześć-razy-z-niego-strzelano/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581324401,
+            "lat": 50.0506691,
+            "lon": 18.6004466,
+            "timestamp": "2023-01-25T10:35:56Z",
+            "version": 1,
+            "changeset": 131688836,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://enowiny.pl/artykul,63942,rybnik-w-boguszowicach-pojawily-sie-defibrylatory-aed-jeden-z-nich-jest-na-zewnatrz-budynku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581324402,
+            "lat": 50.0487326,
+            "lon": 18.6059967,
+            "timestamp": "2023-01-25T10:35:56Z",
+            "version": 1,
+            "changeset": 131688836,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://enowiny.pl/artykul,63942,rybnik-w-boguszowicach-pojawily-sie-defibrylatory-aed-jeden-z-nich-jest-na-zewnatrz-budynku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581324403,
+            "lat": 50.0457228,
+            "lon": 18.6051582,
+            "timestamp": "2023-01-25T10:35:56Z",
+            "version": 1,
+            "changeset": 131688836,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://enowiny.pl/artykul,63942,rybnik-w-boguszowicach-pojawily-sie-defibrylatory-aed-jeden-z-nich-jest-na-zewnatrz-budynku"
             }
         }
     ]
