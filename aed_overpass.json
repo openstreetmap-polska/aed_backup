@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-25T11:31:55Z",
+        "timestamp_osm_base": "2023-01-25T12:31:49Z",
         "timestamp_areas_base": "2023-01-25T08:21:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88666,6 +88666,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://enowiny.pl/artykul,63942,rybnik-w-boguszowicach-pojawily-sie-defibrylatory-aed-jeden-z-nich-jest-na-zewnatrz-budynku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10581549959,
+            "lat": 53.3362059,
+            "lon": 15.0345391,
+            "timestamp": "2023-01-25T12:02:08Z",
+            "version": 1,
+            "changeset": 131692390,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek socjalny na parkingu Park&Ride",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://twojeradio.fm/mozna-juz-korzystac-z-parkingu-przy-ul-barnima.html; Projekt wykoanwczy Park&Ride"
             }
         }
     ]
