@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T13:32:24Z",
+        "timestamp_osm_base": "2023-01-26T14:31:19Z",
         "timestamp_areas_base": "2023-01-26T10:36:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86689,11 +86689,11 @@
             "id": 10558768809,
             "lat": 51.5476437,
             "lon": 23.5481702,
-            "timestamp": "2023-01-23T23:04:20Z",
-            "version": 4,
-            "changeset": 131627741,
-            "user": "kpv8",
-            "uid": 10492626,
+            "timestamp": "2023-01-26T14:15:59Z",
+            "version": 5,
+            "changeset": 131734668,
+            "user": "Gmina Miejska Włodawa",
+            "uid": 18360200,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie, po prawej stronie od wejścia.",
@@ -86701,6 +86701,7 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "Gmina Miejska Włodawa",
                 "survey:date": "2023-01-16"
             }
         },
@@ -87969,11 +87970,11 @@
             "id": 10575408627,
             "lat": 51.5548399,
             "lon": 23.5539207,
-            "timestamp": "2023-01-22T22:30:44Z",
-            "version": 1,
-            "changeset": 131583871,
-            "user": "kpv8",
-            "uid": 10492626,
+            "timestamp": "2023-01-26T14:15:30Z",
+            "version": 2,
+            "changeset": 131734646,
+            "user": "Gmina Miejska Włodawa",
+            "uid": 18360200,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie, po prawej stronie od wejścia.",
@@ -87981,6 +87982,7 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "Gmina Miejska Włodawa",
                 "survey:date": "2023-01-22"
             }
         },
@@ -88238,11 +88240,11 @@
             "id": 10577548226,
             "lat": 51.5439795,
             "lon": 23.554165,
-            "timestamp": "2023-01-23T20:29:33Z",
-            "version": 1,
-            "changeset": 131623755,
-            "user": "kpv8",
-            "uid": 10492626,
+            "timestamp": "2023-01-26T14:16:04Z",
+            "version": 3,
+            "changeset": 131734672,
+            "user": "Gmina Miejska Włodawa",
+            "uid": 18360200,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na szybie wentylacyjnym.",
@@ -88250,6 +88252,7 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "Gmina Miejska Włodawa",
                 "survey:date": "2023-01-23"
             }
         },
