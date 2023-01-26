@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T20:31:38Z",
+        "timestamp_osm_base": "2023-01-26T21:32:24Z",
         "timestamp_areas_base": "2023-01-26T19:40:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88982,6 +88982,43 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "77 40 93950"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584929205,
+            "lat": 50.4591502,
+            "lon": 17.3508848,
+            "timestamp": "2023-01-26T20:33:23Z",
+            "version": 1,
+            "changeset": 131747038,
+            "user": "Vita Nysa",
+            "uid": 18361918,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przychodnia Vita gabinet zabiegowy",
+                "defibrillator:location:en": "Healt Clinic Vita treatment room",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "774093950"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584939805,
+            "lat": 50.4550296,
+            "lon": 17.389707,
+            "timestamp": "2023-01-26T20:39:09Z",
+            "version": 1,
+            "changeset": 131747211,
+            "user": "michalg89",
+            "uid": 18361998,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W środku budynku OSP Niwnica",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
