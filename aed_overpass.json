@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T10:31:54Z",
-        "timestamp_areas_base": "2023-01-26T08:35:09Z",
+        "timestamp_osm_base": "2023-01-26T11:31:39Z",
+        "timestamp_areas_base": "2023-01-26T10:36:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88846,6 +88846,24 @@
                 "defibrillator:location:pl": "Sanepid",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10583937405,
+            "lat": 51.3392903,
+            "lon": 16.6426232,
+            "timestamp": "2023-01-26T11:27:15Z",
+            "version": 1,
+            "changeset": 131728907,
+            "user": "ZSSiPO",
+            "uid": 18359914,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Zespół Szkół Specjalnych i Placówek Oświatowych w Wołowie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 71 3892608"
             }
         }
     ]
