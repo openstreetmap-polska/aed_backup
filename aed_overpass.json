@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T11:31:39Z",
+        "timestamp_osm_base": "2023-01-26T12:31:37Z",
         "timestamp_areas_base": "2023-01-26T10:36:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88864,6 +88864,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 71 3892608"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10583976138,
+            "lat": 50.2950547,
+            "lon": 21.9975374,
+            "timestamp": "2023-01-26T12:04:10Z",
+            "version": 1,
+            "changeset": 131730010,
+            "user": "grzechukol",
+            "uid": 1248097,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku garażu OSP w specjalnej kapsule",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Porębach Wolskich",
+                "start_date": "2023-01-28",
+                "website": "https://www.facebook.com/ospporebywolskie"
             }
         }
     ]
