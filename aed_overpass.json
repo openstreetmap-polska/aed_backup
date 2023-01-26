@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T00:32:06Z",
-        "timestamp_areas_base": "2023-01-25T23:31:05Z",
+        "timestamp_osm_base": "2023-01-26T01:31:38Z",
+        "timestamp_areas_base": "2023-01-26T00:33:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50335,17 +50335,17 @@
             "id": 9570817327,
             "lat": 50.2879889,
             "lon": 21.4588737,
-            "timestamp": "2022-10-29T10:51:41Z",
-            "version": 2,
-            "changeset": 128205880,
-            "user": "Patryk2710",
-            "uid": 12914377,
+            "timestamp": "2023-01-26T00:59:20Z",
+            "version": 3,
+            "changeset": 131715396,
+            "user": "☆Finvenkulo",
+            "uid": 4128818,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator położony na filarze wewnątrz galerii handlowej.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Th 10:00-21:00, Fr-Sa 09:00-21:00, Jan 30,Apr 10,Apr 24,Jun 26,Aug 28,Dec 11,Dec 18 Su 10:00-19:00",
+                "opening_hours": "Mo-Th 10:00-21:00, Fr-Sa 09:00-21:00, Jan 29,Apr 02,Apr 30,Jun 25,Aug 27,Dec 17 Su 10:00-19:00",
                 "operator": "Galeria Navigator",
                 "phone": "+48177492350"
             }
