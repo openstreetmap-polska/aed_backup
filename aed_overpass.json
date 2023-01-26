@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T19:31:52Z",
-        "timestamp_areas_base": "2023-01-26T10:36:50Z",
+        "timestamp_osm_base": "2023-01-26T20:31:38Z",
+        "timestamp_areas_base": "2023-01-26T19:40:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88943,6 +88943,45 @@
                 "opening_hours": "24/7",
                 "source": "https://zlotowskie.pl/artykul/defibrylator-zewnetrzny/1397286",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584877637,
+            "lat": 51.7748487,
+            "lon": 19.4643092,
+            "timestamp": "2023-01-26T20:13:24Z",
+            "version": 1,
+            "changeset": 131746412,
+            "user": "Fan map",
+            "uid": 2092025,
+            "tags": {
+                "defibrillator:location": "Portiernia budynku T",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "HS medical",
+                "operator": "Wydział Ekonomiczno-Socjologiczny UŁ"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584922705,
+            "lat": 50.4591948,
+            "lon": 17.3509443,
+            "timestamp": "2023-01-26T20:26:31Z",
+            "version": 1,
+            "changeset": 131746810,
+            "user": "Vita Nysa",
+            "uid": 18361918,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Gabinet zabiegowy",
+                "defibrillator:location:en": "treatment room",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "77 40 93950"
             }
         }
     ]
