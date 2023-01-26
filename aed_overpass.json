@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-26T18:30:58Z",
+        "timestamp_osm_base": "2023-01-26T19:31:52Z",
         "timestamp_areas_base": "2023-01-26T10:36:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88888,6 +88888,61 @@
                 "operator": "Ochotnicza Straż Pożarna w Porębach Wolskich",
                 "start_date": "2023-01-28",
                 "website": "https://www.facebook.com/ospporebywolskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584716498,
+            "lat": 51.0279617,
+            "lon": 15.4146917,
+            "timestamp": "2023-01-26T18:31:30Z",
+            "version": 1,
+            "changeset": 131743441,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Jest w Urzędzie i dyspozycji Straży Miejskiej",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji.",
+                "source": "https://lwowecki.info/szkolili-sie-z-obslugi-aed/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584716499,
+            "lat": 51.0343607,
+            "lon": 15.4121799,
+            "timestamp": "2023-01-26T18:31:30Z",
+            "version": 1,
+            "changeset": 131743441,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Szkoła Podstawowa",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji.",
+                "source": "https://lwowecki.info/szkolili-sie-z-obslugi-aed/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10584784770,
+            "lat": 53.446549,
+            "lon": 17.0919803,
+            "timestamp": "2023-01-26T19:03:31Z",
+            "version": 1,
+            "changeset": 131744372,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Sali Wiejskiej",
+                "emergency": "defibrillator",
+                "image": "https://zlotowskie.pl/static/files/gallery/141/373d4-326768513_573599984327575_8521387810203547214_n.jpg",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://zlotowskie.pl/artykul/defibrylator-zewnetrzny/1397286",
+                "wheelchair": "yes"
             }
         }
     ]
