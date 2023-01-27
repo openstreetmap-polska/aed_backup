@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T13:31:24Z",
+        "timestamp_osm_base": "2023-01-27T14:31:23Z",
         "timestamp_areas_base": "2023-01-27T12:51:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89126,6 +89126,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Urząd Miasta Lublin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586732905,
+            "lat": 52.0961609,
+            "lon": 21.1179455,
+            "timestamp": "2023-01-27T13:34:50Z",
+            "version": 1,
+            "changeset": 131773598,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "OSP Konstancin Jeziorna",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586733205,
+            "lat": 52.0961774,
+            "lon": 21.1179764,
+            "timestamp": "2023-01-27T13:35:08Z",
+            "version": 1,
+            "changeset": 131773598,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "OSP Konstancin Jeziorna",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
