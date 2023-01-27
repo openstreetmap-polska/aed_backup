@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T11:31:40Z",
+        "timestamp_osm_base": "2023-01-27T12:30:39Z",
         "timestamp_areas_base": "2023-01-27T09:50:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88968,33 +88968,13 @@
         {
             "type": "node",
             "id": 10584922705,
-            "lat": 50.4591948,
-            "lon": 17.3509443,
-            "timestamp": "2023-01-26T20:26:31Z",
-            "version": 1,
-            "changeset": 131746810,
-            "user": "Vita Nysa",
-            "uid": 18361918,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Gabinet zabiegowy",
-                "defibrillator:location:en": "treatment room",
-                "emergency": "defibrillator",
-                "emergency:phone": "112",
-                "indoor": "yes",
-                "phone": "77 40 93950"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10584929205,
             "lat": 50.4591502,
             "lon": 17.3508848,
-            "timestamp": "2023-01-26T20:33:23Z",
-            "version": 1,
-            "changeset": 131747038,
-            "user": "Vita Nysa",
-            "uid": 18361918,
+            "timestamp": "2023-01-27T12:28:32Z",
+            "version": 2,
+            "changeset": 131771307,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Przychodnia Vita gabinet zabiegowy",
@@ -89002,7 +88982,8 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes",
-                "phone": "774093950"
+                "operator": "NZOZ VITA Sp. z o.o.",
+                "phone": "+48 77 409 39 50"
             }
         },
         {
