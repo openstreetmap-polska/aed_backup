@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T09:31:50Z",
-        "timestamp_areas_base": "2023-01-27T08:49:19Z",
+        "timestamp_osm_base": "2023-01-27T10:31:37Z",
+        "timestamp_areas_base": "2023-01-27T09:50:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89027,9 +89027,9 @@
             "id": 10586164005,
             "lat": 54.3766133,
             "lon": 18.6295198,
-            "timestamp": "2023-01-27T08:11:22Z",
-            "version": 1,
-            "changeset": 131760999,
+            "timestamp": "2023-01-27T10:28:33Z",
+            "version": 2,
+            "changeset": 131766361,
             "user": "ZBIiCD Gdańsk",
             "uid": 18364062,
             "tags": {
@@ -89037,7 +89037,8 @@
                 "defibrillator:location": "u ochrony",
                 "defibrillator:location:en": "security",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Pomorski OW NFZ"
             }
         },
         {
@@ -89045,9 +89046,9 @@
             "id": 10586166705,
             "lat": 54.3536957,
             "lon": 18.6545615,
-            "timestamp": "2023-01-27T08:12:42Z",
-            "version": 1,
-            "changeset": 131760999,
+            "timestamp": "2023-01-27T10:31:34Z",
+            "version": 2,
+            "changeset": 131766501,
             "user": "ZBIiCD Gdańsk",
             "uid": 18364062,
             "tags": {
@@ -89055,7 +89056,8 @@
                 "defibrillator:location": "u ochrony",
                 "defibrillator:location:en": "security",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Pomorski OW NFZ"
             }
         },
         {
@@ -89074,6 +89076,74 @@
                 "defibrillator:location:en": "security",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586322422,
+            "lat": 51.2498965,
+            "lon": 22.551675,
+            "timestamp": "2023-01-27T10:13:04Z",
+            "version": 1,
+            "changeset": 131765747,
+            "user": "mpsujek",
+            "uid": 18345658,
+            "tags": {
+                "defibrillator:location": "W portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Lublin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586322423,
+            "lat": 51.2477492,
+            "lon": 22.5657067,
+            "timestamp": "2023-01-27T10:15:10Z",
+            "version": 1,
+            "changeset": 131765837,
+            "user": "mpsujek",
+            "uid": 18345658,
+            "tags": {
+                "defibrillator:location": "Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Lublin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586368712,
+            "lat": 51.2520236,
+            "lon": 22.5491618,
+            "timestamp": "2023-01-27T10:10:07Z",
+            "version": 1,
+            "changeset": 131765631,
+            "user": "mpsujek",
+            "uid": 18345658,
+            "tags": {
+                "defibrillator:location": "W portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Lublin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586374844,
+            "lat": 51.2475737,
+            "lon": 22.5667649,
+            "timestamp": "2023-01-27T10:16:49Z",
+            "version": 1,
+            "changeset": 131765907,
+            "user": "mpsujek",
+            "uid": 18345658,
+            "tags": {
+                "defibrillator:location": "Punkt Informacji Turystycznej, Parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miasta Lublin"
             }
         }
     ]
