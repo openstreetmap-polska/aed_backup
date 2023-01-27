@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T08:32:09Z",
-        "timestamp_areas_base": "2023-01-27T07:48:24Z",
+        "timestamp_osm_base": "2023-01-27T09:31:50Z",
+        "timestamp_areas_base": "2023-01-27T08:49:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63505,20 +63505,21 @@
         {
             "type": "node",
             "id": 9765614611,
-            "lat": 52.3826827,
-            "lon": 16.9948032,
-            "timestamp": "2022-05-23T22:54:58Z",
-            "version": 1,
-            "changeset": 121392795,
-            "user": "Aim311",
-            "uid": 4493657,
+            "lat": 52.3826487,
+            "lon": 16.9947483,
+            "timestamp": "2023-01-27T09:18:00Z",
+            "version": 2,
+            "changeset": 131763635,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu do sklepu Auchan",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "manufacturer": "Philips",
-                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+                "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+                "source": "survey"
             }
         },
         {
