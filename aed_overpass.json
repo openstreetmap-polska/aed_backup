@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T07:32:09Z",
-        "timestamp_areas_base": "2023-01-27T06:48:24Z",
+        "timestamp_osm_base": "2023-01-27T08:32:09Z",
+        "timestamp_areas_base": "2023-01-27T07:48:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89017,6 +89017,60 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "W środku budynku OSP Niwnica",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586164005,
+            "lat": 54.3766133,
+            "lon": 18.6295198,
+            "timestamp": "2023-01-27T08:11:22Z",
+            "version": 1,
+            "changeset": 131760999,
+            "user": "ZBIiCD Gdańsk",
+            "uid": 18364062,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "u ochrony",
+                "defibrillator:location:en": "security",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586166705,
+            "lat": 54.3536957,
+            "lon": 18.6545615,
+            "timestamp": "2023-01-27T08:12:42Z",
+            "version": 1,
+            "changeset": 131760999,
+            "user": "ZBIiCD Gdańsk",
+            "uid": 18364062,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "u ochrony",
+                "defibrillator:location:en": "security",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10586168511,
+            "lat": 54.4750183,
+            "lon": 17.0248982,
+            "timestamp": "2023-01-27T08:17:22Z",
+            "version": 1,
+            "changeset": 131760999,
+            "user": "ZBIiCD Gdańsk",
+            "uid": 18364062,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "u ochrony",
+                "defibrillator:location:en": "security",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
