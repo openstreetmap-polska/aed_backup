@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T15:31:10Z",
+        "timestamp_osm_base": "2023-01-27T16:32:09Z",
         "timestamp_areas_base": "2023-01-27T12:51:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55572,23 +55572,23 @@
         {
             "type": "node",
             "id": 9633814614,
-            "lat": 50.4554577,
-            "lon": 17.7274925,
-            "timestamp": "2022-04-03T16:22:24Z",
-            "version": 1,
-            "changeset": 119270710,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 50.4555969,
+            "lon": 17.7273718,
+            "timestamp": "2023-01-27T15:38:44Z",
+            "version": 2,
+            "changeset": 131778386,
+            "user": "Alfred Sokół",
+            "uid": 18366245,
             "tags": {
-                "access": "private",
+                "access": "permit",
                 "addr:city": "Łącznik",
-                "addr:housenumber": "2a",
+                "addr:housenumber": "2A",
                 "addr:street": "Sportowa",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy o numerze operacyjnym 487[o]13. W celu uzyskania dostępu należy uruchomić syrenę alarmową.",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Łącznik",
-                "phone": "774376346"
+                "indoor": "yes",
+                "operator": "OSP Łącznik"
             }
         },
         {
