@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-27T16:32:09Z",
-        "timestamp_areas_base": "2023-01-27T12:51:54Z",
+        "timestamp_osm_base": "2023-01-27T17:31:53Z",
+        "timestamp_areas_base": "2023-01-27T16:54:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89160,6 +89160,40 @@
                 "defibrillator:location": "OSP Konstancin Jeziorna",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10587050605,
+            "lat": 54.6143388,
+            "lon": 18.191601,
+            "timestamp": "2023-01-27T16:33:13Z",
+            "version": 1,
+            "changeset": 131780421,
+            "user": "tdk2005",
+            "uid": 11270349,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy bramie na teren zakładu",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10587117371,
+            "lat": 50.0717325,
+            "lon": 19.9286266,
+            "timestamp": "2023-01-27T17:13:40Z",
+            "version": 1,
+            "changeset": 131781785,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "operator": "Radio Kraków"
             }
         }
     ]
