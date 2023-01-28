@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-28T22:32:04Z",
-        "timestamp_areas_base": "2023-01-28T22:11:37Z",
+        "timestamp_osm_base": "2023-01-28T23:31:29Z",
+        "timestamp_areas_base": "2023-01-28T23:12:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89248,6 +89248,41 @@
                 "check_date": "2023-01-28",
                 "defibrillator:location:pl": "Wago, AED dostępne w sekretariacie firmy.",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10589962305,
+            "lat": 51.0378351,
+            "lon": 16.7601798,
+            "timestamp": "2023-01-28T22:49:21Z",
+            "version": 1,
+            "changeset": 131824816,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-28",
+                "defibrillator:location:pl": "CEDO-sekretariat",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10589964605,
+            "lat": 51.0366224,
+            "lon": 16.7562327,
+            "timestamp": "2023-01-28T22:51:18Z",
+            "version": 1,
+            "changeset": 131824816,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-28",
+                "defibrillator:location:pl": "NZOZ KAMA rejestracja, wejście główne",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
