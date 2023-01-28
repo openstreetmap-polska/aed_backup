@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-28T10:31:47Z",
-        "timestamp_areas_base": "2023-01-28T10:06:17Z",
+        "timestamp_osm_base": "2023-01-28T11:31:45Z",
+        "timestamp_areas_base": "2023-01-28T11:06:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89194,6 +89194,25 @@
                 "access": "yes",
                 "emergency": "defibrillator",
                 "operator": "Radio Kraków"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10588737846,
+            "lat": 51.8525405,
+            "lon": 16.5774901,
+            "timestamp": "2023-01-28T10:56:44Z",
+            "version": 1,
+            "changeset": 131803062,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://elka.pl/content/view/113258/80/"
             }
         }
     ]
