@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-28T21:31:52Z",
-        "timestamp_areas_base": "2023-01-28T21:11:08Z",
+        "timestamp_osm_base": "2023-01-28T22:32:04Z",
+        "timestamp_areas_base": "2023-01-28T22:11:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89213,6 +89213,41 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://elka.pl/content/view/113258/80/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10589926105,
+            "lat": 51.0875677,
+            "lon": 17.0591323,
+            "timestamp": "2023-01-28T22:21:30Z",
+            "version": 1,
+            "changeset": 131824084,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-28",
+                "defibrillator:location:pl": "Wago, AED dostępne w godzinach pracy firmy. Skierować się do sekretariatu firmy, pokierują do urządzenia.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10589934105,
+            "lat": 51.1532759,
+            "lon": 16.8107045,
+            "timestamp": "2023-01-28T22:29:15Z",
+            "version": 1,
+            "changeset": 131824084,
+            "user": "Gotowi Do Ratowania",
+            "uid": 18157098,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-28",
+                "defibrillator:location:pl": "Wago, AED dostępne w sekretariacie firmy.",
+                "emergency": "defibrillator"
             }
         }
     ]
