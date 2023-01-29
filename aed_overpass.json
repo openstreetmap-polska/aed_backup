@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T16:31:02Z",
+        "timestamp_osm_base": "2023-01-29T17:31:55Z",
         "timestamp_areas_base": "2023-01-29T16:18:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -87262,17 +87262,18 @@
             "id": 10567776578,
             "lat": 52.2871063,
             "lon": 21.1123623,
-            "timestamp": "2023-01-19T12:51:34Z",
-            "version": 2,
-            "changeset": 131465644,
+            "timestamp": "2023-01-29T16:40:32Z",
+            "version": 3,
+            "changeset": 131847169,
             "user": "Andrzej3345",
             "uid": 1875665,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Zewnętrzna strona ogrodzenia szkoły, na lewo od bramy wjazdowej",
-                "defibrillator:location:en": "external side of school fence, on the left from gate",
+                "defibrillator:location:en": "external side of school fence, on the left from the gate",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa Nr 4 im. św. Jana Pawła II w Ząbkach",
                 "outdoor": "yes"
             }
         },
@@ -89288,6 +89289,26 @@
                 "defibrillator:location:pl": "NZOZ KAMA rejestracja, wejście główne",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10592070720,
+            "lat": 52.2902716,
+            "lon": 21.11132,
+            "timestamp": "2023-01-29T16:40:32Z",
+            "version": 1,
+            "changeset": 131847169,
+            "user": "Andrzej3345",
+            "uid": 1875665,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnątrz budynku między dwoma bramami wjazdowymi",
+                "defibrillator:location:en": "On the building between to entry gates",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "UM Ząbki",
+                "outdoor": "yes"
             }
         }
     ]
