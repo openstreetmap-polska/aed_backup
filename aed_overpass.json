@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T20:31:54Z",
-        "timestamp_areas_base": "2023-01-29T20:22:36Z",
+        "timestamp_osm_base": "2023-01-29T21:31:40Z",
+        "timestamp_areas_base": "2023-01-29T21:22:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -70244,16 +70244,16 @@
             "id": 10033200317,
             "lat": 52.2392994,
             "lon": 20.9142184,
-            "timestamp": "2022-09-18T09:26:43Z",
-            "version": 1,
-            "changeset": 126323585,
-            "user": "SzymonH",
-            "uid": 1189934,
+            "timestamp": "2023-01-29T20:32:53Z",
+            "version": 2,
+            "changeset": 131854048,
+            "user": "salvager",
+            "uid": 1235329,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W pomieszczeniu Punktu Obsługi Pasażerów na stacji metra Bemowo",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
@@ -89309,6 +89309,24 @@
                 "opening_hours": "24/7",
                 "operator": "UM Ząbki",
                 "outdoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10592517205,
+            "lat": 52.2521995,
+            "lon": 21.0113095,
+            "timestamp": "2023-01-29T20:41:52Z",
+            "version": 1,
+            "changeset": 131854281,
+            "user": "salvager",
+            "uid": 1235329,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W murowanym budynku na terenie Centrum Wspierania Rodzin \"Rodzinna Warszawa\", za furtką pierwszy budynek na lewo wejście od drugiej strony niż furtka, obok FabLab wbijaj - budynku postawionego z płyt komorowego poliwęglanu.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48536100005"
             }
         }
     ]
