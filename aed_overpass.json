@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T08:32:24Z",
-        "timestamp_areas_base": "2023-01-29T08:15:08Z",
+        "timestamp_osm_base": "2023-01-29T09:32:10Z",
+        "timestamp_areas_base": "2023-01-29T09:14:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79170,15 +79170,16 @@
             "id": 10275223263,
             "lat": 53.0358908,
             "lon": 16.4569378,
-            "timestamp": "2022-12-20T10:05:00Z",
-            "version": 2,
-            "changeset": 130282894,
-            "user": "Olga | Yanosik",
-            "uid": 2844322,
+            "timestamp": "2023-01-29T09:13:28Z",
+            "version": 3,
+            "changeset": 131833010,
+            "user": "cyrusso",
+            "uid": 3133475,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "w szkole",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Fr 07:00-20:00",
                 "phone": "+48 67 216 34 95",
