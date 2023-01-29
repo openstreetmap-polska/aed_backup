@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T19:31:54Z",
-        "timestamp_areas_base": "2023-01-29T19:21:38Z",
+        "timestamp_osm_base": "2023-01-29T20:31:54Z",
+        "timestamp_areas_base": "2023-01-29T20:22:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10128,14 +10128,14 @@
             "id": 9397748017,
             "lat": 52.2326711,
             "lon": 20.9662316,
-            "timestamp": "2022-02-25T08:08:30Z",
-            "version": 4,
-            "changeset": 117838967,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2023-01-29T20:30:06Z",
+            "version": 5,
+            "changeset": 131853964,
+            "user": "salvager",
+            "uid": 1235329,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na słupie na peronie stacji metra Płocka",
+                "defibrillator:location": "Na słupie na peronie stacji metra Płocka. widoczny na słupie wchodząc od strony północnej (czyli od wejścia z ulicy Wolskiej)",
                 "defibrillator:location:en": "On the column in the middle of the Płocka subway station platform",
                 "emergency": "defibrillator",
                 "indoor": "yes",
