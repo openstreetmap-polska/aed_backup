@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T14:31:10Z",
-        "timestamp_areas_base": "2023-01-29T14:17:01Z",
+        "timestamp_osm_base": "2023-01-29T15:31:10Z",
+        "timestamp_areas_base": "2023-01-29T15:17:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10566,13 +10566,13 @@
         {
             "type": "node",
             "id": 9404563192,
-            "lat": 53.1353159,
-            "lon": 17.9914508,
-            "timestamp": "2022-07-20T16:25:51Z",
-            "version": 2,
-            "changeset": 123858792,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "lat": 53.1352691,
+            "lon": 17.9915783,
+            "timestamp": "2023-01-29T14:38:01Z",
+            "version": 3,
+            "changeset": 131842933,
+            "user": "Rogoyski",
+            "uid": 67255,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie w poczekalni między peronami 3 i 4, parter",
