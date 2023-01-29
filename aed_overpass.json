@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-29T15:31:10Z",
-        "timestamp_areas_base": "2023-01-29T15:17:55Z",
+        "timestamp_osm_base": "2023-01-29T16:31:02Z",
+        "timestamp_areas_base": "2023-01-29T16:18:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85362,19 +85362,23 @@
         {
             "type": "node",
             "id": 10537028213,
-            "lat": 50.2953493,
-            "lon": 16.8746504,
-            "timestamp": "2023-01-10T14:24:27Z",
-            "version": 1,
-            "changeset": 131109015,
-            "user": "Urząd Miejski w Stroniu Śląskim",
-            "uid": 18233293,
+            "lat": 50.2953456,
+            "lon": 16.874661,
+            "timestamp": "2023-01-29T16:03:25Z",
+            "version": 2,
+            "changeset": 131845882,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "check_date": "2023-01-10",
-                "defibrillator:location:pl": "AED zamontowany na ścianie po lewej stronie od wejścia do Straży Miejskiej",
+                "check_date": "2023-01-29",
+                "defibrillator:location:en": "AED mounted on the wall to the left of the entrance to the Municipal Guard.",
+                "defibrillator:location:pl": "AED zamontowany na ścianie po lewej stronie od wejścia do Straży Miejskiej.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Straż Miejska w Stroniu Ślaskim",
+                "phone": "+48 600 016 417; +48 74 811 77 57; +48 74 814 31 89"
             }
         },
         {
