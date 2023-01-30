@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-30T21:31:59Z",
-        "timestamp_areas_base": "2023-01-30T19:33:10Z",
+        "timestamp_osm_base": "2023-01-30T22:31:53Z",
+        "timestamp_areas_base": "2023-01-30T21:36:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63220,19 +63220,19 @@
             "id": 9753515617,
             "lat": 54.0167661,
             "lon": 17.8098883,
-            "timestamp": "2022-05-21T21:56:15Z",
-            "version": 3,
-            "changeset": 121299333,
-            "user": "Luki3251",
-            "uid": 16010818,
+            "timestamp": "2023-01-30T22:29:48Z",
+            "version": 4,
+            "changeset": 131898971,
+            "user": "G_P_J",
+            "uid": 6751278,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na frontowej ścianie remizy OSP",
-                "description": "Defibrylator AED zamontowany w kapsule zewnetrznej na ścianie remizy OSP.\nPo otwarciu kapsuły uruchamia się jej własny alarm oraz załącza się syrena alarmowa OSP wraz z powiadamianiem sms do strażaków.",
+                "description": "Defibrylator AED zamontowany w kapsule zewnetrznej na ścianie remizy OSP. Po otwarciu kapsuły uruchamia się jej własny alarm oraz załącza się syrena alarmowa OSP wraz z powiadamianiem sms do strażaków.",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "Ochotnicza Straż Pożarna w Piechowicach",
-                "ref": "Nr. budynku 27"
+                "ref": "Nr budynku 27"
             }
         },
         {
@@ -89385,6 +89385,28 @@
                 "defibrillator:location": "Dom Uchodźca - Fundacja Leny Grochowskiej - w  Recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10595030983,
+            "lat": 51.7368,
+            "lon": 17.00125,
+            "timestamp": "2023-01-30T21:42:14Z",
+            "version": 1,
+            "changeset": 131897863,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
             }
         }
     ]
