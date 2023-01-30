@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-30T20:31:09Z",
+        "timestamp_osm_base": "2023-01-30T21:31:59Z",
         "timestamp_areas_base": "2023-01-30T19:33:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84392,23 +84392,24 @@
         {
             "type": "node",
             "id": 10310835364,
-            "lat": 51.7760019,
-            "lon": 16.9912459,
-            "timestamp": "2023-01-06T13:01:29Z",
-            "version": 1,
-            "changeset": 130946718,
+            "lat": 51.7759041,
+            "lon": 16.9911526,
+            "timestamp": "2023-01-30T21:28:44Z",
+            "version": 2,
+            "changeset": 131897455,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-01-30",
                 "defibrillator:location": "Wewnątrz budynku KorbKult, w sali obsługi na parterze, na kolumnie.",
                 "defibrillator:location:en": "Inside the KorbKult building, in the ground floor service room, on the column.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off",
-                "operator": "Gmina Krobia",
-                "phone": "+48 504 361 865",
+                "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-15:00; Sa 09:00-13:00; Su off",
+                "operator": "Gminne Centrym Kultury i Rekreacji w Krobi",
+                "phone": "+48 722 323 393",
                 "wheelchair": "limited"
             }
         },
@@ -84417,21 +84418,23 @@
             "id": 10310880600,
             "lat": 51.770464,
             "lon": 16.9742529,
-            "timestamp": "2023-01-06T13:32:11Z",
-            "version": 1,
-            "changeset": 130947751,
+            "timestamp": "2023-01-30T21:31:59Z",
+            "version": 4,
+            "changeset": 131897544,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
+                "access": "customers",
+                "check_date": "2023-01-30",
                 "defibrillator:location": "Na parterze budynku przy wyjściu na wewnętrzny dziedziniec.",
                 "defibrillator:location:en": "On the ground floor of the building at the exit to the inner courtyard.",
                 "emergency": "defibrillator",
-                "fixme": "doprecyzować dostępność AED",
                 "indoor": "yes",
                 "level": "0",
-                "operator": "Gmina Krobia",
-                "phone": "+48 65 571 11 09"
+                "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su off",
+                "operator": "Miejsko-Gminny Ośrodek Pomocy Społecznej w Krobi",
+                "phone": "+48 722 323 393",
+                "wheelchair": "yes"
             }
         },
         {
