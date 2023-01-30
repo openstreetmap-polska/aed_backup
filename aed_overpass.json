@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-30T14:30:39Z",
+        "timestamp_osm_base": "2023-01-30T15:31:38Z",
         "timestamp_areas_base": "2023-01-30T11:28:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71712,16 +71712,17 @@
             "id": 10068703817,
             "lat": 52.2835431,
             "lon": 21.0622731,
-            "timestamp": "2022-10-02T13:50:55Z",
-            "version": 1,
-            "changeset": 126894641,
-            "user": "starsep",
-            "uid": 11306447,
+            "timestamp": "2023-01-30T14:33:09Z",
+            "version": 2,
+            "changeset": 131883820,
+            "user": "d3mοl3k",
+            "uid": 14536542,
             "tags": {
                 "access": "customers",
                 "defibrillator:location:en": "On the wall after gates on level -1",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "layer": "-1"
             }
         },
         {
@@ -89361,6 +89362,23 @@
                 "operator": "OSP Koszarawa",
                 "source": "https://www.facebook.com/photo/?fbid=202751898936945&set=a.174584525087016",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10594380005,
+            "lat": 52.0967339,
+            "lon": 21.136552,
+            "timestamp": "2023-01-30T15:28:52Z",
+            "version": 1,
+            "changeset": 131886036,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dom Uchodźca - Fundacja Leny Grochowskiej - w  Recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
