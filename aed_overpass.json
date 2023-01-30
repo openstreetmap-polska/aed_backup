@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-30T10:32:20Z",
-        "timestamp_areas_base": "2023-01-30T09:26:14Z",
+        "timestamp_osm_base": "2023-01-30T11:31:08Z",
+        "timestamp_areas_base": "2023-01-30T11:28:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51519,15 +51519,21 @@
         {
             "type": "node",
             "id": 9580153902,
-            "lat": 49.6422233,
-            "lon": 19.4033334,
-            "timestamp": "2022-03-15T09:39:23Z",
-            "version": 1,
-            "changeset": 118503079,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 49.6422414,
+            "lon": 19.4031848,
+            "timestamp": "2023-01-30T10:51:44Z",
+            "version": 2,
+            "changeset": 131874625,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "note": "OSP Karczawa posiada dwa AED'y.",
                 "operator": "OSP Koszarawa"
             }
         },
@@ -89327,6 +89333,32 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48536100005"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10593857914,
+            "lat": 49.642381,
+            "lon": 19.4031991,
+            "timestamp": "2023-01-30T10:51:44Z",
+            "version": 1,
+            "changeset": 131874625,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy.",
+                "defibrillator:location:en": "On the wall of the firehouse.",
+                "description": "W podświetlanej kapsule RotAid.",
+                "description:en": "In the illuminated RotAid capsule.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "note": "OSP Karczawa posiada dwa AED'y.",
+                "opening_hours": "24/7",
+                "operator": "OSP Koszarawa",
+                "source": "https://www.facebook.com/photo/?fbid=202751898936945&set=a.174584525087016",
+                "wheelchair": "yes"
             }
         }
     ]
