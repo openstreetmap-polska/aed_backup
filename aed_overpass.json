@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-30T19:32:10Z",
-        "timestamp_areas_base": "2023-01-30T17:31:23Z",
+        "timestamp_osm_base": "2023-01-30T20:31:09Z",
+        "timestamp_areas_base": "2023-01-30T19:33:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84348,9 +84348,9 @@
             "id": 10310753912,
             "lat": 51.7742449,
             "lon": 16.9845439,
-            "timestamp": "2023-01-06T11:56:59Z",
-            "version": 1,
-            "changeset": 130944481,
+            "timestamp": "2023-01-30T20:21:59Z",
+            "version": 2,
+            "changeset": 131895585,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -84362,7 +84362,7 @@
                 "level": "0",
                 "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Gmina Krobia",
-                "phone": "+48 65 571 11 11"
+                "phone": "+48 722 323 393"
             }
         },
         {
@@ -84370,20 +84370,22 @@
             "id": 10310786607,
             "lat": 51.772852,
             "lon": 16.977616,
-            "timestamp": "2023-01-06T12:34:23Z",
-            "version": 1,
-            "changeset": 130945745,
+            "timestamp": "2023-01-30T20:27:44Z",
+            "version": 2,
+            "changeset": 131895754,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-01-30",
                 "defibrillator:location": "Wewnątrz budynku kina, przy wejściu.",
                 "defibrillator:location:en": "Inside the cinema building, at the entrance.",
                 "emergency": "defibrillator",
-                "fixme": "Uzupełnić godziny otwarcia obiektu.",
                 "indoor": "yes",
                 "level": "0",
-                "phone": "+48 65 57 11 320",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su off",
+                "operator": "Gminne Centrym Kultury i Rekreacji w Krobi",
+                "phone": "+48 722 323 393",
                 "wheelchair": "limited"
             }
         },
