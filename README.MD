@@ -1,14 +1,14 @@
-# AED backup and stats (2023-01-31 07:33:04)
+# AED backup and stats (2023-01-31 11:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 4838
+Total AED: 4842
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4392\
-Average daily growth since beginning of the year: 16.61
+Average daily growth since beginning of the year: 16.74
 
 ## Top creators
 | # | User | Created |
@@ -28,8 +28,8 @@ Average daily growth since beginning of the year: 16.61
 | 13 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
 | 14 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
 | 15 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 16 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
-| 17 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 35 |
+| 16 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 39 |
+| 17 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 18 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 35 |
 | 19 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 20 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 33 |

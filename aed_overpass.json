@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-31T10:31:25Z",
+        "timestamp_osm_base": "2023-01-31T11:31:24Z",
         "timestamp_areas_base": "2023-01-31T08:40:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89429,6 +89429,82 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Przysietnica",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10596031105,
+            "lat": 52.1740018,
+            "lon": 20.7467276,
+            "timestamp": "2023-01-31T10:43:04Z",
+            "version": 1,
+            "changeset": 131915683,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala C1, Moszna Parcela 29",
+                "defibrillator:location:en": "Hala C1",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "48500306331"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10596069005,
+            "lat": 53.039866,
+            "lon": 16.4721697,
+            "timestamp": "2023-01-31T11:04:00Z",
+            "version": 1,
+            "changeset": 131916485,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala Pras",
+                "defibrillator:location:en": "Press Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48604646023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10596070105,
+            "lat": 53.0425585,
+            "lon": 16.4768637,
+            "timestamp": "2023-01-31T11:04:57Z",
+            "version": 1,
+            "changeset": 131916485,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala Anodowni - wejście od tyłu budynku",
+                "defibrillator:location:en": "Anodizing Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48604646023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10596071005,
+            "lat": 53.0396124,
+            "lon": 16.4693141,
+            "timestamp": "2023-01-31T11:05:50Z",
+            "version": 1,
+            "changeset": 131916485,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala Fabrykacji - wejście od boku budynku",
+                "defibrillator:location:en": "Fabrication Hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48604646023"
             }
         }
     ]
