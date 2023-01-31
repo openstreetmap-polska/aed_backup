@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-01-31T06:31:54Z",
+        "timestamp_osm_base": "2023-01-31T07:31:51Z",
         "timestamp_areas_base": "2023-01-31T05:39:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89407,6 +89407,28 @@
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
                 "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10595689522,
+            "lat": 49.7295242,
+            "lon": 22.0511125,
+            "timestamp": "2023-01-31T07:22:32Z",
+            "version": 1,
+            "changeset": 131908351,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "defibrillator:location": "Na ścianie remizy Ochotniczej Strażu Pożarnej.",
+                "defibrillator:location:en": "On the wall of the Volunteer Fire Department's station.",
+                "description": "W podświetlanej kapsule RotAid.",
+                "description:en": "In the illuminated RotAid capsule.",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Przysietnica",
+                "wheelchair": "yes"
             }
         }
     ]
