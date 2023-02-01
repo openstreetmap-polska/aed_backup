@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-01T10:31:24Z",
+        "timestamp_osm_base": "2023-02-01T11:31:09Z",
         "timestamp_areas_base": "2023-02-01T08:55:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89574,6 +89574,40 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "sekretariat firmy Ventor Energi sp. z o.o. \n(I piętro biurowca)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10598662605,
+            "lat": 50.0613726,
+            "lon": 21.3615241,
+            "timestamp": "2023-02-01T10:32:07Z",
+            "version": 1,
+            "changeset": 131957022,
+            "user": "Ventor Energi",
+            "uid": 18388781,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ventigros sp z o.o. (mistrzówka na hali produkcyjnej)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10598667105,
+            "lat": 50.061185,
+            "lon": 21.3607704,
+            "timestamp": "2023-02-01T10:35:58Z",
+            "version": 1,
+            "changeset": 131957290,
+            "user": "Ventor Energi",
+            "uid": 18388781,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ventigros sp z o.o ( mistrzówka na hali produkcyjnej)",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
