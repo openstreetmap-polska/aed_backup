@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-01T08:31:45Z",
-        "timestamp_areas_base": "2023-02-01T07:54:11Z",
+        "timestamp_osm_base": "2023-02-01T09:31:38Z",
+        "timestamp_areas_base": "2023-02-01T08:55:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -13344,9 +13344,9 @@
             "id": 9422551917,
             "lat": 50.5190679,
             "lon": 20.5270624,
-            "timestamp": "2022-01-16T12:46:25Z",
-            "version": 1,
-            "changeset": 116212600,
+            "timestamp": "2023-02-01T08:46:33Z",
+            "version": 2,
+            "changeset": 131953008,
             "user": "MAGLEQ",
             "uid": 7504248,
             "tags": {
@@ -13355,6 +13355,7 @@
                 "defibrillator:location:en": "Przychodnia Rejonowa Nr 1 W Pińczowie Ul. Klasztorna 6",
                 "emergency": "defibrillator",
                 "location": "outdoor",
+                "operator": "Samorządowy Zakład Opieki Zdrowotnej",
                 "phone": "41 357 29 88"
             }
         },
