@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-01T07:31:57Z",
-        "timestamp_areas_base": "2023-02-01T05:53:44Z",
+        "timestamp_osm_base": "2023-02-01T08:31:45Z",
+        "timestamp_areas_base": "2023-02-01T07:54:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63739,15 +63739,16 @@
             "id": 9781470517,
             "lat": 51.7550572,
             "lon": 18.0897831,
-            "timestamp": "2022-05-30T11:07:41Z",
-            "version": 1,
-            "changeset": 121709467,
-            "user": "Akademia Kaliska",
-            "uid": 16143018,
+            "timestamp": "2023-02-01T08:26:46Z",
+            "version": 2,
+            "changeset": 131952364,
+            "user": "Pooh01",
+            "uid": 199701,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Akademia Kaliska im. Prezydenta Stanisława Wojciechowskiego\nGmach Główny",
+                "defibrillator:location": "Akademia Kaliska im. Prezydenta Stanisława Wojciechowskiego Gmach Główny",
                 "emergency": "defibrillator",
+                "fixme": "position, defibrillator:location",
                 "indoor": "yes"
             }
         },
@@ -89522,6 +89523,41 @@
                 "check_date": "2023-01-31",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10598441505,
+            "lat": 50.5191371,
+            "lon": 20.523109,
+            "timestamp": "2023-02-01T08:14:27Z",
+            "version": 1,
+            "changeset": 131952026,
+            "user": "MAGLEQ",
+            "uid": 7504248,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10598456205,
+            "lat": 50.5187323,
+            "lon": 20.5236327,
+            "timestamp": "2023-02-01T08:24:48Z",
+            "version": 1,
+            "changeset": 131952316,
+            "user": "MAGLEQ",
+            "uid": 7504248,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu.",
+                "defibrillator:location:en": "On a wall near the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         }
     ]
