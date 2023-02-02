@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-02T08:31:39Z",
-        "timestamp_areas_base": "2023-02-02T08:08:24Z",
+        "timestamp_osm_base": "2023-02-02T09:31:26Z",
+        "timestamp_areas_base": "2023-02-02T09:09:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1750,14 +1750,17 @@
             "id": 6286852001,
             "lat": 50.0589796,
             "lon": 21.3999832,
-            "timestamp": "2022-05-02T07:06:37Z",
-            "version": 2,
-            "changeset": 120446689,
-            "user": "mikmach",
-            "uid": 115880,
+            "timestamp": "2023-02-02T09:23:37Z",
+            "version": 3,
+            "changeset": 131994059,
+            "user": "Ventor Energi",
+            "uid": 18388781,
             "tags": {
+                "defibrillator:location": "Mistrzówka na hali produkcyjnej",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "poniedzialek -piatek godz: 06:00 - 14:00",
+                "operator": "Ventigros sp z o.o."
             }
         },
         {
@@ -52440,15 +52443,16 @@
             "id": 9582995136,
             "lat": 50.0085233,
             "lon": 18.4463882,
-            "timestamp": "2022-03-16T13:51:12Z",
-            "version": 1,
-            "changeset": 118553107,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-02-02T08:33:13Z",
+            "version": 3,
+            "changeset": 131992116,
+            "user": "Interswd",
+            "uid": 3414856,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-We 08:00-15; 00, Th 08:00-17:00, Fr 08:00-13:00",
                 "operator": "Starostwo Powiatowe w Wodzisławiu Śląskim",
                 "phone": "32 453 97 10"
             }
@@ -89549,16 +89553,18 @@
             "id": 10598657505,
             "lat": 50.0585515,
             "lon": 21.4347484,
-            "timestamp": "2023-02-01T10:28:28Z",
-            "version": 1,
-            "changeset": 131957022,
+            "timestamp": "2023-02-02T09:27:41Z",
+            "version": 3,
+            "changeset": 131994221,
             "user": "Ventor Energi",
             "uid": 18388781,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "defibrillator:location": "sekretariat firmy Ventor Energi sp. z o.o. \n(I piętro biurowca)",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "poniedzialek-piatek 7:00-15:00",
+                "operator": "Ventor Energi"
             }
         },
         {
