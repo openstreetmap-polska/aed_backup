@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-02T09:31:26Z",
+        "timestamp_osm_base": "2023-02-02T10:31:24Z",
         "timestamp_areas_base": "2023-02-02T09:09:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89572,16 +89572,18 @@
             "id": 10598667105,
             "lat": 50.061185,
             "lon": 21.3607704,
-            "timestamp": "2023-02-01T10:35:58Z",
-            "version": 1,
-            "changeset": 131957290,
+            "timestamp": "2023-02-02T10:10:26Z",
+            "version": 2,
+            "changeset": 131995831,
             "user": "Ventor Energi",
             "uid": 18388781,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "defibrillator:location": "Ventigros sp z o.o ( mistrzówka na hali produkcyjnej)",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "poniedziałek-piątek 06:00 -14:00",
+                "operator": "Ventigros sp z o.o."
             }
         },
         {
