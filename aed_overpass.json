@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-02T20:31:39Z",
-        "timestamp_areas_base": "2023-02-02T18:13:39Z",
+        "timestamp_osm_base": "2023-02-02T21:31:32Z",
+        "timestamp_areas_base": "2023-02-02T21:16:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89641,6 +89641,26 @@
                 "emergency:phone": "607638309",
                 "indoor": "yes",
                 "phone": "601100100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10602328707,
+            "lat": 54.116488,
+            "lon": 20.1380455,
+            "timestamp": "2023-02-02T21:22:29Z",
+            "version": 2,
+            "changeset": 132019569,
+            "user": "BodzioB",
+            "uid": 6148360,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Na parterze w holu głównym, na wprost wejścia\nul. 1 Maja 26, 11-130 Orneta",
+                "defibrillator:location:en": "Seat of the Orneta Forest Inspectorate, ground floor\nst. 1 Maja 26, 11-130 Orneta",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Nadleśnictwo Orneta",
+                "phone": "+48 514 601 465"
             }
         }
     ]
