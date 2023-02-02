@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-02T14:32:08Z",
+        "timestamp_osm_base": "2023-02-02T15:31:54Z",
         "timestamp_areas_base": "2023-02-02T13:10:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85775,14 +85775,14 @@
             "id": 10542896009,
             "lat": 51.2284138,
             "lon": 18.5627447,
-            "timestamp": "2023-01-12T13:00:38Z",
-            "version": 1,
-            "changeset": 131187881,
-            "user": "ZUGIL SA",
-            "uid": 18253572,
+            "timestamp": "2023-02-02T15:01:21Z",
+            "version": 2,
+            "changeset": 132007071,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na portierni na parterze biurowca firmy ZUGIL przy ul. Sieradzkiej 56",
+                "access": "private",
+                "defibrillator:location": "Portiernia firmy ZUGIL S.A.",
                 "defibrillator:location:en": "At the gatehouse on the ground floor of the ZUGIL office building at 56 Sieradzka Street",
                 "emergency": "defibrillator",
                 "indoor": "yes"
