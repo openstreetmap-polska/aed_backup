@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T13:31:59Z",
+        "timestamp_osm_base": "2023-02-03T14:30:48Z",
         "timestamp_areas_base": "2023-02-03T08:20:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89689,18 +89689,18 @@
             "id": 10603987205,
             "lat": 52.0144183,
             "lon": 18.4931101,
-            "timestamp": "2023-02-03T12:11:33Z",
-            "version": 1,
-            "changeset": 132040188,
-            "user": "imperceptible",
-            "uid": 18398193,
+            "timestamp": "2023-02-03T14:22:05Z",
+            "version": 2,
+            "changeset": 132044545,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Budynek Starostwa Powiatowego i Urzędu Miejskiego w Turku",
                 "defibrillator:location:en": "Biuro Obsługi klienta Starostwa Powiatowego w Turku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "63 222 32 00"
+                "phone": "+48 63 222 32 00"
             }
         },
         {
@@ -89718,6 +89718,44 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "Miasto Józefów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604191806,
+            "lat": 51.4317837,
+            "lon": 21.3243421,
+            "timestamp": "2023-02-03T14:29:04Z",
+            "version": 1,
+            "changeset": 132044761,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Gabinet zabiegowy (parter)",
+                "defibrillator:location:en": "Treatment room (ground floor)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "48 3221023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604204905,
+            "lat": 51.4316277,
+            "lon": 21.3242979,
+            "timestamp": "2023-02-03T14:24:52Z",
+            "version": 1,
+            "changeset": 132044638,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Punkt szczepień",
+                "defibrillator:location:en": "Vaccination point",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "48 3221023"
             }
         }
     ]
