@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T20:31:54Z",
-        "timestamp_areas_base": "2023-02-03T19:28:22Z",
+        "timestamp_osm_base": "2023-02-03T21:31:51Z",
+        "timestamp_areas_base": "2023-02-03T21:28:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90032,6 +90032,43 @@
                 "note": "OSP Miejska Górka posiada dwa AED'y na pojazdach ratowniczo-gaśniczych.",
                 "operator": "OSP Miejska Górka",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604912169,
+            "lat": 52.3254657,
+            "lon": 21.1080629,
+            "timestamp": "2023-02-03T21:00:17Z",
+            "version": 1,
+            "changeset": 132057541,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "U dyżurnego oficera policji.",
+                "defibrillator:location:en": "At the duty police officer.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604962626,
+            "lat": 50.1271701,
+            "lon": 19.4275449,
+            "timestamp": "2023-02-03T21:31:09Z",
+            "version": 1,
+            "changeset": 132058428,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W  budynku,przy wejściu jest naklejka oznaczająca defibrylator.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Centrum Techniczno Konstrukcyjne Dan Cake Polonia"
             }
         }
     ]
