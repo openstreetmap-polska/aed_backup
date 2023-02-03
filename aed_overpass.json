@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T18:31:19Z",
-        "timestamp_areas_base": "2023-02-03T16:26:01Z",
+        "timestamp_osm_base": "2023-02-03T19:31:24Z",
+        "timestamp_areas_base": "2023-02-03T19:28:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84487,17 +84487,19 @@
             "id": 10311043177,
             "lat": 51.7751485,
             "lon": 16.9896484,
-            "timestamp": "2023-01-06T17:19:22Z",
-            "version": 2,
-            "changeset": 130956363,
+            "timestamp": "2023-02-03T19:16:00Z",
+            "version": 4,
+            "changeset": 132054537,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "mobile": "+48 722 323 393",
                 "note": "OSP Krobia posiada dwa AED'y. Info z ich facebook'a.",
                 "operator": "OSP Krobia"
             }
@@ -84507,9 +84509,9 @@
             "id": 10311151246,
             "lat": 51.7748373,
             "lon": 16.9369727,
-            "timestamp": "2023-01-06T13:52:55Z",
-            "version": 1,
-            "changeset": 130948580,
+            "timestamp": "2023-02-03T19:16:46Z",
+            "version": 2,
+            "changeset": 132054558,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -84519,6 +84521,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "mobile": "+48 722 323 393",
                 "operator": "OSP Pudliszki"
             }
         },
@@ -84563,17 +84566,19 @@
             "id": 10311485320,
             "lat": 51.7751626,
             "lon": 16.9893747,
-            "timestamp": "2023-01-06T17:19:22Z",
-            "version": 1,
-            "changeset": 130956363,
+            "timestamp": "2023-02-03T19:16:00Z",
+            "version": 3,
+            "changeset": 132054537,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "mobile": "+48 722 323 393",
                 "note": "OSP Krobia posiada dwa AED'y. Info z ich facebook'a.",
                 "operator": "OSP Krobia"
             }
@@ -84581,15 +84586,16 @@
         {
             "type": "node",
             "id": 10311520453,
-            "lat": 51.7752594,
-            "lon": 16.9864532,
-            "timestamp": "2023-01-06T17:50:02Z",
-            "version": 1,
-            "changeset": 130957273,
+            "lat": 51.7752588,
+            "lon": 16.9864551,
+            "timestamp": "2023-02-03T19:28:51Z",
+            "version": 2,
+            "changeset": 132054873,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "Na lewo od głównego wejścia, na zewnętrznej ścianie.",
                 "defibrillator:location:en": "To the left of the main entrance, on the outer wall.",
                 "description": "W kwadratowej kasecie.",
@@ -84597,7 +84603,8 @@
                 "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
-                "operator": "Gmina Krobia"
+                "operator": "Gmina Krobia",
+                "phone": "+48 722 323 393"
             }
         },
         {
@@ -84719,19 +84726,22 @@
             "id": 10311570105,
             "lat": 51.8134127,
             "lon": 17.012751,
-            "timestamp": "2023-01-06T18:14:49Z",
-            "version": 1,
-            "changeset": 130957985,
+            "timestamp": "2023-02-03T19:02:24Z",
+            "version": 2,
+            "changeset": 132054162,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W świetlicy wiejskiej.",
-                "defibrillator:location:en": "In the village hall.",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "0",
-                "operator": "Gmina Krobia"
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
             }
         },
         {
@@ -89399,15 +89409,16 @@
         {
             "type": "node",
             "id": 10595030983,
-            "lat": 51.7368,
-            "lon": 17.00125,
-            "timestamp": "2023-01-30T21:42:14Z",
-            "version": 1,
-            "changeset": 131897863,
+            "lat": 51.7367976,
+            "lon": 17.0012501,
+            "timestamp": "2023-02-03T19:05:24Z",
+            "version": 2,
+            "changeset": 132054247,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "customers",
+                "access": "private",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
                 "defibrillator:location:en": "AED installed in the village hall.",
                 "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
@@ -89775,6 +89786,189 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "48 3221023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604693856,
+            "lat": 51.7788633,
+            "lon": 17.0508028,
+            "timestamp": "2023-02-03T19:11:34Z",
+            "version": 1,
+            "changeset": 132054418,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604712993,
+            "lat": 51.7980788,
+            "lon": 17.0048571,
+            "timestamp": "2023-02-03T19:06:04Z",
+            "version": 1,
+            "changeset": 132054267,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604716059,
+            "lat": 51.8165234,
+            "lon": 16.9721473,
+            "timestamp": "2023-02-03T19:03:29Z",
+            "version": 2,
+            "changeset": 132054183,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604725310,
+            "lat": 51.7658687,
+            "lon": 17.0453127,
+            "timestamp": "2023-02-03T19:10:32Z",
+            "version": 1,
+            "changeset": 132054386,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604728361,
+            "lat": 51.7405284,
+            "lon": 16.9269609,
+            "timestamp": "2023-02-03T19:12:51Z",
+            "version": 1,
+            "changeset": 132054447,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604731405,
+            "lat": 51.8126932,
+            "lon": 17.0588069,
+            "timestamp": "2023-02-03T19:08:00Z",
+            "version": 1,
+            "changeset": 132054326,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604747869,
+            "lat": 51.7235101,
+            "lon": 16.9275723,
+            "timestamp": "2023-02-03T19:13:45Z",
+            "version": 1,
+            "changeset": 132054476,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "AED zamontowane w świetlicy wiejskiej.",
+                "defibrillator:location:en": "AED installed in the village hall.",
+                "description": "Dostęp możliwy w przypadku działalności świetlicy. Klucz do budynku znajduje się u sołtysa wsi.",
+                "description:en": "Access possible in case of daycare activities. The key to the building is at the head of the village.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "phone": "+48 722 323 393"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604771946,
+            "lat": 51.7185166,
+            "lon": 17.0160914,
+            "timestamp": "2023-02-03T19:28:51Z",
+            "version": 2,
+            "changeset": 132054873,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-01-10",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "mobile": "+48 722 323 393",
+                "operator": "OSP Gogolewo"
             }
         }
     ]
