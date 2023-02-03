@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T11:31:53Z",
+        "timestamp_osm_base": "2023-02-03T12:31:52Z",
         "timestamp_areas_base": "2023-02-03T08:20:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89681,6 +89681,25 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10603987205,
+            "lat": 52.0144183,
+            "lon": 18.4931101,
+            "timestamp": "2023-02-03T12:11:33Z",
+            "version": 1,
+            "changeset": 132040188,
+            "user": "imperceptible",
+            "uid": 18398193,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek Starostwa Powiatowego i Urzędu Miejskiego w Turku",
+                "defibrillator:location:en": "Biuro Obsługi klienta Starostwa Powiatowego w Turku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "63 222 32 00"
             }
         }
     ]
