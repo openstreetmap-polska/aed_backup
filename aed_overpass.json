@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T17:31:03Z",
+        "timestamp_osm_base": "2023-02-03T18:31:19Z",
         "timestamp_areas_base": "2023-02-03T16:26:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -37017,13 +37017,13 @@
         {
             "type": "node",
             "id": 9498648326,
-            "lat": 50.7282814,
-            "lon": 16.6511306,
-            "timestamp": "2022-04-23T12:14:14Z",
-            "version": 2,
-            "changeset": 120088603,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 50.7281676,
+            "lon": 16.6510515,
+            "timestamp": "2023-02-03T18:29:35Z",
+            "version": 3,
+            "changeset": 132053181,
+            "user": "Coolawik",
+            "uid": 13547019,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Biuro Obsługi Klienta -wejście za ,,żelazną bramą\" parter",
