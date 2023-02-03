@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T08:31:54Z",
+        "timestamp_osm_base": "2023-02-03T09:31:53Z",
         "timestamp_areas_base": "2023-02-03T08:20:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -65131,15 +65131,18 @@
             "id": 9817189017,
             "lat": 50.9615532,
             "lon": 19.4718331,
-            "timestamp": "2022-06-14T12:24:56Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "timestamp": "2023-02-03T09:10:51Z",
+            "version": 2,
+            "changeset": 132033344,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
-                "defibrillator:location": "OSP w Gidle",
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie budynku OSP.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP w Gidle"
             }
         },
         {
