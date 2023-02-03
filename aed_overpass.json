@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T19:31:24Z",
+        "timestamp_osm_base": "2023-02-03T20:31:54Z",
         "timestamp_areas_base": "2023-02-03T19:28:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -49190,16 +49190,19 @@
             "id": 9568868917,
             "lat": 51.7012976,
             "lon": 16.9184711,
-            "timestamp": "2022-03-18T21:59:03Z",
-            "version": 3,
-            "changeset": 118649089,
-            "user": "dzbor",
-            "uid": 2644254,
+            "timestamp": "2023-02-03T19:32:30Z",
+            "version": 4,
+            "changeset": 132054966,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Zewnętrzny AED na budynku Ochotniczej Straży Pożarnej w Szurkowie. Dostępny całodobowo.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Szurkowo"
             }
         },
         {
@@ -49224,16 +49227,17 @@
             "id": 9568885617,
             "lat": 51.7627227,
             "lon": 16.8082743,
-            "timestamp": "2022-03-18T21:59:03Z",
-            "version": 2,
-            "changeset": 118649089,
-            "user": "dzbor",
-            "uid": 2644254,
+            "timestamp": "2023-02-03T19:48:13Z",
+            "version": 3,
+            "changeset": 132055443,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Zewnętrzny defibrylator AED na budynku biblioteki, przy wejściu",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -50611,12 +50615,13 @@
             "id": 9570944050,
             "lat": 51.8245448,
             "lon": 17.2282751,
-            "timestamp": "2022-03-11T14:26:31Z",
-            "version": 1,
-            "changeset": 118366306,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-02-03T19:41:00Z",
+            "version": 2,
+            "changeset": 132055211,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Pogorzela"
@@ -79632,16 +79637,19 @@
             "id": 10277508448,
             "lat": 51.8775422,
             "lon": 16.950262,
-            "timestamp": "2022-12-21T08:53:56Z",
-            "version": 1,
-            "changeset": 130321548,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-02-03T19:43:38Z",
+            "version": 2,
+            "changeset": 132055296,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Gola",
+                "phone": "112"
             }
         },
         {
@@ -80081,19 +80089,21 @@
         {
             "type": "node",
             "id": 10292787609,
-            "lat": 51.6556709,
-            "lon": 16.9536446,
-            "timestamp": "2023-01-25T08:25:58Z",
-            "version": 3,
-            "changeset": 131683719,
-            "user": "MaciejPtak",
-            "uid": 18119921,
+            "lat": 51.6556849,
+            "lon": 16.9535231,
+            "timestamp": "2023-02-03T19:47:42Z",
+            "version": 4,
+            "changeset": 132055430,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "permit",
+                "access": "private",
                 "check_date": "2022-12-29",
-                "defibrillator:location:pl": "2x AED na wyposażeniu samochodów straży pożarnej",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "defibrillator:location:pl": "AED na wyposażeniu pojazdu straży pożarnej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "note": "OSP Miejska Górka posiada dwa AED'y na pojazdach ratowniczo-gaśniczych.",
                 "operator": "OSP Miejska Górka",
                 "phone": "112"
             }
@@ -83111,16 +83121,19 @@
             "id": 10299189109,
             "lat": 51.6691737,
             "lon": 16.9896869,
-            "timestamp": "2023-01-01T19:16:43Z",
-            "version": 1,
-            "changeset": 130760642,
-            "user": "OSP SOBIAŁKOWO",
-            "uid": 18148642,
+            "timestamp": "2023-02-03T19:37:27Z",
+            "version": 2,
+            "changeset": 132055109,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "private",
                 "check_date": "2023-01-01",
-                "defibrillator:location:pl": "AED na wyposażeniu samochodu OCHOTNICZEJ STRAŻY POŻARNEJ",
+                "defibrillator:location:pl": "AED na wyposażeniu samochodu OSP",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
+                "operator": "OSP",
                 "phone": "112"
             }
         },
@@ -83271,18 +83284,18 @@
             "id": 10300035010,
             "lat": 51.8515165,
             "lon": 17.0112958,
-            "timestamp": "2023-01-02T07:51:14Z",
-            "version": 1,
-            "changeset": 130775524,
-            "user": "Kostek111",
-            "uid": 18151830,
+            "timestamp": "2023-02-03T19:42:25Z",
+            "version": 2,
+            "changeset": 132055260,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "AED w biurowcu firmy Mann+Hummel",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 65 572 8900"
+                "phone": "+48 65 572 89 00"
             }
         },
         {
@@ -83290,13 +83303,13 @@
             "id": 10300043609,
             "lat": 51.8515231,
             "lon": 17.0090221,
-            "timestamp": "2023-01-02T08:00:35Z",
-            "version": 1,
-            "changeset": 130775792,
-            "user": "Kostek111",
-            "uid": 18151830,
+            "timestamp": "2023-02-03T19:36:44Z",
+            "version": 2,
+            "changeset": 132055095,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "private",
+                "access": "no",
                 "check_date": "2023-01-02",
                 "defibrillator:location:pl": "W budynku hali produkcyjnej Mann+Hummel",
                 "emergency": "defibrillator",
@@ -84357,9 +84370,9 @@
             "id": 10310753912,
             "lat": 51.7742449,
             "lon": 16.9845439,
-            "timestamp": "2023-01-30T20:21:59Z",
-            "version": 2,
-            "changeset": 131895585,
+            "timestamp": "2023-02-03T19:48:48Z",
+            "version": 3,
+            "changeset": 132055456,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -84370,7 +84383,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:00-15:00; Sa,Su off",
-                "operator": "Gmina Krobia",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -84379,14 +84392,14 @@
             "id": 10310786607,
             "lat": 51.772852,
             "lon": 16.977616,
-            "timestamp": "2023-01-30T20:27:44Z",
-            "version": 2,
-            "changeset": 131895754,
+            "timestamp": "2023-02-03T19:36:09Z",
+            "version": 3,
+            "changeset": 132055078,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "check_date": "2023-01-30",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "Wewnątrz budynku kina, przy wejściu.",
                 "defibrillator:location:en": "Inside the cinema building, at the entrance.",
                 "emergency": "defibrillator",
@@ -84403,14 +84416,14 @@
             "id": 10310835364,
             "lat": 51.7759041,
             "lon": 16.9911526,
-            "timestamp": "2023-01-30T21:28:44Z",
-            "version": 2,
-            "changeset": 131897455,
+            "timestamp": "2023-02-03T19:45:04Z",
+            "version": 3,
+            "changeset": 132055347,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "check_date": "2023-01-30",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "Wewnątrz budynku KorbKult, w sali obsługi na parterze, na kolumnie.",
                 "defibrillator:location:en": "Inside the KorbKult building, in the ground floor service room, on the column.",
                 "emergency": "defibrillator",
@@ -84427,14 +84440,14 @@
             "id": 10310880600,
             "lat": 51.770464,
             "lon": 16.9742529,
-            "timestamp": "2023-01-30T21:31:59Z",
-            "version": 4,
-            "changeset": 131897544,
+            "timestamp": "2023-02-03T19:44:01Z",
+            "version": 5,
+            "changeset": 132055306,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "check_date": "2023-01-30",
+                "check_date": "2023-01-10",
                 "defibrillator:location": "Na parterze budynku przy wyjściu na wewnętrzny dziedziniec.",
                 "defibrillator:location:en": "On the ground floor of the building at the exit to the inner courtyard.",
                 "emergency": "defibrillator",
@@ -84726,9 +84739,9 @@
             "id": 10311570105,
             "lat": 51.8134127,
             "lon": 17.012751,
-            "timestamp": "2023-02-03T19:02:24Z",
-            "version": 2,
-            "changeset": 132054162,
+            "timestamp": "2023-02-03T19:39:18Z",
+            "version": 3,
+            "changeset": 132055162,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -84741,6 +84754,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89411,9 +89425,9 @@
             "id": 10595030983,
             "lat": 51.7367976,
             "lon": 17.0012501,
-            "timestamp": "2023-02-03T19:05:24Z",
-            "version": 2,
-            "changeset": 132054247,
+            "timestamp": "2023-02-03T19:40:05Z",
+            "version": 3,
+            "changeset": 132055184,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89426,6 +89440,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89793,9 +89808,9 @@
             "id": 10604693856,
             "lat": 51.7788633,
             "lon": 17.0508028,
-            "timestamp": "2023-02-03T19:11:34Z",
-            "version": 1,
-            "changeset": 132054418,
+            "timestamp": "2023-02-03T19:44:23Z",
+            "version": 2,
+            "changeset": 132055320,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89808,6 +89823,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89816,9 +89832,9 @@
             "id": 10604712993,
             "lat": 51.7980788,
             "lon": 17.0048571,
-            "timestamp": "2023-02-03T19:06:04Z",
-            "version": 1,
-            "changeset": 132054267,
+            "timestamp": "2023-02-03T19:39:50Z",
+            "version": 2,
+            "changeset": 132055179,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89831,17 +89847,18 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
         {
             "type": "node",
             "id": 10604716059,
-            "lat": 51.8165234,
-            "lon": 16.9721473,
-            "timestamp": "2023-02-03T19:03:29Z",
-            "version": 2,
-            "changeset": 132054183,
+            "lat": 51.8165186,
+            "lon": 16.9721031,
+            "timestamp": "2023-02-03T19:55:24Z",
+            "version": 4,
+            "changeset": 132055639,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89854,6 +89871,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89862,9 +89880,9 @@
             "id": 10604725310,
             "lat": 51.7658687,
             "lon": 17.0453127,
-            "timestamp": "2023-02-03T19:10:32Z",
-            "version": 1,
-            "changeset": 132054386,
+            "timestamp": "2023-02-03T19:39:34Z",
+            "version": 2,
+            "changeset": 132055169,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89877,6 +89895,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89885,9 +89904,9 @@
             "id": 10604728361,
             "lat": 51.7405284,
             "lon": 16.9269609,
-            "timestamp": "2023-02-03T19:12:51Z",
-            "version": 1,
-            "changeset": 132054447,
+            "timestamp": "2023-02-03T19:49:01Z",
+            "version": 2,
+            "changeset": 132055465,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89900,6 +89919,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89908,9 +89928,9 @@
             "id": 10604731405,
             "lat": 51.8126932,
             "lon": 17.0588069,
-            "timestamp": "2023-02-03T19:08:00Z",
-            "version": 1,
-            "changeset": 132054326,
+            "timestamp": "2023-02-03T19:45:40Z",
+            "version": 2,
+            "changeset": 132055370,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89923,6 +89943,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89931,9 +89952,9 @@
             "id": 10604747869,
             "lat": 51.7235101,
             "lon": 16.9275723,
-            "timestamp": "2023-02-03T19:13:45Z",
-            "version": 1,
-            "changeset": 132054476,
+            "timestamp": "2023-02-03T19:41:15Z",
+            "version": 2,
+            "changeset": 132055224,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -89946,6 +89967,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "|| \"Brak stałych godzin funkcjonowania.\"",
+                "operator": "Urząd Miejski w Krobi",
                 "phone": "+48 722 323 393"
             }
         },
@@ -89969,6 +89991,47 @@
                 "level": "0",
                 "mobile": "+48 722 323 393",
                 "operator": "OSP Gogolewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604783832,
+            "lat": 51.8520403,
+            "lon": 17.0142793,
+            "timestamp": "2023-02-03T19:42:25Z",
+            "version": 1,
+            "changeset": 132055260,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-01-02",
+                "defibrillator:location:pl": "AED w biurowcu firmy Mann+Hummel",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 65 572 89 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604807418,
+            "lat": 51.6556795,
+            "lon": 16.9537165,
+            "timestamp": "2023-02-03T19:47:42Z",
+            "version": 1,
+            "changeset": 132055430,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2022-12-29",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "defibrillator:location:pl": "AED na wyposażeniu pojazdu straży pożarnej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "OSP Miejska Górka posiada dwa AED'y na pojazdach ratowniczo-gaśniczych.",
+                "operator": "OSP Miejska Górka",
+                "phone": "112"
             }
         }
     ]
