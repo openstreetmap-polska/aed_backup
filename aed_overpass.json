@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T12:31:52Z",
+        "timestamp_osm_base": "2023-02-03T13:31:59Z",
         "timestamp_areas_base": "2023-02-03T08:20:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89651,9 +89651,9 @@
             "id": 10602328707,
             "lat": 54.1165559,
             "lon": 20.1380369,
-            "timestamp": "2023-02-02T22:21:48Z",
-            "version": 3,
-            "changeset": 132020830,
+            "timestamp": "2023-02-03T13:18:35Z",
+            "version": 4,
+            "changeset": 132042324,
             "user": "BodzioB",
             "uid": 6148360,
             "tags": {
@@ -89662,6 +89662,7 @@
                 "defibrillator:location:en": "Seat of the Orneta Forest Inspectorate, ground floor\nst. 1 Maja 26, 11-130 Orneta",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:00",
                 "operator": "Nadleśnictwo Orneta",
                 "phone": "+48 514 601 465"
             }
@@ -89700,6 +89701,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "63 222 32 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604052321,
+            "lat": 52.1361464,
+            "lon": 21.2346717,
+            "timestamp": "2023-02-03T12:43:28Z",
+            "version": 1,
+            "changeset": 132041291,
+            "user": "PabloJosh",
+            "uid": 8238172,
+            "tags": {
+                "defibrillator:location": "Na bocznej ścianie Miejskiego Ośrodka Kultury.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Miasto Józefów"
             }
         }
     ]
