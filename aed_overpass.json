@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-03T14:30:48Z",
-        "timestamp_areas_base": "2023-02-03T08:20:55Z",
+        "timestamp_osm_base": "2023-02-03T15:31:32Z",
+        "timestamp_areas_base": "2023-02-03T15:25:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89753,6 +89753,25 @@
                 "access": "private",
                 "defibrillator:location": "Punkt szczepień",
                 "defibrillator:location:en": "Vaccination point",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "48 3221023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10604218405,
+            "lat": 51.4014156,
+            "lon": 21.1530712,
+            "timestamp": "2023-02-03T14:33:44Z",
+            "version": 1,
+            "changeset": 132044970,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Gabinet zabiegowy",
+                "defibrillator:location:en": "Ttreatment room",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "48 3221023"
