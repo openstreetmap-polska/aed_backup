@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-04T09:32:09Z",
-        "timestamp_areas_base": "2023-02-04T08:33:06Z",
+        "timestamp_osm_base": "2023-02-04T10:31:29Z",
+        "timestamp_areas_base": "2023-02-04T09:32:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90069,6 +90069,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Centrum Techniczno Konstrukcyjne Dan Cake Polonia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10605745364,
+            "lat": 52.8738777,
+            "lon": 20.6122104,
+            "timestamp": "2023-02-04T10:04:56Z",
+            "version": 1,
+            "changeset": 132069549,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy stadionie na ul. 3 Maja",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja nie jest znana",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "sou`": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/"
             }
         }
     ]
