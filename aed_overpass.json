@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-04T20:30:37Z",
-        "timestamp_areas_base": "2023-02-04T19:38:54Z",
+        "timestamp_osm_base": "2023-02-04T21:31:39Z",
+        "timestamp_areas_base": "2023-02-04T20:39:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90089,6 +90089,27 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "sou`": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10606975248,
+            "lat": 52.294652,
+            "lon": 21.1133973,
+            "timestamp": "2023-02-04T21:14:46Z",
+            "version": 1,
+            "changeset": 132090867,
+            "user": "Andrzej3345",
+            "uid": 1875665,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku na prawo od wejścia A",
+                "defibrillator:location:en": "On the building wall, on the right of the entrance A",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "UM Ząbki",
+                "outdoor": "yes"
             }
         }
     ]
