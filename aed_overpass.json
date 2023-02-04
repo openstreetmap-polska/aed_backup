@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-04T21:31:39Z",
-        "timestamp_areas_base": "2023-02-04T20:39:53Z",
+        "timestamp_osm_base": "2023-02-04T22:31:14Z",
+        "timestamp_areas_base": "2023-02-04T21:40:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90105,6 +90105,27 @@
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku na prawo od wejścia A",
                 "defibrillator:location:en": "On the building wall, on the right of the entrance A",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "UM Ząbki",
+                "outdoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10607024725,
+            "lat": 52.2966618,
+            "lon": 21.106551,
+            "timestamp": "2023-02-04T21:52:15Z",
+            "version": 1,
+            "changeset": 132091816,
+            "user": "Andrzej3345",
+            "uid": 1875665,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku na lewo od wejścia do komisariatu",
+                "defibrillator:location:en": "On the building wall, on the left of the entrance to the police station",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
