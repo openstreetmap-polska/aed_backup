@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-05T19:31:38Z",
-        "timestamp_areas_base": "2023-02-05T18:48:09Z",
+        "timestamp_osm_base": "2023-02-05T20:31:40Z",
+        "timestamp_areas_base": "2023-02-05T19:47:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12572,16 +12572,19 @@
             "id": 9418923518,
             "lat": 52.2421468,
             "lon": 20.9297397,
-            "timestamp": "2022-01-22T12:30:35Z",
-            "version": 2,
-            "changeset": 116464054,
-            "user": "starsep",
-            "uid": 11306447,
+            "timestamp": "2023-02-05T19:42:50Z",
+            "version": 3,
+            "changeset": 132126052,
+            "user": "starsep-bot",
+            "uid": 14801880,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-02-05",
                 "defibrillator:location": "Na lewej ścianie przy wejściu do Auchan na parterze",
                 "defibrillator:location:en": "On the left wall next to Auchan entrance on the ground floor",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
                 "location": "indoor"
             }
         },
