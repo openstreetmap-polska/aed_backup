@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-06T11:31:10Z",
+        "timestamp_osm_base": "2023-02-06T12:32:09Z",
         "timestamp_areas_base": "2023-02-06T07:52:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -79668,17 +79668,18 @@
             "id": 10280135210,
             "lat": 51.7347079,
             "lon": 19.7248559,
-            "timestamp": "2022-12-22T12:11:02Z",
-            "version": 2,
-            "changeset": 130372958,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-02-06T12:12:11Z",
+            "version": 3,
+            "changeset": 132154998,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku Ochotniczej Straży Pożarnej w Gałkowie Dużym",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
+                "operator": "OSP Gałków Duży",
                 "source": "https://koluszki.naszemiasto.pl/na-scianie-budynku-osp-galkow-duzy-zawisnie-defibrylator/ar/c1-8899153"
             }
         },
