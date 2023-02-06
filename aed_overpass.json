@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-06T10:31:25Z",
+        "timestamp_osm_base": "2023-02-06T11:31:10Z",
         "timestamp_areas_base": "2023-02-06T07:52:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90163,6 +90163,24 @@
                 "opening_hours": "24/7",
                 "operator": "Ośrodek Doskonalenia Kadr Służby Więziennej w Suchej",
                 "phone": "+48523341225"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10610801705,
+            "lat": 50.0137207,
+            "lon": 18.3770541,
+            "timestamp": "2023-02-06T11:29:52Z",
+            "version": 2,
+            "changeset": 132153370,
+            "user": "dawid_k",
+            "uid": 1368812,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do budynku OSP Zawada",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Ochotnicza Straż Pożarna w Zawadzie"
             }
         }
     ]
