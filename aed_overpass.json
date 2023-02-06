@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-06T09:31:39Z",
+        "timestamp_osm_base": "2023-02-06T10:31:25Z",
         "timestamp_areas_base": "2023-02-06T07:52:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90143,6 +90143,26 @@
                 "opening_hours": "24/7",
                 "operator": "UM Ząbki",
                 "outdoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10610685015,
+            "lat": 53.4379175,
+            "lon": 17.9128231,
+            "timestamp": "2023-02-06T10:25:20Z",
+            "version": 1,
+            "changeset": 132150956,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w recepcji OSSW w Suchej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ośrodek Doskonalenia Kadr Służby Więziennej w Suchej",
+                "phone": "+48523341225"
             }
         }
     ]
