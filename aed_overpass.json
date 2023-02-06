@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-06T13:32:07Z",
+        "timestamp_osm_base": "2023-02-06T14:31:59Z",
         "timestamp_areas_base": "2023-02-06T07:52:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90182,6 +90182,23 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "Ochotnicza Straż Pożarna w Zawadzie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10611541405,
+            "lat": 53.8374637,
+            "lon": 18.8241284,
+            "timestamp": "2023-02-06T14:10:23Z",
+            "version": 1,
+            "changeset": 132159569,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "58 535 30 43"
             }
         }
     ]
