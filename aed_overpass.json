@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-07T21:31:09Z",
+        "timestamp_osm_base": "2023-02-07T22:32:09Z",
         "timestamp_areas_base": "2023-02-07T18:02:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90283,6 +90283,27 @@
                 "indoor": "yes",
                 "operator": "OSiR",
                 "phone": "(063) 278-42-59,"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616882411,
+            "lat": 49.8401778,
+            "lon": 19.0362995,
+            "timestamp": "2023-02-07T22:08:00Z",
+            "version": 1,
+            "changeset": 132228087,
+            "user": "Carpathians",
+            "uid": 17665316,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "W biurze monitoringu Centrum Handlowego na piętrze. Konieczne zgłoszenie się do ochrony budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "Piętro",
+                "opening_hours": "Mo-Sa 08:00-22:00",
+                "operator": "CH Sarni Stok",
+                "wheelchair": "limited"
             }
         }
     ]
