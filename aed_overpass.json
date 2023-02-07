@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-07T17:31:39Z",
-        "timestamp_areas_base": "2023-02-07T08:06:25Z",
+        "timestamp_osm_base": "2023-02-07T18:31:27Z",
+        "timestamp_areas_base": "2023-02-07T18:02:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -67846,24 +67846,6 @@
         },
         {
             "type": "node",
-            "id": 9906745717,
-            "lat": 52.0173901,
-            "lon": 18.51091,
-            "timestamp": "2022-07-24T00:07:27Z",
-            "version": 1,
-            "changeset": 123993420,
-            "user": "RicoElectrico",
-            "uid": 604437,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Na terenie pływalni krytej, w sąsiedztwie kas.",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "+48632784259"
-            }
-        },
-        {
-            "type": "node",
             "id": 9907852201,
             "lat": 50.0521931,
             "lon": 19.8506923,
@@ -85057,14 +85039,15 @@
             "id": 10315305620,
             "lat": 51.4021545,
             "lon": 23.4086154,
-            "timestamp": "2023-01-08T18:44:02Z",
-            "version": 2,
-            "changeset": 131026626,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 3,
+            "changeset": 132218520,
             "user": "Pancacy",
             "uid": 13298919,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Gmina Hańsk"
             }
         },
         {
@@ -90201,6 +90184,105 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "58 535 30 43"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616177350,
+            "lat": 51.4019876,
+            "lon": 23.4088917,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 1,
+            "changeset": 132218520,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gmina Hańsk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616177351,
+            "lat": 51.4017546,
+            "lon": 23.4074492,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 1,
+            "changeset": 132218520,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "NZOZ \"Fides\""
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616177352,
+            "lat": 51.4034965,
+            "lon": 23.4104303,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 1,
+            "changeset": 132218520,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gmina Hańsk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616177353,
+            "lat": 51.4008129,
+            "lon": 23.4045677,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 1,
+            "changeset": 132218520,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gmina Hańsk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616177354,
+            "lat": 51.4276676,
+            "lon": 23.4371585,
+            "timestamp": "2023-02-07T18:02:45Z",
+            "version": 1,
+            "changeset": 132218520,
+            "user": "Pancacy",
+            "uid": 13298919,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gmina Hańsk"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10616221923,
+            "lat": 52.0180928,
+            "lon": 18.4899812,
+            "timestamp": "2023-02-07T18:04:03Z",
+            "version": 1,
+            "changeset": 132218571,
+            "user": "Chud@",
+            "uid": 18418108,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Basen Kryty w pobliżu kas",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSiR",
+                "phone": "(063) 278-42-59,"
             }
         }
     ]
