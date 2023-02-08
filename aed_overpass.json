@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-08T21:31:22Z",
-        "timestamp_areas_base": "2023-02-08T19:17:21Z",
+        "timestamp_osm_base": "2023-02-08T22:32:08Z",
+        "timestamp_areas_base": "2023-02-08T22:21:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22049,16 +22049,18 @@
             "id": 9445518517,
             "lat": 52.2047656,
             "lon": 21.0090265,
-            "timestamp": "2022-06-11T19:10:43Z",
-            "version": 2,
-            "changeset": 122261461,
-            "user": "rthrb",
-            "uid": 824271,
+            "timestamp": "2023-02-08T21:49:11Z",
+            "version": 3,
+            "changeset": 132278117,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-02-08",
                 "defibrillator:location": "Na parterze w holu naprzeciw recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "location": "indoor"
             }
         },
@@ -24631,16 +24633,18 @@
             "id": 9450880924,
             "lat": 52.2376295,
             "lon": 20.9608079,
-            "timestamp": "2023-02-05T19:22:31Z",
-            "version": 3,
-            "changeset": 132125381,
-            "user": "starsep-bot",
-            "uid": 14801880,
+            "timestamp": "2023-02-08T21:46:30Z",
+            "version": 4,
+            "changeset": 132278117,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "yes",
-                "check_date": "2023-02-05",
+                "check_date": "2023-02-08",
                 "defibrillator:location": "Na peronie stacji metra Młynów",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "-2",
                 "location": "indoor"
             }
         },
