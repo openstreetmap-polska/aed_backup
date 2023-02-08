@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-08T09:31:39Z",
+        "timestamp_osm_base": "2023-02-08T10:31:40Z",
         "timestamp_areas_base": "2023-02-08T09:12:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90304,6 +90304,40 @@
                 "opening_hours": "Mo-Sa 08:00-22:00",
                 "operator": "CH Sarni Stok",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10617866493,
+            "lat": 53.6137404,
+            "lon": 18.9501017,
+            "timestamp": "2023-02-08T09:54:52Z",
+            "version": 1,
+            "changeset": 132246269,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://kwidzyn.naszemiasto.pl/strazacy-z-powiatu-kwidzynskiego-podsumowali-kolejny/ar/c1-9200063"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10617948825,
+            "lat": 52.1610308,
+            "lon": 20.7853468,
+            "timestamp": "2023-02-08T10:03:25Z",
+            "version": 1,
+            "changeset": 132246657,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "defibrillator:location": "Od wejścia nr 2 w prawo.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
