@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-08T10:31:40Z",
+        "timestamp_osm_base": "2023-02-08T11:31:39Z",
         "timestamp_areas_base": "2023-02-08T09:12:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90338,6 +90338,24 @@
                 "defibrillator:location": "Od wejścia nr 2 w prawo.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10618388859,
+            "lat": 53.6277792,
+            "lon": 21.8148906,
+            "timestamp": "2023-02-08T11:02:16Z",
+            "version": 1,
+            "changeset": 132249597,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "defibrillator:location": "Stary Ogólniak- główne wejście",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Mariusz Klisiatys",
+                "ref": "Ogólniak"
             }
         }
     ]
