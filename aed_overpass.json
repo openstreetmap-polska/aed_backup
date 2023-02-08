@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-08T19:31:39Z",
+        "timestamp_osm_base": "2023-02-08T20:31:25Z",
         "timestamp_areas_base": "2023-02-08T19:17:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -35347,9 +35347,9 @@
             "id": 9493722378,
             "lat": 53.5311398,
             "lon": 14.796442,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 4,
-            "changeset": 117701605,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 5,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -35357,9 +35357,9 @@
                 "defibrillator:location": "Zakład Aktywności Zawodowej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 07:00-15:00",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Zakład Aktywności Zawodowej",
-                "phone": "+48500716050",
+                "phone": "+48 500 716 050",
                 "website": "http://zaz.goleniow.pl/"
             }
         },
@@ -37258,9 +37258,9 @@
             "id": 9498917807,
             "lat": 53.5290082,
             "lon": 14.7931176,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 5,
-            "changeset": 117701605,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 6,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -37271,7 +37271,7 @@
                 "indoor": "yes",
                 "level": "0",
                 "man_made": "works",
-                "opening_hours": "Mo-Fr 08:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
                 "operator": "Eurokey Recycling Limited"
             }
         },
@@ -37280,9 +37280,9 @@
             "id": 9498917815,
             "lat": 53.5442369,
             "lon": 14.791932,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 5,
-            "changeset": 117701605,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 6,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -37293,7 +37293,7 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Chemical Alliance Polska",
-                "phone": "+48918883039",
+                "phone": "+48 91 416 54 40",
                 "website": "https://www.siaabrasives.com/pl/en/obsluga-klienta---lokalnie/sia-abrasives-polska/local-contact/"
             }
         },
@@ -37302,9 +37302,9 @@
             "id": 9498917816,
             "lat": 53.544741,
             "lon": 14.7940461,
-            "timestamp": "2022-02-21T21:27:56Z",
-            "version": 5,
-            "changeset": 117701605,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 6,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -37313,7 +37313,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "sia Abrasives Polska",
-                "phone": "+48918883039"
+                "phone": "+48 91 888 30 39"
             }
         },
         {
@@ -39766,9 +39766,9 @@
             "id": 9520349421,
             "lat": 53.5392171,
             "lon": 14.8013842,
-            "timestamp": "2023-02-06T19:36:59Z",
-            "version": 4,
-            "changeset": 132172809,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 5,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -39779,7 +39779,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:00-22:00",
                 "operator": "SBS Schenker",
-                "phone": "+48914647449"
+                "phone": "+48 91 464 74 49"
             }
         },
         {
@@ -39787,9 +39787,9 @@
             "id": 9520349422,
             "lat": 53.5402564,
             "lon": 14.8005795,
-            "timestamp": "2023-02-06T19:36:59Z",
-            "version": 4,
-            "changeset": 132172809,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 5,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -39798,7 +39798,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:00-22:00",
                 "operator": "Rhenus Logistics",
-                "phone": "+48605254419"
+                "phone": "+48 605 254 419"
             }
         },
         {
@@ -41414,9 +41414,9 @@
             "id": 9525375784,
             "lat": 53.5369074,
             "lon": 14.8005685,
-            "timestamp": "2023-02-06T19:36:59Z",
-            "version": 3,
-            "changeset": 132172809,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 4,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41425,9 +41425,9 @@
                 "defibrillator:location:en": "Ikea Logistic Center",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "Mo-Fr 06:00-22:00",
+                "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su off",
                 "operator": "Ikea Industry Goleniów",
-                "phone": "+48914647000"
+                "phone": "+48 91 464 70 00"
             }
         },
         {
@@ -90363,13 +90363,14 @@
             "id": 10623439135,
             "lat": 53.5453639,
             "lon": 14.7999699,
-            "timestamp": "2023-02-08T19:08:03Z",
-            "version": 1,
-            "changeset": 132271971,
+            "timestamp": "2023-02-08T20:05:58Z",
+            "version": 2,
+            "changeset": 132274156,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "permissive",
+                "defibrillator:location": "Na parterze, przy głównym wejściu po lewej stronie schodów.",
                 "defibrillator:location:en": "On the ground floor, at the main entrance on the left side of the stairs.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
