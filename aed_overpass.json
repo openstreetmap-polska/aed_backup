@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-08T18:31:49Z",
-        "timestamp_areas_base": "2023-02-08T09:12:22Z",
+        "timestamp_osm_base": "2023-02-08T19:31:39Z",
+        "timestamp_areas_base": "2023-02-08T19:17:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90356,6 +90356,27 @@
                 "indoor": "no",
                 "operator": "Mariusz Klisiatys",
                 "ref": "Ogólniak"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10623439135,
+            "lat": 53.5453639,
+            "lon": 14.7999699,
+            "timestamp": "2023-02-08T19:08:03Z",
+            "version": 1,
+            "changeset": 132271971,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location:en": "On the ground floor, at the main entrance on the left side of the stairs.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
+                "operator": "Faraone Polska",
+                "phone": "+48 605 341 213"
             }
         }
     ]
