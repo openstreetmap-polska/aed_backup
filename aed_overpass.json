@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-09T11:31:35Z",
+        "timestamp_osm_base": "2023-02-09T12:31:38Z",
         "timestamp_areas_base": "2023-02-09T08:25:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90275,18 +90275,18 @@
             "id": 10616221923,
             "lat": 52.0180928,
             "lon": 18.4899812,
-            "timestamp": "2023-02-07T18:04:03Z",
-            "version": 1,
-            "changeset": 132218571,
-            "user": "Chud@",
-            "uid": 18418108,
+            "timestamp": "2023-02-09T12:25:02Z",
+            "version": 2,
+            "changeset": 132305139,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Basen Kryty w pobliżu kas",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSiR",
-                "phone": "(063) 278-42-59,"
+                "phone": "(063) 278 42 59"
             }
         },
         {
