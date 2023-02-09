@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-09T12:31:38Z",
+        "timestamp_osm_base": "2023-02-09T13:31:22Z",
         "timestamp_areas_base": "2023-02-09T08:25:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90424,6 +90424,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48683631274"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10631233605,
+            "lat": 52.227501,
+            "lon": 21.1438743,
+            "timestamp": "2023-02-09T12:59:12Z",
+            "version": 1,
+            "changeset": 132306475,
+            "user": "Monika Mosca",
+            "uid": 18428726,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na drugim piętrze, na ścianie między pokojami 307 i 308. Po godzinie 17:00 wejście do budynku otwierane przez ochronę.",
+                "defibrillator:location:en": "On the second floor, on the wall between rooms 307 and 308. After 5:00 pm, the entrance to the building is opened by security.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "690 661 287"
             }
         }
     ]
