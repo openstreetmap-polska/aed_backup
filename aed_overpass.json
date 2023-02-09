@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-09T06:31:25Z",
+        "timestamp_osm_base": "2023-02-09T07:31:47Z",
         "timestamp_areas_base": "2023-02-09T06:25:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90382,6 +90382,44 @@
                 "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
                 "operator": "Faraone Polska",
                 "phone": "+48 605 341 213"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10629169605,
+            "lat": 51.6341985,
+            "lon": 15.0969192,
+            "timestamp": "2023-02-09T07:21:16Z",
+            "version": 1,
+            "changeset": 132291024,
+            "user": "Andrzeeej",
+            "uid": 18426914,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia Główna SWISS KRONO",
+                "defibrillator:location:en": "The main porter's lodge",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48683631273"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10629169606,
+            "lat": 51.6341784,
+            "lon": 15.1069926,
+            "timestamp": "2023-02-09T07:24:07Z",
+            "version": 1,
+            "changeset": 132291024,
+            "user": "Andrzeeej",
+            "uid": 18426914,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia Terminal SWISS KRONO",
+                "defibrillator:location:en": "Commodity concierge SWISS KRONO",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48683631274"
             }
         }
     ]
