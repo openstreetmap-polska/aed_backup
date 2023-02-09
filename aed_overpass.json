@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-09T18:31:14Z",
+        "timestamp_osm_base": "2023-02-09T19:32:07Z",
         "timestamp_areas_base": "2023-02-09T08:25:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90443,6 +90443,30 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "690 661 287"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10633751793,
+            "lat": 52.6754022,
+            "lon": 14.6763307,
+            "timestamp": "2023-02-09T18:37:23Z",
+            "version": 1,
+            "changeset": 132322458,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wejście do Pszczelisklep. Po prawej stronie drzwi wejściowych.",
+                "defibrillator:location:en": "Entrance to the Bee Shop. On the right side of the entrance door.",
+                "description": "Kontakt poza godzinami otwarcia (całą dobę) pod numerem +48 798 803 139.",
+                "description:en": "Contact outside opening hours (24/7) at +48 798 803 139.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-12:45; Su off",
+                "operator": "Centrum Pszczelarskie Łukasiewicz",
+                "phone": "+48 798 803 139; +48 723 710 100"
             }
         }
     ]
