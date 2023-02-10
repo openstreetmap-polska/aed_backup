@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-10T13:31:53Z",
+        "timestamp_osm_base": "2023-02-10T14:31:54Z",
         "timestamp_areas_base": "2023-02-10T08:39:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90541,15 +90541,15 @@
         {
             "type": "node",
             "id": 10637150806,
-            "lat": 50.4273656,
-            "lon": 16.538619,
-            "timestamp": "2023-02-10T10:23:00Z",
-            "version": 1,
-            "changeset": 132349835,
+            "lat": 50.4275681,
+            "lon": 16.5385573,
+            "timestamp": "2023-02-10T13:37:55Z",
+            "version": 2,
+            "changeset": 132360385,
             "user": "Profiline Ruben Skrzypiec",
             "uid": 18436814,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "W godzinach 8-16 należy wejść głównym wejściem od frontu budynku, następnie przez szklane drzwi na wprost. AED jest zawieszone na ścianie w korytarzu. W godzinach 16-22 dostęp do sprzętu przy bramie do magazynu.",
                 "defibrillator:location:en": "Between 8am and 4pm, enter through the main entrance at the front of the building, then through the glass door straight ahead. The AED is hung on the wall in the hallway. From 16-22 access to equipment at the gate to the warehouse.",
                 "emergency": "defibrillator",
