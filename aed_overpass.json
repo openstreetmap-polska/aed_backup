@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-10T17:31:56Z",
+        "timestamp_osm_base": "2023-02-10T18:32:09Z",
         "timestamp_areas_base": "2023-02-10T16:43:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -55448,26 +55448,6 @@
         },
         {
             "type": "node",
-            "id": 9633744605,
-            "lat": 49.8989126,
-            "lon": 21.8803194,
-            "timestamp": "2022-04-03T16:43:15Z",
-            "version": 1,
-            "changeset": 119271366,
-            "user": "Cristoffs",
-            "uid": 6765127,
-            "tags": {
-                "access": "private",
-                "addr:housenumber": "122",
-                "addr:place": "Połomia",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Połomia"
-            }
-        },
-        {
-            "type": "node",
             "id": 9633787010,
             "lat": 51.8797893,
             "lon": 21.5580712,
@@ -90597,19 +90577,122 @@
             "id": 10639022305,
             "lat": 54.3264223,
             "lon": 18.6223802,
-            "timestamp": "2023-02-10T13:17:29Z",
-            "version": 1,
-            "changeset": 132358833,
-            "user": "PGRM Biuro",
-            "uid": 18251006,
+            "timestamp": "2023-02-10T17:34:04Z",
+            "version": 2,
+            "changeset": 132372602,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Przychodnia, I piętro, gabinet zabiegowy",
                 "defibrillator:location:en": "Clinic, first floor, treatment room",
+                "defibrillator:location:pl": "Przychodnia, I piętro, gabinet zabiegowy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "1",
                 "phone": "+48583069153"
             }
+        },
+        {
+            "type": "way",
+            "id": 216086914,
+            "timestamp": "2023-02-10T17:33:28Z",
+            "version": 4,
+            "changeset": 132372574,
+            "user": "Polciu",
+            "uid": 1977936,
+            "nodes": [
+                2254585696,
+                2254585724,
+                2254585759,
+                2254585737,
+                9633744609,
+                9633744607,
+                9633744606,
+                9633744608,
+                9633744610,
+                9633744611,
+                9633744612,
+                2254585696
+            ],
+            "tags": {
+                "access": "private",
+                "addr:housenumber": "122",
+                "addr:place": "Połomia",
+                "addr:postcode": "38-115",
+                "building": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "OSP Połomia",
+                "source:addr": "niebylec.e-mapa.net"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2254585696,
+            "lat": 49.8988795,
+            "lon": 21.8803337
+        },
+        {
+            "type": "node",
+            "id": 2254585724,
+            "lat": 49.8989824,
+            "lon": 21.8804479
+        },
+        {
+            "type": "node",
+            "id": 2254585737,
+            "lat": 49.8989819,
+            "lon": 21.8799153
+        },
+        {
+            "type": "node",
+            "id": 2254585759,
+            "lat": 49.8991445,
+            "lon": 21.8800958
+        },
+        {
+            "type": "node",
+            "id": 9633744606,
+            "lat": 49.8989917,
+            "lon": 21.8800348
+        },
+        {
+            "type": "node",
+            "id": 9633744607,
+            "lat": 49.8989488,
+            "lon": 21.8799872
+        },
+        {
+            "type": "node",
+            "id": 9633744608,
+            "lat": 49.8989976,
+            "lon": 21.880022
+        },
+        {
+            "type": "node",
+            "id": 9633744609,
+            "lat": 49.8989547,
+            "lon": 21.8799744
+        },
+        {
+            "type": "node",
+            "id": 9633744610,
+            "lat": 49.8990238,
+            "lon": 21.8800511
+        },
+        {
+            "type": "node",
+            "id": 9633744611,
+            "lat": 49.898947,
+            "lon": 21.880218
+        },
+        {
+            "type": "node",
+            "id": 9633744612,
+            "lat": 49.8989376,
+            "lon": 21.8802076
         }
     ]
 }
