@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-10T10:32:09Z",
+        "timestamp_osm_base": "2023-02-10T11:31:05Z",
         "timestamp_areas_base": "2023-02-10T08:39:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1990,13 +1990,16 @@
             "id": 6573841296,
             "lat": 54.3958785,
             "lon": 18.3999508,
-            "timestamp": "2022-02-08T18:55:53Z",
-            "version": 2,
-            "changeset": 117173526,
-            "user": "cytryn",
-            "uid": 13889611,
+            "timestamp": "2023-02-10T10:36:26Z",
+            "version": 4,
+            "changeset": 132350648,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-02-10",
                 "defibrillator:location": "Hol parteru budynku przy sekretariacie",
+                "defibrillator:location:pl": "Hol parteru budynku przy sekretariacie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
