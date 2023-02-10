@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-10T09:31:24Z",
+        "timestamp_osm_base": "2023-02-10T10:32:09Z",
         "timestamp_areas_base": "2023-02-10T08:39:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90081,11 +90081,11 @@
             "id": 10605745364,
             "lat": 52.8738777,
             "lon": 20.6122104,
-            "timestamp": "2023-02-04T10:04:56Z",
-            "version": 1,
-            "changeset": 132069549,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-02-10T10:01:57Z",
+            "version": 2,
+            "changeset": 132348961,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy stadionie na ul. 3 Maja",
@@ -90093,7 +90093,7 @@
                 "fixme": "Dokładna lokalizacja nie jest znana",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "sou`": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/"
+                "source": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/"
             }
         },
         {
@@ -90527,6 +90527,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48683631273"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10637150806,
+            "lat": 50.4273656,
+            "lon": 16.538619,
+            "timestamp": "2023-02-10T10:23:00Z",
+            "version": 1,
+            "changeset": 132349835,
+            "user": "Profiline Ruben Skrzypiec",
+            "uid": 18436814,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W godzinach 8-16 należy wejść głównym wejściem od frontu budynku, następnie przez szklane drzwi na wprost. AED jest zawieszone na ścianie w korytarzu. W godzinach 16-22 dostęp do sprzętu przy bramie do magazynu.",
+                "defibrillator:location:en": "Between 8am and 4pm, enter through the main entrance at the front of the building, then through the glass door straight ahead. The AED is hung on the wall in the hallway. From 16-22 access to equipment at the gate to the warehouse.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         }
     ]
