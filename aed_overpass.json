@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-10T06:32:23Z",
-        "timestamp_areas_base": "2023-02-10T05:38:35Z",
+        "timestamp_osm_base": "2023-02-10T07:32:06Z",
+        "timestamp_areas_base": "2023-02-10T06:38:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90470,6 +90470,63 @@
                 "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-13:00; Su off",
                 "operator": "Centrum Pszczelarskie Łukasiewicz",
                 "phone": "+48 798 803 139; +48 723 710 100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10635731005,
+            "lat": 51.6327749,
+            "lon": 15.0954623,
+            "timestamp": "2023-02-10T06:38:07Z",
+            "version": 1,
+            "changeset": 132341137,
+            "user": "Andrzeeej",
+            "uid": 18426914,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia Surowiec SWISS KRONO",
+                "defibrillator:location:en": "Entrance gate for SWISS KRONO timber",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48683631287"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10635735605,
+            "lat": 51.6365712,
+            "lon": 15.1060961,
+            "timestamp": "2023-02-10T06:43:38Z",
+            "version": 1,
+            "changeset": 132341281,
+            "user": "Andrzeeej",
+            "uid": 18426914,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "SWISS KRONO",
+                "defibrillator:location:en": "SWISS KRONO",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48683631473"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10635736105,
+            "lat": 51.6351461,
+            "lon": 15.0988268,
+            "timestamp": "2023-02-10T06:45:11Z",
+            "version": 1,
+            "changeset": 132341281,
+            "user": "Andrzeeej",
+            "uid": 18426914,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "SWISS KRONO",
+                "defibrillator:location:en": "SWISS KRONO",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48683631273"
             }
         }
     ]
