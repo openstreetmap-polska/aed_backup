@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T07:32:14Z",
-        "timestamp_areas_base": "2023-02-11T06:52:24Z",
+        "timestamp_osm_base": "2023-02-11T08:31:43Z",
+        "timestamp_areas_base": "2023-02-11T07:51:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90591,6 +90591,26 @@
                 "indoor": "yes",
                 "level": "1",
                 "phone": "+48583069153"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648110427,
+            "lat": 50.6620529,
+            "lon": 21.4432018,
+            "timestamp": "2023-02-11T08:25:01Z",
+            "version": 1,
+            "changeset": 132393648,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Pojazd ratowniczo rozpoznawczy Isuzu 4x4 Jakub",
+                "defibrillator:location:en": "Isuzu 4x4 rescue and reconnaissance vehicle named Jakub",
+                "defibrillator:location:pl": "Pojazd ratowniczo rozpoznawczy Isuzu 4x4 Jakub",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://echodnia.eu/swietokrzyskie/super-samochod-dla-druhow-z-klimontowa-strazakom-sluzy-jakub-zobacz-zdjecia/ar/c1-17278953"
             }
         },
         {
