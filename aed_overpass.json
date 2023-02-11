@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T18:31:40Z",
+        "timestamp_osm_base": "2023-02-11T19:31:40Z",
         "timestamp_areas_base": "2023-02-11T16:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70336,16 +70336,20 @@
             "id": 10035700317,
             "lat": 52.3051518,
             "lon": 21.0168785,
-            "timestamp": "2022-09-19T06:20:53Z",
-            "version": 1,
-            "changeset": 126354837,
-            "user": "Bogusław Ciemiński",
-            "uid": 17171885,
+            "timestamp": "2023-02-11T18:58:52Z",
+            "version": 2,
+            "changeset": 132417806,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Biuro Obsługi Klienta",
+                "defibrillator:location:en": "In the WORD ME1 - Odlewnicza customer service office.",
+                "defibrillator:location:pl": "W biurze obsługi klienta WORD ME1 - Odlewnicza",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 06:00-22:00; Fr,Sa 07:00-15:00; Su off",
+                "operator": "WORD Warszawa",
+                "phone": "+48 22 59 76 781"
             }
         },
         {
@@ -90831,6 +90835,109 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10649775466,
+            "lat": 52.2883889,
+            "lon": 22.2302156,
+            "timestamp": "2023-02-11T18:33:41Z",
+            "version": 1,
+            "changeset": 132416939,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "defibrillator:location:pl": "W pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Podnieśno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10649789052,
+            "lat": 50.0495116,
+            "lon": 19.6467932,
+            "timestamp": "2023-02-11T18:40:45Z",
+            "version": 1,
+            "changeset": 132417175,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "In the deli building.",
+                "defibrillator:location:pl": "Na budynku delikatesów.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10649814886,
+            "lat": 51.9532854,
+            "lon": 15.481749,
+            "timestamp": "2023-02-11T19:29:33Z",
+            "version": 1,
+            "changeset": 132418881,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:en": "At the headquarters of the \"Zielonogórskie Wodociagi i Kanalizacja\" company.",
+                "defibrillator:location:pl": "W siedzibie spółki \"Zielonogórskie Wodociagi i Kanalizacja\".",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 06:45-14:45; Sa,Su off",
+                "operator": "Zielonogórskie Wodociągi i Kanalizacja Spółka z o.o.",
+                "phone": "phone=+48 68 45 19 300; +48 68 45 19 301"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10649818809,
+            "lat": 52.2653903,
+            "lon": 20.9286204,
+            "timestamp": "2023-02-11T19:03:09Z",
+            "version": 2,
+            "changeset": 132417945,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:en": "In the WORD ME2 customer service office - Bemowo.",
+                "defibrillator:location:pl": "W biurze obsługi klienta WORD ME2 - Bemowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 07:00-15:00; Su off",
+                "operator": "WORD Warszawa",
+                "phone": "+48 22 861 51 97"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10649880324,
+            "lat": 52.188878,
+            "lon": 20.9647273,
+            "timestamp": "2023-02-11T19:13:58Z",
+            "version": 1,
+            "changeset": 132418320,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:en": "In the WORD ME3 - Radarowa customer service office",
+                "defibrillator:location:pl": "W biurze obsługi klienta WORD ME3 - Radarowa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 07:00-15:00; Su off",
+                "operator": "WORD Warszawa",
+                "phone": "+48 22 499 53 52; +48 785 250 683"
             }
         },
         {
