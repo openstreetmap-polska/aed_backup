@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T14:31:47Z",
-        "timestamp_areas_base": "2023-02-11T12:53:49Z",
+        "timestamp_osm_base": "2023-02-11T15:31:23Z",
+        "timestamp_areas_base": "2023-02-11T14:55:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89637,16 +89637,19 @@
             "id": 10600655998,
             "lat": 50.0158145,
             "lon": 18.4395238,
-            "timestamp": "2023-02-02T08:26:34Z",
-            "version": 1,
-            "changeset": 131991859,
-            "user": "Interswd",
-            "uid": 3414856,
+            "timestamp": "2023-02-11T14:41:07Z",
+            "version": 2,
+            "changeset": 132407437,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na dyżurce policji",
+                "defibrillator:location:pl": "Na dyżurce policji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "source": "https://www.nowiny.pl/wiadomosci/217069-w-osp-zawada-maja-nowy-defibrylator-to-pierwsza-maszyna-w-zewnetrznej-kapsule-w-wodzislawiu-zdjecia.html"
             }
         },
         {
@@ -90648,6 +90651,186 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Pastuchów",
                 "emergency": "defibrillator",
                 "operator": "KSRG - Ochotnicza Straż Pożarna w Pastuchowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648864807,
+            "lat": 51.5023884,
+            "lon": 16.1029742,
+            "timestamp": "2023-02-11T15:23:05Z",
+            "version": 2,
+            "changeset": 132409321,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wejście osobowe na teren O/ZG Rudna (SZCZĘŚĆ BOŻE).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648880705,
+            "lat": 51.5030507,
+            "lon": 16.1028171,
+            "timestamp": "2023-02-11T15:23:05Z",
+            "version": 2,
+            "changeset": 132409321,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wejście główne biurowiec Rudna Główna (przy wartowni).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648880706,
+            "lat": 51.5158476,
+            "lon": 16.0725559,
+            "timestamp": "2023-02-11T15:14:28Z",
+            "version": 2,
+            "changeset": 132408941,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hol główny Rudna Zachowdnia (koło wartowni)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648883106,
+            "lat": 51.516826,
+            "lon": 16.0728772,
+            "timestamp": "2023-02-11T14:49:47Z",
+            "version": 1,
+            "changeset": 132407517,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy Lampowni Rudna Zachodnia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648885405,
+            "lat": 51.5023861,
+            "lon": 16.100886,
+            "timestamp": "2023-02-11T15:23:05Z",
+            "version": 2,
+            "changeset": 132409321,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek Działu Kadr O/ZG Rudna (na lewej ścianie za drzwiami wejścia głównego).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648891305,
+            "lat": 51.5030235,
+            "lon": 16.1041967,
+            "timestamp": "2023-02-11T15:23:05Z",
+            "version": 2,
+            "changeset": 132409321,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy Lampowni Rudna Główna",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648903605,
+            "lat": 51.5359827,
+            "lon": 16.1185853,
+            "timestamp": "2023-02-11T15:07:58Z",
+            "version": 2,
+            "changeset": 132408658,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hol główny R-IX przy wartowni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648905606,
+            "lat": 51.53527,
+            "lon": 16.1190625,
+            "timestamp": "2023-02-11T14:51:28Z",
+            "version": 1,
+            "changeset": 132407517,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy Lampowni R-IX",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648905607,
+            "lat": 51.5159914,
+            "lon": 16.1465169,
+            "timestamp": "2023-02-11T15:00:32Z",
+            "version": 2,
+            "changeset": 132408375,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hol główny R-VII (przy wartowni)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648905608,
+            "lat": 51.5169363,
+            "lon": 16.1456692,
+            "timestamp": "2023-02-11T15:00:32Z",
+            "version": 2,
+            "changeset": 132408375,
+            "user": "marco406",
+            "uid": 400724,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy Lampowni R-VII",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48767485448"
             }
         },
         {
