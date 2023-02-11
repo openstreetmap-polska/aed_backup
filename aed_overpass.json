@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T09:31:38Z",
-        "timestamp_areas_base": "2023-02-11T08:52:59Z",
+        "timestamp_osm_base": "2023-02-11T10:31:53Z",
+        "timestamp_areas_base": "2023-02-11T09:53:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -29371,18 +29371,19 @@
         {
             "type": "node",
             "id": 9466540212,
-            "lat": 50.0137624,
-            "lon": 18.3769675,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 50.0137435,
+            "lon": 18.3769996,
+            "timestamp": "2023-02-11T09:43:30Z",
+            "version": 2,
+            "changeset": 132395963,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Zawada"
             }
         },
@@ -29427,16 +29428,17 @@
             "id": 9466540215,
             "lat": 50.02291,
             "lon": 18.46046,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-02-11T09:53:25Z",
+            "version": 2,
+            "changeset": 132396278,
+            "user": "Interswd",
+            "uid": 3414856,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Radllin"
             }
         },
@@ -90630,6 +90632,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://zw.pl/defibrylator-aed-w-slawskim-urzedzie-miejskim,149677"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648166897,
+            "lat": 50.9506686,
+            "lon": 16.439873,
+            "timestamp": "2023-02-11T09:39:38Z",
+            "version": 1,
+            "changeset": 132395817,
+            "user": "Dawid998",
+            "uid": 9376183,
+            "tags": {
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Pastuchów",
+                "emergency": "defibrillator",
+                "operator": "KSRG - Ochotnicza Straż Pożarna w Pastuchowie"
             }
         },
         {
