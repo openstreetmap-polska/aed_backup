@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T08:31:43Z",
-        "timestamp_areas_base": "2023-02-11T07:51:54Z",
+        "timestamp_osm_base": "2023-02-11T09:31:38Z",
+        "timestamp_areas_base": "2023-02-11T08:52:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -84181,13 +84181,13 @@
             "id": 10308545910,
             "lat": 50.0149945,
             "lon": 18.4828309,
-            "timestamp": "2023-01-09T07:52:57Z",
-            "version": 2,
-            "changeset": 131042369,
-            "user": "PWiK Wodzisław Śląski",
-            "uid": 18181725,
+            "timestamp": "2023-02-11T09:22:40Z",
+            "version": 3,
+            "changeset": 132395246,
+            "user": "Interswd",
+            "uid": 3414856,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "check_date": "2023-01-05",
                 "defibrillator:location:pl": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.\nul. Marklowicka 15\n44-300 Wodzisław Śl.\n(biurowiec - Biuro Obsługi Klienta)",
                 "emergency": "defibrillator",
@@ -90152,16 +90152,17 @@
             "id": 10610801705,
             "lat": 50.0137207,
             "lon": 18.3770541,
-            "timestamp": "2023-02-06T11:29:52Z",
-            "version": 2,
-            "changeset": 132153370,
-            "user": "dawid_k",
-            "uid": 1368812,
+            "timestamp": "2023-02-11T09:25:20Z",
+            "version": 3,
+            "changeset": 132395346,
+            "user": "Interswd",
+            "uid": 3414856,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy głównym wejściu do budynku OSP Zawada",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Zawadzie"
             }
         },
@@ -90611,6 +90612,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://echodnia.eu/swietokrzyskie/super-samochod-dla-druhow-z-klimontowa-strazakom-sluzy-jakub-zobacz-zdjecia/ar/c1-17278953"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10648114646,
+            "lat": 51.8806191,
+            "lon": 16.0723831,
+            "timestamp": "2023-02-11T08:37:02Z",
+            "version": 1,
+            "changeset": 132393968,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W Biurze Obsługi Interesanta Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://zw.pl/defibrylator-aed-w-slawskim-urzedzie-miejskim,149677"
             }
         },
         {
