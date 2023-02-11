@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-11T16:31:30Z",
-        "timestamp_areas_base": "2023-02-11T14:55:19Z",
+        "timestamp_osm_base": "2023-02-11T17:31:24Z",
+        "timestamp_areas_base": "2023-02-11T16:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -29410,17 +29410,17 @@
             "id": 9466540214,
             "lat": 49.99002,
             "lon": 18.44498,
-            "timestamp": "2022-02-01T16:31:24Z",
-            "version": 1,
-            "changeset": 116875809,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-02-11T17:17:41Z",
+            "version": 2,
+            "changeset": 132414242,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Turzyczce"
+                "operator": "OSP Turzyczka"
             }
         },
         {
