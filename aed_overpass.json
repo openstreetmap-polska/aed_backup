@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-13T20:31:39Z",
+        "timestamp_osm_base": "2023-02-13T21:31:31Z",
         "timestamp_areas_base": "2023-02-13T10:17:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91081,6 +91081,25 @@
                 "defibrillator:location": "na ścianie budynku hotelu",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10656177808,
+            "lat": 52.8735044,
+            "lon": 15.5364386,
+            "timestamp": "2023-02-13T21:05:28Z",
+            "version": 1,
+            "changeset": 132509162,
+            "user": "OpalSoPL",
+            "uid": 14090289,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-13",
+                "defibrillator:location:pl": "Na ścianie koło wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
