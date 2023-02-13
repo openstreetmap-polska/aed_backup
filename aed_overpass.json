@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-13T15:32:06Z",
+        "timestamp_osm_base": "2023-02-13T16:31:10Z",
         "timestamp_areas_base": "2023-02-13T10:17:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91064,6 +91064,23 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 08:00-16:00",
                 "operator": "Colep Polska Sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10655468723,
+            "lat": 50.440112,
+            "lon": 16.8748719,
+            "timestamp": "2023-02-13T15:48:19Z",
+            "version": 1,
+            "changeset": 132496942,
+            "user": "ekeshkekesh",
+            "uid": 564175,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku hotelu",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
