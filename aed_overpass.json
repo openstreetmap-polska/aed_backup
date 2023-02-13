@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-13T05:32:02Z",
-        "timestamp_areas_base": "2023-02-13T04:14:55Z",
+        "timestamp_osm_base": "2023-02-13T06:31:55Z",
+        "timestamp_areas_base": "2023-02-13T06:15:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -43361,11 +43361,11 @@
             "id": 9530454299,
             "lat": 50.0217494,
             "lon": 18.3373435,
-            "timestamp": "2022-02-23T17:20:51Z",
-            "version": 1,
-            "changeset": 117780225,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-02-13T06:29:21Z",
+            "version": 2,
+            "changeset": 132473017,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku, w którym mieszczą się salki katechetyczne, na południe od kościoła",
@@ -43374,7 +43374,8 @@
                 "opening_hours": "24/7",
                 "operator": "Parafia św. Antoniego Padewskiego w Syryni",
                 "phone": "+ 48 32 451 71 24",
-                "source": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Syryni-2324365414474793/photos/pcb.3175186159392710/3175185386059454/"
+                "source": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-w-Syryni-2324365414474793/photos/pcb.3175186159392710/3175185386059454/",
+                "start_date": "2022-02-17"
             }
         },
         {
@@ -90957,6 +90958,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Uniwersytet Zielonogórski"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10653811733,
+            "lat": 50.0257895,
+            "lon": 18.3354362,
+            "timestamp": "2023-02-13T06:29:21Z",
+            "version": 1,
+            "changeset": 132473017,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku przedszkola",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.nowiny.pl/wiadomosci/217118-ochotnicy-z-syryni-spotkali-sie-na-zebraniu-sprawozdawczym-zdjecia.html",
+                "start_date": "2022-03-07"
             }
         },
         {
