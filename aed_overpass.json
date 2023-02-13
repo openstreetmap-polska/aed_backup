@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-13T14:31:10Z",
+        "timestamp_osm_base": "2023-02-13T15:32:06Z",
         "timestamp_areas_base": "2023-02-13T10:17:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91046,6 +91046,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10655344889,
+            "lat": 51.2131998,
+            "lon": 19.2963179,
+            "timestamp": "2023-02-13T14:57:24Z",
+            "version": 1,
+            "changeset": 132494501,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w portierni glównej budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Colep Polska Sp. z o.o."
             }
         },
         {
