@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-13T12:31:22Z",
+        "timestamp_osm_base": "2023-02-13T13:31:09Z",
         "timestamp_areas_base": "2023-02-13T10:17:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91010,6 +91010,25 @@
                 "defibrillator:location": "Samochód Ratowniczo Gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10654684205,
+            "lat": 53.7821209,
+            "lon": 20.5442187,
+            "timestamp": "2023-02-13T12:43:12Z",
+            "version": 1,
+            "changeset": 132488727,
+            "user": "POLREGIO",
+            "uid": 18468068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku na II piętrze",
+                "defibrillator:location:en": "In the building on the second floor.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48665912788"
             }
         },
         {
