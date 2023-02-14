@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-14T11:32:06Z",
+        "timestamp_osm_base": "2023-02-14T12:32:02Z",
         "timestamp_areas_base": "2023-02-14T07:30:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90984,32 +90984,17 @@
             "id": 10654180905,
             "lat": 49.9286624,
             "lon": 19.5577604,
-            "timestamp": "2023-02-13T09:50:35Z",
-            "version": 1,
-            "changeset": 132480945,
-            "user": "Paweł Tomczyszyn Makumba",
-            "uid": 18466193,
+            "timestamp": "2023-02-14T11:47:30Z",
+            "version": 3,
+            "changeset": 132533361,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "defibrillator:location": "Samochód Ratowniczo Gaśniczy",
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "667291092"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10654204705,
-            "lat": 49.9286438,
-            "lon": 19.5577204,
-            "timestamp": "2023-02-13T10:00:22Z",
-            "version": 1,
-            "changeset": 132481381,
-            "user": "Paweł Tomczyszyn Makumba",
-            "uid": 18466193,
-            "tags": {
-                "defibrillator:location": "Samochód Ratowniczo Gaśniczy",
-                "emergency": "defibrillator",
-                "indoor": "yes"
+                "phone": "+48667291092"
             }
         },
         {
