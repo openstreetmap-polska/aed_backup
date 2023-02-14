@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-14T12:32:02Z",
+        "timestamp_osm_base": "2023-02-14T13:31:52Z",
         "timestamp_areas_base": "2023-02-14T07:30:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -27714,16 +27714,19 @@
             "id": 9461091817,
             "lat": 52.2415917,
             "lon": 20.9347104,
-            "timestamp": "2022-01-30T18:21:33Z",
-            "version": 1,
-            "changeset": 116791699,
-            "user": "tomzyl",
-            "uid": 530338,
+            "timestamp": "2023-02-14T13:29:08Z",
+            "version": 2,
+            "changeset": 132537726,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-02-14",
                 "defibrillator:location": "Luxmed, piętro 4, oddział dla dzieci chorych",
                 "defibrillator:location:en": "Luxmed, floor 4, a department for sick children",
                 "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "4",
                 "location": "indoor"
             }
         },
