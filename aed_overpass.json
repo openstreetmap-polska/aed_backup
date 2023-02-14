@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-14T21:31:24Z",
-        "timestamp_areas_base": "2023-02-14T18:36:39Z",
+        "timestamp_osm_base": "2023-02-14T22:32:09Z",
+        "timestamp_areas_base": "2023-02-14T21:40:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44054,17 +44054,19 @@
             "id": 9530876698,
             "lat": 52.2700203,
             "lon": 20.9831831,
-            "timestamp": "2022-02-23T20:59:57Z",
-            "version": 1,
-            "changeset": 117787447,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-02-14T21:42:20Z",
+            "version": 2,
+            "changeset": 132556016,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-02-14",
                 "defibrillator:location": "Na parterze w holu głównym",
                 "defibrillator:location:en": "On the ground floor in the main hall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Fr 08:00-16:00",
                 "operator": "Urząd Dzielnicy Żoliborz"
             }
@@ -74450,16 +74452,18 @@
             "id": 10127805917,
             "lat": 52.230602,
             "lon": 21.0127452,
-            "timestamp": "2022-10-25T10:02:19Z",
-            "version": 1,
-            "changeset": 128031757,
-            "user": "Pawelsi11",
-            "uid": 12651405,
+            "timestamp": "2023-02-14T21:37:46Z",
+            "version": 2,
+            "changeset": 132555878,
+            "user": "starsep",
+            "uid": 11306447,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-02-14",
                 "defibrillator:location": "W budynku urzędu miasta, na parterze po prawej stronie od wejścia",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -76213,16 +76217,18 @@
             "id": 10199084417,
             "lat": 52.246364,
             "lon": 21.0075991,
-            "timestamp": "2022-11-18T08:42:32Z",
-            "version": 1,
-            "changeset": 129075552,
+            "timestamp": "2023-02-14T21:39:05Z",
+            "version": 2,
+            "changeset": 132555906,
             "user": "starsep",
             "uid": 11306447,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-02-14",
                 "defibrillator:location:pl": "Przy wejściu po lewej stronie na ścianie",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
