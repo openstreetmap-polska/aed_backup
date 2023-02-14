@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-14T18:31:35Z",
-        "timestamp_areas_base": "2023-02-14T07:30:49Z",
+        "timestamp_osm_base": "2023-02-14T19:31:23Z",
+        "timestamp_areas_base": "2023-02-14T18:36:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91097,16 +91097,17 @@
             "id": 10658300605,
             "lat": 54.3868351,
             "lon": 18.4060778,
-            "timestamp": "2023-02-14T16:16:52Z",
-            "version": 1,
-            "changeset": 132544637,
+            "timestamp": "2023-02-14T18:46:14Z",
+            "version": 2,
+            "changeset": 132550305,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy głównym wejściu na teren fabryki Algida",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
