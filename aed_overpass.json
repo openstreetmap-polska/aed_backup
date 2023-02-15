@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-15T12:31:09Z",
+        "timestamp_osm_base": "2023-02-15T13:31:15Z",
         "timestamp_areas_base": "2023-02-15T10:46:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90588,17 +90588,17 @@
         {
             "type": "node",
             "id": 10638876205,
-            "lat": 53.1526991,
-            "lon": 16.6841458,
-            "timestamp": "2023-02-10T13:06:38Z",
-            "version": 1,
-            "changeset": 132358833,
-            "user": "PGRM Biuro",
-            "uid": 18251006,
+            "lat": 53.1530021,
+            "lon": 16.685418,
+            "timestamp": "2023-02-15T12:51:04Z",
+            "version": 2,
+            "changeset": 132580588,
+            "user": "Szymon Kozłowski",
+            "uid": 14850858,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Recepcja - przy wejściu głównym",
-                "defibrillator:location:en": "Reception - at the main entrance",
+                "defibrillator:location": "Budynek Produkcji - Punkt Ochrony (wejście od strony parkingu pracowniczego)",
+                "defibrillator:location:en": "Production Building - Security Point (entrance from the staff car park)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 512715754"
