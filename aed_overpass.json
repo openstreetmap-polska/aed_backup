@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-15T10:31:25Z",
-        "timestamp_areas_base": "2023-02-15T05:44:06Z",
+        "timestamp_osm_base": "2023-02-15T11:32:22Z",
+        "timestamp_areas_base": "2023-02-15T10:46:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51819,13 +51819,14 @@
             "id": 9580210005,
             "lat": 51.9995721,
             "lon": 21.0842255,
-            "timestamp": "2022-03-15T09:55:25Z",
-            "version": 1,
-            "changeset": 118503711,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-02-15T10:36:27Z",
+            "version": 2,
+            "changeset": 132575118,
+            "user": "pomocnysztab",
+            "uid": 14165189,
             "tags": {
-                "access": "yes",
+                "access": "private",
+                "check_date": "2023-02-15",
                 "emergency": "defibrillator",
                 "operator": "OSP Wojciechowice"
             }
@@ -67570,14 +67571,16 @@
             "id": 9901190421,
             "lat": 51.9883257,
             "lon": 21.1997418,
-            "timestamp": "2022-07-21T06:34:57Z",
-            "version": 1,
-            "changeset": 123876799,
+            "timestamp": "2023-02-15T10:34:29Z",
+            "version": 2,
+            "changeset": 132575039,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
+                "defibrillator:location": "recepcja",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:00-21:45",
                 "operator": "OSiR Góra Kalwaria"
             }
         },
@@ -91142,6 +91145,21 @@
                 "operator": "Miasto Jelenia Góra",
                 "source": "survey",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10660984196,
+            "lat": 53.3147884,
+            "lon": 15.6264502,
+            "timestamp": "2023-02-15T10:50:47Z",
+            "version": 1,
+            "changeset": 132575643,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "zarzadca budowy"
             }
         },
         {
