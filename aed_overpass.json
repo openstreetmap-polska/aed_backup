@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-15T09:31:29Z",
+        "timestamp_osm_base": "2023-02-15T10:31:25Z",
         "timestamp_areas_base": "2023-02-15T05:44:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -67362,13 +67362,14 @@
             "id": 9895613617,
             "lat": 51.9809095,
             "lon": 21.219765,
-            "timestamp": "2022-07-18T17:07:55Z",
-            "version": 2,
-            "changeset": 123772595,
+            "timestamp": "2023-02-15T10:31:17Z",
+            "version": 3,
+            "changeset": 132574814,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-02-15",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
@@ -89422,16 +89423,20 @@
             "id": 10594380005,
             "lat": 52.0967339,
             "lon": 21.136552,
-            "timestamp": "2023-01-30T15:28:52Z",
-            "version": 1,
-            "changeset": 131886036,
+            "timestamp": "2023-02-15T10:29:54Z",
+            "version": 3,
+            "changeset": 132574856,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
                 "access": "private",
+                "check_date": "2023-02-15",
                 "defibrillator:location": "Dom Uchodźca - Fundacja Leny Grochowskiej - w  Recepcji",
+                "defibrillator:location:pl": "w recepcji",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Fundacja Leny Grochowskiej"
             }
         },
         {
