@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-15T07:31:40Z",
+        "timestamp_osm_base": "2023-02-15T08:31:25Z",
         "timestamp_areas_base": "2023-02-15T05:44:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91116,6 +91116,27 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10660781107,
+            "lat": 50.8652888,
+            "lon": 15.6809586,
+            "timestamp": "2023-02-15T08:31:12Z",
+            "version": 1,
+            "changeset": 132570257,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku biblioteki",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Miasto Jelenia Góra",
+                "source": "survey",
+                "wheelchair": "yes"
             }
         },
         {
