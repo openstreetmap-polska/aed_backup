@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-16T08:31:17Z",
+        "timestamp_osm_base": "2023-02-16T09:32:10Z",
         "timestamp_areas_base": "2023-02-16T04:58:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91160,6 +91160,25 @@
             "tags": {
                 "emergency": "defibrillator",
                 "operator": "zarzadca budowy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10669131806,
+            "lat": 51.911384,
+            "lon": 17.2430337,
+            "timestamp": "2023-02-16T09:28:21Z",
+            "version": 1,
+            "changeset": 132618665,
+            "user": "DAMIANSTACHU",
+            "uid": 18497992,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "SAMOCHÓD RATOWNICZO - GAŚNICZY 439[P]52",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "+48602834529"
             }
         },
         {
