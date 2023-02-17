@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-17T11:31:43Z",
+        "timestamp_osm_base": "2023-02-17T12:31:40Z",
         "timestamp_areas_base": "2023-02-17T08:12:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -27422,17 +27422,26 @@
             "id": 9460607217,
             "lat": 54.1430397,
             "lon": 15.2892958,
-            "timestamp": "2022-01-30T16:10:52Z",
-            "version": 1,
-            "changeset": 116786831,
-            "user": "Piotr0404",
-            "uid": 14977748,
+            "timestamp": "2023-02-17T12:10:26Z",
+            "version": 2,
+            "changeset": 132672456,
+            "user": "OSP Mrzeżyno",
+            "uid": 18510753,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na przedniej ścianie budynku OSP Mrzeżyno.",
+                "defibrillator:location": "Na przedniej ścianie budynku OSP Mrzeżyno. w kapsule miedzy dwoma bramami wyjazdowymi.",
                 "defibrillator:location:en": "On the front wall OSP Mrzeżyno (fire station).",
+                "description": "Budynek rekizy OSP w Mrzeżynie. Frontowa elewacja budynku, miedzy dwoma bramami wyjazdowymi w kapsule podlaczonej do syreny oraz selektywnego alarmowania strażaków OSP Mrzeżyno",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "image": "https://m.facebook.com/story.php?story_fbid=pfbid02YGyN5HPRXFNrho5tMpnHTX46vKcPpBtShqVL94qi18J5e8WJLiUZD2oexnM88M2Tl&id=280795841996293",
+                "indoor": "no",
+                "location": "outdoor",
+                "name": "Defibrylator AED OSP Mrzeżyno",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Mrzezżynie",
+                "ref": "Trzebiatowska 4",
+                "start_date": "2014",
+                "website": "https://www.facebook.com/OchotniczaStrazPozarnaWMrzezynie"
             }
         },
         {
@@ -90083,13 +90092,13 @@
         {
             "type": "node",
             "id": 10605745364,
-            "lat": 52.8738777,
-            "lon": 20.6122104,
-            "timestamp": "2023-02-10T10:01:57Z",
-            "version": 2,
-            "changeset": 132348961,
-            "user": "mueschel",
-            "uid": 616774,
+            "lat": 52.8737289,
+            "lon": 20.6121755,
+            "timestamp": "2023-02-17T12:05:53Z",
+            "version": 3,
+            "changeset": 132672266,
+            "user": "JerzyUrban",
+            "uid": 12422586,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy stadionie na ul. 3 Maja",
