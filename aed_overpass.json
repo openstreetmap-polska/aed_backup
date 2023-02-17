@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-17T18:31:54Z",
-        "timestamp_areas_base": "2023-02-17T08:12:59Z",
+        "timestamp_osm_base": "2023-02-17T19:31:54Z",
+        "timestamp_areas_base": "2023-02-17T19:18:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91179,6 +91179,54 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Karolewie",
                 "phone": "+48602834529"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10674326732,
+            "lat": 49.3122896,
+            "lon": 19.9719104,
+            "timestamp": "2023-02-17T18:59:43Z",
+            "version": 1,
+            "changeset": 132690535,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-17",
+                "defibrillator:location:en": "In the hall of the PLK S.A. office secretariat.",
+                "defibrillator:location:pl": "W hollu sekretariatu biura PLK S.A.",
+                "description:en": "Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
+                "description:pl": "Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su off",
+                "operator": "PLK S.A.",
+                "phone": "+48 18 20 20 300"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10674411809,
+            "lat": 49.6132364,
+            "lon": 19.552946,
+            "timestamp": "2023-02-17T19:18:32Z",
+            "version": 1,
+            "changeset": 132691157,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-17",
+                "defibrillator:location:en": "In the building of the restaurant and hotel next to the lower station of the Mosorny Groń cableway, the restaurant room, by the entrance door from the cableway side.",
+                "defibrillator:location:pl": "W budynku restauracji i hotelu obok dolnej stacji kolei linowej Mosorny Groń, sala restauracji, przy drzwiach wejściowych od strony kolei linowej.",
+                "description:en": "Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
+                "description:pl": "Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "||\"AED dostępne w godzinach pracy restauracji lub kolei linowej, a także 24/7 dla gości pokoi gościnnych ''Mosorny Goń''.\";",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300"
             }
         },
         {
