@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-17T21:31:53Z",
-        "timestamp_areas_base": "2023-02-17T21:22:38Z",
+        "timestamp_osm_base": "2023-02-17T22:31:38Z",
+        "timestamp_areas_base": "2023-02-17T22:23:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91096,18 +91096,20 @@
             "id": 10656177808,
             "lat": 52.8735044,
             "lon": 15.5364386,
-            "timestamp": "2023-02-13T21:05:28Z",
-            "version": 1,
-            "changeset": 132509162,
+            "timestamp": "2023-02-17T22:31:02Z",
+            "version": 3,
+            "changeset": 132696900,
             "user": "OpalSoPL",
             "uid": 14090289,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-13",
-                "defibrillator:location:pl": "Na ścianie koło wejścia",
+                "defibrillator:location:pl": "Na ścianie obok wejścia",
+                "description": "przenośny",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "0"
+                "level": "0",
+                "opening_hours": "Mo 07:00-17:00; Tu-Th 07:30-15:30; Fr 07:30-13:30; PH off"
             }
         },
         {
@@ -91313,6 +91315,31 @@
         },
         {
             "type": "node",
+            "id": 10674757355,
+            "lat": 49.4188581,
+            "lon": 20.4764326,
+            "timestamp": "2023-02-17T21:32:28Z",
+            "version": 1,
+            "changeset": 132695430,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-02-17",
+                "defibrillator:location:en": "The wheelhouse building of the upper Palenica cableway station.",
+                "defibrillator:location:pl": "Budynek sterówki górnej stacji kolei linowej Palenica.",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/palenica/godziny-otwarcia.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
+                "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/palenica/godziny-otwarcia.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
+            }
+        },
+        {
+            "type": "node",
             "id": 10674765309,
             "lat": 49.4250489,
             "lon": 20.480346,
@@ -91334,6 +91361,25 @@
                 "operator": "Polskie Koleje Linowe S.A.",
                 "phone": "+48 18 20 20 300",
                 "source": "Polskie Koleje Linowe S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10674835605,
+            "lat": 50.8054178,
+            "lon": 18.8502044,
+            "timestamp": "2023-02-17T22:04:41Z",
+            "version": 2,
+            "changeset": 132696218,
+            "user": "Michlax93",
+            "uid": 18515389,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location:en": "Firetruck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Węglowice"
             }
         },
         {
