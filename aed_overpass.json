@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-17T20:31:53Z",
-        "timestamp_areas_base": "2023-02-17T20:22:40Z",
+        "timestamp_osm_base": "2023-02-17T21:31:53Z",
+        "timestamp_areas_base": "2023-02-17T21:22:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91189,23 +91189,24 @@
             "id": 10674326732,
             "lat": 49.3122896,
             "lon": 19.9719104,
-            "timestamp": "2023-02-17T18:59:43Z",
-            "version": 1,
-            "changeset": 132690535,
+            "timestamp": "2023-02-17T20:55:15Z",
+            "version": 2,
+            "changeset": 132694451,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-17",
                 "defibrillator:location:en": "In the hall of the PLK S.A. office secretariat.",
-                "defibrillator:location:pl": "W hollu sekretariatu biura PLK S.A.",
+                "defibrillator:location:pl": "W holu sekretariatu biura PLK S.A.",
                 "description:en": "Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
                 "description:pl": "Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su off",
-                "operator": "PLK S.A.",
-                "phone": "+48 18 20 20 300"
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
             }
         },
         {
@@ -91213,9 +91214,9 @@
             "id": 10674411809,
             "lat": 49.6132364,
             "lon": 19.552946,
-            "timestamp": "2023-02-17T19:38:14Z",
-            "version": 4,
-            "changeset": 132691834,
+            "timestamp": "2023-02-17T21:07:32Z",
+            "version": 5,
+            "changeset": 132694820,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -91230,7 +91231,8 @@
                 "level": "0",
                 "opening_hours": "AED dostępne w godzinach pracy restauracji lub kolei linowej, a także 24/7 dla gości pokoi gościnnych ''Mosorny Goń''.",
                 "operator": "Polskie Koleje Linowe S.A.",
-                "phone": "+48 18 20 20 300"
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
             }
         },
         {
@@ -91238,9 +91240,9 @@
             "id": 10674439458,
             "lat": 49.622537,
             "lon": 19.56347,
-            "timestamp": "2023-02-17T19:38:14Z",
-            "version": 3,
-            "changeset": 132691834,
+            "timestamp": "2023-02-17T21:07:32Z",
+            "version": 4,
+            "changeset": 132694820,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -91248,14 +91250,15 @@
                 "check_date": "2023-02-17",
                 "defibrillator:location:en": "The Mosorny Groń cable car service desk at the upper station (the top of the Mosorny Groń mountain).",
                 "defibrillator:location:pl": "Dyżurka obsługi kolei linowej Mosorny Groń na górnej stacji (szczyt góry Mosorny Groń).",
-                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/mosorny-gron/kolej-linowa-mosorny-gron.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00 .",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/mosorny-gron/kolej-linowa-mosorny-gron.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
                 "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/mosorny-gron/kolej-linowa-mosorny-gron.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "\"Dostępne w godzinach pracy kolei linowej.\"",
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
                 "operator": "Polskie Koleje Linowe S.A.",
-                "phone": "+48 18 20 20 300"
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
             }
         },
         {
@@ -91275,6 +91278,56 @@
                 "defibrillator:location:pl": "Hol stacji pośredniej kolei na Kasprowy Wierch.",
                 "description:en": "1) Opening hours (timetable) https://www.pkl.pl/kasprowy-wierch/kolej-linowa-kasprowy-wierch.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00 .",
                 "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/kasprowy-wierch/kolej-linowa-kasprowy-wierch.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10674633333,
+            "lat": 49.2328953,
+            "lon": 19.9827732,
+            "timestamp": "2023-02-17T20:42:21Z",
+            "version": 1,
+            "changeset": 132694013,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-02-17",
+                "defibrillator:location:en": "At the ticket office in the building of the upper station of the Kasprowy Wierch railway.",
+                "defibrillator:location:pl": "Pomieszczenie biletera w budynek górnej stacji kolei Kasprowy Wierch.",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/kasprowy-wierch/kolej-linowa-kasprowy-wierch.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00 .",
+                "description:pl": "1) Godziny otwarcia (rozkład jazdy)https://www.pkl.pl/kasprowy-wierch/kolej-linowa-kasprowy-wierch.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10674765309,
+            "lat": 49.4250489,
+            "lon": 20.480346,
+            "timestamp": "2023-02-17T21:22:45Z",
+            "version": 1,
+            "changeset": 132695207,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-02-17",
+                "defibrillator:location:en": "The ticket office building at the lower Palenica cable car station.",
+                "defibrillator:location:pl": "Budynek kas przy dolnej stacji kolei linowej Palenica.",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/palenica/godziny-otwarcia.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00.",
+                "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/palenica/godziny-otwarcia.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
