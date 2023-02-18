@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-18T16:31:35Z",
+        "timestamp_osm_base": "2023-02-18T17:31:39Z",
         "timestamp_areas_base": "2023-02-18T15:28:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75889,24 +75889,27 @@
         {
             "type": "node",
             "id": 10189200771,
-            "lat": 49.3064975,
+            "lat": 49.3064972,
             "lon": 19.9327465,
-            "timestamp": "2022-11-16T17:49:50Z",
-            "version": 2,
-            "changeset": 129003828,
+            "timestamp": "2023-02-18T17:10:23Z",
+            "version": 3,
+            "changeset": 132722560,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W budynku stacji górnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "check_date": "2023-02-17",
                 "defibrillator:location:en": "In the building of the upper station of the cable car to Gubałówka, next to the passenger check-in desk.",
-                "description": "Godziny otwarcia: https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html",
+                "defibrillator:location:pl": "W budynku stacji górnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00 .",
+                "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "\"w godzinach otwarcia kolei\"",
-                "operator": "Polskie Koleje Linowe",
-                "phone": "+48 18 20 20 300"
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
             }
         },
         {
@@ -75914,22 +75917,25 @@
             "id": 10189200772,
             "lat": 49.2985176,
             "lon": 19.9454783,
-            "timestamp": "2022-11-16T17:49:50Z",
-            "version": 2,
-            "changeset": 129003828,
+            "timestamp": "2023-02-18T17:01:16Z",
+            "version": 3,
+            "changeset": 132722194,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W budynku stacji dolnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "check_date": "2023-02-17",
                 "defibrillator:location:en": "In the building of the lower station of the cableway to Gubałówka, next to the passenger check-in desk.",
-                "description": "Godziny otwarcia: https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html",
+                "defibrillator:location:pl": "W budynku stacji dolnej kolejki na Gubałówkę, obok stanowiska odprawy pasażerów.",
+                "description:en": "1) Opening hours (timetable) https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html 2) Telephone to the Customer Service Office open 7 days a week 8:00-16:00 .",
+                "description:pl": "1) Godziny otwarcia (rozkład jazdy) https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka.html 2) Telefon do Biura Obsługi Klienta czynny 7 dni w tygodniu 8:00-16:00.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "\"w godzinach otwarcia kolei\"",
-                "operator": "Polskie Koleje Linowe",
-                "phone": "+48 18 20 20 300"
+                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "operator": "Polskie Koleje Linowe S.A.",
+                "phone": "+48 18 20 20 300",
+                "source": "Polskie Koleje Linowe S.A."
             }
         },
         {
