@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-19T19:31:10Z",
-        "timestamp_areas_base": "2023-02-19T15:44:55Z",
+        "timestamp_osm_base": "2023-02-19T20:31:08Z",
+        "timestamp_areas_base": "2023-02-19T19:46:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -8283,23 +8283,6 @@
             "user": "Aim311",
             "uid": 4493657,
             "tags": {
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "Biedronka"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9372773565,
-            "lat": 53.7395556,
-            "lon": 20.4837227,
-            "timestamp": "2022-09-12T18:05:04Z",
-            "version": 3,
-            "changeset": 126101613,
-            "user": "serdelll",
-            "uid": 485927,
-            "tags": {
-                "defibrillator:location": "po remoncie budynku (podobno) przeniesiony do części socjalno-magazynowej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Biedronka"
