@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-20T19:30:42Z",
+        "timestamp_osm_base": "2023-02-20T20:31:39Z",
         "timestamp_areas_base": "2023-02-20T09:55:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7484,16 +7484,19 @@
             "id": 9366885745,
             "lat": 50.5223175,
             "lon": 22.6967375,
-            "timestamp": "2022-12-20T14:21:01Z",
-            "version": 3,
-            "changeset": 130292868,
+            "timestamp": "2023-02-20T19:50:45Z",
+            "version": 4,
+            "changeset": 132805815,
             "user": "Dawid2849",
             "uid": 10642775,
             "tags": {
                 "access": "private",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Black Red White"
+                "operator": "Black Red White",
+                "operator:type": "private",
+                "operator:wikidata": "Q4921546",
+                "operator:wikipedia": "pl:Black Red White"
             }
         },
         {
@@ -48718,17 +48721,29 @@
         {
             "type": "node",
             "id": 9568648817,
-            "lat": 52.1489351,
-            "lon": 21.0456977,
-            "timestamp": "2022-03-10T12:25:50Z",
-            "version": 1,
-            "changeset": 118321630,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 52.148866,
+            "lon": 21.0457738,
+            "timestamp": "2023-02-20T19:58:15Z",
+            "version": 3,
+            "changeset": 132806592,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Defibrylator AED w Urzędzie Dzielnicy Ursynów.",
-                "emergency": "defibrillator"
+                "check_date": "2023-02-20",
+                "defibrillator:location:en": "Inside the building, at the exit from the parking lot.",
+                "defibrillator:location:pl": "Wewnątrz budynku, przy wyjściu od strony parkingu.",
+                "description:en": "In a display case. There is a first aid kit available.",
+                "description:pl": "W gablocie. Na wyposażeniu jest apteczka.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM750.jpg",
+                "indoor": "yes",
+                "manufacturer": "Medtronic",
+                "model": "Lifepak",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-20 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-16:00; Sa,Su off",
+                "phone": "+48 22 443 71 00",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis otwarte dane po warszawsku)"
             }
         },
         {
@@ -61002,25 +61017,6 @@
                 "indoor": "yes",
                 "operator": "Urząd Miejski w Płońsku",
                 "phone": "23-662-13-01"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9687671592,
-            "lat": 52.1487731,
-            "lon": 21.0460433,
-            "timestamp": "2022-04-23T11:32:33Z",
-            "version": 1,
-            "changeset": 120087032,
-            "user": "Cristoffs",
-            "uid": 6765127,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Przy Wejściu Od Strony Parkingu",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "Urząd Miasta Stołecznego Warszawa",
-                "phone": "224437100"
             }
         },
         {
