@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-20T22:31:09Z",
+        "timestamp_osm_base": "2023-02-20T23:32:09Z",
         "timestamp_areas_base": "2023-02-20T22:01:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91572,6 +91572,23 @@
                 "level": "1",
                 "operator": "Powiatowy Zespół Szkół nr 4 w Wejherowie",
                 "start_date": "2022-11-07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10681953005,
+            "lat": 49.8213349,
+            "lon": 20.017756,
+            "timestamp": "2023-02-20T23:11:05Z",
+            "version": 1,
+            "changeset": 132811863,
+            "user": "Nooox22",
+            "uid": 18526476,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie między bramami garażowymi.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
