@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-21T06:31:39Z",
-        "timestamp_areas_base": "2023-02-21T06:09:22Z",
+        "timestamp_osm_base": "2023-02-21T07:31:24Z",
+        "timestamp_areas_base": "2023-02-21T07:09:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -26873,16 +26873,18 @@
             "id": 9459281619,
             "lat": 52.749003,
             "lon": 15.293559,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-02-21T06:48:25Z",
+            "version": 3,
+            "changeset": 132820029,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
+                "check_date": "2023-02-21",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Wawrów"
             }
         },
