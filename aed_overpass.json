@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-21T19:31:24Z",
+        "timestamp_osm_base": "2023-02-21T20:31:09Z",
         "timestamp_areas_base": "2023-02-21T18:15:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73054,19 +73054,27 @@
         {
             "type": "node",
             "id": 10090297343,
-            "lat": 52.2403594,
-            "lon": 20.9878633,
-            "timestamp": "2022-10-10T18:37:38Z",
-            "version": 1,
-            "changeset": 127318525,
-            "user": "starsep",
-            "uid": 11306447,
+            "lat": 52.24032,
+            "lon": 20.9877637,
+            "timestamp": "2023-02-21T19:59:07Z",
+            "version": 2,
+            "changeset": 132851617,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W korytarzu tuż przy szatni na parterze",
+                "defibrillator:location:en": "In the corridor next to the cloakroom on the ground floor.",
+                "defibrillator:location:pl": "W korytarzu tuż przy szatni na parterze.",
                 "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM729.jpg",
+                "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Mo-Su 09:00-19:00"
+                "manufacturer": "Zoll",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 08:00-19:30; Sa 10:00-15:00; Su off",
+                "phone": "+48 22 529 09 42",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
+                "unsigned_ref": "729"
             }
         },
         {
@@ -90397,12 +90405,14 @@
             "id": 10618388859,
             "lat": 53.6277792,
             "lon": 21.8148906,
-            "timestamp": "2023-02-08T11:02:16Z",
-            "version": 1,
-            "changeset": 132249597,
+            "timestamp": "2023-02-21T20:13:07Z",
+            "version": 2,
+            "changeset": 132852029,
             "user": "Mersonia",
             "uid": 18422067,
             "tags": {
+                "access": "yes",
+                "check_date": "2023-02-21",
                 "defibrillator:location": "Stary Ogólniak- główne wejście",
                 "emergency": "defibrillator",
                 "indoor": "no",
@@ -91642,6 +91652,69 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "source": "https://gorzow.tvp.pl/66419140/gmina-santok-przy-wsparciu-firmy-prywatnej-zakupila-defibrylator-aed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10684024304,
+            "lat": 52.2010813,
+            "lon": 20.8579695,
+            "timestamp": "2023-02-21T19:31:47Z",
+            "version": 1,
+            "changeset": 132850537,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location:en": "Hall at the entrance to the building, on the wall.",
+                "defibrillator:location:pl": "Hol przy wejściu do budynku, na ścianie.",
+                "description:en": "AED placed in a display case. Below the AED is a suitcase first aid kit.",
+                "description:pl": "AED umieszczony w gablocie. Poniżej AED umieszczona apteczka walizkowa.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1394.jpg",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "CU Medical Systems",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:30-17:30; Sa,Su off",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
+                "unsigned_ref": "1394"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10684126637,
+            "lat": 53.6219983,
+            "lon": 21.7869675,
+            "timestamp": "2023-02-21T20:21:36Z",
+            "version": 1,
+            "changeset": 132852330,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "defibrillator:location": "Zakład produkcji płyty klejonej i mebli.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Mariusz Klisiatys",
+                "ref": "Budynek drewniany ochrony."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10684136184,
+            "lat": 53.6211664,
+            "lon": 21.7846154,
+            "timestamp": "2023-02-21T20:18:07Z",
+            "version": 1,
+            "changeset": 132852200,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Mariusz Klisiatys",
+                "ref": "na głównym filarze."
             }
         },
         {
