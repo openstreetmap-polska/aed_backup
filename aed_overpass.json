@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-21T05:31:53Z",
-        "timestamp_areas_base": "2023-02-21T05:08:37Z",
+        "timestamp_osm_base": "2023-02-21T06:31:39Z",
+        "timestamp_areas_base": "2023-02-21T06:09:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91589,6 +91589,42 @@
                 "defibrillator:location": "Na ścianie między bramami garażowymi.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10682474826,
+            "lat": 52.7585201,
+            "lon": 15.3498466,
+            "timestamp": "2023-02-21T06:19:08Z",
+            "version": 1,
+            "changeset": 132819189,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02r8PucxEAbLvQdB6sQVGSRNQR7fR3xYmoYThRxUyhxraHLgmX9zyYHaLiLKFoo2RCl&id=100006427811596"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10682474827,
+            "lat": 52.7363716,
+            "lon": 15.4045246,
+            "timestamp": "2023-02-21T06:19:08Z",
+            "version": 1,
+            "changeset": 132819189,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://gorzow.tvp.pl/66419140/gmina-santok-przy-wsparciu-firmy-prywatnej-zakupila-defibrylator-aed"
             }
         },
         {
