@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-21T21:31:54Z",
-        "timestamp_areas_base": "2023-02-21T18:15:23Z",
+        "timestamp_osm_base": "2023-02-21T22:31:26Z",
+        "timestamp_areas_base": "2023-02-21T22:20:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91715,6 +91715,24 @@
                 "indoor": "yes",
                 "operator": "Mariusz Klisiatys",
                 "ref": "na głównym filarze."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10684339905,
+            "lat": 49.302703,
+            "lon": 22.5723854,
+            "timestamp": "2023-02-21T21:56:57Z",
+            "version": 1,
+            "changeset": 132855191,
+            "user": "obywatel",
+            "uid": 2909427,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie OSP",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
