@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-21T13:30:51Z",
+        "timestamp_osm_base": "2023-02-21T14:30:38Z",
         "timestamp_areas_base": "2023-02-21T07:09:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39658,16 +39658,19 @@
             "id": 9516547999,
             "lat": 51.7825595,
             "lon": 21.1886806,
-            "timestamp": "2022-02-18T13:33:33Z",
-            "version": 1,
-            "changeset": 117565523,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-02-21T14:14:00Z",
+            "version": 2,
+            "changeset": 132838276,
+            "user": "pomocnysztab",
+            "uid": 14165189,
             "tags": {
                 "access": "private",
+                "check_date": "2023-02-21",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
+                "defibrillator:location:pl": "w remizie na samochodzie",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Warce"
             }
         },
@@ -67345,14 +67348,15 @@
             "id": 9895613617,
             "lat": 51.9809095,
             "lon": 21.219765,
-            "timestamp": "2023-02-15T10:31:17Z",
-            "version": 3,
-            "changeset": 132574814,
+            "timestamp": "2023-02-21T14:18:10Z",
+            "version": 4,
+            "changeset": 132838344,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
                 "access": "yes",
-                "check_date": "2023-02-15",
+                "check_date": "2023-02-21",
+                "defibrillator:location:pl": "na ścianie budynku za furtką POIK",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
@@ -67362,13 +67366,14 @@
             "id": 9895615717,
             "lat": 51.9873389,
             "lon": 21.1960616,
-            "timestamp": "2022-10-12T17:22:29Z",
-            "version": 2,
-            "changeset": 127429006,
+            "timestamp": "2023-02-21T14:15:28Z",
+            "version": 3,
+            "changeset": 132838276,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
-                "access": "yes",
+                "access": "customers",
+                "check_date": "2023-02-21",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -67412,14 +67417,17 @@
             "id": 9895651508,
             "lat": 51.9855748,
             "lon": 21.2166528,
-            "timestamp": "2022-07-21T06:33:28Z",
-            "version": 2,
-            "changeset": 123876750,
+            "timestamp": "2023-02-21T14:17:23Z",
+            "version": 3,
+            "changeset": 132838344,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-02-21",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -67553,15 +67561,19 @@
             "id": 9901190421,
             "lat": 51.9883257,
             "lon": 21.1997418,
-            "timestamp": "2023-02-15T10:34:29Z",
-            "version": 2,
-            "changeset": 132575039,
+            "timestamp": "2023-02-21T14:15:48Z",
+            "version": 4,
+            "changeset": 132838344,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-02-21",
                 "defibrillator:location": "recepcja",
+                "defibrillator:location:pl": "w recepcji/kasie basenu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Sa 06:00-21:45",
                 "operator": "OSiR Góra Kalwaria"
             }
@@ -77633,16 +77645,19 @@
             "id": 10231143017,
             "lat": 51.9787959,
             "lon": 21.2170631,
-            "timestamp": "2022-12-01T15:56:00Z",
-            "version": 2,
-            "changeset": 129609772,
+            "timestamp": "2023-02-21T14:16:25Z",
+            "version": 3,
+            "changeset": 132838344,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
-                "access": "permit",
+                "access": "private",
+                "check_date": "2023-02-21",
                 "defibrillator:location": "Warsztaty Terapii Zajęciowej na 2 piętrze za drzwiami",
+                "defibrillator:location:pl": "za drzwiami WTZ pod nadzorem",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1"
             }
         },
         {
