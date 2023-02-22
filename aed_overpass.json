@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T15:30:52Z",
+        "timestamp_osm_base": "2023-02-22T16:31:37Z",
         "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53453,12 +53453,14 @@
             "id": 9603087411,
             "lat": 49.6016334,
             "lon": 20.883011,
-            "timestamp": "2023-02-19T15:09:23Z",
-            "version": 2,
-            "changeset": 132752239,
+            "timestamp": "2023-02-22T15:49:45Z",
+            "version": 3,
+            "changeset": 132888373,
             "user": "kwiatek_123",
             "uid": 14519311,
             "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Ptaszkowa"
@@ -91842,6 +91844,24 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Hol Wodnego Centrum Rekreacji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686199605,
+            "lat": 50.7892921,
+            "lon": 19.1003134,
+            "timestamp": "2023-02-22T15:43:35Z",
+            "version": 1,
+            "changeset": 132888127,
+            "user": "Zmiana3CSPSP",
+            "uid": 10472224,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "JRG CS PSP",
+                "defibrillator:location:en": "Fire Rescue Stations Central School of State Fire Service",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
