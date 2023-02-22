@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T13:31:09Z",
+        "timestamp_osm_base": "2023-02-22T14:30:57Z",
         "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -4955,17 +4955,18 @@
             "id": 9036458960,
             "lat": 50.7734594,
             "lon": 20.5764462,
-            "timestamp": "2022-01-29T16:42:55Z",
-            "version": 2,
-            "changeset": 116751888,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-02-22T13:59:48Z",
+            "version": 4,
+            "changeset": 132883527,
+            "user": "Mariusz Pantak",
+            "uid": 18534345,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "access": "yes",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 319T07",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP Wolica"
+                "indoor": "yes",
+                "operator": "OSP Brzeziny"
             }
         },
         {
@@ -91792,6 +91793,40 @@
                 "defibrillator:location": "W torbie medycznej PSP R1 wewnątrz samochodu ratowniczo gaśniczego.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685953805,
+            "lat": 50.6841747,
+            "lon": 17.955245,
+            "timestamp": "2023-02-22T13:55:53Z",
+            "version": 1,
+            "changeset": 132883206,
+            "user": "Juniorstrażak",
+            "uid": 18534362,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na wyposażeniu wozu bojowego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685953806,
+            "lat": 50.6721776,
+            "lon": 17.9687952,
+            "timestamp": "2023-02-22T13:57:33Z",
+            "version": 1,
+            "changeset": 132883206,
+            "user": "Juniorstrażak",
+            "uid": 18534362,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie wejścia do przedszkola",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
