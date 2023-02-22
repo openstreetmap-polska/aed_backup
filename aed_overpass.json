@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T18:30:39Z",
+        "timestamp_osm_base": "2023-02-22T19:31:01Z",
         "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91900,6 +91900,87 @@
                 "defibrillator:location:en": "Volunteer fire station turn on the alarm siren at the entrance to the garage",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686612386,
+            "lat": 52.138653,
+            "lon": 21.050009,
+            "timestamp": "2023-02-22T18:48:07Z",
+            "version": 1,
+            "changeset": 132895183,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permit",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "In the doctor's office no. 56 - tomography.",
+                "defibrillator:location:pl": "W gabinecie nr 56 - tomografia.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1159.jpg",
+                "indoor": "yes",
+                "manufacturer": "HeartSine",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:15-20:30; Sa,Su off",
+                "operator": "SPZOZ Warszawa Ursynów",
+                "phone": "+48 22 649 65 02, +48 22 649 65 05",
+                "ref:api-um-warszawa-pl": "1159",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686612387,
+            "lat": 52.13858,
+            "lon": 21.050077,
+            "timestamp": "2023-02-22T18:48:07Z",
+            "version": 1,
+            "changeset": 132895183,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permit",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "In the doctor's office no. 34.",
+                "defibrillator:location:pl": "W gabinecie nr 34.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1166.jpg",
+                "indoor": "yes",
+                "manufacturer": "HeartSine",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:15-20:30; Sa,Su off",
+                "operator": "SPZOZ Warszawa Ursynów",
+                "phone": "+48 22 649 65 02, +48 22 649 65 05",
+                "ref:api-um-warszawa-pl": "1166",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686642110,
+            "lat": 52.2373136,
+            "lon": 21.1488435,
+            "timestamp": "2023-02-22T19:05:53Z",
+            "version": 1,
+            "changeset": 132895847,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permit",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "In the room of group III.",
+                "defibrillator:location:pl": "W sali grupy III.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1357.jpg",
+                "indoor": "yes",
+                "manufacturer": "CU Medical Systems",
+                "mobile": "+48 723 248 072",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 06:30-17:30; Sa,Su off",
+                "ref:api-um-warszawa-pl": "1357",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
