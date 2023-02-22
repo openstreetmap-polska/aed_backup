@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T10:31:54Z",
-        "timestamp_areas_base": "2023-02-22T09:26:10Z",
+        "timestamp_osm_base": "2023-02-22T11:31:45Z",
+        "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89216,12 +89216,14 @@
             "id": 10586374844,
             "lat": 51.2475737,
             "lon": 22.5667649,
-            "timestamp": "2023-01-27T10:16:49Z",
-            "version": 1,
-            "changeset": 131765907,
-            "user": "mpsujek",
-            "uid": 18345658,
+            "timestamp": "2023-02-22T10:52:13Z",
+            "version": 2,
+            "changeset": 132873297,
+            "user": "Cristoffs",
+            "uid": 6765127,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-02-22",
                 "defibrillator:location": "Punkt Informacji Turystycznej, Parter",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -91753,6 +91755,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Bilcza"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685513705,
+            "lat": 49.5904816,
+            "lon": 22.3876405,
+            "timestamp": "2023-02-22T11:02:56Z",
+            "version": 1,
+            "changeset": 132873725,
+            "user": "JFilik",
+            "uid": 18533657,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W torbie medycznej PSP R1 wewnątrz samochodu ratowniczo gaśniczego.\nW razie potrzeby użycia, uruchomić syrenę alarmową czerwonym przyciskiem na ścianie budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685518205,
+            "lat": 49.5759868,
+            "lon": 22.3686709,
+            "timestamp": "2023-02-22T11:04:12Z",
+            "version": 1,
+            "changeset": 132873725,
+            "user": "JFilik",
+            "uid": 18533657,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W torbie medycznej PSP R1 wewnątrz samochodu ratowniczo gaśniczego.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
