@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T09:31:20Z",
+        "timestamp_osm_base": "2023-02-22T10:31:54Z",
         "timestamp_areas_base": "2023-02-22T09:26:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -4936,16 +4936,17 @@
             "id": 9036458959,
             "lat": 50.7858537,
             "lon": 20.6190949,
-            "timestamp": "2022-01-29T17:05:34Z",
-            "version": 2,
-            "changeset": 116752725,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-02-22T10:24:44Z",
+            "version": 3,
+            "changeset": 132872154,
+            "user": "PepePanDziobak00",
+            "uid": 18533540,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 309T52",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Bilcza"
             }
         },
@@ -91733,6 +91734,25 @@
                 "defibrillator:location:en": "On the wall",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10685410541,
+            "lat": 50.7859711,
+            "lon": 20.6191653,
+            "timestamp": "2023-02-22T10:25:53Z",
+            "version": 1,
+            "changeset": 132872198,
+            "user": "PepePanDziobak00",
+            "uid": 18533540,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy 309T56",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Bilcza"
             }
         },
         {
