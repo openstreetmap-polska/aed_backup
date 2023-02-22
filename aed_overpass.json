@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T17:31:01Z",
+        "timestamp_osm_base": "2023-02-22T18:30:39Z",
         "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91862,6 +91862,42 @@
                 "access": "private",
                 "defibrillator:location": "JRG CS PSP",
                 "defibrillator:location:en": "Fire Rescue Stations Central School of State Fire Service",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686493805,
+            "lat": 51.4189351,
+            "lon": 18.0762597,
+            "timestamp": "2023-02-22T18:00:58Z",
+            "version": 1,
+            "changeset": 132893494,
+            "user": "gryzly1988",
+            "uid": 18535302,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Remiza OSP włączyć syrenę alarmową przy wejściu do garażu",
+                "defibrillator:location:en": "Volunteer fire station turn on the alarm siren at the entrance to the garage",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10686495305,
+            "lat": 51.41843,
+            "lon": 18.0769785,
+            "timestamp": "2023-02-22T18:01:42Z",
+            "version": 1,
+            "changeset": 132893494,
+            "user": "gryzly1988",
+            "uid": 18535302,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie OSP włączyć syrenę alarmową przy wejściu do garażu",
+                "defibrillator:location:en": "Volunteer fire station turn on the alarm siren at the entrance to the garage",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
