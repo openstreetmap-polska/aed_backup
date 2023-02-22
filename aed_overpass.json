@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-22T11:31:45Z",
+        "timestamp_osm_base": "2023-02-22T12:31:26Z",
         "timestamp_areas_base": "2023-02-22T11:27:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -89216,18 +89216,21 @@
             "id": 10586374844,
             "lat": 51.2475737,
             "lon": 22.5667649,
-            "timestamp": "2023-02-22T10:52:13Z",
-            "version": 2,
-            "changeset": 132873297,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-02-22T12:11:46Z",
+            "version": 5,
+            "changeset": 132876660,
+            "user": "LOT Metropolia Lublin",
+            "uid": 18533908,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-22",
-                "defibrillator:location": "Punkt Informacji Turystycznej, Parter",
+                "defibrillator:location": "Centrum Inspiracji Turystycznej, sala główna przy oknie na regale z książkami;dostęp w godzinach pracy Centrum Inspiracji Turystycznej",
+                "defibrillator:location:pl": "W Centrum Inspiracji Turystycznej, w sali głównej na regale z książkami przy środkowym oknie.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Urząd Miasta Lublin"
+                "level": "0",
+                "operator": "Lokalna Organizacja Turystyczna Metropolia Lublin",
+                "phone": "+48 533 39 1569"
             }
         },
         {
