@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-23T08:31:39Z",
+        "timestamp_osm_base": "2023-02-23T09:31:24Z",
         "timestamp_areas_base": "2023-02-23T06:39:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -92122,6 +92122,24 @@
                 "phone": "+48 723 248 051",
                 "ref:api-um-warszawa-pl": "1339",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10687777763,
+            "lat": 52.0015818,
+            "lon": 18.308909,
+            "timestamp": "2023-02-23T09:14:51Z",
+            "version": 1,
+            "changeset": 132915221,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy - uruchomić syrenę aby wezwać Strażaków",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.turek.net.pl/powiat/34597-aed-w-bibiannie-w-ogolnopolskich-bazach-urzadzen"
             }
         },
         {
