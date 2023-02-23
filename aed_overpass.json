@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-23T20:31:33Z",
-        "timestamp_areas_base": "2023-02-23T19:45:54Z",
+        "timestamp_osm_base": "2023-02-23T21:31:34Z",
+        "timestamp_areas_base": "2023-02-23T20:47:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -92790,6 +92790,62 @@
                 "operator": "Stołeczne Centrum Sportu Aktywna Warszawa - Ośrodek Polonia",
                 "phone": "+48 22 16 27 332",
                 "ref:api-um-warszawa-pl": "1279",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10689297004,
+            "lat": 52.2550461,
+            "lon": 21.0078386,
+            "timestamp": "2023-02-23T20:42:17Z",
+            "version": 1,
+            "changeset": 132942799,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "On the wall in the school's main hall.",
+                "defibrillator:location:pl": "Na ścianie w holu głównym szkoły.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM623.jpg",
+                "indoor": "yes",
+                "manufacturer": "Philips",
+                "mobile": "+48 723 248 408",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su off",
+                "operator": "Zespół Szkół Architektoniczno-Budowlanych i Licealnych im. Stanisława Noakowskiego",
+                "phone": "+48 22 831 06 96",
+                "ref:api-um-warszawa-pl": "623",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10689301956,
+            "lat": 52.2512067,
+            "lon": 21.0054183,
+            "timestamp": "2023-02-23T20:49:45Z",
+            "version": 1,
+            "changeset": 132943038,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "The device is located in the CPS building, on the 2nd floor.",
+                "defibrillator:location:pl": "Urządzenie znajduje się w budynku CPS, na 2 piętrze.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM963.jpg",
+                "indoor": "yes",
+                "level": "2",
+                "manufacturer": "Medtronic",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
+                "operator": "Centrum Pomocy Społecznej Dzielnicy Śródmieście im. prof. Andrzeja Tymowskiego",
+                "phone": "+48 22 277 41 00; +48 22 277 41 01; +48 22 628 07 12",
+                "ref:api-um-warszawa-pl": "963",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
