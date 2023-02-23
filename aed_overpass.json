@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-23T10:31:56Z",
+        "timestamp_osm_base": "2023-02-23T11:31:39Z",
         "timestamp_areas_base": "2023-02-23T06:39:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -92140,6 +92140,32 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.turek.net.pl/powiat/34597-aed-w-bibiannie-w-ogolnopolskich-bazach-urzadzen"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10688038614,
+            "lat": 52.240862,
+            "lon": 20.983365,
+            "timestamp": "2023-02-23T11:28:24Z",
+            "version": 1,
+            "changeset": 132921312,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "The AED is located in the secretariat of the XXX High School.",
+                "defibrillator:location:pl": "AED znajduje się w sekretariacie XXX Liceum Ogólnokształcącego.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM825.jpg",
+                "indoor": "yes",
+                "manufacturer": "LIFEPAK CR2",
+                "model": "CR2",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
+                "phone": "+48 22 838 50 82",
+                "ref:api-um-warszawa-pl": "825",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
