@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-24T17:31:24Z",
+        "timestamp_osm_base": "2023-02-24T18:31:22Z",
         "timestamp_areas_base": "2023-02-24T07:54:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -35840,19 +35840,19 @@
             "id": 9495140410,
             "lat": 53.6040242,
             "lon": 15.0124421,
-            "timestamp": "2022-02-24T21:01:08Z",
-            "version": 2,
-            "changeset": 117827722,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-02-24T18:12:29Z",
+            "version": 3,
+            "changeset": 132979409,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
+                "contact:facebook": "https://www.facebook.com/people/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-Osina/100064782126137/",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Ochotnicza Straż Pożarna Osina",
-                "website": "https://www.facebook.com/Ochotnicza-Stra%C5%BC-Po%C5%BCarna-Osina-229851253874947/"
+                "operator": "Ochotnicza Straż Pożarna w Osinie"
             }
         },
         {
@@ -66791,22 +66791,31 @@
         {
             "type": "node",
             "id": 9868094595,
-            "lat": 52.2499736,
-            "lon": 21.011429,
-            "timestamp": "2022-10-27T13:46:14Z",
-            "version": 2,
-            "changeset": 128131133,
-            "user": "ruzka",
-            "uid": 6812164,
+            "lat": 52.2499685,
+            "lon": 21.0114312,
+            "timestamp": "2023-02-24T17:48:32Z",
+            "version": 4,
+            "changeset": 132978674,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "permissive",
-                "defibrillator:location": "Obok kasy biletowej",
+                "access": "customers",
+                "check_date": "2023-02-19",
                 "defibrillator:location:en": "Near the ticket office",
+                "defibrillator:location:pl": "Obok kasy biletowej",
+                "description:en": "On the wall below the AED is a first aid kit in a metal, lockable cabinet.",
+                "description:pl": "Na ścianie poniżej AED znajduje się apteczka w metalowej, zamykanej szafce.",
                 "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1148.jpg",
                 "indoor": "yes",
-                "opening_hours": "Tu-Fr 11:00-18:00; Th,Sa 11:00-20:00; Su 11:00-18:00",
+                "manufacturer": "Samaritan",
+                "model": "PAD 360 P",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo off; Tu, We, Fr 11:00-18:00; Th,Sa 11:00-20:00; Su 11:00-18:00",
                 "operator": "Muzeum Warszawy",
-                "phone": "+48 22 277 43 00"
+                "phone": "+48 22 277 43 00",
+                "ref:api-um-warszawa-pl": "1148",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
@@ -92900,6 +92909,100 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10691345205,
+            "lat": 53.6256696,
+            "lon": 21.8039831,
+            "timestamp": "2023-02-24T17:45:33Z",
+            "version": 2,
+            "changeset": 132978571,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie szczytowej budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Mariusz Klisiatys",
+                "phone": "537182708",
+                "ref": "Szkoła Podstawowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10691349889,
+            "lat": 52.243481,
+            "lon": 20.994553,
+            "timestamp": "2023-02-24T18:00:04Z",
+            "version": 1,
+            "changeset": 132979045,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "In the nurse's office.",
+                "defibrillator:location:pl": "W gabinecie pielęgniarki.",
+                "description:en": "There is a first aid kit on the wall below the AED.",
+                "description:pl": "Na ścianie poniżej AED znajduje się apteczka walizkowa.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1343.jpg",
+                "indoor": "yes",
+                "manufacturer": "CU Medical Systems",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 06:30-17:30; Sa,Su off",
+                "operator": "Żłobek nr 10",
+                "phone": "+48 723 248 023",
+                "ref:api-um-warszawa-pl": "1343",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10691379473,
+            "lat": 54.7356518,
+            "lon": 17.8850646,
+            "timestamp": "2023-02-24T18:15:48Z",
+            "version": 1,
+            "changeset": 132979512,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "http://ospchoczewo.pl/wyposazenie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10691383121,
+            "lat": 52.244957,
+            "lon": 20.99972,
+            "timestamp": "2023-02-24T18:10:39Z",
+            "version": 1,
+            "changeset": 132979367,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "The AED is right in front of the entrance.",
+                "defibrillator:location:pl": "AED znajduje się na wprost od wejścia.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1444.jpg",
+                "indoor": "yes",
+                "manufacturer": "Philips",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
+                "operator": "Warszawskie Centrum Pomocy Rodzinie Stołeczne Centrum Osób Niepełnosprawnych",
+                "ref:api-um-warszawa-pl": "1444",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
