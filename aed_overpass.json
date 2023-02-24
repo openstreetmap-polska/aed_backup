@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-24T12:31:16Z",
+        "timestamp_osm_base": "2023-02-24T13:31:09Z",
         "timestamp_areas_base": "2023-02-24T07:54:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -92847,6 +92847,59 @@
                 "phone": "+48 22 277 41 00; +48 22 277 41 01; +48 22 628 07 12",
                 "ref:api-um-warszawa-pl": "963",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10690655021,
+            "lat": 49.5278411,
+            "lon": 20.8541765,
+            "timestamp": "2023-02-24T12:42:21Z",
+            "version": 1,
+            "changeset": 132965955,
+            "user": "dawidzior55",
+            "uid": 14216702,
+            "tags": {
+                "defibrillator:location": "Wyposażenie wozu strażackiego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Łabowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10690655022,
+            "lat": 49.4968101,
+            "lon": 20.9054724,
+            "timestamp": "2023-02-24T12:42:21Z",
+            "version": 1,
+            "changeset": 132965955,
+            "user": "dawidzior55",
+            "uid": 14216702,
+            "tags": {
+                "defibrillator:location": "Wyposażenie wozu strażackiego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nowa Wieś"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10690661505,
+            "lat": 50.0203896,
+            "lon": 19.8929092,
+            "timestamp": "2023-02-24T12:45:42Z",
+            "version": 1,
+            "changeset": 132966078,
+            "user": "kubahahaha",
+            "uid": 1479852,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-24",
+                "defibrillator:location:en": "On the wall just after you enter building. On the right.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
