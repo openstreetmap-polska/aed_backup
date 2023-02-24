@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-24T22:31:46Z",
+        "timestamp_osm_base": "2023-02-24T23:31:28Z",
         "timestamp_areas_base": "2023-02-24T07:54:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -61840,16 +61840,18 @@
             "id": 9687774789,
             "lat": 53.2596894,
             "lon": 19.3997205,
-            "timestamp": "2022-04-23T11:51:47Z",
-            "version": 1,
-            "changeset": 120087718,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-02-24T22:55:32Z",
+            "version": 2,
+            "changeset": 132987958,
+            "user": "Fiszi37",
+            "uid": 4470325,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Urządzenie Znajduje Się Na Parterze, w Centralnej Części Budynku, Przy Schodach Prowadzących Od Wejścia Na Parter",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo 07:30-15:30, Tu 07:30-16:00, We 07:30-15:30, Th 07:30-15:30, Fr 7:30-15:00; Sa off; Su off; ph off",
+                "operator": "Urząd Miejski w Brodnicy"
             }
         },
         {
