@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T14:31:39Z",
-        "timestamp_areas_base": "2023-02-25T12:11:39Z",
+        "timestamp_osm_base": "2023-02-25T15:31:29Z",
+        "timestamp_areas_base": "2023-02-25T15:12:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -93411,6 +93411,37 @@
         },
         {
             "type": "node",
+            "id": 10692939356,
+            "lat": 52.116209,
+            "lon": 21.0907151,
+            "timestamp": "2023-02-25T14:36:15Z",
+            "version": 1,
+            "changeset": 133007747,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "On the outer wall of the security building.",
+                "defibrillator:location:pl": "Na zewnętrznej ścianie budynku ochrony.",
+                "description:en": "In a white cabinet.",
+                "description:pl": "W białej gablocie.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1262.jpg",
+                "indoor": "no",
+                "level": "0",
+                "manufacturer": "Zoll",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "24/7",
+                "operator": "Park Kultury w Powsinie",
+                "phone": "+48 22 648 48 11 ; +48 22 648 48 12",
+                "ref:api-um-warszawa-pl": "1262",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
             "id": 10692971136,
             "lat": 52.1166444,
             "lon": 21.0914156,
@@ -93436,6 +93467,36 @@
                 "phone": "+48 22 649 45 75",
                 "ref:api-um-warszawa-pl": "1261",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10693109424,
+            "lat": 52.1489365,
+            "lon": 21.041422,
+            "timestamp": "2023-02-25T15:31:06Z",
+            "version": 1,
+            "changeset": 133010115,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "The AED is located in front of the entrance to the hall.",
+                "defibrillator:location:pl": "AED znajduje się na wprost wejścia do hali.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM942.jpg",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Zoll",
+                "model": "AED Plus",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 10:00-22:00; Sa,Su 09:00-19:00",
+                "operator": "Ursynowskie Centrum Sportu i Rekreacji",
+                "phone": "+48 22 644 65 74; +48 22 644 62 46",
+                "ref:api-um-warszawa-pl": "942",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
+                "wheelchair": "yes"
             }
         },
         {
