@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T19:31:54Z",
-        "timestamp_areas_base": "2023-02-25T19:16:37Z",
+        "timestamp_osm_base": "2023-02-25T20:31:42Z",
+        "timestamp_areas_base": "2023-02-25T20:16:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -93788,6 +93788,65 @@
                 "ref:api-um-warszawa-pl": "1123",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10693601158,
+            "lat": 52.2370282,
+            "lon": 20.9604248,
+            "timestamp": "2023-02-25T20:20:15Z",
+            "version": 1,
+            "changeset": 133020830,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Corridor at the entrance, next to the door to the steward's room.",
+                "defibrillator:location:pl": "Korytarz przy wejściu, obok drzwi do pokoju intendenta.",
+                "description:en": "Next to the AED is a suitcase first aid kit.",
+                "description:pl": "Obok AED znajduje się walizkowa apteczka pierwszej pomocy.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1332.jpg",
+                "indoor": "yes",
+                "manufacturer": "CU Medical Systems",
+                "mobile": "+48 723 248 040",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 06:30-17:30; Sa,Su off",
+                "operator": "Żłobek nr 19",
+                "ref:api-um-warszawa-pl": "1332",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10693640794,
+            "lat": 52.23548,
+            "lon": 20.968682,
+            "timestamp": "2023-02-25T20:30:47Z",
+            "version": 1,
+            "changeset": 133021109,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "On the first floor in room no. 15.",
+                "defibrillator:location:pl": "Na I piętrze w pokoju nr 15.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM754.jpg",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "Zoll",
+                "model": "AED Plus",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Th 07:30-15:30; Fr-Su off",
+                "operator": "Terenowy Zespół Obsługi Mieszkańców - Młynów",
+                "phone": "+48 22 495 84 60",
+                "ref:api-um-warszawa-pl": "754",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
