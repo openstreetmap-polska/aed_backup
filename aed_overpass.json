@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T13:31:51Z",
+        "timestamp_osm_base": "2023-02-25T14:31:39Z",
         "timestamp_areas_base": "2023-02-25T12:11:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -93379,6 +93379,63 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "±48 605 252 010"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692938934,
+            "lat": 52.1172156,
+            "lon": 21.0915111,
+            "timestamp": "2023-02-25T14:02:57Z",
+            "version": 1,
+            "changeset": 133006332,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "On the right, behind the main entrance, in the security room.",
+                "defibrillator:location:pl": "Po prawej stronie za wejściem głównym, w pokoju ochrony.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1521.jpg",
+                "indoor": "yes",
+                "manufacturer": "Primedic",
+                "mobile": "+48 506 395 592",
+                "model": "HeartSafe",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off",
+                "operator": "Centrum Edukacji Przyrodniczo-Leśnej",
+                "ref:api-um-warszawa-pl": "1521",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692971136,
+            "lat": 52.1166444,
+            "lon": 21.0914156,
+            "timestamp": "2023-02-25T14:26:57Z",
+            "version": 1,
+            "changeset": 133007379,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Recreation and sports pavilion.",
+                "defibrillator:location:pl": "Pawilon rekreacyjno - sportowy.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1261.jpg",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Zoll",
+                "mobile": "+48 723 245 910",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-19:00",
+                "operator": "Park Kultury w Powsinie",
+                "phone": "+48 22 649 45 75",
+                "ref:api-um-warszawa-pl": "1261",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
