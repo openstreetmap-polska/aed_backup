@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T17:30:09Z",
-        "timestamp_areas_base": "2023-02-25T16:13:04Z",
+        "timestamp_osm_base": "2023-02-25T18:32:06Z",
+        "timestamp_areas_base": "2023-02-25T18:14:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -93759,6 +93759,35 @@
                 "operator": "Żłobek nr 23",
                 "ref:api-um-warszawa-pl": "1349",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10693390319,
+            "lat": 52.2404149,
+            "lon": 20.9643668,
+            "timestamp": "2023-02-25T17:37:22Z",
+            "version": 1,
+            "changeset": 133015742,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Diagnostic and treatment room number 16 on the ground floor.",
+                "defibrillator:location:pl": "Gabinet diagnostyczno-zabiegowy numer 16 na parterze.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1123.jpg",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "Philips",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su off",
+                "operator": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Warszawa Wola-Śródmieście",
+                "phone": "+48 22 299 39 73",
+                "ref:api-um-warszawa-pl": "1123",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
+                "wheelchair": "yes"
             }
         },
         {
