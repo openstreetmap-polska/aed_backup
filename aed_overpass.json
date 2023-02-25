@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T12:31:52Z",
+        "timestamp_osm_base": "2023-02-25T13:31:51Z",
         "timestamp_areas_base": "2023-02-25T12:11:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -93360,6 +93360,25 @@
                 "defibrillator:location:en": "Natpoll Business Center building. First floor, in the Lux Med clinic, behind the entrance door on the left.\nAvailable\nMonday - Friday 7.00 - 20.00\nSaturday 8.00 - 13.00",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692888505,
+            "lat": 52.194932,
+            "lon": 20.9231984,
+            "timestamp": "2023-02-25T13:24:15Z",
+            "version": 1,
+            "changeset": 133004829,
+            "user": "dive-med",
+            "uid": 18547195,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Krańcowa 63/10 mieszkanie",
+                "defibrillator:location:en": "Krańcowa street 63 apt 10",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "±48 605 252 010"
             }
         },
         {
