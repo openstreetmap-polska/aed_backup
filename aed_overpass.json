@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T10:31:24Z",
+        "timestamp_osm_base": "2023-02-25T11:32:09Z",
         "timestamp_areas_base": "2023-02-25T10:10:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -93342,6 +93342,24 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna Zagórze"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692710305,
+            "lat": 52.1467718,
+            "lon": 21.0582719,
+            "timestamp": "2023-02-25T10:54:07Z",
+            "version": 1,
+            "changeset": 133000159,
+            "user": "rubeus",
+            "uid": 395470,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Natpoll Busines Center. I piętro, na terenie przychodni Lux Med, za drzwiami wejściowymi po lewej stronie.\nDostępny \nponiedziałek - piątek 7.00 - 20.00 \nsobota 8.00 - 13.00",
+                "defibrillator:location:en": "Natpoll Business Center building. First floor, in the Lux Med clinic, behind the entrance door on the left.\nAvailable\nMonday - Friday 7.00 - 20.00\nSaturday 8.00 - 13.00",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
