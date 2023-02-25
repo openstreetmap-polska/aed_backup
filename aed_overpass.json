@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-25T08:31:53Z",
-        "timestamp_areas_base": "2023-02-25T08:08:24Z",
+        "timestamp_osm_base": "2023-02-25T09:31:38Z",
+        "timestamp_areas_base": "2023-02-25T09:09:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -93323,6 +93323,25 @@
                 "phone": "+48 22 620 33 63",
                 "ref:api-um-warszawa-pl": "1127",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10692552806,
+            "lat": 50.0941226,
+            "lon": 19.4008466,
+            "timestamp": "2023-02-25T08:37:52Z",
+            "version": 1,
+            "changeset": 132996316,
+            "user": "Adam_Piszczek",
+            "uid": 2027953,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na fasadzie remizy.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Zagórze"
             }
         },
         {
