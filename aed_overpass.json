@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-27T17:30:39Z",
+        "timestamp_osm_base": "2023-02-27T18:31:24Z",
         "timestamp_areas_base": "2023-02-27T12:41:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -94825,6 +94825,63 @@
                 "emergency:phone": "695320396",
                 "indoor": "yes",
                 "phone": "+48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10697638961,
+            "lat": 52.236111,
+            "lon": 20.944754,
+            "timestamp": "2023-02-27T18:14:45Z",
+            "version": 1,
+            "changeset": 133098739,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Right recess into the building, left door, corridor by the stairs to group I.",
+                "defibrillator:location:pl": "Prawa wnęka do budynku, drzwi lewe, korytarz przy schodach do grupy I.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1340.jpg",
+                "indoor": "yes",
+                "manufacturer": "CU Medical Systems",
+                "mobile": "+48 723 248 041",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-17:30; Sa,Su off",
+                "operator": "Żłobek nr 28",
+                "ref:api-um-warszawa-pl": "1340",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10697704510,
+            "lat": 52.2346798,
+            "lon": 20.942593,
+            "timestamp": "2023-02-27T18:21:46Z",
+            "version": 1,
+            "changeset": 133098930,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Cloakroom in the main hall of the swimming pool.",
+                "defibrillator:location:pl": "Szatnia w holu głównym pływalni.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM726.jpg",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Zoll",
+                "model": "AED Plus",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
+                "operator": "OSiR Wola",
+                "phone": "+48 22 877 21 25",
+                "ref:api-um-warszawa-pl": "726",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
