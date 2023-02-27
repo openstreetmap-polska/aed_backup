@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-27T08:32:05Z",
+        "timestamp_osm_base": "2023-02-27T09:33:54Z",
         "timestamp_areas_base": "2023-02-27T07:37:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -94778,6 +94778,43 @@
                 "phone": "+48 22 299 10 54",
                 "ref:api-um-warszawa-pl": "1105",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10696558247,
+            "lat": 54.0399703,
+            "lon": 22.5011844,
+            "timestamp": "2023-02-27T08:42:40Z",
+            "version": 1,
+            "changeset": 133076760,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Warsztat Terapi Zajęciowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://gazetaolsztynska.pl/olecko/911490,Kolejny-defibrylator-w-Olecku-juz-dostepny.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10696562522,
+            "lat": 54.0389824,
+            "lon": 22.5001471,
+            "timestamp": "2023-02-27T08:52:22Z",
+            "version": 2,
+            "changeset": 133077143,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie po prawej stronie wejścia do przychodni",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://gazetaolsztynska.pl/olecko/911490,Kolejny-defibrylator-w-Olecku-juz-dostepny.html"
             }
         },
         {
