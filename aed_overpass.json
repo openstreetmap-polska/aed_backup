@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-28T06:32:13Z",
-        "timestamp_areas_base": "2023-02-28T04:50:53Z",
+        "timestamp_osm_base": "2023-02-28T07:32:02Z",
+        "timestamp_areas_base": "2023-02-28T06:52:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95079,6 +95079,24 @@
                 "operator": "Żłobek nr 40",
                 "ref:api-um-warszawa-pl": "1410",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10698849736,
+            "lat": 53.2102042,
+            "lon": 20.8762555,
+            "timestamp": "2023-02-28T07:22:43Z",
+            "version": 1,
+            "changeset": 133115874,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lekki samochód rozpoznawczo-ratowniczy Nissan Navara",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/strazacy-z-rycic-odkladali-ekwiwalent-za-udzial-w-akcjach-ratowniczych-uzbierana-sume-dolozyli-do-nowego-samochodu/"
             }
         },
         {
