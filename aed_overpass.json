@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-28T17:31:00Z",
+        "timestamp_osm_base": "2023-02-28T18:31:35Z",
         "timestamp_areas_base": "2023-02-28T07:53:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95136,6 +95136,25 @@
                 "opening_hours": "Mo-Fr 08:00-15:00",
                 "operator": "Sąd Rejonowy we Włodawie",
                 "survey:date": "2023-02-28"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10700147405,
+            "lat": 52.2568663,
+            "lon": 20.9832181,
+            "timestamp": "2023-02-28T18:27:09Z",
+            "version": 1,
+            "changeset": 133141172,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-02-28",
+                "defibrillator:location:en": "Column near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
