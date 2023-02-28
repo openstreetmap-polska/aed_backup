@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-28T11:31:54Z",
+        "timestamp_osm_base": "2023-02-28T12:32:39Z",
         "timestamp_areas_base": "2023-02-28T07:53:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -42331,25 +42331,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "1"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9529269866,
-            "lat": 51.11259,
-            "lon": 17.0591463,
-            "timestamp": "2022-02-23T09:08:12Z",
-            "version": 1,
-            "changeset": 117759651,
-            "user": "Mordechai23",
-            "uid": 8826419,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Multikino",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "level": "2",
-                "opening_hours": "Mo-Su 08:00-23:00"
             }
         },
         {
@@ -95116,6 +95097,24 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://info.kanal6.pl/2022/07/25/defibrylator-dla-slupska/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10699346379,
+            "lat": 52.2517561,
+            "lon": 21.1096471,
+            "timestamp": "2023-02-28T12:03:48Z",
+            "version": 1,
+            "changeset": 133125723,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy recepcji po lewej stronie od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "PKP Intercity S.A."
             }
         },
         {
