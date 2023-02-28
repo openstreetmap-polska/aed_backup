@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-28T15:31:38Z",
+        "timestamp_osm_base": "2023-02-28T16:31:23Z",
         "timestamp_areas_base": "2023-02-28T07:53:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95115,6 +95115,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "PKP Intercity S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10699731602,
+            "lat": 51.54523,
+            "lon": 23.5561073,
+            "timestamp": "2023-02-28T15:33:21Z",
+            "version": 2,
+            "changeset": 133133927,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Na parterze, na lewo od wejścia.",
+                "defibrillator:location:en": "On the first floor, on the left of the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-15:00",
+                "operator": "Sąd Rejonowy we Włodawie",
+                "survey:date": "2023-02-28"
             }
         },
         {
