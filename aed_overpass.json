@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-02-28T07:32:02Z",
-        "timestamp_areas_base": "2023-02-28T06:52:37Z",
+        "timestamp_osm_base": "2023-02-28T08:31:50Z",
+        "timestamp_areas_base": "2023-02-28T07:53:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95097,6 +95097,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.infoprzasnysz.com/strazacy-z-rycic-odkladali-ekwiwalent-za-udzial-w-akcjach-ratowniczych-uzbierana-sume-dolozyli-do-nowego-samochodu/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10698936804,
+            "lat": 54.4683916,
+            "lon": 17.0315587,
+            "timestamp": "2023-02-28T08:14:53Z",
+            "version": 1,
+            "changeset": 133117571,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do biblioteki",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://info.kanal6.pl/2022/07/25/defibrylator-dla-slupska/"
             }
         },
         {
