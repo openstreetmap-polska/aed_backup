@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T18:32:09Z",
+        "timestamp_osm_base": "2023-03-01T19:31:13Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24693,17 +24693,21 @@
             "id": 9450896098,
             "lat": 52.2368626,
             "lon": 21.0167779,
-            "timestamp": "2022-02-26T21:51:58Z",
-            "version": 2,
-            "changeset": 117892931,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2023-03-01T19:28:23Z",
+            "version": 12,
+            "changeset": 133185247,
+            "user": "MatisiekPL",
+            "uid": 4375031,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na peronie stacji metra Nowy Świat-Uniwersytet",
+                "defibrillator:location:pl": "Na peronie stacji metra Nowy Świat-Uniwersytet",
                 "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes",
-                "location": "indoor"
+                "opening_hours": "",
+                "operator": "",
+                "phone": "",
+                "source": "aedmap"
             }
         },
         {
@@ -95209,6 +95213,28 @@
             "timestamp": "2023-03-01T18:31:30Z",
             "version": 1,
             "changeset": 133183292,
+            "user": "MatisiekPL",
+            "uid": 4375031,
+            "tags": {
+                "access": "",
+                "defibrillator:location:en": "",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": "",
+                "source": "aedmap"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10702570906,
+            "lat": 52.2474184,
+            "lon": 21.02362,
+            "timestamp": "2023-03-01T18:36:22Z",
+            "version": 1,
+            "changeset": 133183444,
             "user": "MatisiekPL",
             "uid": 4375031,
             "tags": {
