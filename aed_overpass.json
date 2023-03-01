@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T06:31:54Z",
+        "timestamp_osm_base": "2023-03-01T07:31:53Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36487,18 +36487,19 @@
         {
             "type": "node",
             "id": 9496201408,
-            "lat": 53.6149051,
-            "lon": 20.3420078,
-            "timestamp": "2022-02-24T12:28:10Z",
-            "version": 2,
-            "changeset": 117810420,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 53.6149299,
+            "lon": 20.3420765,
+            "timestamp": "2023-03-01T06:56:55Z",
+            "version": 4,
+            "changeset": 133158585,
+            "user": "Jarosław Świdyński",
+            "uid": 2412634,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "access": "yes",
+                "defibrillator:location": "Ściana budynku",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "OSP Gryźliny"
             }
         },
