@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T15:31:09Z",
+        "timestamp_osm_base": "2023-03-01T16:31:42Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95181,6 +95181,24 @@
                 "indoor": "yes",
                 "operator": "Lubelski Urząd Wojewódzki w Lublinie Delegatura w Chełmie",
                 "ref": "Tel: (82) 562-76-00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10702201906,
+            "lat": 52.0811003,
+            "lon": 21.1518028,
+            "timestamp": "2023-03-01T15:59:06Z",
+            "version": 1,
+            "changeset": 133177996,
+            "user": "pwojdyna",
+            "uid": 14488653,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-01",
+                "defibrillator:location:pl": "Na ścianie przy wejściu.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
