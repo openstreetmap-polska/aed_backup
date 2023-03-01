@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T17:31:55Z",
+        "timestamp_osm_base": "2023-03-01T18:32:09Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91755,9 +91755,9 @@
             "id": 10684024304,
             "lat": 52.2010364,
             "lon": 20.8579492,
-            "timestamp": "2023-02-27T19:54:05Z",
-            "version": 5,
-            "changeset": 133102001,
+            "timestamp": "2023-03-01T18:23:25Z",
+            "version": 6,
+            "changeset": 133183038,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -91776,7 +91776,7 @@
                 "model": "iPAD CU-SP1",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
                 "opening_hours": "Mo-Fr 07:30-17:30; Sa,Su off",
-                "operator": "Żłobek nr 79",
+                "operator": "Żłobek nr 72.",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)",
                 "unsigned_ref": "1394"
             }
@@ -95199,6 +95199,28 @@
                 "defibrillator:location:pl": "Na ścianie przy wejściu.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10702544508,
+            "lat": 52.1858016,
+            "lon": 20.6925245,
+            "timestamp": "2023-03-01T18:31:30Z",
+            "version": 1,
+            "changeset": 133183292,
+            "user": "MatisiekPL",
+            "uid": 4375031,
+            "tags": {
+                "access": "",
+                "defibrillator:location:en": "",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": "",
+                "source": "aedmap"
             }
         },
         {
