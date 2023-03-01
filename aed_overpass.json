@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T13:31:20Z",
+        "timestamp_osm_base": "2023-03-01T14:31:22Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7531,21 +7531,6 @@
                 "fixme": "lokalizacja",
                 "indoor": "yes",
                 "operator": "Biedronka"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9366885748,
-            "lat": 51.1438036,
-            "lon": 23.4742677,
-            "timestamp": "2021-12-26T11:31:52Z",
-            "version": 1,
-            "changeset": 115383120,
-            "user": "charl3s",
-            "uid": 8019013,
-            "tags": {
-                "emergency": "defibrillator",
-                "fixme": "lokalizacja"
             }
         },
         {
@@ -95183,9 +95168,9 @@
             "id": 10701851305,
             "lat": 51.1332712,
             "lon": 23.4943045,
-            "timestamp": "2023-03-01T12:48:30Z",
-            "version": 1,
-            "changeset": 133170713,
+            "timestamp": "2023-03-01T13:34:43Z",
+            "version": 3,
+            "changeset": 133172447,
             "user": "mati262",
             "uid": 1012128,
             "tags": {
@@ -95193,7 +95178,9 @@
                 "defibrillator:location": "Po prawej stronie przy schodach wewnętrznych za pomieszczeniem portiera. Budynek zamykany z całodobowym dyżurem.",
                 "defibrillator:location:en": "On the wall, turning right after entrance, next to the porter's room and stairs",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Lubelski Urząd Wojewódzki w Lublinie Delegatura w Chełmie",
+                "ref": "Tel: (82) 562-76-00"
             }
         },
         {
