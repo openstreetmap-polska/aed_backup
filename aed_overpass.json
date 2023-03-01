@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T09:31:38Z",
+        "timestamp_osm_base": "2023-03-01T10:32:07Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95156,6 +95156,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10701495505,
+            "lat": 52.0586534,
+            "lon": 16.157299,
+            "timestamp": "2023-03-01T10:25:04Z",
+            "version": 1,
+            "changeset": 133165347,
+            "user": "Przemysław Mielcarek",
+            "uid": 18575906,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-03-01",
+                "defibrillator:location:pl": "Remiza OSP WRONIAWY",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "667182228"
             }
         },
         {
