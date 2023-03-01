@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-01T12:31:39Z",
+        "timestamp_osm_base": "2023-03-01T13:31:20Z",
         "timestamp_areas_base": "2023-03-01T06:06:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95176,6 +95176,24 @@
                 "indoor": "yes",
                 "level": "0",
                 "phone": "667182228"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10701851305,
+            "lat": 51.1332712,
+            "lon": 23.4943045,
+            "timestamp": "2023-03-01T12:48:30Z",
+            "version": 1,
+            "changeset": 133170713,
+            "user": "mati262",
+            "uid": 1012128,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie przy schodach wewnętrznych za pomieszczeniem portiera. Budynek zamykany z całodobowym dyżurem.",
+                "defibrillator:location:en": "On the wall, turning right after entrance, next to the porter's room and stairs",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
