@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T10:31:07Z",
+        "timestamp_osm_base": "2023-03-02T11:30:35Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95287,25 +95287,6 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Pisarowce"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10703920205,
-            "lat": 50.433553,
-            "lon": 16.6614344,
-            "timestamp": "2023-03-02T09:11:37Z",
-            "version": 1,
-            "changeset": 133202846,
-            "user": "Starostwo Powiatowe w Kłodzku",
-            "uid": 18586635,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Parter, po lewej stronie od wejścia B (z windą), obok Punktu Podawczego",
-                "defibrillator:location:en": "Ground floor, on the left side of entrance B (with an elevator), next to customer service office",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "74 865 75 23"
             }
         },
         {
