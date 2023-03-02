@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T13:31:54Z",
+        "timestamp_osm_base": "2023-03-02T14:31:34Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95346,6 +95346,106 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://lukow.tv/artykul/gmina-kupila-defibrylator/968720"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704395501,
+            "lat": 50.0988254,
+            "lon": 18.5397048,
+            "timestamp": "2023-03-02T13:41:57Z",
+            "version": 1,
+            "changeset": 133212584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia budynku Filii w Rybniku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Ekonomiczy w Katowicach",
+                "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704395502,
+            "lat": 50.2535756,
+            "lon": 19.0030712,
+            "timestamp": "2023-03-02T13:41:57Z",
+            "version": 1,
+            "changeset": 133212584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia budynku N",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Ekonomiczy w Katowicach",
+                "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704395503,
+            "lat": 50.2603834,
+            "lon": 19.0452565,
+            "timestamp": "2023-03-02T13:41:57Z",
+            "version": 1,
+            "changeset": 133212584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia budynku CNTI",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Ekonomiczy w Katowicach",
+                "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704395504,
+            "lat": 50.2593573,
+            "lon": 19.0457159,
+            "timestamp": "2023-03-02T13:41:57Z",
+            "version": 1,
+            "changeset": 133212584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia budynku C",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "operator": "Uniwersytet Ekonomiczy w Katowicach",
+                "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704414405,
+            "lat": 50.2593369,
+            "lon": 19.0445073,
+            "timestamp": "2023-03-02T13:41:57Z",
+            "version": 1,
+            "changeset": 133212584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia budynku A",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Uniwersytet Ekonomiczy w Katowicach",
+                "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
             }
         },
         {
