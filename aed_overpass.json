@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T12:32:21Z",
+        "timestamp_osm_base": "2023-03-02T13:31:54Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95327,6 +95327,25 @@
                 "operator": "",
                 "phone": "",
                 "source": "aedmap"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704383158,
+            "lat": 51.8593767,
+            "lon": 22.0649182,
+            "timestamp": "2023-03-02T13:23:12Z",
+            "version": 1,
+            "changeset": 133211981,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie wejścia do przychodni",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://lukow.tv/artykul/gmina-kupila-defibrylator/968720"
             }
         },
         {
