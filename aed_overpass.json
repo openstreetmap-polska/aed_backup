@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T14:31:34Z",
+        "timestamp_osm_base": "2023-03-02T15:32:16Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24693,21 +24693,17 @@
             "id": 9450896098,
             "lat": 52.2368626,
             "lon": 21.0167779,
-            "timestamp": "2023-03-01T19:28:23Z",
-            "version": 12,
-            "changeset": 133185247,
-            "user": "MatisiekPL",
-            "uid": 4375031,
+            "timestamp": "2023-03-02T15:15:21Z",
+            "version": 13,
+            "changeset": 133216275,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "yes",
-                "defibrillator:location:pl": "Na peronie stacji metra Nowy Świat-Uniwersytet",
+                "defibrillator:location": "Na peronie stacji metra Nowy Świat-Uniwersytet",
                 "emergency": "defibrillator",
-                "image": "",
                 "indoor": "yes",
-                "opening_hours": "",
-                "operator": "",
-                "phone": "",
-                "source": "aedmap"
+                "location": "indoor"
             }
         },
         {
@@ -95203,72 +95199,6 @@
                 "defibrillator:location:pl": "Na ścianie przy wejściu.",
                 "emergency": "defibrillator",
                 "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10702544508,
-            "lat": 52.1858016,
-            "lon": 20.6925245,
-            "timestamp": "2023-03-01T18:31:30Z",
-            "version": 1,
-            "changeset": 133183292,
-            "user": "MatisiekPL",
-            "uid": 4375031,
-            "tags": {
-                "access": "",
-                "defibrillator:location:en": "",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "",
-                "phone": "",
-                "source": "aedmap"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10702570906,
-            "lat": 52.2474184,
-            "lon": 21.02362,
-            "timestamp": "2023-03-01T18:36:22Z",
-            "version": 1,
-            "changeset": 133183444,
-            "user": "MatisiekPL",
-            "uid": 4375031,
-            "tags": {
-                "access": "",
-                "defibrillator:location:en": "",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "",
-                "phone": "",
-                "source": "aedmap"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10702897506,
-            "lat": 50.0789927,
-            "lon": 19.9096084,
-            "timestamp": "2023-03-01T21:39:09Z",
-            "version": 1,
-            "changeset": 133188926,
-            "user": "MatisiekPL",
-            "uid": 4375031,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "",
-                "phone": "",
-                "source": "aedmap"
             }
         },
         {
