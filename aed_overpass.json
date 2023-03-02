@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T08:31:50Z",
+        "timestamp_osm_base": "2023-03-02T09:31:34Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95265,6 +95265,83 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": "",
+                "source": "aedmap"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10703903349,
+            "lat": 49.5587704,
+            "lon": 22.0956282,
+            "timestamp": "2023-03-02T09:04:18Z",
+            "version": 1,
+            "changeset": 133202635,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Pisarowce"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10703920205,
+            "lat": 50.433553,
+            "lon": 16.6614344,
+            "timestamp": "2023-03-02T09:11:37Z",
+            "version": 1,
+            "changeset": 133202846,
+            "user": "Starostwo Powiatowe w Kłodzku",
+            "uid": 18586635,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, po lewej stronie od wejścia B (z windą), obok Punktu Podawczego",
+                "defibrillator:location:en": "Ground floor, on the left side of entrance B (with an elevator), next to customer service office",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "74 865 75 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10703939306,
+            "lat": 52.0736095,
+            "lon": 21.0132081,
+            "timestamp": "2023-03-02T09:25:35Z",
+            "version": 2,
+            "changeset": 133203338,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "u Ochroniarza Centrum Multimedialnego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Biblioteka Publiczna Piaseczno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10703949405,
+            "lat": 53.5561846,
+            "lon": 14.840336,
+            "timestamp": "2023-03-02T09:30:28Z",
+            "version": 1,
+            "changeset": 133203498,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
                 "opening_hours": "",
                 "operator": "",
                 "phone": "",
