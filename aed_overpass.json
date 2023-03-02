@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-02T16:31:09Z",
+        "timestamp_osm_base": "2023-03-02T17:31:39Z",
         "timestamp_areas_base": "2023-03-02T05:22:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95376,6 +95376,25 @@
                 "level": "0",
                 "operator": "Uniwersytet Ekonomiczy w Katowicach",
                 "source": "https://www.eska.pl/slaskie/w-uniwersytecie-ekonomicznym-w-katowicach-pojawily-sie-defibrylatory-aed-sluzace-do-reanimacji-aa-52BR-VhCV-7qwN.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10704823605,
+            "lat": 49.7881476,
+            "lon": 21.9854161,
+            "timestamp": "2023-03-02T16:57:48Z",
+            "version": 1,
+            "changeset": 133220490,
+            "user": "OSP Domaradz-Góra",
+            "uid": 18591920,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-02",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy. \nW razie konieczności użycia uruchomić syrenę alarmową.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
             }
         },
         {
