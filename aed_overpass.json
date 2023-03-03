@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-03T08:31:54Z",
+        "timestamp_osm_base": "2023-03-03T09:31:37Z",
         "timestamp_areas_base": "2023-03-03T04:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95400,11 +95400,11 @@
         {
             "type": "node",
             "id": 10705934805,
-            "lat": 50.4335633,
-            "lon": 16.6614128,
-            "timestamp": "2023-03-03T06:56:11Z",
-            "version": 1,
-            "changeset": 133238125,
+            "lat": 50.4335912,
+            "lon": 16.6615068,
+            "timestamp": "2023-03-03T08:52:52Z",
+            "version": 2,
+            "changeset": 133241752,
             "user": "Starostwo Powiatowe w Kłodzku",
             "uid": 18586635,
             "tags": {
@@ -95412,6 +95412,7 @@
                 "defibrillator:location": "Starostwo Powiatowe w Kłodzku ul. Wyspiańskiego 2K - parter, po lewej stronie od wejścia B (z windą)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Starostwo Powiatowe w Kłodzku",
                 "phone": "74 865 75 23"
             }
         },
