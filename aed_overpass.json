@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-03T10:31:38Z",
+        "timestamp_osm_base": "2023-03-03T11:31:38Z",
         "timestamp_areas_base": "2023-03-03T04:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95235,28 +95235,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Biblioteka Publiczna Piaseczno"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10703949405,
-            "lat": 53.5561846,
-            "lon": 14.840336,
-            "timestamp": "2023-03-02T09:30:28Z",
-            "version": 1,
-            "changeset": 133203498,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "",
-                "phone": "",
-                "source": "aedmap"
             }
         },
         {
