@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-04T08:31:23Z",
+        "timestamp_osm_base": "2023-03-04T09:31:07Z",
         "timestamp_areas_base": "2023-03-04T07:53:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95392,6 +95392,44 @@
                 "indoor": "yes",
                 "operator": "Starostwo Powiatowe w Kłodzku",
                 "phone": "74 865 75 23"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10708968109,
+            "lat": 53.7552098,
+            "lon": 19.2035559,
+            "timestamp": "2023-03-04T09:14:03Z",
+            "version": 1,
+            "changeset": 133281704,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu po lewej stronie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://kwidzyn.naszemiasto.pl/dwa-defibrylatory-aed-w-prabutach-sprzet-zamontowano-na/ar/c1-9231613"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10708968114,
+            "lat": 53.7573137,
+            "lon": 19.1980198,
+            "timestamp": "2023-03-04T09:14:03Z",
+            "version": 1,
+            "changeset": 133281704,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Wydziału Podatki, Opłaty Lokalne i Zwrot podatku Akcyzowego KASA",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://kwidzyn.naszemiasto.pl/dwa-defibrylatory-aed-w-prabutach-sprzet-zamontowano-na/ar/c1-9231613"
             }
         },
         {
