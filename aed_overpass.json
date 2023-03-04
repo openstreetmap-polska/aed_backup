@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-04T18:31:39Z",
+        "timestamp_osm_base": "2023-03-04T19:31:39Z",
         "timestamp_areas_base": "2023-03-04T10:55:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95537,6 +95537,24 @@
                 "defibrillator:location": "Na ścianie",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10710767951,
+            "lat": 50.4945588,
+            "lon": 17.4764333,
+            "timestamp": "2023-03-04T19:26:47Z",
+            "version": 1,
+            "changeset": 133303582,
+            "user": "pio2_122",
+            "uid": 3214275,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wewnątrz budynku OSP. W razie potrzeby użycia, włączyć syrenę alarmową.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Mańkowicach"
             }
         },
         {
