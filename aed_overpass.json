@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-04T16:30:53Z",
+        "timestamp_osm_base": "2023-03-04T17:31:43Z",
         "timestamp_areas_base": "2023-03-04T10:55:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95501,6 +95501,40 @@
                 "access": "yes",
                 "check_date": "2023-03-04",
                 "defibrillator:location:en": "On the wall near fire department front gate.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10709913106,
+            "lat": 53.9222092,
+            "lon": 19.3481372,
+            "timestamp": "2023-03-04T16:50:27Z",
+            "version": 1,
+            "changeset": 133298143,
+            "user": "Maciej82",
+            "uid": 18612770,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Remiza OSP, na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10709918005,
+            "lat": 53.9186856,
+            "lon": 19.3481058,
+            "timestamp": "2023-03-04T16:49:30Z",
+            "version": 1,
+            "changeset": 133298143,
+            "user": "Maciej82",
+            "uid": 18612770,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
