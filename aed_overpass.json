@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-04T09:31:07Z",
+        "timestamp_osm_base": "2023-03-04T10:32:08Z",
         "timestamp_areas_base": "2023-03-04T07:53:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86846,11 +86846,11 @@
         {
             "type": "node",
             "id": 10557729268,
-            "lat": 51.8938164,
-            "lon": 17.7808756,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "lat": 51.8938214,
+            "lon": 17.7807793,
+            "timestamp": "2023-03-04T10:08:55Z",
+            "version": 2,
+            "changeset": 133283288,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -95396,6 +95396,25 @@
         },
         {
             "type": "node",
+            "id": 10708866903,
+            "lat": 51.7528065,
+            "lon": 19.2095494,
+            "timestamp": "2023-03-04T09:42:05Z",
+            "version": 1,
+            "changeset": 133282482,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Lutomiersku",
+                "source": "https://lodz.se.pl/makabryczna-smierc-23-latka-jego-cialo-znalezli-nastolatkowie-aa-xKJK-sBVD-DreF.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 10708968109,
             "lat": 53.7552098,
             "lon": 19.2035559,
@@ -95430,6 +95449,24 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://kwidzyn.naszemiasto.pl/dwa-defibrylatory-aed-w-prabutach-sprzet-zamontowano-na/ar/c1-9231613"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10708984202,
+            "lat": 52.7942695,
+            "lon": 17.1977912,
+            "timestamp": "2023-03-04T09:39:45Z",
+            "version": 1,
+            "changeset": 133282413,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Komendzie Policji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.msn.com/pl-pl/wiadomosci/polska/defibrylator-aed-w-komendzie-policji-w-wągrowcu/ar-AA18aaTq"
             }
         },
         {
