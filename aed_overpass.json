@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-04T12:31:39Z",
+        "timestamp_osm_base": "2023-03-04T13:31:24Z",
         "timestamp_areas_base": "2023-03-04T10:55:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95467,6 +95467,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.msn.com/pl-pl/wiadomosci/polska/defibrylator-aed-w-komendzie-policji-w-wągrowcu/ar-AA18aaTq"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10709295706,
+            "lat": 52.1661903,
+            "lon": 17.8815225,
+            "timestamp": "2023-03-04T13:11:39Z",
+            "version": 1,
+            "changeset": 133289308,
+            "user": "Grzechu789",
+            "uid": 18611135,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-04",
+                "defibrillator:location:en": "Near entrance to the school building",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10709315305,
+            "lat": 52.1671455,
+            "lon": 17.9002505,
+            "timestamp": "2023-03-04T13:10:39Z",
+            "version": 1,
+            "changeset": 133289308,
+            "user": "Grzechu789",
+            "uid": 18611135,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-04",
+                "defibrillator:location:en": "On the wall near fire department front gate.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
