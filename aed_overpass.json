@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-05T18:31:38Z",
+        "timestamp_osm_base": "2023-03-05T19:31:16Z",
         "timestamp_areas_base": "2023-03-05T11:46:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95456,17 +95456,17 @@
             "id": 10708984202,
             "lat": 52.7942695,
             "lon": 17.1977912,
-            "timestamp": "2023-03-04T09:39:45Z",
-            "version": 1,
-            "changeset": 133282413,
+            "timestamp": "2023-03-05T19:21:45Z",
+            "version": 2,
+            "changeset": 133337937,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W Komendzie Policji",
+                "defibrillator:location": "W skrzynce w holu wejściowym Komendy Powiatowej Policji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "source": "https://www.msn.com/pl-pl/wiadomosci/polska/defibrylator-aed-w-komendzie-policji-w-wągrowcu/ar-AA18aaTq"
+                "source": "https://www.portalwrc.pl/wagrowiec/aktualnosci-z-powiatu/16824-policjanci-dostali-defibrylator-zewnetrzny-aed"
             }
         },
         {
