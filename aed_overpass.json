@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-05T11:48:53Z",
+        "timestamp_osm_base": "2023-03-05T15:31:24Z",
         "timestamp_areas_base": "2023-03-05T11:46:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95555,6 +95555,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Mańkowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10712127805,
+            "lat": 53.4088252,
+            "lon": 20.4868578,
+            "timestamp": "2023-03-05T12:37:38Z",
+            "version": 1,
+            "changeset": 133323431,
+            "user": "Wiktoria Domańska",
+            "uid": 18620067,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie znajduje się na samochodzie specjalnym OSP",
+                "defibrillator:location:en": "The device is located on a special car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "785684455"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10712132905,
+            "lat": 53.4088307,
+            "lon": 20.4868682,
+            "timestamp": "2023-03-05T12:41:11Z",
+            "version": 1,
+            "changeset": 133323563,
+            "user": "Wiktoria Domańska",
+            "uid": 18620067,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Urządzenie znajduje się na samochodzie specjalnym OSP.",
+                "defibrillator:location:en": "The device is located on a special car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "785684455"
             }
         },
         {
