@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T08:32:01Z",
+        "timestamp_osm_base": "2023-03-06T09:31:43Z",
         "timestamp_areas_base": "2023-03-06T08:19:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95580,6 +95580,24 @@
         },
         {
             "type": "node",
+            "id": 10715779606,
+            "lat": 52.7389214,
+            "lon": 15.2000546,
+            "timestamp": "2023-03-06T08:36:17Z",
+            "version": 1,
+            "changeset": 133352772,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wnętrze marketu przed linią kas.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 762 38 00"
+            }
+        },
+        {
+            "type": "node",
             "id": 10715792505,
             "lat": 52.302876,
             "lon": 20.9844606,
@@ -95610,6 +95628,60 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48667291424"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715812505,
+            "lat": 52.7389115,
+            "lon": 15.2303092,
+            "timestamp": "2023-03-06T08:34:14Z",
+            "version": 1,
+            "changeset": 133352772,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Parter wieżowca Lubuskiego Urzędu Wojewódzkiego (Ochrona obiektu obecna całodobowo)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "(95) 728 87 77"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715823409,
+            "lat": 52.7443009,
+            "lon": 15.218016,
+            "timestamp": "2023-03-06T08:51:42Z",
+            "version": 1,
+            "changeset": 133352772,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wnętrze basenu w przejściu między basenem rekreacyjnym, a basenem sportowym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 733 85 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715849305,
+            "lat": 52.7315551,
+            "lon": 15.2284794,
+            "timestamp": "2023-03-06T08:54:20Z",
+            "version": 1,
+            "changeset": 133352772,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Portiernia nowego budynku Akademii Wychowania Fizycznego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 727 91 00"
             }
         },
         {
