@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T11:31:23Z",
+        "timestamp_osm_base": "2023-03-06T12:32:06Z",
         "timestamp_areas_base": "2023-03-06T08:19:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95718,6 +95718,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "95 721 91 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10716121334,
+            "lat": 51.7680745,
+            "lon": 18.0841261,
+            "timestamp": "2023-03-06T11:36:08Z",
+            "version": 1,
+            "changeset": 133359427,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie Polskiej Spółki Gazownictwa",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-14:00",
+                "operator": "Polska Spółka Gazownictwa",
+                "phone": "+48224443333"
             }
         },
         {
