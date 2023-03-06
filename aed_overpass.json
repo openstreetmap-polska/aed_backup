@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T05:31:37Z",
-        "timestamp_areas_base": "2023-03-06T05:18:28Z",
+        "timestamp_osm_base": "2023-03-06T06:32:24Z",
+        "timestamp_areas_base": "2023-03-06T06:18:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47997,12 +47997,13 @@
             "id": 9560505250,
             "lat": 51.5577793,
             "lon": 22.1356992,
-            "timestamp": "2022-03-07T13:48:32Z",
-            "version": 1,
-            "changeset": 118198298,
+            "timestamp": "2023-03-06T06:25:55Z",
+            "version": 2,
+            "changeset": 133349718,
             "user": "MrBartek",
             "uid": 9653253,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Defibrylator znajduje się wewnątrz budynku Ochotniczej Straży Pożarnej w Baranowie.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
