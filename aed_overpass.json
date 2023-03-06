@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T09:31:43Z",
+        "timestamp_osm_base": "2023-03-06T10:31:35Z",
         "timestamp_areas_base": "2023-03-06T08:19:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95682,6 +95682,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "95 727 91 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715997606,
+            "lat": 52.7422699,
+            "lon": 15.275123,
+            "timestamp": "2023-03-06T10:20:41Z",
+            "version": 1,
+            "changeset": 133356656,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu głównym Wojewódzkiego Ośrodka Ruchu Drogowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 725 76 44"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715998605,
+            "lat": 52.708417,
+            "lon": 15.243338,
+            "timestamp": "2023-03-06T10:16:08Z",
+            "version": 1,
+            "changeset": 133356656,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia SC Johnson od strony ul. Łysej. Ochrona obiektu obecna całodobowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 721 91 00"
             }
         },
         {
