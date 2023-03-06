@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T07:33:06Z",
-        "timestamp_areas_base": "2023-03-06T06:18:23Z",
+        "timestamp_osm_base": "2023-03-06T08:32:01Z",
+        "timestamp_areas_base": "2023-03-06T08:19:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95576,6 +95576,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "785684455"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715792505,
+            "lat": 52.302876,
+            "lon": 20.9844606,
+            "timestamp": "2023-03-06T08:14:40Z",
+            "version": 1,
+            "changeset": 133352328,
+            "user": "OSP Warszawa Białołęka",
+            "uid": 18627605,
+            "tags": {
+                "defibrillator:location": "Urządzenie znajduje się w samochodzie specjalnym OSP",
+                "emergency": "defibrillator",
+                "phone": "+48 722 398 998"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10715807305,
+            "lat": 52.7382443,
+            "lon": 15.2380273,
+            "timestamp": "2023-03-06T08:27:29Z",
+            "version": 1,
+            "changeset": 133352772,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "I piętro przy schodach. Miejsce oznakowane tabliczkami kierunkowymi. Ochrona obiektu obecna całodobowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48667291424"
             }
         },
         {
