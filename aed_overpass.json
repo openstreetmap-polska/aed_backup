@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-06T23:32:19Z",
+        "timestamp_osm_base": "2023-03-07T00:30:58Z",
         "timestamp_areas_base": "2023-03-06T23:31:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -95736,6 +95736,24 @@
                 "opening_hours": "Mo-Fr 08:00-14:00",
                 "operator": "Polska Spółka Gazownictwa",
                 "phone": "+48224443333"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10717944605,
+            "lat": 52.0916128,
+            "lon": 21.7558689,
+            "timestamp": "2023-03-06T23:39:21Z",
+            "version": 1,
+            "changeset": 133383149,
+            "user": "OSP Skupie",
+            "uid": 18635862,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się w kapsule na ścianie budynku przy drzwiach garażowych.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "605435991"
             }
         },
         {
