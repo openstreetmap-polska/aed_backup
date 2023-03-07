@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-07T16:31:14Z",
-        "timestamp_areas_base": "2023-03-07T15:34:39Z",
+        "timestamp_osm_base": "2023-03-07T17:31:01Z",
+        "timestamp_areas_base": "2023-03-07T16:39:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -44,6 +44,27 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1498557240,
+            "lat": 52.1696788,
+            "lon": 20.8122254,
+            "timestamp": "2023-03-07T16:35:29Z",
+            "version": 4,
+            "changeset": 133409994,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
+                "defibrillator:location": "Na ścianie budynku przy bramce nr 5",
+                "defibrillator:location:en": "On the wall of the building at gate number 5",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "wheelchair": "limited"
             }
         },
         {
@@ -8984,17 +9005,20 @@
             "id": 9379886695,
             "lat": 52.1568406,
             "lon": 20.8049599,
-            "timestamp": "2022-01-07T19:35:56Z",
-            "version": 2,
-            "changeset": 115889674,
+            "timestamp": "2023-03-07T16:32:23Z",
+            "version": 3,
+            "changeset": 133409880,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
+                "check_date": "2023-03-07",
+                "covered": "no",
                 "defibrillator:location": "Na ścianie budynku przy wejściu do biura",
                 "defibrillator:location:en": "On the wall near office entrance",
                 "description": "Defibrylator AED iPAD SP1 wraz z kapsułą ROTAID.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "wheelchair": "yes"
             }
         },
         {
@@ -67526,17 +67550,20 @@
             "id": 9898361783,
             "lat": 52.1623698,
             "lon": 20.8124459,
-            "timestamp": "2022-07-19T21:26:56Z",
-            "version": 1,
-            "changeset": 123824998,
-            "user": "tomzyl",
-            "uid": 530338,
+            "timestamp": "2023-03-07T16:36:17Z",
+            "version": 2,
+            "changeset": 133410023,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "no",
                 "defibrillator:location": "Przy wejściu do UM na ścianie po lewej stronie",
                 "defibrillator:location:en": "On the wall on the left side of UM (Urząd Miasta) entrance",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "wheelchair": "yes"
             }
         },
         {
@@ -81385,18 +81412,20 @@
             "id": 10293860212,
             "lat": 52.1746738,
             "lon": 20.8031697,
-            "timestamp": "2023-01-04T09:48:29Z",
-            "version": 2,
-            "changeset": 130858691,
+            "timestamp": "2023-03-07T16:33:54Z",
+            "version": 3,
+            "changeset": 133409938,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-03-07",
+                "covered": "yes",
                 "defibrillator:location": "Na ścianie budynku targowiska",
                 "defibrillator:location:en": "On the wall of the marketplace building",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+                "wheelchair": "yes"
             }
         },
         {
@@ -95897,6 +95926,25 @@
                 "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu OSP",
                 "emergency": "defibrillator",
                 "operator": "OSP w Zawidzu Kościelnym"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719467629,
+            "lat": 50.1432337,
+            "lon": 19.4032512,
+            "timestamp": "2023-03-07T17:09:06Z",
+            "version": 1,
+            "changeset": 133411313,
+            "user": "pan_borsuk",
+            "uid": 2717779,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "postępowa pizzernia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Dal Forno",
+                "start_date": "2023-03-07"
             }
         },
         {
