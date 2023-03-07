@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-07T06:31:34Z",
-        "timestamp_areas_base": "2023-03-07T05:32:54Z",
+        "timestamp_osm_base": "2023-03-07T07:32:13Z",
+        "timestamp_areas_base": "2023-03-07T06:33:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95754,6 +95754,102 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "605435991"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718392757,
+            "lat": 53.798592,
+            "lon": 17.263188,
+            "timestamp": "2023-03-07T07:16:38Z",
+            "version": 1,
+            "changeset": 133390773,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szkole",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://przechlewo.pl/strona/kolejne-defibrylatory-w-gminie-przechlewo",
+                "start_date": "2023-02-17"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718392765,
+            "lat": 53.8063379,
+            "lon": 17.3356973,
+            "timestamp": "2023-03-07T07:16:38Z",
+            "version": 1,
+            "changeset": 133390773,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szkole podstawowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://przechlewo.pl/strona/kolejne-defibrylatory-w-gminie-przechlewo",
+                "start_date": "2023-02-17"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718392778,
+            "lat": 53.7996508,
+            "lon": 17.2606505,
+            "timestamp": "2023-03-07T07:16:38Z",
+            "version": 1,
+            "changeset": 133390773,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna w Przechlewie",
+                "source": "https://przechlewo.pl/strona/kolejne-defibrylatory-w-gminie-przechlewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718392779,
+            "lat": 53.7978749,
+            "lon": 17.251379,
+            "timestamp": "2023-03-07T07:16:38Z",
+            "version": 1,
+            "changeset": 133390773,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy Urzędzie Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://czluchow.naszemiasto.pl/pierwszy-automatyczny-defibrylator-w-gminie-przechlewo/ar/c14-7777558",
+                "start_date": "2020-06-27"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718414423,
+            "lat": 53.0199597,
+            "lon": 20.8951727,
+            "timestamp": "2023-03-07T07:28:01Z",
+            "version": 1,
+            "changeset": 133391075,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://eprzasnysz.pl/artykul/defibrylator-zakupiony/1410814",
+                "start_date": "2023-03-06"
             }
         },
         {
