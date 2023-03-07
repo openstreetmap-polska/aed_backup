@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-07T11:30:21Z",
+        "timestamp_osm_base": "2023-03-07T12:31:01Z",
         "timestamp_areas_base": "2023-03-07T07:33:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -8947,13 +8947,14 @@
             "id": 9379811379,
             "lat": 52.1717138,
             "lon": 20.8135765,
-            "timestamp": "2022-01-02T14:29:01Z",
-            "version": 2,
-            "changeset": 115671963,
+            "timestamp": "2023-03-07T11:35:40Z",
+            "version": 3,
+            "changeset": 133399431,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
                 "defibrillator:location": "Na ścianie budynku przy wejściu do szkoły",
                 "defibrillator:location:en": "On the wall near school entrance",
                 "description": "Defibrylator AED iPAD SP1 wraz z kapsułą ROTAID.",
@@ -52917,17 +52918,22 @@
         {
             "type": "node",
             "id": 9589393481,
-            "lat": 52.1681311,
-            "lon": 20.7875551,
-            "timestamp": "2022-03-19T08:41:51Z",
-            "version": 1,
-            "changeset": 118657534,
-            "user": "małyfanfnaf",
-            "uid": 12510523,
+            "lat": 52.1681534,
+            "lon": 20.7874754,
+            "timestamp": "2023-03-07T12:02:40Z",
+            "version": 2,
+            "changeset": 133400356,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
-                "defibrillator:location": "Przy wejściu do szkoły",
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły po lewej stronie",
+                "defibrillator:location:en": "At the entrance on the left",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "wheelchair": "no"
             }
         },
         {
@@ -78558,13 +78564,15 @@
             "id": 10242720046,
             "lat": 52.157409,
             "lon": 20.7921225,
-            "timestamp": "2022-12-06T16:15:47Z",
-            "version": 1,
-            "changeset": 129789229,
+            "timestamp": "2023-03-07T11:36:46Z",
+            "version": 2,
+            "changeset": 133399465,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "defibrillator:location:en": "On the wall at the entrance",
                 "emergency": "defibrillator",
@@ -80131,17 +80139,20 @@
             "id": 10292011479,
             "lat": 52.160308,
             "lon": 20.8003864,
-            "timestamp": "2022-12-28T20:05:42Z",
-            "version": 1,
-            "changeset": 130616786,
+            "timestamp": "2023-03-07T11:42:55Z",
+            "version": 3,
+            "changeset": 133399653,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "no",
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "defibrillator:location:en": "On the wall at the entrance",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "wheelchair": "limited"
             }
         },
         {
@@ -81249,16 +81260,22 @@
         {
             "type": "node",
             "id": 10293779484,
-            "lat": 52.1614538,
-            "lon": 20.7949544,
-            "timestamp": "2022-12-29T18:35:04Z",
-            "version": 1,
-            "changeset": 130658518,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.1614035,
+            "lon": 20.7951075,
+            "timestamp": "2023-03-07T11:53:46Z",
+            "version": 2,
+            "changeset": 133400057,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "no",
+                "defibrillator:location": "Przy wejściu po prawej stronie",
+                "defibrillator:location:en": "At the entrance on the right",
                 "emergency": "defibrillator",
-                "source": "https://wpr24.pl/5-nowych-defibrylatorow-w-pruszkowie/"
+                "indoor": "no",
+                "wheelchair": "yes"
             }
         },
         {
@@ -81266,18 +81283,21 @@
             "id": 10293779485,
             "lat": 52.1592062,
             "lon": 20.8138716,
-            "timestamp": "2023-01-04T09:39:20Z",
-            "version": 3,
-            "changeset": 130858334,
+            "timestamp": "2023-03-07T11:50:47Z",
+            "version": 4,
+            "changeset": 133399949,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "no",
                 "defibrillator:location": "Po prawej stronie od wejścia, na murze zewnętrznym szkoły, za oknem dyżurki.",
                 "defibrillator:location:en": "To the right of the entrance, on the exterior wall of the school, behind the window of the duty station.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "source": "survey"
+                "source": "survey",
+                "wheelchair": "no"
             }
         },
         {
@@ -81285,13 +81305,15 @@
             "id": 10293779486,
             "lat": 52.164034,
             "lon": 20.8112285,
-            "timestamp": "2023-01-04T09:43:56Z",
-            "version": 3,
-            "changeset": 130858505,
+            "timestamp": "2023-03-07T11:42:38Z",
+            "version": 4,
+            "changeset": 133399646,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
                 "defibrillator:location": "W wejściu do szkoły, na zewnątrz, prawa strona wnęki.",
                 "defibrillator:location:en": "In the entrance to the school, outside, right side of the entrance.",
                 "emergency": "defibrillator",
@@ -81319,35 +81341,43 @@
         {
             "type": "node",
             "id": 10293860210,
-            "lat": 52.1782718,
-            "lon": 20.7981002,
-            "timestamp": "2023-01-04T09:52:20Z",
-            "version": 2,
-            "changeset": 130858864,
+            "lat": 52.1782702,
+            "lon": 20.7980995,
+            "timestamp": "2023-03-07T11:58:13Z",
+            "version": 3,
+            "changeset": 133400217,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
                 "defibrillator:location": "Na ścianie przed wejściem",
                 "defibrillator:location:en": "On the wall in front of the entrance",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "wheelchair": "limited"
             }
         },
         {
             "type": "node",
             "id": 10293860211,
-            "lat": 52.1884486,
-            "lon": 20.815237,
-            "timestamp": "2022-12-29T18:52:11Z",
-            "version": 1,
-            "changeset": 130659114,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 52.1884954,
+            "lon": 20.8152427,
+            "timestamp": "2023-03-07T11:49:28Z",
+            "version": 2,
+            "changeset": 133399891,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "covered": "yes",
+                "defibrillator:location": "Przy wejściu po prawej stronie",
+                "defibrillator:location:en": "At the entrance on the right",
                 "emergency": "defibrillator",
-                "fixme": "Lokalizacja do weryfikacji",
-                "source": "https://wpr24.pl/dwa-nowe-defibrylatory-w-pruszkowie/"
+                "indoor": "no",
+                "wheelchair": "yes"
             }
         },
         {
@@ -95850,6 +95880,23 @@
                 "indoor": "yes",
                 "source": "https://eprzasnysz.pl/artykul/defibrylator-zakupiony/1410814",
                 "start_date": "2023-03-06"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10718846129,
+            "lat": 52.8265047,
+            "lon": 19.8749049,
+            "timestamp": "2023-03-07T12:22:34Z",
+            "version": 1,
+            "changeset": 133400989,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu OSP",
+                "emergency": "defibrillator",
+                "operator": "OSP w Zawidzu Kościelnym"
             }
         },
         {
