@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-07T19:27:22Z",
-        "timestamp_areas_base": "2023-03-07T18:36:50Z",
+        "timestamp_osm_base": "2023-03-07T20:26:09Z",
+        "timestamp_areas_base": "2023-03-07T19:41:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95966,6 +95966,126 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719818305,
+            "lat": 51.8192363,
+            "lon": 19.7498405,
+            "timestamp": "2023-03-07T20:04:10Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "Trzy samochody ratowniczo gasnicze,  czyli 3 szt razem. Tel 112",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719818306,
+            "lat": 51.8178918,
+            "lon": 19.889994,
+            "timestamp": "2023-03-07T20:08:57Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "Samochód OSP w Rogowie",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719821305,
+            "lat": 51.9666086,
+            "lon": 19.7176164,
+            "timestamp": "2023-03-07T20:05:33Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "W samochodzie OSP",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719821306,
+            "lat": 51.8780245,
+            "lon": 19.7674871,
+            "timestamp": "2023-03-07T20:08:01Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "W samochodzie OSP Wola Cyrusowa",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719828005,
+            "lat": 51.8148771,
+            "lon": 19.9741321,
+            "timestamp": "2023-03-07T20:10:36Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "W samochodzie OSP Jeżów",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719832305,
+            "lat": 51.8143995,
+            "lon": 19.6900483,
+            "timestamp": "2023-03-07T20:12:24Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "Samochod OSP Polik",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719837705,
+            "lat": 50.6403828,
+            "lon": 17.6198278,
+            "timestamp": "2023-03-07T20:16:49Z",
+            "version": 1,
+            "changeset": 133417193,
+            "user": "ratolek",
+            "uid": 18645646,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "defibrillator:location:pl": "Na  2 samochodach JRG 3 Niemodlin",
+                "emergency": "defibrillator"
             }
         },
         {
