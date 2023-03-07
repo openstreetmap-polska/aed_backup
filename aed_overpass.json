@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-07T17:31:01Z",
-        "timestamp_areas_base": "2023-03-07T16:39:24Z",
+        "timestamp_osm_base": "2023-03-07T18:26:42Z",
+        "timestamp_areas_base": "2023-03-07T17:40:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95945,6 +95945,27 @@
                 "indoor": "yes",
                 "operator": "Dal Forno",
                 "start_date": "2023-03-07"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10719514872,
+            "lat": 52.1710866,
+            "lon": 20.9349242,
+            "timestamp": "2023-03-07T17:42:17Z",
+            "version": 1,
+            "changeset": 133412732,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-03-07",
+                "covered": "yes",
+                "defibrillator:location": "W supermarkecie Auchan. Za bramkami bezpieczeństwa po prawej stronie.",
+                "defibrillator:location:en": "In the Auchan supermarket. After the security gate on the right side.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
