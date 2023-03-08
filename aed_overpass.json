@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-08T12:31:08Z",
-        "timestamp_areas_base": "2023-03-08T10:46:53Z",
+        "timestamp_osm_base": "2023-03-08T13:31:54Z",
+        "timestamp_areas_base": "2023-03-08T12:48:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96212,6 +96212,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10721108705,
+            "lat": 50.59722,
+            "lon": 17.6519174,
+            "timestamp": "2023-03-08T12:36:57Z",
+            "version": 1,
+            "changeset": 133439031,
+            "user": "OSP Tułowice",
+            "uid": 17220769,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Powieszony w kapsule na ścianie budynku przy wejściu.",
+                "defibrillator:location:en": "Near entrance to bulding, on the wall.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
