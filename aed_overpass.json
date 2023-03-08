@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-08T18:31:31Z",
-        "timestamp_areas_base": "2023-03-08T17:52:09Z",
+        "timestamp_osm_base": "2023-03-08T19:31:15Z",
+        "timestamp_areas_base": "2023-03-08T18:52:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24718,17 +24718,17 @@
             "id": 9450896098,
             "lat": 52.2368626,
             "lon": 21.0167779,
-            "timestamp": "2023-03-02T15:15:21Z",
-            "version": 13,
-            "changeset": 133216275,
-            "user": "NieWnen",
-            "uid": 3885790,
+            "timestamp": "2023-03-08T19:23:40Z",
+            "version": 14,
+            "changeset": 133453075,
+            "user": "WiesławJ",
+            "uid": 18593874,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na peronie stacji metra Nowy Świat-Uniwersytet",
+                "defibrillator:location:pl": "Na peronie stacji metra Nowy Świat-Uniwersytet",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "location": "indoor"
+                "image": "",
+                "indoor": "yes"
             }
         },
         {
