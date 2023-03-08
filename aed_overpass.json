@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-08T07:32:24Z",
-        "timestamp_areas_base": "2023-03-08T06:26:38Z",
+        "timestamp_osm_base": "2023-03-08T08:31:57Z",
+        "timestamp_areas_base": "2023-03-08T07:45:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96086,6 +96086,131 @@
                 "check_date": "2023-03-07",
                 "defibrillator:location:pl": "Na  2 samochodach JRG 3 Niemodlin",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637326,
+            "lat": 53.0169228,
+            "lon": 20.876794,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Na targowisku",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637347,
+            "lat": 53.0208744,
+            "lon": 20.8828247,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W muzeum",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637361,
+            "lat": 53.0198155,
+            "lon": 20.8824559,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Miejskiej Bibliotece Publicznej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637364,
+            "lat": 53.0190347,
+            "lon": 20.8889635,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Ośrodku Sportu i Rekreacji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637381,
+            "lat": 53.0197822,
+            "lon": 20.8818892,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Miasta",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637468,
+            "lat": 53.0231551,
+            "lon": 20.8908513,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szkole podstawowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10720637736,
+            "lat": 53.0193036,
+            "lon": 20.8818694,
+            "timestamp": "2023-03-08T08:09:18Z",
+            "version": 1,
+            "changeset": 133430632,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W szkole podstawowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.infoprzasnysz.com/przasnysz-defibrylatory-aed-sa-juz-w-miejskich-szkolach-podstawowych/"
             }
         },
         {
