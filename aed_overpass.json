@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-08T14:31:38Z",
-        "timestamp_areas_base": "2023-03-08T12:48:24Z",
+        "timestamp_osm_base": "2023-03-08T15:31:24Z",
+        "timestamp_areas_base": "2023-03-08T14:49:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -14910,17 +14910,17 @@
             "id": 9425842717,
             "lat": 52.2131025,
             "lon": 20.9523775,
-            "timestamp": "2022-01-31T08:42:05Z",
-            "version": 2,
-            "changeset": 116811956,
-            "user": "Atrium Reduta",
-            "uid": 14874676,
+            "timestamp": "2023-03-08T14:40:09Z",
+            "version": 3,
+            "changeset": 133443642,
+            "user": "Beata Stawiarz",
+            "uid": 18653961,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "CH ATRIUM REDUTA - MONITORING / POMIESZCZENIE OCHRONY CENTRUM - parter, przy strefie dostaw Dostępny 24h/7",
-                "defibrillator:location:en": "MONITORING / SECURITY ROOM - ground floor, next to the delivery point Available 24h / 7",
+                "defibrillator:location:pl": "CH ATRIUM REDUTA - MONITORING / POMIESZCZENIE OCHRONY CENTRUM - parter, przy strefie dostaw Dostępny 24h/7",
                 "emergency": "defibrillator",
-                "location": "indoor",
+                "image": "",
+                "indoor": "no",
                 "phone": "22 823 94 03"
             }
         },
@@ -62023,9 +62023,9 @@
             "id": 9687779201,
             "lat": 53.7969439,
             "lon": 18.529383,
-            "timestamp": "2022-04-23T12:11:38Z",
-            "version": 1,
-            "changeset": 120088520,
+            "timestamp": "2023-03-08T15:08:42Z",
+            "version": 2,
+            "changeset": 133444867,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
@@ -62033,7 +62033,7 @@
                 "defibrillator:location": "Zewnetrzna Ściana Budynku Remizy",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
-                "operator": "Powiatu Starogardziego"
+                "operator": "Starostwo Powiatu Starogardziego"
             }
         },
         {
@@ -96230,6 +96230,43 @@
                 "defibrillator:location:en": "Near entrance to bulding, on the wall.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10721536605,
+            "lat": 52.2120105,
+            "lon": 20.9492607,
+            "timestamp": "2023-03-08T14:39:54Z",
+            "version": 2,
+            "changeset": 133443626,
+            "user": "Beata Stawiarz",
+            "uid": 18653961,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Decathlon Reduta ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "phone": "608020660"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10721541105,
+            "lat": 52.2120488,
+            "lon": 20.9492321,
+            "timestamp": "2023-03-08T14:41:19Z",
+            "version": 1,
+            "changeset": 133443703,
+            "user": "Beata Stawiarz",
+            "uid": 18653961,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Decathlon Reduta",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
             }
         },
         {
