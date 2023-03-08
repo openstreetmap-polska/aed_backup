@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-08T11:31:24Z",
+        "timestamp_osm_base": "2023-03-08T12:31:08Z",
         "timestamp_areas_base": "2023-03-08T10:46:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -71121,18 +71121,19 @@
             "id": 10048269617,
             "lat": 50.597718,
             "lon": 17.6500885,
-            "timestamp": "2022-09-24T18:29:05Z",
-            "version": 2,
-            "changeset": 126593535,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-03-08T12:30:41Z",
+            "version": 3,
+            "changeset": 133438804,
+            "user": "OSP Tułowice",
+            "uid": 17220769,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy, w kabinie z przodu po stronie kierowcy.",
                 "defibrillator:location:en": "Rescue and firefighting vehicle, in the front part of cabin, on the driver's side.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "mobile": "+48 516 466 375"
+                "mobile": "+48 516 466 375",
+                "operator": "OSP Tułowice"
             }
         },
         {
