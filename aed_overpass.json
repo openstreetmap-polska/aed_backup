@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-09T13:31:51Z",
-        "timestamp_areas_base": "2023-03-09T12:59:24Z",
+        "timestamp_osm_base": "2023-03-09T14:32:24Z",
+        "timestamp_areas_base": "2023-03-09T13:59:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96319,6 +96319,36 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta Myszków",
                 "phone": "+48343132682"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10723444407,
+            "lat": 53.1375073,
+            "lon": 17.9554498,
+            "timestamp": "2023-03-09T13:38:06Z",
+            "version": 1,
+            "changeset": 133479546,
+            "user": "cs2023",
+            "uid": 18664264,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10723545705,
+            "lat": 53.1128319,
+            "lon": 17.999627,
+            "timestamp": "2023-03-09T13:47:43Z",
+            "version": 1,
+            "changeset": 133479546,
+            "user": "cs2023",
+            "uid": 18664264,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
