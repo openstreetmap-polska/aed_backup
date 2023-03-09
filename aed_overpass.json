@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-09T09:31:39Z",
-        "timestamp_areas_base": "2023-03-09T08:57:17Z",
+        "timestamp_osm_base": "2023-03-09T10:32:24Z",
+        "timestamp_areas_base": "2023-03-09T09:57:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96300,6 +96300,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10723135337,
+            "lat": 50.576301,
+            "lon": 19.3301617,
+            "timestamp": "2023-03-09T10:27:42Z",
+            "version": 1,
+            "changeset": 133473013,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do Urzędu Miasta Myszkowa.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta Myszków",
+                "phone": "+48343132682"
             }
         },
         {
