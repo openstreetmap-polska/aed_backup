@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-10T11:32:23Z",
-        "timestamp_areas_base": "2023-03-10T11:06:08Z",
+        "timestamp_osm_base": "2023-03-10T12:32:09Z",
+        "timestamp_areas_base": "2023-03-10T12:05:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -63662,17 +63662,19 @@
             "id": 9767346717,
             "lat": 51.2821371,
             "lon": 22.5723,
-            "timestamp": "2022-05-24T14:11:05Z",
-            "version": 1,
-            "changeset": 121426861,
-            "user": "charl3s",
-            "uid": 8019013,
+            "timestamp": "2023-03-10T11:53:24Z",
+            "version": 2,
+            "changeset": 133515564,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W biurze obsługi klienta IKEA",
+                "defibrillator:location": "Defibrylator AED znajduje się w biurze obsługi klienta IKEA",
                 "defibrillator:location:en": "In customer office IKEA",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 10:00-21:00",
+                "operator": "IKEA"
             }
         },
         {
