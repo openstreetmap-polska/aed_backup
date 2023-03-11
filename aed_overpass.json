@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-11T08:31:54Z",
-        "timestamp_areas_base": "2023-03-11T08:12:39Z",
+        "timestamp_osm_base": "2023-03-11T09:31:37Z",
+        "timestamp_areas_base": "2023-03-11T09:12:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48678,15 +48678,16 @@
             "id": 9568633217,
             "lat": 49.6090301,
             "lon": 20.7042134,
-            "timestamp": "2022-03-20T08:47:27Z",
-            "version": 2,
-            "changeset": 118688404,
+            "timestamp": "2023-03-11T09:08:37Z",
+            "version": 3,
+            "changeset": 133544863,
             "user": "Fabcio",
             "uid": 3435758,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "PWSZ Nowy Sącz - Instytut Techniczny",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
@@ -96351,6 +96352,61 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10727243899,
+            "lat": 52.2992387,
+            "lon": 20.1996769,
+            "timestamp": "2023-03-11T08:57:56Z",
+            "version": 1,
+            "changeset": 133544584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://tusochaczew.pl/pl/11_wiadomosci/66769_dwa-defibrylatory-aed-w-gminie-mlodzieszyn-pracownicy-przeszkoleni.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10727243900,
+            "lat": 52.3027979,
+            "lon": 20.2013869,
+            "timestamp": "2023-03-11T08:57:56Z",
+            "version": 1,
+            "changeset": 133544584,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Gminy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://tusochaczew.pl/pl/11_wiadomosci/66769_dwa-defibrylatory-aed-w-gminie-mlodzieszyn-pracownicy-przeszkoleni.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10727277220,
+            "lat": 51.9516699,
+            "lon": 17.0615964,
+            "timestamp": "2023-03-11T08:48:07Z",
+            "version": 1,
+            "changeset": 133544360,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku OSP",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://srem.naszemiasto.pl/to-urzadzenie-ratuje-zycie-w-malachowie-na-scianie-remizy/ar/c1-9241385"
             }
         },
         {
