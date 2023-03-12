@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-12T19:32:09Z",
-        "timestamp_areas_base": "2023-03-12T19:25:08Z",
+        "timestamp_osm_base": "2023-03-12T20:31:52Z",
+        "timestamp_areas_base": "2023-03-12T20:25:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96475,6 +96475,42 @@
             "tags": {
                 "access": "private",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10731415405,
+            "lat": 52.076758,
+            "lon": 16.0442903,
+            "timestamp": "2023-03-12T20:30:23Z",
+            "version": 1,
+            "changeset": 133600217,
+            "user": "NowiFilip",
+            "uid": 18697687,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Remiza OSP Obra",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10731415505,
+            "lat": 52.076758,
+            "lon": 16.0442903,
+            "timestamp": "2023-03-12T20:30:24Z",
+            "version": 1,
+            "changeset": 133600219,
+            "user": "NowiFilip",
+            "uid": 18697687,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Remiza OSP Obra",
+                "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes"
             }
         },
