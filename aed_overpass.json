@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-12T17:31:38Z",
-        "timestamp_areas_base": "2023-03-12T17:23:39Z",
+        "timestamp_osm_base": "2023-03-12T18:32:24Z",
+        "timestamp_areas_base": "2023-03-12T18:24:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96423,6 +96423,42 @@
                 "access": "yes",
                 "defibrillator:location:pl": "Obok wejścia do dworca po lewej stronie na ścianie",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10731159305,
+            "lat": 52.1127463,
+            "lon": 16.1758534,
+            "timestamp": "2023-03-12T18:03:54Z",
+            "version": 1,
+            "changeset": 133595810,
+            "user": "MikołajBasiaga",
+            "uid": 18696961,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP Tłoki",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10731160709,
+            "lat": 52.112678,
+            "lon": 16.175841,
+            "timestamp": "2023-03-12T18:06:18Z",
+            "version": 2,
+            "changeset": 133595907,
+            "user": "MikołajBasiaga",
+            "uid": 18696961,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP TŁOKI",
+                "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes"
             }
         },
