@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-12T18:32:24Z",
-        "timestamp_areas_base": "2023-03-12T18:24:23Z",
+        "timestamp_osm_base": "2023-03-12T19:32:09Z",
+        "timestamp_areas_base": "2023-03-12T19:25:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96459,6 +96459,22 @@
                 "defibrillator:location:pl": "OSP TŁOKI",
                 "emergency": "defibrillator",
                 "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10731269005,
+            "lat": 54.5403524,
+            "lon": 16.8220486,
+            "timestamp": "2023-03-12T19:06:01Z",
+            "version": 1,
+            "changeset": 133597735,
+            "user": "Tymoteusz111",
+            "uid": 18697405,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
                 "indoor": "yes"
             }
         },
