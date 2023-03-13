@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-13T10:32:09Z",
-        "timestamp_areas_base": "2023-03-13T10:30:09Z",
+        "timestamp_osm_base": "2023-03-13T11:31:54Z",
+        "timestamp_areas_base": "2023-03-13T11:30:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96512,6 +96512,42 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10732472105,
+            "lat": 51.9427422,
+            "lon": 17.5647623,
+            "timestamp": "2023-03-13T10:34:12Z",
+            "version": 1,
+            "changeset": 133618700,
+            "user": "OSPWITASZYCE",
+            "uid": 18702445,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym GCBA-Rt wystarczy nadusić przycisk syreny lub zadzwonić pod numer 998/112",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609-940-925"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10732475505,
+            "lat": 51.9427713,
+            "lon": 17.5647705,
+            "timestamp": "2023-03-13T10:35:43Z",
+            "version": 1,
+            "changeset": 133618700,
+            "user": "OSPWITASZYCE",
+            "uid": 18702445,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym GBA-Rt wystarczy nadusić przycisk syreny lub zadzwoń pod numer 998/112",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "609-940-925"
             }
         },
         {
