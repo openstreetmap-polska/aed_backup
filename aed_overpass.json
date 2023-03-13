@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-13T12:31:39Z",
+        "timestamp_osm_base": "2023-03-13T13:32:24Z",
         "timestamp_areas_base": "2023-03-13T12:31:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2466,14 +2466,16 @@
             "id": 7187081532,
             "lat": 54.1163714,
             "lon": 17.8704563,
-            "timestamp": "2020-02-05T07:32:56Z",
-            "version": 1,
-            "changeset": 80572811,
-            "user": "KrissPSP",
-            "uid": 1860273,
+            "timestamp": "2023-03-13T13:08:44Z",
+            "version": 2,
+            "changeset": 133624821,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz budynku. przy wejściu do sklepu firmowego zakładu porcelany stołowej Lubiana.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Salon sprzedaży: Zakłady Porcelany Stołowej LUBIANA SA"
             }
         },
         {
@@ -96548,6 +96550,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "609-940-925"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10732717579,
+            "lat": 51.6030035,
+            "lon": 19.5392282,
+            "timestamp": "2023-03-13T13:30:09Z",
+            "version": 1,
+            "changeset": 133625692,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w wyposażeniu Ochotniczej Straży Pożarnej w Tuszynie.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Tuszynie",
+                "phone": "+48426143008"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10732731684,
+            "lat": 50.9536763,
+            "lon": 19.1744018,
+            "timestamp": "2023-03-13T13:18:53Z",
+            "version": 1,
+            "changeset": 133625215,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w wyposażeniu Ochotniczej Straży Pożarnej w Starym Cykarzewie",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Starym Cykarzewie"
             }
         },
         {
