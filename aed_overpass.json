@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-14T19:31:53Z",
-        "timestamp_areas_base": "2023-03-14T18:44:07Z",
+        "timestamp_osm_base": "2023-03-14T20:31:39Z",
+        "timestamp_areas_base": "2023-03-14T19:43:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96622,6 +96622,40 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "512125250"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10735807605,
+            "lat": 54.1042309,
+            "lon": 22.9110063,
+            "timestamp": "2023-03-14T20:16:44Z",
+            "version": 1,
+            "changeset": 133683578,
+            "user": "LadroTranquillo",
+            "uid": 11447643,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu głównym do budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10735811205,
+            "lat": 54.0965566,
+            "lon": 22.9329992,
+            "timestamp": "2023-03-14T20:19:13Z",
+            "version": 1,
+            "changeset": 133683578,
+            "user": "LadroTranquillo",
+            "uid": 11447643,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na patio w budynku przy windach.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
