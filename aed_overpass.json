@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-14T11:33:08Z",
-        "timestamp_areas_base": "2023-03-14T10:40:23Z",
+        "timestamp_osm_base": "2023-03-14T12:31:42Z",
+        "timestamp_areas_base": "2023-03-14T11:40:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96586,6 +96586,24 @@
                 "defibrillator:location": "Defibrylator AED znajduje się w wyposażeniu Ochotniczej Straży Pożarnej w Starym Cykarzewie",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Starym Cykarzewie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10734769606,
+            "lat": 53.3614608,
+            "lon": 20.4191116,
+            "timestamp": "2023-03-14T12:03:21Z",
+            "version": 1,
+            "changeset": 133664011,
+            "user": "spn2023",
+            "uid": 18714882,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "I piętro, na ścianie obok pokoju nr 30, dostępny poniedziałek-piątek w godz. 7:15-21:00",
+                "defibrillator:location:en": "First floor, on the wall near room nr 30",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
