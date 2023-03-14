@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-14T13:32:24Z",
-        "timestamp_areas_base": "2023-03-14T12:40:54Z",
+        "timestamp_osm_base": "2023-03-14T14:30:53Z",
+        "timestamp_areas_base": "2023-03-14T13:41:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96604,6 +96604,24 @@
                 "defibrillator:location:en": "First floor, on the wall near room nr 30",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10734991007,
+            "lat": 52.2292314,
+            "lon": 16.3508776,
+            "timestamp": "2023-03-14T13:39:37Z",
+            "version": 1,
+            "changeset": 133667687,
+            "user": "TeooEoo",
+            "uid": 18715851,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Mobilny - w samochodzie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "512125250"
             }
         },
         {
