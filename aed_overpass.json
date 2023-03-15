@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T09:31:53Z",
-        "timestamp_areas_base": "2023-03-15T08:48:24Z",
+        "timestamp_osm_base": "2023-03-15T10:31:36Z",
+        "timestamp_areas_base": "2023-03-15T09:48:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -80332,29 +80332,37 @@
         {
             "type": "node",
             "id": 10292807846,
-            "lat": 52.1047699,
-            "lon": 19.9589098,
-            "timestamp": "2022-12-29T08:58:51Z",
-            "version": 1,
-            "changeset": 130633889,
+            "lat": 52.1048922,
+            "lon": 19.9588622,
+            "timestamp": "2023-03-15T09:54:39Z",
+            "version": 2,
+            "changeset": 133702598,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Na ścianie marketu Dino",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
             "type": "node",
             "id": 10292807847,
-            "lat": 52.1058005,
-            "lon": 19.9140248,
-            "timestamp": "2022-12-29T08:58:51Z",
-            "version": 1,
-            "changeset": 130633889,
+            "lat": 52.1057401,
+            "lon": 19.9140641,
+            "timestamp": "2023-03-15T09:54:39Z",
+            "version": 2,
+            "changeset": 133702598,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Na ścianie marketu Dino",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -96640,6 +96648,185 @@
                 "defibrillator:location": "Na patio w budynku przy windach.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736713845,
+            "lat": 50.4958296,
+            "lon": 20.7155735,
+            "timestamp": "2023-03-15T10:02:03Z",
+            "version": 1,
+            "changeset": 133702872,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://busko.com.pl/osp-mikulowice-pozyskalo-sprzet-ratujacy-zycie,,3,1,1,36385,n.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736726978,
+            "lat": 49.7090613,
+            "lon": 20.4242798,
+            "timestamp": "2023-03-15T09:58:55Z",
+            "version": 1,
+            "changeset": 133702761,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Biuro Nadleśnictwa Limanowa",
+                "emergency": "defibrillator",
+                "source": "https://limanowa.in/aktualnosci/szkolenia-z-ratownikami-w-lesie-tez-zdarzaja-sie-wypadki/64671"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752382,
+            "lat": 50.935855,
+            "lon": 16.4885204,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "GCKIS w Żarowie - basen",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752383,
+            "lat": 50.9436345,
+            "lon": 16.4985006,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "PCO Żarów",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do ustalenia",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752384,
+            "lat": 50.9435421,
+            "lon": 16.4969409,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "PE-MED NZOZ Żarów",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752385,
+            "lat": 50.9430702,
+            "lon": 16.4971358,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Centrum Medyczne Serafin-MED",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752386,
+            "lat": 50.9473324,
+            "lon": 16.5197178,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752389,
+            "lat": 50.9676417,
+            "lon": 16.568674,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752390,
+            "lat": 50.9404868,
+            "lon": 16.5619739,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752391,
+            "lat": 50.9003177,
+            "lon": 16.5035953,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736752392,
+            "lat": 50.9453003,
+            "lon": 16.4924048,
+            "timestamp": "2023-03-15T10:21:26Z",
+            "version": 1,
+            "changeset": 133703663,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
             }
         },
         {
