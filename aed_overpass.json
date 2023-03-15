@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T10:31:36Z",
-        "timestamp_areas_base": "2023-03-15T09:48:05Z",
+        "timestamp_osm_base": "2023-03-15T11:31:06Z",
+        "timestamp_areas_base": "2023-03-15T10:48:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96827,6 +96827,22 @@
                 "defibrillator:location": "W posiadaniu jednostki Ochotniczej Straży Pożarnej",
                 "emergency": "defibrillator",
                 "source": "https://doba.pl/dsw/artykul/kazdy-z-jego-pomoca-moze-uratowac-komus-zycie/44954/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736797134,
+            "lat": 51.8053512,
+            "lon": 15.7189993,
+            "timestamp": "2023-03-15T10:33:38Z",
+            "version": 1,
+            "changeset": 133704103,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "W Szkole Podstawowej nr 1",
+                "emergency": "defibrillator",
+                "source": "http://tygodnikkrag.pl/wyroznione/2023/03/w-jedynce-pojawil-sie-sprzet-ratujacy-zycie/"
             }
         },
         {
