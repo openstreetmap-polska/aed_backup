@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T11:31:06Z",
-        "timestamp_areas_base": "2023-03-15T10:48:37Z",
+        "timestamp_osm_base": "2023-03-15T12:31:54Z",
+        "timestamp_areas_base": "2023-03-15T11:49:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96843,6 +96843,26 @@
                 "defibrillator:location": "W Szkole Podstawowej nr 1",
                 "emergency": "defibrillator",
                 "source": "http://tygodnikkrag.pl/wyroznione/2023/03/w-jedynce-pojawil-sie-sprzet-ratujacy-zycie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10736974007,
+            "lat": 51.375623,
+            "lon": 20.2965316,
+            "timestamp": "2023-03-15T12:25:04Z",
+            "version": 1,
+            "changeset": 133707850,
+            "user": "Mateusz Grodzicki",
+            "uid": 18726651,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zlokalizowany w głównym korytarzu obiektu sportowego przy al. Sportowej 1 w Opocznie.",
+                "defibrillator:location:en": "Located in the main corridor of the sports facility at al. Sportowa 1 in Opoczno.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "447860177"
             }
         },
         {
