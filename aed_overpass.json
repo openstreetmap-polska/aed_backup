@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T13:32:26Z",
-        "timestamp_areas_base": "2023-03-15T12:49:09Z",
+        "timestamp_osm_base": "2023-03-15T14:31:24Z",
+        "timestamp_areas_base": "2023-03-15T13:49:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96863,6 +96863,25 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "447860177"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10737176706,
+            "lat": 52.2316603,
+            "lon": 21.0247688,
+            "timestamp": "2023-03-15T14:15:18Z",
+            "version": 1,
+            "changeset": 133712098,
+            "user": "Joanna Sta",
+            "uid": 18727760,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Muzeum Narodowe w Warszawie",
+                "defibrillator:location:en": "National Museum in Warsaw",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "22 621 10 31"
             }
         },
         {
