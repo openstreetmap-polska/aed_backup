@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T21:32:02Z",
-        "timestamp_areas_base": "2023-03-15T20:52:54Z",
+        "timestamp_osm_base": "2023-03-15T22:32:25Z",
+        "timestamp_areas_base": "2023-03-15T21:53:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96933,6 +96933,36 @@
                 "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su off",
                 "ref:api-um-warszawa-pl": "945",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10738070000,
+            "lat": 54.2450296,
+            "lon": 16.1674503,
+            "timestamp": "2023-03-15T22:03:15Z",
+            "version": 2,
+            "changeset": 133726566,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "contact:facebook": "https://www.facebook.com/punktyzycia",
+                "defibrillator:location:en": "At the intersection of Szkolna and Jamnenska Streets. By the school, in the south-western corner of the Yamen Farm fence.",
+                "defibrillator:location:pl": "Na skrzyżowaniu ulicy Szkolnej z Jamneńską. Przy szkole, w południowo-zachodnim narożniku ogrodzenia Jameńskiej Zagrody.",
+                "description:en": "Free-standing AED placed in a green, illuminated RotAid capsule.",
+                "description:pl": "Wolnostojące AED umieszczone w zielonej, podświatlanej kapsule RotAid.",
+                "email": "kontakt@budkazycia.pl",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "manufacturer": "Philips",
+                "model": "Heartstart",
+                "note": "Projekt \"40 Punktów życia-defibrylatory AED w miejscach publicznych-bezpieczniejszy Koszalin\" zrealizowany w ramach Koszalińskiego Budżetu Obywatelskiego edycja 2021.",
+                "opening_hours": "24/7",
+                "ref:pkt-zycia-2023": "23",
+                "source": "Urząd Miejski w Koszalinie",
+                "website": "https://punktyzycia.pl/"
             }
         },
         {
