@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-15T18:32:17Z",
-        "timestamp_areas_base": "2023-03-15T17:51:06Z",
+        "timestamp_osm_base": "2023-03-15T19:31:32Z",
+        "timestamp_areas_base": "2023-03-15T18:51:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96882,6 +96882,57 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "22 621 10 31"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10737841743,
+            "lat": 52.2359106,
+            "lon": 20.9016205,
+            "timestamp": "2023-03-15T18:54:07Z",
+            "version": 1,
+            "changeset": 133721902,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "The defibrillator is located in the hall of the main entrance to the school.",
+                "defibrillator:location:pl": "Defibrylator jest umieszczony w holu głównego wejścia do szkoły.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM788.jpg",
+                "indoor": "yes",
+                "manufacturer": "PHILIPS",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su off",
+                "ref:api-um-warszawa-pl": "788",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10737861506,
+            "lat": 52.2307161,
+            "lon": 20.9034985,
+            "timestamp": "2023-03-15T19:03:36Z",
+            "version": 1,
+            "changeset": 133722153,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Corridor near the library, next to entrance A.",
+                "defibrillator:location:pl": "Korytarz koło biblioteki, obok wejścia A.",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM945.jpg",
+                "indoor": "yes",
+                "level": "1",
+                "manufacturer": "IPAD CU Medical Systems, Inc.",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su off",
+                "ref:api-um-warszawa-pl": "945",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
