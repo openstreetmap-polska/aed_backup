@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T20:31:54Z",
-        "timestamp_areas_base": "2023-03-16T20:00:23Z",
+        "timestamp_osm_base": "2023-03-16T21:31:37Z",
+        "timestamp_areas_base": "2023-03-16T21:01:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96940,17 +96940,17 @@
             "id": 10738070000,
             "lat": 54.2450296,
             "lon": 16.1674503,
-            "timestamp": "2023-03-16T17:28:29Z",
-            "version": 3,
-            "changeset": 133758924,
+            "timestamp": "2023-03-16T20:41:26Z",
+            "version": 4,
+            "changeset": 133764780,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-03-07",
                 "contact:facebook": "https://www.facebook.com/punktyzycia",
-                "defibrillator:location:en": "At the intersection of Szkolna and Jamnenska Streets. By the school, in the south-western corner of the Yamen Farm fence.",
-                "defibrillator:location:pl": "Na skrzyżowaniu ulicy Szkolnej z Jamneńską. Przy szkole, w południowo-zachodnim narożniku ogrodzenia Jameńskiej Zagrody.",
+                "defibrillator:location:en": "At the intersection of Szkolna and Jamnenska Streets. By the school, in the south-western corner of the \"Jamneńska Zagroda\" fence.",
+                "defibrillator:location:pl": "Na skrzyżowaniu ulicy Szkolnej z Jamneńską. Przy szkole, w południowo-zachodnim narożniku ogrodzenia Jamneńskiej Zagrody.",
                 "description:en": "Free-standing AED placed in a green, illuminated RotAid capsule.",
                 "description:pl": "Wolnostojące AED umieszczone w zielonej, podświatlanej kapsule RotAid.",
                 "email": "kontakt@budkazycia.pl",
