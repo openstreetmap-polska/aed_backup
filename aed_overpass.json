@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T07:32:08Z",
-        "timestamp_areas_base": "2023-03-16T06:54:44Z",
+        "timestamp_osm_base": "2023-03-16T08:32:16Z",
+        "timestamp_areas_base": "2023-03-16T07:55:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96963,6 +96963,26 @@
                 "ref:pkt-zycia-2023": "23",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10738725905,
+            "lat": 52.4675954,
+            "lon": 16.868258,
+            "timestamp": "2023-03-16T08:25:52Z",
+            "version": 1,
+            "changeset": 133738234,
+            "user": "Amonaria-gabinety specjalistyczne",
+            "uid": 18735418,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Rejestracja",
+                "defibrillator:location:en": "Next to reception desk",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "+570 629 580"
             }
         },
         {
