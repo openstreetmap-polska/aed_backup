@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T11:31:24Z",
-        "timestamp_areas_base": "2023-03-16T10:56:09Z",
+        "timestamp_osm_base": "2023-03-16T12:31:59Z",
+        "timestamp_areas_base": "2023-03-16T11:56:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96999,6 +96999,23 @@
                 "emergency": "defibrillator",
                 "note": "OSP Targowa Górka posiada 2 Defibrylatory AED",
                 "operator": "OSP Targowa Górka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10739103277,
+            "lat": 50.9852138,
+            "lon": 23.7335646,
+            "timestamp": "2023-03-16T12:25:56Z",
+            "version": 1,
+            "changeset": 133747057,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w jednostce OSP Białopole.",
+                "emergency": "defibrillator",
+                "operator": "OSP Białopole"
             }
         },
         {
