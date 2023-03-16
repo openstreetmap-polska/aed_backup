@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T10:31:52Z",
-        "timestamp_areas_base": "2023-03-16T09:56:29Z",
+        "timestamp_osm_base": "2023-03-16T11:31:24Z",
+        "timestamp_areas_base": "2023-03-16T10:56:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96983,6 +96983,22 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "+570 629 580"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10739022528,
+            "lat": 52.3044618,
+            "lon": 17.4428724,
+            "timestamp": "2023-03-16T11:27:58Z",
+            "version": 1,
+            "changeset": 133745073,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "note": "OSP Targowa Górka posiada 2 Defibrylatory AED",
+                "operator": "OSP Targowa Górka"
             }
         },
         {
