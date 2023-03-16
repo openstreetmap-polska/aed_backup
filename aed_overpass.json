@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T16:32:17Z",
-        "timestamp_areas_base": "2023-03-16T15:58:54Z",
+        "timestamp_osm_base": "2023-03-16T17:31:54Z",
+        "timestamp_areas_base": "2023-03-16T16:59:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96940,9 +96940,9 @@
             "id": 10738070000,
             "lat": 54.2450296,
             "lon": 16.1674503,
-            "timestamp": "2023-03-15T22:03:15Z",
-            "version": 2,
-            "changeset": 133726566,
+            "timestamp": "2023-03-16T17:28:29Z",
+            "version": 3,
+            "changeset": 133758924,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -96957,9 +96957,11 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "manufacturer": "Philips",
-                "model": "Heartstart",
+                "model": "FRx",
                 "note": "Projekt \"40 Punktów życia-defibrylatory AED w miejscach publicznych-bezpieczniejszy Koszalin\" zrealizowany w ramach Koszalińskiego Budżetu Obywatelskiego edycja 2021.",
                 "opening_hours": "24/7",
+                "operator": "Biuro Bezpieczeństwa i Zarządzania Kryzysowego Urzędu Miejskiego w Koszalinie",
+                "phone": "+48 94 34 71 112",
                 "ref:pkt-zycia-2023": "23",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
