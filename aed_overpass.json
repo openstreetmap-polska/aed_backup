@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-16T12:31:59Z",
-        "timestamp_areas_base": "2023-03-16T11:56:35Z",
+        "timestamp_osm_base": "2023-03-16T13:31:38Z",
+        "timestamp_areas_base": "2023-03-16T12:57:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -97016,6 +97016,25 @@
                 "defibrillator:location": "Defibrylator AED znajduje się w jednostce OSP Białopole.",
                 "emergency": "defibrillator",
                 "operator": "OSP Białopole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10739125481,
+            "lat": 52.3919422,
+            "lon": 16.8677955,
+            "timestamp": "2023-03-16T12:37:30Z",
+            "version": 1,
+            "changeset": 133747413,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w placówce centrum medycznego neoMedica.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-12:00",
+                "operator": "neoMedica - Centrum Medyczne",
+                "phone": "+48730730710"
             }
         },
         {
