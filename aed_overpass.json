@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-17T12:32:08Z",
-        "timestamp_areas_base": "2023-03-17T12:04:53Z",
+        "timestamp_osm_base": "2023-03-17T13:31:54Z",
+        "timestamp_areas_base": "2023-03-17T13:05:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -97277,6 +97277,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://kk24.pl/kolejne-defibrylatory-w-kedzierzynie-kozlu-to-sprzet-ktory-ratuje-zycie-kazdy-moze-go-uzyc/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10741500586,
+            "lat": 53.4084296,
+            "lon": 14.538238,
+            "timestamp": "2023-03-17T13:21:43Z",
+            "version": 1,
+            "changeset": 133788352,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w siedzibie Gaz-System",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Polska Spółka Gazownictwa - Oddział Zakład Gazowniczy w Szczecinie",
+                "phone": "+48225151515"
             }
         },
         {
