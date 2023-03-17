@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-17T20:31:33Z",
-        "timestamp_areas_base": "2023-03-17T20:09:12Z",
+        "timestamp_osm_base": "2023-03-17T21:32:23Z",
+        "timestamp_areas_base": "2023-03-17T21:08:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32879,19 +32879,20 @@
         {
             "type": "node",
             "id": 9487630103,
-            "lat": 53.2920643,
-            "lon": 20.52435,
-            "timestamp": "2022-02-07T19:04:53Z",
-            "version": 1,
-            "changeset": 117132042,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 53.2952759,
+            "lon": 20.5254655,
+            "timestamp": "2023-03-17T21:08:54Z",
+            "version": 2,
+            "changeset": 133804762,
+            "user": "Tomaszek998",
+            "uid": 8620998,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Urządzenie znajduje się na samochodzie specjalnym OSP",
+                "access": "yes",
+                "defibrillator:location": "Urządzenie znajduje się na samochodzie  OSP. Numer alarmowy 112",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Janowcu Kościelnym",
-                "phone": "+48 793724042"
+                "phone": "112"
             }
         },
         {
