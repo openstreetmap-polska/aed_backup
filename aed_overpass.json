@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-17T07:32:09Z",
-        "timestamp_areas_base": "2023-03-17T07:03:37Z",
+        "timestamp_osm_base": "2023-03-17T08:31:54Z",
+        "timestamp_areas_base": "2023-03-17T08:03:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68643,15 +68643,21 @@
             "id": 9933678600,
             "lat": 51.2466838,
             "lon": 22.5493133,
-            "timestamp": "2022-08-05T12:02:33Z",
-            "version": 1,
-            "changeset": 124520198,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-03-17T08:00:19Z",
+            "version": 2,
+            "changeset": 133777248,
+            "user": "Jankes80",
+            "uid": 10738538,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-03-17",
                 "defibrillator:location": "Defibrylator AED znajduje się przy Kancelarii Ogólnej Urzędu Marszałkowskiego Województwa Lubuskiego",
+                "defibrillator:location:pl": "Na ścianie przy Kancelarii Ogólnej",
                 "emergency": "defibrillator",
-                "operator": "Urząd Marszałkowski Województwa Lubelskiego w Lublinie"
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Urząd Marszałkowski Województwa Lubelskiego w Lublinie",
+                "phone": "+48814416600"
             }
         },
         {
