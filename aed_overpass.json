@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-17T08:31:54Z",
-        "timestamp_areas_base": "2023-03-17T08:03:24Z",
+        "timestamp_osm_base": "2023-03-17T09:31:36Z",
+        "timestamp_areas_base": "2023-03-17T09:03:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -97241,6 +97241,42 @@
                 "ref:pkt-zycia-2023": "5",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10741067111,
+            "lat": 50.3232953,
+            "lon": 18.2422923,
+            "timestamp": "2023-03-17T09:00:17Z",
+            "version": 1,
+            "changeset": 133779238,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Mieszkania Chronione na osiedlu Azoty",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://kk24.pl/kolejne-defibrylatory-w-kedzierzynie-kozlu-to-sprzet-ktory-ratuje-zycie-kazdy-moze-go-uzyc/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10741067116,
+            "lat": 50.3423637,
+            "lon": 18.2043621,
+            "timestamp": "2023-03-17T09:00:17Z",
+            "version": 1,
+            "changeset": 133779238,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wyposażeniu siedziby Miejskiego Ośrodka Pomocy Społecznej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://kk24.pl/kolejne-defibrylatory-w-kedzierzynie-kozlu-to-sprzet-ktory-ratuje-zycie-kazdy-moze-go-uzyc/"
             }
         },
         {
