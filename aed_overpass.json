@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-17T19:31:45Z",
-        "timestamp_areas_base": "2023-03-17T19:08:24Z",
+        "timestamp_osm_base": "2023-03-17T20:31:33Z",
+        "timestamp_areas_base": "2023-03-17T20:09:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -65241,13 +65241,13 @@
         {
             "type": "node",
             "id": 9817192717,
-            "lat": 52.1240083,
-            "lon": 17.4802126,
-            "timestamp": "2022-06-14T12:26:15Z",
-            "version": 1,
-            "changeset": 122369116,
-            "user": "Karolina | Yanosik",
-            "uid": 11196347,
+            "lat": 52.1240585,
+            "lon": 17.4802944,
+            "timestamp": "2023-03-17T19:48:24Z",
+            "version": 2,
+            "changeset": 133802534,
+            "user": "jslawin2",
+            "uid": 12485703,
             "tags": {
                 "defibrillator:location": "OSP Orzechowo",
                 "emergency": "defibrillator",
