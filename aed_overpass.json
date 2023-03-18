@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-18T13:32:00Z",
-        "timestamp_areas_base": "2023-03-18T13:13:39Z",
+        "timestamp_osm_base": "2023-03-18T14:31:54Z",
+        "timestamp_areas_base": "2023-03-18T14:14:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -97297,6 +97297,23 @@
                 "opening_hours": "Mo-Fr 08:00-16:00",
                 "operator": "Polska Spółka Gazownictwa - Oddział Zakład Gazowniczy w Szczecinie",
                 "phone": "+48225151515"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10743357983,
+            "lat": 50.8813659,
+            "lon": 18.7427717,
+            "timestamp": "2023-03-18T14:07:07Z",
+            "version": 1,
+            "changeset": 133824308,
+            "user": "mxp_11",
+            "uid": 18752186,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
