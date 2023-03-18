@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-18T16:31:39Z",
-        "timestamp_areas_base": "2023-03-18T16:14:24Z",
+        "timestamp_osm_base": "2023-03-18T17:32:19Z",
+        "timestamp_areas_base": "2023-03-18T17:15:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -97314,6 +97314,25 @@
                 "defibrillator:location": "Przy wejściu głównym do budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10743584405,
+            "lat": 50.310277,
+            "lon": 17.7730814,
+            "timestamp": "2023-03-18T16:38:31Z",
+            "version": 1,
+            "changeset": 133830144,
+            "user": "Jkrat23",
+            "uid": 18760401,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Remiza OSP ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "operator": "OSP Racławice Śląskie "
             }
         },
         {
