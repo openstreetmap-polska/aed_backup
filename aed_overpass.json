@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-19T10:32:24Z",
-        "timestamp_areas_base": "2023-03-19T10:20:09Z",
+        "timestamp_osm_base": "2023-03-19T11:32:08Z",
+        "timestamp_areas_base": "2023-03-19T11:19:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -20322,13 +20322,13 @@
         {
             "type": "node",
             "id": 9439918330,
-            "lat": 50.9493918,
-            "lon": 18.6574607,
-            "timestamp": "2023-01-19T07:42:42Z",
-            "version": 2,
-            "changeset": 131451927,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 50.9494109,
+            "lon": 18.6575097,
+            "timestamp": "2023-03-19T10:39:49Z",
+            "version": 3,
+            "changeset": 133852437,
+            "user": "mxp_11",
+            "uid": 18752186,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -97569,6 +97569,38 @@
                 "operator": "Biuro Bezpieczeństwa i Zarządzania Kryzysowego Urzędu Miejskiego w Koszalinie",
                 "phone": "+48 94 34 71 112",
                 "ref:pkt-zycia-2023": "17",
+                "source": "Urząd Miejski w Koszalinie",
+                "website": "https://punktyzycia.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10744936967,
+            "lat": 54.1643632,
+            "lon": 16.1825028,
+            "timestamp": "2023-03-19T11:08:35Z",
+            "version": 1,
+            "changeset": 133853332,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "contact:facebook": "https://www.facebook.com/punktyzycia",
+                "defibrillator:location:en": "In the vicinity of \"Bistro na Żytnia\" and \"Żabka\", next to the electric cabinet.",
+                "defibrillator:location:pl": "W sąsiedztwie \"Bistra na Żytniej\" i \"Żabki\", przy szafce elektrycznej.",
+                "description:en": "Free-standing AED placed in a green, illuminated Rotaid capsule.",
+                "description:pl": "Wolnostojące AED umieszczone w zielonej, podświatlanej kapsule Rotaid.",
+                "email": "kontakt@budkazycia.pl",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "manufacturer": "Philips",
+                "model": "FRx",
+                "note": "Projekt \"40 Punktów życia-defibrylatory AED w miejscach publicznych-bezpieczniejszy Koszalin\" zrealizowany w ramach Koszalińskiego Budżetu Obywatelskiego edycja 2021.",
+                "opening_hours": "24/7",
+                "operator": "Biuro Bezpieczeństwa i Zarządzania Kryzysowego Urzędu Miejskiego w Koszalinie",
+                "phone": "+48 94 34 71 112",
+                "ref:pkt-zycia-2023": "26",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
             }
