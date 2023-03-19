@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-19T14:31:13Z",
-        "timestamp_areas_base": "2023-03-19T14:21:08Z",
+        "timestamp_osm_base": "2023-03-19T15:31:52Z",
+        "timestamp_areas_base": "2023-03-19T15:21:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -71664,13 +71664,14 @@
             "id": 10068275176,
             "lat": 50.0720905,
             "lon": 20.0348096,
-            "timestamp": "2022-10-02T09:49:10Z",
-            "version": 1,
-            "changeset": 126886132,
-            "user": "dziabaducha",
-            "uid": 775276,
+            "timestamp": "2023-03-19T14:51:29Z",
+            "version": 2,
+            "changeset": 133861271,
+            "user": "Pingwinki",
+            "uid": 18689529,
             "tags": {
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "wheelchair": "limited"
             }
         },
@@ -97761,6 +97762,38 @@
                 "operator": "Biuro Bezpieczeństwa i Zarządzania Kryzysowego Urzędu Miejskiego w Koszalinie",
                 "phone": "+48 94 34 71 112",
                 "ref:pkt-zycia-2023": "18",
+                "source": "Urząd Miejski w Koszalinie",
+                "website": "https://punktyzycia.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10745392407,
+            "lat": 54.1998969,
+            "lon": 16.1895428,
+            "timestamp": "2023-03-19T15:17:17Z",
+            "version": 1,
+            "changeset": 133862206,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-07",
+                "contact:facebook": "https://www.facebook.com/punktyzycia",
+                "defibrillator:location:en": "Southeast of the ABC Stadium, adjacent to a small parking lot, next to the lighthouse, by the electrical cabinet.",
+                "defibrillator:location:pl": "Na południowy wschód od stadionu ABC, w sąsiedztwie niewielkiego parkingu, obok latarni, przy szafce elektrycznej.",
+                "description:en": "Free-standing AED placed in a green, illuminated Rotaid capsule.",
+                "description:pl": "Wolnostojące AED umieszczone w zielonej, podświatlanej kapsule Rotaid.",
+                "email": "kontakt@budkazycia.pl",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "manufacturer": "Philips",
+                "model": "FRx",
+                "note": "Projekt \"40 Punktów życia-defibrylatory AED w miejscach publicznych-bezpieczniejszy Koszalin\" zrealizowany w ramach Koszalińskiego Budżetu Obywatelskiego edycja 2021.",
+                "opening_hours": "24/7",
+                "operator": "Biuro Bezpieczeństwa i Zarządzania Kryzysowego Urzędu Miejskiego w Koszalinie",
+                "phone": "+48 94 34 71 112",
+                "ref:pkt-zycia-2023": "29",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
             }
