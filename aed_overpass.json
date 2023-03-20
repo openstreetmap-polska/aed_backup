@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T07:32:15Z",
-        "timestamp_areas_base": "2023-03-20T07:27:09Z",
+        "timestamp_osm_base": "2023-03-20T08:32:06Z",
+        "timestamp_areas_base": "2023-03-20T08:27:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98116,6 +98116,46 @@
                 "ref:pkt-zycia-2023": "21",
                 "source": "Urząd Miejski w Koszalinie",
                 "website": "https://punktyzycia.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10747803805,
+            "lat": 52.3298216,
+            "lon": 19.8678489,
+            "timestamp": "2023-03-20T07:53:11Z",
+            "version": 1,
+            "changeset": 133886268,
+            "user": "OSP KSRG Sanniki",
+            "uid": 18767139,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-20",
+                "defibrillator:location:pl": "Samochód Ratowniczy 439M61 Mercedes Atego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "phone": "798439538"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10747814705,
+            "lat": 52.3298134,
+            "lon": 19.867778,
+            "timestamp": "2023-03-20T07:56:55Z",
+            "version": 1,
+            "changeset": 133886407,
+            "user": "OSP KSRG Sanniki",
+            "uid": 18767139,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-20",
+                "defibrillator:location:pl": "Samochód Ratowniczy 439M61 Mercedes Atego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "phone": "+48 798439548"
             }
         },
         {
