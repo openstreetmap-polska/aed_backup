@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T12:31:53Z",
-        "timestamp_areas_base": "2023-03-20T12:28:52Z",
+        "timestamp_osm_base": "2023-03-20T13:31:24Z",
+        "timestamp_areas_base": "2023-03-20T13:29:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98157,6 +98157,23 @@
                 "indoor": "yes",
                 "level": "1",
                 "phone": "+48 798439548"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10748448905,
+            "lat": 53.5658334,
+            "lon": 20.9901759,
+            "timestamp": "2023-03-20T13:14:14Z",
+            "version": 1,
+            "changeset": 133898898,
+            "user": "Bank Spółdzielczy w Szczytnie",
+            "uid": 18768565,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy bankomacie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
