@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T17:32:23Z",
-        "timestamp_areas_base": "2023-03-20T17:31:22Z",
+        "timestamp_osm_base": "2023-03-20T18:32:06Z",
+        "timestamp_areas_base": "2023-03-20T18:31:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98174,6 +98174,27 @@
                 "defibrillator:location": "Na ścianie przy bankomacie.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749045705,
+            "lat": 54.3911328,
+            "lon": 18.4120953,
+            "timestamp": "2023-03-20T17:56:32Z",
+            "version": 2,
+            "changeset": 133909660,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-20",
+                "defibrillator:location": "Przy wejściu do salki katechetycznej z prawej strony",
+                "defibrillator:location:pl": "Przy wejściu do salki katechetycznej z prawej strony",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://www.facebook.com/groups/366645320168828/permalink/2364820423684631/"
             }
         },
         {
