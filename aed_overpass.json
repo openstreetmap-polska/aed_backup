@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T19:31:54Z",
-        "timestamp_areas_base": "2023-03-20T18:31:03Z",
+        "timestamp_osm_base": "2023-03-20T20:31:38Z",
+        "timestamp_areas_base": "2023-03-20T19:31:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98195,6 +98195,58 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://www.facebook.com/groups/366645320168828/permalink/2364820423684631/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749288874,
+            "lat": 51.8327781,
+            "lon": 17.4476377,
+            "timestamp": "2023-03-20T19:57:52Z",
+            "version": 1,
+            "changeset": 133913404,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://www.krotoszynska.pl/wiadomosci/kozmin-wlkp-przenosne-defibrylatory-przy-szkole-i-w-klubie-seniora-zdjecia/MSUHSJHWDKACUOnlrNj2"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749298975,
+            "lat": 52.1355443,
+            "lon": 18.4020708,
+            "timestamp": "2023-03-20T20:03:30Z",
+            "version": 1,
+            "changeset": 133913613,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749371605,
+            "lat": 53.1532988,
+            "lon": 20.6635605,
+            "timestamp": "2023-03-20T20:27:50Z",
+            "version": 1,
+            "changeset": 133914523,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
