@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59 e21c39fe",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T20:31:38Z",
-        "timestamp_areas_base": "2023-03-20T19:31:54Z",
+        "timestamp_osm_base": "2023-03-20T21:31:24Z",
+        "timestamp_areas_base": "2023-03-20T20:32:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98247,6 +98247,78 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749390691,
+            "lat": 53.0831089,
+            "lon": 20.4433935,
+            "timestamp": "2023-03-20T20:41:12Z",
+            "version": 1,
+            "changeset": 133914936,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.gov.pl/web/kppsp-mlawa/osp-ksrg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749390692,
+            "lat": 53.0086281,
+            "lon": 20.1232463,
+            "timestamp": "2023-03-20T20:41:12Z",
+            "version": 1,
+            "changeset": 133914936,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.gov.pl/web/kppsp-mlawa/osp-ksrg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749390694,
+            "lat": 52.8912114,
+            "lon": 20.2838277,
+            "timestamp": "2023-03-20T20:41:12Z",
+            "version": 1,
+            "changeset": 133914936,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.gov.pl/web/kppsp-mlawa/osp-ksrg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10749390695,
+            "lat": 53.1043826,
+            "lon": 20.1745807,
+            "timestamp": "2023-03-20T20:41:12Z",
+            "version": 1,
+            "changeset": 133914936,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.gov.pl/web/kppsp-mlawa/osp-ksrg"
             }
         },
         {
