@@ -18,7 +18,7 @@ README_FILE = 'README.MD'
 
 BACKUP_COMMIT_MSG = 'AED update'
 
-OVERPASS_API_URL = 'https://lz4.overpass-api.de/api/interpreter'
+OVERPASS_API_URL = 'https://overpass-api.de/api/interpreter'
 
 TIMEOUT = 30  # seconds
 RETRIES = 5
