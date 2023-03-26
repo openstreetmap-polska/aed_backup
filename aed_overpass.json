@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59 e21c39fe",
+    "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-20T23:31:39Z",
-        "timestamp_areas_base": "2023-03-20T22:33:00Z",
+        "timestamp_osm_base": "2023-03-26T20:32:24Z",
+        "timestamp_areas_base": "2023-03-26T19:25:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -28476,13 +28476,13 @@
         {
             "type": "node",
             "id": 9461323495,
-            "lat": 53.7001937,
-            "lon": 16.7012276,
-            "timestamp": "2022-02-06T11:33:26Z",
-            "version": 2,
-            "changeset": 117075608,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 53.7001389,
+            "lon": 16.701049,
+            "timestamp": "2023-03-25T20:01:03Z",
+            "version": 3,
+            "changeset": 134116990,
+            "user": "seba020",
+            "uid": 2578506,
             "tags": {
                 "access": "yes",
                 "addr:city": "Szczecinek",
@@ -41621,20 +41621,18 @@
             "id": 9528436381,
             "lat": 54.4413281,
             "lon": 18.4209038,
-            "timestamp": "2022-02-22T23:17:32Z",
-            "version": 1,
-            "changeset": 117747099,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-03-22T19:02:01Z",
+            "version": 2,
+            "changeset": 133992349,
+            "user": "Bbbb25",
+            "uid": 18780920,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "email": "kontakt@ospchwaszczyno.pl",
+                "access": "yes",
+                "defibrillator:location:pl": "osp chwaszczyno ",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "OSP Chwaszczyno",
-                "website": "http://ospchwaszczyno.pl/"
+                "image": "",
+                "indoor": "no",
+                "operator": "zewnątrz budynku "
             }
         },
         {
@@ -64482,16 +64480,17 @@
             "id": 9817051617,
             "lat": 54.5014761,
             "lon": 18.4533771,
-            "timestamp": "2022-06-17T09:19:41Z",
-            "version": 2,
-            "changeset": 122499262,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2023-03-21T08:24:38Z",
+            "version": 3,
+            "changeset": 133928945,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator dostępny na budynku szkoły.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Szkoła Podstawowa nr 48"
             }
         },
         {
@@ -77779,19 +77778,20 @@
             "id": 10231143017,
             "lat": 51.9787959,
             "lon": 21.2170631,
-            "timestamp": "2023-02-21T14:16:25Z",
-            "version": 3,
-            "changeset": 132838344,
+            "timestamp": "2023-03-21T17:24:11Z",
+            "version": 4,
+            "changeset": 133950071,
             "user": "pomocnysztab",
             "uid": 14165189,
             "tags": {
                 "access": "private",
-                "check_date": "2023-02-21",
+                "check_date": "2023-03-21",
                 "defibrillator:location": "Warsztaty Terapii Zajęciowej na 2 piętrze za drzwiami",
                 "defibrillator:location:pl": "za drzwiami WTZ pod nadzorem",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "1"
+                "level": "1",
+                "operator": "WTZ"
             }
         },
         {
@@ -81394,19 +81394,20 @@
             "id": 10293860211,
             "lat": 52.1884954,
             "lon": 20.8152427,
-            "timestamp": "2023-03-07T11:49:28Z",
-            "version": 2,
-            "changeset": 133399891,
-            "user": "NieWnen",
-            "uid": 3885790,
+            "timestamp": "2023-03-21T07:50:57Z",
+            "version": 3,
+            "changeset": 133927804,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-03-07",
                 "covered": "yes",
-                "defibrillator:location": "Przy wejściu po prawej stronie",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu po prawej stronie",
                 "defibrillator:location:en": "At the entrance on the right",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "operator": "Szkoła Podstawowa nr 5 im. Ignacego Jana Paderewskiego",
                 "wheelchair": "yes"
             }
         },
@@ -98319,6 +98320,453 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.gov.pl/web/kppsp-mlawa/osp-ksrg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750179506,
+            "lat": 50.037195,
+            "lon": 21.2064082,
+            "timestamp": "2023-03-21T08:15:16Z",
+            "version": 1,
+            "changeset": 133928670,
+            "user": "OSP ŻDŻARY",
+            "uid": 18772389,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W remizie OSP ŻDŻARY",
+                "defibrillator:location:en": "In the firehouse building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "888903602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750183736,
+            "lat": 54.3435496,
+            "lon": 18.3637107,
+            "timestamp": "2023-03-21T08:15:30Z",
+            "version": 1,
+            "changeset": 133928679,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie wejścia do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://expresskaszubski.pl/pl/11_wiadomosci/44428_gm-ukowo-defibrylatory-aed-w-siedmiu-miejscowosciach.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750183737,
+            "lat": 54.3074576,
+            "lon": 18.3880586,
+            "timestamp": "2023-03-21T08:15:30Z",
+            "version": 1,
+            "changeset": 133928679,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po prawej stronie wejścia do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://expresskaszubski.pl/pl/11_wiadomosci/44428_gm-ukowo-defibrylatory-aed-w-siedmiu-miejscowosciach.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750183739,
+            "lat": 54.3151885,
+            "lon": 18.4342014,
+            "timestamp": "2023-03-21T08:15:30Z",
+            "version": 1,
+            "changeset": 133928679,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://expresskaszubski.pl/pl/11_wiadomosci/44428_gm-ukowo-defibrylatory-aed-w-siedmiu-miejscowosciach.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750183740,
+            "lat": 54.3467072,
+            "lon": 18.432753,
+            "timestamp": "2023-03-21T08:15:30Z",
+            "version": 1,
+            "changeset": 133928679,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Od strony tylnego wejścia do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://expresskaszubski.pl/pl/11_wiadomosci/44428_gm-ukowo-defibrylatory-aed-w-siedmiu-miejscowosciach.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750183747,
+            "lat": 54.4411089,
+            "lon": 18.4210008,
+            "timestamp": "2023-03-21T08:15:30Z",
+            "version": 1,
+            "changeset": 133928679,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po lewej stronie wejścia do Strefy Kultury",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://expresskaszubski.pl/pl/11_wiadomosci/44428_gm-ukowo-defibrylatory-aed-w-siedmiu-miejscowosciach.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750204628,
+            "lat": 50.0023266,
+            "lon": 20.1606199,
+            "timestamp": "2023-03-21T08:28:11Z",
+            "version": 1,
+            "changeset": 133929062,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED na wyposażeniu OSP Zakrzowiec",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Zakrzowiec"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750224523,
+            "lat": 53.3620765,
+            "lon": 17.0449653,
+            "timestamp": "2023-03-21T08:46:40Z",
+            "version": 1,
+            "changeset": 133929754,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED na wyposażeniu basenu Laguna",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "operator": "Laguna",
+                "phone": "+48672635993"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750660706,
+            "lat": 51.7385725,
+            "lon": 18.0459892,
+            "timestamp": "2023-03-21T11:52:32Z",
+            "version": 1,
+            "changeset": 133937338,
+            "user": "Ignaszak",
+            "uid": 18713949,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Salon VW, w gablocie na ścianie",
+                "defibrillator:location:en": "VW showroom, in a display case on the wall",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10750932105,
+            "lat": 50.0292933,
+            "lon": 20.219926,
+            "timestamp": "2023-03-22T09:44:32Z",
+            "version": 2,
+            "changeset": 133970381,
+            "user": "KrakowNH",
+            "uid": 10620416,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Urządzenie znajduje się w holu Krytej Pływalni tuż przy kasie.",
+                "defibrillator:location:en": "The AED is located in the lobby of the Indoor Swimming Pool, next to the ticket office.",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Su 07:00-21:45",
+                "source": "yes;survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10752731208,
+            "lat": 50.0324456,
+            "lon": 20.2159931,
+            "timestamp": "2023-03-22T10:17:58Z",
+            "version": 1,
+            "changeset": 133971612,
+            "user": "KrakowNH",
+            "uid": 10620416,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Znajduje się w poczekalni",
+                "defibrillator:location:en": "Inside the bulding in waiting area",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10753739705,
+            "lat": 50.0548588,
+            "lon": 19.925911,
+            "timestamp": "2023-03-22T16:17:39Z",
+            "version": 1,
+            "changeset": 133985712,
+            "user": "Nkc2023",
+            "uid": 18780162,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Novotel Kraków Centrum, ul. Tadeusza Kosciuszki 5",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "operator": "Novotel Kraków Centrum "
+            }
+        },
+        {
+            "type": "node",
+            "id": 10753742105,
+            "lat": 50.0549071,
+            "lon": 19.9259305,
+            "timestamp": "2023-03-22T16:19:06Z",
+            "version": 1,
+            "changeset": 133985761,
+            "user": "Nkc2023",
+            "uid": 18780162,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "ul.Tadeusza Kościuszki 5, 30-150 Kraków ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "operator": "Novotel Kraków Centrum "
+            }
+        },
+        {
+            "type": "node",
+            "id": 10753773506,
+            "lat": 50.0549253,
+            "lon": 19.9259024,
+            "timestamp": "2023-03-22T16:46:00Z",
+            "version": 1,
+            "changeset": 133986739,
+            "user": "Nkc2023",
+            "uid": 18780162,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy recepcji",
+                "defibrillator:location:en": "On the wall, next to Reception desk",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10755358977,
+            "lat": 50.2603941,
+            "lon": 19.1365566,
+            "timestamp": "2023-03-23T07:18:31Z",
+            "version": 1,
+            "changeset": 134008782,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w siedzibie Sosnowieckich Wodociągów.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-17:00; Tu-Fr 07:00-15:00",
+                "operator": "Sosnowieckie Wodociągi",
+                "phone": "+48322925590"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10755396305,
+            "lat": 50.5873382,
+            "lon": 21.6928603,
+            "timestamp": "2023-03-23T07:26:22Z",
+            "version": 1,
+            "changeset": 134009068,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED dostępny w Word Tarnobrzeg",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Wojewódzki Ośrodek Ruchu Drogowego",
+                "phone": "+48158235600"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10755608054,
+            "lat": 53.1286446,
+            "lon": 23.0765871,
+            "timestamp": "2023-03-23T09:40:10Z",
+            "version": 1,
+            "changeset": 134014163,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na skrzyżowaniu ul. Popiełuszki i ul. Nowosielskiej w Białymstoku, ogólnodostępne miejsce, przy chodniku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10756229505,
+            "lat": 51.0637322,
+            "lon": 16.9971539,
+            "timestamp": "2023-03-23T17:10:02Z",
+            "version": 2,
+            "changeset": 134032332,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie przy tylnym wyjściu, drzwi nr W5",
+                "defibrillator:location:en": "On the wall by the back exit, door number W5",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "+48 71 787 60 35"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10756785505,
+            "lat": 52.0175604,
+            "lon": 18.452463,
+            "timestamp": "2023-03-23T17:46:06Z",
+            "version": 1,
+            "changeset": 134033775,
+            "user": "Karol Wilczyński",
+            "uid": 18786074,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48607858363"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10757353288,
+            "lat": 51.2461669,
+            "lon": 16.8516272,
+            "timestamp": "2023-03-23T19:42:06Z",
+            "version": 1,
+            "changeset": 134038074,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej sklepu Sezam, na prawo od wejścia",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Sklep spożywczy Delikatesy Sezam",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10758289025,
+            "lat": 50.7168061,
+            "lon": 23.2339768,
+            "timestamp": "2023-03-24T07:22:28Z",
+            "version": 1,
+            "changeset": 134051870,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie sklepu Biedronka",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:00-23:00",
+                "operator": "Biedronka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10758543105,
+            "lat": 52.0174007,
+            "lon": 18.4524539,
+            "timestamp": "2023-03-24T09:40:19Z",
+            "version": 1,
+            "changeset": 134057813,
+            "user": "Karol Wilczyński",
+            "uid": 18786074,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy bufecie",
+                "defibrillator:location:en": "On the wall by the buffet",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 607 858 363"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10758550005,
+            "lat": 50.0304096,
+            "lon": 22.0389649,
+            "timestamp": "2023-03-24T09:43:14Z",
+            "version": 1,
+            "changeset": 134057939,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-03-24",
+                "defibrillator:location:pl": "Przy wejściu w Punkcie Obsługi Klienta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10763662105,
+            "lat": 51.1091947,
+            "lon": 16.8800925,
+            "timestamp": "2023-03-26T13:24:01Z",
+            "version": 1,
+            "changeset": 134136353,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-03-26",
+                "defibrillator:location:pl": "Na ścianie pomiędzy Gate 6 i 7 (po stronie sklepów)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
