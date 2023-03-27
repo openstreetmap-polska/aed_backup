@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.4 36d058c8",
+    "generator": "Overpass API 0.7.59.2 0994154d",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-27T09:32:22Z",
-        "timestamp_areas_base": "2023-03-27T07:46:52Z",
+        "timestamp_osm_base": "2023-03-27T10:32:02Z",
+        "timestamp_areas_base": "2023-03-27T10:13:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98766,6 +98766,41 @@
                 "check_date": "2023-03-26",
                 "defibrillator:location:pl": "Na ścianie pomiędzy Gate 6 i 7 (po stronie sklepów)",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10765831305,
+            "lat": 53.3582576,
+            "lon": 20.4213389,
+            "timestamp": "2023-03-27T10:29:18Z",
+            "version": 1,
+            "changeset": 134170692,
+            "user": "damian11046",
+            "uid": 18802244,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10765831306,
+            "lat": 53.3601391,
+            "lon": 20.4310459,
+            "timestamp": "2023-03-27T10:29:50Z",
+            "version": 1,
+            "changeset": 134170692,
+            "user": "damian11046",
+            "uid": 18802244,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W środku na ścianie",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
                 "indoor": "yes"
             }
         },
