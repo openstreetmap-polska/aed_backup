@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.2 0994154d",
+    "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-27T17:31:54Z",
-        "timestamp_areas_base": "2023-03-27T17:17:54Z",
+        "timestamp_osm_base": "2023-03-27T18:31:38Z",
+        "timestamp_areas_base": "2023-03-27T14:20:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98861,6 +98861,33 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "PGE Energia Ciepła S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10766921922,
+            "lat": 52.251768,
+            "lon": 21.228284,
+            "timestamp": "2023-03-27T18:25:40Z",
+            "version": 1,
+            "changeset": 134189992,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "check_date": "2023-02-19",
+                "defibrillator:location:en": "Children's room right. On the wall in the cabinet.",
+                "defibrillator:location:pl": "Sala dziecięca prawa. Na ścianie w gablocie.",
+                "email": "zlobek53@zlobki.waw.pl",
+                "emergency": "defibrillator",
+                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1401.jpg",
+                "indoor": "yes",
+                "manufacturer": "CU Medical Systems iPAD CU-SP1",
+                "model": "iPAD CU-SP1",
+                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
+                "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su off",
+                "phone": "+48 507 661 428",
+                "ref:api-um-warszawa-pl": "1401",
+                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
