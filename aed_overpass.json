@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.2 0994154d",
+    "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-27T13:32:09Z",
-        "timestamp_areas_base": "2023-03-27T13:14:54Z",
+        "timestamp_osm_base": "2023-03-27T14:31:54Z",
+        "timestamp_areas_base": "2023-03-27T09:36:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98660,24 +98660,6 @@
         },
         {
             "type": "node",
-            "id": 10756785505,
-            "lat": 52.0175604,
-            "lon": 18.452463,
-            "timestamp": "2023-03-23T17:46:06Z",
-            "version": 1,
-            "changeset": 134033775,
-            "user": "Karol Wilczyński",
-            "uid": 18786074,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na ścianie przy wejściu",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "+48607858363"
-            }
-        },
-        {
-            "type": "node",
             "id": 10757353288,
             "lat": 51.2461669,
             "lon": 16.8516272,
@@ -98719,9 +98701,9 @@
             "id": 10758543105,
             "lat": 52.0174007,
             "lon": 18.4524539,
-            "timestamp": "2023-03-24T09:40:19Z",
-            "version": 1,
-            "changeset": 134057813,
+            "timestamp": "2023-03-27T13:50:16Z",
+            "version": 2,
+            "changeset": 134179013,
             "user": "Karol Wilczyński",
             "uid": 18786074,
             "tags": {
@@ -98729,8 +98711,11 @@
                 "defibrillator:location": "Na ścianie przy bufecie",
                 "defibrillator:location:en": "On the wall by the buffet",
                 "emergency": "defibrillator",
+                "image": "https://www.facebook.com/photo/?fbid=639203001550725&set=pb.100063830911926.-2207520000.",
                 "indoor": "yes",
-                "phone": "+48 607 858 363"
+                "operator": "Restauracja \"AS\" - Noclegi",
+                "phone": "+48 607 858 363",
+                "website": "restauracja-as.pl"
             }
         },
         {
