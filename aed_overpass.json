@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.4 36d058c8",
+    "generator": "Overpass API 0.7.59.2 0994154d",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-27T11:31:54Z",
-        "timestamp_areas_base": "2023-03-27T09:36:22Z",
+        "timestamp_osm_base": "2023-03-27T13:32:09Z",
+        "timestamp_areas_base": "2023-03-27T13:14:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98820,6 +98820,62 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48693116248"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10766149105,
+            "lat": 51.7744475,
+            "lon": 19.4718503,
+            "timestamp": "2023-03-27T12:20:29Z",
+            "version": 1,
+            "changeset": 134175156,
+            "user": "necoo56",
+            "uid": 18774163,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-03-27",
+                "defibrillator:location:en": "Inside Żłobek Montessori building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 693 11 62 48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10766210629,
+            "lat": 50.1317523,
+            "lon": 18.5205457,
+            "timestamp": "2023-03-27T12:58:16Z",
+            "version": 1,
+            "changeset": 134176729,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED mobilny należy do Zakładowej Straż Pożarna PGE Energia Ciepła S.A.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "PGE Energia Ciepła S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10766214937,
+            "lat": 50.1341055,
+            "lon": 18.527332,
+            "timestamp": "2023-03-27T13:01:12Z",
+            "version": 1,
+            "changeset": 134176861,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED mobilny znajduje się w siedzibie Dyżurnego Inżyniera Ruchu PGE Energia Ciepła S.A.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "PGE Energia Ciepła S.A."
             }
         },
         {
