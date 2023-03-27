@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.2 0994154d",
+    "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-27T10:32:02Z",
-        "timestamp_areas_base": "2023-03-27T10:13:54Z",
+        "timestamp_osm_base": "2023-03-27T11:31:54Z",
+        "timestamp_areas_base": "2023-03-27T09:36:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98802,6 +98802,24 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10765923905,
+            "lat": 51.7744421,
+            "lon": 19.4718637,
+            "timestamp": "2023-03-27T11:18:14Z",
+            "version": 1,
+            "changeset": 134172606,
+            "user": "necoo56",
+            "uid": 18774163,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Żlobek Montessori",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48693116248"
             }
         },
         {
