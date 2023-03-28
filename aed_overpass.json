@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-28T19:32:01Z",
-        "timestamp_areas_base": "2023-03-28T17:12:23Z",
+        "timestamp_osm_base": "2023-03-28T20:31:33Z",
+        "timestamp_areas_base": "2023-03-28T18:50:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98951,19 +98951,20 @@
         {
             "type": "node",
             "id": 10769303305,
-            "lat": 51.3742274,
-            "lon": 20.2832526,
-            "timestamp": "2023-03-28T18:33:46Z",
-            "version": 1,
-            "changeset": 134232174,
+            "lat": 51.3740807,
+            "lon": 20.283126,
+            "timestamp": "2023-03-28T19:51:14Z",
+            "version": 2,
+            "changeset": 134234330,
             "user": "Mlonek",
             "uid": 18809461,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Na ścianie w holu budynku głównego MGOPS w Opocznie",
                 "defibrillator:location:en": "On the wall in the hall of the main building of MGOPS in Opoczno",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Miejsko-Gminny Ośrodek Pomocy Społecznej w Opocznie"
             }
         },
         {
