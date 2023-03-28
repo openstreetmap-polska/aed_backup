@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-28T18:32:23Z",
-        "timestamp_areas_base": "2023-03-28T14:05:09Z",
+        "timestamp_osm_base": "2023-03-28T19:32:01Z",
+        "timestamp_areas_base": "2023-03-28T17:12:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98946,6 +98946,24 @@
                 "phone": "+48 22 443 40 00",
                 "ref:api-um-warszawa-pl": "921",
                 "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10769303305,
+            "lat": 51.3742274,
+            "lon": 20.2832526,
+            "timestamp": "2023-03-28T18:33:46Z",
+            "version": 1,
+            "changeset": 134232174,
+            "user": "Mlonek",
+            "uid": 18809461,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w holu budynku głównego MGOPS w Opocznie",
+                "defibrillator:location:en": "On the wall in the hall of the main building of MGOPS in Opoczno",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
