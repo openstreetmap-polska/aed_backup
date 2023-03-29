@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-29T20:31:43Z",
+        "timestamp_osm_base": "2023-03-29T21:32:15Z",
         "timestamp_areas_base": "2023-03-29T17:04:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -98971,18 +98971,19 @@
         {
             "type": "node",
             "id": 10771496805,
-            "lat": 52.4042122,
-            "lon": 16.8526181,
-            "timestamp": "2023-03-29T17:39:01Z",
-            "version": 1,
-            "changeset": 134272821,
+            "lat": 52.4042138,
+            "lon": 16.8526151,
+            "timestamp": "2023-03-29T20:36:19Z",
+            "version": 2,
+            "changeset": 134278027,
             "user": "Guzenda",
             "uid": 12518915,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na starcie/mecie parkrun Lasek Marceliński",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "opening_hours=Sa 08:45-10:00"
             }
         },
         {
