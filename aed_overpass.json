@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-30T08:31:49Z",
-        "timestamp_areas_base": "2023-03-30T07:25:05Z",
+        "timestamp_osm_base": "2023-03-30T09:31:23Z",
+        "timestamp_areas_base": "2023-03-30T04:03:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98478,16 +98478,15 @@
             "id": 10750660706,
             "lat": 51.7385725,
             "lon": 18.0459892,
-            "timestamp": "2023-03-29T16:49:30Z",
-            "version": 2,
-            "changeset": 134271104,
-            "user": "Mignac71",
-            "uid": 18813982,
+            "timestamp": "2023-03-30T09:22:26Z",
+            "version": 3,
+            "changeset": 134295497,
+            "user": "Ignaszak",
+            "uid": 18713949,
             "tags": {
                 "access": "customers",
                 "defibrillator:location:pl": "Salon VW, w gablocie na ścianie",
                 "emergency": "defibrillator",
-                "image": "",
                 "indoor": "yes"
             }
         },
