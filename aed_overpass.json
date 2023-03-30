@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-30T19:31:52Z",
-        "timestamp_areas_base": "2023-03-30T18:17:38Z",
+        "timestamp_osm_base": "2023-03-30T20:31:54Z",
+        "timestamp_areas_base": "2023-03-30T16:59:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99109,6 +99109,536 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48788953489"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774115999,
+            "lat": 50.2534239,
+            "lon": 18.6866001,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774116000,
+            "lat": 50.2998566,
+            "lon": 18.6731391,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Prokuratura Okręgowa - budynek Biprohutu",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774116001,
+            "lat": 50.2969955,
+            "lon": 18.6711577,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Oddział PZU",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774116002,
+            "lat": 50.3542812,
+            "lon": 18.6169301,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "note": "mobilne AED w dwóch wozach bojowych (stacjonują w jednostce)",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774116003,
+            "lat": 50.3542926,
+            "lon": 18.6167849,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "note": "mobilne AED w dwóch wozach bojowych (stacjonują w jednostce)",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774116004,
+            "lat": 50.2566123,
+            "lon": 18.6565067,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Handlowe Auchan",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155805,
+            "lat": 50.3277629,
+            "lon": 18.6494517,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Kryta Pływalnia Olimpijczyk",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155806,
+            "lat": 50.2817944,
+            "lon": 18.6627195,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Obsługi Klienta",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155807,
+            "lat": 50.3453429,
+            "lon": 18.6253852,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Vitamed Sp. z.o.o.",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "opening_hours": "24/7",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155820,
+            "lat": 50.2856916,
+            "lon": 18.6874702,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W punktach pomocy podczas wydarzeń",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155821,
+            "lat": 50.2921582,
+            "lon": 18.6746465,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "mobilne AED w dwóch wozach bojowych (stacjonują w jednostce)",
+                "note:temp": "Sprawdzić duplikaty",
+                "opening_hours": "24/7",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155822,
+            "lat": 50.2921061,
+            "lon": 18.6747267,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "mobilne AED w dwóch wozach bojowych (stacjonują w jednostce)",
+                "note:temp": "Sprawdzić duplikaty",
+                "opening_hours": "24/7",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155823,
+            "lat": 50.3071199,
+            "lon": 18.6462678,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Centrum Handlowe Arena u ochrony",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "opening_hours": "24/7",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155824,
+            "lat": 50.3267217,
+            "lon": 18.5724753,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155825,
+            "lat": 50.2938248,
+            "lon": 18.6652331,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Stacja Artystyczna Rynek",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155826,
+            "lat": 50.3011296,
+            "lon": 18.6654545,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155827,
+            "lat": 50.2828548,
+            "lon": 18.6699717,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ośrodek Rekreacyjno-Sportowy",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155828,
+            "lat": 50.2848855,
+            "lon": 18.5944685,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155829,
+            "lat": 50.2994079,
+            "lon": 18.6773878,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Izba Wytrzeźwień",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "note:temp": "Sprawdzić duplikaty",
+                "opening_hours": "24/7",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155830,
+            "lat": 50.2996583,
+            "lon": 18.6836403,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Handlowe Forum",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155831,
+            "lat": 50.315323,
+            "lon": 18.6022754,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Marco Sp. z.o.o.",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155832,
+            "lat": 50.3220144,
+            "lon": 18.5968956,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hirschvogel Components Poland Sp. z o.o.",
+                "description": "4 szt. na terenie zakładu",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155833,
+            "lat": 50.2777728,
+            "lon": 18.6845376,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Future Processing",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155834,
+            "lat": 50.2962934,
+            "lon": 18.6615162,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Areszt Śledczy",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155835,
+            "lat": 50.2663233,
+            "lon": 18.7211672,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Handlowe Europa Centralna",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155836,
+            "lat": 50.3141258,
+            "lon": 18.6445616,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Centralna Oczyszczalnia Ścieków, Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10774155837,
+            "lat": 50.3379266,
+            "lon": 18.6216975,
+            "timestamp": "2023-03-30T20:31:54Z",
+            "version": 1,
+            "changeset": 134319677,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Stacja Uzdatniania Wody, Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "note:temp": "Sprawdzić duplikaty",
+                "source": "https://geoportal.gliwice.eu/gpt4/?permalink=73971602"
             }
         },
         {
