@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-03-30T14:31:39Z",
-        "timestamp_areas_base": "2023-03-30T13:32:01Z",
+        "timestamp_osm_base": "2023-03-30T15:32:18Z",
+        "timestamp_areas_base": "2023-03-30T12:12:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -27456,18 +27456,18 @@
             "id": 9460707852,
             "lat": 52.1174297,
             "lon": 16.1129846,
-            "timestamp": "2022-04-05T10:21:47Z",
-            "version": 2,
-            "changeset": 119337174,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-03-30T14:52:10Z",
+            "version": 5,
+            "changeset": 134308438,
+            "user": "Kacper M",
+            "uid": 18818100,
             "tags": {
                 "access": "yes",
+                "defibrillator:location:pl": "OSP Stara Tuchorza ",
                 "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes",
-                "opening_hours": "Mo,Tu,Th 07:00-15:00;We 07:00-16:00;Fr 07:00-14:00",
-                "operator": "Urząd Miejski w Wolsztynie",
-                "phone": "+48 683474500"
+                "opening_hours": "Mo,Tu,Th 07:00-15:00;We 07:00-16:00;Fr 07:00-14:00"
             }
         },
         {
@@ -99002,6 +99002,95 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "+48525541919"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773570906,
+            "lat": 52.1709963,
+            "lon": 16.0553823,
+            "timestamp": "2023-03-30T14:47:45Z",
+            "version": 1,
+            "changeset": 134308279,
+            "user": "Kacper M",
+            "uid": 18818100,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773582305,
+            "lat": 52.1709296,
+            "lon": 16.055371,
+            "timestamp": "2023-03-30T14:53:23Z",
+            "version": 1,
+            "changeset": 134308486,
+            "user": "Kacper M",
+            "uid": 18818100,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "OSP Stara Tuchorza ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773590205,
+            "lat": 52.1709514,
+            "lon": 16.0553846,
+            "timestamp": "2023-03-30T14:59:20Z",
+            "version": 2,
+            "changeset": 134308669,
+            "user": "Kacper M",
+            "uid": 18818100,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "OSP Stara Tuchorza ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773593605,
+            "lat": 52.1709694,
+            "lon": 16.055431,
+            "timestamp": "2023-03-30T15:00:22Z",
+            "version": 1,
+            "changeset": 134308709,
+            "user": "Kacper M",
+            "uid": 18818100,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "OSP Stara Tuchorza ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10773595505,
+            "lat": 52.1709163,
+            "lon": 16.0553913,
+            "timestamp": "2023-03-30T15:02:26Z",
+            "version": 1,
+            "changeset": 134308788,
+            "user": "Kacper M",
+            "uid": 18818100,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
             }
         },
         {
