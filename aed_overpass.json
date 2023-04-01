@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-01T09:32:08Z",
-        "timestamp_areas_base": "2023-04-01T08:15:09Z",
+        "timestamp_osm_base": "2023-04-01T10:31:56Z",
+        "timestamp_areas_base": "2023-04-01T07:10:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48958,31 +48958,6 @@
                 "defibrillator:location": "W budynku znajduje się dostępne AED.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9568737217,
-            "lat": 52.4564036,
-            "lon": 16.9244354,
-            "timestamp": "2023-01-05T09:10:21Z",
-            "version": 3,
-            "changeset": 130896872,
-            "user": "polar7",
-            "uid": 3894590,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "hol pływalni",
-                "description": "apteczka",
-                "emergency": "defibrillator",
-                "emergency_telephone_code": "112",
-                "indoor": "yes",
-                "level": "0",
-                "manufacturer": "HeartSine samaritan PAD SAM 300P",
-                "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-22:00",
-                "operator": "POSiR Oddział Atlantis",
-                "phone": "+48 61 827 60 72",
-                "wheelchair": "yes"
             }
         },
         {
