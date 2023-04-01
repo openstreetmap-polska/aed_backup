@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-01T12:31:38Z",
-        "timestamp_areas_base": "2023-04-01T07:10:24Z",
+        "timestamp_osm_base": "2023-04-01T13:32:25Z",
+        "timestamp_areas_base": "2023-04-01T08:15:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -70133,18 +70133,19 @@
             "id": 10018919422,
             "lat": 53.7315253,
             "lon": 20.4938962,
-            "timestamp": "2022-09-23T19:11:15Z",
-            "version": 2,
-            "changeset": 126560792,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-04-01T12:42:56Z",
+            "version": 4,
+            "changeset": 134379551,
+            "user": "serdelll",
+            "uid": 485927,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie przy wejściu",
-                "defibrillator:location:en": "On the wall near entrance",
+                "defibrillator:location:pl": "Na ścianie przy wejściu",
                 "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes",
                 "opening_hours": "Mo-Sa 09:00-21:00; Su off; PH off",
+                "operator": "Decathlon",
                 "phone": "+48 89 611 04 00"
             }
         },
