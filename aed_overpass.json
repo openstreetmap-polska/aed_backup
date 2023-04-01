@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-01T18:31:54Z",
+        "timestamp_osm_base": "2023-04-01T19:31:52Z",
         "timestamp_areas_base": "2023-04-01T16:43:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -15874,18 +15874,19 @@
         {
             "type": "node",
             "id": 9428644717,
-            "lat": 52.2305984,
-            "lon": 21.1056102,
-            "timestamp": "2022-01-28T12:28:10Z",
-            "version": 3,
-            "changeset": 116706025,
-            "user": "Dariusz Bąk",
-            "uid": 14883756,
+            "lat": 52.2305253,
+            "lon": 21.1058548,
+            "timestamp": "2023-04-01T18:49:25Z",
+            "version": 4,
+            "changeset": 134391843,
+            "user": "kwiatek_123",
+            "uid": 14519311,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Centrum Handlowe Atrium Promenada - parter pomieszczenie ochrony od ul. JNJ",
                 "defibrillator:location:en": "Shopping Center Atrium Promenada",
                 "emergency": "defibrillator",
+                "fixme": "location",
                 "indoor": "yes",
                 "location": "indoor",
                 "operator": "Ochrona Centrum"
