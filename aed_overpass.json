@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-02T19:32:08Z",
+        "timestamp_osm_base": "2023-04-02T20:31:54Z",
         "timestamp_areas_base": "2023-04-02T17:26:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -64160,14 +64160,15 @@
             "id": 9812032621,
             "lat": 49.8344877,
             "lon": 19.9377,
-            "timestamp": "2022-06-12T09:47:24Z",
-            "version": 1,
-            "changeset": 122273185,
-            "user": "Adam_Piszczek",
-            "uid": 2027953,
+            "timestamp": "2023-04-02T19:41:43Z",
+            "version": 2,
+            "changeset": 134427599,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
             "tags": {
                 "defibrillator:location": "Przy wejściu na plac rynku",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "wikimedia_commons": "File:Myślenice AED na rynku.jpg"
             }
         },
         {
