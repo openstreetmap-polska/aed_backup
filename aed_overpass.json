@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-03T14:32:24Z",
+        "timestamp_osm_base": "2023-04-03T15:32:08Z",
         "timestamp_areas_base": "2023-04-03T12:24:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -99666,6 +99666,23 @@
             "tags": {
                 "emergency": "defibrillator",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10781978205,
+            "lat": 52.7434668,
+            "lon": 15.2707076,
+            "timestamp": "2023-04-03T14:52:15Z",
+            "version": 1,
+            "changeset": 134458532,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek DPD w punkcie obsługi klienta",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
