@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-03T06:32:23Z",
-        "timestamp_areas_base": "2023-04-03T02:55:39Z",
+        "timestamp_osm_base": "2023-04-03T07:32:08Z",
+        "timestamp_areas_base": "2023-04-03T06:46:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99607,6 +99607,26 @@
                 "defibrillator:location:en": "In front of the entrance gate to the office of Fructoplant sp. z o.o.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10781075703,
+            "lat": 50.767744,
+            "lon": 16.2824999,
+            "timestamp": "2023-04-03T06:56:29Z",
+            "version": 1,
+            "changeset": 134439713,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w ratuszu na parterze zaraz przy pomieszczeniu portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo,We,Th 07:30-15:30; Tu 07:30-16:30; Fr 07:30-14:30",
+                "operator": "Urząd Miejski w Wałbrzychu",
+                "phone": "+48746655100"
             }
         },
         {
