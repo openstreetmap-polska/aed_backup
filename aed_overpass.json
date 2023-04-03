@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-03T10:32:24Z",
-        "timestamp_areas_base": "2023-04-03T06:46:37Z",
+        "timestamp_osm_base": "2023-04-03T11:32:09Z",
+        "timestamp_areas_base": "2023-04-03T07:39:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99632,15 +99632,18 @@
         {
             "type": "node",
             "id": 10781271459,
-            "lat": 53.663626,
-            "lon": 15.1546794,
-            "timestamp": "2023-04-03T09:23:59Z",
-            "version": 2,
-            "changeset": 134445576,
+            "lat": 53.6636482,
+            "lon": 15.1547035,
+            "timestamp": "2023-04-03T10:35:21Z",
+            "version": 4,
+            "changeset": 134448393,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "check_date": "03.04.2023",
+                "defibrillator:location:en": "In the building, on the ground floor, in the locker near the entrance.",
+                "defibrillator:location:pl": "W budynku, na parterze, w szafce przy wejściu.",
                 "email": "nowogard@szczecin.lasy.gov.pl",
                 "emergency": "defibrillator",
                 "indoor": "yes",
