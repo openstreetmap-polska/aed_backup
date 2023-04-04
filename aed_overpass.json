@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-04T08:31:52Z",
+        "timestamp_osm_base": "2023-04-04T09:31:37Z",
         "timestamp_areas_base": "2023-04-04T07:21:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -99683,6 +99683,41 @@
                 "defibrillator:location": "Budynek DPD w punkcie obsługi klienta",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10783863105,
+            "lat": 53.7741035,
+            "lon": 15.4195046,
+            "timestamp": "2023-04-04T08:48:38Z",
+            "version": 2,
+            "changeset": 134485178,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "W sekretariacie.",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "operator": "Nadleśnictwo Resko",
+                "phone": "+48 91 395 14 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10783874568,
+            "lat": 50.0183755,
+            "lon": 22.6839829,
+            "timestamp": "2023-04-04T08:54:17Z",
+            "version": 1,
+            "changeset": 134485430,
+            "user": "ivanbranco",
+            "uid": 11220113,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
