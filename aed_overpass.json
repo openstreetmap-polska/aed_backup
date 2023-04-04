@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-04T12:32:38Z",
-        "timestamp_areas_base": "2023-04-04T07:21:54Z",
+        "timestamp_osm_base": "2023-04-04T13:32:24Z",
+        "timestamp_areas_base": "2023-04-04T11:20:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1318,16 +1318,16 @@
             "id": 5495972212,
             "lat": 53.8948134,
             "lon": 14.2744842,
-            "timestamp": "2018-03-22T10:11:50Z",
-            "version": 1,
-            "changeset": 57416402,
-            "user": "straz_swinoujscie",
-            "uid": 3596420,
+            "timestamp": "2023-04-04T12:43:15Z",
+            "version": 3,
+            "changeset": 134494713,
+            "user": "Pilarskii",
+            "uid": 18850881,
             "tags": {
+                "access": "customers",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "ref": "AED",
-                "source": "GPS(APK:StrazakOSM)"
+                "image": "",
+                "indoor": "yes"
             }
         },
         {
@@ -99718,6 +99718,45 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10784328005,
+            "lat": 54.5469994,
+            "lon": 18.4771968,
+            "timestamp": "2023-04-04T12:42:22Z",
+            "version": 1,
+            "changeset": 134494666,
+            "user": "ziemowitt",
+            "uid": 639859,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-04-04",
+                "defibrillator:location:pl": "Defibrylator znajduje się zaraz za drzwiami do budynku, na parterze, na ścianie po lewej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48585858267"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10784335505,
+            "lat": 53.887764,
+            "lon": 14.3381574,
+            "timestamp": "2023-04-04T12:44:35Z",
+            "version": 1,
+            "changeset": 134494789,
+            "user": "Pilarskii",
+            "uid": 18850881,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Szkoła podstawowa nr. 9 Świnoujście-Przytór",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "phone": "91 322 17 24"
             }
         },
         {
