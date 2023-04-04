@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-04T19:31:51Z",
-        "timestamp_areas_base": "2023-04-04T16:54:53Z",
+        "timestamp_osm_base": "2023-04-04T20:32:37Z",
+        "timestamp_areas_base": "2023-04-04T16:09:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99761,34 +99761,14 @@
         },
         {
             "type": "node",
-            "id": 10784953805,
-            "lat": 54.1506009,
-            "lon": 15.3388408,
-            "timestamp": "2023-04-04T17:54:39Z",
-            "version": 1,
-            "changeset": 134507366,
-            "user": "OSP Mrzeżyno",
-            "uid": 18510753,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "AMW REWITA budynek SYRENA",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "no",
-                "operator": "OSP Mrzeżyno",
-                "phone": "501056031"
-            }
-        },
-        {
-            "type": "node",
             "id": 10784960305,
-            "lat": 54.1506229,
-            "lon": 15.3388373,
-            "timestamp": "2023-04-04T17:58:26Z",
-            "version": 1,
-            "changeset": 134507520,
-            "user": "OSP Mrzeżyno",
-            "uid": 18510753,
+            "lat": 54.1506466,
+            "lon": 15.3388096,
+            "timestamp": "2023-04-04T19:44:53Z",
+            "version": 2,
+            "changeset": 134510997,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na elewacji frontowej. Wejście główne do budynku SYRENA AMW REWITA",
