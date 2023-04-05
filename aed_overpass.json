@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-05T11:31:56Z",
-        "timestamp_areas_base": "2023-04-05T07:09:13Z",
+        "timestamp_osm_base": "2023-04-05T12:31:53Z",
+        "timestamp_areas_base": "2023-04-05T11:13:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50514,13 +50514,16 @@
             "id": 9570878497,
             "lat": 52.3044477,
             "lon": 17.4428213,
-            "timestamp": "2022-03-11T13:35:45Z",
-            "version": 1,
-            "changeset": 118364570,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-04-05T12:05:42Z",
+            "version": 2,
+            "changeset": 134535984,
+            "user": "StrażakRatownikOSPTG",
+            "uid": 18120738,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "W środku budynku, w samochodach ratowniczo-gaśniczych.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "note": "OSP Targowa Górka posiada 2 Defibrylatory AED",
                 "operator": "OSP Targowa Górka"
             }
@@ -99812,6 +99815,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "22 769 43 06"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10787096905,
+            "lat": 52.2339697,
+            "lon": 20.990808,
+            "timestamp": "2023-04-05T11:37:18Z",
+            "version": 1,
+            "changeset": 134534913,
+            "user": "PGWWP",
+            "uid": 18857223,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "po prawej stronie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
