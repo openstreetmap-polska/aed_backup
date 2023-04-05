@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-05T08:32:13Z",
-        "timestamp_areas_base": "2023-04-05T07:09:13Z",
+        "timestamp_osm_base": "2023-04-05T09:31:54Z",
+        "timestamp_areas_base": "2023-04-05T06:26:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99775,6 +99775,25 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "501056031"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10786842105,
+            "lat": 53.3366254,
+            "lon": 16.0909486,
+            "timestamp": "2023-04-05T09:09:50Z",
+            "version": 1,
+            "changeset": 134529505,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek główny, korytarz obok stołówki",
+                "defibrillator:location:en": "Main building, corridor next to the canteen",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "67 259 62 00"
             }
         },
         {
