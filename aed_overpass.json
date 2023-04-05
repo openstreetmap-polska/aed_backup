@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-05T16:31:46Z",
-        "timestamp_areas_base": "2023-04-05T11:54:22Z",
+        "timestamp_osm_base": "2023-04-05T17:31:52Z",
+        "timestamp_areas_base": "2023-04-05T16:00:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62253,16 +62253,18 @@
             "id": 9699713317,
             "lat": 50.0148599,
             "lon": 22.6799532,
-            "timestamp": "2022-04-28T06:00:53Z",
-            "version": 1,
-            "changeset": 120287096,
-            "user": "WMietek",
-            "uid": 2144790,
+            "timestamp": "2023-04-05T17:22:36Z",
+            "version": 2,
+            "changeset": 134547740,
+            "user": "ivanbranco",
+            "uid": 11220113,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Galeria Stara Ujeżdżalnia, na słupie, przy schodach ruchomych, obok lokalu APART.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1",
+                "level:ref": "0"
             }
         },
         {
