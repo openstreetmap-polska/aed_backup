@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-05T09:31:54Z",
+        "timestamp_osm_base": "2023-04-05T10:32:24Z",
         "timestamp_areas_base": "2023-04-05T06:26:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -99794,6 +99794,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "67 259 62 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10786963405,
+            "lat": 52.0416405,
+            "lon": 21.2455632,
+            "timestamp": "2023-04-05T10:19:32Z",
+            "version": 1,
+            "changeset": 134532233,
+            "user": "Joanna Sta",
+            "uid": 18727760,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pałac Bielińskich w Otwocku Wielkim",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "22 769 43 06"
             }
         },
         {
