@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-06T12:32:00Z",
+        "timestamp_osm_base": "2023-04-06T13:31:46Z",
         "timestamp_areas_base": "2023-04-06T11:43:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -99921,6 +99921,98 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10790154407,
+            "lat": 50.2093379,
+            "lon": 19.2728766,
+            "timestamp": "2023-04-06T13:14:39Z",
+            "version": 1,
+            "changeset": 134577929,
+            "user": "pjamroz",
+            "uid": 18868211,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do budynku.",
+                "defibrillator:location:en": "At the main entrance to the building.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10790154409,
+            "lat": 50.2089346,
+            "lon": 19.275085,
+            "timestamp": "2023-04-06T13:17:02Z",
+            "version": 1,
+            "changeset": 134577929,
+            "user": "pjamroz",
+            "uid": 18868211,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W dyspozytorni spółki Wodociągi Jaworzno.",
+                "defibrillator:location:en": "In the control room of the company Wodociągi Jaworzno.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "994"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10790169305,
+            "lat": 50.2025768,
+            "lon": 19.2710008,
+            "timestamp": "2023-04-06T13:20:12Z",
+            "version": 1,
+            "changeset": 134577929,
+            "user": "pjamroz",
+            "uid": 18868211,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku Straży Miejskiej w Jaworznie.",
+                "defibrillator:location:en": "In the building of the municipal guard in Jaworzno.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "(32) 61 81 618"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10790171605,
+            "lat": 50.1914856,
+            "lon": 19.285612,
+            "timestamp": "2023-04-06T13:22:22Z",
+            "version": 1,
+            "changeset": 134577929,
+            "user": "pjamroz",
+            "uid": 18868211,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do budynku.",
+                "defibrillator:location:en": "At the main entrance to the building.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10790177405,
+            "lat": 50.2229665,
+            "lon": 19.2332951,
+            "timestamp": "2023-04-06T13:23:47Z",
+            "version": 1,
+            "changeset": 134577929,
+            "user": "pjamroz",
+            "uid": 18868211,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy głównym wejściu do budynku.",
+                "defibrillator:location:en": "At the main entrance to the building.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
