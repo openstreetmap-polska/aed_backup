@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-06T05:32:08Z",
+        "timestamp_osm_base": "2023-04-06T06:32:02Z",
         "timestamp_areas_base": "2023-04-06T02:13:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -99852,6 +99852,24 @@
                 "defibrillator:location:en": "Fire truck cabin",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10789406625,
+            "lat": 52.626325,
+            "lon": 18.1680773,
+            "timestamp": "2023-04-06T06:08:53Z",
+            "version": 1,
+            "changeset": 134562055,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie komisariatu policji.",
+                "emergency": "defibrillator",
+                "operator": "Komisariat Policji w Strzelnie",
+                "phone": "+48477527110"
             }
         },
         {
