@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.4 36d058c8",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-06T09:31:53Z",
-        "timestamp_areas_base": "2023-04-06T06:58:22Z",
+        "timestamp_osm_base": "2023-04-06T10:31:38Z",
+        "timestamp_areas_base": "2023-04-06T08:43:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99887,6 +99887,24 @@
                 "defibrillator:location": "Auchan",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10789789005,
+            "lat": 54.4499464,
+            "lon": 17.0213965,
+            "timestamp": "2023-04-06T09:36:50Z",
+            "version": 1,
+            "changeset": 134569355,
+            "user": "MOPR w Słupsku",
+            "uid": 18870203,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "59 842 81 26"
             }
         },
         {
