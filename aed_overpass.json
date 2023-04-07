@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-07T11:31:53Z",
-        "timestamp_areas_base": "2023-04-07T06:44:09Z",
+        "timestamp_osm_base": "2023-04-07T12:31:54Z",
+        "timestamp_areas_base": "2023-04-07T08:37:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -55600,19 +55600,20 @@
             "id": 9633813359,
             "lat": 53.9674739,
             "lon": 18.6457054,
-            "timestamp": "2022-04-03T16:22:42Z",
-            "version": 1,
-            "changeset": 119270717,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-04-07T11:36:42Z",
+            "version": 2,
+            "changeset": 134611515,
+            "user": "Marek Mandziara",
+            "uid": 18880831,
             "tags": {
-                "access": "private",
+                "access": "yes",
                 "addr:city": "Klonówka",
                 "addr:housenumber": "3",
                 "addr:street": "Floriana Ceynowy",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy - W przypadku konieczności użycia załącz syrenę alarmowa przyciskiem znajdującym się obok drzwi",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "OSP Klonówka"
             }
         },
