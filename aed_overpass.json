@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-07T14:32:26Z",
-        "timestamp_areas_base": "2023-04-07T11:28:52Z",
+        "timestamp_osm_base": "2023-04-07T15:31:24Z",
+        "timestamp_areas_base": "2023-04-07T13:24:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -100186,6 +100186,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://kosciannasygnale.pl/2023/04/04/defibrylatory-aed-w-ratajczaku/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10792972604,
+            "lat": 53.1394887,
+            "lon": 17.6023935,
+            "timestamp": "2023-04-07T15:16:23Z",
+            "version": 1,
+            "changeset": 134621087,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://naklo.policja.gov.pl/k38/informacj/wiadomosci/100997,Nakielscy-policjanci-otrzymali-defibrylator.html"
             }
         },
         {
