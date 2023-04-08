@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-08T13:32:26Z",
-        "timestamp_areas_base": "2023-04-08T11:11:38Z",
+        "timestamp_osm_base": "2023-04-08T14:32:10Z",
+        "timestamp_areas_base": "2023-04-08T13:19:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -100221,6 +100221,130 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "516138986"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795255792,
+            "lat": 52.1618517,
+            "lon": 20.8223296,
+            "timestamp": "2023-04-08T14:06:41Z",
+            "version": 1,
+            "changeset": 134654291,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-04-08",
+                "covered": "yes",
+                "defibrillator:location": "Na basenie w strefie pływania przy oknie.",
+                "defibrillator:location:en": "At the pool in the swimming area by the window",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795277609,
+            "lat": 51.9866846,
+            "lon": 20.4588431,
+            "timestamp": "2023-04-08T14:15:59Z",
+            "version": 1,
+            "changeset": 134654688,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-06",
+                "covered": "yes",
+                "defibrillator:location": "Na basenie Suntago przy Aqua Wave",
+                "defibrillator:location:en": "At the Suntago pool at Aqua Wave",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795277610,
+            "lat": 51.9876217,
+            "lon": 20.4586387,
+            "timestamp": "2023-04-08T14:15:59Z",
+            "version": 1,
+            "changeset": 134654688,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-06",
+                "covered": "yes",
+                "defibrillator:location": "Na basenie Suntago w strefie Jamango",
+                "defibrillator:location:en": "At the Suntago pool in the Jamango zone",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795277611,
+            "lat": 51.9885343,
+            "lon": 20.4590011,
+            "timestamp": "2023-04-08T14:15:59Z",
+            "version": 1,
+            "changeset": 134654688,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-06",
+                "covered": "yes",
+                "defibrillator:location": "Na basenie Suntago w strefie Relax",
+                "defibrillator:location:en": "At the Suntago pool in the Relax zone",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795277612,
+            "lat": 51.9886089,
+            "lon": 20.459482,
+            "timestamp": "2023-04-08T14:15:59Z",
+            "version": 1,
+            "changeset": 134654688,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-06",
+                "covered": "yes",
+                "defibrillator:location": "Na basenie Suntago przy saunach i SPA",
+                "defibrillator:location:en": "At the Suntago pool by the saunas and SPA",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10795282445,
+            "lat": 52.2277759,
+            "lon": 21.0050726,
+            "timestamp": "2023-04-08T14:28:34Z",
+            "version": 1,
+            "changeset": 134655183,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "check_date": "2022-12-30",
+                "defibrillator:location": "Na parterze (poziom 0) w recepcji Mariott",
+                "defibrillator:location:en": "On the ground floor (level 0) at the reception of Mariott",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
