@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-09T07:31:52Z",
+        "timestamp_osm_base": "2023-04-09T08:31:25Z",
         "timestamp_areas_base": "2023-04-09T06:07:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100229,9 +100229,9 @@
             "id": 10795255792,
             "lat": 52.1618517,
             "lon": 20.8223296,
-            "timestamp": "2023-04-08T14:06:41Z",
-            "version": 1,
-            "changeset": 134654291,
+            "timestamp": "2023-04-09T08:16:59Z",
+            "version": 2,
+            "changeset": 134677614,
             "user": "NieWnen",
             "uid": 3885790,
             "tags": {
@@ -100241,7 +100241,8 @@
                 "defibrillator:location": "Na basenie w strefie pływania przy oknie.",
                 "defibrillator:location:en": "At the pool in the swimming area by the window",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1"
             }
         },
         {
