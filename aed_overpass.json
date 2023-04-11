@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-11T08:32:09Z",
+        "timestamp_osm_base": "2023-04-11T09:31:54Z",
         "timestamp_areas_base": "2023-04-11T05:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100417,6 +100417,26 @@
                 "image": "",
                 "indoor": "yes",
                 "phone": "324165000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10801207686,
+            "lat": 50.3488477,
+            "lon": 18.8929506,
+            "timestamp": "2023-04-11T08:45:48Z",
+            "version": 1,
+            "changeset": 134763373,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Lodowiska im. Braci Nikodemowiczów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:15-20:00; Sa,Su 14:30-20:30",
+                "operator": "Lodowisko im. Braci Nikodemowiczów",
+                "phone": "+48322825155"
             }
         },
         {
