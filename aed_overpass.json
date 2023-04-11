@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-11T19:32:09Z",
-        "timestamp_areas_base": "2023-04-11T15:05:54Z",
+        "timestamp_osm_base": "2023-04-11T20:31:53Z",
+        "timestamp_areas_base": "2023-04-11T17:48:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -100530,6 +100530,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 514 601 465"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10802648005,
+            "lat": 52.3384278,
+            "lon": 21.1988,
+            "timestamp": "2023-04-11T19:37:57Z",
+            "version": 1,
+            "changeset": 134788285,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-11",
+                "defibrillator:location:pl": "W budynku przychodni, na ścianie na wprost recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
