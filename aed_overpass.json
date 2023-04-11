@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-11T14:31:31Z",
+        "timestamp_osm_base": "2023-04-11T15:32:21Z",
         "timestamp_areas_base": "2023-04-11T13:00:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100493,6 +100493,25 @@
                 "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
                 "operator": "Przychodnia dla zwierząt Ryszard Tomaszewski",
                 "phone": "+48602688793"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10801961605,
+            "lat": 52.2037377,
+            "lon": 20.618255,
+            "timestamp": "2023-04-11T14:59:26Z",
+            "version": 1,
+            "changeset": 134778359,
+            "user": "MAZOVIA",
+            "uid": 18422430,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pokoju",
+                "defibrillator:location:en": "in room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "502360455"
             }
         },
         {
