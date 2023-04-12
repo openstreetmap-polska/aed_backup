@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-12T09:32:23Z",
-        "timestamp_areas_base": "2023-04-12T08:07:20Z",
+        "timestamp_osm_base": "2023-04-12T10:32:00Z",
+        "timestamp_areas_base": "2023-04-12T05:23:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -9254,16 +9254,17 @@
             "id": 9384024445,
             "lat": 50.3768109,
             "lon": 18.9454768,
-            "timestamp": "2022-01-01T17:43:23Z",
-            "version": 1,
-            "changeset": 115645448,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2023-04-12T10:23:34Z",
+            "version": 2,
+            "changeset": 134809865,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W recepcji",
+                "defibrillator:location": "Na parterze budynku komendy w pobliżu pomieszczenia służby dyżurnej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "24/7"
             }
         },
@@ -100593,6 +100594,26 @@
         },
         {
             "type": "node",
+            "id": 10804058084,
+            "lat": 51.6183332,
+            "lon": 17.8507048,
+            "timestamp": "2023-04-12T09:36:03Z",
+            "version": 1,
+            "changeset": 134807725,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Sali Wiejskiej",
+                "emergency": "defibrillator",
+                "fixme": "Czy już AED został uruchomiony?",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://m.rc.fm/news/gmina-ostrow-wielkopolski-defibrylatory-dla-gminy.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 10804061090,
             "lat": 51.6915089,
             "lon": 17.8608284,
@@ -100609,6 +100630,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://m.rc.fm/news/gmina-ostrow-wielkopolski-defibrylatory-dla-gminy.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10804091165,
+            "lat": 51.6763485,
+            "lon": 17.8508665,
+            "timestamp": "2023-04-12T09:51:26Z",
+            "version": 1,
+            "changeset": 134808330,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Sali Wiejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "source": "https://www.ostrowwielkopolski.pl/asp/defibrylator-w-karskach,9,artykul,1,4459"
             }
         },
         {
