@@ -1,14 +1,14 @@
-# AED backup and stats (2023-04-13 19:33:05)
+# AED backup and stats (2023-04-14 09:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 5344
+Total AED: 5346
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4238\
-Average daily growth since beginning of the year: 11.50
+Average daily growth since beginning of the year: 11.41
 
 ## Top creators
 | # | User | Created |
@@ -19,7 +19,7 @@ Average daily growth since beginning of the year: 11.50
 | 4 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 5 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 331 |
 | 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 298 |
-| 7 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 225 |
+| 7 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 226 |
 | 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 139 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 108 |
 | 10 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
@@ -33,10 +33,10 @@ Average daily growth since beginning of the year: 11.50
 | 18 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 38 |
 | 19 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
 | 20 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 21 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 28 |
-| 23 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 26 |
-| 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 26 |
+| 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 28 |
+| 22 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 23 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 26 |
+| 24 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 26 |
 | 25 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 
 ## Tag access pie
