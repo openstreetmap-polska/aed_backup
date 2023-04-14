@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-14T18:31:53Z",
-        "timestamp_areas_base": "2023-04-14T13:19:07Z",
+        "timestamp_osm_base": "2023-04-14T19:31:31Z",
+        "timestamp_areas_base": "2023-04-14T18:11:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48408,15 +48408,16 @@
             "id": 9568563717,
             "lat": 49.6262498,
             "lon": 20.689806,
-            "timestamp": "2022-03-10T11:52:50Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-04-14T18:58:39Z",
+            "version": 2,
+            "changeset": 134917536,
+            "user": "micholek",
+            "uid": 17385312,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Sądecka Biblioteka Publiczna\nim. J. Szujskiego",
-                "emergency": "defibrillator"
+                "defibrillator:location": "w Bibliotece Głównej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
