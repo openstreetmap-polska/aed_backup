@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-18T08:32:49Z",
+        "timestamp_osm_base": "2023-04-18T09:32:39Z",
         "timestamp_areas_base": "2023-04-15T20:08:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100834,6 +100834,21 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://strazacki.pl/akcje/nzk-w-czasie-uroczystosci-koscielnych-strazacy-bedacy-na-miejscu-uratowali-kobiete"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10821500255,
+            "lat": 54.3656518,
+            "lon": 18.6291523,
+            "timestamp": "2023-04-18T09:32:32Z",
+            "version": 1,
+            "changeset": 135049980,
+            "user": "kaciorx",
+            "uid": 10316876,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
