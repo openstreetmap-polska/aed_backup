@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-19T05:32:37Z",
-        "timestamp_areas_base": "2023-04-15T20:08:54Z",
+        "timestamp_osm_base": "2023-04-19T06:32:22Z",
+        "timestamp_areas_base": "2023-04-19T04:01:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86792,15 +86792,16 @@
             "id": 10557729250,
             "lat": 51.8861867,
             "lon": 17.8595944,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Publiczne Przedszkole w Brzeziu",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86809,15 +86810,16 @@
             "id": 10557729251,
             "lat": 51.8873419,
             "lon": 17.7893596,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Famot Pleszew Sp. z o. o.",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86826,15 +86828,16 @@
             "id": 10557729252,
             "lat": 51.8830724,
             "lon": 17.7932794,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Park Wodny Planty",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86843,15 +86846,16 @@
             "id": 10557729253,
             "lat": 51.8295908,
             "lon": 17.8396262,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Zespół Szkół Podstawowych w Kuczkowie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86860,15 +86864,16 @@
             "id": 10557729254,
             "lat": 51.8892056,
             "lon": 17.7325644,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Ochotnicza Straż Pożarna w Kowalewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86877,15 +86882,16 @@
             "id": 10557729255,
             "lat": 51.8875235,
             "lon": 17.7806805,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Zespół Szkół Publicznych nr 3 w Pleszewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86894,15 +86900,16 @@
             "id": 10557729256,
             "lat": 51.8923467,
             "lon": 17.784475,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Ochotnicza Straż Pożarna w Pleszewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86911,15 +86918,16 @@
             "id": 10557729268,
             "lat": 51.8938214,
             "lon": 17.7807793,
-            "timestamp": "2023-03-04T10:08:55Z",
-            "version": 2,
-            "changeset": 133283288,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 3,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Jednostka Ratowniczo-Gaśnicza PSP w Pleszewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86928,15 +86936,16 @@
             "id": 10557729269,
             "lat": 51.8980983,
             "lon": 17.7654248,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Pleszewskie Centrum Medyczne",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -86945,15 +86954,16 @@
             "id": 10557729270,
             "lat": 51.8946885,
             "lon": 17.7808635,
-            "timestamp": "2023-01-15T21:23:28Z",
-            "version": 1,
-            "changeset": 131314890,
+            "timestamp": "2023-04-19T06:22:54Z",
+            "version": 2,
+            "changeset": 135086834,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "fixme": "Dokładna lokalizacja do poprawki",
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
+                "operator": "Urząd Skarbowy w Pleszewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
             }
         },
@@ -96647,17 +96657,21 @@
             "id": 10736713845,
             "lat": 50.4958296,
             "lon": 20.7155735,
-            "timestamp": "2023-03-15T10:02:03Z",
-            "version": 1,
-            "changeset": 133702872,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-04-19T06:09:42Z",
+            "version": 4,
+            "changeset": 135086465,
+            "user": "Ochotnicza Straż Pożarna w Mikułowicach",
+            "uid": 18999247,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "defibrillator:location": "AED znajduje się na wewnątrz budynku. W razie konieczności użycia należy włączyć przycisk syreny alarmowej na wschodniej ścianie budynku.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "source": "https://busko.com.pl/osp-mikulowice-pozyskalo-sprzet-ratujacy-zycie,,3,1,1,36385,n.html"
+                "name": "Ochotnicza Straż Pożarna w Mikułowicach",
+                "note": "AED znajduje się na wewnątrz budynku. W razie konieczności użycia należy włączyć przycisk syreny alarmowej na wschodniej ścianie budynku.",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Mikułowicach",
+                "source": "https://busko.com.pl/osp-mikulowice-pozyskalo-sprzet-ratujacy-zycie,,3,1,1,36385,n.html",
+                "website": "https://www.facebook.com/ospmikulowice"
             }
         },
         {
