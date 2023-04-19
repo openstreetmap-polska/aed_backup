@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.5 b201bb38",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-19T12:32:21Z",
-        "timestamp_areas_base": "2023-04-19T08:45:55Z",
+        "timestamp_osm_base": "2023-04-19T13:32:08Z",
+        "timestamp_areas_base": "2023-04-15T20:08:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -81235,13 +81235,13 @@
         {
             "type": "node",
             "id": 10293395509,
-            "lat": 49.8876446,
-            "lon": 19.4925782,
-            "timestamp": "2022-12-29T14:36:03Z",
-            "version": 1,
-            "changeset": 130648754,
-            "user": "Filip Kosarski",
-            "uid": 18121077,
+            "lat": 49.8876153,
+            "lon": 19.4926706,
+            "timestamp": "2023-04-19T12:57:59Z",
+            "version": 2,
+            "changeset": 135101757,
+            "user": "KasTom",
+            "uid": 535365,
             "tags": {
                 "access": "private",
                 "check_date": "2022-12-29",
@@ -100997,6 +100997,96 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "56 45 111 11"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824294906,
+            "lat": 53.5937706,
+            "lon": 18.7947741,
+            "timestamp": "2023-04-19T12:39:49Z",
+            "version": 1,
+            "changeset": 135101042,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pojeździe ratowniczym Ochotniczej Straży Pożarnej. Defiblyrator dostępny po zgłoszeniu na numer alarmowy 112.",
+                "defibrillator:location:en": "In the rescue vehicle of the Volunteer Fire Brigade. A defibrillator is available after reporting to the emergency number 112.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824300005,
+            "lat": 53.5678277,
+            "lon": 18.862161,
+            "timestamp": "2023-04-19T12:41:25Z",
+            "version": 1,
+            "changeset": 135101042,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pojeździe ratowniczym Ochotniczej Straży Pożarnej. Defiblyrator dostępny po zgłoszeniu na numer alarmowy 112.",
+                "defibrillator:location:en": "In the rescue vehicle of the Volunteer Fire Department. A defibrillator is available after reporting to the emergency number 112.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824303605,
+            "lat": 53.4257169,
+            "lon": 18.6686331,
+            "timestamp": "2023-04-19T12:42:56Z",
+            "version": 1,
+            "changeset": 135101042,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pojeździe ratowniczym Ochotniczej Straży Pożarnej. Defiblyrator dostępny po zgłoszeniu na numer alarmowy 112.",
+                "defibrillator:location:en": "In the rescue vehicle of the Volunteer Fire Department. A defibrillator is available after reporting to the emergency number 112.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824304505,
+            "lat": 53.4116099,
+            "lon": 18.6994117,
+            "timestamp": "2023-04-19T12:44:02Z",
+            "version": 1,
+            "changeset": 135101042,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pojeździe ratowniczym Ochotniczej Straży Pożarnej. Defiblyrator dostępny po zgłoszeniu na numer alarmowy 112.",
+                "defibrillator:location:en": "In the rescue vehicle of the Volunteer Fire Department. A defibrillator is available after reporting to the emergency number 112.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824305905,
+            "lat": 53.4216668,
+            "lon": 18.7798287,
+            "timestamp": "2023-04-19T12:44:49Z",
+            "version": 1,
+            "changeset": 135101042,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W pojeździe ratowniczym Ochotniczej Straży Pożarnej. Defiblyrator dostępny po zgłoszeniu na numer alarmowy 112.",
+                "defibrillator:location:en": "In the rescue vehicle of the Volunteer Fire Department. A defibrillator is available after reporting to the emergency number 112.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
