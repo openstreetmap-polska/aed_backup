@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-19T11:31:39Z",
+        "timestamp_osm_base": "2023-04-19T12:32:21Z",
         "timestamp_areas_base": "2023-04-19T08:45:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100961,6 +100961,42 @@
                 "note": "Artykuł nie zawiera dokładnych opisów położenia AED",
                 "operator": "Publiczne Przedszkole w Marszewie",
                 "source": "https://zpleszewa.pl/wiadomosci/ta-informacja-moze-uratowac-komus-zycie-mowi-ratownik-medyczny-mapa/TEQXeR2YAVzHYAJBcCHo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824256005,
+            "lat": 49.987281,
+            "lon": 22.5351695,
+            "timestamp": "2023-04-19T12:12:45Z",
+            "version": 1,
+            "changeset": 135100085,
+            "user": "WMietek",
+            "uid": 2144790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na wyposażeniu OSP Zarzecze.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10824273105,
+            "lat": 53.4953292,
+            "lon": 18.7559043,
+            "timestamp": "2023-04-19T12:23:08Z",
+            "version": 1,
+            "changeset": 135100470,
+            "user": "vodec",
+            "uid": 14875068,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro Obsługi Interesanta przy wejściu/wyjściu głównym do budynku.",
+                "defibrillator:location:en": "Customer Service Office at the main entrance/exit to the building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "56 45 111 11"
             }
         },
         {
