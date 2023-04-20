@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-20T07:32:24Z",
-        "timestamp_areas_base": "2023-04-15T20:08:54Z",
+        "timestamp_osm_base": "2023-04-20T08:32:22Z",
+        "timestamp_areas_base": "2023-04-20T03:50:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91858,19 +91858,18 @@
         {
             "type": "node",
             "id": 10684126637,
-            "lat": 53.6219983,
-            "lon": 21.7869675,
-            "timestamp": "2023-02-21T20:21:36Z",
-            "version": 1,
-            "changeset": 132852330,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "lat": 53.6220196,
+            "lon": 21.7869849,
+            "timestamp": "2023-04-20T08:28:23Z",
+            "version": 2,
+            "changeset": 135137247,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "defibrillator:location": "Zakład produkcji płyty klejonej i mebli.",
+                "defibrillator:location": "Budynek drewniany ochrony firmy Telmex",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "Mariusz Klisiatys",
-                "ref": "Budynek drewniany ochrony."
+                "operator": "Telmex"
             }
         },
         {
@@ -91878,16 +91877,16 @@
             "id": 10684136184,
             "lat": 53.6211664,
             "lon": 21.7846154,
-            "timestamp": "2023-02-21T20:18:07Z",
-            "version": 1,
-            "changeset": 132852200,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-04-20T08:28:23Z",
+            "version": 2,
+            "changeset": 135137247,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Mariusz Klisiatys",
-                "ref": "na głównym filarze."
+                "ref": "Na głównym filarze"
             }
         },
         {
