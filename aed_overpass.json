@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.5 b201bb38",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-20T15:32:09Z",
-        "timestamp_areas_base": "2023-04-20T13:19:51Z",
+        "timestamp_osm_base": "2023-04-20T16:32:07Z",
+        "timestamp_areas_base": "2023-04-15T20:08:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75188,18 +75188,21 @@
         {
             "type": "node",
             "id": 10155070616,
-            "lat": 52.3851463,
-            "lon": 16.8276756,
-            "timestamp": "2022-11-03T17:03:56Z",
-            "version": 1,
-            "changeset": 128448285,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "lat": 52.3851442,
+            "lon": 16.8276679,
+            "timestamp": "2023-04-20T16:17:57Z",
+            "version": 2,
+            "changeset": 135157751,
+            "user": "moje_konto",
+            "uid": 10213768,
             "tags": {
                 "access": "yes",
+                "board_type": "welcome_sign",
+                "company": "information",
                 "defibrillator:location": "Na słupku, przy drodze w zielonej kapsule.",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "information": "board",
                 "operator": "Medaid"
             }
         },
