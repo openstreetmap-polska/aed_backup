@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.59.5 b201bb38",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-21T07:33:24Z",
+        "timestamp_osm_base": "2023-04-21T08:32:24Z",
         "timestamp_areas_base": "2023-04-21T03:37:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101128,6 +101128,24 @@
                 "indoor": "yes",
                 "operator": "Jednostka Ratowniczo-Gaśnicza Państowej Straży Pożarnej w Zgorzelcu",
                 "source": "https://www.zgorzelec.info/news/24537"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10828984105,
+            "lat": 52.2514856,
+            "lon": 20.993747,
+            "timestamp": "2023-04-21T07:44:40Z",
+            "version": 1,
+            "changeset": 135180790,
+            "user": "cesio80",
+            "uid": 17474888,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na recepcji Centrum e-Zdrowia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 22 597 09 27"
             }
         },
         {
