@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-22T07:32:05Z",
+        "timestamp_osm_base": "2023-04-22T08:31:52Z",
         "timestamp_areas_base": "2023-04-22T05:15:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101198,6 +101198,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://kluczbork.naszemiasto.pl/to-byla-akcja-z-happy-endem-ledwie-defibrylator-trafil-do/ar/c1-9296051"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10831455405,
+            "lat": 53.7773984,
+            "lon": 20.4499013,
+            "timestamp": "2023-04-22T08:03:29Z",
+            "version": 1,
+            "changeset": 135218936,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no",
+                "operator": "OSiR"
             }
         },
         {
