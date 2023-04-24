@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-24T09:32:37Z",
-        "timestamp_areas_base": "2023-04-24T04:28:09Z",
+        "timestamp_osm_base": "2023-04-24T10:32:38Z",
+        "timestamp_areas_base": "2023-04-24T09:08:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98184,16 +98184,18 @@
             "id": 10748448905,
             "lat": 53.5658334,
             "lon": 20.9901759,
-            "timestamp": "2023-03-20T13:14:14Z",
-            "version": 1,
-            "changeset": 133898898,
-            "user": "Bank Spółdzielczy w Szczytnie",
-            "uid": 18768565,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 2,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy bankomacie.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
             }
         },
         {
@@ -101272,6 +101274,214 @@
                 "defibrillator:location:pl": "Budynek Urzędu Miasta Bełchatów - na zewnątrz z prawej strony od wejścia głównego.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836689045,
+            "lat": 53.7076102,
+            "lon": 20.7008358,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836689046,
+            "lat": 53.7409015,
+            "lon": 20.4942482,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836689059,
+            "lat": 53.4001697,
+            "lon": 20.9438413,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836689060,
+            "lat": 53.5608648,
+            "lon": 21.0001723,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836710905,
+            "lat": 53.1659852,
+            "lon": 16.7198686,
+            "timestamp": "2023-04-24T09:46:15Z",
+            "version": 1,
+            "changeset": 135293807,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Punkt informacji (parter)",
+                "defibrillator:location:en": "Punkt informacji (parter)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739020,
+            "lat": 53.5655283,
+            "lon": 21.2188488,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739021,
+            "lat": 53.6515837,
+            "lon": 20.791651,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739022,
+            "lat": 53.5268115,
+            "lon": 20.7213898,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739023,
+            "lat": 53.7051092,
+            "lon": 20.9600685,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739024,
+            "lat": 53.8642248,
+            "lon": 20.9537852,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10836739068,
+            "lat": 53.557355,
+            "lon": 21.0031466,
+            "timestamp": "2023-04-24T09:58:49Z",
+            "version": 1,
+            "changeset": 135294321,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Banku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Bank Spółdzielczy w Szczytnie"
             }
         },
         {
