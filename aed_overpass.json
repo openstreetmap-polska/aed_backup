@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.59.5 b201bb38",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-24T06:31:54Z",
-        "timestamp_areas_base": "2023-04-24T03:02:55Z",
+        "timestamp_osm_base": "2023-04-24T07:31:54Z",
+        "timestamp_areas_base": "2023-04-24T04:28:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -6907,15 +6907,18 @@
             "id": 9340067763,
             "lat": 53.8290114,
             "lon": 22.3675544,
-            "timestamp": "2022-12-29T08:23:39Z",
-            "version": 2,
-            "changeset": 130632619,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-04-24T06:45:23Z",
+            "version": 3,
+            "changeset": 135286866,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie kościoła.",
                 "emergency": "defibrillator",
-                "fixme": "place"
+                "fixme": "place",
+                "opening_hours": "24/7",
+                "operator": "Kościół pw. Opatrzności Bożej"
             }
         },
         {
