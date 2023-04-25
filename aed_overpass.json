@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-25T07:32:24Z",
+        "timestamp_osm_base": "2023-04-25T08:31:54Z",
         "timestamp_areas_base": "2023-04-25T04:03:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101501,6 +101501,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 661126671"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10839246274,
+            "lat": 52.4537276,
+            "lon": 17.5843477,
+            "timestamp": "2023-04-25T08:15:59Z",
+            "version": 1,
+            "changeset": 135331637,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do budynku szkoły.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa im. Jana Pawła II"
             }
         },
         {
