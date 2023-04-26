@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T16:32:23Z",
-        "timestamp_areas_base": "2023-04-26T13:01:39Z",
+        "timestamp_osm_base": "2023-04-26T17:32:08Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101750,6 +101750,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Nowe Bystre"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10844343409,
+            "lat": 51.1109814,
+            "lon": 17.0630885,
+            "timestamp": "2023-04-26T16:57:10Z",
+            "version": 1,
+            "changeset": 135395478,
+            "user": "qaz789",
+            "uid": 4851745,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Regionalny Zarząd Gospodarki Wodnej we Wrocławiu"
             }
         },
         {
