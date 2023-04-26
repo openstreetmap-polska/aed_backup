@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T06:32:38Z",
-        "timestamp_areas_base": "2023-04-26T03:37:20Z",
+        "timestamp_osm_base": "2023-04-26T07:32:24Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101158,15 +101158,16 @@
             "id": 10829126505,
             "lat": 49.7204002,
             "lon": 19.1813255,
-            "timestamp": "2023-04-21T09:18:18Z",
-            "version": 1,
-            "changeset": 135184759,
-            "user": "Landrinka",
-            "uid": 12830729,
+            "timestamp": "2023-04-26T06:36:23Z",
+            "version": 2,
+            "changeset": 135369530,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "source": "https://www.facebook.com/kz.halny/posts/pfbid0RqjMQokXsYggXGTAQNogLVxWNbiNXANYXoYKYct9LZ54UR2kff91wyGAPJRG3YWol"
             }
         },
         {
