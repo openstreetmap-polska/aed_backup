@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T17:32:08Z",
+        "timestamp_osm_base": "2023-04-26T18:32:24Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2598,14 +2598,17 @@
             "id": 7187081540,
             "lat": 54.0328403,
             "lon": 18.1357513,
-            "timestamp": "2020-02-05T07:32:56Z",
-            "version": 1,
-            "changeset": 80572811,
-            "user": "KrissPSP",
-            "uid": 1860273,
+            "timestamp": "2023-04-26T18:27:58Z",
+            "version": 2,
+            "changeset": 135398173,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Nowe Polaszki"
             }
         },
         {
@@ -2613,13 +2616,17 @@
             "id": 7187081541,
             "lat": 53.9908009,
             "lon": 18.17052,
-            "timestamp": "2020-02-05T07:32:56Z",
-            "version": 1,
-            "changeset": 80572811,
-            "user": "KrissPSP",
-            "uid": 1860273,
+            "timestamp": "2023-04-26T18:27:58Z",
+            "version": 2,
+            "changeset": 135398173,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Stara Kiszewa"
             }
         },
         {
@@ -2627,13 +2634,17 @@
             "id": 7187081542,
             "lat": 53.9683282,
             "lon": 18.0921333,
-            "timestamp": "2020-02-05T07:32:56Z",
-            "version": 1,
-            "changeset": 80572811,
-            "user": "KrissPSP",
-            "uid": 1860273,
+            "timestamp": "2023-04-26T18:27:58Z",
+            "version": 2,
+            "changeset": 135398173,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Konarzyny"
             }
         },
         {
@@ -101766,6 +101777,47 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Regionalny Zarząd Gospodarki Wodnej we Wrocławiu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10844394760,
+            "lat": 54.0794712,
+            "lon": 18.2317247,
+            "timestamp": "2023-04-26T18:10:35Z",
+            "version": 2,
+            "changeset": 135397644,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Urzędzie Gminy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Th 07:30-15:30; We 07:30-16:30; Fr 07:30-14:30",
+                "operator": "Urząd Gminy Liniewo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10844432825,
+            "lat": 54.123089,
+            "lon": 17.9720732,
+            "timestamp": "2023-04-26T18:06:07Z",
+            "version": 2,
+            "changeset": 135397527,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu nadleśnictwa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Nadleśnictwo Kościerzyna",
+                "source": "https://www.facebook.com/Nadlesnictwo.Koscierzyna/posts/pfbid0n6HYujZkKysQ3WCaNMMMBReKF3ebh3rhXrwyoWQA7kEjMmfE84HLjJA26LczW9JTl",
+                "start_date": "2023-04-03"
             }
         },
         {
