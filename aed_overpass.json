@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T07:32:24Z",
+        "timestamp_osm_base": "2023-04-26T08:32:15Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101520,6 +101520,117 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa im. Jana Pawła II"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841451942,
+            "lat": 49.7552074,
+            "lon": 19.0026446,
+            "timestamp": "2023-04-26T07:36:27Z",
+            "version": 1,
+            "changeset": 135372234,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841463462,
+            "lat": 49.5963398,
+            "lon": 18.9837885,
+            "timestamp": "2023-04-26T07:56:08Z",
+            "version": 1,
+            "changeset": 135372982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841463463,
+            "lat": 49.5363044,
+            "lon": 19.2342498,
+            "timestamp": "2023-04-26T07:56:08Z",
+            "version": 1,
+            "changeset": 135372982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841463466,
+            "lat": 49.5319843,
+            "lon": 19.2261578,
+            "timestamp": "2023-04-26T07:56:08Z",
+            "version": 1,
+            "changeset": 135372982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841527957,
+            "lat": 53.8755612,
+            "lon": 21.3047587,
+            "timestamp": "2023-04-26T08:06:32Z",
+            "version": 1,
+            "changeset": 135373358,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Przychodnia Specjalistyczna",
+                "source": "https://www.mragowo.pl/aktualnosci/7970-dwa-defibrylatory-aed-trafily-do-mragowskiej-komendy-policji-i-przychodnia-krolewiecka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841527958,
+            "lat": 53.8771717,
+            "lon": 21.3043741,
+            "timestamp": "2023-04-26T08:06:32Z",
+            "version": 1,
+            "changeset": 135373358,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Komendy Policji",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Komenda Powiatowa Policji w Mrągowie",
+                "source": "https://www.mragowo.pl/aktualnosci/7970-dwa-defibrylatory-aed-trafily-do-mragowskiej-komendy-policji-i-przychodnia-krolewiecka"
             }
         },
         {
