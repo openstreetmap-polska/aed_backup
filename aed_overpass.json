@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T08:32:15Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-04-26T09:31:53Z",
+        "timestamp_areas_base": "2023-04-26T08:19:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101527,9 +101527,9 @@
             "id": 10841451942,
             "lat": 49.7552074,
             "lon": 19.0026446,
-            "timestamp": "2023-04-26T07:36:27Z",
-            "version": 1,
-            "changeset": 135372234,
+            "timestamp": "2023-04-26T08:55:10Z",
+            "version": 2,
+            "changeset": 135375212,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -101537,6 +101537,7 @@
                 "defibrillator:location": "W schronisku PTTK na Szyndzielni",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Schronisko PTTK Szyndzielnia",
                 "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
             }
         },
@@ -101545,16 +101546,17 @@
             "id": 10841463462,
             "lat": 49.5963398,
             "lon": 18.9837885,
-            "timestamp": "2023-04-26T07:56:08Z",
-            "version": 1,
-            "changeset": 135372982,
+            "timestamp": "2023-04-26T08:55:10Z",
+            "version": 2,
+            "changeset": 135375212,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "defibrillator:location": "W schronisku PTTK na Przysłopiu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Schronisko PTTK na Przysłopiu",
                 "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
             }
         },
@@ -101563,9 +101565,9 @@
             "id": 10841463463,
             "lat": 49.5363044,
             "lon": 19.2342498,
-            "timestamp": "2023-04-26T07:56:08Z",
-            "version": 1,
-            "changeset": 135372982,
+            "timestamp": "2023-04-26T08:55:10Z",
+            "version": 2,
+            "changeset": 135375212,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -101573,6 +101575,7 @@
                 "defibrillator:location": "W schronisku PTTK na Szyndzielni",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Schronisko PTTK Rysianka",
                 "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
             }
         },
@@ -101581,16 +101584,17 @@
             "id": 10841463466,
             "lat": 49.5319843,
             "lon": 19.2261578,
-            "timestamp": "2023-04-26T07:56:08Z",
-            "version": 1,
-            "changeset": 135372982,
+            "timestamp": "2023-04-26T08:55:10Z",
+            "version": 2,
+            "changeset": 135375212,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "defibrillator:location": "W schronisku PTTK na Hali Lipowskiej",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Schronisko PTTK Hala Lipowska",
                 "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
             }
         },
