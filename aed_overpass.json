@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T09:31:53Z",
+        "timestamp_osm_base": "2023-04-26T10:32:26Z",
         "timestamp_areas_base": "2023-04-26T08:19:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100118,9 +100118,9 @@
             "id": 10792710782,
             "lat": 49.3557546,
             "lon": 19.9660665,
-            "timestamp": "2023-04-07T13:02:51Z",
-            "version": 1,
-            "changeset": 134615267,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 2,
+            "changeset": 135376838,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -100128,6 +100128,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Bustryk",
                 "source": "https://podhale24.pl/aktualnosci/artykul/90577/Defibrylatory_dla_OSP.html"
             }
         },
@@ -100136,9 +100137,9 @@
             "id": 10792710783,
             "lat": 49.3378589,
             "lon": 19.9885028,
-            "timestamp": "2023-04-07T13:02:51Z",
-            "version": 1,
-            "changeset": 134615267,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 2,
+            "changeset": 135376838,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -100146,6 +100147,7 @@
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "OSP Suche",
                 "source": "https://podhale24.pl/aktualnosci/artykul/90577/Defibrylatory_dla_OSP.html"
             }
         },
@@ -101527,14 +101529,14 @@
             "id": 10841451942,
             "lat": 49.7552074,
             "lon": 19.0026446,
-            "timestamp": "2023-04-26T08:55:10Z",
-            "version": 2,
-            "changeset": 135375212,
+            "timestamp": "2023-04-26T09:38:45Z",
+            "version": 3,
+            "changeset": 135376986,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "defibrillator:location": "W schronisku PTTK",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Schronisko PTTK Szyndzielnia",
@@ -101546,14 +101548,14 @@
             "id": 10841463462,
             "lat": 49.5963398,
             "lon": 18.9837885,
-            "timestamp": "2023-04-26T08:55:10Z",
-            "version": 2,
-            "changeset": 135375212,
+            "timestamp": "2023-04-26T09:38:45Z",
+            "version": 3,
+            "changeset": 135376986,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Przysłopiu",
+                "defibrillator:location": "W schronisku PTTK",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Schronisko PTTK na Przysłopiu",
@@ -101565,14 +101567,14 @@
             "id": 10841463463,
             "lat": 49.5363044,
             "lon": 19.2342498,
-            "timestamp": "2023-04-26T08:55:10Z",
-            "version": 2,
-            "changeset": 135375212,
+            "timestamp": "2023-04-26T09:38:45Z",
+            "version": 3,
+            "changeset": 135376986,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Szyndzielni",
+                "defibrillator:location": "W schronisku PTTK",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Schronisko PTTK Rysianka",
@@ -101584,14 +101586,14 @@
             "id": 10841463466,
             "lat": 49.5319843,
             "lon": 19.2261578,
-            "timestamp": "2023-04-26T08:55:10Z",
-            "version": 2,
-            "changeset": 135375212,
+            "timestamp": "2023-04-26T09:38:45Z",
+            "version": 3,
+            "changeset": 135376986,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK na Hali Lipowskiej",
+                "defibrillator:location": "W schronisku PTTK",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Schronisko PTTK Hala Lipowska",
@@ -101635,6 +101637,119 @@
                 "opening_hours": "24/7",
                 "operator": "Komenda Powiatowa Policji w Mrągowie",
                 "source": "https://www.mragowo.pl/aktualnosci/7970-dwa-defibrylatory-aed-trafily-do-mragowskiej-komendy-policji-i-przychodnia-krolewiecka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671537,
+            "lat": 49.3354354,
+            "lon": 20.0672595,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Stasikówka",
+                "source": "Urząd Gminy Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671569,
+            "lat": 49.305336,
+            "lon": 20.0683276,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Małe Ciche",
+                "source": "Urząd Gminy Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671572,
+            "lat": 49.3120596,
+            "lon": 20.0432084,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Murzasichle",
+                "source": "Urząd Gminy Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671584,
+            "lat": 49.3375037,
+            "lon": 20.0061462,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Poronin",
+                "source": "Urząd Gminy Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671585,
+            "lat": 49.334765,
+            "lon": 19.9491191,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Ząb",
+                "source": "Urząd Gminy Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10841671586,
+            "lat": 49.3402383,
+            "lon": 19.9217548,
+            "timestamp": "2023-04-26T09:34:34Z",
+            "version": 1,
+            "changeset": 135376838,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nowe Bystre"
             }
         },
         {
