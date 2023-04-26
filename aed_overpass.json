@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-26T18:32:24Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-04-26T19:32:33Z",
+        "timestamp_areas_base": "2023-04-26T17:46:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101818,6 +101818,25 @@
                 "operator": "Nadleśnictwo Kościerzyna",
                 "source": "https://www.facebook.com/Nadlesnictwo.Koscierzyna/posts/pfbid0n6HYujZkKysQ3WCaNMMMBReKF3ebh3rhXrwyoWQA7kEjMmfE84HLjJA26LczW9JTl",
                 "start_date": "2023-04-03"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10844472926,
+            "lat": 54.1170174,
+            "lon": 17.870456,
+            "timestamp": "2023-04-26T18:33:45Z",
+            "version": 1,
+            "changeset": 135398372,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Łubiana",
+                "source": "https://koscierski.info/artykul/ten-sprzet-moze-uratowac/1428834"
             }
         },
         {
