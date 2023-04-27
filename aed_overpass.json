@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-27T06:32:39Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-04-27T07:32:23Z",
+        "timestamp_areas_base": "2023-04-27T03:12:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101875,6 +101875,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 67 264 19 01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10845520199,
+            "lat": 52.2191996,
+            "lon": 16.5340376,
+            "timestamp": "2023-04-27T06:40:46Z",
+            "version": 1,
+            "changeset": 135412041,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy szkole podstawowej",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa im. Powstańców Wielkopolskich w Granowie",
+                "phone": "+48614472040"
             }
         },
         {
