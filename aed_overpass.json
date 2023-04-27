@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-27T04:32:07Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-04-27T05:32:54Z",
+        "timestamp_areas_base": "2023-04-27T03:12:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101837,6 +101837,44 @@
                 "indoor": "yes",
                 "operator": "OSP Łubiana",
                 "source": "https://koscierski.info/artykul/ten-sprzet-moze-uratowac/1428834"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10845355105,
+            "lat": 52.9106554,
+            "lon": 16.0519435,
+            "timestamp": "2023-04-27T05:27:52Z",
+            "version": 1,
+            "changeset": 135410008,
+            "user": "ThuleHutaSzklana",
+            "uid": 19083026,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ściana w korytarzu biurowca W11",
+                "defibrillator:location:en": "On the wall in the hallway W11",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48672532067"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10845355106,
+            "lat": 53.1406443,
+            "lon": 16.7742397,
+            "timestamp": "2023-04-27T05:30:39Z",
+            "version": 1,
+            "changeset": 135410008,
+            "user": "ThuleHutaSzklana",
+            "uid": 19083026,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie w hali montażu",
+                "defibrillator:location:en": "On the wall in the assembly area",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 67 264 19 01"
             }
         },
         {
