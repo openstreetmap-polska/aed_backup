@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-27T17:32:39Z",
-        "timestamp_areas_base": "2023-04-27T12:36:09Z",
+        "timestamp_osm_base": "2023-04-27T18:32:35Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101894,6 +101894,24 @@
                 "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa im. Powstańców Wielkopolskich w Granowie",
                 "phone": "+48614472040"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10846823059,
+            "lat": 52.207859,
+            "lon": 20.9441096,
+            "timestamp": "2023-04-27T17:55:15Z",
+            "version": 1,
+            "changeset": 135438400,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ściane na prawo od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
