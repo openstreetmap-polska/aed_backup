@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-28T12:31:59Z",
+        "timestamp_osm_base": "2023-04-28T13:32:15Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101912,6 +101912,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10852694105,
+            "lat": 52.7335159,
+            "lon": 15.226648,
+            "timestamp": "2023-04-28T13:17:47Z",
+            "version": 1,
+            "changeset": 135469343,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter budynku nr 6 AkademiI Jakuba z Paradyża",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
