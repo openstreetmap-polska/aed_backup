@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-28T20:32:42Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-04-28T21:32:36Z",
+        "timestamp_areas_base": "2023-04-28T16:50:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101929,6 +101929,24 @@
                 "defibrillator:location": "Parter budynku nr 6 AkademiI Jakuba z Paradyża",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10853502305,
+            "lat": 49.9457962,
+            "lon": 21.6620832,
+            "timestamp": "2023-04-28T20:37:25Z",
+            "version": 1,
+            "changeset": 135483898,
+            "user": "Tomik86",
+            "uid": 19102623,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej remizy OSP Nawsie",
+                "defibrillator:location:en": "On the outer wall of the fire station of the OSP Nawsie",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
