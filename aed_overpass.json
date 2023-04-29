@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-29T09:32:09Z",
-        "timestamp_areas_base": "2023-04-29T06:59:01Z",
+        "timestamp_osm_base": "2023-04-29T10:31:46Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101947,6 +101947,23 @@
                 "defibrillator:location:en": "On the outer wall of the fire station of the OSP Nawsie",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10855742705,
+            "lat": 53.7395279,
+            "lon": 20.4836663,
+            "timestamp": "2023-04-29T10:25:36Z",
+            "version": 1,
+            "changeset": 135498493,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
             }
         },
         {
