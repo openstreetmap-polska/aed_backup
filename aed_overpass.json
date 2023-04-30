@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-04-30T10:32:23Z",
+        "timestamp_osm_base": "2023-04-30T11:32:09Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -74572,13 +74572,13 @@
         {
             "type": "node",
             "id": 10125651819,
-            "lat": 52.0107594,
-            "lon": 20.7343128,
-            "timestamp": "2022-10-24T11:31:55Z",
-            "version": 2,
-            "changeset": 127992456,
-            "user": "cesio80",
-            "uid": 17474888,
+            "lat": 52.0107476,
+            "lon": 20.7342936,
+            "timestamp": "2023-04-30T11:31:16Z",
+            "version": 3,
+            "changeset": 135533379,
+            "user": "Rogoyski",
+            "uid": 67255,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu głównym na ścianie budynku",
