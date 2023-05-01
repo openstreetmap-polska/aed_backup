@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-01T19:31:54Z",
+        "timestamp_osm_base": "2023-05-01T20:32:32Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -101965,6 +101965,43 @@
                 "defibrillator:location:en": "On the wall near cash registers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10860957606,
+            "lat": 52.2582568,
+            "lon": 20.3096376,
+            "timestamp": "2023-05-01T19:50:05Z",
+            "version": 1,
+            "changeset": 135588807,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-05-01",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10860980305,
+            "lat": 52.3231275,
+            "lon": 18.3590305,
+            "timestamp": "2023-05-01T19:49:06Z",
+            "version": 1,
+            "changeset": 135588807,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-05-01",
+                "defibrillator:location:pl": "W punkcie pomocy medycznej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
