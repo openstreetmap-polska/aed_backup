@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-02T14:30:38Z",
+        "timestamp_osm_base": "2023-05-02T15:28:25Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102037,6 +102037,24 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Warnicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10862583905,
+            "lat": 51.1038532,
+            "lon": 17.0570853,
+            "timestamp": "2023-05-02T15:07:03Z",
+            "version": 1,
+            "changeset": 135620945,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-05-02",
+                "defibrillator:location:pl": "W szatni Hydropolis",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
