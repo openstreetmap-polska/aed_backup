@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-02T13:31:07Z",
-        "timestamp_areas_base": "2023-05-02T10:20:53Z",
+        "timestamp_osm_base": "2023-05-02T14:30:38Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102019,6 +102019,24 @@
                 "defibrillator:location": "Przy wejściu do budynku Zbąszyńskiego Centrum Kultury",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10862428109,
+            "lat": 53.254861,
+            "lon": 14.9969266,
+            "timestamp": "2023-05-02T13:43:12Z",
+            "version": 1,
+            "changeset": 135617545,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w jednostce OSP w Warnicach.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Warnicach"
             }
         },
         {
