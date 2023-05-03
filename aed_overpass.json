@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-03T18:32:38Z",
+        "timestamp_osm_base": "2023-05-03T19:31:54Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102055,6 +102055,177 @@
                 "defibrillator:location:pl": "W szatni Hydropolis",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865786631,
+            "lat": 51.6528157,
+            "lon": 16.0697981,
+            "timestamp": "2023-05-03T19:08:08Z",
+            "version": 1,
+            "changeset": 135673645,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "defibrillator:location": "Targowisko Miejskie",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Targowisko Miejskie Saturna",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811992,
+            "lat": 51.6536863,
+            "lon": 16.0673424,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Kościół NMP",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811993,
+            "lat": 51.6519396,
+            "lon": 16.0598973,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Młodzieżowy Klub MAYDAY",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811994,
+            "lat": 51.652137,
+            "lon": 16.0590474,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Stowarzyszenie dla Dzieci i Młodzieży SZANSA",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811995,
+            "lat": 51.6580378,
+            "lon": 16.0588565,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Stowarzyszenie Dom",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811996,
+            "lat": 51.6548054,
+            "lon": 16.0903547,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Szkoła Podstawowa Nr 9",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811997,
+            "lat": 51.652038,
+            "lon": 16.0665381,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "ZHP przy Szkole Podstawowej Nr 11",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811998,
+            "lat": 51.6677379,
+            "lon": 16.08377,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Głogowskie Stowarzyszenie Otwarte Drzwi",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865811999,
+            "lat": 51.66198,
+            "lon": 16.0781861,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Dom Dziennego Pobytu Cicha Przystań",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865812000,
+            "lat": 51.6572461,
+            "lon": 16.0935528,
+            "timestamp": "2023-05-03T19:21:56Z",
+            "version": 1,
+            "changeset": 135673975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "operator": "Głogowskie Stowarzyszenie A jutro",
+                "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
             }
         },
         {
