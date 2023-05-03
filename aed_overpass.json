@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-03T19:31:54Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-03T20:32:11Z",
+        "timestamp_areas_base": "2023-05-03T19:23:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102226,6 +102226,24 @@
                 "fixme": "Lokalizacja do dokładnego ustalenia",
                 "operator": "Głogowskie Stowarzyszenie A jutro",
                 "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10865857008,
+            "lat": 49.7918503,
+            "lon": 20.089499,
+            "timestamp": "2023-05-03T19:33:45Z",
+            "version": 1,
+            "changeset": 135674307,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Lekki samochód rozpoznawczo-ratowniczy VW Crafter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://dziennikpolski24.pl/strazacy-z-osp-lipnik-ciesza-sie-z-nowego-auta-i-swietuja-jubileusz/ar/c1-17504545"
             }
         },
         {
