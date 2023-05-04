@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-04T07:32:24Z",
-        "timestamp_areas_base": "2023-05-04T04:48:45Z",
+        "timestamp_osm_base": "2023-05-04T08:32:05Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -40468,16 +40468,17 @@
             "id": 9522340198,
             "lat": 50.0397777,
             "lon": 18.7518018,
-            "timestamp": "2022-02-20T18:15:09Z",
-            "version": 1,
-            "changeset": 117649447,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-05-04T07:47:09Z",
+            "version": 2,
+            "changeset": 135688230,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ściana garażu pomiędzy budynkiem kościoła a probostwa Parafii",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "operator": "Parafia św. Maksymiliana Marii Kolbego w Rudziczce",
                 "phone": "792 544 400"
             }
         },
@@ -102244,6 +102245,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://dziennikpolski24.pl/strazacy-z-osp-lipnik-ciesza-sie-z-nowego-auta-i-swietuja-jubileusz/ar/c1-17504545"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10866816571,
+            "lat": 54.5799807,
+            "lon": 18.5404372,
+            "timestamp": "2023-05-04T07:51:16Z",
+            "version": 1,
+            "changeset": 135688360,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie sklepu Odido.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Odido",
+                "phone": "+48501445720"
             }
         },
         {
