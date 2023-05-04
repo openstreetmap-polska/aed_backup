@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-04T15:32:02Z",
+        "timestamp_osm_base": "2023-05-04T16:32:39Z",
         "timestamp_areas_base": "2023-05-04T14:16:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102309,9 +102309,9 @@
             "id": 10867726269,
             "lat": 51.586087,
             "lon": 16.0370722,
-            "timestamp": "2023-05-04T15:12:32Z",
-            "version": 1,
-            "changeset": 135705855,
+            "timestamp": "2023-05-04T16:01:17Z",
+            "version": 2,
+            "changeset": 135707735,
             "user": "szydzio",
             "uid": 2313574,
             "tags": {
@@ -102320,6 +102320,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "manufacturer": "Nihon Kohden",
                 "opening_hours": "24/7",
                 "operator": "Shell Polska"
             }
