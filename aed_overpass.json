@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-04T14:32:21Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-04T15:32:02Z",
+        "timestamp_areas_base": "2023-05-04T14:16:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102302,6 +102302,26 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "BP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10867726269,
+            "lat": 51.586087,
+            "lon": 16.0370722,
+            "timestamp": "2023-05-04T15:12:32Z",
+            "version": 1,
+            "changeset": 135705855,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w budynku stacji paliw obok wejścia na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Shell Polska"
             }
         },
         {
