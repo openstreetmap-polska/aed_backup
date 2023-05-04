@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-04T12:32:09Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-04T13:32:45Z",
+        "timestamp_areas_base": "2023-05-04T09:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3714,14 +3714,17 @@
             "id": 8566095370,
             "lat": 50.4997476,
             "lon": 21.5417961,
-            "timestamp": "2021-03-26T23:17:30Z",
-            "version": 1,
-            "changeset": 101821294,
-            "user": "grelus",
-            "uid": 813385,
+            "timestamp": "2023-05-04T12:51:22Z",
+            "version": 2,
+            "changeset": 135700281,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
-                "emergency": "defibrillator"
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie punktu informacji turystycznej",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Informacja Turystyczna"
             }
         },
         {
