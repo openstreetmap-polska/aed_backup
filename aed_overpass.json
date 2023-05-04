@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-04T13:32:45Z",
-        "timestamp_areas_base": "2023-05-04T09:30:55Z",
+        "timestamp_osm_base": "2023-05-04T14:32:21Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102285,6 +102285,23 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Poronin"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10867503724,
+            "lat": 52.2939054,
+            "lon": 17.6522559,
+            "timestamp": "2023-05-04T13:45:47Z",
+            "version": 1,
+            "changeset": 135702411,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED na wyposażeniu stacji paliw BP.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "BP"
             }
         },
         {
