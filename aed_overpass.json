@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-06T08:32:39Z",
-        "timestamp_areas_base": "2023-05-06T03:56:53Z",
+        "timestamp_osm_base": "2023-05-06T09:32:36Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102325,6 +102325,23 @@
                 "level": "0",
                 "operator": "Uniwersytet Ekonomiczny",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10872953405,
+            "lat": 50.0236704,
+            "lon": 19.9649496,
+            "timestamp": "2023-05-06T08:40:23Z",
+            "version": 1,
+            "changeset": 135767861,
+            "user": "BogusławB",
+            "uid": 19177498,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do kościoła",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
