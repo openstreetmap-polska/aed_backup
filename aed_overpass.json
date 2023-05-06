@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-06T11:32:08Z",
-        "timestamp_areas_base": "2023-05-06T08:38:46Z",
+        "timestamp_osm_base": "2023-05-06T12:31:54Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60662,13 +60662,13 @@
         {
             "type": "node",
             "id": 9687639022,
-            "lat": 51.0200402,
-            "lon": 18.051336,
-            "timestamp": "2022-04-23T10:24:16Z",
-            "version": 1,
-            "changeset": 120084588,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 51.020055,
+            "lon": 18.0512389,
+            "timestamp": "2023-05-06T12:21:36Z",
+            "version": 2,
+            "changeset": 135774910,
+            "user": "ospdomaszowice",
+            "uid": 3564749,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Na Ścianie w Remizie, Boks Garażowy",
