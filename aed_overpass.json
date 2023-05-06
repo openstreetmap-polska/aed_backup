@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-06T10:32:19Z",
+        "timestamp_osm_base": "2023-05-06T11:32:08Z",
         "timestamp_areas_base": "2023-05-06T08:38:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102342,6 +102342,42 @@
                 "defibrillator:location": "Przy wejściu do kościoła",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10873213668,
+            "lat": 52.0836569,
+            "lon": 16.7850907,
+            "timestamp": "2023-05-06T11:17:23Z",
+            "version": 1,
+            "changeset": 135772738,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.koscian.net/Samochod_i_defibrylatory_dla_strazakow_z_gminy_Czempin,39447.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10873213669,
+            "lat": 52.1438243,
+            "lon": 16.7706068,
+            "timestamp": "2023-05-06T11:17:23Z",
+            "version": 1,
+            "changeset": 135772738,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.koscian.net/Samochod_i_defibrylatory_dla_strazakow_z_gminy_Czempin,39447.html"
             }
         },
         {
