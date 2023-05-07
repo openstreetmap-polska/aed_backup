@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-07T14:32:23Z",
-        "timestamp_areas_base": "2023-05-07T13:02:08Z",
+        "timestamp_osm_base": "2023-05-07T15:32:09Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99735,19 +99735,21 @@
         {
             "type": "node",
             "id": 10783863105,
-            "lat": 53.7741035,
-            "lon": 15.4195046,
-            "timestamp": "2023-04-04T08:48:38Z",
-            "version": 2,
-            "changeset": 134485178,
+            "lat": 53.7741396,
+            "lon": 15.4195523,
+            "timestamp": "2023-05-07T15:06:49Z",
+            "version": 3,
+            "changeset": 135815563,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-04-20",
                 "defibrillator:location:pl": "W sekretariacie.",
                 "emergency": "defibrillator",
-                "image": "",
                 "indoor": "yes",
+                "mobile": "+48 600 491 669",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Nadleśnictwo Resko",
                 "phone": "+48 91 395 14 00"
             }
