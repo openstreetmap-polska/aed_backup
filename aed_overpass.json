@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-08T17:32:09Z",
-        "timestamp_areas_base": "2023-05-08T12:41:09Z",
+        "timestamp_osm_base": "2023-05-08T18:32:39Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102398,6 +102398,45 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Rudotłowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10879327236,
+            "lat": 50.8168513,
+            "lon": 19.1205023,
+            "timestamp": "2023-05-08T18:03:56Z",
+            "version": 1,
+            "changeset": 135864124,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do hali sportowej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Exact Systems",
+                "source": "http://www.wczestochowie.pl/artykul/42228,czestochowska-firma-ufundowala-kolejny-ogolnodostepny-defibrylator-ratujacy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10879327237,
+            "lat": 50.7964565,
+            "lon": 19.1374537,
+            "timestamp": "2023-05-08T18:03:56Z",
+            "version": 1,
+            "changeset": 135864124,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku przestrzeni sortującej Exact Systems",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Exact Systems",
+                "source": "http://www.wczestochowie.pl/artykul/42228,czestochowska-firma-ufundowala-kolejny-ogolnodostepny-defibrylator-ratujacy-zycie"
             }
         },
         {
