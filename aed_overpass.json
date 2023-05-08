@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-08T07:32:09Z",
+        "timestamp_osm_base": "2023-05-08T08:31:53Z",
         "timestamp_areas_base": "2023-05-08T03:15:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102380,6 +102380,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.koscian.net/Samochod_i_defibrylatory_dla_strazakow_z_gminy_Czempin,39447.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10877346186,
+            "lat": 49.9577828,
+            "lon": 19.0023927,
+            "timestamp": "2023-05-08T08:03:17Z",
+            "version": 1,
+            "changeset": 135840316,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu OSP w Rudotłowicach",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Rudotłowicach"
             }
         },
         {
