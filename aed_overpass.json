@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-08T18:32:39Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-08T19:32:22Z",
+        "timestamp_areas_base": "2023-05-08T17:25:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102437,6 +102437,23 @@
                 "indoor": "yes",
                 "operator": "Exact Systems",
                 "source": "http://www.wczestochowie.pl/artykul/42228,czestochowska-firma-ufundowala-kolejny-ogolnodostepny-defibrylator-ratujacy-zycie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10879370168,
+            "lat": 51.7765284,
+            "lon": 19.486996,
+            "timestamp": "2023-05-08T18:38:18Z",
+            "version": 1,
+            "changeset": 135865215,
+            "user": "Zaaak123",
+            "uid": 17845332,
+            "tags": {
+                "defibrillator:location": "Portiernia Wydziału Matematyki i Informatyki",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
