@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-08T10:32:24Z",
+        "timestamp_osm_base": "2023-05-08T11:32:09Z",
         "timestamp_areas_base": "2023-05-08T07:57:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -98539,13 +98539,13 @@
             "id": 10752731208,
             "lat": 50.0324456,
             "lon": 20.2159931,
-            "timestamp": "2023-04-07T17:45:14Z",
-            "version": 2,
-            "changeset": 134626983,
-            "user": "KrakowNH",
-            "uid": 10620416,
+            "timestamp": "2023-05-08T11:04:18Z",
+            "version": 3,
+            "changeset": 135847623,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "unknown",
+                "access": "customers",
                 "defibrillator:location": "Znajduje się w poczekalni komisaratu Policji",
                 "defibrillator:location:en": "Inside the bulding in waiting area",
                 "emergency": "defibrillator",
