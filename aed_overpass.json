@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-08T08:31:53Z",
-        "timestamp_areas_base": "2023-05-08T03:15:08Z",
+        "timestamp_osm_base": "2023-05-08T09:32:39Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -8808,18 +8808,19 @@
             "id": 9377843506,
             "lat": 52.2742289,
             "lon": 16.8585863,
-            "timestamp": "2022-01-13T21:52:11Z",
-            "version": 3,
-            "changeset": 116125959,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2023-05-08T08:39:43Z",
+            "version": 4,
+            "changeset": 135841810,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Szkoła Podstawowa nr 2, przy wejściu",
                 "direction": "10",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa nr 2 im. Powstańców Wielkopolskich"
             }
         },
         {
