@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-09T09:32:09Z",
-        "timestamp_areas_base": "2023-05-09T07:33:36Z",
+        "timestamp_osm_base": "2023-05-09T10:32:09Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102475,6 +102475,26 @@
                 "level": "0",
                 "opening_hours": "07:00-22:00",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10880680006,
+            "lat": 52.407238,
+            "lon": 16.7850388,
+            "timestamp": "2023-05-09T10:29:06Z",
+            "version": 1,
+            "changeset": 135888755,
+            "user": "ArturKaluzny",
+            "uid": 19208501,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-05-09",
+                "defibrillator:location:pl": "budynek Fiberhost, INEA\nparter, \nAED znajduje się po prawej stronie od głównej wejścia, na ścianie w zielonej skrzynce.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "732453322"
             }
         },
         {
