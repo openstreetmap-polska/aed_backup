@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-09T10:32:09Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-09T12:32:38Z",
+        "timestamp_areas_base": "2023-05-09T07:33:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102495,6 +102495,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "phone": "732453322"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10880880888,
+            "lat": 52.2317851,
+            "lon": 21.0111164,
+            "timestamp": "2023-05-09T12:19:51Z",
+            "version": 1,
+            "changeset": 135893438,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Za kasami w sklepie Adidas na 1 piętrze.",
+                "defibrillator:location:en": "Behind the cash registers at the adidas store on the 1st floor",
+                "emergency": "defibrillator",
+                "level": "1",
+                "location": "indoor",
+                "note:access": "Zamknięty w szufladzie na klucz."
             }
         },
         {
