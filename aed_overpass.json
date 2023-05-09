@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-09T06:32:51Z",
-        "timestamp_areas_base": "2023-05-09T02:50:49Z",
+        "timestamp_osm_base": "2023-05-09T07:32:37Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102454,6 +102454,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10880265194,
+            "lat": 50.1694781,
+            "lon": 18.9052155,
+            "timestamp": "2023-05-09T06:35:13Z",
+            "version": 1,
+            "changeset": 135879341,
+            "user": "AdiS",
+            "uid": 94017,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W holu na parterze, na prawej ścianie",
+                "defibrillator:location:en": "In the middle of the hall, on right wall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "07:00-22:00",
+                "wheelchair": "yes"
             }
         },
         {
