@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-10T07:32:16Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-10T08:32:07Z",
+        "timestamp_areas_base": "2023-05-10T07:09:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46144,11 +46144,11 @@
             "id": 9536826650,
             "lat": 52.193275,
             "lon": 20.8877343,
-            "timestamp": "2023-02-26T16:35:50Z",
-            "version": 2,
-            "changeset": 133050236,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-05-10T08:27:58Z",
+            "version": 3,
+            "changeset": 135924870,
+            "user": "SzymonH",
+            "uid": 1189934,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-02-19",
@@ -46163,11 +46163,11 @@
                 "manufacturer": "Zoll",
                 "model": "AED Plus",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-14:00",
+                "opening_hours": "24/7",
                 "operator": "Biblioteka Publiczna im. W.J. Grabskiego w Dzielnicy Ursus m.st. Warszawy",
                 "phone": "+48 22 882 43 00",
                 "ref:api-um-warszawa-pl": "689",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
