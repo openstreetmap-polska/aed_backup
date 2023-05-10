@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-10T08:32:07Z",
-        "timestamp_areas_base": "2023-05-10T07:09:59Z",
+        "timestamp_osm_base": "2023-05-10T09:32:38Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102558,9 +102558,9 @@
             "id": 10882789105,
             "lat": 53.2467035,
             "lon": 17.6599372,
-            "timestamp": "2023-05-10T07:08:28Z",
-            "version": 1,
-            "changeset": 135922135,
+            "timestamp": "2023-05-10T08:46:01Z",
+            "version": 2,
+            "changeset": 135925644,
             "user": "PLANASA POLSKA OSTROWO",
             "uid": 19216105,
             "tags": {
@@ -102569,6 +102569,7 @@
                 "defibrillator:location:en": "at the entrance, on the wall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "PLANASA POLSKA Sp. z o.o.",
                 "phone": "696741588"
             }
         },
