@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-10T05:32:38Z",
-        "timestamp_areas_base": "2023-05-10T02:28:09Z",
+        "timestamp_osm_base": "2023-05-10T06:32:24Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102515,6 +102515,24 @@
                 "level": "1",
                 "location": "indoor",
                 "note:access": "Zamknięty w szufladzie na klucz."
+            }
+        },
+        {
+            "type": "node",
+            "id": 10882729248,
+            "lat": 49.9266688,
+            "lon": 21.1257313,
+            "timestamp": "2023-05-10T06:29:33Z",
+            "version": 1,
+            "changeset": 135920574,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na rogu budynku sali gimnastycznej.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "ZSP w Zalasowej"
             }
         },
         {
