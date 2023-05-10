@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-10T17:32:12Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-10T18:32:35Z",
+        "timestamp_areas_base": "2023-05-10T16:39:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102591,6 +102591,22 @@
                 "indoor": "yes",
                 "level": "0",
                 "phone": "728327635"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10884310896,
+            "lat": 52.239003,
+            "lon": 20.9950895,
+            "timestamp": "2023-05-10T17:59:12Z",
+            "version": 1,
+            "changeset": 135947159,
+            "user": "Rogoyski",
+            "uid": 67255,
+            "tags": {
+                "defibrillator:location": "w holu koło drzwi Lobby B",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
