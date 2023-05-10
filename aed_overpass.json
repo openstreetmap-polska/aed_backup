@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-10T06:32:24Z",
+        "timestamp_osm_base": "2023-05-10T07:32:16Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48945,13 +48945,13 @@
         {
             "type": "node",
             "id": 9568725917,
-            "lat": 54.1890639,
-            "lon": 15.6042987,
-            "timestamp": "2022-03-10T13:05:33Z",
-            "version": 1,
-            "changeset": 118323233,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 54.189033,
+            "lon": 15.6042399,
+            "timestamp": "2023-05-10T06:37:58Z",
+            "version": 2,
+            "changeset": 135920930,
+            "user": "taxi301",
+            "uid": 657596,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Defibrylator AED",
@@ -102533,6 +102533,43 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "ZSP w Zalasowej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10882736107,
+            "lat": 50.1583774,
+            "lon": 19.9798624,
+            "timestamp": "2023-05-10T06:49:04Z",
+            "version": 1,
+            "changeset": 135921395,
+            "user": "Maciek St",
+            "uid": 19216289,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do biblioteki",
+                "defibrillator:location:en": "On the wall near the entrance to the library",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10882789105,
+            "lat": 53.2467035,
+            "lon": 17.6599372,
+            "timestamp": "2023-05-10T07:08:28Z",
+            "version": 1,
+            "changeset": 135922135,
+            "user": "PLANASA POLSKA OSTROWO",
+            "uid": 19216105,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, przy wiejściu",
+                "defibrillator:location:en": "at the entrance, on the wall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "696741588"
             }
         },
         {
