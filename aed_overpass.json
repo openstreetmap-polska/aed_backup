@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-11T08:32:19Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-11T09:32:05Z",
+        "timestamp_areas_base": "2023-05-11T06:46:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102607,6 +102607,24 @@
                 "defibrillator:location": "w holu koło drzwi Lobby B",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10886079905,
+            "lat": 52.654232,
+            "lon": 17.5253664,
+            "timestamp": "2023-05-11T09:25:28Z",
+            "version": 1,
+            "changeset": 135968260,
+            "user": "PLANASA POLSKA OSTROWO",
+            "uid": 19216105,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie, przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "690065427"
             }
         },
         {
