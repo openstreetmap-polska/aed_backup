@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-11T18:31:54Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-11T19:32:39Z",
+        "timestamp_areas_base": "2023-05-11T16:12:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -99735,28 +99735,6 @@
         },
         {
             "type": "node",
-            "id": 10783863105,
-            "lat": 53.7741396,
-            "lon": 15.4195523,
-            "timestamp": "2023-05-07T15:06:49Z",
-            "version": 3,
-            "changeset": 135815563,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "customers",
-                "check_date": "2023-04-20",
-                "defibrillator:location:pl": "W sekretariacie.",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "mobile": "+48 600 491 669",
-                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
-                "operator": "Nadleśnictwo Resko",
-                "phone": "+48 91 395 14 00"
-            }
-        },
-        {
-            "type": "node",
             "id": 10783874568,
             "lat": 50.0183755,
             "lon": 22.6839829,
@@ -102642,6 +102620,29 @@
                 "defibrillator:location": "Defibrylator znajduje się na terenie biurowca ZUGIL (wjazd od ul. Ciepłowniczej), na parterze budynku, środkowa klatka schodowa",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10887606512,
+            "lat": 53.7741634,
+            "lon": 15.4195697,
+            "timestamp": "2023-05-11T19:27:31Z",
+            "version": 1,
+            "changeset": 135991132,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-04-20",
+                "defibrillator:location:pl": "W sekretariacie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "mobile": "+48 600 491 669",
+                "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
+                "operator": "Nadleśnictwo Resko",
+                "phone": "+48 91 395 14 00"
             }
         },
         {
