@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-11T12:32:08Z",
-        "timestamp_areas_base": "2023-05-11T11:28:22Z",
+        "timestamp_osm_base": "2023-05-11T13:32:50Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102625,6 +102625,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "690065427"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10886468306,
+            "lat": 51.2274998,
+            "lon": 18.567972,
+            "timestamp": "2023-05-11T12:42:53Z",
+            "version": 1,
+            "changeset": 135976265,
+            "user": "ZUGIL SA",
+            "uid": 18253572,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się na terenie biurowca ZUGIL (wjazd od ul. Ciepłowniczej), na parterze budynku, środkowa klatka schodowa",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
