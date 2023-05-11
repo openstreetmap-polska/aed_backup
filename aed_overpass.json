@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-11T20:32:16Z",
+        "timestamp_osm_base": "2023-05-11T21:31:58Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -48597,15 +48597,19 @@
             "id": 9568619517,
             "lat": 49.6184109,
             "lon": 20.6899528,
-            "timestamp": "2022-03-10T12:11:34Z",
-            "version": 1,
-            "changeset": 118318330,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-05-11T20:49:28Z",
+            "version": 2,
+            "changeset": 135993591,
+            "user": "emtiwi",
+            "uid": 313969,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Starostwo Powiatowe w Nowym Sączu - Wydział Geodezji. Wydział Budownictwa.",
-                "emergency": "defibrillator"
+                "defibrillator:location": "Starostwo Powiatowe w Nowym Sączu - Wydział Geodezji. Wydział Budownictwa.\nAED\nznajduje się w pokoju nr 206\n(pierwsze piętro)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo 08:00-16:00; Tu-Fr 07:30-15:30; PH,Sa-Su closed",
+                "phone": "+48 18 414 18 00;+48 18 414 18 91"
             }
         },
         {
@@ -102643,6 +102647,26 @@
                 "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Nadleśnictwo Resko",
                 "phone": "+48 91 395 14 00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10887762105,
+            "lat": 52.2808241,
+            "lon": 16.7021555,
+            "timestamp": "2023-05-11T20:53:43Z",
+            "version": 1,
+            "changeset": 135993700,
+            "user": "Adasko999",
+            "uid": 19234588,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "W samochodzie Ratowniczo-gaśniczym Iveco",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "operator": "OSP STĘSZEW ",
+                "phone": "112"
             }
         },
         {
