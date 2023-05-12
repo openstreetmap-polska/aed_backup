@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-12T05:32:24Z",
+        "timestamp_osm_base": "2023-05-12T06:32:23Z",
         "timestamp_areas_base": "2023-05-12T01:40:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102667,6 +102667,37 @@
                 "indoor": "yes",
                 "operator": "OSP STĘSZEW ",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10888992407,
+            "lat": 49.8059645,
+            "lon": 21.4363246,
+            "timestamp": "2023-05-12T06:26:24Z",
+            "version": 1,
+            "changeset": 136002764,
+            "user": "Straż 998",
+            "uid": 16015182,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10888996605,
+            "lat": 49.8066077,
+            "lon": 21.4365059,
+            "timestamp": "2023-05-12T06:28:23Z",
+            "version": 1,
+            "changeset": 136002764,
+            "user": "Straż 998",
+            "uid": 16015182,
+            "tags": {
+                "defibrillator:location": "Dostępny na samochodach ratowniczo-gaśniczych",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
