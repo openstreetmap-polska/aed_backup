@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-12T08:32:15Z",
+        "timestamp_osm_base": "2023-05-12T09:32:06Z",
         "timestamp_areas_base": "2023-05-12T06:22:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102667,21 +102667,6 @@
                 "indoor": "yes",
                 "operator": "OSP STĘSZEW ",
                 "phone": "112"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10888992407,
-            "lat": 49.8059645,
-            "lon": 21.4363246,
-            "timestamp": "2023-05-12T06:26:24Z",
-            "version": 1,
-            "changeset": 136002764,
-            "user": "Straż 998",
-            "uid": 16015182,
-            "tags": {
-                "emergency": "defibrillator",
-                "indoor": "yes"
             }
         },
         {
