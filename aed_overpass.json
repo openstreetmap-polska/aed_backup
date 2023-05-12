@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-12T12:31:51Z",
-        "timestamp_areas_base": "2023-05-12T11:05:12Z",
+        "timestamp_osm_base": "2023-05-12T13:31:57Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78391,16 +78391,16 @@
         {
             "type": "node",
             "id": 10239784909,
-            "lat": 49.8226895,
-            "lon": 19.0447105,
-            "timestamp": "2022-12-05T09:10:42Z",
-            "version": 1,
-            "changeset": 129732421,
-            "user": "asbb",
-            "uid": 2563391,
+            "lat": 49.8227044,
+            "lon": 19.0446388,
+            "timestamp": "2023-05-12T12:34:35Z",
+            "version": 2,
+            "changeset": 136016868,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Po lewej  stronie od wejścia do windy do przejścia podziemnego, na górnym poziomie.",
+                "defibrillator:location": "Po lewej stronie od wejścia do windy do przejścia podziemnego, na górnym poziomie.",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
