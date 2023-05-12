@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-12T19:32:37Z",
-        "timestamp_areas_base": "2023-05-12T15:52:27Z",
+        "timestamp_osm_base": "2023-05-12T20:32:24Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102699,6 +102699,25 @@
                 "defibrillator:location": "Na parterze w pomieszczeniu ochrony przy drzwiach wejściowych.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10891765305,
+            "lat": 52.1742822,
+            "lon": 20.9395577,
+            "timestamp": "2023-05-12T20:05:47Z",
+            "version": 1,
+            "changeset": 136033647,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-05-12",
+                "defibrillator:location:pl": "Na lewej ścianie od wejścia, obok gaśnicy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
