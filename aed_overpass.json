@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-13T19:32:24Z",
+        "timestamp_osm_base": "2023-05-13T20:32:11Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102738,6 +102738,61 @@
                 "defibrillator:location": "po lewej stronie głównego korytarz",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10894604344,
+            "lat": 54.1430474,
+            "lon": 15.2892195,
+            "timestamp": "2023-05-13T20:24:09Z",
+            "version": 1,
+            "changeset": 136066162,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mrzeżyno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10894604345,
+            "lat": 54.0644935,
+            "lon": 15.3827088,
+            "timestamp": "2023-05-13T20:24:09Z",
+            "version": 1,
+            "changeset": 136066162,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku remizy OSP Gołańcz Pomorska",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10894604346,
+            "lat": 54.1378714,
+            "lon": 15.2794255,
+            "timestamp": "2023-05-13T20:24:09Z",
+            "version": 1,
+            "changeset": 136066162,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku świetlicy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Osiedle Za Regą"
             }
         },
         {
