@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-13T04:31:52Z",
+        "timestamp_osm_base": "2023-05-13T05:31:43Z",
         "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102674,15 +102674,17 @@
             "id": 10888996605,
             "lat": 49.8066077,
             "lon": 21.4365059,
-            "timestamp": "2023-05-12T06:28:23Z",
-            "version": 1,
-            "changeset": 136002764,
+            "timestamp": "2023-05-13T04:57:44Z",
+            "version": 2,
+            "changeset": 136040584,
             "user": "Straż 998",
             "uid": 16015182,
             "tags": {
                 "defibrillator:location": "Dostępny na samochodach ratowniczo-gaśniczych",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Ochotnicza Straż Pozarna w Kołaczycach",
+                "telefon": "112"
             }
         },
         {
