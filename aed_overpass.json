@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-14T11:32:54Z",
-        "timestamp_areas_base": "2023-04-25T08:53:24Z",
+        "timestamp_osm_base": "2023-05-14T12:32:45Z",
+        "timestamp_areas_base": "2023-05-14T10:28:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102675,17 +102675,17 @@
             "id": 10888996605,
             "lat": 49.8066077,
             "lon": 21.4365059,
-            "timestamp": "2023-05-13T04:57:44Z",
-            "version": 2,
-            "changeset": 136040584,
-            "user": "Straż 998",
-            "uid": 16015182,
+            "timestamp": "2023-05-14T11:53:53Z",
+            "version": 3,
+            "changeset": 136082072,
+            "user": "mueschel",
+            "uid": 616774,
             "tags": {
                 "defibrillator:location": "Dostępny na samochodach ratowniczo-gaśniczych",
                 "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
                 "indoor": "yes",
-                "operator": "Ochotnicza Straż Pozarna w Kołaczycach",
-                "telefon": "112"
+                "operator": "Ochotnicza Straż Pozarna w Kołaczycach"
             }
         },
         {
