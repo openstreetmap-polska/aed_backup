@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-15T08:32:24Z",
+        "timestamp_osm_base": "2023-05-15T09:32:05Z",
         "timestamp_areas_base": "2023-05-15T05:24:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102793,6 +102793,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Osiedle Za Regą"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10898922509,
+            "lat": 52.247997,
+            "lon": 15.8099754,
+            "timestamp": "2023-05-15T08:53:17Z",
+            "version": 1,
+            "changeset": 136115605,
+            "user": "OSiR Zbąszynek",
+            "uid": 19269404,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu na halę główną",
+                "defibrillator:location:en": "On the wall at the entrance to the main hall",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 573 330 673"
             }
         },
         {
