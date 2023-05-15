@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-15T14:31:54Z",
-        "timestamp_areas_base": "2023-05-15T10:08:31Z",
+        "timestamp_osm_base": "2023-05-15T15:32:39Z",
+        "timestamp_areas_base": "2023-04-25T08:53:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85301,17 +85301,22 @@
             "id": 10315431709,
             "lat": 51.1109781,
             "lon": 17.0687429,
-            "timestamp": "2023-01-08T19:27:48Z",
-            "version": 1,
-            "changeset": 131027966,
+            "timestamp": "2023-05-15T15:25:53Z",
+            "version": 7,
+            "changeset": 136132152,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-15",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Centrum Symulacji Medycznej (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
+                "defibrillator:location:pl": "Centrum Symulacji Medycznej - Uniwersytet Medyczny we Wrocławiu\nGłówne wejście - w holu po lewej stronie",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Pn-Pt 6.00-21.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\""
             }
         },
         {
