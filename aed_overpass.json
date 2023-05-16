@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T05:32:51Z",
-        "timestamp_areas_base": "2023-05-16T00:24:32Z",
+        "timestamp_osm_base": "2023-05-16T06:32:38Z",
+        "timestamp_areas_base": "2023-05-16T04:45:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102845,6 +102845,43 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 573 330 673"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901139148,
+            "lat": 49.4549578,
+            "lon": 22.2196591,
+            "timestamp": "2023-05-16T05:54:39Z",
+            "version": 1,
+            "changeset": 136150977,
+            "user": "Czaszyn",
+            "uid": 11900425,
+            "tags": {
+                "defibrillator:location": "W remizie OSP CZASZYN.\nul. Starowiejska 37, 38-516 Czaszyn. \nwww.osp.czaszyn.pl",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OCHOTNICZA STRAŻ POŻARNA CZASZYN"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901149349,
+            "lat": 49.5104618,
+            "lon": 22.2623469,
+            "timestamp": "2023-05-16T05:49:36Z",
+            "version": 1,
+            "changeset": 136150860,
+            "user": "Czaszyn",
+            "uid": 11900425,
+            "tags": {
+                "defibrillator:location": "W Posterunku SOK Zagórz.\nul. Piłsudskiego 44, 38-540 Zagórz .\nWejście od strony torowiska.\ntel. całodobowy: 134961664",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "24/7",
+                "operator": "Straż Ochrony Kolei"
             }
         },
         {
