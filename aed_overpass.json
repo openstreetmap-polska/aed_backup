@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T09:32:09Z",
-        "timestamp_areas_base": "2023-05-16T04:45:05Z",
+        "timestamp_osm_base": "2023-05-16T10:32:54Z",
+        "timestamp_areas_base": "2023-05-16T05:08:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -29457,25 +29457,6 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Kokoszyce"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9466540212,
-            "lat": 50.0137435,
-            "lon": 18.3769996,
-            "timestamp": "2023-02-11T09:43:30Z",
-            "version": 2,
-            "changeset": 132395963,
-            "user": "Marek-M",
-            "uid": 598860,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "OSP Zawada"
             }
         },
         {
