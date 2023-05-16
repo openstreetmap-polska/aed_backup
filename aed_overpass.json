@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T07:32:38Z",
-        "timestamp_areas_base": "2023-05-16T05:08:24Z",
+        "timestamp_osm_base": "2023-05-16T08:32:22Z",
+        "timestamp_areas_base": "2023-05-16T04:45:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102889,9 +102889,9 @@
             "id": 10901203608,
             "lat": 49.691368,
             "lon": 22.4753465,
-            "timestamp": "2023-05-16T06:51:04Z",
-            "version": 1,
-            "changeset": 136152864,
+            "timestamp": "2023-05-16T08:25:54Z",
+            "version": 2,
+            "changeset": 136156758,
             "user": "Hajnold Rafal",
             "uid": 19279372,
             "tags": {
@@ -102900,6 +102900,7 @@
                 "defibrillator:location:en": "Inside the building OSP BIRCZA",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Andrzej Atamańczuk",
                 "phone": "+48666902045"
             }
         },
