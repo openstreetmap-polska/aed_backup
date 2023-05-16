@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T11:32:54Z",
+        "timestamp_osm_base": "2023-05-16T12:32:38Z",
         "timestamp_areas_base": "2023-05-16T09:26:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -86039,19 +86039,22 @@
         {
             "type": "node",
             "id": 10542896009,
-            "lat": 51.2284138,
-            "lon": 18.5627447,
-            "timestamp": "2023-02-02T15:01:21Z",
-            "version": 2,
-            "changeset": 132007071,
-            "user": "Defibrylatorek",
-            "uid": 18245510,
+            "lat": 51.2285273,
+            "lon": 18.5627192,
+            "timestamp": "2023-05-16T12:32:20Z",
+            "version": 3,
+            "changeset": 136167227,
+            "user": "ZUGIL SA",
+            "uid": 18253572,
             "tags": {
-                "access": "private",
-                "defibrillator:location": "Portiernia firmy ZUGIL S.A.",
+                "access": "yes",
+                "defibrillator:location": "Portiernia firmy ZUGIL S.A. przy ul. Sieradzkiej 56",
                 "defibrillator:location:en": "At the gatehouse on the ground floor of the ZUGIL office building at 56 Sieradzka Street",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "parter",
+                "opening_hours": "24/7",
+                "operator": "ZUGIL S.A."
             }
         },
         {
@@ -102940,6 +102943,23 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "OSP Budzisław Kościelny"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902051305,
+            "lat": 52.4414985,
+            "lon": 17.0050964,
+            "timestamp": "2023-05-16T12:05:16Z",
+            "version": 1,
+            "changeset": 136165994,
+            "user": "MACIEJ JARZEMBOWSKI",
+            "uid": 19280559,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
