@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T16:32:56Z",
+        "timestamp_osm_base": "2023-05-16T17:32:51Z",
         "timestamp_areas_base": "2023-05-16T14:07:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53129,13 +53129,13 @@
             "id": 9594344446,
             "lat": 54.4705191,
             "lon": 17.0338419,
-            "timestamp": "2022-03-21T12:46:11Z",
-            "version": 1,
-            "changeset": 118734942,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "permissive",
+                "access": "yes",
                 "defibrillator:location": "Siedziba służby dyżurnej Szkoły Policji przy głównej bramie wjazdowej.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -62389,14 +62389,14 @@
             "id": 9705962917,
             "lat": 54.4594236,
             "lon": 17.0587282,
-            "timestamp": "2023-05-16T16:00:25Z",
-            "version": 2,
-            "changeset": 136176164,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 3,
+            "changeset": 136178853,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Miedzy biurem kasowym a biurem kierownika obiektu",
+                "defibrillator:location": "Naprzeciwko linii kas",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 10:00-19:00 \"W niedziele handlowe\"",
@@ -62427,16 +62427,17 @@
             "id": 9705979117,
             "lat": 54.4538037,
             "lon": 16.9921542,
-            "timestamp": "2023-05-16T16:00:25Z",
-            "version": 2,
-            "changeset": 136176164,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 3,
+            "changeset": 136178853,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Multikino w Centrum Handlowe JANTAR",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
@@ -62461,33 +62462,35 @@
             "id": 9705989119,
             "lat": 54.4616276,
             "lon": 17.0074871,
-            "timestamp": "2022-04-30T21:11:27Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Słupski ośrodek Sportu i Rekreacji - Pływalnia \"Gryfia\"  raczej w budynku w godzinach urzędowania",
+                "defibrillator:location": "W punkcie ratowniczym pływalni",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Słupski Ośrodek Sportu i Rekreacji - Pływalnia Gryfia"
             }
         },
         {
             "type": "node",
             "id": 9705990717,
-            "lat": 54.4644711,
-            "lon": 17.0068732,
-            "timestamp": "2022-04-30T21:12:23Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "lat": 54.4644918,
+            "lon": 17.0068293,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "NZOZ Salus ul. Piłsudskiego 2",
+                "defibrillator:location": "Poczekalnia przychodni",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "NZOZ Salus"
             }
         },
         {
@@ -62835,17 +62838,17 @@
             "id": 9725003017,
             "lat": 54.4672708,
             "lon": 17.0341055,
-            "timestamp": "2022-05-08T17:07:50Z",
-            "version": 1,
-            "changeset": 120710863,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Dostępny w punkcie informacji",
-                "defibrillator:location:en": "Starostwo Powiatowe w Słupsku",
+                "defibrillator:location": "W punkcie informacji",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Starostwo Powiatowe w Słupsku"
             }
         },
         {
@@ -62853,16 +62856,17 @@
             "id": 9725007217,
             "lat": 54.4640433,
             "lon": 17.0282119,
-            "timestamp": "2022-05-08T17:09:37Z",
-            "version": 1,
-            "changeset": 120710863,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W budynku na ścianie  ZUS",
+                "defibrillator:location": "Sala obsługi klienta",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "ZUS"
             }
         },
         {
@@ -62870,16 +62874,17 @@
             "id": 9725058617,
             "lat": 54.4811409,
             "lon": 17.0115862,
-            "timestamp": "2022-05-08T17:22:15Z",
-            "version": 1,
-            "changeset": 120710863,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na Terenie obiektu pytać przy kasach",
+                "defibrillator:location": "Przy basenie sportowym",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Park Wodny Trzy Fale"
             }
         },
         {
@@ -63008,16 +63013,17 @@
             "id": 9735840318,
             "lat": 54.464464,
             "lon": 17.0244994,
-            "timestamp": "2022-05-12T20:09:41Z",
-            "version": 1,
-            "changeset": 120904852,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie w budynku w okolicy schodów ruchomych",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
@@ -63025,16 +63031,17 @@
             "id": 9735841217,
             "lat": 54.4646714,
             "lon": 17.0267442,
-            "timestamp": "2022-05-12T20:09:59Z",
-            "version": 1,
-            "changeset": 120904852,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 2,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W punkcie informacji",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Słupsku"
             }
         },
         {
@@ -63042,16 +63049,17 @@
             "id": 9735848317,
             "lat": 54.4542504,
             "lon": 16.9883144,
-            "timestamp": "2022-12-10T11:39:00Z",
-            "version": 2,
-            "changeset": 129930746,
-            "user": "taxi301",
-            "uid": 657596,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 3,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Decathlon w sklepie w środku",
+                "defibrillator:location": "Decathlon przy linii kasowej sklepu",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -102896,19 +102904,18 @@
             "id": 10901460805,
             "lat": 49.6666058,
             "lon": 22.4316218,
-            "timestamp": "2023-05-16T16:01:04Z",
-            "version": 2,
-            "changeset": 136176192,
+            "timestamp": "2023-05-16T16:43:59Z",
+            "version": 3,
+            "changeset": 136178199,
             "user": "Hajnold Rafal",
             "uid": 19279372,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W REMIZIE OSP LESZCZAWA DOLNA",
                 "emergency": "defibrillator",
-                "emergency:phone": "668761844",
                 "indoor": "yes",
                 "operator": "Albin Pacławski",
-                "phone": "+48"
+                "phone": "+48668761844"
             }
         },
         {
@@ -103023,6 +103030,226 @@
                 "indoor": "yes",
                 "operator": "OSP Zagórów",
                 "source": "https://www.slupca.pl/aktualnosci/zagorow-maja-nowy-defibrylator/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651945,
+            "lat": 54.4686552,
+            "lon": 17.0010416,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W poczekalni przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Przychodnia Rejonowa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651953,
+            "lat": 54.4638113,
+            "lon": 17.0087055,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W portierni bazy PKS",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651954,
+            "lat": 54.4681625,
+            "lon": 17.0190501,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W poczekalni dworca autobusowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651960,
+            "lat": 54.4679049,
+            "lon": 17.025475,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651962,
+            "lat": 54.460287,
+            "lon": 17.0597537,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku służby dyżurnej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "73. Batalion Lekkiej Piechoty przy 7. Brygadzie Obrony Wybrzeża"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651967,
+            "lat": 54.4515325,
+            "lon": 17.0608067,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek D - W holu głównym szpitala przy punkcie informacyjnym",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651968,
+            "lat": 54.4511202,
+            "lon": 17.0613569,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek G - Przy sali konferencyjnej",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "operator": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651969,
+            "lat": 54.4515067,
+            "lon": 17.0627574,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek I - Poczekalnia przychodni POZ",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "yes",
+                "operator": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651970,
+            "lat": 54.4795016,
+            "lon": 17.0015288,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W poczekalni przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "NZOZ Salus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651971,
+            "lat": 54.4760269,
+            "lon": 17.0334255,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek strzelnicy nr 2",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651972,
+            "lat": 54.4756533,
+            "lon": 17.0330513,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek strzelnicy nr 1",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902651975,
+            "lat": 54.4542169,
+            "lon": 16.9913404,
+            "timestamp": "2023-05-16T17:00:02Z",
+            "version": 1,
+            "changeset": 136178853,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Strefa restauracyjna na poziomie -1",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
