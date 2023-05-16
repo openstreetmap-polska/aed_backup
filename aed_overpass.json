@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T12:32:38Z",
-        "timestamp_areas_base": "2023-05-16T09:26:02Z",
+        "timestamp_osm_base": "2023-05-16T13:32:21Z",
+        "timestamp_areas_base": "2023-05-16T09:51:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102960,6 +102960,43 @@
                 "defibrillator:location": "Na ścianie budynku przy portierni",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902090956,
+            "lat": 51.2906103,
+            "lon": 22.8777397,
+            "timestamp": "2023-05-16T12:33:06Z",
+            "version": 1,
+            "changeset": 136167266,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu szpitala.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Powiatowy w Łęcznej",
+                "phone": "+48817526200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902171946,
+            "lat": 52.1418591,
+            "lon": 20.8715536,
+            "timestamp": "2023-05-16T12:54:49Z",
+            "version": 1,
+            "changeset": 136168166,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w siedzibie firmy Lyreco Polska S.A.",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "operator": "Lyreco Polska S.A.",
+                "phone": "+48801300002"
             }
         },
         {
