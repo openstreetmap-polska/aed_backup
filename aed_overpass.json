@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T15:31:57Z",
-        "timestamp_areas_base": "2023-05-16T14:37:08Z",
+        "timestamp_osm_base": "2023-05-16T16:32:56Z",
+        "timestamp_areas_base": "2023-05-16T14:07:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -62389,16 +62389,17 @@
             "id": 9705962917,
             "lat": 54.4594236,
             "lon": 17.0587282,
-            "timestamp": "2022-04-30T20:51:44Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T16:00:25Z",
+            "version": 2,
+            "changeset": 136176164,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Miedzy biurem kasowym a biurem kierownika obiektu. \nDla pracowników, W godz.:pon.-pt. 7:00-21:00 sobota 8:00-20:00 niedziele handlowe 10:00-19:00",
+                "defibrillator:location": "Miedzy biurem kasowym a biurem kierownika obiektu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 10:00-19:00 \"W niedziele handlowe\"",
                 "phone": "(59) 847 01 00"
             }
         },
@@ -62407,16 +62408,18 @@
             "id": 9705977017,
             "lat": 54.4534613,
             "lon": 17.0289733,
-            "timestamp": "2022-06-19T13:36:23Z",
-            "version": 2,
-            "changeset": 122580070,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2023-05-16T16:00:25Z",
+            "version": 3,
+            "changeset": 136176164,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "ul. Zielona 8 NZOZ \"Salus\"\nDostępne w izbie przyjęć pon-piątek/24h  sobota do godziny 10:00",
+                "defibrillator:location": "W izbie przyjęć",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 00:00-24:00; Sa 00:00-10:00",
+                "operator": "NZOZ Salus"
             }
         },
         {
@@ -62424,14 +62427,14 @@
             "id": 9705979117,
             "lat": 54.4538037,
             "lon": 16.9921542,
-            "timestamp": "2022-04-30T21:03:25Z",
-            "version": 1,
-            "changeset": 120399513,
-            "user": "Mateusz Mówka",
-            "uid": 15785092,
+            "timestamp": "2023-05-16T16:00:25Z",
+            "version": 2,
+            "changeset": 136176164,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "AED w Multikinie \nCentrum Handlowe JANTAR  \nDostępne w godzinach działalności firmy",
+                "defibrillator:location": "Multikino w Centrum Handlowe JANTAR",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -102893,9 +102896,9 @@
             "id": 10901460805,
             "lat": 49.6666058,
             "lon": 22.4316218,
-            "timestamp": "2023-05-16T09:24:44Z",
-            "version": 1,
-            "changeset": 136159151,
+            "timestamp": "2023-05-16T16:01:04Z",
+            "version": 2,
+            "changeset": 136176192,
             "user": "Hajnold Rafal",
             "uid": 19279372,
             "tags": {
@@ -102904,6 +102907,7 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "668761844",
                 "indoor": "yes",
+                "operator": "Albin Pacławski",
                 "phone": "+48"
             }
         },
@@ -103000,6 +103004,25 @@
                 "opening_hours": "Mo-Fr 08:00-18:00",
                 "operator": "Lyreco Polska S.A.",
                 "phone": "+48 801 300 002"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10902496579,
+            "lat": 52.1671395,
+            "lon": 17.9003266,
+            "timestamp": "2023-05-16T15:46:06Z",
+            "version": 1,
+            "changeset": 136175484,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Zagórów",
+                "source": "https://www.slupca.pl/aktualnosci/zagorow-maja-nowy-defibrylator/"
             }
         },
         {
