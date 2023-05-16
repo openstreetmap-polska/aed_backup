@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T10:32:54Z",
-        "timestamp_areas_base": "2023-05-16T05:08:24Z",
+        "timestamp_osm_base": "2023-05-16T11:32:54Z",
+        "timestamp_areas_base": "2023-05-16T09:26:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102902,6 +102902,44 @@
                 "emergency:phone": "668761844",
                 "indoor": "yes",
                 "phone": "+48"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901603963,
+            "lat": 52.2263653,
+            "lon": 18.2645302,
+            "timestamp": "2023-05-16T11:09:54Z",
+            "version": 1,
+            "changeset": 136163538,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na terenie szpitala.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Wojewódzki Szpital Zespolony im. dr. Romana Ostrzyckiego w Koninie",
+                "phone": "+48632404000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901638122,
+            "lat": 52.4323084,
+            "lon": 18.0905779,
+            "timestamp": "2023-05-16T11:15:47Z",
+            "version": 1,
+            "changeset": 136163838,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Budzisławiu Kościelnym stacjonuje karetka pogotowia ratunkowego z defibrylatorem AED.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "OSP Budzisław Kościelny"
             }
         },
         {
