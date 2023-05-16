@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-16T08:32:22Z",
+        "timestamp_osm_base": "2023-05-16T09:32:09Z",
         "timestamp_areas_base": "2023-05-16T04:45:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102902,6 +102902,25 @@
                 "indoor": "yes",
                 "operator": "Andrzej Atamańczuk",
                 "phone": "+48666902045"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10901460805,
+            "lat": 49.6666058,
+            "lon": 22.4316218,
+            "timestamp": "2023-05-16T09:24:44Z",
+            "version": 1,
+            "changeset": 136159151,
+            "user": "Hajnold Rafal",
+            "uid": 19279372,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W REMIZIE OSP LESZCZAWA DOLNA",
+                "emergency": "defibrillator",
+                "emergency:phone": "668761844",
+                "indoor": "yes",
+                "phone": "+48"
             }
         },
         {
