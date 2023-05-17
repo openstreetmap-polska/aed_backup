@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-17T08:32:24Z",
+        "timestamp_osm_base": "2023-05-17T09:32:04Z",
         "timestamp_areas_base": "2023-05-17T04:13:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -103250,6 +103250,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "-1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10904662119,
+            "lat": 51.9563154,
+            "lon": 18.4153328,
+            "timestamp": "2023-05-17T08:38:06Z",
+            "version": 1,
+            "changeset": 136200850,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Grąbków",
+                "source": "https://www.iturek.net/miejscowosci/wielkopolskie-obchody-dnia-strazak-z-upominkami-dla-jednostek-z-powiatu-tureckiego-1"
             }
         },
         {
