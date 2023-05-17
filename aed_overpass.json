@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-17T12:31:53Z",
-        "timestamp_areas_base": "2023-05-17T08:54:39Z",
+        "timestamp_osm_base": "2023-05-17T13:32:35Z",
+        "timestamp_areas_base": "2023-05-17T09:34:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51043,20 +51043,20 @@
         {
             "type": "node",
             "id": 9576396310,
-            "lat": 53.8673444,
-            "lon": 14.4319563,
-            "timestamp": "2022-03-13T21:14:43Z",
-            "version": 1,
-            "changeset": 118446072,
-            "user": "ptarac",
-            "uid": 11496679,
+            "lat": 53.8674188,
+            "lon": 14.4318849,
+            "timestamp": "2023-05-17T13:18:45Z",
+            "version": 2,
+            "changeset": 136213200,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting vehicle",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "OSP Lubin"
+                "operator": "Ochotnicza Straż Pożarna w Lubinie"
             }
         },
         {
