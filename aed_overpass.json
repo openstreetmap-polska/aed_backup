@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-17T09:32:04Z",
-        "timestamp_areas_base": "2023-05-17T04:13:51Z",
+        "timestamp_osm_base": "2023-05-17T10:32:35Z",
+        "timestamp_areas_base": "2023-05-17T09:34:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103269,6 +103269,63 @@
                 "indoor": "yes",
                 "operator": "OSP Grąbków",
                 "source": "https://www.iturek.net/miejscowosci/wielkopolskie-obchody-dnia-strazak-z-upominkami-dla-jednostek-z-powiatu-tureckiego-1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10904742907,
+            "lat": 49.8467151,
+            "lon": 19.1440525,
+            "timestamp": "2023-05-17T10:03:54Z",
+            "version": 1,
+            "changeset": 136205135,
+            "user": "OC KOZY",
+            "uid": 19294326,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Posterunek Policji w Kozach",
+                "defibrillator:location:en": "Police Station in Kozy",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10904743906,
+            "lat": 49.8503428,
+            "lon": 19.1653149,
+            "timestamp": "2023-05-17T10:05:25Z",
+            "version": 1,
+            "changeset": 136205135,
+            "user": "OC KOZY",
+            "uid": 19294326,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana boczna Kościoła pw. Zesłania Ducha Świętego w Kozach",
+                "defibrillator:location:en": "Side wall of the Church of Pentecost in Kozy",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10904787707,
+            "lat": 49.8292938,
+            "lon": 19.1195495,
+            "timestamp": "2023-05-17T10:06:18Z",
+            "version": 1,
+            "changeset": 136205135,
+            "user": "OC KOZY",
+            "uid": 19294326,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana boczna Kościoła pw. Najświętszej Rodziny",
+                "defibrillator:location:en": "Side wall of the Church of Holy Family",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "no"
             }
         },
         {
