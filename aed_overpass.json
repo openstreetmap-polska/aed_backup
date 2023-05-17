@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-17T11:32:09Z",
-        "timestamp_areas_base": "2023-05-17T09:34:04Z",
+        "timestamp_osm_base": "2023-05-17T12:31:53Z",
+        "timestamp_areas_base": "2023-05-17T08:54:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103326,6 +103326,42 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10905061605,
+            "lat": 49.620701,
+            "lon": 22.0189802,
+            "timestamp": "2023-05-17T11:44:17Z",
+            "version": 1,
+            "changeset": 136209204,
+            "user": "Kamaz123",
+            "uid": 19295219,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodzie  strażackim",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 998",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10905062505,
+            "lat": 49.6207137,
+            "lon": 22.0189562,
+            "timestamp": "2023-05-17T11:45:00Z",
+            "version": 1,
+            "changeset": 136209231,
+            "user": "Kamaz123",
+            "uid": 19295219,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodzie strażackim",
+                "emergency": "defibrillator",
+                "emergency:phone": "112 998",
+                "indoor": "yes"
             }
         },
         {
