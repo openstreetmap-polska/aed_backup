@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-18T10:32:09Z",
-        "timestamp_areas_base": "2023-05-18T09:15:14Z",
+        "timestamp_osm_base": "2023-05-18T11:31:54Z",
+        "timestamp_areas_base": "2023-05-18T08:24:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103400,6 +103400,24 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10907903306,
+            "lat": 51.7593908,
+            "lon": 17.1192438,
+            "timestamp": "2023-05-18T10:46:21Z",
+            "version": 1,
+            "changeset": 136248656,
+            "user": "bhP1983",
+            "uid": 19305777,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "KWIECIŃSCY OŚRODEK SZKOLENIA",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "655736992"
             }
         },
         {
