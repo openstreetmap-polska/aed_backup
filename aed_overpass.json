@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-18T16:32:26Z",
-        "timestamp_areas_base": "2023-05-18T13:58:38Z",
+        "timestamp_osm_base": "2023-05-18T17:32:02Z",
+        "timestamp_areas_base": "2023-05-18T13:05:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103491,6 +103491,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku Enea",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908694605,
+            "lat": 54.3971923,
+            "lon": 18.5788152,
+            "timestamp": "2023-05-18T17:05:11Z",
+            "version": 1,
+            "changeset": 136265057,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "LUX MED - korytarz obok recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
