@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-18T15:31:52Z",
-        "timestamp_areas_base": "2023-05-18T13:05:54Z",
+        "timestamp_osm_base": "2023-05-18T16:32:26Z",
+        "timestamp_areas_base": "2023-05-18T13:58:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103422,6 +103422,77 @@
                 "phone": "655736992",
                 "ref": "Pępowo ul.Mariana Orłonia 15 63-830",
                 "website": "www.bhp-szkolenia.pl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908616605,
+            "lat": 53.7010757,
+            "lon": 17.6839142,
+            "timestamp": "2023-05-18T16:09:06Z",
+            "version": 1,
+            "changeset": 136262754,
+            "user": "MateNC",
+            "uid": 19308938,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Ścianie budynku koło bramy",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "534205196"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908617605,
+            "lat": 53.7033815,
+            "lon": 17.6841684,
+            "timestamp": "2023-05-18T16:10:03Z",
+            "version": 1,
+            "changeset": 136262754,
+            "user": "MateNC",
+            "uid": 19308938,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Ścianie budynku przy wejściu",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908620305,
+            "lat": 53.6874116,
+            "lon": 17.5736629,
+            "timestamp": "2023-05-18T16:10:57Z",
+            "version": 1,
+            "changeset": 136262754,
+            "user": "MateNC",
+            "uid": 19308938,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "U portiera",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10908621405,
+            "lat": 53.6911596,
+            "lon": 17.5567522,
+            "timestamp": "2023-05-18T16:12:58Z",
+            "version": 1,
+            "changeset": 136262754,
+            "user": "MateNC",
+            "uid": 19308938,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Enea",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
