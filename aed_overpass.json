@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-18T12:32:32Z",
-        "timestamp_areas_base": "2023-05-18T08:24:39Z",
+        "timestamp_osm_base": "2023-05-18T13:32:16Z",
+        "timestamp_areas_base": "2023-05-18T09:15:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103407,17 +103407,21 @@
             "id": 10907903306,
             "lat": 51.7593908,
             "lon": 17.1192438,
-            "timestamp": "2023-05-18T10:46:21Z",
-            "version": 1,
-            "changeset": 136248656,
+            "timestamp": "2023-05-18T13:05:43Z",
+            "version": 2,
+            "changeset": 136254495,
             "user": "bhP1983",
             "uid": 19305777,
             "tags": {
-                "access": "customers",
+                "access": "private",
                 "defibrillator:location": "KWIECIŃSCY OŚRODEK SZKOLENIA",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "655736992"
+                "opening_hours": "8-17",
+                "operator": "KWIECIŃSCY OŚRODEK SZKOLENIA",
+                "phone": "655736992",
+                "ref": "Pępowo ul.Mariana Orłonia 15 63-830",
+                "website": "www.bhp-szkolenia.pl"
             }
         },
         {
