@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-18T09:32:23Z",
-        "timestamp_areas_base": "2023-05-18T04:33:24Z",
+        "timestamp_osm_base": "2023-05-18T10:32:09Z",
+        "timestamp_areas_base": "2023-05-18T09:15:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103382,6 +103382,24 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta Oława",
                 "source": "https://olawa24.pl/artykul/kolejny-defibrylator-w-miescie/1284848"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10907812206,
+            "lat": 52.1139198,
+            "lon": 16.1079446,
+            "timestamp": "2023-05-18T10:14:37Z",
+            "version": 1,
+            "changeset": 136247331,
+            "user": "Agata Andrys",
+            "uid": 19305543,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Starostwo Powiatowe w Wolsztynie",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no"
             }
         },
         {
