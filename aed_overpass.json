@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-19T13:32:27Z",
-        "timestamp_areas_base": "2023-05-19T08:50:56Z",
+        "timestamp_osm_base": "2023-05-19T14:31:54Z",
+        "timestamp_areas_base": "2023-05-19T12:34:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1415,14 +1415,15 @@
             "id": 5702241125,
             "lat": 50.8869959,
             "lon": 20.6652887,
-            "timestamp": "2022-01-16T00:03:43Z",
-            "version": 2,
-            "changeset": 116200626,
-            "user": "krzysmek",
-            "uid": 3925559,
+            "timestamp": "2023-05-19T14:14:22Z",
+            "version": 3,
+            "changeset": 136302723,
+            "user": "bartgron",
+            "uid": 13948004,
             "tags": {
                 "defibrillator:location": "Media Markt\nKielce, Radomska 8 (Punkt Obsługi KLienta)",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
