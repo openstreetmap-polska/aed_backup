@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-19T07:32:03Z",
-        "timestamp_areas_base": "2023-05-19T03:11:24Z",
+        "timestamp_osm_base": "2023-05-19T08:31:51Z",
+        "timestamp_areas_base": "2023-05-19T04:09:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -535,34 +535,6 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "Ochotnicza Straż Pożarna w Łękawicy"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2731213392,
-            "lat": 54.182536,
-            "lon": 15.5877009,
-            "timestamp": "2023-05-15T19:06:54Z",
-            "version": 7,
-            "changeset": 136139788,
-            "user": "taxi301",
-            "uid": 657596,
-            "tags": {
-                "access": "yes",
-                "beds": "17",
-                "defibrillator:location:en": "ochrona",
-                "email": "dzagozdon@mec.kolobrzeg.pl",
-                "emergency": "defibrillator",
-                "entrance": "main",
-                "indoor": "yes",
-                "internet_access": "wlan",
-                "internet_access:fee": "no",
-                "name": "Hotel Giga",
-                "operator": "Miejska Energetyka Cieplna",
-                "phone": "+48 94 35 752 56",
-                "tourism": "hotel",
-                "website": "http://www.mec.kolobrzeg.pl/",
-                "wheelchair": "no"
             }
         },
         {
@@ -103510,6 +103482,25 @@
                 "defibrillator:location": "LUX MED - korytarz obok recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10910863280,
+            "lat": 54.182562,
+            "lon": 15.5876343,
+            "timestamp": "2023-05-19T07:58:31Z",
+            "version": 1,
+            "changeset": 136286438,
+            "user": "taxi301",
+            "uid": 657596,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "w pomieszczeniu portiera",
+                "defibrillator:location:en": "ochrona",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
