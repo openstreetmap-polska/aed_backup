@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-19T09:32:23Z",
+        "timestamp_osm_base": "2023-05-19T10:32:08Z",
         "timestamp_areas_base": "2023-05-19T07:52:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -103501,6 +103501,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10911056705,
+            "lat": 50.2042755,
+            "lon": 17.8311278,
+            "timestamp": "2023-05-19T10:09:36Z",
+            "version": 1,
+            "changeset": 136292242,
+            "user": "Przedszkole nr 2",
+            "uid": 17175843,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "parter przedszkola - korytarz",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48774853116"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10911059905,
+            "lat": 50.1994264,
+            "lon": 17.8232563,
+            "timestamp": "2023-05-19T10:12:03Z",
+            "version": 1,
+            "changeset": 136292242,
+            "user": "Przedszkole nr 2",
+            "uid": 17175843,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "parter - korytarz",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "=48774853116"
             }
         },
         {
