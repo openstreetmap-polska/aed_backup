@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-20T19:32:08Z",
-        "timestamp_areas_base": "2023-05-20T16:42:24Z",
+        "timestamp_osm_base": "2023-05-20T20:32:53Z",
+        "timestamp_areas_base": "2023-05-20T17:52:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103576,6 +103576,24 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Karolew",
                 "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid0JX2X3PhL9aBQSzK917QnSU5kx6oGrtghbYQeXvHseEnWS7Sz5yBN84r6aLn19BLRl&id=100068004770005"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10914713605,
+            "lat": 50.739409,
+            "lon": 15.7290085,
+            "timestamp": "2023-05-20T19:50:11Z",
+            "version": 1,
+            "changeset": 136351282,
+            "user": "Usługi Ogrodnicze Koszenie Trawników",
+            "uid": 19331193,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W budynku przed wejściem do toalet Na ścianie po prawej stronie",
+                "emergency": "defibrillator",
+                "emergency:phone": "985",
+                "indoor": "yes"
             }
         },
         {
