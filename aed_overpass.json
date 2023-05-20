@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-20T14:32:22Z",
-        "timestamp_areas_base": "2023-05-20T13:09:24Z",
+        "timestamp_osm_base": "2023-05-20T15:32:09Z",
+        "timestamp_areas_base": "2023-05-20T12:01:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103538,6 +103538,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "=48774853116"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10914244306,
+            "lat": 52.4980443,
+            "lon": 21.0552093,
+            "timestamp": "2023-05-20T14:47:30Z",
+            "version": 1,
+            "changeset": 136340920,
+            "user": "Mizzyz",
+            "uid": 18719607,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wprost wejścia do sklepu, zamocowany na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
