@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-20T17:32:09Z",
-        "timestamp_areas_base": "2023-05-20T13:09:24Z",
+        "timestamp_osm_base": "2023-05-20T18:32:09Z",
+        "timestamp_areas_base": "2023-05-20T16:42:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91381,13 +91381,13 @@
             "id": 10669131806,
             "lat": 51.911384,
             "lon": 17.2430337,
-            "timestamp": "2023-02-16T15:36:08Z",
-            "version": 2,
-            "changeset": 132635050,
-            "user": "DAMIANSTACHU",
-            "uid": 18497992,
+            "timestamp": "2023-05-20T17:42:45Z",
+            "version": 3,
+            "changeset": 136347644,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "access": "permit",
+                "access": "private",
                 "defibrillator:location": "SAMOCHÓD RATOWNICZO - GAŚNICZY 439[P]52",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
@@ -103555,6 +103555,27 @@
                 "defibrillator:location": "Wprost wejścia do sklepu, zamocowany na ścianie.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10914460700,
+            "lat": 51.9114146,
+            "lon": 17.2429536,
+            "timestamp": "2023-05-20T17:47:13Z",
+            "version": 2,
+            "changeset": 136347782,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku",
+                "defibrillator:location:pl": "Na ścianie budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Karolew",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid0JX2X3PhL9aBQSzK917QnSU5kx6oGrtghbYQeXvHseEnWS7Sz5yBN84r6aLn19BLRl&id=100068004770005"
             }
         },
         {
