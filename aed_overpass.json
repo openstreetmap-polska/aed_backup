@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-21T12:32:39Z",
-        "timestamp_areas_base": "2023-05-21T11:29:53Z",
+        "timestamp_osm_base": "2023-05-21T13:32:22Z",
+        "timestamp_areas_base": "2023-05-21T12:41:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -74615,19 +74615,22 @@
         {
             "type": "node",
             "id": 10131870217,
-            "lat": 52.406154,
-            "lon": 16.9181921,
-            "timestamp": "2022-10-27T05:39:58Z",
-            "version": 1,
-            "changeset": 128110794,
-            "user": "ewapio",
-            "uid": 17476489,
+            "lat": 52.40621,
+            "lon": 16.91839,
+            "timestamp": "2023-05-21T13:20:54Z",
+            "version": 2,
+            "changeset": 136372165,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie naprzeciwko wejścia",
+                "defibrillator:location": "w holu głównym, na ścianie koło szatni",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "+48 61 856 90 00"
+                "level": "0",
+                "operator": "Uniwersytet Ekonomiczny",
+                "phone": "+48 61 856 90 00",
+                "wheelchair": "no"
             }
         },
         {
@@ -102294,24 +102297,6 @@
                 "manufacturer": "Nihon Kohden",
                 "opening_hours": "24/7",
                 "operator": "Shell Polska"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10870930740,
-            "lat": 52.40621,
-            "lon": 16.91839,
-            "timestamp": "2023-05-05T14:24:13Z",
-            "version": 1,
-            "changeset": 135744568,
-            "user": "szydzio",
-            "uid": 2313574,
-            "tags": {
-                "defibrillator:location": "w holu głównym, na ścianie koło szatni",
-                "emergency": "defibrillator",
-                "level": "0",
-                "operator": "Uniwersytet Ekonomiczny",
-                "wheelchair": "no"
             }
         },
         {
