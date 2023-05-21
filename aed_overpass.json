@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-21T20:32:38Z",
-        "timestamp_areas_base": "2023-05-21T16:11:20Z",
+        "timestamp_osm_base": "2023-05-21T21:32:07Z",
+        "timestamp_areas_base": "2023-05-21T17:24:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103598,6 +103598,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "895120126"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10916800910,
+            "lat": 50.1651998,
+            "lon": 23.1288531,
+            "timestamp": "2023-05-21T20:44:19Z",
+            "version": 1,
+            "changeset": 136386996,
+            "user": "mkobialka",
+            "uid": 2278286,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie po prawej stronie od wejścia, za wyspą z obsługą basenu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Miejski w Lubaczowie"
             }
         },
         {
