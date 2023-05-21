@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-21T16:32:36Z",
-        "timestamp_areas_base": "2023-05-21T12:41:39Z",
+        "timestamp_osm_base": "2023-05-21T17:32:24Z",
+        "timestamp_areas_base": "2023-05-21T16:11:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -45710,9 +45710,9 @@
             "id": 9535345717,
             "lat": 53.781539,
             "lon": 20.4831682,
-            "timestamp": "2022-07-31T14:54:07Z",
-            "version": 2,
-            "changeset": 124306692,
+            "timestamp": "2023-05-21T16:51:47Z",
+            "version": 3,
+            "changeset": 136380006,
             "user": "garfild1994",
             "uid": 10582146,
             "tags": {
@@ -45720,7 +45720,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:00",
-                "operator": "Warmińsko - Mazurski Oddział Okręgowy PCK w Olsztynie"
+                "operator": "Warmińsko - Mazurski Oddział Okręgowy PCK w Olsztynie",
+                "phone:mobile": "89 527 23 93"
             }
         },
         {
@@ -103579,6 +103580,24 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "985",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10916490205,
+            "lat": 53.8359254,
+            "lon": 20.478259,
+            "timestamp": "2023-05-21T16:49:24Z",
+            "version": 1,
+            "changeset": 136379912,
+            "user": "garfild1994",
+            "uid": 10582146,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W przedsionku Szkoły Podstawowej w Dywitach, przed drzwiami w gablotce za szybką jest klucz do przedsionka. Dzięki czemu jest dostępny całodobowo.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "895120126"
             }
         },
         {
