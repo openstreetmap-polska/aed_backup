@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-22T11:31:44Z",
-        "timestamp_areas_base": "2023-05-22T06:14:52Z",
+        "timestamp_osm_base": "2023-05-22T12:32:26Z",
+        "timestamp_areas_base": "2023-05-22T10:55:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103653,6 +103653,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 727 028 531"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10918160485,
+            "lat": 51.5177998,
+            "lon": 17.2970464,
+            "timestamp": "2023-05-22T11:51:35Z",
+            "version": 1,
+            "changeset": 136409918,
+            "user": "Xella Polska - Zakład Ytong",
+            "uid": 19347903,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Wnętrze portierni zakładu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Xella Polska sp. z o.o. - Zakład Ytong Milicz"
             }
         },
         {
