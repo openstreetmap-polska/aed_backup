@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-22T09:32:21Z",
-        "timestamp_areas_base": "2023-05-22T06:14:52Z",
+        "timestamp_osm_base": "2023-05-22T10:32:01Z",
+        "timestamp_areas_base": "2023-05-22T07:32:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103635,6 +103635,24 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "source": "https://szczurowa.pl/strona/w-szczurowej-pojawil-sie-ogolnodostepny-defibrylator-aed"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10918019105,
+            "lat": 52.2754907,
+            "lon": 20.9140791,
+            "timestamp": "2023-05-22T10:04:29Z",
+            "version": 1,
+            "changeset": 136405403,
+            "user": "JCZ10",
+            "uid": 19346920,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "1 piętro, wejście obok przedszkola, biura LPR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 727 028 531"
             }
         },
         {
