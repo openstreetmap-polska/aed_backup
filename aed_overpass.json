@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-23T12:32:08Z",
+        "timestamp_osm_base": "2023-05-23T13:31:52Z",
         "timestamp_areas_base": "2023-05-23T10:28:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102452,19 +102452,18 @@
             "id": 10880680006,
             "lat": 52.407238,
             "lon": 16.7850388,
-            "timestamp": "2023-05-09T10:29:06Z",
-            "version": 1,
-            "changeset": 135888755,
+            "timestamp": "2023-05-23T13:22:32Z",
+            "version": 2,
+            "changeset": 136456628,
             "user": "ArturKaluzny",
             "uid": 19208501,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-05-09",
-                "defibrillator:location:pl": "budynek Fiberhost, INEA\nparter, \nAED znajduje się po prawej stronie od głównej wejścia, na ścianie w zielonej skrzynce.",
+                "defibrillator:location:pl": "budynek Fiberhost, INEAparter, AED znajduje się po prawej stronie od głównego wejścia, na ścianie w zielonej skrzynce.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "0",
-                "phone": "732453322"
+                "level": "0"
             }
         },
         {
@@ -103690,6 +103689,24 @@
                 "indoor": "yes",
                 "operator": "OSP Czyżowice",
                 "source": "http://terazprudnik.pl/2023/05/21/foto-wideo/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10921688307,
+            "lat": 50.2492897,
+            "lon": 19.0040906,
+            "timestamp": "2023-05-23T13:10:41Z",
+            "version": 1,
+            "changeset": 136456069,
+            "user": "enzetka",
+            "uid": 18084898,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hala sportowa z pływalnią AWF (pot. Nowa Hala). Wejście główne, portiernia 24/7.",
+                "defibrillator:location:en": "Sports Hall with a swimming pool at the Academy of Physical Education in Katowice. Main entry, lodge 24/7.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
