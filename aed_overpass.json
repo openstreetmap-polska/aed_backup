@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T13:32:21Z",
-        "timestamp_areas_base": "2023-05-24T09:59:23Z",
+        "timestamp_osm_base": "2023-05-24T14:32:08Z",
+        "timestamp_areas_base": "2023-05-24T11:38:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -85298,22 +85298,23 @@
             "id": 10315431709,
             "lat": 51.1109781,
             "lon": 17.0687429,
-            "timestamp": "2023-05-15T15:25:53Z",
-            "version": 7,
-            "changeset": 136132152,
+            "timestamp": "2023-05-24T14:22:09Z",
+            "version": 11,
+            "changeset": 136503085,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
                 "access": "yes",
-                "check_date": "2023-05-15",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Centrum Symulacji Medycznej (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "defibrillator:location:pl": "Centrum Symulacji Medycznej - Uniwersytet Medyczny we Wrocławiu\nGłówne wejście - w holu po lewej stronie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Pn-Pt 6.00-21.00",
-                "operator": "\"akcjAEDukacyjna - UMED dla serca\""
+                "opening_hours": "Pon - Pt - 6.00 - 21.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85339,17 +85340,20 @@
             "id": 10315432709,
             "lat": 51.1089372,
             "lon": 17.0689628,
-            "timestamp": "2023-01-08T19:28:53Z",
-            "version": 1,
-            "changeset": 131027966,
+            "timestamp": "2023-05-24T14:30:44Z",
+            "version": 4,
+            "changeset": 136503461,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Rektorat (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00-16.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\""
             }
         },
         {
@@ -85411,9 +85415,9 @@
             "id": 10315471909,
             "lat": 51.1117765,
             "lon": 17.0686826,
-            "timestamp": "2023-05-24T13:29:57Z",
-            "version": 3,
-            "changeset": 136500840,
+            "timestamp": "2023-05-24T14:22:19Z",
+            "version": 7,
+            "changeset": 136503085,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
@@ -85422,7 +85426,10 @@
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu – Centrum Naukowej Informacji Medycznej (BIBLIOTEKA PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Nd - Całodobowo",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -86584,19 +86591,21 @@
             "id": 10543748779,
             "lat": 51.1114279,
             "lon": 17.0660588,
-            "timestamp": "2023-02-10T11:44:49Z",
-            "version": 2,
-            "changeset": 132353953,
+            "timestamp": "2023-05-24T14:21:40Z",
+            "version": 6,
+            "changeset": 136503085,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
-                "check_date": "2023-02-10",
-                "defibrillator:location": "Collegium Anatomicum",
-                "defibrillator:location:pl": "Przy sekretariacie",
+                "access": "yes",
+                "check_date": "2023-05-24",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Collegium Anatomicum",
+                "defibrillator:location:pl": "Uniwersytet Medyczny we Wrocławiu - Collegium Anatomicum\nParter - przy sekretariacie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "opening_hours": "Pon - Pt - 7.00-21.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
                 "phone": "+ 48 71 784 10 01",
                 "source": "https://wroclaw.tvp.pl/65605400/nowe-defibrylatory-na-terenie-uniwersytetu-medycznego"
             }
