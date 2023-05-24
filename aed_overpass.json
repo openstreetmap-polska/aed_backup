@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T06:32:38Z",
-        "timestamp_areas_base": "2023-05-24T05:17:32Z",
+        "timestamp_osm_base": "2023-05-24T07:32:38Z",
+        "timestamp_areas_base": "2023-05-24T02:11:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103706,6 +103706,42 @@
                 "defibrillator:location": "Hala sportowa z pływalnią AWF (pot. Nowa Hala). Wejście główne, portiernia 24/7.",
                 "defibrillator:location:en": "Sports Hall with a swimming pool at the Academy of Physical Education in Katowice. Main entry, lodge 24/7.",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923509356,
+            "lat": 52.233109,
+            "lon": 20.9603262,
+            "timestamp": "2023-05-24T06:33:31Z",
+            "version": 1,
+            "changeset": 136482701,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defivrylator znajduje się w budynku Krajowego Centrum Hodowli Zwierząt w Warszawie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Krajowe Centrum Hodowli Zwierząt w Warszawie",
+                "phone": "+48226320142"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923559706,
+            "lat": 50.0800436,
+            "lon": 19.8642795,
+            "timestamp": "2023-05-24T07:28:49Z",
+            "version": 1,
+            "changeset": 136484885,
+            "user": "TomaszWiktor",
+            "uid": 19367213,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
                 "indoor": "yes"
             }
         },
