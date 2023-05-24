@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T09:32:09Z",
-        "timestamp_areas_base": "2023-05-24T06:55:08Z",
+        "timestamp_osm_base": "2023-05-24T10:31:54Z",
+        "timestamp_areas_base": "2023-05-24T05:17:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103772,16 +103772,18 @@
             "id": 10923592805,
             "lat": 52.2353955,
             "lon": 21.0175294,
-            "timestamp": "2023-05-24T07:51:59Z",
-            "version": 1,
-            "changeset": 136485756,
+            "timestamp": "2023-05-24T10:21:38Z",
+            "version": 2,
+            "changeset": 136492621,
             "user": "Zbyszek PISM",
             "uid": 19367552,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "przy recepcji",
+                "access": "yes",
+                "defibrillator:location": "przy recepcji\nat the reception desk",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Polski Instytut Spraw Miedzynarodowych",
+                "ref": "Warecka 1A"
             }
         },
         {
@@ -103823,6 +103825,24 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923782523,
+            "lat": 52.15999,
+            "lon": 20.7645131,
+            "timestamp": "2023-05-24T10:24:51Z",
+            "version": 1,
+            "changeset": 136492795,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "za bramą wjazdową na warsztat.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
