@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T07:32:38Z",
-        "timestamp_areas_base": "2023-05-24T02:11:38Z",
+        "timestamp_osm_base": "2023-05-24T08:32:24Z",
+        "timestamp_areas_base": "2023-05-24T06:55:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103736,6 +103736,86 @@
             "timestamp": "2023-05-24T07:28:49Z",
             "version": 1,
             "changeset": 136484885,
+            "user": "TomaszWiktor",
+            "uid": 19367213,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923588025,
+            "lat": 50.066207,
+            "lon": 19.9687132,
+            "timestamp": "2023-05-24T08:09:23Z",
+            "version": 1,
+            "changeset": 136486406,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "przy recepcji Hotelu Ibis Styles Kraków Centrum",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "ZOLL",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923592805,
+            "lat": 52.2353955,
+            "lon": 21.0175294,
+            "timestamp": "2023-05-24T07:51:59Z",
+            "version": 1,
+            "changeset": 136485756,
+            "user": "Zbyszek PISM",
+            "uid": 19367552,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923602816,
+            "lat": 49.4188833,
+            "lon": 19.0975206,
+            "timestamp": "2023-05-24T08:04:36Z",
+            "version": 1,
+            "changeset": 136486229,
+            "user": "polar7",
+            "uid": 3894590,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "jadalnia w Bacówce PTTK na Rycerzowej, po lewej stronie od wejścia, przy okienku",
+                "description": "apteczka",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "opening_hours": "24/7",
+                "phone": "+48 66 056 01 12",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923638605,
+            "lat": 50.0799735,
+            "lon": 19.864299,
+            "timestamp": "2023-05-24T08:29:42Z",
+            "version": 1,
+            "changeset": 136487379,
             "user": "TomaszWiktor",
             "uid": 19367213,
             "tags": {
