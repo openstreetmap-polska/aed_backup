@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T11:32:38Z",
-        "timestamp_areas_base": "2023-05-24T06:55:08Z",
+        "timestamp_osm_base": "2023-05-24T12:32:38Z",
+        "timestamp_areas_base": "2023-05-24T09:59:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103843,6 +103843,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10923974740,
+            "lat": 53.7806325,
+            "lon": 20.5096319,
+            "timestamp": "2023-05-24T11:54:13Z",
+            "version": 1,
+            "changeset": 136497090,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy budynku MPK.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Zajezdnia Tramwajowa MPK"
             }
         },
         {
