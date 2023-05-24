@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T14:32:08Z",
+        "timestamp_osm_base": "2023-05-24T15:31:54Z",
         "timestamp_areas_base": "2023-05-24T11:38:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85280,17 +85280,21 @@
             "id": 10315426809,
             "lat": 51.1134214,
             "lon": 17.0730988,
-            "timestamp": "2023-01-08T19:25:03Z",
-            "version": 1,
-            "changeset": 131027966,
+            "timestamp": "2023-05-24T14:43:19Z",
+            "version": 3,
+            "changeset": 136504045,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Katedra Ratownictwa Medycznego (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00-20.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85322,17 +85326,21 @@
             "id": 10315431710,
             "lat": 51.1096622,
             "lon": 17.071777,
-            "timestamp": "2023-01-08T19:30:26Z",
-            "version": 1,
-            "changeset": 131028108,
+            "timestamp": "2023-05-24T14:35:52Z",
+            "version": 4,
+            "changeset": 136503675,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Wydział Nauk o Zdrowiu (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00 - 20.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85340,9 +85348,9 @@
             "id": 10315432709,
             "lat": 51.1089372,
             "lon": 17.0689628,
-            "timestamp": "2023-05-24T14:30:44Z",
-            "version": 4,
-            "changeset": 136503461,
+            "timestamp": "2023-05-24T14:32:45Z",
+            "version": 5,
+            "changeset": 136503539,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
@@ -85353,7 +85361,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Pon - Pt - 7.00-16.00",
-                "operator": "\"akcjAEDukacyjna - UMED dla serca\""
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85361,17 +85370,21 @@
             "id": 10315437309,
             "lat": 51.1188522,
             "lon": 17.0728435,
-            "timestamp": "2023-01-08T19:33:38Z",
-            "version": 1,
-            "changeset": 131028108,
+            "timestamp": "2023-05-24T14:44:42Z",
+            "version": 3,
+            "changeset": 136504113,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Studium Wychowania Fizycznego i Sportu (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00-20.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85379,17 +85392,21 @@
             "id": 10315458709,
             "lat": 51.0765612,
             "lon": 17.0320546,
-            "timestamp": "2023-01-08T19:46:04Z",
-            "version": 1,
-            "changeset": 131028108,
+            "timestamp": "2023-05-24T15:15:46Z",
+            "version": 4,
+            "changeset": 136505560,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
-                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Wydział Farmaceutyczny z Oddziałem Analityki Medycznej (PORTIERNIA)",
+                "access": "yes",
+                "check_date": "2023-05-24",
+                "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu - Wydział Farmaceutyczny z Oddziałem Analityki Medycznej (PORTIERNIA) - Budynek I",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00-20.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -85397,17 +85414,21 @@
             "id": 10315462109,
             "lat": 51.0951985,
             "lon": 17.0588022,
-            "timestamp": "2023-01-08T19:47:36Z",
-            "version": 1,
-            "changeset": 131028108,
+            "timestamp": "2023-05-24T15:19:15Z",
+            "version": 3,
+            "changeset": 136505700,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu – Wydział Lekarsko-Stomatologiczny (PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Pon - Pt - 7.00 - 20.00",
+                "operator": "\"akcjAEDukacyjna - UMED dla serca\"",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
@@ -103871,6 +103892,25 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Zajezdnia Tramwajowa MPK"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10924479005,
+            "lat": 51.0769921,
+            "lon": 17.0309094,
+            "timestamp": "2023-05-24T15:17:31Z",
+            "version": 1,
+            "changeset": 136505624,
+            "user": "akcjAEDukacyjna",
+            "uid": 18180268,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-05-24",
+                "defibrillator:location:pl": "Uniwersytet Medyczny we Wrocławiu - Wydział Farmaceutyczny z Oddziałem Analityki Medycznej (PORTIERNIA) - Budynek II",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+ 48 71 784 10 01"
             }
         },
         {
