@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-24T12:32:38Z",
+        "timestamp_osm_base": "2023-05-24T13:32:21Z",
         "timestamp_areas_base": "2023-05-24T09:59:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85411,13 +85411,14 @@
             "id": 10315471909,
             "lat": 51.1117765,
             "lon": 17.0686826,
-            "timestamp": "2023-01-08T19:53:08Z",
-            "version": 1,
-            "changeset": 131028742,
+            "timestamp": "2023-05-24T13:29:57Z",
+            "version": 3,
+            "changeset": 136500840,
             "user": "akcjAEDukacyjna",
             "uid": 18180268,
             "tags": {
-                "access": "customers",
+                "access": "yes",
+                "check_date": "2023-05-24",
                 "defibrillator:location": "Uniwersytet Medyczny we Wrocławiu – Centrum Naukowej Informacji Medycznej (BIBLIOTEKA PORTIERNIA)",
                 "defibrillator:location:en": "Wroclaw Medical University - lodge",
                 "emergency": "defibrillator",
