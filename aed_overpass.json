@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-26T07:32:25Z",
+        "timestamp_osm_base": "2023-05-26T08:31:56Z",
         "timestamp_areas_base": "2023-05-26T04:27:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -103911,6 +103911,25 @@
                 "opening_hours": "24/7",
                 "operator": "Orlen",
                 "phone": "+48242564351"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10928085065,
+            "lat": 50.0212036,
+            "lon": 20.9394586,
+            "timestamp": "2023-05-26T07:41:46Z",
+            "version": 1,
+            "changeset": 136572773,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 07:00-14:30",
+                "operator": "Linde",
+                "phone": "+48126439200"
             }
         },
         {
