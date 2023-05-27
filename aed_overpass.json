@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-27T19:31:53Z",
-        "timestamp_areas_base": "2023-05-27T15:28:53Z",
+        "timestamp_osm_base": "2023-05-27T20:32:39Z",
+        "timestamp_areas_base": "2023-05-27T18:05:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103930,6 +103930,22 @@
                 "opening_hours": "Mo-Fr 07:00-14:30",
                 "operator": "Linde",
                 "phone": "+48126439200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10931971954,
+            "lat": 51.106758,
+            "lon": 17.0649876,
+            "timestamp": "2023-05-27T20:08:46Z",
+            "version": 1,
+            "changeset": 136636841,
+            "user": "qaz789",
+            "uid": 4851745,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Zarząd Zlewni we Wrocławiu"
             }
         },
         {
