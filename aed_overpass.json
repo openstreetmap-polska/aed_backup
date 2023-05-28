@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-28T09:32:37Z",
-        "timestamp_areas_base": "2023-05-28T08:11:39Z",
+        "timestamp_osm_base": "2023-05-28T10:32:24Z",
+        "timestamp_areas_base": "2023-05-28T05:40:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103946,6 +103946,78 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Zarząd Zlewni we Wrocławiu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10933664506,
+            "lat": 52.4164456,
+            "lon": 16.8902373,
+            "timestamp": "2023-05-28T09:50:35Z",
+            "version": 1,
+            "changeset": 136649846,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku sklepu LIDL, po prawej stronie od wejścia\nponiedziałek - sobota 06:00 - 22:00",
+                "defibrillator:location:en": "In the Lidl store on the right side of the entrance\nmon - sat 06:00 AM - 10:00 PM",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10933694505,
+            "lat": 52.4066608,
+            "lon": 16.889608,
+            "timestamp": "2023-05-28T10:03:06Z",
+            "version": 1,
+            "changeset": 136649846,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Uniwersytet Medyczny w Poznaniu, na parterze, na wprost wejścia\nponiedziałek - piątek 07:30 - 20:00",
+                "defibrillator:location:en": "Poznan Uniwersity of Medical Sciences\nground floor, fight in the front of the entrance\nmonday - friday 07:30 AM - 08:00 PM",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10933699306,
+            "lat": 52.4096419,
+            "lon": 16.8959705,
+            "timestamp": "2023-05-28T10:13:46Z",
+            "version": 1,
+            "changeset": 136650604,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Izba Przyjęć Szpitala Ginekologiczno - Położniczego",
+                "defibrillator:location:en": "Emergency room of the gynecology and obstetrics hospital",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10933734305,
+            "lat": 52.4074194,
+            "lon": 16.8888734,
+            "timestamp": "2023-05-28T10:18:14Z",
+            "version": 1,
+            "changeset": 136650604,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum Kongresowo-Dydaktyczne Uniwersytetu Medycznego im. Karola Marcinkowskiego,\nparter, po lewej od wejścia",
+                "defibrillator:location:en": "Poznan University of Medical Scinces Congress and Didactic Center\nground floor, on the left",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
