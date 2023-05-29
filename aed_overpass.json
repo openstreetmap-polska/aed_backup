@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T14:32:23Z",
-        "timestamp_areas_base": "2023-05-29T12:18:39Z",
+        "timestamp_osm_base": "2023-05-29T15:32:54Z",
+        "timestamp_areas_base": "2023-05-29T14:47:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104490,6 +104490,24 @@
             "user": "Patryk2710",
             "uid": 12914377,
             "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10937069905,
+            "lat": 52.2275719,
+            "lon": 20.2679281,
+            "timestamp": "2023-05-29T14:42:36Z",
+            "version": 1,
+            "changeset": 136704181,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu, obok bankomatu.",
+                "defibrillator:location:en": "On the wall near entrance, next to ATM.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
