@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T12:31:54Z",
-        "timestamp_areas_base": "2023-05-29T07:36:23Z",
+        "timestamp_osm_base": "2023-05-29T13:32:39Z",
+        "timestamp_areas_base": "2023-05-29T12:18:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104412,14 +104412,14 @@
             "id": 10936758805,
             "lat": 52.1827579,
             "lon": 20.9689667,
-            "timestamp": "2023-05-29T11:35:22Z",
-            "version": 1,
-            "changeset": 136695243,
+            "timestamp": "2023-05-29T12:59:31Z",
+            "version": 2,
+            "changeset": 136699356,
             "user": "Undeeer",
             "uid": 19420525,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie w głównym lobby, naprzeciwko recepcji.",
+                "defibrillator:location": "Biurowiec LOT. Na ścianie w głównym lobby, naprzeciwko recepcji.",
                 "defibrillator:location:en": "On the wall in the main lobby, across from the reception desk.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -104439,6 +104439,42 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie dyżurki ochrony przy szlabanie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936852605,
+            "lat": 52.227442,
+            "lon": 20.2410321,
+            "timestamp": "2023-05-29T12:40:23Z",
+            "version": 1,
+            "changeset": 136698446,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936859805,
+            "lat": 52.2544116,
+            "lon": 20.278528,
+            "timestamp": "2023-05-29T12:45:02Z",
+            "version": 1,
+            "changeset": 136698446,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
