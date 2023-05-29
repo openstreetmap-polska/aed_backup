@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T10:32:32Z",
-        "timestamp_areas_base": "2023-05-29T05:18:43Z",
+        "timestamp_osm_base": "2023-05-29T11:32:08Z",
+        "timestamp_areas_base": "2023-05-29T10:03:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -73886,17 +73886,18 @@
             "id": 10111794217,
             "lat": 53.359661,
             "lon": 20.4258039,
-            "timestamp": "2022-10-18T17:02:48Z",
-            "version": 1,
-            "changeset": 127738663,
-            "user": "RicoElectrico",
-            "uid": 604437,
+            "timestamp": "2023-05-29T10:40:41Z",
+            "version": 2,
+            "changeset": 136692653,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "ściana na lewo od wejścia do Urzędu Miasta i Gminy",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Urząd Miasta i Gminy Nidzica"
             }
         },
         {
@@ -104173,6 +104174,22 @@
         },
         {
             "type": "node",
+            "id": 10936654606,
+            "lat": 51.0371832,
+            "lon": 17.1408273,
+            "timestamp": "2023-05-29T10:33:43Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W ośrodku zdrowia",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
             "id": 10936655806,
             "lat": 51.2287633,
             "lon": 18.584934,
@@ -104186,6 +104203,27 @@
                 "defibrillator:location": "Wielton Polska",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936660193,
+            "lat": 51.1177969,
+            "lon": 23.2458557,
+            "timestamp": "2023-05-29T10:33:46Z",
+            "version": 1,
+            "changeset": 136692325,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na stacji paliw MOYA w Rejowcu Fabrycznym",
+                "defibrillator:location:pl": "Na stacji paliw MOYA w Rejowcu Fabrycznym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Stowarzyszenie Inicjatyw Społeczno-Kulturalnych SZANSA",
+                "source": "https://www.supertydzien.pl/artykul/22193,rejowiec-fabryczny-znajdziesz-sie-w-potrzebie-pod-reka-bedzie-defibrylator"
             }
         },
         {
@@ -104218,6 +104256,21 @@
                 "defibrillator:location": "Wielton Polska",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936660706,
+            "lat": 51.0358505,
+            "lon": 16.9479024,
+            "timestamp": "2023-05-29T10:36:45Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "defibrillator:location": "Amazon- w pomieszczeniu ratowników medycznych",
+                "emergency": "defibrillator"
             }
         },
         {
@@ -104282,6 +104335,74 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "WPP- Na recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936678105,
+            "lat": 51.0458439,
+            "lon": 16.9523237,
+            "timestamp": "2023-05-29T10:34:42Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Castorama przy wjeściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936678405,
+            "lat": 51.0475975,
+            "lon": 16.9549335,
+            "timestamp": "2023-05-29T10:35:02Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Ikea przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936679405,
+            "lat": 51.0318042,
+            "lon": 16.948703,
+            "timestamp": "2023-05-29T10:36:01Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AluWind 2 szt przy wejściu na halę produkcyjną",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936681805,
+            "lat": 51.0402353,
+            "lon": 16.9409154,
+            "timestamp": "2023-05-29T10:37:14Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Amazon- w pomieszczeniu ratowników medycznych",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
