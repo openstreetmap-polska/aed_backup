@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T11:32:08Z",
-        "timestamp_areas_base": "2023-05-29T10:03:09Z",
+        "timestamp_osm_base": "2023-05-29T12:31:54Z",
+        "timestamp_areas_base": "2023-05-29T07:36:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98807,14 +98807,14 @@
             "id": 10765831305,
             "lat": 53.3582576,
             "lon": 20.4213389,
-            "timestamp": "2023-03-27T10:29:18Z",
-            "version": 1,
-            "changeset": 134170692,
-            "user": "damian11046",
-            "uid": 18802244,
+            "timestamp": "2023-05-29T12:27:15Z",
+            "version": 2,
+            "changeset": 136697760,
+            "user": "Szymon79",
+            "uid": 18029135,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "Na ścianie wejściu",
+                "defibrillator:location": "Wewnątrz budynku przy wejściu, dostępny 24h/dobę u ochrony obiektu.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -104405,6 +104405,42 @@
                 "defibrillator:location": "Amazon- w pomieszczeniu ratowników medycznych",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936758805,
+            "lat": 52.1827579,
+            "lon": 20.9689667,
+            "timestamp": "2023-05-29T11:35:22Z",
+            "version": 1,
+            "changeset": 136695243,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie w głównym lobby, naprzeciwko recepcji.",
+                "defibrillator:location:en": "On the wall in the main lobby, across from the reception desk.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 22 6069796"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936825305,
+            "lat": 53.3750609,
+            "lon": 20.4057746,
+            "timestamp": "2023-05-29T12:25:08Z",
+            "version": 1,
+            "changeset": 136697646,
+            "user": "Szymon79",
+            "uid": 18029135,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie dyżurki ochrony przy szlabanie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
