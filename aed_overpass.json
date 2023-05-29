@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T19:31:54Z",
-        "timestamp_areas_base": "2023-05-29T14:47:26Z",
+        "timestamp_osm_base": "2023-05-29T20:32:25Z",
+        "timestamp_areas_base": "2023-05-29T17:01:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104525,6 +104525,56 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie Remizy",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10937980718,
+            "lat": 52.3233781,
+            "lon": 21.1668434,
+            "timestamp": "2023-05-29T20:14:40Z",
+            "version": 1,
+            "changeset": 136716384,
+            "user": "MateuszSC",
+            "uid": 5608014,
+            "tags": {
+                "defibrillator:location": "Na ścianie przy wejściu głównym do kościoła od ul. Szerokiej",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10937980719,
+            "lat": 52.3267739,
+            "lon": 21.1909462,
+            "timestamp": "2023-05-29T20:14:40Z",
+            "version": 1,
+            "changeset": 136716384,
+            "user": "MateuszSC",
+            "uid": 5608014,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Sklep Biedronka przy ul. Napoleona, na ścianie przy wejściu do sklepu",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10937980720,
+            "lat": 52.3369484,
+            "lon": 21.2139651,
+            "timestamp": "2023-05-29T20:14:40Z",
+            "version": 1,
+            "changeset": 136716384,
+            "user": "MateuszSC",
+            "uid": 5608014,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Urząd Miasta Kobyłka, ściana zewnętrzna od ul. Wołomińskiej przy bankomacie PKOBP",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
