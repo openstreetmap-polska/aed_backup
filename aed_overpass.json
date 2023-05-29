@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-29T09:31:54Z",
-        "timestamp_areas_base": "2023-05-29T07:36:23Z",
+        "timestamp_osm_base": "2023-05-29T10:32:32Z",
+        "timestamp_areas_base": "2023-05-29T05:18:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104016,6 +104016,272 @@
                 "access": "customers",
                 "defibrillator:location": "Centrum Kongresowo-Dydaktyczne Uniwersytetu Medycznego im. Karola Marcinkowskiego,\nparter, po lewej od wejścia",
                 "defibrillator:location:en": "Poznan University of Medical Scinces Congress and Didactic Center\nground floor, on the left",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936598009,
+            "lat": 51.1118821,
+            "lon": 17.0260447,
+            "timestamp": "2023-05-29T10:10:51Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "U ochrony budynku Nicolas Business Center",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936634106,
+            "lat": 51.5089794,
+            "lon": 17.2868227,
+            "timestamp": "2023-05-29T10:19:03Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "defibrillator:location": "OSIR Milicz",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936643305,
+            "lat": 51.1210301,
+            "lon": 17.0594551,
+            "timestamp": "2023-05-29T10:09:04Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Budynku MPK przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936643306,
+            "lat": 51.1227733,
+            "lon": 17.0539016,
+            "timestamp": "2023-05-29T10:09:44Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przychodnia AMICUR I piętro.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936647005,
+            "lat": 51.1317876,
+            "lon": 16.9506621,
+            "timestamp": "2023-05-29T10:12:38Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu budynku firmy Elektrotim",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936653605,
+            "lat": 51.5262444,
+            "lon": 17.2718082,
+            "timestamp": "2023-05-29T10:15:54Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sąd Rejonowy w Miliczu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936653805,
+            "lat": 51.5251697,
+            "lon": 17.2664209,
+            "timestamp": "2023-05-29T10:16:20Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W siedzibie MSPDION",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936654205,
+            "lat": 51.5270855,
+            "lon": 17.2778579,
+            "timestamp": "2023-05-29T10:17:15Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Milickie Centrum Wsparcia Capitol",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936654605,
+            "lat": 51.5267463,
+            "lon": 17.2837341,
+            "timestamp": "2023-05-29T10:17:58Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Srodowiskowy Dom Samopomocy przy MSPDION",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936655806,
+            "lat": 51.2287633,
+            "lon": 18.584934,
+            "timestamp": "2023-05-29T10:20:31Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wielton Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936660205,
+            "lat": 51.2380029,
+            "lon": 18.5827703,
+            "timestamp": "2023-05-29T10:21:09Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "defibrillator:location": "Langendorf Polska- Przy wejściu",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936660705,
+            "lat": 51.2345501,
+            "lon": 18.5854525,
+            "timestamp": "2023-05-29T10:21:37Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wielton Polska",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936664105,
+            "lat": 51.0990671,
+            "lon": 16.941244,
+            "timestamp": "2023-05-29T10:24:16Z",
+            "version": 1,
+            "changeset": 136691368,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Centrum ZEN w gabinecie zabiegowym",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936664107,
+            "lat": 51.1469,
+            "lon": 17.028873,
+            "timestamp": "2023-05-29T10:29:52Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Endress + Hauser- na recepcji przy windach",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936668905,
+            "lat": 51.1500185,
+            "lon": 17.1296384,
+            "timestamp": "2023-05-29T10:28:51Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "defibrillator:location": "Bierutowska Park- przy wejściu na parterze",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10936669406,
+            "lat": 51.1476945,
+            "lon": 17.0254383,
+            "timestamp": "2023-05-29T10:30:52Z",
+            "version": 1,
+            "changeset": 136692124,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "WPP- Na recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
