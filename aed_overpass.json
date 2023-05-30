@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-30T05:32:53Z",
-        "timestamp_areas_base": "2023-05-30T00:14:59Z",
+        "timestamp_osm_base": "2023-05-30T06:32:39Z",
+        "timestamp_areas_base": "2023-05-30T04:58:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104577,6 +104577,25 @@
                 "defibrillator:location": "Urząd Miasta Kobyłka, ściana zewnętrzna od ul. Wołomińskiej przy bankomacie PKOBP",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10938993848,
+            "lat": 50.1950708,
+            "lon": 18.9700031,
+            "timestamp": "2023-05-30T06:08:15Z",
+            "version": 1,
+            "changeset": 136726530,
+            "user": "S0Cool",
+            "uid": 98984,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zakrystia parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "no"
             }
         },
         {
