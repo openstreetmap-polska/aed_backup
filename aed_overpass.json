@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-30T13:32:23Z",
-        "timestamp_areas_base": "2023-05-30T09:42:38Z",
+        "timestamp_osm_base": "2023-05-30T14:32:09Z",
+        "timestamp_areas_base": "2023-05-30T11:47:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104596,6 +104596,41 @@
                 "indoor": "yes",
                 "level": "0",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10939945471,
+            "lat": 51.3701323,
+            "lon": 18.43281,
+            "timestamp": "2023-05-30T13:44:46Z",
+            "version": 1,
+            "changeset": 136747877,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie budynku OSP.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Lututów"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10939996100,
+            "lat": 52.2108158,
+            "lon": 20.952076,
+            "timestamp": "2023-05-30T13:41:13Z",
+            "version": 1,
+            "changeset": 136747667,
+            "user": "cedaros",
+            "uid": 4026498,
+            "tags": {
+                "defibrillator:location": "Na ścianie przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
