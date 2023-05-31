@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-31T08:32:08Z",
+        "timestamp_osm_base": "2023-05-31T09:31:49Z",
         "timestamp_areas_base": "2023-05-31T06:36:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102465,15 +102465,15 @@
             "id": 10880680006,
             "lat": 52.407238,
             "lon": 16.7850388,
-            "timestamp": "2023-05-23T13:22:32Z",
-            "version": 2,
-            "changeset": 136456628,
+            "timestamp": "2023-05-31T09:08:51Z",
+            "version": 3,
+            "changeset": 136779392,
             "user": "ArturKaluzny",
             "uid": 19208501,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-05-09",
-                "defibrillator:location:pl": "budynek Fiberhost, INEAparter, AED znajduje się po prawej stronie od głównego wejścia, na ścianie w zielonej skrzynce.",
+                "defibrillator:location:pl": "budynek Fiberhost, INEA parter, AED znajduje się po prawej stronie od głównego wejścia, na ścianie w zielonej skrzynce. AED dostępne w godzinach pracy biura - 8:00 - 16:00 od poniedziałku do piątku.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
