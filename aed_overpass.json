@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-31T19:32:52Z",
-        "timestamp_areas_base": "2023-05-31T14:13:23Z",
+        "timestamp_osm_base": "2023-05-31T20:32:36Z",
+        "timestamp_areas_base": "2023-05-31T16:01:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104648,6 +104648,62 @@
                 "defibrillator:location": "Hilti Serwis- na hali produkcyjnej",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942757723,
+            "lat": 49.9980052,
+            "lon": 19.5123987,
+            "timestamp": "2023-05-31T19:38:03Z",
+            "version": 1,
+            "changeset": 136803362,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy Spytkowice",
+                "source": "https://wadowiceonline.pl/wydarzenia/24238-na-budynku-spytkowickiego-urzedu-zawisl-defibrylator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942801745,
+            "lat": 49.8822451,
+            "lon": 19.4961234,
+            "timestamp": "2023-05-31T20:06:58Z",
+            "version": 1,
+            "changeset": 136804295,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Komenda Policji",
+                "emergency": "defibrillator",
+                "source": "https://wadowiceonline.pl/wydarzenia/24238-na-budynku-spytkowickiego-urzedu-zawisl-defibrylator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942838697,
+            "lat": 50.7077059,
+            "lon": 23.0696425,
+            "timestamp": "2023-05-31T20:25:13Z",
+            "version": 1,
+            "changeset": 136804765,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Niedzieliska",
+                "source": "https://www.dziennikwschodni.pl/zamosc/tetno-zaniklo-kobieta-nie-oddychala-strazak-uratowal-jej-zycie,n,1000325163.html"
             }
         },
         {
