@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-05-31T15:32:09Z",
+        "timestamp_osm_base": "2023-05-31T16:31:48Z",
         "timestamp_areas_base": "2023-05-31T14:13:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -104631,6 +104631,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10942391605,
+            "lat": 51.037521,
+            "lon": 16.8988982,
+            "timestamp": "2023-05-31T16:01:35Z",
+            "version": 1,
+            "changeset": 136796078,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hilti Serwis- na hali produkcyjnej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
