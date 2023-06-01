@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-01T18:32:39Z",
-        "timestamp_areas_base": "2023-06-01T15:35:08Z",
+        "timestamp_osm_base": "2023-06-01T19:32:22Z",
+        "timestamp_areas_base": "2023-06-01T18:37:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104719,6 +104719,60 @@
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10944767105,
+            "lat": 52.1819423,
+            "lon": 20.970673,
+            "timestamp": "2023-06-01T19:17:43Z",
+            "version": 1,
+            "changeset": 136843922,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, na ścianie przy recepcji",
+                "defibrillator:location:en": "Ground floor, on the wall, next to the reception",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10944767106,
+            "lat": 52.1819608,
+            "lon": 20.9707719,
+            "timestamp": "2023-06-01T19:19:45Z",
+            "version": 1,
+            "changeset": 136843922,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pierwsze piętro, na ścianie, przy schodach",
+                "defibrillator:location:en": "First floor, on the wall, next to stairs",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10944774005,
+            "lat": 52.1824749,
+            "lon": 20.9657597,
+            "timestamp": "2023-06-01T19:26:30Z",
+            "version": 1,
+            "changeset": 136844195,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, na filarze przy wejściu",
+                "defibrillator:location:en": "Ground floor, on the column next to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
