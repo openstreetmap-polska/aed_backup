@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-02T11:32:09Z",
-        "timestamp_areas_base": "2023-06-02T10:46:24Z",
+        "timestamp_osm_base": "2023-06-02T12:32:02Z",
+        "timestamp_areas_base": "2023-06-02T09:35:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104864,6 +104864,42 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Jaworze Soleckim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10946077405,
+            "lat": 52.1556393,
+            "lon": 17.1622184,
+            "timestamp": "2023-06-02T11:49:11Z",
+            "version": 1,
+            "changeset": 136865077,
+            "user": "karkas",
+            "uid": 15423269,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie przy wejściu do restauracji",
+                "defibrillator:location:en": "on the wall near entrance to the restaurant",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10946093500,
+            "lat": 54.1734033,
+            "lon": 17.4925329,
+            "timestamp": "2023-06-02T11:59:59Z",
+            "version": 1,
+            "changeset": 136865436,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku Centrum Integracji Społecznej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://kurierbytowski.com.pl/artykul/nie-wystarczy-jedynie/1440946"
             }
         },
         {
