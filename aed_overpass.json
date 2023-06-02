@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-02T19:31:54Z",
-        "timestamp_areas_base": "2023-06-02T14:20:59Z",
+        "timestamp_osm_base": "2023-06-02T20:31:51Z",
+        "timestamp_areas_base": "2023-06-02T15:29:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104915,6 +104915,60 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na scianie przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10947365405,
+            "lat": 52.2321121,
+            "lon": 20.2454947,
+            "timestamp": "2023-06-02T19:34:43Z",
+            "version": 1,
+            "changeset": 136881797,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie żółtego kontenera.",
+                "defibrillator:location:en": "On the wall of the yellow container.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10947366509,
+            "lat": 52.2263278,
+            "lon": 20.2476299,
+            "timestamp": "2023-06-02T19:36:52Z",
+            "version": 1,
+            "changeset": 136881797,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu głównym.",
+                "defibrillator:location:en": "On the wall near main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10947367406,
+            "lat": 52.2083753,
+            "lon": 20.2204826,
+            "timestamp": "2023-06-02T19:38:20Z",
+            "version": 1,
+            "changeset": 136881797,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu.",
+                "defibrillator:location:en": "On the wall near entrance.",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
