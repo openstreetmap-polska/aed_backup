@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-02T15:32:11Z",
-        "timestamp_areas_base": "2023-06-02T10:46:24Z",
+        "timestamp_osm_base": "2023-06-02T16:32:15Z",
+        "timestamp_areas_base": "2023-06-02T15:29:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104900,6 +104900,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://kurierbytowski.com.pl/artykul/nie-wystarczy-jedynie/1440946"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10946658405,
+            "lat": 50.2300385,
+            "lon": 22.1178479,
+            "timestamp": "2023-06-02T15:58:23Z",
+            "version": 1,
+            "changeset": 136874387,
+            "user": "Kacper_G",
+            "uid": 19464524,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na scianie przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
