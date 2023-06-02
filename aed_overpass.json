@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "generator": "Overpass API 0.7.60 f4c14d41",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-02T09:32:24Z",
-        "timestamp_areas_base": "2023-06-02T06:04:18Z",
+        "timestamp_osm_base": "2023-06-02T10:32:15Z",
+        "timestamp_areas_base": "2023-06-02T09:35:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104809,6 +104809,43 @@
                 "defibrillator:location:en": "On the wall near entrance (on the right side, right behind the glass door)",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10945877905,
+            "lat": 52.2477188,
+            "lon": 16.614794,
+            "timestamp": "2023-06-02T09:34:20Z",
+            "version": 1,
+            "changeset": 136860244,
+            "user": "Adasko999",
+            "uid": 19234588,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Star-Man 2.5/16",
+                "defibrillator:location:en": "OSP STRYKOWO",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112/999"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10945920057,
+            "lat": 54.0056155,
+            "lon": 16.9840425,
+            "timestamp": "2023-06-02T10:11:01Z",
+            "version": 1,
+            "changeset": 136861619,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie zewnętrzenj budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Miejsko Gminny Ośrodek Pomocy Społecznej"
             }
         },
         {
