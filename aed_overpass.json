@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.60 f4c14d41",
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-02T10:32:15Z",
-        "timestamp_areas_base": "2023-06-02T09:35:23Z",
+        "timestamp_osm_base": "2023-06-02T11:32:09Z",
+        "timestamp_areas_base": "2023-06-02T10:46:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104846,6 +104846,24 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Miejsko Gminny Ośrodek Pomocy Społecznej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10945977901,
+            "lat": 51.1513523,
+            "lon": 21.4900129,
+            "timestamp": "2023-06-02T10:40:54Z",
+            "version": 1,
+            "changeset": 136862580,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie zewnętrznej budynku.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Jaworze Soleckim"
             }
         },
         {
