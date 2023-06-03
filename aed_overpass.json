@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-03T20:31:50Z",
+        "timestamp_osm_base": "2023-06-03T21:32:38Z",
         "timestamp_areas_base": "2023-06-03T19:36:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -104988,6 +104988,25 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10949805742,
+            "lat": 53.1464281,
+            "lon": 16.7461439,
+            "timestamp": "2023-06-03T21:32:28Z",
+            "version": 1,
+            "changeset": 136916350,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Blisko kas,",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Decathlon",
+                "wheelchair": "yes"
             }
         },
         {
