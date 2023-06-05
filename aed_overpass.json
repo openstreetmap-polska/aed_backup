@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-05T12:32:24Z",
+        "timestamp_osm_base": "2023-06-05T13:32:09Z",
         "timestamp_areas_base": "2023-06-05T08:30:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -104378,14 +104378,14 @@
             "id": 10936679405,
             "lat": 51.0318042,
             "lon": 16.948703,
-            "timestamp": "2023-05-29T10:36:01Z",
-            "version": 1,
-            "changeset": 136692124,
-            "user": "Zgo Tom",
-            "uid": 19419833,
+            "timestamp": "2023-06-05T13:11:21Z",
+            "version": 2,
+            "changeset": 136972388,
+            "user": "DOT_ALU",
+            "uid": 19489488,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "AluWind 2 szt przy wejściu na halę produkcyjną",
+                "defibrillator:location": "Aluwind - przy wejściu na produkcję",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
@@ -105060,6 +105060,23 @@
                 "access": "private",
                 "defibrillator:location": "HanseYachts Sp. z o.o. \nOchrona pełni dyżur całodobowy, udostępni AED",
                 "defibrillator:location:en": "HanseYachts Sp. z o. o.\nSecurity is on duty 24/7, AED will be available",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10957498605,
+            "lat": 51.0340567,
+            "lon": 16.9444499,
+            "timestamp": "2023-06-05T13:10:04Z",
+            "version": 1,
+            "changeset": 136972340,
+            "user": "DOT_ALU",
+            "uid": 19489488,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na słupie po środku hali magazynowej Aluwind",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
