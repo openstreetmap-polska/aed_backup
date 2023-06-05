@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-05T17:32:01Z",
-        "timestamp_areas_base": "2023-06-05T13:48:24Z",
+        "timestamp_osm_base": "2023-06-05T18:31:46Z",
+        "timestamp_areas_base": "2023-06-05T13:14:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105086,15 +105086,17 @@
             "id": 10957863899,
             "lat": 51.9191453,
             "lon": 17.2402787,
-            "timestamp": "2023-06-05T17:02:48Z",
-            "version": 2,
-            "changeset": 136981796,
+            "timestamp": "2023-06-05T17:32:18Z",
+            "version": 3,
+            "changeset": 136982921,
             "user": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
             "uid": 19490393,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na ścianie budynku z lewej strony głównych drzwi wejściowych",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "note": "Kontakt: 691737813",
                 "opening_hours": "24/7",
                 "operator": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
                 "start_date": "05.06.2023"
