@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-05T08:32:09Z",
+        "timestamp_osm_base": "2023-06-05T09:31:54Z",
         "timestamp_areas_base": "2023-06-05T04:24:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105007,6 +105007,43 @@
                 "indoor": "yes",
                 "operator": "Decathlon",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10956816059,
+            "lat": 50.0638698,
+            "lon": 19.9347782,
+            "timestamp": "2023-06-05T08:37:49Z",
+            "version": 1,
+            "changeset": 136961194,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Pałacu Sztuki",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "operator": "Pałac Sztuki",
+                "phone": "+48124226616"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10956818317,
+            "lat": 50.2728944,
+            "lon": 18.530778,
+            "timestamp": "2023-06-05T08:32:49Z",
+            "version": 1,
+            "changeset": 136960977,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://iknurow.pl/gliwice-sosnicowice-zatrzymanie-krazenia-u-5-letniego-dziecka-podczas-festynu-rodzinnego-w-sosnicowicach/"
             }
         },
         {
