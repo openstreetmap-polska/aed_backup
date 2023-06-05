@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-05T11:32:23Z",
+        "timestamp_osm_base": "2023-06-05T12:32:24Z",
         "timestamp_areas_base": "2023-06-05T08:30:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105044,6 +105044,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://iknurow.pl/gliwice-sosnicowice-zatrzymanie-krazenia-u-5-letniego-dziecka-podczas-festynu-rodzinnego-w-sosnicowicach/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10957425905,
+            "lat": 53.543499,
+            "lon": 14.7966708,
+            "timestamp": "2023-06-05T12:25:39Z",
+            "version": 1,
+            "changeset": 136970297,
+            "user": "Lolloket",
+            "uid": 19489072,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "HanseYachts Sp. z o.o. \nOchrona pełni dyżur całodobowy, udostępni AED",
+                "defibrillator:location:en": "HanseYachts Sp. z o. o.\nSecurity is on duty 24/7, AED will be available",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
