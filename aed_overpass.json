@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-05T16:32:22Z",
+        "timestamp_osm_base": "2023-06-05T17:32:01Z",
         "timestamp_areas_base": "2023-06-05T13:48:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105079,6 +105079,25 @@
                 "defibrillator:location": "Na słupie po środku hali magazynowej Aluwind",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10957863899,
+            "lat": 51.9191453,
+            "lon": 17.2402787,
+            "timestamp": "2023-06-05T17:02:48Z",
+            "version": 2,
+            "changeset": 136981796,
+            "user": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
+            "uid": 19490393,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
+                "start_date": "05.06.2023"
             }
         },
         {
