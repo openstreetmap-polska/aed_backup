@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-06T12:32:09Z",
+        "timestamp_osm_base": "2023-06-06T13:31:45Z",
         "timestamp_areas_base": "2023-06-06T08:37:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105086,9 +105086,9 @@
             "id": 10957863899,
             "lat": 51.9191453,
             "lon": 17.2402787,
-            "timestamp": "2023-06-05T18:47:31Z",
-            "version": 4,
-            "changeset": 136985392,
+            "timestamp": "2023-06-06T12:44:15Z",
+            "version": 5,
+            "changeset": 137013501,
             "user": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
             "uid": 19490393,
             "tags": {
@@ -105097,9 +105097,9 @@
                 "description": "Defibrylator z elektrodami uniwersalnymi oraz kluczem pediatrycznym (możliwość zastosowania u osób dorosłych oraz dzieci)",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "note": "Kontakt: 691737813",
                 "opening_hours": "24/7",
                 "operator": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
+                "phone": "691737813",
                 "ref": "63-810 Borek Wielkopolski, ul. Szkolna 1",
                 "start_date": "05.06.2023"
             }
@@ -105118,6 +105118,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Nadleśnictwo Dobrzejewice"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10959529390,
+            "lat": 50.1117463,
+            "lon": 18.7966686,
+            "timestamp": "2023-06-06T13:12:28Z",
+            "version": 1,
+            "changeset": 137014739,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Ochotniczej Straży Pożarnej.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Gardawicach"
             }
         },
         {
