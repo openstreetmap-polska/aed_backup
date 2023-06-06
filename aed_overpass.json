@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-06T08:32:08Z",
-        "timestamp_areas_base": "2023-06-06T03:55:29Z",
+        "timestamp_osm_base": "2023-06-06T09:31:53Z",
+        "timestamp_areas_base": "2023-06-06T08:04:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105102,6 +105102,22 @@
                 "operator": "Zespół Szkolno-Przedszkolny w Borku Wielkopolskim",
                 "ref": "63-810 Borek Wielkopolski, ul. Szkolna 1",
                 "start_date": "05.06.2023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10959222735,
+            "lat": 52.9822181,
+            "lon": 18.8229784,
+            "timestamp": "2023-06-06T09:06:03Z",
+            "version": 1,
+            "changeset": 137005055,
+            "user": "Jerry_W2k",
+            "uid": 4732840,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Nadleśnictwo Dobrzejewice"
             }
         },
         {
