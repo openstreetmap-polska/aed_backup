@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-07T06:31:51Z",
+        "timestamp_osm_base": "2023-06-07T07:32:38Z",
         "timestamp_areas_base": "2023-06-07T03:29:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105137,6 +105137,25 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Gardawicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10961085705,
+            "lat": 51.1106175,
+            "lon": 17.0228363,
+            "timestamp": "2023-06-07T07:30:59Z",
+            "version": 1,
+            "changeset": 137043367,
+            "user": "Mordechai23",
+            "uid": 8826419,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-06-07",
+                "defibrillator:location:en": "On the wall immediately to the right of the main entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
