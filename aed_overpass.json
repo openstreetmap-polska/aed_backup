@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-07T18:32:32Z",
-        "timestamp_areas_base": "2023-06-07T17:39:02Z",
+        "timestamp_osm_base": "2023-06-07T19:32:37Z",
+        "timestamp_areas_base": "2023-06-07T17:16:50Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105197,6 +105197,78 @@
                 "defibrillator:location:en": "Ground floor, on the column next to the entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10962144057,
+            "lat": 52.4465134,
+            "lon": 20.6521306,
+            "timestamp": "2023-06-07T19:18:21Z",
+            "version": 1,
+            "changeset": 137068780,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "customers",
+                "description": "w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10962144058,
+            "lat": 52.4465393,
+            "lon": 20.6524149,
+            "timestamp": "2023-06-07T19:18:21Z",
+            "version": 1,
+            "changeset": 137068780,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "customers",
+                "description": "w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10962144059,
+            "lat": 52.4465079,
+            "lon": 20.6520852,
+            "timestamp": "2023-06-07T19:18:21Z",
+            "version": 1,
+            "changeset": 137068780,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "customers",
+                "description": "w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10962144060,
+            "lat": 52.4465355,
+            "lon": 20.6523907,
+            "timestamp": "2023-06-07T19:18:21Z",
+            "version": 1,
+            "changeset": 137068780,
+            "user": "Mateusz Konieczny",
+            "uid": 1722488,
+            "tags": {
+                "access": "customers",
+                "description": "w poczekalni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
