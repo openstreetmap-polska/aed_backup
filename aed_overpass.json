@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-07T10:32:54Z",
-        "timestamp_areas_base": "2023-06-07T07:44:42Z",
+        "timestamp_osm_base": "2023-06-07T11:32:38Z",
+        "timestamp_areas_base": "2023-06-07T08:11:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114,15 +114,17 @@
             "id": 1779456496,
             "lat": 52.1707513,
             "lon": 20.9725857,
-            "timestamp": "2021-05-12T20:36:48Z",
-            "version": 7,
-            "changeset": 104596814,
-            "user": "syntex",
-            "uid": 6668641,
+            "timestamp": "2023-06-07T11:26:29Z",
+            "version": 8,
+            "changeset": 137052103,
+            "user": "Undeeer",
+            "uid": 19420525,
             "tags": {
+                "access": "yes",
                 "addr:city": "Warszawa",
                 "addr:housenumber": "1",
                 "addr:street": "Żwirki i Wigury",
+                "defibrillator:location": "W halach przylotów i odlotów\n(w części ogólnodostępnej i tranzytowej) zainstalowanych jest 25 automatycznych defibrylatorów (AED).",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "layer": "1"
@@ -105159,6 +105161,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10961383205,
+            "lat": 52.1821944,
+            "lon": 20.9664261,
+            "timestamp": "2023-06-07T11:13:22Z",
+            "version": 1,
+            "changeset": 137051625,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, na filarze przy wejściu",
+                "defibrillator:location:en": "Ground floor, on the column next to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10961385605,
+            "lat": 52.1817181,
+            "lon": 20.9658874,
+            "timestamp": "2023-06-07T11:14:06Z",
+            "version": 1,
+            "changeset": 137051625,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Parter, na filarze przy wejściu",
+                "defibrillator:location:en": "Ground floor, on the column next to the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
