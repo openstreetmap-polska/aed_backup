@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-09T20:32:09Z",
+        "timestamp_osm_base": "2023-06-09T21:32:51Z",
         "timestamp_areas_base": "2023-06-09T17:09:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105324,6 +105324,23 @@
                 "emergency": "defibrillator",
                 "operator": "SP nr 7 imienia Orła Białego",
                 "phone": "+48227755000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10966292323,
+            "lat": 53.1476463,
+            "lon": 16.7405987,
+            "timestamp": "2023-06-09T20:52:00Z",
+            "version": 1,
+            "changeset": 137153525,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Sąd Okręgowy w Poznaniu"
             }
         },
         {
