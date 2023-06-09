@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-09T08:31:49Z",
-        "timestamp_areas_base": "2023-06-09T07:26:37Z",
+        "timestamp_osm_base": "2023-06-09T09:32:31Z",
+        "timestamp_areas_base": "2023-06-09T07:25:38Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105269,6 +105269,43 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10964981205,
+            "lat": 50.2103853,
+            "lon": 19.1978884,
+            "timestamp": "2023-06-09T08:35:48Z",
+            "version": 1,
+            "changeset": 137125910,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sterownia na terenie zakładu Knauf",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10965019705,
+            "lat": 51.2466845,
+            "lon": 22.5163437,
+            "timestamp": "2023-06-09T08:50:49Z",
+            "version": 1,
+            "changeset": 137126481,
+            "user": "Dyspozytornia Medyczna Lublin",
+            "uid": 19527100,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Dyspozytornia Medyczna Lublin \nLubelski Urząd Wojewódzki w Lublinie",
+                "defibrillator:location:en": "Medical Dispatch\nEmergency Call 999/112\nLublin\nLublin Voivodeship Office in Lublin",
+                "emergency": "defibrillator",
+                "emergency:phone": "999",
+                "indoor": "yes",
+                "phone": "999"
             }
         },
         {
