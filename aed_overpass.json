@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-10T20:32:24Z",
+        "timestamp_osm_base": "2023-06-10T21:30:07Z",
         "timestamp_areas_base": "2023-06-10T17:23:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105341,6 +105341,158 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Sąd Okręgowy w Poznaniu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968172949,
+            "lat": 50.8522161,
+            "lon": 20.6227959,
+            "timestamp": "2023-06-10T20:46:16Z",
+            "version": 1,
+            "changeset": 137185240,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu budynku szkoły",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Szkoła Podstawowa nr 9 w Kielcach",
+                "source": "https://swietokrzyskie.cozadzien.pl/kielce/szkola-podstawowa-nr-9-w-kielcach-otrzymala-ratujacy-zycie-defibrylator/66857"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202478,
+            "lat": 52.7318367,
+            "lon": 15.2425049,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Urząd Miasta Gorzowa Wielkopolskiego",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202479,
+            "lat": 52.6776722,
+            "lon": 15.2152894,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Ulim",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202481,
+            "lat": 52.6993595,
+            "lon": 15.313755,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Deszczno",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202484,
+            "lat": 52.6529093,
+            "lon": 15.234818,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Krasowiec",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202486,
+            "lat": 52.6534439,
+            "lon": 15.3685965,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Brzozowiec",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968202489,
+            "lat": 52.6740903,
+            "lon": 15.3095072,
+            "timestamp": "2023-06-10T21:08:09Z",
+            "version": 1,
+            "changeset": 137185699,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Deszczno",
+                "source": "https://gorzowianin.com/wiadomosc/21508-ratowanie-zycia-bedzie-proste-w-gorzowie-beda-ogolnodostepne-defibrylatory.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968204430,
+            "lat": 53.8511185,
+            "lon": 19.167003,
+            "timestamp": "2023-06-10T20:43:32Z",
+            "version": 1,
+            "changeset": 137185175,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do Urzędu Gminy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "UG Mikołajki Pomorskie",
+                "source": "https://www.zawszepomorze.pl/przybywa-defibrylatorow-na-pomorzu-swoje-urzadzenie-maja-mikolajki-pomorskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10968204432,
+            "lat": 53.854968,
+            "lon": 19.1619453,
+            "timestamp": "2023-06-10T20:43:32Z",
+            "version": 1,
+            "changeset": 137185175,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mikołajki Pomorskie"
             }
         },
         {
