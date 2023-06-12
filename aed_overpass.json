@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-12T13:31:58Z",
-        "timestamp_areas_base": "2023-06-12T10:54:13Z",
+        "timestamp_osm_base": "2023-06-12T14:31:53Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105494,6 +105494,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Mikołajki Pomorskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10971056021,
+            "lat": 51.8215393,
+            "lon": 19.4344534,
+            "timestamp": "2023-06-12T13:32:16Z",
+            "version": 1,
+            "changeset": 137245287,
+            "user": "pomocnysztab",
+            "uid": 14165189,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "w recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Fundacja Leny Grochowskiej"
             }
         },
         {
