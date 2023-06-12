@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-12T12:32:22Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-12T13:31:58Z",
+        "timestamp_areas_base": "2023-06-12T10:54:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105494,6 +105494,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Mikołajki Pomorskie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10971057992,
+            "lat": 53.1536277,
+            "lon": 18.1562912,
+            "timestamp": "2023-06-12T13:06:15Z",
+            "version": 1,
+            "changeset": 137244363,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się obok wejścia do marketu, przy „Strefie Klienta” w szafkach z alarmem świetlno-dźwiękowym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Sa 06:30-22:00",
+                "operator": "Carrefour",
+                "phone": "+48523269701"
             }
         },
         {
