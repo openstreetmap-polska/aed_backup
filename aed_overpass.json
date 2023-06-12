@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-12T10:31:59Z",
+        "timestamp_osm_base": "2023-06-12T11:32:39Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -14304,18 +14304,19 @@
             "id": 9424723017,
             "lat": 50.4269172,
             "lon": 19.3956451,
-            "timestamp": "2022-01-17T08:07:51Z",
-            "version": 1,
-            "changeset": 116242044,
-            "user": "Konrad Knop",
-            "uid": 14872634,
+            "timestamp": "2023-06-12T11:31:47Z",
+            "version": 2,
+            "changeset": 137240767,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie w pobliżu wejścia",
+                "defibrillator:location": "Defibrylator AED znajduje się na ścianie w pobliżu wejścia",
                 "defibrillator:location:en": "on the wall near reception",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "location": "indoor",
+                "operator": "Ośrodek Sportu i Rekreacji w Łazach",
                 "phone": "32 670 97 90"
             }
         },
