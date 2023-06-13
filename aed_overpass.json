@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-13T21:32:02Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-13T22:32:00Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3589,13 +3589,13 @@
         {
             "type": "node",
             "id": 8461898904,
-            "lat": 54.4085793,
-            "lon": 18.5884816,
-            "timestamp": "2022-04-15T09:53:48Z",
-            "version": 3,
-            "changeset": 119744077,
-            "user": "mueschel",
-            "uid": 616774,
+            "lat": 54.4085166,
+            "lon": 18.5884584,
+            "timestamp": "2023-06-13T22:30:52Z",
+            "version": 4,
+            "changeset": 137304793,
+            "user": "czebureks",
+            "uid": 11437083,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "wolnostojący postument",
