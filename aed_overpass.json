@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-13T18:31:54Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-13T19:32:38Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105589,6 +105589,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://www.eska.pl/slaskie/mops-zamieszkal-przy-ul-wita-stwosza-7-katowice-otworzyly-druga-siedzibe-centrum-organizacji-pozarzadowych-aa-r3dx-qv4y-BXVx.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10974743640,
+            "lat": 54.5398525,
+            "lon": 17.7511349,
+            "timestamp": "2023-06-13T19:06:09Z",
+            "version": 1,
+            "changeset": 137299461,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do PCK",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Polski Czerwony Krzyż",
+                "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02cPSesn4VyARPWwScwk4V5VYxqbxpLRMtYw7GLBAmbhNUhYbvFoFcK4phwFY2Uzcvl&id=109774063973438"
             }
         },
         {
