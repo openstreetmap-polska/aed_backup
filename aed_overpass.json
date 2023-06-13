@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-13T06:32:34Z",
-        "timestamp_areas_base": "2023-06-13T01:23:37Z",
+        "timestamp_osm_base": "2023-06-13T07:32:20Z",
+        "timestamp_areas_base": "2023-06-13T06:03:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105533,6 +105533,24 @@
                 "opening_hours": "Mo-Sa 06:30-22:00",
                 "operator": "Carrefour",
                 "phone": "+48523269701"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10973138175,
+            "lat": 52.2016283,
+            "lon": 17.4885137,
+            "timestamp": "2023-06-13T06:52:06Z",
+            "version": 1,
+            "changeset": 137271344,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu Banku Spółdzielczego.",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 08:00-15:15",
+                "operator": "Powiatowy Bank Spółdzielczy we Wrześni Oddział w Miłosławiu",
+                "phone": "+48614383840"
             }
         },
         {
