@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-13T17:32:09Z",
+        "timestamp_osm_base": "2023-06-13T18:31:54Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105551,6 +105551,44 @@
                 "opening_hours": "Mo-Fr 08:00-15:15",
                 "operator": "Powiatowy Bank Spółdzielczy we Wrześni Oddział w Miłosławiu",
                 "phone": "+48614383840"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10974542024,
+            "lat": 50.2227938,
+            "lon": 18.6641314,
+            "timestamp": "2023-06-13T18:23:26Z",
+            "version": 1,
+            "changeset": 137298146,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa z Oddziałami Integracyjnymi nr 2",
+                "source": "https://iknurow.pl/knurow-trwa-montaz-zielonych-skrzynek-mogacych-uratowac-zycie/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10974571723,
+            "lat": 50.2529232,
+            "lon": 19.0184547,
+            "timestamp": "2023-06-13T18:27:16Z",
+            "version": 1,
+            "changeset": 137298279,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W siedzibie MOPS",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://www.eska.pl/slaskie/mops-zamieszkal-przy-ul-wita-stwosza-7-katowice-otworzyly-druga-siedzibe-centrum-organizacji-pozarzadowych-aa-r3dx-qv4y-BXVx.html"
             }
         },
         {
