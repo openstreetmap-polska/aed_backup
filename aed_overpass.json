@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-13T22:32:00Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-13T23:32:09Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105609,6 +105609,24 @@
                 "opening_hours": "24/7",
                 "operator": "Polski Czerwony Krzyż",
                 "source": "https://www.facebook.com/permalink.php?story_fbid=pfbid02cPSesn4VyARPWwScwk4V5VYxqbxpLRMtYw7GLBAmbhNUhYbvFoFcK4phwFY2Uzcvl&id=109774063973438"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10975473905,
+            "lat": 52.1837838,
+            "lon": 20.9667251,
+            "timestamp": "2023-06-13T22:40:19Z",
+            "version": 1,
+            "changeset": 137304941,
+            "user": "Undeeer",
+            "uid": 19420525,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie obok recepcji przy wejściu",
+                "defibrillator:location:en": "On the wall, next to the front desk near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
