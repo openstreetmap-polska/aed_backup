@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-14T06:32:02Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-14T07:32:45Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105276,16 +105276,18 @@
             "id": 10964981205,
             "lat": 50.2103853,
             "lon": 19.1978884,
-            "timestamp": "2023-06-09T08:35:48Z",
-            "version": 1,
-            "changeset": 137125910,
+            "timestamp": "2023-06-14T06:35:42Z",
+            "version": 2,
+            "changeset": 137312227,
             "user": "geoyolog",
             "uid": 9935659,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Sterownia na terenie zakładu Knauf",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Knauf Jaworzno III sp. z o.o.",
+                "phone": "+48 661 122 713"
             }
         },
         {
@@ -105627,6 +105629,26 @@
                 "defibrillator:location:en": "On the wall, next to the front desk near entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10976069382,
+            "lat": 50.4925225,
+            "lon": 18.018296,
+            "timestamp": "2023-06-14T07:10:48Z",
+            "version": 1,
+            "changeset": 137313530,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Gogolin",
+                "source": "https://samorzad.pap.pl/klub-samorzadowy/gogolin/kategoria/aktualnosci/gogolin-gogolinscy-strazacy-maja-nowy-sprzet"
             }
         },
         {
