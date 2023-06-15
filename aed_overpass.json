@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-15T05:32:26Z",
+        "timestamp_osm_base": "2023-06-15T06:32:10Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105649,6 +105649,22 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Gogolin",
                 "source": "https://samorzad.pap.pl/klub-samorzadowy/gogolin/kategoria/aktualnosci/gogolin-gogolinscy-strazacy-maja-nowy-sprzet"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10978228106,
+            "lat": 53.9185216,
+            "lon": 14.247969,
+            "timestamp": "2023-06-15T06:01:59Z",
+            "version": 1,
+            "changeset": 137354330,
+            "user": "wskotnicki",
+            "uid": 18846743,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
