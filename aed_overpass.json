@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-16T06:32:52Z",
+        "timestamp_osm_base": "2023-06-16T07:32:25Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105716,6 +105716,23 @@
                 "defibrillator:location": "Znajduje się na samochodzie pożarniczym",
                 "emergency": "defibrillator",
                 "phone": "726 207 714"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10980165805,
+            "lat": 49.6460375,
+            "lon": 19.7809907,
+            "timestamp": "2023-06-16T07:10:53Z",
+            "version": 1,
+            "changeset": 137400353,
+            "user": "Marek Drobny",
+            "uid": 19592562,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek OSP Bystra Podhalańska",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
