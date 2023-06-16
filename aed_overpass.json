@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-16T05:32:30Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-16T06:32:52Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105682,6 +105682,40 @@
                 "defibrillator:location": "Przy drzwiach prawej wieży zamknięć",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10980096791,
+            "lat": 52.5556504,
+            "lon": 18.9443424,
+            "timestamp": "2023-06-16T06:12:09Z",
+            "version": 1,
+            "changeset": 137398232,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie strażackim",
+                "emergency": "defibrillator",
+                "phone": "667 247 569"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10980101142,
+            "lat": 52.6673511,
+            "lon": 18.8585915,
+            "timestamp": "2023-06-16T06:20:42Z",
+            "version": 1,
+            "changeset": 137398476,
+            "user": "Cristoffs",
+            "uid": 6765127,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Znajduje się na samochodzie pożarniczym",
+                "emergency": "defibrillator",
+                "phone": "726 207 714"
             }
         },
         {
