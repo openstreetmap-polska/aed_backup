@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-16T07:32:25Z",
+        "timestamp_osm_base": "2023-06-16T08:32:13Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105721,18 +105721,19 @@
         {
             "type": "node",
             "id": 10980165805,
-            "lat": 49.6460375,
-            "lon": 19.7809907,
-            "timestamp": "2023-06-16T07:10:53Z",
-            "version": 1,
-            "changeset": 137400353,
+            "lat": 49.6459573,
+            "lon": 19.780297,
+            "timestamp": "2023-06-16T08:26:47Z",
+            "version": 2,
+            "changeset": 137403477,
             "user": "Marek Drobny",
             "uid": 19592562,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Budynek OSP Bystra Podhalańska",
+                "defibrillator:location": "KAPSUŁA AED ROTAID - PODGRZEWANA Z ALARMEM zamontowana na ścianie budynku OSP Bystra Podhalańska, otwarcie kapsuły uruchamia  SYRENĄ STRAŻACKA",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "OSP Bystra Podhalańska"
             }
         },
         {
