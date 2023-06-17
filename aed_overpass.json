@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-17T09:32:12Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-17T10:32:14Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105734,6 +105734,24 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "OSP Bystra Podhalańska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10982215605,
+            "lat": 52.3211073,
+            "lon": 20.9710032,
+            "timestamp": "2023-06-17T10:01:41Z",
+            "version": 1,
+            "changeset": 137441656,
+            "user": "Pawelsi11",
+            "uid": 12651405,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
