@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-18T10:32:45Z",
+        "timestamp_osm_base": "2023-06-18T11:32:30Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105770,6 +105770,41 @@
                 "defibrillator:location": "w informacji-lewa strona po wejściu",
                 "emergency": "defibrillator",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10983754305,
+            "lat": 51.9114372,
+            "lon": 17.2430745,
+            "timestamp": "2023-06-18T10:39:21Z",
+            "version": 1,
+            "changeset": 137473562,
+            "user": "Dawid Bonawenturczyk",
+            "uid": 19613047,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10983783005,
+            "lat": 50.7282169,
+            "lon": 16.3969373,
+            "timestamp": "2023-06-18T11:08:32Z",
+            "version": 1,
+            "changeset": 137474392,
+            "user": "JakesterTV",
+            "uid": 4299309,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie na 1 piętrze w klatce schodowej.",
+                "defibrillator:location:en": "On the wall on the 1st floor in the stairwell.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
