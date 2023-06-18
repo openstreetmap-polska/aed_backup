@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-18T14:32:35Z",
+        "timestamp_osm_base": "2023-06-18T15:32:16Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -70964,18 +70964,19 @@
         {
             "type": "node",
             "id": 10042523817,
-            "lat": 50.2020204,
-            "lon": 17.8232619,
-            "timestamp": "2022-09-21T12:13:44Z",
-            "version": 1,
-            "changeset": 126462869,
-            "user": "Przedszkole nr 2",
-            "uid": 17175843,
+            "lat": 50.1995316,
+            "lon": 17.8232501,
+            "timestamp": "2023-06-18T14:44:23Z",
+            "version": 2,
+            "changeset": 137481243,
+            "user": "Endres Pelka",
+            "uid": 1246157,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie korytarz parter",
+                "defibrillator:location": "korytarz parter, na ścianie",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "phone": "+48774853116"
             }
         },
         {
@@ -70997,23 +70998,6 @@
                 "opening_hours": "24/7",
                 "operator": "Joynext",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10042788917,
-            "lat": 50.2042755,
-            "lon": 17.8311278,
-            "timestamp": "2022-09-21T14:11:48Z",
-            "version": 1,
-            "changeset": 126467816,
-            "user": "Przedszkole nr 2",
-            "uid": 17175843,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "na korytarzu parter, na ścianie",
-                "emergency": "defibrillator",
-                "indoor": "yes"
             }
         },
         {
@@ -103507,42 +103491,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10911056705,
-            "lat": 50.2042755,
-            "lon": 17.8311278,
-            "timestamp": "2023-05-19T10:09:36Z",
-            "version": 1,
-            "changeset": 136292242,
-            "user": "Przedszkole nr 2",
-            "uid": 17175843,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "parter przedszkola - korytarz",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "+48774853116"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10911059905,
-            "lat": 50.1994264,
-            "lon": 17.8232563,
-            "timestamp": "2023-05-19T10:12:03Z",
-            "version": 1,
-            "changeset": 136292242,
-            "user": "Przedszkole nr 2",
-            "uid": 17175843,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "parter - korytarz",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "=48774853116"
             }
         },
         {
