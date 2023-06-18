@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-18T07:32:17Z",
+        "timestamp_osm_base": "2023-06-18T08:32:45Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -88770,16 +88770,17 @@
             "id": 10580248541,
             "lat": 50.0660383,
             "lon": 19.9281757,
-            "timestamp": "2023-01-24T22:08:04Z",
-            "version": 1,
-            "changeset": 131670673,
-            "user": "Jerzy Woźniakiewicz",
-            "uid": 18347793,
+            "timestamp": "2023-06-18T08:30:30Z",
+            "version": 2,
+            "changeset": 137470172,
+            "user": "bartgron",
+            "uid": 13948004,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-01-24",
                 "defibrillator:location:pl": "wydział  Nauk o Zdrowiu CM UJ, obok portierni, dostępny pn-pt 7.00-21.30",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
