@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-18T09:31:49Z",
+        "timestamp_osm_base": "2023-06-18T10:32:45Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105753,6 +105753,23 @@
                 "defibrillator:location:en": "On the wall near entrance",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10983694440,
+            "lat": 51.0938593,
+            "lon": 16.9736116,
+            "timestamp": "2023-06-18T09:44:20Z",
+            "version": 1,
+            "changeset": 137471994,
+            "user": "maraf24",
+            "uid": 2098272,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "w informacji-lewa strona po wejściu",
+                "emergency": "defibrillator",
+                "level": "0"
             }
         },
         {
