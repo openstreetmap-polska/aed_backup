@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-18T13:32:43Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-18T14:32:35Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105805,6 +105805,24 @@
                 "defibrillator:location:en": "On the wall on the 1st floor in the stairwell.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10984108403,
+            "lat": 52.1816535,
+            "lon": 20.8876078,
+            "timestamp": "2023-06-18T14:15:00Z",
+            "version": 1,
+            "changeset": 137480282,
+            "user": "domi_nick",
+            "uid": 2850965,
+            "tags": {
+                "defibrillator:location": "Na prawo od wejścia głównego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Restauracja „U Ochmanów”"
             }
         },
         {
