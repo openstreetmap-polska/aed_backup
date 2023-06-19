@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-19T14:32:34Z",
+        "timestamp_osm_base": "2023-06-19T15:32:11Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105772,6 +105772,25 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Wieniawie",
                 "phone": "+48663331656"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10989714005,
+            "lat": 52.7957564,
+            "lon": 21.8836872,
+            "timestamp": "2023-06-19T15:01:33Z",
+            "version": 1,
+            "changeset": 137524044,
+            "user": "SłońQ",
+            "uid": 19624254,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-06-19",
+                "defibrillator:location:pl": "ul. Warszawska 4. Muzeum - Dom Rodziny Pileckich. W holu muzeum na ścianie przy windzie znajduje się kapsuła z defibrylatorem.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
