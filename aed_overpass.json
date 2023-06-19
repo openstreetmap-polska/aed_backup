@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-19T06:32:29Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-19T07:31:55Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -23793,18 +23793,19 @@
         {
             "type": "node",
             "id": 9447542078,
-            "lat": 51.3618898,
-            "lon": 20.7939567,
-            "timestamp": "2022-10-06T17:29:20Z",
-            "version": 3,
-            "changeset": 127112333,
-            "user": "ptarac",
-            "uid": 11496679,
+            "lat": 51.3618848,
+            "lon": 20.7939875,
+            "timestamp": "2023-06-19T07:25:57Z",
+            "version": 4,
+            "changeset": 137504380,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Wieniawa",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Wieniawie"
             }
         },
@@ -101843,25 +101844,6 @@
         },
         {
             "type": "node",
-            "id": 10845355106,
-            "lat": 53.1406443,
-            "lon": 16.7742397,
-            "timestamp": "2023-04-27T05:30:39Z",
-            "version": 1,
-            "changeset": 135410008,
-            "user": "ThuleHutaSzklana",
-            "uid": 19083026,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Na ścianie w hali montażu",
-                "defibrillator:location:en": "On the wall in the assembly area",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "+48 67 264 19 01"
-            }
-        },
-        {
-            "type": "node",
             "id": 10845520199,
             "lat": 52.2191996,
             "lon": 16.5340376,
@@ -105771,6 +105753,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Restauracja „U Ochmanów”"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10988901865,
+            "lat": 51.3619049,
+            "lon": 20.7939374,
+            "timestamp": "2023-06-19T07:25:57Z",
+            "version": 1,
+            "changeset": 137504380,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrzbej ścianie budynku, przy drzwiach garażowych",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Wieniawie",
+                "phone": "+48663331656"
             }
         },
         {
