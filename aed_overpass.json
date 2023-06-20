@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-20T05:32:21Z",
+        "timestamp_osm_base": "2023-06-20T06:32:45Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75249,11 +75249,11 @@
             "id": 10155487821,
             "lat": 49.645902,
             "lon": 19.7803505,
-            "timestamp": "2022-11-03T20:26:40Z",
-            "version": 1,
-            "changeset": 128454614,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-06-20T06:18:53Z",
+            "version": 2,
+            "changeset": 137545452,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W pojeździe ratowniczo-gaśniczym.",
@@ -75261,7 +75261,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "operator": "OSP Bystra"
+                "operator": "OSP Bystra Podhalańska"
             }
         },
         {
@@ -105654,16 +105654,18 @@
             "id": 10980165805,
             "lat": 49.6459573,
             "lon": 19.780297,
-            "timestamp": "2023-06-16T08:26:47Z",
-            "version": 2,
-            "changeset": 137403477,
-            "user": "Marek Drobny",
-            "uid": 19592562,
+            "timestamp": "2023-06-20T06:18:53Z",
+            "version": 3,
+            "changeset": 137545452,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "KAPSUŁA AED ROTAID - PODGRZEWANA Z ALARMEM zamontowana na ścianie budynku OSP Bystra Podhalańska, otwarcie kapsuły uruchamia  SYRENĄ STRAŻACKA",
+                "defibrillator:location": "Na ścianie budynku OSP Bystra Podhalańska, otwarcie kapsuły uruchamia syrenę strażacką",
+                "description": "KAPSUŁA AED ROTAID - PODGRZEWANA Z ALARMEM",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "OSP Bystra Podhalańska"
             }
         },
