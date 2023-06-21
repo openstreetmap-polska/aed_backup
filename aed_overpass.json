@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-21T21:32:43Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-21T22:31:50Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105867,6 +105867,25 @@
                 "defibrillator:location": "Na bocznej ścianie remizy OSP Dobroszyce",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10995894305,
+            "lat": 52.3815846,
+            "lon": 17.1614759,
+            "timestamp": "2023-06-21T21:35:22Z",
+            "version": 1,
+            "changeset": 137622990,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na elewacji z prawej strony od wejścia, od ul. Szkolnej",
+                "defibrillator:location:en": "on the right side of entrance",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 61 8978316"
             }
         },
         {
