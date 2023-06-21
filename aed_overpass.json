@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-21T15:32:17Z",
+        "timestamp_osm_base": "2023-06-21T16:32:16Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105850,6 +105850,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Medicover"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10994972405,
+            "lat": 51.269949,
+            "lon": 17.3451389,
+            "timestamp": "2023-06-21T15:54:05Z",
+            "version": 1,
+            "changeset": 137611918,
+            "user": "Zgo Tom",
+            "uid": 19419833,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na bocznej ścianie remizy OSP Dobroszyce",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
