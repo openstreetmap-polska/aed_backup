@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-21T06:32:14Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-21T07:32:35Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105812,6 +105812,26 @@
                 "indoor": "yes",
                 "operator": "Termy Cieplickie",
                 "source": "https://lwowecki.info/topielec-na-termach-cieplickich/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10994072300,
+            "lat": 50.0358987,
+            "lon": 19.2056948,
+            "timestamp": "2023-06-21T06:53:23Z",
+            "version": 1,
+            "changeset": 137589932,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku Osiedlowego Domu Kultury",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 09:00-19:30",
+                "operator": "Osiedlowy Dom Kultury Zasole",
+                "phone": "+48338411195"
             }
         },
         {
