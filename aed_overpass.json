@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-22T11:32:44Z",
+        "timestamp_osm_base": "2023-06-22T12:32:44Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105991,6 +105991,24 @@
                 "defibrillator:location": "Na ścianie budynku Inneko RCS",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10997164001,
+            "lat": 52.2994485,
+            "lon": 15.7680358,
+            "timestamp": "2023-06-22T11:38:48Z",
+            "version": 1,
+            "changeset": 137644051,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator znajduje się na wyposażeniu Zespołu Szkół Leśnych w Rogozińcu",
+                "emergency": "defibrillator",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Zespół Szkół Leśnych w Rogozińcu",
+                "phone": "+48683840241"
             }
         },
         {
