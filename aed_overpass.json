@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-22T15:32:09Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-22T16:32:40Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105908,25 +105908,6 @@
         },
         {
             "type": "node",
-            "id": 10996639416,
-            "lat": 52.73597,
-            "lon": 14.71215,
-            "timestamp": "2023-06-22T07:27:52Z",
-            "version": 1,
-            "changeset": 137633576,
-            "user": "Łukasz Grajewski",
-            "uid": 19650730,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "W samochodzie OSP Czarnów",
-                "emergency": "defibrillator",
-                "emergency:phone": "112",
-                "indoor": "yes",
-                "phone": "+48722315033"
-            }
-        },
-        {
-            "type": "node",
             "id": 10996640106,
             "lat": 52.4938434,
             "lon": 14.6536214,
@@ -106009,6 +105990,20 @@
                 "opening_hours": "Mo-Fr 07:00-15:00",
                 "operator": "Zespół Szkół Leśnych w Rogozińcu",
                 "phone": "+48683840241"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10997716317,
+            "lat": 53.0124753,
+            "lon": 18.6040023,
+            "timestamp": "2023-06-22T15:52:25Z",
+            "version": 1,
+            "changeset": 137653512,
+            "user": "Barroszt",
+            "uid": 16972410,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
