@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-22T06:32:16Z",
+        "timestamp_osm_base": "2023-06-22T07:32:13Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105886,6 +105886,58 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "+48 61 8978316"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996599805,
+            "lat": 50.0266538,
+            "lon": 20.0377445,
+            "timestamp": "2023-06-22T06:33:59Z",
+            "version": 1,
+            "changeset": 137631613,
+            "user": "Mateusz Balcer",
+            "uid": 19650351,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pomieszczenie pierwszej pomocy na hali produkcyjnej. (Po wejściu na halę produkcyjną głównym wejściem pierwsze drzwi po prawej stronie)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996639416,
+            "lat": 52.73597,
+            "lon": 14.71215,
+            "timestamp": "2023-06-22T07:27:52Z",
+            "version": 1,
+            "changeset": 137633576,
+            "user": "Łukasz Grajewski",
+            "uid": 19650730,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie OSP Czarnów",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "+48722315033"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996640106,
+            "lat": 52.4938434,
+            "lon": 14.6536214,
+            "timestamp": "2023-06-22T07:10:40Z",
+            "version": 1,
+            "changeset": 137632911,
+            "user": "OSP Górzyca",
+            "uid": 4638699,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym Mercedes Atego 399F21",
+                "emergency": "defibrillator"
             }
         },
         {
