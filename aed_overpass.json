@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-22T09:31:59Z",
+        "timestamp_osm_base": "2023-06-22T10:31:56Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105930,15 +105930,67 @@
             "id": 10996640106,
             "lat": 52.4938434,
             "lon": 14.6536214,
-            "timestamp": "2023-06-22T07:10:40Z",
-            "version": 1,
-            "changeset": 137632911,
+            "timestamp": "2023-06-22T09:53:21Z",
+            "version": 2,
+            "changeset": 137640041,
             "user": "OSP Górzyca",
             "uid": 4638699,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W pojeździe ratowniczo-gaśniczym Mercedes Atego 399F21",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Górzycy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996959608,
+            "lat": 52.7321679,
+            "lon": 15.2455309,
+            "timestamp": "2023-06-22T09:55:52Z",
+            "version": 1,
+            "changeset": 137640162,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana budynku INNEKO",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996991405,
+            "lat": 52.7494759,
+            "lon": 15.2177971,
+            "timestamp": "2023-06-22T09:57:09Z",
+            "version": 1,
+            "changeset": 137640162,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy bramie głównej cmentarza",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10996997805,
+            "lat": 52.7401548,
+            "lon": 15.2688249,
+            "timestamp": "2023-06-22T10:03:43Z",
+            "version": 1,
+            "changeset": 137640162,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Inneko RCS",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
