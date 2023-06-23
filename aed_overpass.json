@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T07:32:44Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-23T08:32:34Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106025,6 +106025,26 @@
                 "operator": "II Liceum Ogólnokształcące w Piszu",
                 "source": "https://www.piszanin.pl/6,145,nowy-ogolniak-ma-defibrylator.html",
                 "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001274577,
+            "lat": 51.8002607,
+            "lon": 15.2472539,
+            "timestamp": "2023-06-23T08:08:35Z",
+            "version": 1,
+            "changeset": 137677068,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do Urzędu Miasta",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Nowogrodzie Bobrzańskim",
+                "source": "https://newslubuski.pl/spoleczne/14675-defibrylatory-aed-stana-w-nowogrodzie-bobrzanskim.html"
             }
         },
         {
