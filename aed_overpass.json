@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T08:32:34Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-23T09:32:28Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106045,6 +106045,218 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Nowogrodzie Bobrzańskim",
                 "source": "https://newslubuski.pl/spoleczne/14675-defibrylatory-aed-stana-w-nowogrodzie-bobrzanskim.html"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001317905,
+            "lat": 52.2186704,
+            "lon": 16.3615786,
+            "timestamp": "2023-06-23T08:43:56Z",
+            "version": 1,
+            "changeset": 137678402,
+            "user": "marcinnovvakk",
+            "uid": 19660697,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "defibrylator znajduje się na wyposażeniu pojazdu pożarniczego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48477717411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001325605,
+            "lat": 52.2179719,
+            "lon": 16.3645075,
+            "timestamp": "2023-06-23T08:47:08Z",
+            "version": 1,
+            "changeset": 137678539,
+            "user": "marcinnovvakk",
+            "uid": 19660697,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "defibrylator znajduje się na wyposażeniu pojazdu pożarniczego",
+                "emergency": "defibrillator",
+                "phone": "+48477717411"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346513,
+            "lat": 50.1886511,
+            "lon": 18.6221023,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Centrum Przesiadkowym w Szczygłowicach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346514,
+            "lat": 50.2269866,
+            "lon": 18.6573652,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W Centrum Przesiadkowym FOCH",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346515,
+            "lat": 50.2191993,
+            "lon": 18.6800808,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na terenie Stadionu Miejskiego",
+                "emergency": "defibrillator",
+                "fixme": "Dokładna lokalizacja do weryfikacji",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "MOSiR Knurów",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346520,
+            "lat": 50.2206789,
+            "lon": 18.6685723,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Straży Miejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Straż Miejska",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346521,
+            "lat": 50.1888265,
+            "lon": 18.6257277,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 4",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346522,
+            "lat": 50.2305174,
+            "lon": 18.6585319,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 6",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346523,
+            "lat": 50.2082762,
+            "lon": 18.6424744,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 3",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346524,
+            "lat": 50.2223156,
+            "lon": 18.6763665,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 1",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001346525,
+            "lat": 50.2326461,
+            "lon": 18.6564978,
+            "timestamp": "2023-06-23T09:10:51Z",
+            "version": 1,
+            "changeset": 137679561,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 7",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
             }
         },
         {
