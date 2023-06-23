@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T05:32:40Z",
+        "timestamp_osm_base": "2023-06-23T06:32:14Z",
         "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105911,14 +105911,14 @@
             "id": 10996640106,
             "lat": 52.4938434,
             "lon": 14.6536214,
-            "timestamp": "2023-06-22T09:53:21Z",
-            "version": 2,
-            "changeset": 137640041,
+            "timestamp": "2023-06-23T05:40:44Z",
+            "version": 3,
+            "changeset": 137671837,
             "user": "OSP Górzyca",
             "uid": 4638699,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym Mercedes Atego 399F21",
+                "defibrillator:location": "W pojeździe ratowniczo-gaśniczym Mercedes Atego 399F22",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Górzycy"
             }
