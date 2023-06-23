@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T16:32:45Z",
-        "timestamp_areas_base": "2023-06-11T03:07:17Z",
+        "timestamp_osm_base": "2023-06-23T17:32:13Z",
+        "timestamp_areas_base": "2023-06-13T15:42:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -35295,13 +35295,13 @@
             "id": 9490795361,
             "lat": 53.5594951,
             "lon": 14.8558712,
-            "timestamp": "2022-12-29T08:11:36Z",
-            "version": 5,
-            "changeset": 130632142,
+            "timestamp": "2023-06-23T17:04:40Z",
+            "version": 6,
+            "changeset": 137696754,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "permissive",
+                "access": "no",
                 "defibrillator:location": "Hala Nożyc",
                 "defibrillator:location:en": "Scissors hall",
                 "emergency": "defibrillator",
