@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T19:31:46Z",
-        "timestamp_areas_base": "2023-06-13T15:42:54Z",
+        "timestamp_osm_base": "2023-06-23T20:32:14Z",
+        "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106297,6 +106297,23 @@
                 "level": "1",
                 "operator": "Urząd Miasta w Oświęcimiu. Wydział Spraw Obywatelskich",
                 "phone": "+48338429100"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11002189707,
+            "lat": 52.0238426,
+            "lon": 15.7343113,
+            "timestamp": "2023-06-23T19:38:35Z",
+            "version": 1,
+            "changeset": 137701089,
+            "user": "OSP Trzebiechów",
+            "uid": 19666166,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy OSP",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
