@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T10:32:46Z",
+        "timestamp_osm_base": "2023-06-23T11:32:43Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106256,6 +106256,26 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Miejska Szkoła Podstawowa nr 7",
+                "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001458672,
+            "lat": 50.2338586,
+            "lon": 18.6537469,
+            "timestamp": "2023-06-23T10:34:21Z",
+            "version": 1,
+            "changeset": 137682814,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Miejska Szkoła Podstawowa nr 9",
                 "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
             }
         },
