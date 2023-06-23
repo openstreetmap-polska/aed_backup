@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-23T13:32:11Z",
+        "timestamp_osm_base": "2023-06-23T14:32:46Z",
         "timestamp_areas_base": "2023-06-11T03:07:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106277,6 +106277,26 @@
                 "opening_hours": "24/7",
                 "operator": "Miejska Szkoła Podstawowa nr 9",
                 "source": "https://iknurow.pl/knurow-defibrylatory-aed-do-ratowania-zycia-w-ramach-budzetu-obywatelskiego-zostaly-zainstalowane/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11001731224,
+            "lat": 50.0385029,
+            "lon": 19.2224286,
+            "timestamp": "2023-06-23T13:52:18Z",
+            "version": 1,
+            "changeset": 137690380,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się na pierwszym piętrze, obok pokoju numer 7",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "operator": "Urząd Miasta w Oświęcimiu. Wydział Spraw Obywatelskich",
+                "phone": "+48338429100"
             }
         },
         {
