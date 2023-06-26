@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-26T14:32:29Z",
+        "timestamp_osm_base": "2023-06-26T15:32:45Z",
         "timestamp_areas_base": "2023-06-26T13:12:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106456,6 +106456,60 @@
                 "access": "customers",
                 "defibrillator:location": "W LuxMed, na drugim pietrze",
                 "defibrillator:location:en": "Inside LuxMed, second floor",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007871605,
+            "lat": 50.0267404,
+            "lon": 22.0162023,
+            "timestamp": "2023-06-26T14:50:06Z",
+            "version": 1,
+            "changeset": 137796545,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy recepcji Karowa Office pod telewizorem",
+                "defibrillator:location:en": "Next to the reception of Karowa Office, under the TV",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007910105,
+            "lat": 50.0338848,
+            "lon": 21.9967459,
+            "timestamp": "2023-06-26T15:13:44Z",
+            "version": 1,
+            "changeset": 137797518,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Obok izby przyjęć",
+                "defibrillator:location:en": "Next to Izba Przyjęć (front desk)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007924105,
+            "lat": 50.0364596,
+            "lon": 21.9989099,
+            "timestamp": "2023-06-26T15:24:01Z",
+            "version": 1,
+            "changeset": 137797889,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na korytarzu, przy tylnim wyjściu, obok schodów",
+                "defibrillator:location:en": "In the corridor, next to the back door, next to the stairs",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
