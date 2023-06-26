@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-26T06:32:15Z",
+        "timestamp_osm_base": "2023-06-26T07:31:49Z",
         "timestamp_areas_base": "2023-06-26T03:52:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106318,6 +106318,24 @@
         },
         {
             "type": "node",
+            "id": 11006947902,
+            "lat": 50.9410083,
+            "lon": 20.954259,
+            "timestamp": "2023-06-26T07:15:54Z",
+            "version": 1,
+            "changeset": 137777721,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na budynku OSP w Bodzentynie.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Bodzentynie"
+            }
+        },
+        {
+            "type": "node",
             "id": 11006954005,
             "lat": 52.3267864,
             "lon": 21.1909082,
@@ -106332,6 +106350,42 @@
                 "defibrillator:location:pl": "Na ścianie budynku, obok boksu dla wózków sklepowych",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007043017,
+            "lat": 50.9406331,
+            "lon": 20.9575099,
+            "timestamp": "2023-06-26T07:13:03Z",
+            "version": 1,
+            "changeset": 137777610,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się przy wejściu do sklepu Lewiatan.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Lewiatan"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007055162,
+            "lat": 50.9442667,
+            "lon": 20.9485674,
+            "timestamp": "2023-06-26T07:22:02Z",
+            "version": 1,
+            "changeset": 137777959,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje sie na zewnętrzej ścianie budynku szkoły podstawowej.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Szkoła Podstawowa w Bodzentynie"
             }
         },
         {
