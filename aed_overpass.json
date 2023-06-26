@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-26T12:32:32Z",
-        "timestamp_areas_base": "2023-06-26T08:35:16Z",
+        "timestamp_osm_base": "2023-06-26T13:32:10Z",
+        "timestamp_areas_base": "2023-06-26T08:29:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106404,6 +106404,42 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Delikatesy Centrum"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007741106,
+            "lat": 50.0400937,
+            "lon": 22.0111042,
+            "timestamp": "2023-06-26T13:11:25Z",
+            "version": 1,
+            "changeset": 137792664,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy portierni/informacji ogólnej, pod telewizorem",
+                "defibrillator:location:en": "Next to Portiernia/Informacja Ogólna (information office), under the TV",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007761405,
+            "lat": 50.0354926,
+            "lon": 22.010612,
+            "timestamp": "2023-06-26T13:25:36Z",
+            "version": 1,
+            "changeset": 137793274,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu",
+                "defibrillator:location:en": "At the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
