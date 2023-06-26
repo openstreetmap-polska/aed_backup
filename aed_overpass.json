@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-26T13:32:10Z",
-        "timestamp_areas_base": "2023-06-26T08:29:01Z",
+        "timestamp_osm_base": "2023-06-26T14:32:29Z",
+        "timestamp_areas_base": "2023-06-26T13:12:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106438,6 +106438,24 @@
                 "access": "customers",
                 "defibrillator:location": "Przy wejściu",
                 "defibrillator:location:en": "At the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11007847705,
+            "lat": 50.0277816,
+            "lon": 22.0134386,
+            "timestamp": "2023-06-26T14:32:23Z",
+            "version": 1,
+            "changeset": 137795696,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W LuxMed, na drugim pietrze",
+                "defibrillator:location:en": "Inside LuxMed, second floor",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
