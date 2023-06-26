@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-26T16:32:06Z",
+        "timestamp_osm_base": "2023-06-26T17:31:56Z",
         "timestamp_areas_base": "2023-06-26T13:19:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11882,23 +11882,6 @@
                 "defibrillator:location:en": "In fire-station wall",
                 "emergency": "defibrillator",
                 "location": "outdoor"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9413866821,
-            "lat": 50.0270387,
-            "lon": 22.0134813,
-            "timestamp": "2022-01-12T21:42:33Z",
-            "version": 1,
-            "changeset": 116083640,
-            "user": "Mentisekk",
-            "uid": 11267783,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Multikino: obok kas",
-                "emergency": "defibrillator",
-                "location": "indoor"
             }
         },
         {
@@ -106411,17 +106394,19 @@
             "id": 11007741106,
             "lat": 50.0400937,
             "lon": 22.0111042,
-            "timestamp": "2023-06-26T13:11:25Z",
-            "version": 1,
-            "changeset": 137792664,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Przy portierni/informacji ogólnej, pod telewizorem",
-                "defibrillator:location:en": "Next to Portiernia/Informacja Ogólna (information office), under the TV",
+                "defibrillator:location": "W budynku ZUS, przy portierni/informacji ogólnej, pod telewizorem",
+                "defibrillator:location:en": "Inside the ZUS building, next to the front desk (portiernia/informacja ogólna), under the TV",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 8:00-17:00; Tu-Fr 8:00-15:00"
             }
         },
         {
@@ -106429,17 +106414,19 @@
             "id": 11007761405,
             "lat": 50.0354926,
             "lon": 22.010612,
-            "timestamp": "2023-06-26T13:25:36Z",
-            "version": 1,
-            "changeset": 137793274,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Przy wejściu",
-                "defibrillator:location:en": "At the entrance",
+                "defibrillator:location": "W budynku MPWiK, przy wejściu",
+                "defibrillator:location:en": "Inside the MPWiK building, at the entrance",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:00-15:00"
             }
         },
         {
@@ -106447,17 +106434,19 @@
             "id": 11007847705,
             "lat": 50.0277816,
             "lon": 22.0134386,
-            "timestamp": "2023-06-26T14:32:23Z",
-            "version": 1,
-            "changeset": 137795696,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "W LuxMed, na drugim pietrze",
-                "defibrillator:location:en": "Inside LuxMed, second floor",
+                "defibrillator:location": "W LuxMed, na drugim piętrze Millenium Hall",
+                "defibrillator:location:en": "Inside LuxMed, on the second floor of Millenium Hall",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "2",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-14:00"
             }
         },
         {
@@ -106465,17 +106454,18 @@
             "id": 11007871605,
             "lat": 50.0267404,
             "lon": 22.0162023,
-            "timestamp": "2023-06-26T14:50:06Z",
-            "version": 1,
-            "changeset": 137796545,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Przy recepcji Karowa Office pod telewizorem",
-                "defibrillator:location:en": "Next to the reception of Karowa Office, under the TV",
+                "defibrillator:location:en": "Next to the front desk of the Karowa Office building, under the TV",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -106483,17 +106473,19 @@
             "id": 11007910105,
             "lat": 50.0338848,
             "lon": 21.9967459,
-            "timestamp": "2023-06-26T15:13:44Z",
-            "version": 1,
-            "changeset": 137797518,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Obok izby przyjęć",
-                "defibrillator:location:en": "Next to Izba Przyjęć (front desk)",
+                "defibrillator:location": "W budynku pogotowia ratunkowego, obok izby przyjęć",
+                "defibrillator:location:en": "Inside the emergency medical services (pogotowie ratunkowe) building, next to the front desk (izba przyjęć)",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -106501,17 +106493,18 @@
             "id": 11007924105,
             "lat": 50.0364596,
             "lon": 21.9989099,
-            "timestamp": "2023-06-26T15:24:01Z",
-            "version": 1,
-            "changeset": 137797889,
+            "timestamp": "2023-06-26T16:38:58Z",
+            "version": 2,
+            "changeset": 137800420,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na korytarzu, przy tylnim wyjściu, obok schodów",
-                "defibrillator:location:en": "In the corridor, next to the back door, next to the stairs",
+                "defibrillator:location": "Na korytarzu, przy tylnim wyjściu obok schodów",
+                "defibrillator:location:en": "In the corridor, next to the back door and stairs",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
