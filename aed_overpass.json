@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-27T10:32:46Z",
-        "timestamp_areas_base": "2023-06-27T08:11:45Z",
+        "timestamp_osm_base": "2023-06-27T11:32:45Z",
+        "timestamp_areas_base": "2023-06-27T07:58:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106521,6 +106521,24 @@
                 "access": "private",
                 "defibrillator:location": "Defibryaltor AED znajduje się na portiernii bramy głównej przy ulicy Annopol 3",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11010134105,
+            "lat": 52.150289,
+            "lon": 16.7499493,
+            "timestamp": "2023-06-27T11:02:46Z",
+            "version": 1,
+            "changeset": 137830540,
+            "user": "Stacja1523",
+            "uid": 19698944,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator jest dostępny w biurze firmy w godzinach otwarcia tj. Od pon do pt. 8:00-18:00\nSoboty 8:00-13:00\nW każdym innym czasie po uprzednim kontakcie telefonicznym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "606524875"
             }
         },
         {
