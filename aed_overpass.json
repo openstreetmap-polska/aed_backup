@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T06:32:41Z",
+        "timestamp_osm_base": "2023-06-28T07:31:52Z",
         "timestamp_areas_base": "2023-06-28T03:08:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106560,6 +106560,61 @@
                 "opening_hours": "",
                 "operator": "OSP Miłkowice",
                 "phone": "998/112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011680509,
+            "lat": 52.73597,
+            "lon": 14.71215,
+            "timestamp": "2023-06-28T07:24:58Z",
+            "version": 1,
+            "changeset": 137865149,
+            "user": "Gmina Górzyca",
+            "uid": 19706682,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the wall near entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 7591211"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011681111,
+            "lat": 52.4940684,
+            "lon": 14.6541953,
+            "timestamp": "2023-06-28T07:27:26Z",
+            "version": 1,
+            "changeset": 137865247,
+            "user": "Gmina Górzyca",
+            "uid": 19706682,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 7591211"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011773105,
+            "lat": 52.4944879,
+            "lon": 14.6561037,
+            "timestamp": "2023-06-28T07:29:10Z",
+            "version": 1,
+            "changeset": 137865247,
+            "user": "Gmina Górzyca",
+            "uid": 19706682,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "95 7591236"
             }
         },
         {
