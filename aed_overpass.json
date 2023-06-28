@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T08:32:15Z",
-        "timestamp_areas_base": "2023-06-28T03:08:35Z",
+        "timestamp_osm_base": "2023-06-28T09:32:44Z",
+        "timestamp_areas_base": "2023-06-28T07:26:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106615,6 +106615,43 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "95 7591236"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011882093,
+            "lat": 52.2384585,
+            "lon": 16.3928766,
+            "timestamp": "2023-06-28T08:38:25Z",
+            "version": 1,
+            "changeset": 137867905,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Grąblewo",
+                "source": "https://grodzisk.naszemiasto.pl/otworzyly-kapsule-z-defibrylatorem-aed-z-ciekawosci/ar/c1-9369177"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011906206,
+            "lat": 52.7255276,
+            "lon": 15.2447754,
+            "timestamp": "2023-06-28T09:14:28Z",
+            "version": 1,
+            "changeset": 137869436,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie zewnętrznej budynku Inkubatora Przedsiębiorczości",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
