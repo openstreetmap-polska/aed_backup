@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T05:32:30Z",
-        "timestamp_areas_base": "2023-06-28T02:47:13Z",
+        "timestamp_osm_base": "2023-06-28T06:32:41Z",
+        "timestamp_areas_base": "2023-06-28T03:08:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106539,6 +106539,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "606524875"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011640314,
+            "lat": 51.2553982,
+            "lon": 16.0616443,
+            "timestamp": "2023-06-28T06:32:27Z",
+            "version": 1,
+            "changeset": 137863232,
+            "user": "Kuba9987",
+            "uid": 19706309,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Remiza Ochotniczej Straży Pożarnej w Miłkowicach",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP Miłkowice",
+                "phone": "998/112"
             }
         },
         {
