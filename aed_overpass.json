@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T09:32:44Z",
+        "timestamp_osm_base": "2023-06-28T10:32:14Z",
         "timestamp_areas_base": "2023-06-28T07:26:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106652,6 +106652,24 @@
                 "defibrillator:location": "Na ścianie zewnętrznej budynku Inkubatora Przedsiębiorczości",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11011996605,
+            "lat": 52.3688791,
+            "lon": 17.3826029,
+            "timestamp": "2023-06-28T09:35:00Z",
+            "version": 1,
+            "changeset": 137870259,
+            "user": "ricorpolska",
+            "uid": 19653662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Sekretariat firmy",
+                "defibrillator:location:en": "Company reception",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
