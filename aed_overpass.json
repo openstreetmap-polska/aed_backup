@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T13:32:46Z",
+        "timestamp_osm_base": "2023-06-28T14:31:53Z",
         "timestamp_areas_base": "2023-06-28T12:32:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106758,6 +106758,74 @@
                 "opening_hours": "24/7",
                 "operator": "Straż Graniczna - Nadbużański Oddział - Placówka Włodawa",
                 "phone": "+48825727400"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012417605,
+            "lat": 51.223016,
+            "lon": 18.5701153,
+            "timestamp": "2023-06-28T13:52:41Z",
+            "version": 1,
+            "changeset": 137880803,
+            "user": "GOKOWieluń",
+            "uid": 19710469,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "ul. Zamenhofa 17",
+                "defibrillator:location:en": "W gablocie, przy wejściu do budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012417607,
+            "lat": 51.2303692,
+            "lon": 18.5775032,
+            "timestamp": "2023-06-28T14:03:27Z",
+            "version": 1,
+            "changeset": 137880803,
+            "user": "GOKOWieluń",
+            "uid": 19710469,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012434105,
+            "lat": 51.2225718,
+            "lon": 18.568568,
+            "timestamp": "2023-06-28T14:04:27Z",
+            "version": 1,
+            "changeset": 137880803,
+            "user": "GOKOWieluń",
+            "uid": 19710469,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W gablocie, przy wejściu do Przedsiębiorstwa Komunalnego Sp. z o.o. w Wieluniu",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012448605,
+            "lat": 51.1911851,
+            "lon": 18.6304629,
+            "timestamp": "2023-06-28T14:16:55Z",
+            "version": 1,
+            "changeset": 137880803,
+            "user": "GOKOWieluń",
+            "uid": 19710469,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Składowisko Odpadów Komunalnych w Rudzie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
