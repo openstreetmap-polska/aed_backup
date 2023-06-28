@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T10:32:14Z",
+        "timestamp_osm_base": "2023-06-28T11:32:36Z",
         "timestamp_areas_base": "2023-06-28T07:26:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106668,6 +106668,75 @@
                 "access": "customers",
                 "defibrillator:location": "Sekretariat firmy",
                 "defibrillator:location:en": "Company reception",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012127005,
+            "lat": 52.1942512,
+            "lon": 20.940779,
+            "timestamp": "2023-06-28T10:57:57Z",
+            "version": 1,
+            "changeset": 137873775,
+            "user": "stefciostefcio",
+            "uid": 2408192,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Lobby desk",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012127505,
+            "lat": 52.1941345,
+            "lon": 20.941412,
+            "timestamp": "2023-06-28T10:58:17Z",
+            "version": 1,
+            "changeset": 137873775,
+            "user": "stefciostefcio",
+            "uid": 2408192,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja",
+                "defibrillator:location:en": "Lobby desk",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012134405,
+            "lat": 52.194245,
+            "lon": 20.8860418,
+            "timestamp": "2023-06-28T11:00:40Z",
+            "version": 1,
+            "changeset": 137873775,
+            "user": "stefciostefcio",
+            "uid": 2408192,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Państwowa Straż Pożarna",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012134805,
+            "lat": 52.194383,
+            "lon": 20.8861829,
+            "timestamp": "2023-06-28T11:01:08Z",
+            "version": 1,
+            "changeset": 137873775,
+            "user": "stefciostefcio",
+            "uid": 2408192,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W wybranych pojazdach Ochotniczej Straży Pożarnej Ursus",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
