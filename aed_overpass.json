@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-28T11:32:36Z",
-        "timestamp_areas_base": "2023-06-28T07:26:45Z",
+        "timestamp_osm_base": "2023-06-28T12:32:02Z",
+        "timestamp_areas_base": "2023-06-28T07:50:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106739,6 +106739,25 @@
                 "defibrillator:location": "W wybranych pojazdach Ochotniczej Straży Pożarnej Ursus",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11012191113,
+            "lat": 51.5584875,
+            "lon": 23.5614205,
+            "timestamp": "2023-06-28T11:42:56Z",
+            "version": 1,
+            "changeset": 137875504,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na zewnętrznej ścianie budynku",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Straż Graniczna - Nadbużański Oddział - Placówka Włodawa",
+                "phone": "+48825727400"
             }
         },
         {
