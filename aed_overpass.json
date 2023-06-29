@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-29T09:32:45Z",
+        "timestamp_osm_base": "2023-06-29T10:31:55Z",
         "timestamp_areas_base": "2023-06-29T06:54:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66431,14 +66431,14 @@
             "id": 9857431517,
             "lat": 50.0446721,
             "lon": 21.9554455,
-            "timestamp": "2022-06-30T07:14:25Z",
-            "version": 1,
-            "changeset": 123030962,
+            "timestamp": "2023-06-29T09:34:42Z",
+            "version": 2,
+            "changeset": 137910659,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Punkt pobrań naprzeciw rejestracji.",
+                "defibrillator:location": "Ściana naprzeciw rejestracji.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 177421315"
