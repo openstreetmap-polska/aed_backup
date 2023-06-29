@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-29T10:31:55Z",
-        "timestamp_areas_base": "2023-06-29T06:54:00Z",
+        "timestamp_osm_base": "2023-06-29T11:32:02Z",
+        "timestamp_areas_base": "2023-06-29T07:29:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106659,17 +106659,18 @@
             "id": 11011996605,
             "lat": 52.3688791,
             "lon": 17.3826029,
-            "timestamp": "2023-06-28T09:35:00Z",
-            "version": 1,
-            "changeset": 137870259,
-            "user": "ricorpolska",
-            "uid": 19653662,
+            "timestamp": "2023-06-29T10:55:37Z",
+            "version": 2,
+            "changeset": 137913731,
+            "user": "Ricor Polska",
+            "uid": 19718264,
             "tags": {
-                "access": "customers",
                 "defibrillator:location": "Sekretariat firmy",
                 "defibrillator:location:en": "Company reception",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "operator": "Ricor Polska Sp. z o. o."
             }
         },
         {
