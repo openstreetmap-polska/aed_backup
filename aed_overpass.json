@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-29T18:32:31Z",
-        "timestamp_areas_base": "2023-06-29T17:03:27Z",
+        "timestamp_osm_base": "2023-06-29T19:32:17Z",
+        "timestamp_areas_base": "2023-06-29T16:19:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106861,6 +106861,25 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11014556505,
+            "lat": 52.155534,
+            "lon": 20.1797011,
+            "timestamp": "2023-06-29T19:01:54Z",
+            "version": 1,
+            "changeset": 137930834,
+            "user": "StrażakOSPnowasucha",
+            "uid": 19722453,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator znajduje się w samochodach strażackich. W razie potrzeby użycia skontaktować się z centralą alarmową (112). Strażacy natychmiastowo dostaną wiadomość o potrzebie udzielenia pomocy",
+                "defibrillator:location:en": "In case of emergency call 112. Firefighters will receive notification about emergency immediately",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "phone": "112"
             }
         },
         {
