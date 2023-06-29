@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-29T16:32:00Z",
+        "timestamp_osm_base": "2023-06-29T17:32:42Z",
         "timestamp_areas_base": "2023-06-29T12:13:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106844,6 +106844,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "95 7591296"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11014301005,
+            "lat": 50.2363052,
+            "lon": 18.9452613,
+            "timestamp": "2023-06-29T16:34:22Z",
+            "version": 1,
+            "changeset": 137926194,
+            "user": "HarryKrol",
+            "uid": 19672789,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no"
             }
         },
         {
