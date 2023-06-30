@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-06-30T18:31:50Z",
-        "timestamp_areas_base": "2023-06-30T15:49:40Z",
+        "timestamp_osm_base": "2023-06-30T19:32:45Z",
+        "timestamp_areas_base": "2023-06-30T16:50:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106880,6 +106880,57 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11016643405,
+            "lat": 51.6764871,
+            "lon": 16.7318716,
+            "timestamp": "2023-06-30T19:07:24Z",
+            "version": 1,
+            "changeset": 137970968,
+            "user": "Maciej Kazior",
+            "uid": 19731682,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11016644305,
+            "lat": 51.676509,
+            "lon": 16.7317685,
+            "timestamp": "2023-06-30T19:08:12Z",
+            "version": 1,
+            "changeset": 137970987,
+            "user": "Maciej Kazior",
+            "uid": 19731682,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11016644705,
+            "lat": 51.6771898,
+            "lon": 16.7317112,
+            "timestamp": "2023-06-30T19:08:51Z",
+            "version": 1,
+            "changeset": 137970998,
+            "user": "Maciej Kazior",
+            "uid": 19731682,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no"
             }
         },
         {
