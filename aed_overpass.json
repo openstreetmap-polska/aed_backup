@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-01T05:32:43Z",
+        "timestamp_osm_base": "2023-07-01T06:32:15Z",
         "timestamp_areas_base": "2023-07-01T01:16:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106914,6 +106914,24 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017266405,
+            "lat": 53.8233256,
+            "lon": 14.8415975,
+            "timestamp": "2023-07-01T05:36:03Z",
+            "version": 1,
+            "changeset": 137980167,
+            "user": "Gleus",
+            "uid": 16394621,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-07-01",
+                "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo-gasniczego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
