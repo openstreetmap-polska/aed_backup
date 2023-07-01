@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-01T15:32:15Z",
-        "timestamp_areas_base": "2023-07-01T10:38:46Z",
+        "timestamp_osm_base": "2023-07-01T16:32:56Z",
+        "timestamp_areas_base": "2023-07-01T15:20:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -60837,18 +60837,21 @@
         {
             "type": "node",
             "id": 9687663985,
-            "lat": 52.5613343,
+            "lat": 52.5613325,
             "lon": 19.6816545,
-            "timestamp": "2022-04-23T10:42:50Z",
-            "version": 1,
-            "changeset": 120085267,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-07-01T16:32:30Z",
+            "version": 2,
+            "changeset": 137998804,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Obecnie Trwa Remont Stadionu, Tymczasowe Miejsce Zamontowania – Budynek Portierni, Wejście Furtką Od Ul. 7-go Czerwca Przy Skrzyżowaniu z Ul. Łukasiewicza.",
+                "defibrillator:location": "Obecnie trwa remont stadionu, tymczasowe miejsce zamontowania – budynek portierni, wejście furtką od ul. 7-go Czerwca przy skrzyżowaniu z ul. Łukasiewicza.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "mobile": "+48 577 890 338",
+                "opening_hours": "24/7",
+                "source": "Informacja z Urzędu Miasta Płock."
             }
         },
         {
@@ -107063,6 +107066,20 @@
                 "emergency": "defibrillator",
                 "fixme": "dokładna lokalizacja",
                 "source": "https://www.facebook.com/Mrzyglodstronanieoficjalna/posts/pfbid02fB5qsNRN78HBwVmenH5MY29Tib7iJpk2tnADqSZkUGFASiCZz8CFYuTusGdJ1shdl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11018078651,
+            "lat": 49.8211613,
+            "lon": 19.0427531,
+            "timestamp": "2023-07-01T15:50:49Z",
+            "version": 1,
+            "changeset": 137997437,
+            "user": "duran_defrost",
+            "uid": 13478299,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
