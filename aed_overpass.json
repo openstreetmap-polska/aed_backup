@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-01T07:32:15Z",
-        "timestamp_areas_base": "2023-07-01T02:21:58Z",
+        "timestamp_osm_base": "2023-07-01T08:32:12Z",
+        "timestamp_areas_base": "2023-07-01T07:04:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106932,6 +106932,119 @@
                 "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo-gasniczego",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017350379,
+            "lat": 52.707784,
+            "lon": 16.3832378,
+            "timestamp": "2023-07-01T08:05:27Z",
+            "version": 1,
+            "changeset": 137983010,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na klatce schodowej na parterze przychodni",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "source": "https://szamotuly.naszemiasto.pl/gmina-wronki-stawia-na-bezpieczenstwo-i-montuje/ar/c1-9372803"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017365102,
+            "lat": 52.3833708,
+            "lon": 16.8212727,
+            "timestamp": "2023-07-01T07:35:34Z",
+            "version": 1,
+            "changeset": 137982417,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na słupku przy chodniku w pobliżu Domu Kultury Stokrotka",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Dom Kultury Stokrotka",
+                "source": "https://poznan.nowinylokalne.pl/defibrylator-aed-przy-domu-kultury-stokrotka/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017372719,
+            "lat": 49.6446751,
+            "lon": 22.3003459,
+            "timestamp": "2023-07-01T07:54:34Z",
+            "version": 1,
+            "changeset": 137982793,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W szafeczce na ścianie przy wejściu do remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Dobra Szlachecka",
+                "source": "https://korsosanockie.pl/wiadomosci/defibrylator-na-budynku-strazy-w-dobrej-ma-sluzyc-mieszkancom-i-przyjezdnym/7wJRRIiDxnayFxntdAI8"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017373116,
+            "lat": 50.8084046,
+            "lon": 19.0772712,
+            "timestamp": "2023-07-01T07:59:38Z",
+            "version": 1,
+            "changeset": 137982903,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na stanowisku dla ratowników w Parku Lisiniec",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Park Lisiniec",
+                "source": "https://zycieczestochowy.pl/defibrylator-juz-dostepny-w-parku-lisiniec/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017390105,
+            "lat": 50.9610233,
+            "lon": 20.5398339,
+            "timestamp": "2023-07-01T08:12:14Z",
+            "version": 1,
+            "changeset": 137983183,
+            "user": "ZESPÓŁ RATOWNICTWA DROGOWEGO SRS",
+            "uid": 19487013,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017402905,
+            "lat": 53.7658956,
+            "lon": 20.5001271,
+            "timestamp": "2023-07-01T08:23:12Z",
+            "version": 1,
+            "changeset": 137983459,
+            "user": "ol-bogdan",
+            "uid": 19732124,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-07-01",
+                "emergency": "defibrillator"
             }
         },
         {
