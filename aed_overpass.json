@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-01T14:32:25Z",
+        "timestamp_osm_base": "2023-07-01T15:32:15Z",
         "timestamp_areas_base": "2023-07-01T10:38:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107045,6 +107045,24 @@
                 "access": "private",
                 "check_date": "2023-07-01",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11017982029,
+            "lat": 49.6173743,
+            "lon": 22.2720828,
+            "timestamp": "2023-07-01T14:32:52Z",
+            "version": 1,
+            "changeset": 137994706,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na kościele",
+                "emergency": "defibrillator",
+                "fixme": "dokładna lokalizacja",
+                "source": "https://www.facebook.com/Mrzyglodstronanieoficjalna/posts/pfbid02fB5qsNRN78HBwVmenH5MY29Tib7iJpk2tnADqSZkUGFASiCZz8CFYuTusGdJ1shdl"
             }
         },
         {
