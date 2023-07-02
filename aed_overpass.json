@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-02T08:32:09Z",
+        "timestamp_osm_base": "2023-07-02T09:32:44Z",
         "timestamp_areas_base": "2023-07-02T06:43:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107080,6 +107080,23 @@
             "uid": 13478299,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11019631807,
+            "lat": 51.957278,
+            "lon": 15.4919235,
+            "timestamp": "2023-07-02T08:54:10Z",
+            "version": 1,
+            "changeset": 138015159,
+            "user": "Łukasz Fabich",
+            "uid": 18627662,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dental Caffe",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
