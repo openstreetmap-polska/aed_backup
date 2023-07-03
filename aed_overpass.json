@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-03T11:31:59Z",
-        "timestamp_areas_base": "2023-07-03T06:22:06Z",
+        "timestamp_osm_base": "2023-07-03T12:32:30Z",
+        "timestamp_areas_base": "2023-07-03T11:06:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107204,17 +107204,18 @@
             "id": 11022144305,
             "lat": 50.0424864,
             "lon": 22.0161892,
-            "timestamp": "2023-07-03T10:39:08Z",
-            "version": 1,
-            "changeset": 138058466,
+            "timestamp": "2023-07-03T12:21:17Z",
+            "version": 2,
+            "changeset": 138062406,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy wejściu, wewnątrz budynku",
-                "defibrillator:location:en": "At the entrance, inside the building",
+                "defibrillator:location": "Przy wejściu, wewnątrz budynku Rzeszowskiego Towarzystwa Pomocy",
+                "defibrillator:location:en": "At the entrance, inside the building of Rzeszowskie Towarzystwo Pomocy",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -107222,17 +107223,18 @@
             "id": 11022238105,
             "lat": 50.0326624,
             "lon": 21.9922681,
-            "timestamp": "2023-07-03T11:16:49Z",
-            "version": 1,
-            "changeset": 138059944,
+            "timestamp": "2023-07-03T12:21:17Z",
+            "version": 2,
+            "changeset": 138062406,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W przychodni wojskowej, na korytarzu, obok pokoju nr 7",
-                "defibrillator:location:en": "Inside the medical clinic, on the corridor, next to the room number 7",
+                "defibrillator:location:en": "Inside the medical clinic, on the corridor, next to room number 7",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -107240,17 +107242,18 @@
             "id": 11022317805,
             "lat": 50.0352223,
             "lon": 21.9917825,
-            "timestamp": "2023-07-03T11:28:31Z",
-            "version": 1,
-            "changeset": 138060401,
+            "timestamp": "2023-07-03T12:21:17Z",
+            "version": 2,
+            "changeset": 138062406,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Wewnątrz budynku B/S/H Sprzęt Gospodarstwa Domowego, na klatce schodowej",
-                "defibrillator:location:en": "Inside the building of B/S/H Sprzęt Gospodarstwa Domowego, on the staircase",
+                "defibrillator:location": "Wewnątrz budynku B/S/H/ Sprzęt Gospodarstwa Domowego, na klatce schodowej, na wprost od wejścia",
+                "defibrillator:location:en": "Inside the building of B/S/H/ Sprzęt Gospodarstwa Domowego, on the staircase, straight from the entrance",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0.5"
             }
         },
         {
