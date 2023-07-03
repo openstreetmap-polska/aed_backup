@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-03T10:31:45Z",
+        "timestamp_osm_base": "2023-07-03T11:31:59Z",
         "timestamp_areas_base": "2023-07-03T06:22:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107197,6 +107197,60 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11022144305,
+            "lat": 50.0424864,
+            "lon": 22.0161892,
+            "timestamp": "2023-07-03T10:39:08Z",
+            "version": 1,
+            "changeset": 138058466,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu, wewnątrz budynku",
+                "defibrillator:location:en": "At the entrance, inside the building",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11022238105,
+            "lat": 50.0326624,
+            "lon": 21.9922681,
+            "timestamp": "2023-07-03T11:16:49Z",
+            "version": 1,
+            "changeset": 138059944,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przychodni wojskowej, na korytarzu, obok pokoju nr 7",
+                "defibrillator:location:en": "Inside the medical clinic, on the corridor, next to the room number 7",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11022317805,
+            "lat": 50.0352223,
+            "lon": 21.9917825,
+            "timestamp": "2023-07-03T11:28:31Z",
+            "version": 1,
+            "changeset": 138060401,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku B/S/H Sprzęt Gospodarstwa Domowego, na klatce schodowej",
+                "defibrillator:location:en": "Inside the building of B/S/H Sprzęt Gospodarstwa Domowego, on the staircase",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
