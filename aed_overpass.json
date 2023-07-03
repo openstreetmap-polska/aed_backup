@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-03T00:32:29Z",
+        "timestamp_osm_base": "2023-07-03T01:31:57Z",
         "timestamp_areas_base": "2023-07-02T20:55:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39936,16 +39936,20 @@
         {
             "type": "node",
             "id": 9520421217,
-            "lat": 52.2856857,
-            "lon": 16.9951901,
-            "timestamp": "2022-02-19T20:12:58Z",
-            "version": 1,
-            "changeset": 117617771,
-            "user": "JacekBura",
-            "uid": 2066095,
+            "lat": 52.2856615,
+            "lon": 16.9952338,
+            "timestamp": "2023-07-03T00:45:32Z",
+            "version": 2,
+            "changeset": 138042955,
+            "user": "xRBKx",
+            "uid": 12055012,
             "tags": {
-                "defibrillator:location": "OSP Kamionki",
-                "emergency": "defibrillator"
+                "defibrillator:location": "samochód pożarniczy marki STAR o kryptonimie PF 339-51",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Kamionki",
+                "phone": "511 084 804"
             }
         },
         {
@@ -107097,6 +107101,26 @@
                 "defibrillator:location": "Dental Caffe",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11021243550,
+            "lat": 52.2856685,
+            "lon": 16.9951603,
+            "timestamp": "2023-07-03T00:45:32Z",
+            "version": 1,
+            "changeset": 138042955,
+            "user": "xRBKx",
+            "uid": 12055012,
+            "tags": {
+                "defibrillator:location": "samochód pożarniczy marki MAN o kryptonimie PF 339-52",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "manufacturer": "Zoll AED Plus",
+                "opening_hours": "24/7",
+                "operator": "OSP Kamionki",
+                "phone": "511 084 804"
             }
         },
         {
