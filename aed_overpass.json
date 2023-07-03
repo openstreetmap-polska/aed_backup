@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-03T07:32:32Z",
-        "timestamp_areas_base": "2023-07-03T04:49:43Z",
+        "timestamp_osm_base": "2023-07-03T08:32:01Z",
+        "timestamp_areas_base": "2023-07-03T06:22:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105918,16 +105918,17 @@
             "id": 10996991405,
             "lat": 52.7494759,
             "lon": 15.2177971,
-            "timestamp": "2023-06-22T09:57:09Z",
-            "version": 1,
-            "changeset": 137640162,
-            "user": "Łukasz Fabich",
-            "uid": 18627662,
+            "timestamp": "2023-07-03T08:09:38Z",
+            "version": 2,
+            "changeset": 138052603,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy bramie głównej cmentarza",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -107121,6 +107122,81 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Kamionki",
                 "phone": "511 084 804"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11021664240,
+            "lat": 52.7408099,
+            "lon": 15.2684453,
+            "timestamp": "2023-07-03T08:09:38Z",
+            "version": 1,
+            "changeset": 138052603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy PKSie na Podmiejskiej",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11021664241,
+            "lat": 52.7258239,
+            "lon": 15.2456251,
+            "timestamp": "2023-07-03T08:09:38Z",
+            "version": 1,
+            "changeset": 138052603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Gorzowskiego Rynku Hurtowego",
+                "emergency": "defibrillator",
+                "fixme": "Lokalizacja do weryfikacji",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gorzowski Rynek Hurtowy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11021664243,
+            "lat": 52.7320681,
+            "lon": 15.245315,
+            "timestamp": "2023-07-03T08:09:38Z",
+            "version": 1,
+            "changeset": 138052603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na portierni Inneko",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Inneko"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11021707914,
+            "lat": 52.1318084,
+            "lon": 21.2511399,
+            "timestamp": "2023-07-03T08:15:32Z",
+            "version": 1,
+            "changeset": 138052831,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na stadionie Józefovii",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
