@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-04T08:32:27Z",
+        "timestamp_osm_base": "2023-07-04T09:32:00Z",
         "timestamp_areas_base": "2023-07-04T04:17:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107274,6 +107274,24 @@
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pozarna w Radzowicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11025034105,
+            "lat": 52.2734877,
+            "lon": 16.6913869,
+            "timestamp": "2023-07-04T08:57:52Z",
+            "version": 1,
+            "changeset": 138096742,
+            "user": "Stacja1523",
+            "uid": 19698944,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w biurze firmy. Dostępny od pon. - pt. 8:00-18:00\noraz w soboty 8:00-13:00",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "606524875"
             }
         },
         {

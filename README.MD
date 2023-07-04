@@ -1,14 +1,14 @@
-# AED backup and stats (2023-07-04 07:33:05)
+# AED backup and stats (2023-07-04 09:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 5696
+Total AED: 5697
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2023-01-01: 4181\
-Average daily growth since beginning of the year: 9.09
+Average daily growth since beginning of the year: 9.10
 
 ## Top creators
 | # | User | Created |
@@ -17,8 +17,8 @@ Average daily growth since beginning of the year: 9.09
 | 2 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 518 |
 | 3 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 361 |
 | 4 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
-| 5 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 334 |
-| 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 334 |
+| 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 334 |
+| 6 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 334 |
 | 7 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 333 |
 | 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 138 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 110 |
@@ -33,9 +33,9 @@ Average daily growth since beginning of the year: 9.09
 | 18 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 41 |
 | 19 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
 | 20 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 21 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
-| 22 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
-| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 28 |
+| 21 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 28 |
+| 22 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
+| 23 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
 | 24 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 26 |
 | 25 | [krzysmek](<https://www.openstreetmap.org/user/krzysmek>) | 25 |
 
