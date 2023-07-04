@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-04T05:32:30Z",
+        "timestamp_osm_base": "2023-07-04T06:32:11Z",
         "timestamp_areas_base": "2023-07-04T01:23:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107235,6 +107235,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0.5"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11024806056,
+            "lat": 49.806669,
+            "lon": 21.4365014,
+            "timestamp": "2023-07-04T06:15:08Z",
+            "version": 1,
+            "changeset": 138090478,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku OSP.",
+                "emergency": "defibrillator",
+                "emergency_telephone_code": "112",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pozarna w Kołaczycach"
             }
         },
         {
