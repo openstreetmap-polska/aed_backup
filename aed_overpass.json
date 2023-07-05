@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T10:31:56Z",
-        "timestamp_areas_base": "2023-07-05T08:28:30Z",
+        "timestamp_osm_base": "2023-07-05T11:32:19Z",
+        "timestamp_areas_base": "2023-07-05T10:34:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107318,9 +107318,9 @@
             "id": 11027411308,
             "lat": 50.0266511,
             "lon": 20.0377164,
-            "timestamp": "2023-07-05T09:08:49Z",
-            "version": 1,
-            "changeset": 138139324,
+            "timestamp": "2023-07-05T11:04:49Z",
+            "version": 2,
+            "changeset": 138143942,
             "user": "Mateusz Balcer",
             "uid": 19650351,
             "tags": {
@@ -107328,6 +107328,7 @@
                 "defibrillator:location": "Pomieszczenie pierwszej pomocy na hali produkcyjnej. (Po wejściu na halę produkcyjną głównym wejściem, pierwsze drzwi po prawej stronie)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "KZN BIEŻANÓW",
                 "phone": "+48 798 664 268"
             }
         },
