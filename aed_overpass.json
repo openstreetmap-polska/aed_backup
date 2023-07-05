@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T15:32:41Z",
-        "timestamp_areas_base": "2023-07-05T10:34:00Z",
+        "timestamp_osm_base": "2023-07-05T16:32:45Z",
+        "timestamp_areas_base": "2023-07-05T15:21:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11426,17 +11426,18 @@
             "id": 9412833617,
             "lat": 50.0199794,
             "lon": 22.0184716,
-            "timestamp": "2022-01-12T14:35:35Z",
-            "version": 2,
-            "changeset": 116069739,
-            "user": "Mentisekk",
-            "uid": 11267783,
+            "timestamp": "2023-07-05T15:38:03Z",
+            "version": 3,
+            "changeset": 138153498,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Sklep Decathlon: przy kasach",
                 "emergency": "defibrillator",
+                "level": "0",
                 "location": "indoor",
-                "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00–20:00"
+                "opening_hours": "Mo-Sa 10:00-21:00; Su off"
             }
         },
         {
@@ -107337,17 +107338,19 @@
             "id": 11027774805,
             "lat": 50.0499396,
             "lon": 22.0115374,
-            "timestamp": "2023-07-05T12:10:50Z",
-            "version": 1,
-            "changeset": 138146325,
+            "timestamp": "2023-07-05T15:38:03Z",
+            "version": 2,
+            "changeset": 138153498,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W korytarzu na lewo od wejścia, przy ochronie",
-                "defibrillator:location:en": "On the corridor, on the left from the entrance, next to the security",
+                "defibrillator:location:en": "In the corridor on the left from the entrance, next to the security",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-15:00"
             }
         },
         {
@@ -107355,9 +107358,9 @@
             "id": 11027804606,
             "lat": 50.0344934,
             "lon": 22.0196243,
-            "timestamp": "2023-07-05T12:33:39Z",
-            "version": 1,
-            "changeset": 138147147,
+            "timestamp": "2023-07-05T15:38:03Z",
+            "version": 2,
+            "changeset": 138153498,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -107365,7 +107368,9 @@
                 "defibrillator:location": "Przy wejściu, w pokoju ochrony",
                 "defibrillator:location:en": "Next to the entrance, in the security office",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-15:00"
             }
         },
         {
@@ -107391,17 +107396,19 @@
             "id": 11027931505,
             "lat": 50.0196044,
             "lon": 22.0180619,
-            "timestamp": "2023-07-05T13:42:33Z",
-            "version": 1,
-            "changeset": 138149646,
+            "timestamp": "2023-07-05T15:38:03Z",
+            "version": 2,
+            "changeset": 138153498,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
-                "access": "private",
+                "access": "customers",
                 "defibrillator:location": "W siłowni CityFit",
                 "defibrillator:location:en": "Inside the CityFit gym",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "24/7"
             }
         },
         {
@@ -107409,9 +107416,9 @@
             "id": 11027940607,
             "lat": 50.0287366,
             "lon": 22.0081021,
-            "timestamp": "2023-07-05T13:59:20Z",
-            "version": 1,
-            "changeset": 138150246,
+            "timestamp": "2023-07-05T15:38:03Z",
+            "version": 2,
+            "changeset": 138153498,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -107419,7 +107426,8 @@
                 "defibrillator:location": "Przy wejściu do Krajowej Administracji Skarbowej, po lewej stronie",
                 "defibrillator:location:en": "At the entrance of Krajowa Administracja Skarbowa, on the left",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo 07:30-18:00; Tu-Fr 07:30-15:30"
             }
         },
         {
