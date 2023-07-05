@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T07:32:46Z",
-        "timestamp_areas_base": "2023-07-05T03:47:36Z",
+        "timestamp_osm_base": "2023-07-05T08:32:29Z",
+        "timestamp_areas_base": "2023-07-05T05:48:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -105863,24 +105863,6 @@
         },
         {
             "type": "node",
-            "id": 10996599805,
-            "lat": 50.0266538,
-            "lon": 20.0377445,
-            "timestamp": "2023-06-22T07:39:39Z",
-            "version": 2,
-            "changeset": 137633956,
-            "user": "Mateusz Balcer",
-            "uid": 19650351,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Pomieszczenie pierwszej pomocy na hali produkcyjnej. (Po wejściu na halę produkcyjną głównym wejściem, pierwsze drzwi po prawej stronie)",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "KZN BIEŻANÓW"
-            }
-        },
-        {
-            "type": "node",
             "id": 10996640106,
             "lat": 52.4938434,
             "lon": 14.6536214,
@@ -107310,6 +107292,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027338709,
+            "lat": 54.6561784,
+            "lon": 17.7969481,
+            "timestamp": "2023-07-05T08:11:49Z",
+            "version": 1,
+            "changeset": 138136897,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W strażnicy OSP Tawęcino",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Tawęcino",
+                "source": "https://www.lebork24.info/2023/07/04/jeszcze-skuteczniej-zadbaja-o-bezpieczenstwo-zdjecia/"
             }
         },
         {
