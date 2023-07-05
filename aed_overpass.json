@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T12:32:27Z",
-        "timestamp_areas_base": "2023-07-05T08:28:30Z",
+        "timestamp_osm_base": "2023-07-05T13:31:44Z",
+        "timestamp_areas_base": "2023-07-05T10:34:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107348,6 +107348,42 @@
                 "defibrillator:location:en": "On the corridor, on the left from the entrance, next to the security",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027804606,
+            "lat": 50.0344934,
+            "lon": 22.0196243,
+            "timestamp": "2023-07-05T12:33:39Z",
+            "version": 1,
+            "changeset": 138147147,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu, w pokoju ochrony",
+                "defibrillator:location:en": "Next to the entrance, in the security office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027836505,
+            "lat": 50.0311405,
+            "lon": 22.0143528,
+            "timestamp": "2023-07-05T12:46:47Z",
+            "version": 1,
+            "changeset": 138147698,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do budynku A4",
+                "defibrillator:location:en": "At the entrance of A4 building",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
