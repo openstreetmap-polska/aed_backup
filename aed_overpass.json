@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T13:31:44Z",
+        "timestamp_osm_base": "2023-07-05T14:32:34Z",
         "timestamp_areas_base": "2023-07-05T10:34:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107384,6 +107384,60 @@
                 "defibrillator:location:en": "At the entrance of A4 building",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027931505,
+            "lat": 50.0196044,
+            "lon": 22.0180619,
+            "timestamp": "2023-07-05T13:42:33Z",
+            "version": 1,
+            "changeset": 138149646,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W siłowni CityFit",
+                "defibrillator:location:en": "Inside the CityFit gym",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027940607,
+            "lat": 50.0287366,
+            "lon": 22.0081021,
+            "timestamp": "2023-07-05T13:59:20Z",
+            "version": 1,
+            "changeset": 138150246,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu do Krajowej Administracji Skarbowej, po lewej stronie",
+                "defibrillator:location:en": "At the entrance of Krajowa Administracja Skarbowa, on the left",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027956705,
+            "lat": 50.0282991,
+            "lon": 22.0107582,
+            "timestamp": "2023-07-05T13:54:00Z",
+            "version": 1,
+            "changeset": 138150080,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na recepcji Hotelu Prezydenckiego",
+                "defibrillator:location:en": "Behind the front desk of Hotel Prezydencki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
