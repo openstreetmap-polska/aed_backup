@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-05T11:32:19Z",
-        "timestamp_areas_base": "2023-07-05T10:34:00Z",
+        "timestamp_osm_base": "2023-07-05T12:32:27Z",
+        "timestamp_areas_base": "2023-07-05T08:28:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107330,6 +107330,24 @@
                 "indoor": "yes",
                 "operator": "KZN BIEŻANÓW",
                 "phone": "+48 798 664 268"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11027774805,
+            "lat": 50.0499396,
+            "lon": 22.0115374,
+            "timestamp": "2023-07-05T12:10:50Z",
+            "version": 1,
+            "changeset": 138146325,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W korytarzu na lewo od wejścia, przy ochronie",
+                "defibrillator:location:en": "On the corridor, on the left from the entrance, next to the security",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
