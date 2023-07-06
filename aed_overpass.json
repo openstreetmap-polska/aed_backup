@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-06T11:32:23Z",
+        "timestamp_osm_base": "2023-07-06T12:32:45Z",
         "timestamp_areas_base": "2023-07-06T07:56:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107446,6 +107446,40 @@
                 "defibrillator:location:en": "Behind the front desk of Hotel Prezydencki",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11029953605,
+            "lat": 54.4056186,
+            "lon": 18.5758482,
+            "timestamp": "2023-07-06T11:47:23Z",
+            "version": 1,
+            "changeset": 138184957,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-06",
+                "defibrillator:location:pl": "Na ścianie na lewo od wejścia do budynku A5",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11029983191,
+            "lat": 50.1720681,
+            "lon": 18.9003546,
+            "timestamp": "2023-07-06T12:05:49Z",
+            "version": 1,
+            "changeset": 138185717,
+            "user": "Piotr Patalong",
+            "uid": 8354625,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
