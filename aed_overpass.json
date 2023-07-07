@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-07T12:32:16Z",
+        "timestamp_osm_base": "2023-07-07T13:31:54Z",
         "timestamp_areas_base": "2023-07-07T09:55:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107514,6 +107514,114 @@
                 "emergency": "defibrillator",
                 "image": "",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032189290,
+            "lat": 52.1987088,
+            "lon": 18.6288381,
+            "timestamp": "2023-07-07T12:55:06Z",
+            "version": 1,
+            "changeset": 138228652,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Stadion Miejski",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Stadion Miejski w Kole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032189291,
+            "lat": 52.1966695,
+            "lon": 18.6399471,
+            "timestamp": "2023-07-07T12:55:06Z",
+            "version": 1,
+            "changeset": 138228652,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Miejskim Domu Kultury",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Miejski Dom Kultury"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032215334,
+            "lat": 52.1994181,
+            "lon": 18.6377224,
+            "timestamp": "2023-07-07T12:52:15Z",
+            "version": 1,
+            "changeset": 138228567,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Komendy Powiatowej Policji w Kole",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Komenda Powiatowa Policji w Kole"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032250889,
+            "lat": 50.8961564,
+            "lon": 16.5276794,
+            "timestamp": "2023-07-07T12:49:53Z",
+            "version": 1,
+            "changeset": 138228449,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Panków",
+                "source": "https://doba.pl/dsw/artykul/osp-pankow-zakupi-defibrylator/46638/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032250890,
+            "lat": 50.8240216,
+            "lon": 16.4206082,
+            "timestamp": "2023-07-07T12:49:53Z",
+            "version": 1,
+            "changeset": 138228449,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Witoszów",
+                "source": "https://doba.pl/dsw/artykul/osp-pankow-zakupi-defibrylator/46638/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032250891,
+            "lat": 50.850708,
+            "lon": 16.3716942,
+            "timestamp": "2023-07-07T12:49:53Z",
+            "version": 1,
+            "changeset": 138228449,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mokrzeszów",
+                "source": "https://doba.pl/dsw/artykul/osp-pankow-zakupi-defibrylator/46638/0"
             }
         },
         {
