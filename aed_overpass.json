@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-07T14:32:14Z",
-        "timestamp_areas_base": "2023-07-07T09:55:51Z",
+        "timestamp_osm_base": "2023-07-07T15:31:46Z",
+        "timestamp_areas_base": "2023-07-07T12:07:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107622,6 +107622,24 @@
                 "indoor": "yes",
                 "operator": "OSP Mokrzeszów",
                 "source": "https://doba.pl/dsw/artykul/osp-pankow-zakupi-defibrylator/46638/0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11032467305,
+            "lat": 49.212088,
+            "lon": 22.3291431,
+            "timestamp": "2023-07-07T14:43:24Z",
+            "version": 1,
+            "changeset": 138232425,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku GOPR, na wyposażeniu ratowników",
+                "defibrillator:location:en": "Inside the GOPR building, part of the equipment of rescuers",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
