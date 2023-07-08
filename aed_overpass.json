@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-08T10:32:00Z",
-        "timestamp_areas_base": "2023-07-08T09:35:56Z",
+        "timestamp_osm_base": "2023-07-08T11:32:21Z",
+        "timestamp_areas_base": "2023-07-08T06:54:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107640,6 +107640,24 @@
                 "defibrillator:location:en": "Inside the GOPR building, part of the equipment of rescuers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11033995453,
+            "lat": 52.5438853,
+            "lon": 19.7487985,
+            "timestamp": "2023-07-08T10:54:06Z",
+            "version": 1,
+            "changeset": 138259164,
+            "user": "kolecplock",
+            "uid": 19795473,
+            "tags": {
+                "defibrillator:location": "SLRw Fiat Ducato - Samochód Ratownictwa Wodno-Nurkowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP PŁOCK PODOLSZYCE",
+                "ref": "998"
             }
         },
         {
