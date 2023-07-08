@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-08T18:32:26Z",
-        "timestamp_areas_base": "2023-07-08T16:15:45Z",
+        "timestamp_osm_base": "2023-07-08T19:31:53Z",
+        "timestamp_areas_base": "2023-07-08T14:19:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107658,6 +107658,24 @@
                 "indoor": "yes",
                 "operator": "OSP PŁOCK PODOLSZYCE",
                 "ref": "998"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11034655905,
+            "lat": 49.3370255,
+            "lon": 22.0656763,
+            "timestamp": "2023-07-08T19:24:54Z",
+            "version": 1,
+            "changeset": 138274977,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku Ochotniczej Straży Pożarnej",
+                "defibrillator:location:en": "On the wall of fire station",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
