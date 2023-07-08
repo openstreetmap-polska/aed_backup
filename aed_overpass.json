@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-08T08:32:15Z",
-        "timestamp_areas_base": "2023-07-08T04:53:44Z",
+        "timestamp_osm_base": "2023-07-08T09:32:45Z",
+        "timestamp_areas_base": "2023-07-08T06:54:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -86006,19 +86006,18 @@
             "id": 10542896009,
             "lat": 51.2285273,
             "lon": 18.5627192,
-            "timestamp": "2023-05-16T12:32:20Z",
-            "version": 3,
-            "changeset": 136167227,
-            "user": "ZUGIL SA",
-            "uid": 18253572,
+            "timestamp": "2023-07-08T09:03:58Z",
+            "version": 4,
+            "changeset": 138255621,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Portiernia firmy ZUGIL S.A. przy ul. Sieradzkiej 56",
-                "defibrillator:location:en": "At the gatehouse on the ground floor of the ZUGIL office building at 56 Sieradzka Street",
+                "defibrillator:location": "Ogólnodostępny defibrylator AED znajduje się w portierni firmy ZUGIL S.A.",
+                "defibrillator:location:en": "At the gatehouse on the ground floor of the ZUGIL office building",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "parter",
-                "opening_hours": "24/7",
+                "level": "0",
                 "operator": "ZUGIL S.A."
             }
         },
@@ -106755,16 +106754,17 @@
             "id": 11012434105,
             "lat": 51.2225718,
             "lon": 18.568568,
-            "timestamp": "2023-06-28T14:04:27Z",
-            "version": 1,
-            "changeset": 137880803,
-            "user": "GOKOWieluń",
-            "uid": 19710469,
+            "timestamp": "2023-07-08T08:52:49Z",
+            "version": 2,
+            "changeset": 138255225,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W gablocie, przy wejściu do Przedsiębiorstwa Komunalnego Sp. z o.o. w Wieluniu",
+                "defibrillator:location": "Ogólnodostępny defibrylator AED znajduje się na zewnątrz przy wejściu głównym.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Przedsiębiorstwo Komunalne Sp. z o.o. w Wieluniu"
             }
         },
         {
