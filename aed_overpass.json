@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-09T14:32:40Z",
-        "timestamp_areas_base": "2023-07-09T09:13:29Z",
+        "timestamp_osm_base": "2023-07-09T15:32:01Z",
+        "timestamp_areas_base": "2023-07-09T11:00:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -75262,15 +75262,16 @@
             "id": 10156778093,
             "lat": 50.0667175,
             "lon": 19.9699768,
-            "timestamp": "2022-11-04T11:26:11Z",
-            "version": 1,
-            "changeset": 128478845,
-            "user": "Olga | Yanosik",
-            "uid": 2844322,
+            "timestamp": "2023-07-09T14:57:30Z",
+            "version": 2,
+            "changeset": 138299746,
+            "user": "Próbuję dodawać użyteczne informacje",
+            "uid": 18482220,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "wheelchair": "no"
             }
         },
