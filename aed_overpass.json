@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-10T09:32:30Z",
-        "timestamp_areas_base": "2023-07-10T05:49:15Z",
+        "timestamp_osm_base": "2023-07-10T10:32:29Z",
+        "timestamp_areas_base": "2023-07-10T08:54:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107677,6 +107677,42 @@
                 "defibrillator:location:en": "On the wall of fire station",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11037130505,
+            "lat": 50.0421011,
+            "lon": 22.0020693,
+            "timestamp": "2023-07-10T10:21:53Z",
+            "version": 1,
+            "changeset": 138330677,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy recepcji LuxMed",
+                "defibrillator:location:en": "On the wall next to the front desk of LuxMed",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11037139605,
+            "lat": 52.3974117,
+            "lon": 16.9460201,
+            "timestamp": "2023-07-10T10:28:00Z",
+            "version": 1,
+            "changeset": 138330900,
+            "user": "Open Nexus",
+            "uid": 19822643,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Po wejściu do hotelu po prawej stronie przy drzwiach.",
+                "defibrillator:location:en": "When you enter the hotel on the right side of the door",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
