@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-10T21:32:14Z",
-        "timestamp_areas_base": "2023-07-10T20:00:26Z",
+        "timestamp_osm_base": "2023-07-10T22:31:58Z",
+        "timestamp_areas_base": "2023-07-10T18:25:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107667,9 +107667,9 @@
             "id": 11037130505,
             "lat": 50.0421011,
             "lon": 22.0020693,
-            "timestamp": "2023-07-10T13:35:30Z",
-            "version": 2,
-            "changeset": 138338683,
+            "timestamp": "2023-07-10T22:02:40Z",
+            "version": 3,
+            "changeset": 138355087,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -107678,6 +107678,7 @@
                 "defibrillator:location:en": "On the wall next to the front desk of LuxMed",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-12:00"
             }
         },
@@ -107704,9 +107705,9 @@
             "id": 11037173005,
             "lat": 50.0401622,
             "lon": 22.0019661,
-            "timestamp": "2023-07-10T13:35:30Z",
-            "version": 2,
-            "changeset": 138338683,
+            "timestamp": "2023-07-10T22:03:04Z",
+            "version": 3,
+            "changeset": 138355087,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -107715,6 +107716,7 @@
                 "defibrillator:location:en": "Inside the Urząd Wojewódzki, next to the concierge/security office",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo,We,Th,Fr 07:30-15:30; Tu 08:00-18:00"
             }
         },
