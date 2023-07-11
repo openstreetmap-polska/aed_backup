@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-11T13:32:31Z",
-        "timestamp_areas_base": "2023-07-11T08:33:21Z",
+        "timestamp_osm_base": "2023-07-11T14:31:59Z",
+        "timestamp_areas_base": "2023-07-11T13:21:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96489,24 +96489,6 @@
         },
         {
             "type": "node",
-            "id": 10731415505,
-            "lat": 52.076758,
-            "lon": 16.0442903,
-            "timestamp": "2023-03-12T20:30:24Z",
-            "version": 1,
-            "changeset": 133600219,
-            "user": "NowiFilip",
-            "uid": 18697687,
-            "tags": {
-                "access": "private",
-                "defibrillator:location:pl": "Remiza OSP Obra",
-                "emergency": "defibrillator",
-                "image": "",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 10732472105,
             "lat": 51.9427422,
             "lon": 17.5647623,
@@ -107755,6 +107737,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Mostostal Chojnice sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 11039814387,
+            "lat": 53.6206495,
+            "lon": 17.449053,
+            "timestamp": "2023-07-11T13:57:28Z",
+            "version": 1,
+            "changeset": 138382211,
+            "user": "Jerry_W2k",
+            "uid": 4732840,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://weekendfm.pl/?n=108072&na-szkole-w-wierzchowie-dworcu-pojawi-sie-defibrylator-aed-zozyy-sie-na-niego-soectwa-i-sponsorzy="
             }
         },
         {
