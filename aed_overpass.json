@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-11T05:32:06Z",
-        "timestamp_areas_base": "2023-07-11T00:41:15Z",
+        "timestamp_osm_base": "2023-07-11T06:32:34Z",
+        "timestamp_areas_base": "2023-07-11T05:22:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -59549,18 +59549,18 @@
             "id": 9671516602,
             "lat": 53.6981791,
             "lon": 17.5822055,
-            "timestamp": "2023-04-07T07:06:15Z",
-            "version": 2,
-            "changeset": 134601560,
-            "user": "wrubciu",
-            "uid": 378939,
+            "timestamp": "2023-07-11T06:10:55Z",
+            "version": 3,
+            "changeset": 138363224,
+            "user": "BestiaPL",
+            "uid": 32533,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód Ratowniczo-Gaśniczy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "Koemnda Powiatowa Państwowej Straży Pożarnej w Chojniach"
+                "operator": "Komenda Powiatowa Państwowej Straży Pożarnej w Chojniach"
             }
         },
         {
@@ -107737,6 +107737,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11038577755,
+            "lat": 53.6872928,
+            "lon": 17.590724,
+            "timestamp": "2023-07-11T06:10:55Z",
+            "version": 1,
+            "changeset": 138363224,
+            "user": "BestiaPL",
+            "uid": 32533,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Budynek mistrzówki",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Mostostal Chojnice sp. z o.o."
             }
         },
         {
