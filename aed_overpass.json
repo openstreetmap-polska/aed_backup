@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-11T18:32:38Z",
-        "timestamp_areas_base": "2023-07-11T13:21:14Z",
+        "timestamp_osm_base": "2023-07-11T19:32:14Z",
+        "timestamp_areas_base": "2023-07-11T18:08:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107817,6 +107817,25 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "537182708"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11040243033,
+            "lat": 51.5991324,
+            "lon": 18.7139372,
+            "timestamp": "2023-07-11T18:54:38Z",
+            "version": 1,
+            "changeset": 138392267,
+            "user": "Pescan",
+            "uid": 529629,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Biuro obsługi klienta na parterze w budynku administracyjnym, na lewo od wejścia, na ścianie",
+                "defibrillator:location:en": "customer service desk, on the wall, to the left from the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Tu 10:00-19:00"
             }
         },
         {
