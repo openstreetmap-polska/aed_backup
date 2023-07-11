@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-11T15:32:15Z",
+        "timestamp_osm_base": "2023-07-11T16:31:45Z",
         "timestamp_areas_base": "2023-07-11T14:47:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -91856,16 +91856,18 @@
             "id": 10684126637,
             "lat": 53.6220196,
             "lon": 21.7869849,
-            "timestamp": "2023-04-20T08:28:23Z",
-            "version": 2,
-            "changeset": 135137247,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-07-11T16:03:16Z",
+            "version": 3,
+            "changeset": 138386825,
+            "user": "Mersonia",
+            "uid": 18422067,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Budynek drewniany ochrony firmy Telmex",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "operator": "Telmex"
+                "operator": "Mariusz Klisiatys",
+                "ref": "Telmex #2"
             }
         },
         {
@@ -91873,15 +91875,18 @@
             "id": 10684136184,
             "lat": 53.6211664,
             "lon": 21.7846154,
-            "timestamp": "2023-04-20T08:28:23Z",
-            "version": 2,
-            "changeset": 135137247,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-07-11T16:02:10Z",
+            "version": 3,
+            "changeset": 138386742,
+            "user": "Mersonia",
+            "uid": 18422067,
             "tags": {
+                "check_date": "2023-07-11",
+                "defibrillator:location:pl": "Na ścianie na wejściu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Mariusz Klisiatys",
+                "phone": "537182708",
                 "ref": "Na głównym filarze"
             }
         },
@@ -105950,11 +105955,11 @@
             "id": 11001196015,
             "lat": 53.6263013,
             "lon": 21.8135618,
-            "timestamp": "2023-06-23T07:22:55Z",
-            "version": 1,
-            "changeset": 137675292,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-07-11T15:56:04Z",
+            "version": 2,
+            "changeset": 138386543,
+            "user": "Mersonia",
+            "uid": 18422067,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Przy wejściu do szkoły",
@@ -105962,6 +105967,7 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "II Liceum Ogólnokształcące w Piszu",
+                "ref": "Nowy #9",
                 "source": "https://www.piszanin.pl/6,145,nowy-ogolniak-ma-defibrylator.html",
                 "wheelchair": "no"
             }
@@ -107754,6 +107760,63 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "source": "https://weekendfm.pl/?n=108072&na-szkole-w-wierzchowie-dworcu-pojawi-sie-defibrylator-aed-zozyy-sie-na-niego-soectwa-i-sponsorzy="
+            }
+        },
+        {
+            "type": "node",
+            "id": 11039981562,
+            "lat": 53.6279544,
+            "lon": 21.8131094,
+            "timestamp": "2023-07-11T15:57:58Z",
+            "version": 1,
+            "changeset": 138386610,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed budynkiem Starostwa Powiatowego",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Mariusz Klisiatys",
+                "ref": "Starostwo #6"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11040020042,
+            "lat": 53.6397143,
+            "lon": 21.8258362,
+            "timestamp": "2023-07-11T15:59:39Z",
+            "version": 1,
+            "changeset": 138386665,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Tawerna - Przy pomieszczeniu Ratowników Wodnych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "Mariusz Klisiatys",
+                "ref": "Plaża Miejska #4"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11040027405,
+            "lat": 53.6476122,
+            "lon": 21.5660824,
+            "timestamp": "2023-07-11T16:01:06Z",
+            "version": 1,
+            "changeset": 138386742,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-11",
+                "defibrillator:location:pl": "Na ścianie Wieży Ciśnień",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "537182708"
             }
         },
         {
