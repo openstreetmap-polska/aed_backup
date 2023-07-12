@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-12T03:32:44Z",
-        "timestamp_areas_base": "2023-07-11T22:53:30Z",
+        "timestamp_osm_base": "2023-07-12T04:32:00Z",
+        "timestamp_areas_base": "2023-07-12T03:35:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107748,17 +107748,19 @@
         {
             "type": "node",
             "id": 11039814387,
-            "lat": 53.6206495,
-            "lon": 17.449053,
-            "timestamp": "2023-07-11T13:57:28Z",
-            "version": 1,
-            "changeset": 138382211,
-            "user": "Jerry_W2k",
-            "uid": 4732840,
+            "lat": 53.6206243,
+            "lon": 17.4490663,
+            "timestamp": "2023-07-12T04:22:25Z",
+            "version": 2,
+            "changeset": 138403607,
+            "user": "BestiaPL",
+            "uid": 32533,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "Na zewnątrz budynku",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "operator": "Szkoła Podstawowa, Wierzchowo Dworzec",
                 "source": "https://weekendfm.pl/?n=108072&na-szkole-w-wierzchowie-dworcu-pojawi-sie-defibrylator-aed-zozyy-sie-na-niego-soectwa-i-sponsorzy="
             }
         },
