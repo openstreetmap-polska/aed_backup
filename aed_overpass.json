@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-13T13:31:52Z",
-        "timestamp_areas_base": "2023-07-13T09:06:16Z",
+        "timestamp_osm_base": "2023-07-13T14:32:35Z",
+        "timestamp_areas_base": "2023-07-13T12:44:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107866,17 +107866,19 @@
             "id": 11043954307,
             "lat": 54.4908784,
             "lon": 18.5425014,
-            "timestamp": "2023-07-13T11:53:14Z",
-            "version": 2,
-            "changeset": 138461132,
+            "timestamp": "2023-07-13T14:21:08Z",
+            "version": 3,
+            "changeset": 138466709,
             "user": "Seacargo",
             "uid": 19853870,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "defibrillator:location": "Legionów 112/21 / wejście do biura Sealand",
                 "defibrillator:location:en": "After climbing the stairs, on the right hand side on the wall near the exit",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Sealand Liquids",
+                "ref": "Legionów 112/21"
             }
         },
         {
