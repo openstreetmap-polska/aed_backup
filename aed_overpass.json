@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-13T05:32:41Z",
-        "timestamp_areas_base": "2023-07-13T03:16:08Z",
+        "timestamp_osm_base": "2023-07-13T06:32:15Z",
+        "timestamp_areas_base": "2023-07-13T04:24:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -96858,17 +96858,18 @@
             "id": 10737176706,
             "lat": 52.2316603,
             "lon": 21.0247688,
-            "timestamp": "2023-03-15T14:15:18Z",
-            "version": 1,
-            "changeset": 133712098,
-            "user": "Joanna Sta",
-            "uid": 18727760,
+            "timestamp": "2023-07-13T06:20:45Z",
+            "version": 3,
+            "changeset": 138448190,
+            "user": "mikmach",
+            "uid": 115880,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "defibrillator:location": "Muzeum Narodowe w Warszawie",
                 "defibrillator:location:en": "National Museum in Warsaw",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Muzeum Narodowe w Warszawie",
                 "phone": "22 621 10 31"
             }
         },
@@ -107838,6 +107839,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Tu 10:00-19:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11043433434,
+            "lat": 52.2314116,
+            "lon": 21.0234793,
+            "timestamp": "2023-07-13T06:20:45Z",
+            "version": 2,
+            "changeset": 138448190,
+            "user": "mikmach",
+            "uid": 115880,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Muzeum Narodowe w Warszawie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 07:00-18:00",
+                "operator": "Muzeum Narodowe w Warszawie"
             }
         },
         {
