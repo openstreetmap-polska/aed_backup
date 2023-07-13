@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-13T16:32:00Z",
-        "timestamp_areas_base": "2023-07-13T13:49:03Z",
+        "timestamp_osm_base": "2023-07-13T17:31:45Z",
+        "timestamp_areas_base": "2023-07-13T12:44:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107879,6 +107879,25 @@
                 "indoor": "yes",
                 "operator": "Sealand Liquids",
                 "ref": "Legionów 112/21"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11044500806,
+            "lat": 53.6279429,
+            "lon": 21.813097,
+            "timestamp": "2023-07-13T16:50:27Z",
+            "version": 1,
+            "changeset": 138472202,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-13",
+                "defibrillator:location:pl": "Przed wejściem po lewej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "537182708"
             }
         },
         {
