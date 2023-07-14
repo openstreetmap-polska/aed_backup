@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-14T14:32:15Z",
-        "timestamp_areas_base": "2023-07-14T13:20:33Z",
+        "timestamp_osm_base": "2023-07-14T15:32:30Z",
+        "timestamp_areas_base": "2023-07-14T12:27:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52880,19 +52880,21 @@
         {
             "type": "node",
             "id": 9588364717,
-            "lat": 52.4044369,
-            "lon": 16.9400123,
-            "timestamp": "2023-01-04T13:51:00Z",
-            "version": 2,
-            "changeset": 130868385,
+            "lat": 52.4045531,
+            "lon": 16.9403208,
+            "timestamp": "2023-07-14T14:58:21Z",
+            "version": 3,
+            "changeset": 138511940,
             "user": "snowdog",
             "uid": 373762,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "biuro firmy Snowdog, dostęp w dni powszednie 8-17",
+                "defibrillator:location": "Wewnętrzny parking firmy Snowdog, na ścianie budynku. Dostęp w dni powszednie 7-23",
                 "defibrillator:location:en": "Guard house, 24/7 access by guard",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
+                "level": "0.5",
+                "opening_hours": "Mo-Fr 07:00-23:00",
                 "operator": "Snowdog"
             }
         },
@@ -107916,6 +107918,21 @@
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Bobolicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11046784583,
+            "lat": 50.451359,
+            "lon": 18.9333912,
+            "timestamp": "2023-07-14T14:50:46Z",
+            "version": 1,
+            "changeset": 138511630,
+            "user": "Osp Nowe chechło",
+            "uid": 11724302,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "OSP Nowe Chechło"
             }
         },
         {
