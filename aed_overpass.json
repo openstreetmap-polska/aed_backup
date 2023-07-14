@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-14T19:31:56Z",
-        "timestamp_areas_base": "2023-07-14T18:04:51Z",
+        "timestamp_osm_base": "2023-07-14T20:32:10Z",
+        "timestamp_areas_base": "2023-07-14T17:12:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2013,13 +2013,18 @@
             "id": 6524589908,
             "lat": 49.2291462,
             "lon": 19.8587463,
-            "timestamp": "2019-06-05T14:29:23Z",
-            "version": 1,
-            "changeset": 70956748,
-            "user": "Squnxik",
-            "uid": 3068937,
+            "timestamp": "2023-07-14T19:45:29Z",
+            "version": 2,
+            "changeset": 138521597,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "check_date": "2023-07-14",
+                "defibrillator:location": "Przy głównym wejściu po lewej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Schronisko PTTK Ornak"
             }
         },
         {
