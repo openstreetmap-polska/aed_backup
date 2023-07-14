@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-14T08:32:29Z",
-        "timestamp_areas_base": "2023-07-14T03:56:56Z",
+        "timestamp_osm_base": "2023-07-14T09:32:00Z",
+        "timestamp_areas_base": "2023-07-14T07:44:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107898,6 +107898,24 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "537182708"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11046116109,
+            "lat": 53.9534166,
+            "lon": 16.5862285,
+            "timestamp": "2023-07-14T09:16:28Z",
+            "version": 1,
+            "changeset": 138498037,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje sie obok fontanny na placu Zwycięstwa.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Bobolicach"
             }
         },
         {
