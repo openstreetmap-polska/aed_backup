@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-15T06:32:00Z",
+        "timestamp_osm_base": "2023-07-15T07:31:59Z",
         "timestamp_areas_base": "2023-07-15T03:29:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107938,6 +107938,27 @@
             "tags": {
                 "emergency": "defibrillator",
                 "operator": "OSP Nowe Chechło"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11047681505,
+            "lat": 49.3971185,
+            "lon": 20.2450231,
+            "timestamp": "2023-07-15T07:13:39Z",
+            "version": 1,
+            "changeset": 138532989,
+            "user": "MatSul",
+            "uid": 18609243,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Remiza OSP Łapsze Niżne ",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
             }
         },
         {
