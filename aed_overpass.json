@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-16T19:32:26Z",
-        "timestamp_areas_base": "2023-07-16T16:31:02Z",
+        "timestamp_osm_base": "2023-07-16T20:32:37Z",
+        "timestamp_areas_base": "2023-07-16T17:01:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54236,13 +54236,13 @@
         {
             "type": "node",
             "id": 9609377820,
-            "lat": 52.5303456,
-            "lon": 17.6048282,
-            "timestamp": "2022-03-26T17:19:50Z",
-            "version": 1,
-            "changeset": 118956131,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 52.5303593,
+            "lon": 17.6048962,
+            "timestamp": "2023-07-16T19:41:17Z",
+            "version": 2,
+            "changeset": 138593171,
+            "user": "thefixero",
+            "uid": 19848269,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku Zintegrowanego Centrum Przesiadkowego",
