@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-17T12:32:34Z",
-        "timestamp_areas_base": "2023-07-17T07:10:15Z",
+        "timestamp_osm_base": "2023-07-17T13:32:02Z",
+        "timestamp_areas_base": "2023-07-17T11:52:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107962,6 +107962,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48728431109"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11051047605,
+            "lat": 53.6279543,
+            "lon": 21.813095,
+            "timestamp": "2023-07-17T12:55:49Z",
+            "version": 1,
+            "changeset": 138621383,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-17",
+                "defibrillator:location:pl": "Przed wejściem do budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "537182708"
             }
         },
         {
