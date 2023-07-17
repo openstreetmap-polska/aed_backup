@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-17T11:32:16Z",
-        "timestamp_areas_base": "2023-07-17T06:41:45Z",
+        "timestamp_osm_base": "2023-07-17T12:32:34Z",
+        "timestamp_areas_base": "2023-07-17T07:10:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -32296,18 +32296,15 @@
         {
             "type": "node",
             "id": 9483176052,
-            "lat": 53.7196465,
-            "lon": 16.6695631,
-            "timestamp": "2022-02-06T12:01:48Z",
-            "version": 1,
-            "changeset": 117076481,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "lat": 53.7196485,
+            "lon": 16.6695852,
+            "timestamp": "2023-07-17T12:24:46Z",
+            "version": 2,
+            "changeset": 138619925,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
-                "addr:city": "Szczecinek",
-                "addr:housenumber": "1",
-                "addr:street": "Krakowska",
                 "defibrillator:location": "Na ścianie przy wejściu do szkoły",
                 "defibrillator:location:en": "On the wall at the entrance to the school",
                 "emergency": "defibrillator",
