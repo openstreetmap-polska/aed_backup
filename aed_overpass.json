@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-17T10:32:44Z",
-        "timestamp_areas_base": "2023-07-17T07:10:15Z",
+        "timestamp_osm_base": "2023-07-17T11:32:16Z",
+        "timestamp_areas_base": "2023-07-17T06:41:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -106894,17 +106894,19 @@
             "id": 11017266405,
             "lat": 53.8233256,
             "lon": 14.8415975,
-            "timestamp": "2023-07-01T05:36:03Z",
-            "version": 1,
-            "changeset": 137980167,
-            "user": "Gleus",
-            "uid": 16394621,
+            "timestamp": "2023-07-17T10:55:56Z",
+            "version": 2,
+            "changeset": 138616421,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "private",
-                "check_date": "2023-07-01",
-                "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo-gasniczego",
+                "check_date": "2023-07-10",
+                "defibrillator:location": "Na wyposażeniu samochodu ratowniczo-gaśniczego",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Ochotnicza Straż Pożarna w Wysokiej Kamieńskiej"
             }
         },
         {
@@ -107722,25 +107724,6 @@
         },
         {
             "type": "node",
-            "id": 11037764205,
-            "lat": 53.8233555,
-            "lon": 14.8415879,
-            "timestamp": "2023-07-10T17:19:28Z",
-            "version": 1,
-            "changeset": 138347071,
-            "user": "Gleus",
-            "uid": 16394621,
-            "tags": {
-                "access": "private",
-                "check_date": "2023-07-10",
-                "defibrillator:location:pl": "Na wyposażeniu samochodu ratowniczo - gaśniczego",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "level": "0"
-            }
-        },
-        {
-            "type": "node",
             "id": 11038577755,
             "lat": 53.6872928,
             "lon": 17.590724,
@@ -107963,6 +107946,25 @@
                 "opening_hours": "",
                 "operator": "",
                 "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11050879905,
+            "lat": 51.6993312,
+            "lon": 19.4731367,
+            "timestamp": "2023-07-17T11:15:51Z",
+            "version": 1,
+            "changeset": 138617158,
+            "user": "Honorka256",
+            "uid": 19892377,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Hydro Extrusion Poland Sp. zo.o.",
+                "defibrillator:location:en": "Hydro Extrusion Poland Sp. zo.o.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48728431109"
             }
         },
         {
