@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-18T14:32:45Z",
-        "timestamp_areas_base": "2023-07-18T11:08:15Z",
+        "timestamp_osm_base": "2023-07-18T15:32:16Z",
+        "timestamp_areas_base": "2023-07-18T11:28:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108084,6 +108084,108 @@
                 "defibrillator:location": "Na ścianie Wawerskiego Centrum Kultury filia Zastów. Po prawej stronie od wejścia głównego.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053158605,
+            "lat": 52.1361927,
+            "lon": 21.2347262,
+            "timestamp": "2023-07-18T14:33:57Z",
+            "version": 1,
+            "changeset": 138672902,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie Miejskiego Ośrodka Kultury",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053158606,
+            "lat": 52.1057087,
+            "lon": 21.266121,
+            "timestamp": "2023-07-18T14:35:03Z",
+            "version": 1,
+            "changeset": 138672902,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy wejściu głównym.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053163506,
+            "lat": 52.9229461,
+            "lon": 22.8278121,
+            "timestamp": "2023-07-18T14:51:16Z",
+            "version": 1,
+            "changeset": 138673779,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana przy bramie OSP Poświętne",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053164005,
+            "lat": 52.1047098,
+            "lon": 21.2675507,
+            "timestamp": "2023-07-18T14:35:56Z",
+            "version": 1,
+            "changeset": 138672902,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w holu głównym po lewej stronie od wejścia.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053164006,
+            "lat": 52.1862322,
+            "lon": 21.1417394,
+            "timestamp": "2023-07-18T14:38:47Z",
+            "version": 1,
+            "changeset": 138673145,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W strefie basenowej hotelu.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053172105,
+            "lat": 52.2219697,
+            "lon": 21.0829366,
+            "timestamp": "2023-07-18T14:39:55Z",
+            "version": 1,
+            "changeset": 138673145,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Po lewej stronie od wejścia na halę główną.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
