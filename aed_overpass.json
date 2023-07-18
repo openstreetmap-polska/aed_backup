@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-18T07:32:30Z",
-        "timestamp_areas_base": "2023-07-18T06:44:30Z",
+        "timestamp_osm_base": "2023-07-18T08:32:45Z",
+        "timestamp_areas_base": "2023-07-18T06:24:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -202,17 +202,17 @@
         {
             "type": "node",
             "id": 2360723894,
-            "lat": 54.3823302,
-            "lon": 18.4662928,
-            "timestamp": "2023-07-17T09:57:31Z",
-            "version": 6,
-            "changeset": 138614099,
+            "lat": 54.3823162,
+            "lon": 18.4663521,
+            "timestamp": "2023-07-18T08:26:45Z",
+            "version": 7,
+            "changeset": 138655561,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu na lotnisko od strony odlotów, przy sklepie Aelia Beauty",
-                "defibrillator:location:en": "On the wall next to the entrance to the airport from departures side, next to the Aelia Beauty shop",
+                "defibrillator:location:en": "On the wall next to the entrance to the airport from the departures side, next to the Aelia Beauty shop",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
