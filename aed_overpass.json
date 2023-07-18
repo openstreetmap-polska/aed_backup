@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-18T13:32:30Z",
+        "timestamp_osm_base": "2023-07-18T14:32:45Z",
         "timestamp_areas_base": "2023-07-18T11:08:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108014,6 +108014,76 @@
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053133107,
+            "lat": 52.2057538,
+            "lon": 21.1700757,
+            "timestamp": "2023-07-18T14:22:11Z",
+            "version": 1,
+            "changeset": 138672357,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na elewacji Wawerskiego Centrum Kultury. Po lewej stronie od wejścia głównego.",
+                "defibrillator:location:en": "On the wall of the Wawerskie Centrum Kultury. On the left side of the main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053146505,
+            "lat": 52.2199689,
+            "lon": 21.1601639,
+            "timestamp": "2023-07-18T14:25:54Z",
+            "version": 1,
+            "changeset": 138672357,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie Wawerskiego Centrum Kultury filia Anin.",
+                "defibrillator:location:en": "On the wall of the Wawerskie Centrum Kultury in Anin . On the right side of the main entrance.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053149005,
+            "lat": 52.2385885,
+            "lon": 21.1471198,
+            "timestamp": "2023-07-18T14:27:44Z",
+            "version": 1,
+            "changeset": 138672357,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Główne wejście do Wawerskiego Centrum Kultury fila Marysin. Za drzwiami po prawej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11053150605,
+            "lat": 52.2144544,
+            "lon": 21.135439,
+            "timestamp": "2023-07-18T14:29:28Z",
+            "version": 1,
+            "changeset": 138672357,
+            "user": "MaxHarter",
+            "uid": 19904858,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie Wawerskiego Centrum Kultury filia Zastów. Po prawej stronie od wejścia głównego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
