@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-19T10:32:30Z",
+        "timestamp_osm_base": "2023-07-19T11:32:13Z",
         "timestamp_areas_base": "2023-07-19T06:06:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -936,17 +936,22 @@
             "id": 4298570511,
             "lat": 50.2717976,
             "lon": 19.0252191,
-            "timestamp": "2020-06-09T12:25:15Z",
-            "version": 2,
-            "changeset": 86408686,
+            "timestamp": "2023-07-19T11:31:33Z",
+            "version": 3,
+            "changeset": 138712351,
             "user": "AdiS",
             "uid": 94017,
             "tags": {
+                "access": "permissive",
+                "defibrillator:location": "AED umieszczony za portiernią na parterze na ścianie na wysokości 1,5 m",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
                 "note:pl": "AED umieszczony za portiernią na parterze na ścianie na wysokości 1,5 m",
-                "opening_hours": "24/7"
+                "opening_hours": "24/7",
+                "operator": "Główny Instytut Górnictwa",
+                "phone": "+48 32 2592800",
+                "wheelchair": "yes"
             }
         },
         {
