@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-19T08:31:40Z",
-        "timestamp_areas_base": "2023-07-19T06:21:42Z",
+        "timestamp_osm_base": "2023-07-19T09:32:15Z",
+        "timestamp_areas_base": "2023-07-19T06:06:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108205,6 +108205,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11054394705,
+            "lat": 52.2238834,
+            "lon": 21.0157856,
+            "timestamp": "2023-07-19T08:48:08Z",
+            "version": 1,
+            "changeset": 138704281,
+            "user": "AED - Marszałkowska 58",
+            "uid": 19915076,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie w salonie",
+                "defibrillator:location:en": "on the wall in the living room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48609504666"
             }
         },
         {
