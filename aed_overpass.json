@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-19T07:32:31Z",
-        "timestamp_areas_base": "2023-07-19T06:06:28Z",
+        "timestamp_osm_base": "2023-07-19T08:31:40Z",
+        "timestamp_areas_base": "2023-07-19T06:21:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108186,6 +108186,25 @@
                 "defibrillator:location": "Po lewej stronie od wejścia na halę główną.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11054299205,
+            "lat": 51.1763637,
+            "lon": 17.1856078,
+            "timestamp": "2023-07-19T07:32:55Z",
+            "version": 1,
+            "changeset": 138701155,
+            "user": "Ancymon",
+            "uid": 1593161,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-07-18",
+                "defibrillator:location:pl": "W dziale handlowym firmy Balex Metal. W lewym rogu pomieszczenia, na ścianie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
