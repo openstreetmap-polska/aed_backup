@@ -1,9 +1,9 @@
 {
     "version": 0.6,
-    "generator": "Overpass API 0.7.61.1 2cf8333c",
+    "generator": "Overpass API 0.7.60.6 e2dc3e5b",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-20T16:32:30Z",
-        "timestamp_areas_base": "2023-07-20T07:57:18Z",
+        "timestamp_osm_base": "2023-07-20T17:32:06Z",
+        "timestamp_areas_base": "2023-07-20T15:26:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12672,16 +12672,17 @@
             "id": 9420300495,
             "lat": 51.141457,
             "lon": 17.0846105,
-            "timestamp": "2022-01-15T12:34:24Z",
-            "version": 1,
-            "changeset": 116180598,
-            "user": "maraf24",
-            "uid": 2098272,
+            "timestamp": "2023-07-20T17:06:27Z",
+            "version": 2,
+            "changeset": 138775001,
+            "user": "usagi-02808",
+            "uid": 13847427,
             "tags": {
-                "access": "permit",
+                "access": "private",
                 "defibrillator:location": "na ścianie w punkcie obsługi, dostęp za pośrednictwem pracowników",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo-Sa 06:30 - 21:00",
                 "operator": "Castorama"
             }
         },
