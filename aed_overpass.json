@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-21T08:32:27Z",
+        "timestamp_osm_base": "2023-07-21T09:32:11Z",
         "timestamp_areas_base": "2023-07-20T07:57:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108247,6 +108247,23 @@
                 "defibrillator:location": "Na holu głównym szkoły.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11058909248,
+            "lat": 51.1064141,
+            "lon": 17.0335758,
+            "timestamp": "2023-07-21T09:18:11Z",
+            "version": 1,
+            "changeset": 138802738,
+            "user": "Alexey Vazhnov",
+            "uid": 91771,
+            "tags": {
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "wheelchair": "yes"
             }
         },
         {
