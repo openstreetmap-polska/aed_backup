@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-21T13:31:56Z",
+        "timestamp_osm_base": "2023-07-21T14:32:16Z",
         "timestamp_areas_base": "2023-07-20T07:57:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108264,6 +108264,25 @@
                 "indoor": "yes",
                 "level": "0",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11059529005,
+            "lat": 54.5091536,
+            "lon": 18.5411201,
+            "timestamp": "2023-07-21T13:38:13Z",
+            "version": 1,
+            "changeset": 138814217,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-07-21",
+                "defibrillator:location:pl": "Portiernia wydziału Oceanografii i Geografii UG",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
