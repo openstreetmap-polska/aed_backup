@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-22T13:32:00Z",
-        "timestamp_areas_base": "2023-07-20T07:57:18Z",
+        "timestamp_osm_base": "2023-07-22T14:32:15Z",
+        "timestamp_areas_base": "2023-07-22T12:21:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98757,19 +98757,21 @@
         {
             "type": "node",
             "id": 10763662105,
-            "lat": 51.1091947,
-            "lon": 16.8800925,
-            "timestamp": "2023-03-26T13:24:01Z",
-            "version": 1,
-            "changeset": 134136353,
-            "user": "Ancymon",
-            "uid": 1593161,
+            "lat": 51.1093668,
+            "lon": 16.8802327,
+            "timestamp": "2023-07-22T13:53:22Z",
+            "version": 2,
+            "changeset": 138855344,
+            "user": "Alexey Vazhnov",
+            "uid": 91771,
             "tags": {
                 "access": "yes",
-                "check_date": "2023-03-26",
+                "check_date": "2023-07-22",
                 "defibrillator:location:pl": "Na ścianie pomiędzy Gate 6 i 7 (po stronie sklepów)",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1",
+                "location": "wall"
             }
         },
         {
@@ -108283,6 +108285,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11061732605,
+            "lat": 52.1600818,
+            "lon": 20.9168798,
+            "timestamp": "2023-07-22T14:29:04Z",
+            "version": 1,
+            "changeset": 138856869,
+            "user": "adamsc",
+            "uid": 9147405,
+            "tags": {
+                "defibrillator:location": "Skrzynka na płocie dostępna od strony chodnika",
+                "defibrillator:location:en": "Box on the fence accessible from the sidewalk",
+                "emergency": "defibrillator"
             }
         },
         {
