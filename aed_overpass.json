@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-22T19:32:45Z",
-        "timestamp_areas_base": "2023-07-20T07:57:18Z",
+        "timestamp_osm_base": "2023-07-22T20:32:12Z",
+        "timestamp_areas_base": "2023-07-22T17:02:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1056,15 +1056,16 @@
             "id": 4500244691,
             "lat": 53.1233113,
             "lon": 23.1782039,
-            "timestamp": "2016-11-14T11:15:47Z",
-            "version": 1,
-            "changeset": 43636624,
+            "timestamp": "2023-07-22T20:23:13Z",
+            "version": 2,
+            "changeset": 138870567,
             "user": "Michoo",
             "uid": 594456,
             "tags": {
                 "defibrillator:location": "Defibrylator znajduje się w biurze obsługi klienta sklepu Media Markt (na prawo od wejścia do sklepu Media Markt).",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Sa 09:00-21:00;Su 10:00-20:00;PH off",
                 "operator": "Media Markt",
                 "wheelchair": "yes"
@@ -30472,15 +30473,16 @@
             "id": 9468323495,
             "lat": 53.1232365,
             "lon": 23.1773874,
-            "timestamp": "2022-02-02T11:19:19Z",
-            "version": 1,
-            "changeset": 116908528,
-            "user": "AereBiała",
-            "uid": 14998375,
+            "timestamp": "2023-07-22T20:23:13Z",
+            "version": 2,
+            "changeset": 138870567,
+            "user": "Michoo",
+            "uid": 594456,
             "tags": {
                 "defibrillator:location": "Pomieszczenie ochrony",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "operator": "Atrium Biała"
             }
         },
