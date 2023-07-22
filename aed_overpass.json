@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-22T18:32:24Z",
-        "timestamp_areas_base": "2023-07-22T17:02:41Z",
+        "timestamp_osm_base": "2023-07-22T19:32:45Z",
+        "timestamp_areas_base": "2023-07-20T07:57:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108292,15 +108292,16 @@
             "id": 11061732605,
             "lat": 52.1600818,
             "lon": 20.9168798,
-            "timestamp": "2023-07-22T14:29:04Z",
-            "version": 1,
-            "changeset": 138856869,
+            "timestamp": "2023-07-22T19:26:50Z",
+            "version": 2,
+            "changeset": 138868929,
             "user": "adamsc",
             "uid": 9147405,
             "tags": {
                 "defibrillator:location": "Skrzynka na płocie dostępna od strony chodnika",
                 "defibrillator:location:en": "Box on the fence accessible from the sidewalk",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
