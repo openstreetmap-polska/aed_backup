@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-22T10:32:29Z",
+        "timestamp_osm_base": "2023-07-22T11:31:59Z",
         "timestamp_areas_base": "2023-07-20T07:57:18Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36976,13 +36976,13 @@
         {
             "type": "node",
             "id": 9498574779,
-            "lat": 50.4478152,
-            "lon": 20.5888458,
-            "timestamp": "2022-04-23T12:17:01Z",
-            "version": 2,
-            "changeset": 120088691,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 50.4477476,
+            "lon": 20.5888394,
+            "timestamp": "2023-07-22T10:49:17Z",
+            "version": 3,
+            "changeset": 138848158,
+            "user": "lukubuku",
+            "uid": 12342978,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ogrodzenie Ośrodka Zdrowia",
