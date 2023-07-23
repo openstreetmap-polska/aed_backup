@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.2 bd0cdeae",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-23T16:32:15Z",
-        "timestamp_areas_base": "2023-07-20T07:57:18Z",
+        "timestamp_osm_base": "2023-07-23T17:31:45Z",
+        "timestamp_areas_base": "2023-07-23T16:27:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89611,13 +89611,13 @@
         {
             "type": "node",
             "id": 10592517205,
-            "lat": 52.2521995,
-            "lon": 21.0113095,
-            "timestamp": "2023-01-29T20:41:52Z",
-            "version": 1,
-            "changeset": 131854281,
-            "user": "salvager",
-            "uid": 1235329,
+            "lat": 52.252237,
+            "lon": 21.0113143,
+            "timestamp": "2023-07-23T16:39:32Z",
+            "version": 2,
+            "changeset": 138902231,
+            "user": "Rogoyski",
+            "uid": 67255,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W murowanym budynku na terenie Centrum Wspierania Rodzin \"Rodzinna Warszawa\", za furtką pierwszy budynek na lewo wejście od drugiej strony niż furtka, obok FabLab wbijaj - budynku postawionego z płyt komorowego poliwęglanu.",
