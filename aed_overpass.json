@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-24T18:32:20Z",
+        "timestamp_osm_base": "2023-07-24T19:31:46Z",
         "timestamp_areas_base": "2023-07-24T16:30:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107122,16 +107122,15 @@
             "id": 11021664241,
             "lat": 52.7258239,
             "lon": 15.2456251,
-            "timestamp": "2023-07-03T08:09:38Z",
-            "version": 1,
-            "changeset": 138052603,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-07-24T18:57:09Z",
+            "version": 2,
+            "changeset": 138954841,
+            "user": "Filosiq",
+            "uid": 18520619,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na budynku Gorzowskiego Rynku Hurtowego",
                 "emergency": "defibrillator",
-                "fixme": "Lokalizacja do weryfikacji",
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Gorzowski Rynek Hurtowy"
