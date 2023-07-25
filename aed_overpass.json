@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-25T06:32:44Z",
-        "timestamp_areas_base": "2023-07-25T01:24:20Z",
+        "timestamp_osm_base": "2023-07-25T07:32:06Z",
+        "timestamp_areas_base": "2023-07-25T06:04:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108324,6 +108324,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna w Golejowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11066411054,
+            "lat": 52.251993,
+            "lon": 21.0086971,
+            "timestamp": "2023-07-25T07:26:16Z",
+            "version": 1,
+            "changeset": 138973059,
+            "user": "KlubInteligencjiKatolickiej",
+            "uid": 19975666,
+            "tags": {
+                "access": "unknown",
+                "defibrillator:location": "Defibrylator znajduje się w budynku przy ul. Freta 20/24a na drugim piętrze w siedzibie Klubu Inteligencji Katolickiej po lewej stronie od głównych drzwi (na regale z książkami)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "9-17",
+                "operator": "Klub Inteligencji Katolickiej"
             }
         },
         {
