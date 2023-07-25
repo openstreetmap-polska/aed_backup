@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-25T07:32:06Z",
+        "timestamp_osm_base": "2023-07-25T08:31:45Z",
         "timestamp_areas_base": "2023-07-25T06:04:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108331,17 +108331,17 @@
             "id": 11066411054,
             "lat": 52.251993,
             "lon": 21.0086971,
-            "timestamp": "2023-07-25T07:26:16Z",
-            "version": 1,
-            "changeset": 138973059,
-            "user": "KlubInteligencjiKatolickiej",
-            "uid": 19975666,
+            "timestamp": "2023-07-25T08:08:57Z",
+            "version": 2,
+            "changeset": 138974738,
+            "user": "SzymonH",
+            "uid": 1189934,
             "tags": {
-                "access": "unknown",
+                "access": "customers",
                 "defibrillator:location": "Defibrylator znajduje się w budynku przy ul. Freta 20/24a na drugim piętrze w siedzibie Klubu Inteligencji Katolickiej po lewej stronie od głównych drzwi (na regale z książkami)",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "9-17",
+                "opening_hours": "Mo-Su 09:00-17:00",
                 "operator": "Klub Inteligencji Katolickiej"
             }
         },
