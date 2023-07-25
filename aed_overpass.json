@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-25T10:32:29Z",
-        "timestamp_areas_base": "2023-07-25T06:04:59Z",
+        "timestamp_osm_base": "2023-07-25T11:32:43Z",
+        "timestamp_areas_base": "2023-07-25T06:53:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -39371,13 +39371,14 @@
             "id": 9514427876,
             "lat": 51.4140422,
             "lon": 21.1630085,
-            "timestamp": "2022-02-21T17:42:50Z",
-            "version": 3,
-            "changeset": 117692966,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-07-25T11:02:55Z",
+            "version": 4,
+            "changeset": 138982754,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się w recepcji Komendy Wojewódzkiej Policji zs. w Radomiu.",
                 "defibrillator:location:en": "Inside the City and Provincial Police Office with its headquarters in Radom",
                 "emergency": "defibrillator",
                 "indoor": "yes",
