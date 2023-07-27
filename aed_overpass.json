@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-27T11:31:45Z",
-        "timestamp_areas_base": "2023-07-27T06:39:26Z",
+        "timestamp_osm_base": "2023-07-27T12:32:49Z",
+        "timestamp_areas_base": "2023-07-27T10:05:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108401,6 +108401,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11071110905,
+            "lat": 50.3947604,
+            "lon": 19.5336807,
+            "timestamp": "2023-07-27T11:51:49Z",
+            "version": 1,
+            "changeset": 139082684,
+            "user": "Wojciech Wieczorek",
+            "uid": 19997506,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wóz bojowy Ochotnicza Straż Pożarna Rodaki",
+                "defibrillator:location:en": "Volunteer fire fighting vehicle",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112 / 998 / 999"
             }
         },
         {
