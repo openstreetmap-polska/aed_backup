@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-27T19:32:56Z",
-        "timestamp_areas_base": "2023-07-27T14:49:30Z",
+        "timestamp_osm_base": "2023-07-27T20:32:29Z",
+        "timestamp_areas_base": "2023-07-27T16:08:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49212,13 +49212,13 @@
         {
             "type": "node",
             "id": 9568852717,
-            "lat": 50.9511948,
-            "lon": 17.3040671,
-            "timestamp": "2022-03-10T14:01:49Z",
-            "version": 1,
-            "changeset": 118325207,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 50.9506533,
+            "lon": 17.3045755,
+            "timestamp": "2023-07-27T19:43:05Z",
+            "version": 2,
+            "changeset": 139104553,
+            "user": "Cambroulet",
+            "uid": 8316246,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Bulodrom KS Petanque w Oławie przy ul. Rybackiej 29.",
