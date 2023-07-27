@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-27T21:32:14Z",
-        "timestamp_areas_base": "2023-07-27T16:08:34Z",
+        "timestamp_osm_base": "2023-07-27T22:31:59Z",
+        "timestamp_areas_base": "2023-07-27T19:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108421,6 +108421,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112 / 998 / 999"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11072030705,
+            "lat": 50.1929866,
+            "lon": 18.4484561,
+            "timestamp": "2023-07-27T21:50:44Z",
+            "version": 1,
+            "changeset": 139108840,
+            "user": "irik",
+            "uid": 248439,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do Nadleśnictwa Rudy Raciborskie.",
+                "defibrillator:location:en": "On the wall near entrance to Forest Inspectorate of Rudy Raciborskie.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
