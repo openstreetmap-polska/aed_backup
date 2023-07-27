@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-27T22:31:59Z",
+        "timestamp_osm_base": "2023-07-27T23:32:19Z",
         "timestamp_areas_base": "2023-07-27T19:30:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -93175,32 +93175,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "http://ospchoczewo.pl/wyposazenie/"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10691383121,
-            "lat": 52.244957,
-            "lon": 20.99972,
-            "timestamp": "2023-02-24T18:10:39Z",
-            "version": 1,
-            "changeset": 132979367,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "customers",
-                "check_date": "2023-02-19",
-                "defibrillator:location:en": "The AED is right in front of the entrance.",
-                "defibrillator:location:pl": "AED znajduje się na wprost od wejścia.",
-                "emergency": "defibrillator",
-                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM1444.jpg",
-                "indoor": "yes",
-                "manufacturer": "Philips",
-                "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su off",
-                "operator": "Warszawskie Centrum Pomocy Rodzinie Stołeczne Centrum Osób Niepełnosprawnych",
-                "ref:api-um-warszawa-pl": "1444",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
