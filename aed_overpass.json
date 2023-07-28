@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-28T20:32:14Z",
-        "timestamp_areas_base": "2023-07-28T15:52:25Z",
+        "timestamp_osm_base": "2023-07-28T21:31:54Z",
+        "timestamp_areas_base": "2023-07-28T19:04:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -237,25 +237,6 @@
                 "opening_hours": "Mo-Sa 07:30-22:00",
                 "operator": "CH Auchan",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2468218271,
-            "lat": 50.0620236,
-            "lon": 19.9610598,
-            "timestamp": "2022-01-17T09:55:39Z",
-            "version": 4,
-            "changeset": 116246100,
-            "user": "Marek Janowski",
-            "uid": 14873342,
-            "tags": {
-                "defibrillator:location": "ulica Zamkowa",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "level": "0",
-                "name": "Urządzenie AED",
-                "operator": "Urząd Miejskiw Przemyślu"
             }
         },
         {
