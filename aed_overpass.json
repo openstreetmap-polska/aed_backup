@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-28T12:29:33Z",
+        "timestamp_osm_base": "2023-07-28T14:32:15Z",
         "timestamp_areas_base": "2023-07-28T11:06:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108416,6 +108416,24 @@
                 "defibrillator:location:en": "On the wall near entrance to Forest Inspectorate of Rudy Raciborskie.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11073352205,
+            "lat": 50.0208207,
+            "lon": 21.9792553,
+            "timestamp": "2023-07-28T13:13:19Z",
+            "version": 1,
+            "changeset": 139135248,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Obi przy kasach",
+                "defibrillator:location:en": "Inside Obi, next to the cash desks",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
