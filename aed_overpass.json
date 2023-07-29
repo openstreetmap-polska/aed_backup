@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-29T12:32:00Z",
-        "timestamp_areas_base": "2023-07-29T09:09:43Z",
+        "timestamp_osm_base": "2023-07-29T13:31:44Z",
+        "timestamp_areas_base": "2023-07-29T10:49:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108404,9 +108404,9 @@
             "id": 11073352205,
             "lat": 50.0208207,
             "lon": 21.9792553,
-            "timestamp": "2023-07-28T15:46:42Z",
-            "version": 2,
-            "changeset": 139141743,
+            "timestamp": "2023-07-29T13:25:12Z",
+            "version": 3,
+            "changeset": 139173517,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -108415,7 +108415,8 @@
                 "defibrillator:location:en": "Inside Obi, next to the cash desks",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "0"
+                "level": "0",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su off"
             }
         },
         {
