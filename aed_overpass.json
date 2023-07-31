@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-31T13:32:02Z",
-        "timestamp_areas_base": "2023-07-31T10:13:00Z",
+        "timestamp_osm_base": "2023-07-31T14:32:06Z",
+        "timestamp_areas_base": "2023-07-31T12:51:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -88330,15 +88330,16 @@
             "id": 10576018908,
             "lat": 50.6760585,
             "lon": 17.8826992,
-            "timestamp": "2023-01-23T07:32:42Z",
-            "version": 1,
-            "changeset": 131594246,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-07-31T13:56:56Z",
+            "version": 2,
+            "changeset": 139255728,
+            "user": "b-r",
+            "uid": 14227577,
             "tags": {
                 "defibrillator:location": "W szkole",
                 "emergency": "defibrillator",
                 "fixme": "Lokalizacja do weryfikacji",
+                "indoor": "yes",
                 "source": "https://nto.pl/defibrylatory-na-ulicach-opola-na-terenie-miasta-beda-zamontowane-nowe-urzadzenia-ratujace-zycie/ar/c14-15134836"
             }
         },
