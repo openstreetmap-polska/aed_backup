@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-31T18:32:00Z",
+        "timestamp_osm_base": "2023-07-31T19:32:29Z",
         "timestamp_areas_base": "2023-07-31T17:39:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -10993,13 +10993,14 @@
             "id": 9410395117,
             "lat": 51.1631938,
             "lon": 21.2377864,
-            "timestamp": "2022-10-06T17:34:53Z",
-            "version": 5,
-            "changeset": 127112499,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-07-31T19:12:34Z",
+            "version": 6,
+            "changeset": 139268336,
+            "user": "Netmaper",
+            "uid": 5190327,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-07-09",
                 "defibrillator:location": "Przy Punkcie Informacji Turystycznej po lewej stronie od wejścia",
                 "defibrillator:location:en": "Outside the Tourist Information Centre to the left of the entrance",
                 "emergency": "defibrillator",
@@ -11007,7 +11008,7 @@
                 "opening_hours": "24/7",
                 "operator": "Centrum Informacji Turystycznej w Iłży",
                 "phone": "+48 537 458 111",
-                "source": "https://www.facebook.com/MiastoIlza/posts/3065819863685406"
+                "source": "https://www.facebook.com/MiastoIlza/posts/3065819863685406;streetlevel imagery"
             }
         },
         {
