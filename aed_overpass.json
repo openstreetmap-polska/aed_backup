@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-31T09:31:58Z",
+        "timestamp_osm_base": "2023-07-31T10:32:15Z",
         "timestamp_areas_base": "2023-07-31T08:09:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108424,17 +108424,19 @@
             "id": 11078369505,
             "lat": 50.0790079,
             "lon": 22.040284,
-            "timestamp": "2023-07-31T09:15:38Z",
-            "version": 1,
-            "changeset": 139243874,
+            "timestamp": "2023-07-31T09:47:17Z",
+            "version": 2,
+            "changeset": 139245378,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Na ścianie, przy pokoju numer 21",
-                "defibrillator:location:en": "On the wall, next to the room 21",
+                "defibrillator:location": "W Urzędzie Gminy, przy pokoju numer 21",
+                "defibrillator:location:en": "Inside the municipal office, next to room 21",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo 8:30-16:30; Tu-Fr 7:30-15:30; Sa-Su off"
             }
         },
         {
