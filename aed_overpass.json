@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-07-31T08:32:27Z",
-        "timestamp_areas_base": "2023-07-31T03:29:06Z",
+        "timestamp_osm_base": "2023-07-31T09:31:58Z",
+        "timestamp_areas_base": "2023-07-31T08:09:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103606,13 +103606,13 @@
             "id": 10923509356,
             "lat": 52.233109,
             "lon": 20.9603262,
-            "timestamp": "2023-05-24T06:33:31Z",
-            "version": 1,
-            "changeset": 136482701,
+            "timestamp": "2023-07-31T08:33:33Z",
+            "version": 2,
+            "changeset": 139241932,
             "user": "Aleksander | Yanosik",
             "uid": 15281180,
             "tags": {
-                "defibrillator:location": "Defivrylator znajduje się w budynku Krajowego Centrum Hodowli Zwierząt w Warszawie",
+                "defibrillator:location": "Defibrylator znajduje się w budynku Krajowego Centrum Hodowli Zwierząt w Warszawie",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:30-15:30",
@@ -108417,6 +108417,24 @@
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "Mo-Sa 07:00-21:00; Su off"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11078369505,
+            "lat": 50.0790079,
+            "lon": 22.040284,
+            "timestamp": "2023-07-31T09:15:38Z",
+            "version": 1,
+            "changeset": 139243874,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, przy pokoju numer 21",
+                "defibrillator:location:en": "On the wall, next to the room 21",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
