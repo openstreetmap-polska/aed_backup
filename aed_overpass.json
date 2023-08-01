@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-01T12:32:00Z",
-        "timestamp_areas_base": "2023-08-01T07:47:06Z",
+        "timestamp_osm_base": "2023-08-01T13:32:30Z",
+        "timestamp_areas_base": "2023-08-01T09:54:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108480,6 +108480,57 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080954705,
+            "lat": 50.0405648,
+            "lon": 22.0067517,
+            "timestamp": "2023-08-01T12:54:15Z",
+            "version": 1,
+            "changeset": 139299259,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu do budynku, u ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080957406,
+            "lat": 50.0392909,
+            "lon": 22.0077249,
+            "timestamp": "2023-08-01T13:01:19Z",
+            "version": 1,
+            "changeset": 139299576,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy wejściu, po lewej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080984005,
+            "lat": 50.0384364,
+            "lon": 22.0052286,
+            "timestamp": "2023-08-01T13:05:39Z",
+            "version": 1,
+            "changeset": 139299757,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na wprost od wejścia do Urzędu Miasta, obok recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
