@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-01T11:32:35Z",
+        "timestamp_osm_base": "2023-08-01T12:32:00Z",
         "timestamp_areas_base": "2023-08-01T07:47:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78863,11 +78863,11 @@
         {
             "type": "node",
             "id": 10263238381,
-            "lat": 51.8434804,
-            "lon": 16.5745273,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 1,
-            "changeset": 130087928,
+            "lat": 51.8434539,
+            "lon": 16.5745327,
+            "timestamp": "2023-08-01T12:03:46Z",
+            "version": 2,
+            "changeset": 139297129,
             "user": "voltairovicz",
             "uid": 1744629,
             "tags": {
@@ -108462,6 +108462,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "790 532 500"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080886680,
+            "lat": 51.7748927,
+            "lon": 19.8044909,
+            "timestamp": "2023-08-01T12:13:32Z",
+            "version": 1,
+            "changeset": 139297546,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku toalet, przy prysznicach zewnętrznych",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
