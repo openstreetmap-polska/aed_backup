@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-01T09:32:44Z",
+        "timestamp_osm_base": "2023-08-01T10:32:30Z",
         "timestamp_areas_base": "2023-08-01T05:11:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -108443,6 +108443,25 @@
                 "indoor": "yes",
                 "level": "1",
                 "opening_hours": "Mo 8:30-16:30; Tu-Fr 7:30-15:30; Sa-Su off"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11080649705,
+            "lat": 51.8665989,
+            "lon": 20.8782683,
+            "timestamp": "2023-08-01T10:05:18Z",
+            "version": 1,
+            "changeset": 139291954,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "1. parter budynku w gabinecie zabiegowym \n\n2. 1 piętro w punkcie szczepień",
+                "defibrillator:location:en": "1. ground floor of the building in the treatment room\n\n2. 1st floor at the vaccination point",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "790 532 500"
             }
         },
         {
