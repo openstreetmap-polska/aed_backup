@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-01T16:32:00Z",
+        "timestamp_osm_base": "2023-08-01T17:32:48Z",
         "timestamp_areas_base": "2023-08-01T12:32:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -84955,6 +84955,49 @@
                 "phone": "693 402 211",
                 "source": "https://wroclaw.gosc.pl/doc/7896001.Defibrylator-juz-jest-To-sprawa-zycia-lub-smierci?fbclid=IwAR3yzq4xhqibigC3h3OkodJZahFOPH02pIrZkRq1yCieN0V6fkaI4LmRdhk",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311820840,
+            "lat": 51.6149856,
+            "lon": 15.3242802,
+            "timestamp": "2023-08-01T17:25:45Z",
+            "version": 3,
+            "changeset": 139310905,
+            "user": "SomeoneElse_Revert",
+            "uid": 1778799,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie przy punkcie obsługi.",
+                "defibrillator:location:en": "On the wall by the service desk.",
+                "description": "W białej, kwadratowej gablocie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Th 07:30-15:30; Tu 07:30-17:00; Fr 07:00-14:00; Sa,Su off",
+                "operator": "Urząd Miasta Żagań",
+                "phone": "+48 68 477 10 40"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10311887741,
+            "lat": 51.6199303,
+            "lon": 15.319869,
+            "timestamp": "2023-08-01T17:25:45Z",
+            "version": 3,
+            "changeset": 139310905,
+            "user": "SomeoneElse_Revert",
+            "uid": 1778799,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku urzędu skarbowego.",
+                "defibrillator:location:en": "In the tax office building.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo 07:00-18:00; Tu-Fr 07:00-15:00; Sa,Su off",
+                "operator": "Urząd Skarbowy w Żaganiu"
             }
         },
         {
