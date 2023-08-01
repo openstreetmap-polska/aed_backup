@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-01T14:31:45Z",
-        "timestamp_areas_base": "2023-08-01T09:54:21Z",
+        "timestamp_osm_base": "2023-08-01T15:32:30Z",
+        "timestamp_areas_base": "2023-08-01T12:32:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -11501,15 +11501,16 @@
             "id": 9412882617,
             "lat": 50.0401406,
             "lon": 22.0061256,
-            "timestamp": "2022-01-12T16:49:12Z",
-            "version": 3,
-            "changeset": 116074428,
-            "user": "Mentisekk",
-            "uid": 11267783,
+            "timestamp": "2023-08-01T15:26:49Z",
+            "version": 4,
+            "changeset": 139306033,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Urząd Miasta Rzeszowa - Wydział Edukacji: parter",
                 "emergency": "defibrillator",
+                "level": "0",
                 "location": "indoor",
                 "opening_hours": "Mo-Tu 07:30–15:30; We 07:30–17:00; Th-Fr 07:30–15:30"
             }
@@ -105960,6 +105961,26 @@
         },
         {
             "type": "node",
+            "id": 11001274577,
+            "lat": 51.8002607,
+            "lon": 15.2472539,
+            "timestamp": "2023-08-01T14:37:58Z",
+            "version": 3,
+            "changeset": 139303885,
+            "user": "Thiskal",
+            "uid": 15944521,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do Urzędu Miasta",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Nowogrodzie Bobrzańskim",
+                "source": "https://newslubuski.pl/spoleczne/14675-defibrylatory-aed-stana-w-nowogrodzie-bobrzanskim.html"
+            }
+        },
+        {
+            "type": "node",
             "id": 11001317905,
             "lat": 52.2186704,
             "lon": 16.3615786,
@@ -108467,16 +108488,18 @@
             "id": 11080954705,
             "lat": 50.0405648,
             "lon": 22.0067517,
-            "timestamp": "2023-08-01T12:54:15Z",
-            "version": 1,
-            "changeset": 139299259,
+            "timestamp": "2023-08-01T15:26:49Z",
+            "version": 2,
+            "changeset": 139306033,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Przy wejściu do budynku, u ochrony",
+                "defibrillator:location": "W budynku Sądu Apelacyjnego, przy wejściu, u ochrony",
+                "defibrillator:location:en": "Inside the Court of Appeal (Sąd Apelacyjny) building, at the entrance security gate",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30; Sa,Su off"
             }
         },
         {
@@ -108484,16 +108507,19 @@
             "id": 11080957406,
             "lat": 50.0392909,
             "lon": 22.0077249,
-            "timestamp": "2023-08-01T13:01:19Z",
-            "version": 1,
-            "changeset": 139299576,
+            "timestamp": "2023-08-01T15:26:49Z",
+            "version": 2,
+            "changeset": 139306033,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "Przy wejściu, po lewej stronie",
+                "defibrillator:location": "W budynku banku ING, po lewej stronie od wejścia",
+                "defibrillator:location:en": "Inside the building of ING Bank, on the left from the entrance",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo,Tu,Th,Fr 10:00-17:00; We 10:00-15:00; Sa,Su off"
             }
         },
         {
@@ -108501,16 +108527,19 @@
             "id": 11080984005,
             "lat": 50.0384364,
             "lon": 22.0052286,
-            "timestamp": "2023-08-01T13:05:39Z",
-            "version": 1,
-            "changeset": 139299757,
+            "timestamp": "2023-08-01T15:26:49Z",
+            "version": 2,
+            "changeset": 139306033,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na wprost od wejścia do Urzędu Miasta, obok recepcji",
+                "defibrillator:location:en": "Straight from the entrance, next to the front desk",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo,Tu,Th,Fr 7:30-15:30; We 7:30-17:00; Sa,Su off"
             }
         },
         {
