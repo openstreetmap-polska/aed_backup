@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-04T20:31:56Z",
-        "timestamp_areas_base": "2023-08-04T18:58:25Z",
+        "timestamp_osm_base": "2023-08-04T21:32:40Z",
+        "timestamp_areas_base": "2023-08-04T16:10:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -41564,13 +41564,13 @@
         {
             "type": "node",
             "id": 9525820017,
-            "lat": 50.8753266,
-            "lon": 20.6219449,
-            "timestamp": "2022-02-22T00:39:35Z",
-            "version": 1,
-            "changeset": 117705791,
-            "user": "FundacjaAED",
-            "uid": 14770831,
+            "lat": 50.8753353,
+            "lon": 20.6219305,
+            "timestamp": "2023-08-04T21:09:11Z",
+            "version": 2,
+            "changeset": 139458110,
+            "user": "Awoobis",
+            "uid": 19837576,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie w podziemnym przejściu, na wprost wejścia na peron 18",
