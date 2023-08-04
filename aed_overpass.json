@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-04T10:32:44Z",
+        "timestamp_osm_base": "2023-08-04T11:32:40Z",
         "timestamp_areas_base": "2023-08-04T09:25:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2385,14 +2385,14 @@
             "id": 7157294910,
             "lat": 51.9393313,
             "lon": 15.5041825,
-            "timestamp": "2022-09-29T20:17:15Z",
-            "version": 2,
-            "changeset": 126797253,
+            "timestamp": "2023-08-04T11:01:04Z",
+            "version": 3,
+            "changeset": 139436195,
             "user": "km2bp",
             "uid": 3610826,
             "tags": {
                 "emergency": "defibrillator",
-                "image": "https://www.mapillary.com/map/im/0X4nNqrHbK2RmPK7vNxZAA"
+                "image": "https://photos.app.goo.gl/DptKPVffzkFG3wke8"
             }
         },
         {
@@ -26734,19 +26734,19 @@
         {
             "type": "node",
             "id": 9459253808,
-            "lat": 51.52364,
-            "lon": 22.31242,
-            "timestamp": "2022-02-01T15:58:30Z",
-            "version": 2,
-            "changeset": 116874555,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 51.5236895,
+            "lon": 22.3126049,
+            "timestamp": "2023-08-04T11:26:38Z",
+            "version": 3,
+            "changeset": 139437108,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
-                "operator": "OSP w Michowie"
+                "operator": "OSP Michów"
             }
         },
         {
@@ -108635,6 +108635,184 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "source": "https://leba.naszemiasto.pl/strefa-bezpieczenstwa-compensy-w-lebie/ar/c11-9389415"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949350,
+            "lat": 52.8088293,
+            "lon": 19.2935121,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Suradówek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949352,
+            "lat": 52.8595204,
+            "lon": 19.2503627,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Karnkowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949358,
+            "lat": 52.7786524,
+            "lon": 18.954818,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Bobrowniki"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949362,
+            "lat": 52.6399921,
+            "lon": 19.312685,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Dobrzyń nad Wisłą"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949366,
+            "lat": 52.6923224,
+            "lon": 19.3474622,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Mokowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949368,
+            "lat": 52.7476426,
+            "lon": 19.4700756,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Tłuchowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949370,
+            "lat": 51.9169294,
+            "lon": 16.5633368,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W samochodzie ratowniczo-gaśniczym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Lipno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949371,
+            "lat": 52.8523111,
+            "lon": 19.1714615,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W wozach Jednostki Ratowniczo Gaśniczej",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088949374,
+            "lat": 52.8357841,
+            "lon": 19.1947464,
+            "timestamp": "2023-08-04T11:12:43Z",
+            "version": 1,
+            "changeset": 139436603,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Komendzie Powiatowej Policji",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088956981,
+            "lat": 50.9872137,
+            "lon": 16.8348033,
+            "timestamp": "2023-08-04T11:31:49Z",
+            "version": 1,
+            "changeset": 139437342,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Gniechowice"
             }
         },
         {
