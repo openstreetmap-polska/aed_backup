@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-04T09:32:15Z",
-        "timestamp_areas_base": "2023-08-04T04:41:06Z",
+        "timestamp_osm_base": "2023-08-04T10:32:44Z",
+        "timestamp_areas_base": "2023-08-04T09:25:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2914,6 +2914,28 @@
             "tags": {
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7406136458,
+            "lat": 51.0188426,
+            "lon": 17.4633425,
+            "timestamp": "2023-08-04T10:06:43Z",
+            "version": 2,
+            "changeset": 139433762,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wewnątrz remizy OSP Minkowice Oławski. Na ścianie frontowej natomiast znajduje się przycisk alarmujące służby ratunkowe",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Minkowicach Oławskich",
+                "source": "https://www.facebook.com/photo/?fbid=4224107824275809&set=pcb.4224108390942419",
+                "wheelchair": "yes"
             }
         },
         {
@@ -108558,6 +108580,61 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "AMS Elektronik Sp. z o.o."
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088813278,
+            "lat": 50.9990781,
+            "lon": 17.51008,
+            "timestamp": "2023-08-04T10:06:43Z",
+            "version": 2,
+            "changeset": 139433762,
+            "user": "voltairovicz",
+            "uid": 1744629,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Biskupice Oławskie",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Biskupicach Oławskich",
+                "source": "https://www.facebook.com/RatujzSercem/posts/pfbid0odTWi9s8hX8BvdJdC75WP8bcQmv3yivAApn7HjBi8NWDzkGjoDPtFPZ5zfuy49RYl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088879103,
+            "lat": 54.5836864,
+            "lon": 16.8581318,
+            "timestamp": "2023-08-04T10:17:33Z",
+            "version": 1,
+            "changeset": 139434188,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku Domu Kultury",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://ustka.naszemiasto.pl/strefa-bezpieczenstwa-compensy-w-ustce/ar/c11-9389399"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11088884416,
+            "lat": 54.7647069,
+            "lon": 17.5489705,
+            "timestamp": "2023-08-04T10:19:08Z",
+            "version": 1,
+            "changeset": 139434253,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator zamontowany został w Porcie Jachtowym, przy ul. Jachtowej 8 w Łebie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://leba.naszemiasto.pl/strefa-bezpieczenstwa-compensy-w-lebie/ar/c11-9389415"
             }
         },
         {
