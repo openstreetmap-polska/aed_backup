@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-05T17:32:23Z",
-        "timestamp_areas_base": "2023-08-05T14:07:49Z",
+        "timestamp_osm_base": "2023-08-05T18:32:35Z",
+        "timestamp_areas_base": "2023-08-05T15:54:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108854,17 +108854,18 @@
             "id": 11091731805,
             "lat": 49.8948234,
             "lon": 20.3862785,
-            "timestamp": "2023-08-05T15:28:42Z",
-            "version": 1,
-            "changeset": 139485077,
+            "timestamp": "2023-08-05T17:50:47Z",
+            "version": 2,
+            "changeset": 139490659,
             "user": "mateusz_trojan",
             "uid": 9882676,
             "tags": {
-                "access": "yes",
+                "access": "permit",
                 "defibrillator:location": "Na samochodzie ratowniczo-gaśniczym OSP Wola Nieszkowska",
                 "defibrillator:location:en": "In fire truck OSP Wola Nieszkowska",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
+                "operator": "OSP WOLA NIESZKOWSKA",
                 "phone": "+48661657342"
             }
         },
