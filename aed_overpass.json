@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-06T15:31:56Z",
-        "timestamp_areas_base": "2023-08-06T10:49:14Z",
+        "timestamp_osm_base": "2023-08-06T16:32:06Z",
+        "timestamp_areas_base": "2023-08-06T15:34:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -109032,6 +109032,25 @@
                 "indoor": "no",
                 "operator": "OSP Kuchary",
                 "source": "https://www.facebook.com/photo?fbid=1224566201666508&set=pcb.1224566281666500&locale=pl_PL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093652105,
+            "lat": 53.1042739,
+            "lon": 15.0760529,
+            "timestamp": "2023-08-06T15:40:33Z",
+            "version": 1,
+            "changeset": 139521179,
+            "user": "wampaldempek",
+            "uid": 20047546,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie obok schodów wejścia do budynku Urzędu Gminy Przelewice.",
+                "defibrillator:location:en": "On the wall next to the stairs of the entrance to the building of the Przelewice Commune Office.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 725 470 704"
             }
         },
         {
