@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-06T11:32:06Z",
-        "timestamp_areas_base": "2023-08-06T09:09:59Z",
+        "timestamp_osm_base": "2023-08-06T12:32:36Z",
+        "timestamp_areas_base": "2023-08-06T10:49:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -108938,6 +108938,99 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "operator": "OSP Rycerka Górna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093225485,
+            "lat": 51.8786148,
+            "lon": 17.932359,
+            "timestamp": "2023-08-06T11:48:59Z",
+            "version": 1,
+            "changeset": 139512509,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://www.facebook.com/photo/?fbid=1224566144999847&set=pcb.1224566281666500&locale=pl_PL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093270807,
+            "lat": 51.7991701,
+            "lon": 17.8916571,
+            "timestamp": "2023-08-06T11:48:59Z",
+            "version": 1,
+            "changeset": 139512509,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie sali wiejskiej",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Karsy",
+                "source": "https://www.facebook.com/photo/?fbid=1224566134999848&set=pcb.1224566281666500&locale=pl_PL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093270808,
+            "lat": 51.8486033,
+            "lon": 17.9304273,
+            "timestamp": "2023-08-06T11:48:59Z",
+            "version": 1,
+            "changeset": 139512509,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek starej gminy w Gołuchowie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "source": "https://www.facebook.com/photo/?fbid=1224566221666506&set=pcb.1224566281666500&locale=pl_PL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093270815,
+            "lat": 51.7841389,
+            "lon": 18.012675,
+            "timestamp": "2023-08-06T11:48:59Z",
+            "version": 1,
+            "changeset": 139512509,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Kościelna Wieś",
+                "source": "https://www.facebook.com/photo/?fbid=1224566101666518&set=pcb.1224566281666500&locale=pl_PL"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11093270816,
+            "lat": 51.8110632,
+            "lon": 17.9851315,
+            "timestamp": "2023-08-06T11:48:59Z",
+            "version": 1,
+            "changeset": 139512509,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "operator": "OSP Kuchary",
+                "source": "https://www.facebook.com/photo?fbid=1224566201666508&set=pcb.1224566281666500&locale=pl_PL"
             }
         },
         {
