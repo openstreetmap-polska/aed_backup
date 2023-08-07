@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-07T06:32:14Z",
-        "timestamp_areas_base": "2023-08-07T01:07:55Z",
+        "timestamp_osm_base": "2023-08-07T07:31:55Z",
+        "timestamp_areas_base": "2023-08-07T05:49:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -109091,6 +109091,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Centralny Ośrodek Sportu Wałcz - Ośrodek Przygotowań Olimpijskich"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11096493905,
+            "lat": 52.2249211,
+            "lon": 20.944934,
+            "timestamp": "2023-08-07T07:16:54Z",
+            "version": 1,
+            "changeset": 139547908,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-04",
+                "defibrillator:location:pl": "W centrum medycznym w gabinecie lekarskim nr 6",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
