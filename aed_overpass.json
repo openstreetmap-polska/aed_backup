@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-07T13:32:35Z",
-        "timestamp_areas_base": "2023-08-07T10:36:44Z",
+        "timestamp_osm_base": "2023-08-07T14:32:15Z",
+        "timestamp_areas_base": "2023-08-07T09:00:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -109110,6 +109110,42 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11097170205,
+            "lat": 50.9589959,
+            "lon": 16.8631796,
+            "timestamp": "2023-08-07T14:17:34Z",
+            "version": 1,
+            "changeset": 139567743,
+            "user": "Bolec 998",
+            "uid": 20051530,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W budynku remizy OSP Pustków Żurawski",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11097170405,
+            "lat": 52.6031894,
+            "lon": 19.2513219,
+            "timestamp": "2023-08-07T14:17:37Z",
+            "version": 1,
+            "changeset": 139567751,
+            "user": "OSP SMÓLNIK",
+            "uid": 20051544,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Remiza OSP SMÓLNIK",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
