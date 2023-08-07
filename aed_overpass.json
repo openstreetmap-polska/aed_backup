@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-07T20:32:43Z",
+        "timestamp_osm_base": "2023-08-07T21:32:13Z",
         "timestamp_areas_base": "2023-08-07T18:34:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109163,6 +109163,24 @@
                 "defibrillator:location": "W budynku remizy OSP Pustków Żurawski",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11098197705,
+            "lat": 51.6171601,
+            "lon": 16.8581595,
+            "timestamp": "2023-08-07T21:18:43Z",
+            "version": 1,
+            "changeset": 139584005,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-07",
+                "defibrillator:location:pl": "Na prawo od drzwi wejściowych do szkoły podstawowej",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
