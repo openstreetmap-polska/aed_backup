@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-08T12:32:14Z",
+        "timestamp_osm_base": "2023-08-08T13:32:29Z",
         "timestamp_areas_base": "2023-08-08T09:01:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109855,6 +109855,43 @@
                 "emergency": "defibrillator",
                 "fixme": "dokładne położenie",
                 "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099345976,
+            "lat": 50.4963571,
+            "lon": 19.0866047,
+            "timestamp": "2023-08-08T12:50:47Z",
+            "version": 1,
+            "changeset": 139611980,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu OSP w Zendku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP Zendek"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099408213,
+            "lat": 51.6781022,
+            "lon": 17.2934407,
+            "timestamp": "2023-08-08T13:24:03Z",
+            "version": 1,
+            "changeset": 139613409,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się w budynku.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Dom Pomocy Społecznej w Baszkowie",
+                "phone": "+48627211206"
             }
         },
         {
