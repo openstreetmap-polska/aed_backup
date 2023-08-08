@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-08T11:32:00Z",
+        "timestamp_osm_base": "2023-08-08T12:32:14Z",
         "timestamp_areas_base": "2023-08-08T09:01:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109779,6 +109779,81 @@
                 "defibrillator:location": "biblioteka przy ul. Nowy Kisielin – Odrzańska 62",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099292830,
+            "lat": 51.9989379,
+            "lon": 15.6107185,
+            "timestamp": "2023-08-08T12:18:20Z",
+            "version": 1,
+            "changeset": 139610575,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "defibrillator:location": "Park rekreacyjny",
+                "defibrillator:location:en": "Recreational park",
+                "emergency": "defibrillator",
+                "fixme": "dokładne położenie",
+                "indoor": "no",
+                "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099292831,
+            "lat": 51.9777748,
+            "lon": 15.487099,
+            "timestamp": "2023-08-08T12:18:20Z",
+            "version": 1,
+            "changeset": 139610575,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przystanek MZK przy ul Łężyca – Inwestycyjna 1 (obok sklepu Biedronka)",
+                "defibrillator:location:en": "Bus stop on Łężyca - Inwestycyjna 1 Street (next to Biedronka supermarket)",
+                "emergency": "defibrillator",
+                "fixme": "dokładne położenie",
+                "indoor": "no",
+                "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099292832,
+            "lat": 51.8600525,
+            "lon": 15.5607873,
+            "timestamp": "2023-08-08T12:18:20Z",
+            "version": 1,
+            "changeset": 139610575,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "defibrillator:location": "Świetlica przy ul. Zatonie – Zielonogórska",
+                "defibrillator:location:en": "The day care center on Zatonie - Zielonogórska Street",
+                "emergency": "defibrillator",
+                "fixme": "dokładne położenie",
+                "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11099292833,
+            "lat": 51.8616866,
+            "lon": 15.5653699,
+            "timestamp": "2023-08-08T12:18:20Z",
+            "version": 1,
+            "changeset": 139610575,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "defibrillator:location": "Informacja turystyczna przy ul. Zatonie – Księżnej Doroty",
+                "defibrillator:location:en": "Tourist information on Zatonie – Księżnej Doroty Street",
+                "emergency": "defibrillator",
+                "fixme": "dokładne położenie",
                 "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
             }
         },
