@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.4 df4c946a",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-08T13:32:29Z",
+        "timestamp_osm_base": "2023-08-08T14:32:45Z",
         "timestamp_areas_base": "2023-08-08T09:01:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109659,18 +109659,17 @@
         {
             "type": "node",
             "id": 11099100104,
-            "lat": 51.8473383,
-            "lon": 15.5628564,
-            "timestamp": "2023-08-08T09:56:09Z",
-            "version": 1,
-            "changeset": 139604714,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 51.8472525,
+            "lon": 15.5627472,
+            "timestamp": "2023-08-08T14:28:11Z",
+            "version": 3,
+            "changeset": 139616353,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
-                "access": "yes",
                 "defibrillator:location": "świetlica przy ul. Barcikowice 15",
                 "emergency": "defibrillator",
-                "indoor": "no",
+                "fixme": "dokładne położenie",
                 "source": "https://gorzow.tvp.pl/71653407/miasto-stawia-na-bezpieczenstwo-mozna-juz-korzystac-z-defibrylatorow; https://rzg.pl/233308/36-defibrylatorow-dla-dzielnicy-nowe-miasto/"
             }
         },
