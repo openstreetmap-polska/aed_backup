@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-10T13:32:08Z",
+        "timestamp_osm_base": "2023-08-10T14:32:06Z",
         "timestamp_areas_base": "2023-08-10T08:57:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109944,6 +109944,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11104789685,
+            "lat": 50.4815801,
+            "lon": 23.0905675,
+            "timestamp": "2023-08-10T13:35:18Z",
+            "version": 1,
+            "changeset": 139707781,
+            "user": "Dawid2849",
+            "uid": 10642775,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Majdan Nepryski",
+                "defibrillator:location:en": "Rescue and firefighting car",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Majdanie Nepryskim",
+                "source": "https://gazetabilgoraj.pl/wioska-dlugo-na-to-czekala-oby-sie-nie-przydalo/"
             }
         },
         {
