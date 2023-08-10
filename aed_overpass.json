@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-10T08:32:00Z",
+        "timestamp_osm_base": "2023-08-10T09:32:23Z",
         "timestamp_areas_base": "2023-08-10T05:10:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -109925,6 +109925,25 @@
                 "defibrillator:location:en": "Cash desk",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11104322105,
+            "lat": 54.5955021,
+            "lon": 18.3532387,
+            "timestamp": "2023-08-10T08:58:12Z",
+            "version": 1,
+            "changeset": 139695743,
+            "user": "SzymonH",
+            "uid": 1189934,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-10",
+                "defibrillator:location:pl": "W poczekalni, obok kasy biletowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
