@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-10T12:31:52Z",
+        "timestamp_osm_base": "2023-08-10T13:32:08Z",
         "timestamp_areas_base": "2023-08-10T08:57:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -223,9 +223,9 @@
             "id": 2460314043,
             "lat": 49.8317696,
             "lon": 18.9849497,
-            "timestamp": "2023-02-17T17:41:07Z",
-            "version": 5,
-            "changeset": 132687920,
+            "timestamp": "2023-08-10T12:37:01Z",
+            "version": 6,
+            "changeset": 139705199,
             "user": "Carpathians",
             "uid": 17665316,
             "tags": {
@@ -233,7 +233,7 @@
                 "defibrillator:location": "Obok kantoru i bankomatu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "Parter",
+                "level": "0",
                 "opening_hours": "Mo-Sa 07:30-22:00",
                 "operator": "CH Auchan",
                 "wheelchair": "yes"
@@ -89887,9 +89887,9 @@
             "id": 10599184101,
             "lat": 49.834104,
             "lon": 18.9821831,
-            "timestamp": "2023-02-01T15:11:26Z",
-            "version": 1,
-            "changeset": 131967467,
+            "timestamp": "2023-08-10T12:37:01Z",
+            "version": 2,
+            "changeset": 139705199,
             "user": "Carpathians",
             "uid": 17665316,
             "tags": {
@@ -89897,7 +89897,7 @@
                 "defibrillator:location": "W środku sklepu, na ścianie pomiędzy wejściem głównym a toaletami",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "Parter",
+                "level": "0",
                 "opening_hours": "Mo-Sa 08:00-22:00",
                 "operator": "Decathlon",
                 "wheelchair": "yes"
