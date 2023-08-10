@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-10T18:32:08Z",
-        "timestamp_areas_base": "2023-08-10T14:43:16Z",
+        "timestamp_osm_base": "2023-08-10T19:31:52Z",
+        "timestamp_areas_base": "2023-08-10T18:32:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -109964,6 +109964,47 @@
                 "opening_hours": "24/7",
                 "operator": "Ochotnicza Straż Pożarna w Majdanie Nepryskim",
                 "source": "https://gazetabilgoraj.pl/wioska-dlugo-na-to-czekala-oby-sie-nie-przydalo/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11105665632,
+            "lat": 51.9023667,
+            "lon": 16.4481206,
+            "timestamp": "2023-08-10T18:49:21Z",
+            "version": 2,
+            "changeset": 139719849,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-10",
+                "defibrillator:location:en": "On the wall of the pharmacy from the side of the parking lot.",
+                "defibrillator:location:pl": "Na ścianie apteki od strony parkingu.",
+                "description:en": "In an illuminated Rotaid capsule.",
+                "description:pl": "W podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "source": "https://leszno.naszemiasto.pl/w-krzycku-wielkim-jako-pierwsi-w-gminie-maja-sprzet/ar/c1-9417987"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11105720647,
+            "lat": 51.4922935,
+            "lon": 23.5271984,
+            "timestamp": "2023-08-10T19:02:09Z",
+            "version": 1,
+            "changeset": 139720402,
+            "user": "kpv8",
+            "uid": 10492626,
+            "tags": {
+                "access": "private",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Hotel Sanvit Lake Resort & Spa"
             }
         },
         {
