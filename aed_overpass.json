@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-11T04:32:48Z",
+        "timestamp_osm_base": "2023-08-11T05:31:55Z",
         "timestamp_areas_base": "2023-08-11T00:14:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110005,6 +110005,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Hotel Sanvit Lake Resort & Spa"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11107000805,
+            "lat": 52.7475376,
+            "lon": 18.8691431,
+            "timestamp": "2023-08-11T04:48:28Z",
+            "version": 1,
+            "changeset": 139731913,
+            "user": "Kojot1979",
+            "uid": 20063621,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-11",
+                "defibrillator:location:pl": "Dostępne po naciśnięciu przycisku syreny alarmowej",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "606761759"
             }
         },
         {
