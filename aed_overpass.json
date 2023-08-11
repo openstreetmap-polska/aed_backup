@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-11T08:32:00Z",
-        "timestamp_areas_base": "2023-08-11T04:06:10Z",
+        "timestamp_osm_base": "2023-08-11T09:31:46Z",
+        "timestamp_areas_base": "2023-08-11T04:56:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -109115,11 +109115,11 @@
         {
             "type": "node",
             "id": 11097170205,
-            "lat": 50.9589959,
-            "lon": 16.8631796,
-            "timestamp": "2023-08-07T14:17:34Z",
-            "version": 1,
-            "changeset": 139567743,
+            "lat": 50.9589537,
+            "lon": 16.8631246,
+            "timestamp": "2023-08-11T09:23:32Z",
+            "version": 2,
+            "changeset": 139741485,
             "user": "Bolec 998",
             "uid": 20051530,
             "tags": {
@@ -109151,18 +109151,22 @@
         {
             "type": "node",
             "id": 11097222205,
-            "lat": 50.9589165,
-            "lon": 16.8631769,
-            "timestamp": "2023-08-07T14:43:20Z",
-            "version": 1,
-            "changeset": 139568926,
+            "lat": 50.9589494,
+            "lon": 16.8632158,
+            "timestamp": "2023-08-11T09:23:32Z",
+            "version": 2,
+            "changeset": 139741485,
             "user": "Bolec 998",
             "uid": 20051530,
             "tags": {
-                "access": "private",
+                "access": "permissive",
                 "defibrillator:location": "W budynku remizy OSP Pustków Żurawski",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Pustków Żurawski",
+                "ref": "661-030-741   882-928-640"
             }
         },
         {
