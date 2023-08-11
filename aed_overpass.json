@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-11T10:32:06Z",
+        "timestamp_osm_base": "2023-08-11T11:32:42Z",
         "timestamp_areas_base": "2023-08-11T09:40:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110028,6 +110028,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "606761759"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11107463310,
+            "lat": 53.7788267,
+            "lon": 17.2547839,
+            "timestamp": "2023-08-11T11:32:12Z",
+            "version": 3,
+            "changeset": 139746641,
+            "user": "Jerry_W2k",
+            "uid": 4732840,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, na prawo przed wejściem do budynku",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "Mo-Fr 07:00-15:00",
+                "operator": "Nadleśnictwo Niedźwiady",
+                "phone": "+48 59 833 43 71"
             }
         },
         {
