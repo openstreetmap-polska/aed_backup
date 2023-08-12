@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-12T18:32:35Z",
-        "timestamp_areas_base": "2023-08-12T13:25:44Z",
+        "timestamp_osm_base": "2023-08-12T19:32:26Z",
+        "timestamp_areas_base": "2023-08-12T18:13:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110036,6 +110036,31 @@
                 "opening_hours": "Mo-Fr 07:00-15:00",
                 "operator": "Nadleśnictwo Niedźwiady",
                 "phone": "+48 59 833 43 71"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11110385590,
+            "lat": 50.2069445,
+            "lon": 23.1089205,
+            "timestamp": "2023-08-12T18:58:11Z",
+            "version": 1,
+            "changeset": 139799213,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-12",
+                "defibrillator:location:en": "On the wall of the OSP Dachnów firehouse.",
+                "defibrillator:location:pl": "Na ścianie remizy OSP Dachnów.",
+                "description:en": "In an illuminated Rotaid capsule.",
+                "description:pl": "W podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Dachnów",
+                "source": "https://zlubaczowa.pl/news/inne1/11519-mieszkancy-dachnowa-maja-ogolnodostepny-defibrylator-zadbali-o-to-druhowie",
+                "wheelchair": "yes"
             }
         },
         {
