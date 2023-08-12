@@ -1,4 +1,4 @@
-# AED backup and stats (2023-08-11 12:33:05)
+# AED backup and stats (2023-08-12 12:33:05)
 
 
 ## Total AED plot
@@ -7,8 +7,8 @@ Total AED: 5845
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2023-01-01: 4153\
-Average daily growth since beginning of the year: 8.46
+AED for 2023-01-01: 4147\
+Average daily growth since beginning of the year: 8.44
 
 ## Top creators
 | # | User | Created |
@@ -20,7 +20,7 @@ Average daily growth since beginning of the year: 8.46
 | 5 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 6 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 339 |
 | 7 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 333 |
-| 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 137 |
+| 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 134 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 113 |
 | 10 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 89 |
@@ -35,8 +35,8 @@ Average daily growth since beginning of the year: 8.46
 | 20 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 21 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 31 |
 | 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 29 |
-| 23 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
-| 24 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 23 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 24 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
 | 25 | [Adam_Piszczek](<https://www.openstreetmap.org/user/Adam_Piszczek>) | 26 |
 
 ## Tag access pie

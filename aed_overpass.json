@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-12T11:32:00Z",
-        "timestamp_areas_base": "2023-08-12T08:42:45Z",
+        "timestamp_osm_base": "2023-08-12T12:32:30Z",
+        "timestamp_areas_base": "2023-08-12T09:21:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -8443,17 +8443,17 @@
             "id": 9372773571,
             "lat": 51.1230731,
             "lon": 17.0520215,
-            "timestamp": "2022-01-15T12:37:39Z",
-            "version": 2,
-            "changeset": 116180716,
-            "user": "maraf24",
-            "uid": 2098272,
+            "timestamp": "2023-08-12T11:39:02Z",
+            "version": 3,
+            "changeset": 139784099,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "na słupie przy kasach, na wprost wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "\"w godzinach otwarcia Biedronki\"",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
                 "operator": "Biedronka"
             }
         },
@@ -15160,18 +15160,17 @@
             "id": 9426491342,
             "lat": 53.3337112,
             "lon": 15.0273385,
-            "timestamp": "2023-07-19T10:29:04Z",
-            "version": 2,
-            "changeset": 138709643,
-            "user": "Iga | Yanosik",
-            "uid": 4873389,
+            "timestamp": "2023-08-12T11:42:53Z",
+            "version": 3,
+            "changeset": 139784278,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "wewnątrz, przy kasach",
+                "defibrillator:location": "Wewnątrz, przy kasach",
                 "emergency": "defibrillator",
                 "fixme": "należy zweryfikować czy po likwidacji Castoramy AED wciąż funkcjonuje",
                 "indoor": "yes",
-                "opening_hours": "'w godzinach otwarcia Castoramy'",
                 "operator": "Castorama"
             }
         },
@@ -15237,16 +15236,15 @@
             "id": 9426491357,
             "lat": 53.3341217,
             "lon": 15.0394908,
-            "timestamp": "2022-01-17T19:48:19Z",
-            "version": 1,
-            "changeset": 116269246,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2023-08-12T11:42:23Z",
+            "version": 2,
+            "changeset": 139784255,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "'w godzinach pracy sądu'",
                 "operator": "Sąd Rejonowy"
             }
         },
@@ -52889,17 +52887,16 @@
             "id": 9587935528,
             "lat": 52.4270669,
             "lon": 20.7199739,
-            "timestamp": "2022-03-18T14:47:11Z",
-            "version": 1,
-            "changeset": 118636093,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2023-08-12T11:40:47Z",
+            "version": 2,
+            "changeset": 139784179,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Rejestarcja POZ- poradnia dla dorosłych",
                 "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "W godzinach pracy placówki"
+                "indoor": "yes"
             }
         },
         {
@@ -73671,17 +73668,17 @@
             "id": 10102139196,
             "lat": 52.4338366,
             "lon": 16.9363314,
-            "timestamp": "2022-10-14T21:20:22Z",
-            "version": 1,
-            "changeset": 127545954,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "timestamp": "2023-08-12T11:41:30Z",
+            "version": 2,
+            "changeset": 139784214,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Na ścianie, blisko kas",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "w godzinach pracy sklepu",
+                "opening_hours": "Mo-Fr 7:00-21:00; Sa 8:00-20:00; Su 9:00-19:00",
                 "operator": "Castorama"
             }
         },
@@ -75385,17 +75382,16 @@
             "id": 10157255701,
             "lat": 52.6150895,
             "lon": 16.5740824,
-            "timestamp": "2022-11-14T19:17:38Z",
-            "version": 2,
-            "changeset": 128906308,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-08-12T11:42:11Z",
+            "version": 3,
+            "changeset": 139784245,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
-                "access": "permit",
+                "access": "customers",
                 "defibrillator:location": "Główne wejście, portiernia.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "\"W godzinach pracy sądu\"",
                 "operator": "Sąd Rejonowy w Szamotułach"
             }
         },
@@ -75404,17 +75400,17 @@
             "id": 10157548477,
             "lat": 52.4865159,
             "lon": 16.8514398,
-            "timestamp": "2022-11-04T17:44:45Z",
-            "version": 1,
-            "changeset": 128494632,
-            "user": "Aim311_",
-            "uid": 17295082,
+            "timestamp": "2023-08-12T11:41:46Z",
+            "version": 2,
+            "changeset": 139784230,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Przy kasie na ścianie, żółte opakowanie.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "W godzinach pracy sklepu",
+                "opening_hours": "Mo-Sa 06:30-21:00; Su 09:00-20:00",
                 "operator": "Leroy Merlin"
             }
         },
@@ -92825,13 +92821,13 @@
             "id": 10689085216,
             "lat": 52.244615,
             "lon": 20.979727,
-            "timestamp": "2023-02-23T19:07:34Z",
-            "version": 1,
-            "changeset": 132939977,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-08-12T11:44:35Z",
+            "version": 2,
+            "changeset": 139784341,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
-                "access": "private",
+                "access": "customers",
                 "check_date": "2023-02-19",
                 "defibrillator:location:en": "The AED is at the Expedition employee.",
                 "defibrillator:location:pl": "AED znajduje się u pracownika Ekspedycji.",
@@ -92842,10 +92838,9 @@
                 "manufacturer": "Philips",
                 "model": "Heartstart HS1",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "\"W godzinach pracy Ekspedycji ZTM\"",
                 "operator": "ZTM Warszawa",
                 "ref:api-um-warszawa-pl": "1176",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
@@ -92878,11 +92873,11 @@
             "id": 10689120472,
             "lat": 52.254654,
             "lon": 20.991392,
-            "timestamp": "2023-02-23T19:35:42Z",
-            "version": 1,
-            "changeset": 132940746,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-08-12T11:44:20Z",
+            "version": 2,
+            "changeset": 139784330,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "check_date": "2023-02-19",
                 "defibrillator:location:en": "At the hospital clinic.",
@@ -92892,11 +92887,10 @@
                 "indoor": "yes",
                 "manufacturer": "Lifepak 1000",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "\"W godzinach pracy przychodni.\"",
                 "operator": "Szpital Specjalistyczny \"Inflancka\" im. Krysi Niżyńskiej \"Zakurzonej\"",
                 "phone": "+48 22 69 73 129",
                 "ref:api-um-warszawa-pl": "1193",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
@@ -93414,20 +93408,18 @@
             "id": 10691814883,
             "lat": 52.231806,
             "lon": 21.006307,
-            "timestamp": "2023-03-15T08:11:41Z",
-            "version": 3,
-            "changeset": 133698627,
-            "user": "olomaster",
-            "uid": 18724156,
+            "timestamp": "2023-08-12T11:46:31Z",
+            "version": 4,
+            "changeset": 139784413,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
-                "defibrillator:location:pl": "Dostępny na 30p widokowym. ",
+                "defibrillator:location:pl": "Dostępny na 30p widokowym.",
                 "emergency": "defibrillator",
-                "image": "",
                 "indoor": "yes",
-                "opening_hours": "\"W godzinach otwarcia.\"",
                 "operator": "Pałac Kultury i Nauki",
-                "phone": "+48 22 656 76 00; +48 22 656 73 33"
+                "phone": "+48 22 656 76 00;+48 22 656 73 33"
             }
         },
         {
@@ -93435,20 +93427,18 @@
             "id": 10691814884,
             "lat": 52.2318872,
             "lon": 21.0066613,
-            "timestamp": "2023-03-15T08:13:04Z",
-            "version": 3,
-            "changeset": 133698669,
-            "user": "olomaster",
-            "uid": 18724156,
+            "timestamp": "2023-08-12T11:46:36Z",
+            "version": 4,
+            "changeset": 139784415,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "yes",
                 "defibrillator:location:pl": "Dostępny na dole u ochrony budynku",
                 "emergency": "defibrillator",
-                "image": "",
                 "indoor": "yes",
-                "opening_hours": "\"W godzinach otwarcia.\"",
                 "operator": "Pałac Kultury i Nauki",
-                "phone": "+48 22 656 76 00; +48 22 656 73 33"
+                "phone": "+48 22 656 76 00;+48 22 656 73 33"
             }
         },
         {
@@ -93456,11 +93446,11 @@
             "id": 10691831668,
             "lat": 52.2325156,
             "lon": 21.0045783,
-            "timestamp": "2023-02-24T21:08:39Z",
-            "version": 1,
-            "changeset": 132984953,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-08-12T11:46:16Z",
+            "version": 2,
+            "changeset": 139784399,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-19",
@@ -93472,10 +93462,9 @@
                 "manufacturer": "Samaritan",
                 "model": "PAD 350 P",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "\"W godzinach otwarcia pływalni.\"",
                 "phone": "+48 22 620 33 63",
                 "ref:api-um-warszawa-pl": "1127",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
@@ -94747,11 +94736,11 @@
             "id": 10695570154,
             "lat": 52.2374272,
             "lon": 20.9536947,
-            "timestamp": "2023-02-26T19:47:33Z",
-            "version": 1,
-            "changeset": 133057273,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-08-12T11:47:22Z",
+            "version": 2,
+            "changeset": 139784442,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-19",
@@ -94763,11 +94752,10 @@
                 "manufacturer": "Zoll",
                 "model": "AED Plus",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
-                "opening_hours": "\"W godzinach otwarcia Ośrodka.\"",
                 "operator": "Park Wodny Moczydło",
                 "phone": "+48 22 162 73 41",
                 "ref:api-um-warszawa-pl": "1246",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
