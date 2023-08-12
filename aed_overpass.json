@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-12T19:32:26Z",
+        "timestamp_osm_base": "2023-08-12T20:31:43Z",
         "timestamp_areas_base": "2023-08-12T18:13:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110043,9 +110043,9 @@
             "id": 11110385590,
             "lat": 50.2069445,
             "lon": 23.1089205,
-            "timestamp": "2023-08-12T18:58:11Z",
-            "version": 1,
-            "changeset": 139799213,
+            "timestamp": "2023-08-12T19:36:55Z",
+            "version": 2,
+            "changeset": 139800481,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -110056,6 +110056,7 @@
                 "description:en": "In an illuminated Rotaid capsule.",
                 "description:pl": "W podświetlanej kapsule Rotaid.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "level": "0",
                 "opening_hours": "24/7",
                 "operator": "OSP Dachnów",
