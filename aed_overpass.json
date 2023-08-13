@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-13T22:32:06Z",
+        "timestamp_osm_base": "2023-08-13T23:32:06Z",
         "timestamp_areas_base": "2023-08-13T18:36:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50846,16 +50846,19 @@
         {
             "type": "node",
             "id": 9570996095,
-            "lat": 50.0957813,
-            "lon": 21.9167476,
-            "timestamp": "2022-03-11T14:51:08Z",
-            "version": 1,
-            "changeset": 118367120,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 50.0958481,
+            "lon": 21.9168736,
+            "timestamp": "2023-08-13T23:26:41Z",
+            "version": 2,
+            "changeset": 139847778,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "Urządzenie na ścianie zewnętrznej budynku.",
+                "defibrillator:location:en": "On the exterior wall of the building",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "OSP Mrowla"
             }
         },
