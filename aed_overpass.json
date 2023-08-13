@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-13T11:31:58Z",
+        "timestamp_osm_base": "2023-08-13T12:32:20Z",
         "timestamp_areas_base": "2023-08-13T08:37:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -66463,9 +66463,9 @@
             "id": 9857431517,
             "lat": 50.0446721,
             "lon": 21.9554455,
-            "timestamp": "2023-08-12T22:36:11Z",
-            "version": 3,
-            "changeset": 139804543,
+            "timestamp": "2023-08-13T11:54:19Z",
+            "version": 4,
+            "changeset": 139820413,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -66474,7 +66474,6 @@
                 "defibrillator:location:en": "At the Medical Center Medyk, a wall opposite the front desk",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "level": "1",
                 "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su off",
                 "phone": "+48177421315"
             }
