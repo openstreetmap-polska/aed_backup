@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-13T15:32:30Z",
-        "timestamp_areas_base": "2023-08-13T13:27:36Z",
+        "timestamp_osm_base": "2023-08-13T16:32:35Z",
+        "timestamp_areas_base": "2023-08-13T13:50:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -107718,17 +107718,24 @@
             "id": 11039814387,
             "lat": 53.6206243,
             "lon": 17.4490663,
-            "timestamp": "2023-07-12T04:22:25Z",
-            "version": 2,
-            "changeset": 138403607,
-            "user": "BestiaPL",
-            "uid": 32533,
+            "timestamp": "2023-08-13T16:12:39Z",
+            "version": 5,
+            "changeset": 139832057,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na zewnątrz budynku",
+                "check_date": "2023-07-11",
+                "defibrillator:location:en": "Outside the building, on the wall, at the entrance to the sports hall.",
+                "defibrillator:location:pl": "Na zewnątrz budynku, na ścianie, przy wejściu do hali sportowej.",
+                "description:en": "In an illuminated Rotaid capsule.",
+                "description:pl": "W podświetlanej kapsule Rotaid.",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
                 "operator": "Szkoła Podstawowa, Wierzchowo Dworzec",
+                "phone": "+48 796 287 551",
                 "source": "https://weekendfm.pl/?n=108072&na-szkole-w-wierzchowie-dworcu-pojawi-sie-defibrylator-aed-zozyy-sie-na-niego-soectwa-i-sponsorzy="
             }
         },
@@ -110063,6 +110070,31 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Dachnów",
                 "source": "https://zlubaczowa.pl/news/inne1/11519-mieszkancy-dachnowa-maja-ogolnodostepny-defibrylator-zadbali-o-to-druhowie",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11112172939,
+            "lat": 53.6834271,
+            "lon": 17.4272266,
+            "timestamp": "2023-08-13T15:48:18Z",
+            "version": 1,
+            "changeset": 139831048,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-13",
+                "defibrillator:location:en": "On the wall of the school, to the left of the main entrance.",
+                "defibrillator:location:pl": "Na ścianie szkoły, na lewo od wejścia głównego.",
+                "description:en": "On the wall of the OSP Dachnów firehouse.",
+                "description:pl": "W podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "source": "https://weekendfm.pl/?n=108553&szkoa-podstawowa-w-rychnowach-ma-swoj-defibrylator-aed-szczesliwy-fina-akcji-zotowka-dla-ratowania-zdrowka",
                 "wheelchair": "yes"
             }
         },
