@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-14T16:32:41Z",
+        "timestamp_osm_base": "2023-08-14T17:32:01Z",
         "timestamp_areas_base": "2023-08-14T13:28:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -97959,14 +97959,14 @@
             "id": 10746450980,
             "lat": 54.202796,
             "lon": 16.1597039,
-            "timestamp": "2023-03-19T18:14:13Z",
-            "version": 1,
-            "changeset": 133868582,
+            "timestamp": "2023-08-14T17:15:05Z",
+            "version": 3,
+            "changeset": 139881583,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
-                "access": "yes",
-                "check_date": "2023-03-07",
+                "access": "no",
+                "check_date": "2023-08-14",
                 "contact:facebook": "https://www.facebook.com/punktyzycia",
                 "defibrillator:location:en": "At the bus stop, Tax Office 01 in the vicinity of Biedronka.",
                 "defibrillator:location:pl": "Przy przystanku autobusowym Urząd Skarbowy 01 w sąsiedztwie Biedronki.",
