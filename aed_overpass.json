@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-14T17:32:01Z",
-        "timestamp_areas_base": "2023-08-14T13:28:41Z",
+        "timestamp_osm_base": "2023-08-14T18:32:44Z",
+        "timestamp_areas_base": "2023-08-14T13:39:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110116,6 +110116,48 @@
                 "defibrillator:location": "Strefa kas w sklepie Brico Depot",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11114823226,
+            "lat": 53.6584806,
+            "lon": 17.2161026,
+            "timestamp": "2023-08-14T18:32:00Z",
+            "version": 2,
+            "changeset": 139884470,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-08-14",
+                "defibrillator:location": "Lekki samochód gaśniczy GLM.",
+                "defibrillator:location:en": "Light firefighting vehicle (GLM).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP KRSG Biskupica"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11114823227,
+            "lat": 53.6585331,
+            "lon": 17.2159563,
+            "timestamp": "2023-08-14T18:32:00Z",
+            "version": 2,
+            "changeset": 139884470,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-08-14",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy GBA.",
+                "defibrillator:location:en": "Medium rescue and firefighting (GBA).",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP KRSG Biskupica"
             }
         },
         {
