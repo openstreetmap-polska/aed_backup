@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-14T11:32:02Z",
+        "timestamp_osm_base": "2023-08-14T12:32:30Z",
         "timestamp_areas_base": "2023-08-14T08:53:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110099,6 +110099,23 @@
                 "opening_hours": "24/7",
                 "source": "https://weekendfm.pl/?n=108553&szkoa-podstawowa-w-rychnowach-ma-swoj-defibrylator-aed-szczesliwy-fina-akcji-zotowka-dla-ratowania-zdrowka",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11114163005,
+            "lat": 53.0284109,
+            "lon": 18.6083841,
+            "timestamp": "2023-08-14T12:01:25Z",
+            "version": 1,
+            "changeset": 139868505,
+            "user": "Creative1222",
+            "uid": 6290585,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Strefa kas w sklepie Brico Depot",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
