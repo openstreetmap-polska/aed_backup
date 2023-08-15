@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-15T16:31:59Z",
+        "timestamp_osm_base": "2023-08-15T17:32:30Z",
         "timestamp_areas_base": "2023-08-15T13:25:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110274,6 +110274,23 @@
                 "operator": "OSP Wesoła",
                 "phone": "+48 22 773 90 08",
                 "website": "https://www.ospwesola.pl/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11117212238,
+            "lat": 50.2926231,
+            "lon": 21.4242642,
+            "timestamp": "2023-08-15T17:15:34Z",
+            "version": 1,
+            "changeset": 139925951,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "permissive",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "source": "https://wcj24.pl/mieleccy-strazacy-z-otrzymali-nowy-sprzet-foto/"
             }
         },
         {
