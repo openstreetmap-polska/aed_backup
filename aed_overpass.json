@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-15T17:32:30Z",
+        "timestamp_osm_base": "2023-08-15T18:32:41Z",
         "timestamp_areas_base": "2023-08-15T13:25:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110291,6 +110291,77 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "source": "https://wcj24.pl/mieleccy-strazacy-z-otrzymali-nowy-sprzet-foto/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11117249169,
+            "lat": 50.8227294,
+            "lon": 15.7191167,
+            "timestamp": "2023-08-15T17:54:56Z",
+            "version": 4,
+            "changeset": 139927726,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-08-14",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy.",
+                "defibrillator:location:en": "Rescue and firefighting car.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP KSRG Sosnówka",
+                "source": "https://lwowek24.pl/ukosil-go-szerszen-zycie-uratowalo-mu-aed/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11117254296,
+            "lat": 50.8227488,
+            "lon": 15.7188964,
+            "timestamp": "2023-08-15T17:54:56Z",
+            "version": 2,
+            "changeset": 139927726,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-14",
+                "defibrillator:location:en": "On the wall of the OSP KSRG Sosnówka firehouse.",
+                "defibrillator:location:pl": "Na ścianie remizy OSP KSRG Sosnówka.",
+                "description:en": "In an illuminated green Rotaid capsule.",
+                "description:pl": "W podświetlanej, zielonej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP KSRG Sosnówka",
+                "source": "https://lwowek24.pl/ukosil-go-szerszen-zycie-uratowalo-mu-aed/",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11117328639,
+            "lat": 54.1865551,
+            "lon": 15.561835,
+            "timestamp": "2023-08-15T18:18:44Z",
+            "version": 1,
+            "changeset": 139928751,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-14",
+                "defibrillator:location:en": "On the wall of the pier ticket office building, next to the disabled service desk.",
+                "defibrillator:location:pl": "Na ścianie budynku kasy molo, przy okienku obsługi osób niepełnosprawnych.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "source": "https://www.informacje.kolobrzeg.pl/sponsorowane/18947-strefa-bezpieczenstwa-compensy-w-kolobrzegu",
+                "wheelchair": "yes"
             }
         },
         {
