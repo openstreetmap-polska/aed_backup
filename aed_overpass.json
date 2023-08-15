@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-15T18:32:41Z",
-        "timestamp_areas_base": "2023-08-15T13:25:42Z",
+        "timestamp_osm_base": "2023-08-15T19:32:01Z",
+        "timestamp_areas_base": "2023-08-15T18:09:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10896,22 +10896,24 @@
             "id": 9407332718,
             "lat": 51.4716823,
             "lon": 16.9086653,
-            "timestamp": "2022-10-26T20:07:05Z",
-            "version": 4,
-            "changeset": 128100334,
-            "user": "Alexey Vazhnov",
-            "uid": 91771,
+            "timestamp": "2023-08-15T19:27:05Z",
+            "version": 5,
+            "changeset": 139931376,
+            "user": "Carpathians",
+            "uid": 17665316,
             "tags": {
                 "access": "yes",
-                "check_date": "2022-10-26",
-                "defibrillator:location": "Na północnej ścianie Urzędu Miasta (od strony Dino)",
+                "check_date": "2023-08-14",
+                "defibrillator:location": "Na północnej ścianie Urzędu Miasta (od strony sklepu Dino)",
                 "defibrillator:location:en": "On the northen wall of the City Hall (from the side of Dino)",
                 "emergency": "defibrillator",
+                "level": "0",
                 "location": "outdoor",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miasta i Gminy Żmigród",
-                "phone": "71 385 30 57",
-                "source": "http://www.zmigrod.com.pl/asp/defibrylator-aed-na-budynku-urzedu,2,artykul,195,7204"
+                "phone": "+48 71 385 30 57",
+                "source": "http://www.zmigrod.com.pl/asp/defibrylator-aed-na-budynku-urzedu,2,artykul,195,7204",
+                "wheelchair": "limited"
             }
         },
         {
