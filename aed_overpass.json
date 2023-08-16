@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T19:31:57Z",
-        "timestamp_areas_base": "2023-08-16T18:08:00Z",
+        "timestamp_osm_base": "2023-08-16T20:31:56Z",
+        "timestamp_areas_base": "2023-08-16T17:58:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110424,6 +110424,27 @@
                 "emergency": "defibrillator",
                 "operator": "Ośrodek Edukacji Przyrodniczej w Umianowicach",
                 "phone": "+48504855377"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11120000711,
+            "lat": 50.2611626,
+            "lon": 19.0343022,
+            "timestamp": "2023-08-16T20:07:19Z",
+            "version": 1,
+            "changeset": 139982204,
+            "user": "Yarl",
+            "uid": 91056,
+            "tags": {
+                "access": "public",
+                "addr:floor": "0",
+                "defibrillator:location": "in the main entrance on the right",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Orbis Hotel Group",
+                "phone": "+48 506-530-216"
             }
         },
         {
