@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T07:32:15Z",
+        "timestamp_osm_base": "2023-08-16T08:31:55Z",
         "timestamp_areas_base": "2023-08-16T03:43:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110404,6 +110404,23 @@
                 "opening_hours": "",
                 "operator": "Przedszkole Montessori Mądre Główki ",
                 "phone": "534100055"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11118472981,
+            "lat": 50.5828432,
+            "lon": 20.5195829,
+            "timestamp": "2023-08-16T08:30:31Z",
+            "version": 1,
+            "changeset": 139951134,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylatorna wyposażeniu ośrodka.",
+                "emergency": "defibrillator",
+                "operator": "Ośrodek Edukacji Przyrodniczej w Umianowicach",
+                "phone": "+48504855377"
             }
         },
         {
