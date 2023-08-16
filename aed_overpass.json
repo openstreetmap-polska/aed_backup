@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T10:32:29Z",
+        "timestamp_osm_base": "2023-08-16T11:32:30Z",
         "timestamp_areas_base": "2023-08-16T08:29:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -22671,16 +22671,19 @@
             "id": 9445590156,
             "lat": 49.8717672,
             "lon": 18.755666,
-            "timestamp": "2022-01-24T19:27:56Z",
-            "version": 1,
-            "changeset": 116555893,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-08-16T10:42:06Z",
+            "version": 2,
+            "changeset": 139957109,
+            "user": "OSP Drogomyśl",
+            "uid": 20081392,
             "tags": {
-                "access": "private",
+                "access": "yes",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator"
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Drogomyśl",
+                "ref": "17"
             }
         },
         {
