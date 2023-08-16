@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T03:31:50Z",
-        "timestamp_areas_base": "2023-08-15T22:55:45Z",
+        "timestamp_osm_base": "2023-08-16T04:32:15Z",
+        "timestamp_areas_base": "2023-08-16T03:43:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -47000,13 +47000,13 @@
         {
             "type": "node",
             "id": 9547024622,
-            "lat": 49.5142123,
-            "lon": 22.2686031,
-            "timestamp": "2022-03-01T10:08:46Z",
-            "version": 1,
-            "changeset": 117973426,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 49.514147,
+            "lon": 22.2686219,
+            "timestamp": "2023-08-16T03:32:31Z",
+            "version": 2,
+            "changeset": 139941826,
+            "user": "Czaszyn",
+            "uid": 11900425,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Zagórz",
