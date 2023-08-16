@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T04:32:15Z",
+        "timestamp_osm_base": "2023-08-16T05:32:44Z",
         "timestamp_areas_base": "2023-08-16T03:43:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110364,6 +110364,25 @@
                 "opening_hours": "24/7",
                 "source": "https://www.informacje.kolobrzeg.pl/sponsorowane/18947-strefa-bezpieczenstwa-compensy-w-kolobrzegu",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11118239006,
+            "lat": 52.3472131,
+            "lon": 16.8321792,
+            "timestamp": "2023-08-16T05:25:35Z",
+            "version": 1,
+            "changeset": 139944352,
+            "user": "JacekBura",
+            "uid": 2066095,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-16",
+                "defibrillator:location:pl": "AED znajduje się w biurze na parterze",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
