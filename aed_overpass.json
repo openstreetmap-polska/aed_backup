@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-16T05:32:44Z",
+        "timestamp_osm_base": "2023-08-16T06:32:44Z",
         "timestamp_areas_base": "2023-08-16T03:43:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110383,6 +110383,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11118297106,
+            "lat": 52.2368626,
+            "lon": 21.0167779,
+            "timestamp": "2023-08-16T06:28:32Z",
+            "version": 1,
+            "changeset": 139946346,
+            "user": "dive-med",
+            "uid": 18547195,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "jutrzenki 146 02-230 warszawa",
+                "emergency": "defibrillator",
+                "image": "",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "Przedszkole Montessori Mądre Główki ",
+                "phone": "534100055"
             }
         },
         {
