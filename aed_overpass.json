@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-17T12:32:00Z",
+        "timestamp_osm_base": "2023-08-17T13:32:42Z",
         "timestamp_areas_base": "2023-08-17T08:13:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110482,6 +110482,25 @@
                 "indoor": "yes",
                 "operator": "Ochotnicza Straż Pożarna",
                 "phone": "504392175"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11122062007,
+            "lat": 52.2468992,
+            "lon": 21.0108964,
+            "timestamp": "2023-08-17T13:04:15Z",
+            "version": 1,
+            "changeset": 140012177,
+            "user": "salvager",
+            "uid": 1235329,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W hotelu, drzwi na prawo przed recepcją.",
+                "defibrillator:location:en": "In hotel, door just before reception.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
             }
         },
         {
