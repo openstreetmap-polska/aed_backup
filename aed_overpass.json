@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-17T03:32:25Z",
-        "timestamp_areas_base": "2023-08-16T22:45:00Z",
+        "timestamp_osm_base": "2023-08-17T04:32:45Z",
+        "timestamp_areas_base": "2023-08-17T03:30:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110445,6 +110445,23 @@
                 "opening_hours": "24/7",
                 "operator": "Orbis Hotel Group",
                 "phone": "+48 506-530-216"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11121197605,
+            "lat": 50.9237715,
+            "lon": 15.766496,
+            "timestamp": "2023-08-17T04:01:38Z",
+            "version": 1,
+            "changeset": 139991852,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-16",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
