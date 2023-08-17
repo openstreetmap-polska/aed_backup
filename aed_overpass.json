@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-17T15:32:30Z",
+        "timestamp_osm_base": "2023-08-17T16:32:14Z",
         "timestamp_areas_base": "2023-08-17T13:16:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -41488,9 +41488,9 @@
             "id": 9525375785,
             "lat": 53.5664525,
             "lon": 14.8397183,
-            "timestamp": "2022-12-29T08:11:36Z",
-            "version": 4,
-            "changeset": 130632142,
+            "timestamp": "2023-08-17T16:07:21Z",
+            "version": 5,
+            "changeset": 140020976,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41499,7 +41499,7 @@
                 "defibrillator:location:en": "Component Varnish Hall",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Ikea Industry Goleniów",
+                "operator": "IKEA Industry Goleniów",
                 "phone": "+48 91 464 70 00"
             }
         },
@@ -41508,9 +41508,9 @@
             "id": 9525375786,
             "lat": 53.563354,
             "lon": 14.8403348,
-            "timestamp": "2022-12-29T08:11:36Z",
-            "version": 4,
-            "changeset": 130632142,
+            "timestamp": "2023-08-17T16:07:21Z",
+            "version": 5,
+            "changeset": 140020976,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
@@ -41519,7 +41519,7 @@
                 "defibrillator:location:en": "Hall - Engine room",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Ikea Industry Goleniów",
+                "operator": "IKEA Industry Goleniów",
                 "phone": "+48 91 464 70 00"
             }
         },
