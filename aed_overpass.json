@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-18T04:32:10Z",
+        "timestamp_osm_base": "2023-08-18T05:32:16Z",
         "timestamp_areas_base": "2023-08-18T03:37:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -110528,6 +110528,97 @@
                 "phone": "+48 94 348 15 40",
                 "source": "internet; informacja od operatora",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11124286806,
+            "lat": 49.6924694,
+            "lon": 21.7651023,
+            "timestamp": "2023-08-18T04:44:43Z",
+            "version": 1,
+            "changeset": 140038712,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-18",
+                "defibrillator:location:pl": "Kampus Humanistyczny, w portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11124298105,
+            "lat": 49.6941347,
+            "lon": 21.7658204,
+            "timestamp": "2023-08-18T04:43:04Z",
+            "version": 1,
+            "changeset": 140038712,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-18",
+                "defibrillator:location:pl": "Rektorat",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11124298106,
+            "lat": 49.6845913,
+            "lon": 21.7462084,
+            "timestamp": "2023-08-18T04:46:04Z",
+            "version": 1,
+            "changeset": 140038712,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-18",
+                "defibrillator:location:pl": "Kampus Techniczny, portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11124300405,
+            "lat": 49.6693381,
+            "lon": 21.7731338,
+            "timestamp": "2023-08-18T04:45:26Z",
+            "version": 1,
+            "changeset": 140038712,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-18",
+                "defibrillator:location:pl": "Kampus Politechniczny, portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11124304305,
+            "lat": 49.7190668,
+            "lon": 21.7112192,
+            "timestamp": "2023-08-18T04:51:16Z",
+            "version": 1,
+            "changeset": 140038712,
+            "user": "NorthCrab",
+            "uid": 15215305,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-18",
+                "defibrillator:location:pl": "Kampus Sportowo-dydaktyczny, portiernia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
