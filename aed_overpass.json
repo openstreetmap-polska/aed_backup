@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-18T14:31:45Z",
-        "timestamp_areas_base": "2023-08-18T12:32:57Z",
+        "timestamp_osm_base": "2023-08-18T15:32:34Z",
+        "timestamp_areas_base": "2023-08-18T13:09:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110619,6 +110619,31 @@
                 "defibrillator:location:pl": "Kampus Sportowo-dydaktyczny, portiernia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11125493413,
+            "lat": 53.5555307,
+            "lon": 14.8409905,
+            "timestamp": "2023-08-18T15:07:44Z",
+            "version": 1,
+            "changeset": 140062327,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "On the wall of the building, to the right of the main entrance.",
+                "defibrillator:location:pl": "Na ścianie budynku, na prawo od głównego wejścia.",
+                "description:en": "In an illuminated, green, square capsule.",
+                "description:pl": "W podświetlanej, zielonej, kwadratowej kapsule.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Nadleśnictwo Goleniów",
+                "phone": "+48 91 418 28 56",
+                "wheelchair": "limited"
             }
         },
         {
