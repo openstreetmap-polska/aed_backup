@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-20T15:32:15Z",
-        "timestamp_areas_base": "2023-08-20T12:35:12Z",
+        "timestamp_osm_base": "2023-08-20T16:31:56Z",
+        "timestamp_areas_base": "2023-08-20T11:38:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110646,6 +110646,76 @@
                 "phone": "+48 91 418 28 56",
                 "source": "survey",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132262306,
+            "lat": 51.2155979,
+            "lon": 16.1877272,
+            "timestamp": "2023-08-20T15:44:09Z",
+            "version": 1,
+            "changeset": 140139729,
+            "user": "Tomkot92",
+            "uid": 20095955,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W hali serwisowej Kolei Dolnośląskich. Na ścianie przy biurze brygadzisty na hali",
+                "defibrillator:location:en": "In service hall of Koleje Dolnośląskie. On the wall near the door to the shift leader office.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132269006,
+            "lat": 51.2059441,
+            "lon": 16.1577012,
+            "timestamp": "2023-08-20T15:46:34Z",
+            "version": 1,
+            "changeset": 140139729,
+            "user": "Tomkot92",
+            "uid": 20095955,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na dyżurce ochrony sądu rejonowego",
+                "defibrillator:location:en": "In security office",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132277805,
+            "lat": 51.2045227,
+            "lon": 16.14997,
+            "timestamp": "2023-08-20T15:51:00Z",
+            "version": 1,
+            "changeset": 140139729,
+            "user": "Tomkot92",
+            "uid": 20095955,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W holu budynku A - PWSZ",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132277806,
+            "lat": 51.2052134,
+            "lon": 16.1486629,
+            "timestamp": "2023-08-20T15:52:40Z",
+            "version": 1,
+            "changeset": 140139729,
+            "user": "Tomkot92",
+            "uid": 20095955,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie holu budynku C. Zaraz przy ochronie",
+                "emergency": "defibrillator",
+                "phone": "+48767232389"
             }
         },
         {
