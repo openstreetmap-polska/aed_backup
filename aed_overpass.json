@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-20T18:31:58Z",
-        "timestamp_areas_base": "2023-08-20T17:22:29Z",
+        "timestamp_osm_base": "2023-08-20T19:32:45Z",
+        "timestamp_areas_base": "2023-08-20T16:20:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110730,6 +110730,40 @@
             "uid": 9935659,
             "tags": {
                 "defibrillator:location": "AED na lewo do wejścia do punkcie poboru opłat za wstęp do Wigierskiego Parku Narodowego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132558977,
+            "lat": 53.8400805,
+            "lon": 22.9921082,
+            "timestamp": "2023-08-20T18:46:20Z",
+            "version": 1,
+            "changeset": 140147152,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zielona skrzynka na słupku, przy ścieżce",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132618857,
+            "lat": 54.0315979,
+            "lon": 21.7726551,
+            "timestamp": "2023-08-20T19:14:42Z",
+            "version": 1,
+            "changeset": 140148221,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Zielona skrzynka na prawo od wejścia do budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
