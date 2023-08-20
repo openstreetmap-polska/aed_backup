@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-20T17:31:48Z",
-        "timestamp_areas_base": "2023-08-20T16:20:29Z",
+        "timestamp_osm_base": "2023-08-20T18:31:58Z",
+        "timestamp_areas_base": "2023-08-20T17:22:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110716,6 +110716,22 @@
                 "defibrillator:location": "Na ścianie holu budynku C. Zaraz przy ochronie",
                 "emergency": "defibrillator",
                 "phone": "+48767232389"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11132433134,
+            "lat": 54.0841997,
+            "lon": 23.0107209,
+            "timestamp": "2023-08-20T18:00:37Z",
+            "version": 1,
+            "changeset": 140145223,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "defibrillator:location": "AED na lewo do wejścia do punkcie poboru opłat za wstęp do Wigierskiego Parku Narodowego.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
