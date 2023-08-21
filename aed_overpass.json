@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-21T14:32:39Z",
+        "timestamp_osm_base": "2023-08-21T15:32:16Z",
         "timestamp_areas_base": "2023-08-21T12:16:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -78935,15 +78935,16 @@
             "id": 10263238385,
             "lat": 51.8411749,
             "lon": 16.5926147,
-            "timestamp": "2022-12-14T19:41:44Z",
-            "version": 1,
-            "changeset": 130087928,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-08-21T15:09:10Z",
+            "version": 2,
+            "changeset": 140187322,
+            "user": "itouchgrass",
+            "uid": 4198084,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na zewnątrznej ścianie Hali Trapez",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Hala Widowiskowo–Sportowa Trapez im. Zbigniewa Białasa",
                 "source": "https://www.leszno.pl/AED_na_terenie_miasta.html",
@@ -110806,6 +110807,42 @@
                 "emergency:phone": "693750112",
                 "indoor": "yes",
                 "phone": "+48774232816"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11134385105,
+            "lat": 52.0030161,
+            "lon": 16.1700418,
+            "timestamp": "2023-08-21T15:23:20Z",
+            "version": 1,
+            "changeset": 140188040,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Sala Wiejska na ścianie budynku",
+                "defibrillator:location:en": "On the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11134387805,
+            "lat": 52.0045668,
+            "lon": 16.3008469,
+            "timestamp": "2023-08-21T15:25:14Z",
+            "version": 1,
+            "changeset": 140188040,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Centrum Medyczne „Salus” na ścianie",
+                "defibrillator:location:en": "on the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
