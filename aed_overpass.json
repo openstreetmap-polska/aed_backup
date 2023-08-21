@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-21T12:32:15Z",
-        "timestamp_areas_base": "2023-08-21T11:10:48Z",
+        "timestamp_osm_base": "2023-08-21T13:32:01Z",
+        "timestamp_areas_base": "2023-08-21T12:16:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -101359,14 +101359,14 @@
             "id": 10836739021,
             "lat": 53.6515837,
             "lon": 20.791651,
-            "timestamp": "2023-04-24T09:58:49Z",
-            "version": 1,
-            "changeset": 135294321,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-08-21T13:14:13Z",
+            "version": 2,
+            "changeset": 140181568,
+            "user": "strusiek",
+            "uid": 8759090,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy wejściu do Banku",
+                "defibrillator:location": "Na ścianie przy wejściu do Banku",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
@@ -110806,24 +110806,6 @@
                 "emergency:phone": "693750112",
                 "indoor": "yes",
                 "phone": "+48774232816"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11133745697,
-            "lat": 53.6516006,
-            "lon": 20.7917036,
-            "timestamp": "2023-08-21T10:21:47Z",
-            "version": 1,
-            "changeset": 140173526,
-            "user": "strusiek",
-            "uid": 8759090,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na ścianie z przodu budynku banku",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "opening_hours": "24/7"
             }
         },
         {
