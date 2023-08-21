@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-21T19:31:57Z",
+        "timestamp_osm_base": "2023-08-21T20:32:14Z",
         "timestamp_areas_base": "2023-08-21T15:54:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100387,21 +100387,21 @@
         {
             "type": "node",
             "id": 10801094205,
-            "lat": 50.7552279,
-            "lon": 15.7028546,
-            "timestamp": "2023-08-21T18:38:37Z",
-            "version": 2,
-            "changeset": 140195852,
+            "lat": 50.7552209,
+            "lon": 15.7028309,
+            "timestamp": "2023-08-21T19:44:56Z",
+            "version": 3,
+            "changeset": 140198345,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-08-19",
-                "defibrillator:location": "KPN Domek Myśliwski",
+                "defibrillator:location:pl": "KPN Domek Myśliwski",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "operator": "Karkonowski Park Narodowy"
+                "operator": "Karkonoski Park Narodowy"
             }
         },
         {
