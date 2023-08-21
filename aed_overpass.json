@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-21T08:32:16Z",
-        "timestamp_areas_base": "2023-08-21T07:33:31Z",
+        "timestamp_osm_base": "2023-08-21T09:32:11Z",
+        "timestamp_areas_base": "2023-08-21T06:27:32Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110653,9 +110653,9 @@
             "id": 11132262306,
             "lat": 51.2155979,
             "lon": 16.1877272,
-            "timestamp": "2023-08-20T15:44:09Z",
-            "version": 1,
-            "changeset": 140139729,
+            "timestamp": "2023-08-21T09:06:56Z",
+            "version": 2,
+            "changeset": 140170014,
             "user": "Tomkot92",
             "uid": 20095955,
             "tags": {
@@ -110663,7 +110663,8 @@
                 "defibrillator:location": "W hali serwisowej Kolei Dolnośląskich. Na ścianie przy biurze brygadzisty na hali",
                 "defibrillator:location:en": "In service hall of Koleje Dolnośląskie. On the wall near the door to the shift leader office.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Koleje Dolnośląskie S.A."
             }
         },
         {
@@ -110671,17 +110672,18 @@
             "id": 11132269006,
             "lat": 51.2059441,
             "lon": 16.1577012,
-            "timestamp": "2023-08-20T15:46:34Z",
-            "version": 1,
-            "changeset": 140139729,
+            "timestamp": "2023-08-21T09:06:56Z",
+            "version": 2,
+            "changeset": 140170014,
             "user": "Tomkot92",
             "uid": 20095955,
             "tags": {
-                "access": "customers",
+                "access": "permissive",
                 "defibrillator:location": "Na dyżurce ochrony sądu rejonowego",
                 "defibrillator:location:en": "In security office",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Sąd Rejonowy w Legnicy"
             }
         },
         {
@@ -110766,6 +110768,44 @@
                 "defibrillator:location": "Zielona skrzynka na prawo od wejścia do budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11133558096,
+            "lat": 53.5972693,
+            "lon": 18.3455855,
+            "timestamp": "2023-08-21T08:49:15Z",
+            "version": 1,
+            "changeset": 140169234,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu JRS w Osiu.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna Jednostka Ratownictwa Specjalistycznego w Osiu"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11133649405,
+            "lat": 50.6981102,
+            "lon": 17.9155828,
+            "timestamp": "2023-08-21T09:21:15Z",
+            "version": 1,
+            "changeset": 140170803,
+            "user": "MochnikGlass",
+            "uid": 20081798,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Hala produkcyjna Mochnik Glass Sp. z o.o. \nul. Składowa 6",
+                "defibrillator:location:en": "The production hall of Mochnik Glass \nSp. z o. o.\nst. Component 6",
+                "emergency": "defibrillator",
+                "emergency:phone": "693750112",
+                "indoor": "yes",
+                "phone": "+48774232816"
             }
         },
         {
