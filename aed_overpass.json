@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-22T12:32:30Z",
-        "timestamp_areas_base": "2023-08-22T07:18:35Z",
+        "timestamp_osm_base": "2023-08-22T13:32:15Z",
+        "timestamp_areas_base": "2023-08-22T12:02:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110908,6 +110908,39 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Karkonoski Park Narodowy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11136135552,
+            "lat": 52.2221111,
+            "lon": 21.0409394,
+            "timestamp": "2023-08-22T12:37:01Z",
+            "version": 1,
+            "changeset": 140227309,
+            "user": "Rogoyski",
+            "uid": 67255,
+            "tags": {
+                "defibrillator:location": "przy wejściu, przy portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11136254205,
+            "lat": 51.8600107,
+            "lon": 19.4076787,
+            "timestamp": "2023-08-22T13:23:09Z",
+            "version": 1,
+            "changeset": 140229423,
+            "user": "Sławek_R",
+            "uid": 1202752,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W środku budynku sprzedającego bilety do parku linowego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
