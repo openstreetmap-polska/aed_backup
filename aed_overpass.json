@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T18:32:41Z",
-        "timestamp_areas_base": "2023-08-23T16:46:09Z",
+        "timestamp_osm_base": "2023-08-23T19:32:41Z",
+        "timestamp_areas_base": "2023-08-23T15:07:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110888,17 +110888,18 @@
             "id": 11134764458,
             "lat": 50.813141,
             "lon": 15.4967186,
-            "timestamp": "2023-08-21T18:46:40Z",
-            "version": 1,
-            "changeset": 140196185,
+            "timestamp": "2023-08-23T18:33:05Z",
+            "version": 2,
+            "changeset": 140288828,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "customers",
+                "defibrillator:location:en": "In the building of the Karkonosze National Park cash desk",
                 "defibrillator:location:pl": "W budynku kasy Karkonowskiego Parku Narodowego",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Karkonowski Park Narodowy"
+                "operator": "Karkonoski Park Narodowy"
             }
         },
         {
