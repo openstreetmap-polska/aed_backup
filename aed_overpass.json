@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T21:32:01Z",
-        "timestamp_areas_base": "2023-08-23T19:56:05Z",
+        "timestamp_osm_base": "2023-08-23T22:32:13Z",
+        "timestamp_areas_base": "2023-08-23T21:33:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -89268,14 +89268,15 @@
             "id": 10584877637,
             "lat": 51.7748487,
             "lon": 19.4643092,
-            "timestamp": "2023-01-26T20:13:24Z",
-            "version": 1,
-            "changeset": 131746412,
+            "timestamp": "2023-08-23T22:03:41Z",
+            "version": 3,
+            "changeset": 140294680,
             "user": "Fan map",
             "uid": 2092025,
             "tags": {
-                "defibrillator:location": "Portiernia budynku T",
+                "defibrillator:location": "Przy portierni budynku T",
                 "emergency": "defibrillator",
+                "image": "https://i.imgur.com/Mr5cljk.jpg",
                 "indoor": "yes",
                 "level": "0",
                 "manufacturer": "HS medical",
