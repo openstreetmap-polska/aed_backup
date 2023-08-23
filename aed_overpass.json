@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T17:31:54Z",
-        "timestamp_areas_base": "2023-08-23T11:55:45Z",
+        "timestamp_osm_base": "2023-08-23T18:32:41Z",
+        "timestamp_areas_base": "2023-08-23T16:46:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -100353,18 +100353,20 @@
         {
             "type": "node",
             "id": 10801092405,
-            "lat": 50.8403881,
-            "lon": 15.643074,
-            "timestamp": "2023-04-11T07:01:18Z",
-            "version": 1,
-            "changeset": 134759725,
-            "user": "Dralookas",
-            "uid": 18193278,
+            "lat": 50.8403919,
+            "lon": 15.6430606,
+            "timestamp": "2023-08-23T18:27:16Z",
+            "version": 2,
+            "changeset": 140288634,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Dyrekcja KPN",
+                "defibrillator:location:pl": "Stacja Monitoringowo-Badawcza Karkonoskiego Parku Narodowego",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Karkonoski Park Narodowy"
             }
         },
         {
@@ -100657,35 +100659,44 @@
         {
             "type": "node",
             "id": 10807449205,
-            "lat": 50.8124328,
-            "lon": 15.6069356,
-            "timestamp": "2023-04-13T12:14:19Z",
-            "version": 1,
-            "changeset": 134860493,
-            "user": "Dralookas",
-            "uid": 18193278,
+            "lat": 50.8125137,
+            "lon": 15.6068682,
+            "timestamp": "2023-08-23T17:50:28Z",
+            "version": 2,
+            "changeset": 140287404,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na budynku KPN- Karkonoski Bank Genów",
+                "defibrillator:location": "Na budynku Karkonoskiego Banku Genów",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Karkonoski Park Narodowy"
             }
         },
         {
             "type": "node",
             "id": 10807451405,
-            "lat": 50.7654532,
-            "lon": 15.7553391,
-            "timestamp": "2023-04-13T12:15:50Z",
-            "version": 1,
-            "changeset": 134860493,
-            "user": "Dralookas",
-            "uid": 18193278,
+            "lat": 50.7654489,
+            "lon": 15.7553333,
+            "timestamp": "2023-08-23T18:20:16Z",
+            "version": 2,
+            "changeset": 140288394,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na mniejszym budynku KPN- Domek Laboranta",
+                "defibrillator:location:en": "Domek Laboranta (smaller building) - on the outer wall.",
+                "defibrillator:location:pl": "Domek Laboranta (mniejszy budynek) - na zewnętrznej ścianie.",
+                "description:en": "In a square case.",
+                "description:pl": "W kwadratowej gablocie.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Karkonoski Park Narodowy",
+                "wheelchair": "yes"
             }
         },
         {
@@ -111031,6 +111042,30 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "603103563"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11139632000,
+            "lat": 50.8188417,
+            "lon": 15.5189585,
+            "timestamp": "2023-08-23T18:03:01Z",
+            "version": 1,
+            "changeset": 140287834,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "On the outer wall, to the right of the main entrance.",
+                "defibrillator:location:pl": "Na zewnętrznej ścianie, na prawo od głównego wejścia.",
+                "description:en": "In a square case.",
+                "description:pl": "W kwadratowej gablocie.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Karkonoski Park Narodowy",
+                "wheelchair": "yes"
             }
         },
         {
