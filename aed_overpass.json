@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T12:32:23Z",
-        "timestamp_areas_base": "2023-08-23T07:08:11Z",
+        "timestamp_osm_base": "2023-08-23T13:32:21Z",
+        "timestamp_areas_base": "2023-08-23T11:55:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -110941,6 +110941,96 @@
                 "defibrillator:location": "W środku budynku sprzedającego bilety do parku linowego",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11138882105,
+            "lat": 50.1671767,
+            "lon": 18.9081309,
+            "timestamp": "2023-08-23T12:33:05Z",
+            "version": 1,
+            "changeset": 140274182,
+            "user": "Mikołowski Bank Spółdzielczy w Mikołowie",
+            "uid": 20107695,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Banku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "603103563"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11138882106,
+            "lat": 49.9995652,
+            "lon": 18.4632986,
+            "timestamp": "2023-08-23T12:36:39Z",
+            "version": 1,
+            "changeset": 140274182,
+            "user": "Mikołowski Bank Spółdzielczy w Mikołowie",
+            "uid": 20107695,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Banku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "603103563"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11138901005,
+            "lat": 52.3135059,
+            "lon": 17.0555449,
+            "timestamp": "2023-08-23T12:35:42Z",
+            "version": 1,
+            "changeset": 140274319,
+            "user": "JacekJankowski",
+            "uid": 20107706,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Portiernia Ochrony",
+                "defibrillator:location:en": "Guardroom",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11138916805,
+            "lat": 50.0624104,
+            "lon": 18.4206925,
+            "timestamp": "2023-08-23T12:37:49Z",
+            "version": 1,
+            "changeset": 140274182,
+            "user": "Mikołowski Bank Spółdzielczy w Mikołowie",
+            "uid": 20107695,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Banku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "603103563"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11138918505,
+            "lat": 50.0952685,
+            "lon": 18.5424994,
+            "timestamp": "2023-08-23T12:38:49Z",
+            "version": 1,
+            "changeset": 140274182,
+            "user": "Mikołowski Bank Spółdzielczy w Mikołowie",
+            "uid": 20107695,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Banku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "603103563"
             }
         },
         {
