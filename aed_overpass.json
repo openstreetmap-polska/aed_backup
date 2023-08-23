@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T20:32:46Z",
-        "timestamp_areas_base": "2023-08-23T15:07:45Z",
+        "timestamp_osm_base": "2023-08-23T21:32:01Z",
+        "timestamp_areas_base": "2023-08-23T19:56:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111078,16 +111078,17 @@
         {
             "type": "node",
             "id": 11139855796,
-            "lat": 51.7993549,
-            "lon": 19.3889086,
-            "timestamp": "2023-08-23T20:22:17Z",
-            "version": 1,
-            "changeset": 140292235,
+            "lat": 51.7993555,
+            "lon": 19.3889177,
+            "timestamp": "2023-08-23T21:22:52Z",
+            "version": 2,
+            "changeset": 140293681,
             "user": "Fan map",
             "uid": 2092025,
             "tags": {
                 "defibrillator:location": "Na wprost głównego wejścia",
                 "emergency": "defibrillator",
+                "image": "https://i.imgur.com/yiw9ovZ.jpg",
                 "indoor": "yes",
                 "level": "0",
                 "manufacturer": "DefiMed",
