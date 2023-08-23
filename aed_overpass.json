@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-23T19:32:41Z",
+        "timestamp_osm_base": "2023-08-23T20:32:46Z",
         "timestamp_areas_base": "2023-08-23T15:07:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -100372,18 +100372,24 @@
         {
             "type": "node",
             "id": 10801092805,
-            "lat": 50.8464494,
-            "lon": 15.6412383,
-            "timestamp": "2023-04-11T07:02:17Z",
-            "version": 1,
-            "changeset": 134759725,
-            "user": "Dralookas",
-            "uid": 18193278,
+            "lat": 50.846363,
+            "lon": 15.6414108,
+            "timestamp": "2023-08-23T19:35:44Z",
+            "version": 2,
+            "changeset": 140290881,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "KPN Centrum Przyrodniczo Edukacyjne",
+                "defibrillator:location:en": "From the side of the car park, on the outer wall of the Karkonosze NP Nature and Education Center.",
+                "defibrillator:location:pl": "Od strony parkingu, na zewnętrznej ścianie Centrum Przyrodniczo-Edukacyjne KPN.",
+                "description:en": "In a square case.",
+                "description:pl": "W kwadratowej gablocie.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Karkonoski Park Narodowy",
+                "wheelchair": "yes"
             }
         },
         {
@@ -111067,6 +111073,25 @@
                 "opening_hours": "24/7",
                 "operator": "Karkonoski Park Narodowy",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11139855796,
+            "lat": 51.7993549,
+            "lon": 19.3889086,
+            "timestamp": "2023-08-23T20:22:17Z",
+            "version": 1,
+            "changeset": 140292235,
+            "user": "Fan map",
+            "uid": 2092025,
+            "tags": {
+                "defibrillator:location": "Na wprost głównego wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "DefiMed",
+                "operator": "Wojewódzki Ośrodek Medycyny Pracy"
             }
         },
         {
