@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-24T10:32:02Z",
-        "timestamp_areas_base": "2023-08-24T07:02:57Z",
+        "timestamp_osm_base": "2023-08-24T11:32:11Z",
+        "timestamp_areas_base": "2023-08-24T10:04:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1748,14 +1748,18 @@
             "id": 6092751894,
             "lat": 51.7481247,
             "lon": 19.4398884,
-            "timestamp": "2022-12-20T15:02:43Z",
-            "version": 3,
-            "changeset": 130294795,
-            "user": "nhxzlu3m",
-            "uid": 17079474,
+            "timestamp": "2023-08-24T10:55:35Z",
+            "version": 4,
+            "changeset": 140316383,
+            "user": "Fan map",
+            "uid": 2092025,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "image": "https://i.imgur.com/hA3Jutd.jpg",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "operator": "Decathlon"
             }
         },
         {
