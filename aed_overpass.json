@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-24T07:31:45Z",
+        "timestamp_osm_base": "2023-08-24T08:32:30Z",
         "timestamp_areas_base": "2023-08-24T05:21:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111094,6 +111094,25 @@
                 "level": "0",
                 "manufacturer": "DefiMed",
                 "operator": "Wojewódzki Ośrodek Medycyny Pracy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11140478805,
+            "lat": 51.3089342,
+            "lon": 17.0585351,
+            "timestamp": "2023-08-24T07:53:40Z",
+            "version": 1,
+            "changeset": 140308168,
+            "user": "madnespl",
+            "uid": 2806486,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na Stanowisku Kierowania Komendy Powiatowej Państwowej Straży Pożarnej",
+                "defibrillator:location:en": "On The inside wall od Fire Department",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48609757665"
             }
         },
         {
