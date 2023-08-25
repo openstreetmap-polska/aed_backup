@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-25T16:32:36Z",
+        "timestamp_osm_base": "2023-08-25T17:32:11Z",
         "timestamp_areas_base": "2023-08-25T14:34:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -39010,19 +39010,20 @@
         {
             "type": "node",
             "id": 9512133017,
-            "lat": 53.4078834,
-            "lon": 18.4303013,
-            "timestamp": "2022-02-16T23:03:26Z",
-            "version": 2,
-            "changeset": 117496935,
-            "user": "mystichussar",
-            "uid": 11854809,
+            "lat": 53.4078193,
+            "lon": 18.429965,
+            "timestamp": "2023-08-25T16:48:08Z",
+            "version": 3,
+            "changeset": 140381329,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
-                "access": "permit",
+                "access": "customers",
                 "defibrillator:location": "Ściana sali gimnastycznej",
                 "defibrillator:location:en": "On the wall of gym building",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
@@ -75183,11 +75184,11 @@
             "id": 10155070616,
             "lat": 52.3851442,
             "lon": 16.8276679,
-            "timestamp": "2023-04-20T16:17:57Z",
-            "version": 2,
-            "changeset": 135157751,
-            "user": "moje_konto",
-            "uid": 10213768,
+            "timestamp": "2023-08-25T16:55:40Z",
+            "version": 3,
+            "changeset": 140381598,
+            "user": "MEDAID",
+            "uid": 20115365,
             "tags": {
                 "access": "yes",
                 "board_type": "welcome_sign",
@@ -75196,7 +75197,8 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "information": "board",
-                "operator": "Medaid"
+                "operator": "Medaid.pl",
+                "ref": "Malwowa 37a"
             }
         },
         {
@@ -111116,6 +111118,30 @@
                 "defibrillator:location": "po lewej stronie recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11144368864,
+            "lat": 51.8152035,
+            "lon": 21.9676297,
+            "timestamp": "2023-08-25T16:36:14Z",
+            "version": 1,
+            "changeset": 140380841,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "On the outer wall of the Volunteer Fire Brigade in Jarczew.",
+                "defibrillator:location:pl": "Na zewnętrznej ścianie remizy OSP w Jarczewie.",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "OSP Jarczewo",
+                "wheelchair": "yes"
             }
         },
         {
