@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-26T16:32:14Z",
+        "timestamp_osm_base": "2023-08-26T17:32:36Z",
         "timestamp_areas_base": "2023-08-26T14:29:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2700,17 +2700,18 @@
             "id": 7206180203,
             "lat": 50.0367636,
             "lon": 21.9750944,
-            "timestamp": "2022-11-30T10:36:37Z",
-            "version": 3,
-            "changeset": 129555788,
-            "user": "Pooh01",
-            "uid": 199701,
+            "timestamp": "2023-08-26T16:44:57Z",
+            "version": 4,
+            "changeset": 140420726,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "On the wall behind cash desks.",
-                "defibrillator:location:pl": "Na ścianie za kasami",
+                "defibrillator:location": "On the wall opposite to cash desks.",
+                "defibrillator:location:pl": "Na ścianie naprzeciwko kas",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Sa 07:00-21:00",
                 "operator": "Leroy Merlin",
                 "wheelchair": "yes"
@@ -111142,6 +111143,25 @@
                 "opening_hours": "24/7",
                 "operator": "OSP Jarczewo",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11146635724,
+            "lat": 54.3787919,
+            "lon": 18.617206,
+            "timestamp": "2023-08-26T17:15:43Z",
+            "version": 1,
+            "changeset": 140421879,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-26",
+                "defibrillator:location:pl": "Dom Studencki nr 6",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
