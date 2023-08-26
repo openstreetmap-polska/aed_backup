@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-26T21:32:30Z",
-        "timestamp_areas_base": "2023-08-26T19:18:56Z",
+        "timestamp_osm_base": "2023-08-26T22:31:59Z",
+        "timestamp_areas_base": "2023-08-26T21:24:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103784,19 +103784,19 @@
         {
             "type": "node",
             "id": 10923974740,
-            "lat": 53.7806325,
-            "lon": 20.5096319,
-            "timestamp": "2023-05-24T11:54:13Z",
-            "version": 1,
-            "changeset": 136497090,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 53.779608,
+            "lon": 20.5111744,
+            "timestamp": "2023-08-26T21:49:38Z",
+            "version": 2,
+            "changeset": 140430293,
+            "user": "kornad",
+            "uid": 10209334,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się przy budynku MPK.",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7",
-                "operator": "Zajezdnia Tramwajowa MPK"
+                "operator": "MPK Olsztyn"
             }
         },
         {
