@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-27T19:32:15Z",
+        "timestamp_osm_base": "2023-08-27T20:31:45Z",
         "timestamp_areas_base": "2023-08-27T16:41:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -107883,25 +107883,6 @@
         },
         {
             "type": "node",
-            "id": 11044500806,
-            "lat": 53.6279429,
-            "lon": 21.813097,
-            "timestamp": "2023-07-13T16:50:27Z",
-            "version": 1,
-            "changeset": 138472202,
-            "user": "Mersonia",
-            "uid": 18422067,
-            "tags": {
-                "access": "yes",
-                "check_date": "2023-07-13",
-                "defibrillator:location:pl": "Przed wejściem po lewej stronie.",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "phone": "537182708"
-            }
-        },
-        {
-            "type": "node",
             "id": 11046116109,
             "lat": 53.9534166,
             "lon": 16.5862285,
@@ -107971,25 +107952,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48728431109"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11051047605,
-            "lat": 53.6279543,
-            "lon": 21.813095,
-            "timestamp": "2023-07-17T12:55:49Z",
-            "version": 1,
-            "changeset": 138621383,
-            "user": "Mersonia",
-            "uid": 18422067,
-            "tags": {
-                "access": "yes",
-                "check_date": "2023-07-17",
-                "defibrillator:location:pl": "Przed wejściem do budynku.",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "phone": "537182708"
             }
         },
         {
