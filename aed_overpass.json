@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-27T11:32:31Z",
-        "timestamp_areas_base": "2023-08-27T09:37:36Z",
+        "timestamp_osm_base": "2023-08-27T12:31:59Z",
+        "timestamp_areas_base": "2023-08-27T07:01:55Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -65610,18 +65610,21 @@
             "id": 9817358892,
             "lat": 54.0386006,
             "lon": 22.5073031,
-            "timestamp": "2022-06-14T14:15:58Z",
-            "version": 1,
-            "changeset": 122374729,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-08-27T11:53:26Z",
+            "version": 3,
+            "changeset": 140448283,
+            "user": "5R-MFT",
+            "uid": 3417876,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na Budynku Centrum Informacji Turystycznej, Obok Regionalnego Ośrodka Kultury W Olecku",
                 "emergency": "defibrillator",
+                "image": "https://i.imgur.com/lvywrfg.jpg",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "Urząd Miejski W Olecku",
-                "phone": "+48 875201201"
+                "phone": "+48 875201201",
+                "survey:date": "2023-08-27"
             }
         },
         {
