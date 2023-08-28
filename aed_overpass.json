@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-28T07:32:00Z",
-        "timestamp_areas_base": "2023-08-28T02:19:58Z",
+        "timestamp_osm_base": "2023-08-28T08:32:26Z",
+        "timestamp_areas_base": "2023-08-28T07:06:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111146,6 +111146,46 @@
                 "emergency:phone": "519576388",
                 "indoor": "no",
                 "phone": "519576388"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11149673965,
+            "lat": 51.0515554,
+            "lon": 16.9689873,
+            "timestamp": "2023-08-28T08:15:27Z",
+            "version": 1,
+            "changeset": 140481846,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu Decathlon",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Sa 09:00-21:00",
+                "operator": "Decathlon",
+                "phone": "+48717384675"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11149704307,
+            "lat": 52.2123607,
+            "lon": 18.2552567,
+            "timestamp": "2023-08-28T08:29:46Z",
+            "version": 1,
+            "changeset": 140482404,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Defibrylator AED znajduje się w punkcie informacji na parterze od wejścia w prawo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Urząd Miejski w Koninie",
+                "phone": "+48632401210"
             }
         },
         {
