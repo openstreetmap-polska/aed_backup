@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-28T14:32:36Z",
-        "timestamp_areas_base": "2023-08-28T09:33:14Z",
+        "timestamp_osm_base": "2023-08-28T15:32:00Z",
+        "timestamp_areas_base": "2023-08-28T14:22:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111186,6 +111186,23 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Koninie",
                 "phone": "+48632401210"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11150686905,
+            "lat": 50.4443705,
+            "lon": 16.8790969,
+            "timestamp": "2023-08-28T14:44:05Z",
+            "version": 1,
+            "changeset": 140498892,
+            "user": "Sławek_R",
+            "uid": 1202752,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie poczekalni z tyłu bufetu",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
