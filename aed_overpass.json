@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-28T21:32:40Z",
-        "timestamp_areas_base": "2023-08-28T19:12:44Z",
+        "timestamp_osm_base": "2023-08-28T22:31:57Z",
+        "timestamp_areas_base": "2023-08-28T16:52:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -82301,19 +82301,20 @@
         {
             "type": "node",
             "id": 10296556809,
-            "lat": 52.507346,
-            "lon": 16.2505945,
-            "timestamp": "2022-12-31T09:40:44Z",
-            "version": 1,
-            "changeset": 130713713,
-            "user": "Adrian Fitzner",
-            "uid": 18137887,
+            "lat": 52.5073341,
+            "lon": 16.2505934,
+            "timestamp": "2023-08-28T21:56:11Z",
+            "version": 2,
+            "changeset": 140514342,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
                 "access": "yes",
                 "check_date": "2022-12-31",
                 "defibrillator:location:pl": "Ściana budynku Straży Miejskiej",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
