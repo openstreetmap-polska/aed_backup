@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-28T20:32:28Z",
+        "timestamp_osm_base": "2023-08-28T21:32:40Z",
         "timestamp_areas_base": "2023-08-28T19:12:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111215,6 +111215,24 @@
                 "defibrillator:location": "Na ścianie poczekalni z tyłu bufetu",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11151750331,
+            "lat": 52.5640521,
+            "lon": 16.4386535,
+            "timestamp": "2023-08-28T21:10:41Z",
+            "version": 1,
+            "changeset": 140513320,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
