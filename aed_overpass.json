@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-29T19:31:58Z",
+        "timestamp_osm_base": "2023-08-29T20:32:21Z",
         "timestamp_areas_base": "2023-08-29T16:56:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111268,6 +111268,24 @@
                 "defibrillator:location:en": "in the garage",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11154499205,
+            "lat": 49.9121514,
+            "lon": 18.7606987,
+            "timestamp": "2023-08-29T20:28:14Z",
+            "version": 1,
+            "changeset": 140558916,
+            "user": "lekkir",
+            "uid": 338059,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy schodach",
+                "defibrillator:location:en": "On the wall by the stairs",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
