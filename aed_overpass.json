@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-29T10:32:30Z",
+        "timestamp_osm_base": "2023-08-29T11:31:52Z",
         "timestamp_areas_base": "2023-08-29T09:31:07Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111234,6 +111234,21 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11152767708,
+            "lat": 49.7402702,
+            "lon": 19.257345,
+            "timestamp": "2023-08-29T10:33:23Z",
+            "version": 1,
+            "changeset": 140534304,
+            "user": "OSP Kocierz Moszczanicki",
+            "uid": 16025647,
+            "tags": {
+                "defibrillator:location": "w samochodzie pożarniczym",
+                "emergency": "defibrillator"
             }
         },
         {
