@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-29T14:31:56Z",
-        "timestamp_areas_base": "2023-08-29T09:31:07Z",
+        "timestamp_osm_base": "2023-08-29T15:32:02Z",
+        "timestamp_areas_base": "2023-08-29T12:04:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -98771,13 +98771,13 @@
             "id": 10763662105,
             "lat": 51.1093668,
             "lon": 16.8802327,
-            "timestamp": "2023-07-22T13:53:22Z",
-            "version": 2,
-            "changeset": 138855344,
-            "user": "Alexey Vazhnov",
-            "uid": 91771,
+            "timestamp": "2023-08-29T14:51:54Z",
+            "version": 3,
+            "changeset": 140546206,
+            "user": "maraf24",
+            "uid": 2098272,
             "tags": {
-                "access": "yes",
+                "access": "customers",
                 "check_date": "2023-07-22",
                 "defibrillator:location:pl": "Na ścianie pomiędzy Gate 6 i 7 (po stronie sklepów)",
                 "emergency": "defibrillator",
