@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T08:32:41Z",
-        "timestamp_areas_base": "2023-08-30T07:21:46Z",
+        "timestamp_osm_base": "2023-08-30T09:31:55Z",
+        "timestamp_areas_base": "2023-08-30T04:39:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46030,15 +46030,19 @@
             "id": 9535379417,
             "lat": 53.7793252,
             "lon": 20.4916871,
-            "timestamp": "2022-02-25T18:34:57Z",
-            "version": 1,
-            "changeset": 117858490,
-            "user": "serdelll",
-            "uid": 485927,
+            "timestamp": "2023-08-30T08:58:02Z",
+            "version": 2,
+            "changeset": 140576846,
+            "user": "miszokienka",
+            "uid": 7558778,
             "tags": {
-                "access": "customers",
+                "access": "private",
+                "check_date": "2023-08-30",
+                "defibrillator:location:pl": "Parter, okolice dyżurki ochroniarza.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "phone": "895248897"
             }
         },
         {
