@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T15:32:38Z",
-        "timestamp_areas_base": "2023-08-30T14:12:43Z",
+        "timestamp_osm_base": "2023-08-30T16:32:41Z",
+        "timestamp_areas_base": "2023-08-30T12:08:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111396,6 +111396,63 @@
                 "indoor": "yes",
                 "level": "0",
                 "phone": "+48 32 2075110"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156475105,
+            "lat": 50.2549669,
+            "lon": 19.0095751,
+            "timestamp": "2023-08-30T15:44:36Z",
+            "version": 1,
+            "changeset": 140594784,
+            "user": "MEDAID",
+            "uid": 20115365,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-30",
+                "defibrillator:location:pl": "Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach, parter, Recpecja",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48 32 2075500"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156480305,
+            "lat": 50.2475723,
+            "lon": 19.0121511,
+            "timestamp": "2023-08-30T15:47:00Z",
+            "version": 1,
+            "changeset": 140594784,
+            "user": "MEDAID",
+            "uid": 20115365,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-30",
+                "defibrillator:location:pl": "Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach, Stadion AWF, RECEPCJA",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48 32 2075380"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156520205,
+            "lat": 51.8883315,
+            "lon": 16.9963102,
+            "timestamp": "2023-08-30T16:09:20Z",
+            "version": 1,
+            "changeset": 140596686,
+            "user": "Wgpr Gostyń",
+            "uid": 20136476,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do siedziby WGPR oddział Gostyń. Budynek OSiR Gostyń",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
