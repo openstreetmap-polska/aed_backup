@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T16:32:41Z",
-        "timestamp_areas_base": "2023-08-30T12:08:59Z",
+        "timestamp_osm_base": "2023-08-30T17:32:46Z",
+        "timestamp_areas_base": "2023-08-30T14:12:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111451,6 +111451,23 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu do siedziby WGPR oddział Gostyń. Budynek OSiR Gostyń",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156826405,
+            "lat": 51.8811598,
+            "lon": 16.9999368,
+            "timestamp": "2023-08-30T17:04:31Z",
+            "version": 1,
+            "changeset": 140599131,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-30",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
