@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T11:32:15Z",
+        "timestamp_osm_base": "2023-08-30T12:32:29Z",
         "timestamp_areas_base": "2023-08-30T09:23:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111322,6 +111322,40 @@
                 "defibrillator:location": "Na wyposażeniu jednostki",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11155886452,
+            "lat": 50.0357397,
+            "lon": 19.9468683,
+            "timestamp": "2023-08-30T11:32:55Z",
+            "version": 1,
+            "changeset": 140583725,
+            "user": "gszkr",
+            "uid": 1970188,
+            "tags": {
+                "defibrillator:location": "po lewej pomiędzy pierwszymi i drugimi drzwiami wejściowymi",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11155886476,
+            "lat": 49.2930449,
+            "lon": 19.9663724,
+            "timestamp": "2023-08-30T11:32:55Z",
+            "version": 1,
+            "changeset": 140583725,
+            "user": "gszkr",
+            "uid": 1970188,
+            "tags": {
+                "defibrillator:location": "na recepcji hotelu",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "location": "indoor"
             }
         },
         {
