@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T14:32:15Z",
-        "timestamp_areas_base": "2023-08-30T12:08:59Z",
+        "timestamp_osm_base": "2023-08-30T15:32:38Z",
+        "timestamp_areas_base": "2023-08-30T14:12:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111356,6 +111356,46 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156442705,
+            "lat": 50.2497725,
+            "lon": 19.0065381,
+            "timestamp": "2023-08-30T15:28:31Z",
+            "version": 1,
+            "changeset": 140594784,
+            "user": "MEDAID",
+            "uid": 20115365,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-30",
+                "defibrillator:location:pl": "Przy RECEPCJI",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48 32 2075401"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11156449605,
+            "lat": 50.2497245,
+            "lon": 19.003188,
+            "timestamp": "2023-08-30T15:31:19Z",
+            "version": 1,
+            "changeset": 140594784,
+            "user": "MEDAID",
+            "uid": 20115365,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-08-30",
+                "defibrillator:location:pl": "BUDYNEK A - przy recepcji, Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48 32 2075110"
             }
         },
         {
