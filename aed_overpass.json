@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-30T04:32:42Z",
-        "timestamp_areas_base": "2023-08-30T02:34:52Z",
+        "timestamp_osm_base": "2023-08-30T05:32:01Z",
+        "timestamp_areas_base": "2023-08-30T04:39:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111286,6 +111286,38 @@
                 "defibrillator:location:en": "On the wall by the stairs",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11155304130,
+            "lat": 50.0218635,
+            "lon": 21.6355038,
+            "timestamp": "2023-08-30T04:58:26Z",
+            "version": 1,
+            "changeset": 140568490,
+            "user": "Pimpeusz",
+            "uid": 20107919,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu jednostki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11155304131,
+            "lat": 50.0469921,
+            "lon": 21.6373067,
+            "timestamp": "2023-08-30T04:58:26Z",
+            "version": 1,
+            "changeset": 140568490,
+            "user": "Pimpeusz",
+            "uid": 20107919,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu jednostki",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
