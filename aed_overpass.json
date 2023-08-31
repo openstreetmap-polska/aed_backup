@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-31T15:31:55Z",
+        "timestamp_osm_base": "2023-08-31T16:32:37Z",
         "timestamp_areas_base": "2023-08-31T14:13:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111462,18 +111462,27 @@
         {
             "type": "node",
             "id": 11156826405,
-            "lat": 51.8811598,
-            "lon": 16.9999368,
-            "timestamp": "2023-08-30T17:04:31Z",
-            "version": 1,
-            "changeset": 140599131,
-            "user": "kwiatek_123",
-            "uid": 14519311,
+            "lat": 51.8810448,
+            "lon": 16.9998217,
+            "timestamp": "2023-08-31T16:26:35Z",
+            "version": 2,
+            "changeset": 140643942,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-08-30",
+                "defibrillator:location:en": "To the left of the entrance to the Gostynin Cultural Center \"Hutnik\"",
+                "defibrillator:location:pl": "Na lewo od wejścia do Gostynińskiego Ośrodka Kultury \"Hutnik\"",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Gmina Gostyń",
+                "phone": "+48 65 572 79 90",
+                "wheelchair": "yes"
             }
         },
         {
