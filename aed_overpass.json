@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-31T06:31:59Z",
+        "timestamp_osm_base": "2023-08-31T07:31:51Z",
         "timestamp_areas_base": "2023-08-31T04:38:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111470,6 +111470,24 @@
                 "check_date": "2023-08-30",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11158484206,
+            "lat": 53.3970258,
+            "lon": 18.2991968,
+            "timestamp": "2023-08-31T07:21:22Z",
+            "version": 1,
+            "changeset": 140620496,
+            "user": "Schumacher Poledno",
+            "uid": 20141867,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed biurem kierownika zmianowego Kartonażowni.",
+                "defibrillator:location:en": "In front of the shift manager^s office.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
