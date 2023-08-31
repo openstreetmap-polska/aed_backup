@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-31T16:32:37Z",
-        "timestamp_areas_base": "2023-08-31T14:13:24Z",
+        "timestamp_osm_base": "2023-08-31T17:32:19Z",
+        "timestamp_areas_base": "2023-08-31T12:18:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111501,6 +111501,47 @@
                 "defibrillator:location:en": "In front of the shift manager^s office.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11159441452,
+            "lat": 51.8749295,
+            "lon": 17.005319,
+            "timestamp": "2023-08-31T17:22:44Z",
+            "version": 1,
+            "changeset": 140645962,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:en": "On the wall of the common room building, from the side of the pitches.",
+                "defibrillator:location:pl": "Na ścianie budynku świetlicy, od strony boisk.",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11159466505,
+            "lat": 52.230514,
+            "lon": 21.0310738,
+            "timestamp": "2023-08-31T17:29:57Z",
+            "version": 1,
+            "changeset": 140646210,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-08-31",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
