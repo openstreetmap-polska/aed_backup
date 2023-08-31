@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-08-31T17:32:19Z",
-        "timestamp_areas_base": "2023-08-31T12:18:15Z",
+        "timestamp_osm_base": "2023-08-31T18:32:14Z",
+        "timestamp_areas_base": "2023-08-31T17:12:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111445,18 +111445,26 @@
         {
             "type": "node",
             "id": 11156520205,
-            "lat": 51.8883315,
-            "lon": 16.9963102,
-            "timestamp": "2023-08-30T16:09:20Z",
-            "version": 1,
-            "changeset": 140596686,
-            "user": "Wgpr Gostyń",
-            "uid": 20136476,
+            "lat": 51.8883101,
+            "lon": 16.9962932,
+            "timestamp": "2023-08-31T17:39:56Z",
+            "version": 2,
+            "changeset": 140646480,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie przy wejściu do siedziby WGPR oddział Gostyń. Budynek OSiR Gostyń",
+                "check_date": "2023-08-30",
+                "defibrillator:location:en": "On the wall at the entrance to the WGPR headquarters, the Gostyń branch. OSiR Gostyn building.",
+                "defibrillator:location:pl": "Na ścianie przy wejściu do siedziby WGPR oddział Gostyń. Budynek OSiR Gostyń.",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Gmina Gostyń",
+                "wheelchair": "yes"
             }
         },
         {
@@ -111506,15 +111514,16 @@
         {
             "type": "node",
             "id": 11159441452,
-            "lat": 51.8749295,
-            "lon": 17.005319,
-            "timestamp": "2023-08-31T17:22:44Z",
-            "version": 1,
-            "changeset": 140645962,
+            "lat": 51.8749335,
+            "lon": 17.0053457,
+            "timestamp": "2023-08-31T18:09:06Z",
+            "version": 3,
+            "changeset": 140647394,
             "user": "ptarac",
             "uid": 11496679,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-08-30",
                 "defibrillator:location:en": "On the wall of the common room building, from the side of the pitches.",
                 "defibrillator:location:pl": "Na ścianie budynku świetlicy, od strony boisk.",
                 "description:en": "In a round, illuminated Rotaid capsule.",
@@ -111542,6 +111551,28 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11159478417,
+            "lat": 50.1610136,
+            "lon": 18.3710933,
+            "timestamp": "2023-08-31T17:54:22Z",
+            "version": 1,
+            "changeset": 140646956,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-08-31",
+                "defibrillator:location:en": "In the rescue and firefighting vehicle.",
+                "defibrillator:location:pl": "W pojeździe ratowniczo-gaśniczym.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Szymocice",
+                "wheelchair": "no"
             }
         },
         {
