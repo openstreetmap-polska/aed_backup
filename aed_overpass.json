@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-01T18:31:56Z",
+        "timestamp_osm_base": "2023-09-01T19:32:12Z",
         "timestamp_areas_base": "2023-09-01T14:12:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -4379,18 +4379,23 @@
         {
             "type": "node",
             "id": 8951221428,
-            "lat": 54.6017437,
-            "lon": 18.2294819,
-            "timestamp": "2021-07-26T11:41:47Z",
-            "version": 1,
-            "changeset": 108621396,
-            "user": "Maciej_3004",
-            "uid": 13419410,
+            "lat": 54.6017338,
+            "lon": 18.2295579,
+            "timestamp": "2023-09-01T18:52:50Z",
+            "version": 2,
+            "changeset": 140692671,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
+                "access": "customers",
+                "defibrillator:location:en": "Inside the forest inspectorate building.",
+                "defibrillator:location:pl": "Wewnątrz budynku nadleśnictwa.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "Mo-Fr 07:00-15:00",
-                "operator": "Nadleśnictwo Wejherowo"
+                "operator": "Nadleśnictwo Wejherowo",
+                "phone": "+48 58 672 98 01"
             }
         },
         {
@@ -111600,6 +111605,64 @@
                 "operator": "OSP Jaźwiny",
                 "phone": "+48 512 447 517",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11161551880,
+            "lat": 54.6029256,
+            "lon": 18.2335023,
+            "timestamp": "2023-09-01T19:02:17Z",
+            "version": 3,
+            "changeset": 140692923,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-09-01",
+                "defibrillator:location:en": "Inside the building, on the wall to the right of the main entrance to the building.",
+                "defibrillator:location:pl": "Wewnątrz budynku, na ścianie po prawej stronie od głównego wejścia do budynku.",
+                "description:en": "In a white, lockable case.",
+                "description:pl": "W białej, zamykanej gablocie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 06:30-17:00",
+                "phone": "+48 58 672 25 49"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11161569706,
+            "lat": 50.910014,
+            "lon": 16.3297933,
+            "timestamp": "2023-09-01T18:46:38Z",
+            "version": 1,
+            "changeset": 140692470,
+            "user": "strazak567",
+            "uid": 20153939,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "samochód Ratowniczo-Gaśniczy OSP OLSZANY",
+                "defibrillator:location:en": "rescue and firefighting vehicle OSP OLSZANY",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11161596205,
+            "lat": 50.9098992,
+            "lon": 16.3294335,
+            "timestamp": "2023-09-01T18:48:03Z",
+            "version": 1,
+            "changeset": 140692470,
+            "user": "strazak567",
+            "uid": 20153939,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "samochód Ratowniczo-Gaśniczy OSP OLSZANY",
+                "defibrillator:location:en": "rescue and firefighting vehicle OSP OLSZANY",
+                "emergency": "defibrillator"
             }
         },
         {
