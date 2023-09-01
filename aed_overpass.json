@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-01T07:32:00Z",
-        "timestamp_areas_base": "2023-09-01T02:46:55Z",
+        "timestamp_osm_base": "2023-09-01T08:32:46Z",
+        "timestamp_areas_base": "2023-09-01T04:37:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -103223,18 +103223,20 @@
             "id": 10904742907,
             "lat": 49.8467151,
             "lon": 19.1440525,
-            "timestamp": "2023-05-17T10:03:54Z",
-            "version": 1,
-            "changeset": 136205135,
-            "user": "OC KOZY",
-            "uid": 19294326,
+            "timestamp": "2023-09-01T08:12:35Z",
+            "version": 2,
+            "changeset": 140667112,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Posterunek Policji w Kozach",
                 "defibrillator:location:en": "Police Station in Kozy",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Urząd Gminy w Kozach"
             }
         },
         {
