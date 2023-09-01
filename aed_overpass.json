@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-01T19:32:12Z",
-        "timestamp_areas_base": "2023-09-01T14:12:41Z",
+        "timestamp_osm_base": "2023-09-01T20:32:30Z",
+        "timestamp_areas_base": "2023-09-01T19:00:28Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -19953,19 +19953,22 @@
         {
             "type": "node",
             "id": 9439318517,
-            "lat": 54.6752475,
-            "lon": 18.412444,
-            "timestamp": "2022-01-22T11:43:32Z",
-            "version": 1,
-            "changeset": 116462706,
-            "user": "modelot",
-            "uid": 8084922,
+            "lat": 54.6752456,
+            "lon": 18.412443,
+            "timestamp": "2023-09-01T20:11:00Z",
+            "version": 2,
+            "changeset": 140695127,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location": "Na ścianie przy wejściu do Domu Parafialnego",
                 "defibrillator:location:en": "On the wall near entrance",
+                "direction": "90",
                 "emergency": "defibrillator",
-                "location": "outdoor"
+                "location": "outdoor",
+                "opening_hours": "24/7",
+                "operator": "Stowarzyszenie Nasze Żelistrzewo"
             }
         },
         {
