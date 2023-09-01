@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-01T17:32:11Z",
-        "timestamp_areas_base": "2023-09-01T12:19:58Z",
+        "timestamp_osm_base": "2023-09-01T18:31:56Z",
+        "timestamp_areas_base": "2023-09-01T14:12:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111580,20 +111580,26 @@
         {
             "type": "node",
             "id": 11160915205,
-            "lat": 50.0913133,
-            "lon": 21.2467159,
-            "timestamp": "2023-09-01T14:07:18Z",
-            "version": 1,
-            "changeset": 140681666,
-            "user": "Michal-Zieba",
-            "uid": 20152451,
+            "lat": 50.0913285,
+            "lon": 21.2467446,
+            "timestamp": "2023-09-01T18:25:39Z",
+            "version": 2,
+            "changeset": 140691802,
+            "user": "ptarac",
+            "uid": 11496679,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Ogólnodostępne AED znajduje się w kapsule zamontowanej na ścianie przy drzwiach garażowych straży OSP Jaźwiny na dole budynku",
+                "defibrillator:location:en": "A publicly available AED is located in a capsule mounted on the wall by the garage door of the Jaźwiny Fire Department at the bottom of the building.",
+                "defibrillator:location:pl": "Ogólnodostępne AED znajduje się w kapsule zamontowanej na ścianie przy drzwiach garażowych straży OSP Jaźwiny na dole budynku.",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "no",
-                "phone": "+48 512447517"
+                "opening_hours": "24/7",
+                "operator": "OSP Jaźwiny",
+                "phone": "+48 512 447 517",
+                "wheelchair": "yes"
             }
         },
         {
