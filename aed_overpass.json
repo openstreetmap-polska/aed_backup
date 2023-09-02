@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-02T09:32:01Z",
-        "timestamp_areas_base": "2023-09-02T07:31:00Z",
+        "timestamp_osm_base": "2023-09-02T10:32:30Z",
+        "timestamp_areas_base": "2023-09-02T09:13:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56985,20 +56985,24 @@
             "id": 9645370169,
             "lat": 54.3746896,
             "lon": 18.7310436,
-            "timestamp": "2022-04-15T09:53:48Z",
-            "version": 2,
-            "changeset": 119744077,
-            "user": "mueschel",
-            "uid": 616774,
+            "timestamp": "2023-09-02T10:10:06Z",
+            "version": 4,
+            "changeset": 140711870,
+            "user": "5R-MFT",
+            "uid": 3417876,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "elewacja budynku",
                 "emergency": "defibrillator",
+                "image": "https://i.imgur.com/zhlzp6H.jpg",
                 "indoor": "no",
                 "object:addr": "Gdańsk, ul. Wydmy 1 (Kąpielisko Stogi)",
+                "opening_hours": "24/7",
                 "operator": "WBiZK",
                 "phone": "+48 58 778 60 00",
-                "typ": "fixed"
+                "survey:date": "2023-09-02",
+                "typ": "fixed",
+                "wheelchair": "yes"
             }
         },
         {
