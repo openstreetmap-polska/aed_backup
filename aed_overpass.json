@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-02T11:32:16Z",
+        "timestamp_osm_base": "2023-09-02T12:32:46Z",
         "timestamp_areas_base": "2023-09-02T09:13:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111670,6 +111670,40 @@
                 "defibrillator:location": "samochód Ratowniczo-Gaśniczy OSP OLSZANY",
                 "defibrillator:location:en": "rescue and firefighting vehicle OSP OLSZANY",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11162768405,
+            "lat": 52.7516581,
+            "lon": 18.2527941,
+            "timestamp": "2023-09-02T11:56:52Z",
+            "version": 1,
+            "changeset": 140715359,
+            "user": "KrzysztofOSP",
+            "uid": 20158678,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na ścianie przy wejściu po lewej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11162769705,
+            "lat": 52.7841324,
+            "lon": 18.2551155,
+            "timestamp": "2023-09-02T11:57:46Z",
+            "version": 1,
+            "changeset": 140715359,
+            "user": "KrzysztofOSP",
+            "uid": 20158678,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy kasie na ścianie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
