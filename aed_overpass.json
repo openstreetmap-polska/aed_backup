@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-02T16:32:26Z",
-        "timestamp_areas_base": "2023-09-02T12:18:28Z",
+        "timestamp_osm_base": "2023-09-02T17:32:47Z",
+        "timestamp_areas_base": "2023-09-02T13:56:56Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111724,6 +111724,24 @@
                 "level": "0",
                 "operator": "Park Wodny Olza",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11163263005,
+            "lat": 50.0264372,
+            "lon": 21.991139,
+            "timestamp": "2023-09-02T16:45:53Z",
+            "version": 1,
+            "changeset": 140727935,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W Centrum Medycznym Medyk",
+                "defibrillator:location:en": "Inside the Medyk Medical Center",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
