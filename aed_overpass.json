@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-02T23:32:36Z",
-        "timestamp_areas_base": "2023-09-02T18:43:45Z",
+        "timestamp_osm_base": "2023-09-03T00:32:03Z",
+        "timestamp_areas_base": "2023-09-02T21:52:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111730,10 +111730,10 @@
             "type": "node",
             "id": 11163263005,
             "lat": 50.0264372,
-            "lon": 21.991139,
-            "timestamp": "2023-09-02T16:45:53Z",
-            "version": 1,
-            "changeset": 140727935,
+            "lon": 21.9911437,
+            "timestamp": "2023-09-03T00:12:58Z",
+            "version": 2,
+            "changeset": 140739495,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
@@ -111741,7 +111741,8 @@
                 "defibrillator:location": "W Centrum Medycznym Medyk",
                 "defibrillator:location:en": "Inside the Medyk Medical Center",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-18:00"
             }
         },
         {
