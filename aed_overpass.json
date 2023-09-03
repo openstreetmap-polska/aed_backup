@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-03T22:32:21Z",
-        "timestamp_areas_base": "2023-09-03T18:22:30Z",
+        "timestamp_osm_base": "2023-09-03T23:32:19Z",
+        "timestamp_areas_base": "2023-09-03T21:42:31Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111766,6 +111766,52 @@
                 "defibrillator:location": "Na lewo od wejścia, koło wind.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11165916745,
+            "lat": 50.0583196,
+            "lon": 19.0946946,
+            "timestamp": "2023-09-03T23:04:40Z",
+            "version": 1,
+            "changeset": 140779781,
+            "user": "kubahahaha",
+            "uid": 1479852,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Bojszowach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11165916748,
+            "lat": 53.2751392,
+            "lon": 18.4432924,
+            "timestamp": "2023-09-03T23:04:40Z",
+            "version": 1,
+            "changeset": 140779781,
+            "user": "kubahahaha",
+            "uid": 1479852,
+            "tags": {
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Kijewie Królewskim"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11165947117,
+            "lat": 53.3021434,
+            "lon": 20.2804548,
+            "timestamp": "2023-09-03T23:11:52Z",
+            "version": 1,
+            "changeset": 140779882,
+            "user": "kubahahaha",
+            "uid": 1479852,
+            "tags": {
+                "description": "W SAMOCHODZIE 59 N 23",
+                "emergency": "defibrillator",
+                "operator": "Ochotnicza Straż Pożarna w Kozłowie"
             }
         },
         {
