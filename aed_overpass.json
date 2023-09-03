@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-03T10:32:30Z",
+        "timestamp_osm_base": "2023-09-03T11:32:01Z",
         "timestamp_areas_base": "2023-09-03T08:55:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -5255,17 +5255,22 @@
             "id": 9037965180,
             "lat": 54.3600614,
             "lon": 18.6484417,
-            "timestamp": "2022-04-06T09:57:42Z",
-            "version": 2,
-            "changeset": 119378387,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "timestamp": "2023-09-03T11:05:55Z",
+            "version": 5,
+            "changeset": 140752958,
+            "user": "5R-MFT",
+            "uid": 3417876,
             "tags": {
+                "access": "yes",
                 "defibrillator:location": "wolnostojący postument",
                 "emergency": "defibrillator",
+                "image": "https://i.imgur.com/J8dTjQY.jpg",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "WBiZK",
-                "phone": "+48 58 778 60 00"
+                "phone": "+48 58 778 60 00",
+                "survey:date": "2023-09-03",
+                "wheelchair": "yes"
             }
         },
         {
