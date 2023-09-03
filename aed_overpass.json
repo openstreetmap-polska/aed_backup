@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-03T21:32:15Z",
+        "timestamp_osm_base": "2023-09-03T22:32:21Z",
         "timestamp_areas_base": "2023-09-03T18:22:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105879,18 +105879,20 @@
         {
             "type": "node",
             "id": 10994972405,
-            "lat": 51.269949,
-            "lon": 17.3451389,
-            "timestamp": "2023-06-21T15:54:05Z",
-            "version": 1,
-            "changeset": 137611918,
-            "user": "Zgo Tom",
-            "uid": 19419833,
+            "lat": 51.2699145,
+            "lon": 17.3451523,
+            "timestamp": "2023-09-03T22:29:54Z",
+            "version": 2,
+            "changeset": 140779245,
+            "user": "pio2_122",
+            "uid": 3214275,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na bocznej ścianie remizy OSP Dobroszyce",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Dobroszycach"
             }
         },
         {
