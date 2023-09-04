@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-04T08:32:14Z",
-        "timestamp_areas_base": "2023-09-04T07:12:14Z",
+        "timestamp_osm_base": "2023-09-04T09:32:00Z",
+        "timestamp_areas_base": "2023-09-04T08:34:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111812,6 +111812,23 @@
                 "description": "W SAMOCHODZIE 59 N 23",
                 "emergency": "defibrillator",
                 "operator": "Ochotnicza Straż Pożarna w Kozłowie"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11166537447,
+            "lat": 51.1219754,
+            "lon": 15.913758,
+            "timestamp": "2023-09-04T09:05:24Z",
+            "version": 1,
+            "changeset": 140793930,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator AED znajduje się obok przystanku autobusowego.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
