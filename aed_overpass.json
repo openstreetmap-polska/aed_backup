@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-04T15:32:15Z",
+        "timestamp_osm_base": "2023-09-04T16:32:45Z",
         "timestamp_areas_base": "2023-09-04T13:19:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -111864,6 +111864,42 @@
                 "defibrillator:location": "Na wyposażeniu pojazdu bojowego OSP KOŁAKÓW",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11167388606,
+            "lat": 52.4044249,
+            "lon": 17.0736641,
+            "timestamp": "2023-09-04T16:25:22Z",
+            "version": 1,
+            "changeset": 140814069,
+            "user": "Łukasz Anioła",
+            "uid": 20173112,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ciężki samochód ratowniczo gaśniczy (319P32)",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "50025099"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11167418805,
+            "lat": 52.4102803,
+            "lon": 17.0776606,
+            "timestamp": "2023-09-04T16:27:31Z",
+            "version": 1,
+            "changeset": 140814166,
+            "user": "Łukasz Anioła",
+            "uid": 20173112,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W holu, na parterze, po lewej stronie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "61 65 12 000"
             }
         },
         {
