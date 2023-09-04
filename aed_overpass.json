@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-04T20:31:46Z",
+        "timestamp_osm_base": "2023-09-04T21:32:15Z",
         "timestamp_areas_base": "2023-09-04T18:06:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1767,14 +1767,18 @@
             "id": 6207121845,
             "lat": 49.8680487,
             "lon": 19.2270087,
-            "timestamp": "2019-01-14T07:37:37Z",
-            "version": 1,
-            "changeset": 66292489,
-            "user": "stoki_86",
-            "uid": 5337815,
+            "timestamp": "2023-09-04T20:54:01Z",
+            "version": 2,
+            "changeset": 140823172,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
+                "access": "permit",
+                "defibrillator:location": "Główna brama — portiernia",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Grupa Kety S.A."
             }
         },
         {
@@ -111944,6 +111948,80 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 7:30-22:00; Sa-Su 8:00-22:00",
                 "operator": "Miejski Ośrodek Sportu i Rekreacji w Czechowicach-Dziedzicach"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11168103211,
+            "lat": 49.8748482,
+            "lon": 19.2106505,
+            "timestamp": "2023-09-04T20:54:01Z",
+            "version": 1,
+            "changeset": 140823172,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Hol kasowy krytej pływalni - 1 piętro",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ośrodek Sportu i Rekreacji w Kętach",
+                "phone": "+48530914662"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11168103224,
+            "lat": 49.8839651,
+            "lon": 19.2219103,
+            "timestamp": "2023-09-04T20:54:01Z",
+            "version": 1,
+            "changeset": 140823172,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Dziennik Podawczy — parter",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Urząd Gminy Kęty"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11168103225,
+            "lat": 49.8813848,
+            "lon": 19.2153958,
+            "timestamp": "2023-09-04T20:54:01Z",
+            "version": 1,
+            "changeset": 140823172,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "przychodnia zdrowia - gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gminny Zakład Opieki Zdrowotnej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11168103226,
+            "lat": 49.8808041,
+            "lon": 19.2118797,
+            "timestamp": "2023-09-04T20:54:01Z",
+            "version": 1,
+            "changeset": 140823172,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Gabinet zabiegowy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Gminny Zakład Opieki Zdrowotnej"
             }
         },
         {
