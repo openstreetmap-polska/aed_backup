@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-04T12:32:00Z",
-        "timestamp_areas_base": "2023-09-04T07:12:14Z",
+        "timestamp_osm_base": "2023-09-04T13:32:41Z",
+        "timestamp_areas_base": "2023-09-04T11:59:12Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111829,6 +111829,41 @@
                 "defibrillator:location": "Defibrylator AED znajduje się obok przystanku autobusowego.",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11166971545,
+            "lat": 51.2120168,
+            "lon": 22.5595102,
+            "timestamp": "2023-09-04T13:15:56Z",
+            "version": 2,
+            "changeset": 140805183,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na portierni Sipma S.A.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Sipma S.A."
+            }
+        },
+        {
+            "type": "node",
+            "id": 11166992906,
+            "lat": 52.47959,
+            "lon": 21.2254718,
+            "timestamp": "2023-09-04T13:27:51Z",
+            "version": 1,
+            "changeset": 140805763,
+            "user": "OSP KOŁAKÓW",
+            "uid": 20172007,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na wyposażeniu pojazdu bojowego OSP KOŁAKÓW",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
