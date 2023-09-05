@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-05T06:32:15Z",
-        "timestamp_areas_base": "2023-09-05T02:28:12Z",
+        "timestamp_osm_base": "2023-09-05T07:32:44Z",
+        "timestamp_areas_base": "2023-09-05T03:36:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111896,14 +111896,15 @@
             "id": 11167418805,
             "lat": 52.4102803,
             "lon": 17.0776606,
-            "timestamp": "2023-09-04T17:32:08Z",
-            "version": 2,
-            "changeset": 140816681,
+            "timestamp": "2023-09-05T06:35:59Z",
+            "version": 3,
+            "changeset": 140833711,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu, na parterze, po lewej stronie.",
+                "description": "Philips HeartStart HS1, elektrody dla dorosłych.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-16:00",
@@ -112022,6 +112023,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Gminny Zakład Opieki Zdrowotnej"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11168925552,
+            "lat": 50.9767131,
+            "lon": 18.1718944,
+            "timestamp": "2023-09-05T06:44:43Z",
+            "version": 1,
+            "changeset": 140834089,
+            "user": "Aleksander | Yanosik",
+            "uid": 15281180,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator AED znajduje się na portierni ochrony zakladu Marcegaglia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Marcegaglia Poland",
+                "phone": "+48774598200"
             }
         },
         {
