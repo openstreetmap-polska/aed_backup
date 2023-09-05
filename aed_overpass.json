@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-05T21:32:00Z",
+        "timestamp_osm_base": "2023-09-05T22:32:46Z",
         "timestamp_areas_base": "2023-09-05T17:56:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -85980,17 +85980,18 @@
             "id": 10540288809,
             "lat": 52.1836052,
             "lon": 20.8394909,
-            "timestamp": "2023-01-11T18:48:56Z",
-            "version": 1,
-            "changeset": 131157952,
-            "user": "małyfanfnaf",
-            "uid": 12510523,
+            "timestamp": "2023-09-05T21:39:14Z",
+            "version": 2,
+            "changeset": 140869523,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "w supermarkecie Auchan",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
