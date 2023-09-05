@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-05T08:32:45Z",
-        "timestamp_areas_base": "2023-09-05T03:36:27Z",
+        "timestamp_osm_base": "2023-09-05T09:32:20Z",
+        "timestamp_areas_base": "2023-09-05T07:12:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111876,14 +111876,15 @@
             "id": 11167388606,
             "lat": 52.4044249,
             "lon": 17.0736641,
-            "timestamp": "2023-09-04T17:28:43Z",
-            "version": 2,
-            "changeset": 140816550,
+            "timestamp": "2023-09-05T09:18:24Z",
+            "version": 3,
+            "changeset": 140840184,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Ciężki samochód ratowniczo gaśniczy (319P32)",
+                "description": "Philips HeartStart FRx, elektrody dla dzieci i dorosłych.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
@@ -111917,14 +111918,15 @@
             "id": 11167452705,
             "lat": 52.4044378,
             "lon": 17.0739649,
-            "timestamp": "2023-09-04T17:29:32Z",
-            "version": 2,
-            "changeset": 140816588,
+            "timestamp": "2023-09-05T09:17:24Z",
+            "version": 3,
+            "changeset": 140840139,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Średni samochód ratowniczo gaśniczy (319P31)",
+                "description": "Defibtech Lifeline, elektrody dla dzieci i dorosłych.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
@@ -112042,6 +112044,27 @@
                 "indoor": "yes",
                 "operator": "Marcegaglia Poland",
                 "phone": "+48774598200"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11169224037,
+            "lat": 52.4062333,
+            "lon": 17.0687291,
+            "timestamp": "2023-09-05T09:26:40Z",
+            "version": 2,
+            "changeset": 140840550,
+            "user": "Łukasz Anioła",
+            "uid": 20173112,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na drugim piętrze, na ścianie, na wprost klatki schodowej.",
+                "description": "Philips HeartStart HS1, elektrody dla dorosłych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-16:00",
+                "operator": "Urząd Miasta i Gminy w Swarzędzu",
+                "phone": "61 65 12 000"
             }
         },
         {
