@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-05T11:32:15Z",
+        "timestamp_osm_base": "2023-09-05T12:32:36Z",
         "timestamp_areas_base": "2023-09-05T08:20:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112065,6 +112065,45 @@
                 "opening_hours": "Mo-Fr 07:00-16:00",
                 "operator": "Urząd Miasta i Gminy w Swarzędzu",
                 "phone": "61 65 12 000"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11169505637,
+            "lat": 52.4506161,
+            "lon": 17.0900509,
+            "timestamp": "2023-09-05T12:20:12Z",
+            "version": 2,
+            "changeset": 140847971,
+            "user": "Łukasz Anioła",
+            "uid": 20173112,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ciężki samochód ratowniczo gaśniczy (319P43).",
+                "description": "DefibTech LifeLine, elektrody dla dzieci i dorosłych.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Kobylnicy"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11169507637,
+            "lat": 52.4506569,
+            "lon": 17.0902668,
+            "timestamp": "2023-09-05T12:21:24Z",
+            "version": 2,
+            "changeset": 140848013,
+            "user": "Łukasz Anioła",
+            "uid": 20173112,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Ciężki samochód ratowniczo gaśniczy (319P44).",
+                "description": "Philips HeartStart FRx, elektrody dla dzieci i dorosłych.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Ochotnicza Straż Pożarna w Kobylnicy."
             }
         },
         {
