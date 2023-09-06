@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-06T16:32:29Z",
+        "timestamp_osm_base": "2023-09-06T17:31:55Z",
         "timestamp_areas_base": "2023-09-06T12:53:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -22730,20 +22730,21 @@
             "id": 9445590158,
             "lat": 49.8670433,
             "lon": 18.6966194,
-            "timestamp": "2023-09-06T16:28:21Z",
-            "version": 2,
-            "changeset": 140903124,
+            "timestamp": "2023-09-06T16:42:04Z",
+            "version": 3,
+            "changeset": 140903634,
             "user": "Kemon58",
             "uid": 19694147,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy (KAMAZ 4×4 GBA 3,5/30)",
-                "defibrillator:location:en": "Rescue and firefighting car",
+                "defibrillator:location:en": "Firetruck",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7",
-                "operator": "OSP Pruchnia"
+                "operator": "OSP Pruchnia",
+                "phone": "502 310 793"
             }
         },
         {
