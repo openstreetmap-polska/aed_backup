@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-06T21:31:59Z",
-        "timestamp_areas_base": "2023-09-06T16:43:42Z",
+        "timestamp_osm_base": "2023-09-06T22:32:41Z",
+        "timestamp_areas_base": "2023-09-06T21:31:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112345,6 +112345,24 @@
                 "defibrillator:location": "AED  - OSP Brenna Centrum",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11173012737,
+            "lat": 49.7483831,
+            "lon": 18.8272117,
+            "timestamp": "2023-09-06T21:50:24Z",
+            "version": 1,
+            "changeset": 140914488,
+            "user": "OSP w Ustroniu Lipowcu",
+            "uid": 20189815,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na wozie bojowym OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "668662168"
             }
         },
         {
