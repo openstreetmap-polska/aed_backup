@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-06T18:32:19Z",
-        "timestamp_areas_base": "2023-09-06T17:40:04Z",
+        "timestamp_osm_base": "2023-09-06T19:32:13Z",
+        "timestamp_areas_base": "2023-09-06T16:43:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12909,13 +12909,14 @@
             "id": 9421489417,
             "lat": 50.1739442,
             "lon": 19.5938832,
-            "timestamp": "2022-01-30T17:45:52Z",
-            "version": 2,
-            "changeset": 116790504,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2023-09-06T18:35:54Z",
+            "version": 3,
+            "changeset": 140907861,
+            "user": "VA00",
+            "uid": 1745828,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-09-06",
                 "defibrillator:location": "Ściana pomiędzy bramami garażowymi",
                 "defibrillator:location:en": "On the wall in front of the garages",
                 "emergency": "defibrillator",
@@ -112310,6 +112311,40 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172530237,
+            "lat": 49.7222271,
+            "lon": 18.9159716,
+            "timestamp": "2023-09-06T18:55:52Z",
+            "version": 1,
+            "changeset": 140908565,
+            "user": "Zx99y",
+            "uid": 20187786,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "OSP Brenna Centrum",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172539637,
+            "lat": 49.7218864,
+            "lon": 18.9159126,
+            "timestamp": "2023-09-06T19:00:37Z",
+            "version": 1,
+            "changeset": 140908720,
+            "user": "Zx99y",
+            "uid": 20187786,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED  - OSP Brenna Centrum",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
