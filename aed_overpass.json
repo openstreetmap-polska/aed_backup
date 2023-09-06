@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-06T14:32:29Z",
+        "timestamp_osm_base": "2023-09-06T15:32:01Z",
         "timestamp_areas_base": "2023-09-06T11:57:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -73613,15 +73613,18 @@
         {
             "type": "node",
             "id": 10098385318,
-            "lat": 50.2468572,
-            "lon": 21.778279,
-            "timestamp": "2022-10-13T15:41:01Z",
-            "version": 1,
-            "changeset": 127477607,
+            "lat": 50.2468233,
+            "lon": 21.7782763,
+            "timestamp": "2023-09-06T14:55:46Z",
+            "version": 2,
+            "changeset": 140898989,
             "user": "Patryk2710",
             "uid": 12914377,
             "tags": {
-                "emergency": "defibrillator"
+                "access": "yes",
+                "defibrillator:location": "Na korytarzu przy wejściu głównym",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
@@ -112177,6 +112180,113 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Nadleśnictwo Porażyn"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11171989537,
+            "lat": 49.8601561,
+            "lon": 18.8540421,
+            "timestamp": "2023-09-06T14:41:45Z",
+            "version": 1,
+            "changeset": 140898392,
+            "user": "osp iłownica",
+            "uid": 20187770,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "straz pozarna w iłownicy",
+                "defibrillator:location:en": "straz pozarna w ilownicy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "667348658"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11171995838,
+            "lat": 49.880048,
+            "lon": 18.8716913,
+            "timestamp": "2023-09-06T14:51:17Z",
+            "version": 1,
+            "changeset": 140898798,
+            "user": "OspLandek",
+            "uid": 20187843,
+            "tags": {
+                "access": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "507 736 972"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172006137,
+            "lat": 49.860169,
+            "lon": 18.8540255,
+            "timestamp": "2023-09-06T14:53:44Z",
+            "version": 1,
+            "changeset": 140898913,
+            "user": "osp iłownica",
+            "uid": 20187770,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "samochod osp iłownica",
+                "defibrillator:location:en": "samochod osp iłownica",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "667348658"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172006437,
+            "lat": 49.6430223,
+            "lon": 18.8714425,
+            "timestamp": "2023-09-06T14:54:15Z",
+            "version": 1,
+            "changeset": 140898930,
+            "user": "Bartosz161",
+            "uid": 20187837,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W OSP trzeba włączyć syrenę zbijając i wciskając przycisk pożar na budynku przy wejsciu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172006737,
+            "lat": 49.8419671,
+            "lon": 18.8521918,
+            "timestamp": "2023-09-06T14:54:50Z",
+            "version": 1,
+            "changeset": 140898951,
+            "user": "Michał Masarczyk",
+            "uid": 20187839,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED Zool. Pojazd GBA 338s49",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172044437,
+            "lat": 49.8599563,
+            "lon": 18.992424,
+            "timestamp": "2023-09-06T15:20:07Z",
+            "version": 1,
+            "changeset": 140900014,
+            "user": "OSP Mazańcowice",
+            "uid": 20188022,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Na samochodzie strażackim.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
