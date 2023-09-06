@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-06T17:31:55Z",
-        "timestamp_areas_base": "2023-09-06T12:53:27Z",
+        "timestamp_osm_base": "2023-09-06T18:32:19Z",
+        "timestamp_areas_base": "2023-09-06T17:40:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112291,6 +112291,25 @@
                 "defibrillator:location": "Na samochodzie strażackim.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11172463737,
+            "lat": 49.8544765,
+            "lon": 18.8855549,
+            "timestamp": "2023-09-06T18:26:19Z",
+            "version": 1,
+            "changeset": 140907428,
+            "user": "KozakMKW",
+            "uid": 20189064,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Strażnica w OSP Rudzica",
+                "defibrillator:location:en": "OSP Rudzica fire station",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
             }
         },
         {
