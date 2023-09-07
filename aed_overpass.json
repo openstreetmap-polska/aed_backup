@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T12:32:28Z",
-        "timestamp_areas_base": "2023-09-07T07:49:13Z",
+        "timestamp_osm_base": "2023-09-07T13:32:14Z",
+        "timestamp_areas_base": "2023-09-07T11:45:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112382,6 +112382,41 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11174471437,
+            "lat": 50.3051351,
+            "lon": 19.1651362,
+            "timestamp": "2023-09-07T12:37:55Z",
+            "version": 1,
+            "changeset": 140939190,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W przedsionku.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11174588737,
+            "lat": 50.2751498,
+            "lon": 19.1508917,
+            "timestamp": "2023-09-07T13:22:40Z",
+            "version": 1,
+            "changeset": 140941118,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "parter obok portierni",
+                "defibrillator:location:en": "ground floor next to the gatehouse",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
