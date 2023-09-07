@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T09:32:42Z",
-        "timestamp_areas_base": "2023-09-07T06:58:51Z",
+        "timestamp_osm_base": "2023-09-07T10:32:17Z",
+        "timestamp_areas_base": "2023-09-07T07:49:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -22731,15 +22731,16 @@
             "id": 9445590158,
             "lat": 49.8670433,
             "lon": 18.6966194,
-            "timestamp": "2023-09-06T16:42:04Z",
-            "version": 3,
-            "changeset": 140903634,
+            "timestamp": "2023-09-07T10:27:14Z",
+            "version": 4,
+            "changeset": 140933473,
             "user": "Kemon58",
             "uid": 19694147,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy (KAMAZ 4×4 GBA 3,5/30)",
                 "defibrillator:location:en": "Firetruck",
+                "description": "Aby uzyskać dostęp do AED należy zadzwonić pod numer kontaktowy OSP Pruchna (lub inny z widocznych na tabliczce na budynku) i/lub alarmować jednostkę (w tym celu można zadzwonić pod numer alarmowy 112 lub użyć przycisku znajdującego się miedzy bramami.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -112363,6 +112364,60 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "668662168"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11173757844,
+            "lat": 49.8044937,
+            "lon": 18.8918898,
+            "timestamp": "2023-09-07T09:39:16Z",
+            "version": 1,
+            "changeset": 140931417,
+            "user": "Arekrojczyk",
+            "uid": 20193192,
+            "tags": {
+                "access": "permit",
+                "defibrillator:location": "Defibrylator wraz z torbą PSP R1",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Świętoszówka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11173784837,
+            "lat": 49.8044673,
+            "lon": 18.8918786,
+            "timestamp": "2023-09-07T09:41:14Z",
+            "version": 1,
+            "changeset": 140931515,
+            "user": "Arekrojczyk",
+            "uid": 20193192,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator znajduję się w samochodzie RENAULT D16 o numerach operacyjnych 349S81",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11173795442,
+            "lat": 49.7945288,
+            "lon": 18.8814752,
+            "timestamp": "2023-09-07T09:57:16Z",
+            "version": 1,
+            "changeset": 140932188,
+            "user": "Grzegorz Kocurek",
+            "uid": 20193356,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy \nRenault D16 349[s]66",
+                "defibrillator:location:en": "Inside a fire truck",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
             }
         },
         {
