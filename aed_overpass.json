@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T11:32:45Z",
+        "timestamp_osm_base": "2023-09-07T12:32:28Z",
         "timestamp_areas_base": "2023-09-07T07:49:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112346,24 +112346,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "668662168"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11173757844,
-            "lat": 49.8044937,
-            "lon": 18.8918898,
-            "timestamp": "2023-09-07T09:39:16Z",
-            "version": 1,
-            "changeset": 140931417,
-            "user": "Arekrojczyk",
-            "uid": 20193192,
-            "tags": {
-                "access": "permit",
-                "defibrillator:location": "Defibrylator wraz z torbą PSP R1",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "OSP Świętoszówka"
             }
         },
         {
