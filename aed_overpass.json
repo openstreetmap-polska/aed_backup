@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T10:32:17Z",
+        "timestamp_osm_base": "2023-09-07T11:32:45Z",
         "timestamp_areas_base": "2023-09-07T07:49:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -21379,13 +21379,13 @@
         {
             "type": "node",
             "id": 9445486258,
-            "lat": 54.0846294,
-            "lon": 20.9026975,
-            "timestamp": "2022-01-24T18:47:52Z",
-            "version": 1,
-            "changeset": 116554789,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 54.0845928,
+            "lon": 20.9026043,
+            "timestamp": "2023-09-07T11:18:55Z",
+            "version": 2,
+            "changeset": 140935814,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Po prawej stronie przy wejściu do sklepu",
@@ -22731,16 +22731,16 @@
             "id": 9445590158,
             "lat": 49.8670433,
             "lon": 18.6966194,
-            "timestamp": "2023-09-07T10:27:14Z",
-            "version": 4,
-            "changeset": 140933473,
+            "timestamp": "2023-09-07T11:27:39Z",
+            "version": 5,
+            "changeset": 140936161,
             "user": "Kemon58",
             "uid": 19694147,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy (KAMAZ 4×4 GBA 3,5/30)",
                 "defibrillator:location:en": "Firetruck",
-                "description": "Aby uzyskać dostęp do AED należy zadzwonić pod numer kontaktowy OSP Pruchna (lub inny z widocznych na tabliczce na budynku) i/lub alarmować jednostkę (w tym celu można zadzwonić pod numer alarmowy 112 lub użyć przycisku znajdującego się miedzy bramami.",
+                "description": "Aby uzyskać dostęp do AED należy zadzwonić pod numer kontaktowy OSP Pruchna (lub inny z widocznych na tabliczce na budynku) i/lub alarmować jednostkę. W tym celu można zadzwonić pod numer alarmowy 112 lub użyć przycisku znajdującego się miedzy bramami.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
@@ -112193,17 +112193,18 @@
             "id": 11171989537,
             "lat": 49.8601561,
             "lon": 18.8540421,
-            "timestamp": "2023-09-06T14:41:45Z",
-            "version": 1,
-            "changeset": 140898392,
+            "timestamp": "2023-09-07T11:21:12Z",
+            "version": 2,
+            "changeset": 140935913,
             "user": "osp iłownica",
             "uid": 20187770,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "straz pozarna w iłownicy",
+                "defibrillator:location": "Samochod Renault d16 Straz Pozarna w Iłownicy",
                 "defibrillator:location:en": "straz pozarna w ilownicy",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "operator": "Ochotnicza Straż Pożarna",
                 "phone": "667348658"
             }
         },
@@ -112222,25 +112223,6 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "507 736 972"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11172006137,
-            "lat": 49.860169,
-            "lon": 18.8540255,
-            "timestamp": "2023-09-06T14:53:44Z",
-            "version": 1,
-            "changeset": 140898913,
-            "user": "osp iłownica",
-            "uid": 20187770,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "samochod osp iłownica",
-                "defibrillator:location:en": "samochod osp iłownica",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "667348658"
             }
         },
         {
