@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T20:32:00Z",
+        "timestamp_osm_base": "2023-09-07T21:32:27Z",
         "timestamp_areas_base": "2023-09-07T16:31:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -62217,18 +62217,19 @@
         {
             "type": "node",
             "id": 9691967417,
-            "lat": 51.9793063,
-            "lon": 21.2191617,
-            "timestamp": "2022-06-25T20:12:05Z",
-            "version": 2,
-            "changeset": 122848946,
+            "lat": 51.9793481,
+            "lon": 21.219162,
+            "timestamp": "2023-09-07T20:51:30Z",
+            "version": 3,
+            "changeset": 140957994,
             "user": "Piotr Strębski",
             "uid": 5060085,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie Hali Sportowej",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
