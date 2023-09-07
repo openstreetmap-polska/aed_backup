@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T14:32:03Z",
+        "timestamp_osm_base": "2023-09-07T15:32:45Z",
         "timestamp_areas_base": "2023-09-07T12:31:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112082,9 +112082,9 @@
             "id": 11169505637,
             "lat": 52.4506161,
             "lon": 17.0900509,
-            "timestamp": "2023-09-05T12:20:12Z",
-            "version": 2,
-            "changeset": 140847971,
+            "timestamp": "2023-09-07T14:51:11Z",
+            "version": 3,
+            "changeset": 140945088,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
@@ -112094,7 +112094,8 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "Ochotnicza Straż Pożarna w Kobylnicy"
+                "operator": "Ochotnicza Straż Pożarna w Kobylnicy",
+                "phone": "510 031 946"
             }
         },
         {
@@ -112102,9 +112103,9 @@
             "id": 11169507637,
             "lat": 52.4506569,
             "lon": 17.0902668,
-            "timestamp": "2023-09-05T12:21:24Z",
-            "version": 2,
-            "changeset": 140848013,
+            "timestamp": "2023-09-07T14:52:24Z",
+            "version": 4,
+            "changeset": 140945143,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
@@ -112112,8 +112113,10 @@
                 "defibrillator:location": "Ciężki samochód ratowniczo gaśniczy (319P44).",
                 "description": "Philips HeartStart FRx, elektrody dla dzieci i dorosłych.",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "Ochotnicza Straż Pożarna w Kobylnicy."
+                "operator": "Ochotnicza Straż Pożarna w Kobylnicy.",
+                "phone": "510 031 946"
             }
         },
         {
@@ -112418,6 +112421,26 @@
                 "defibrillator:location:en": "ground floor next to the gatehouse",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11174787677,
+            "lat": 52.3203124,
+            "lon": 16.1295915,
+            "timestamp": "2023-09-07T15:05:35Z",
+            "version": 2,
+            "changeset": 140945617,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Kapsuła na ścianie",
+                "direction": "270",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "Gazownia w Nowym Tomyślu"
             }
         },
         {
