@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T13:32:14Z",
-        "timestamp_areas_base": "2023-09-07T11:45:15Z",
+        "timestamp_osm_base": "2023-09-07T14:32:03Z",
+        "timestamp_areas_base": "2023-09-07T12:31:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112230,16 +112230,17 @@
             "id": 11172006437,
             "lat": 49.6430223,
             "lon": 18.8714425,
-            "timestamp": "2023-09-06T14:54:15Z",
-            "version": 1,
-            "changeset": 140898930,
+            "timestamp": "2023-09-07T14:04:46Z",
+            "version": 2,
+            "changeset": 140943028,
             "user": "Bartosz161",
             "uid": 20187837,
             "tags": {
                 "access": "private",
-                "defibrillator:location": "W OSP trzeba włączyć syrenę zbijając i wciskając przycisk pożar na budynku przy wejsciu",
+                "defibrillator:location": "W samochodach ratowniczo - gaśniczych",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Wisła Centrum"
             }
         },
         {
