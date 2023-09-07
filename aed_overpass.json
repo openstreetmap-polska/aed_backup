@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-07T18:32:16Z",
+        "timestamp_osm_base": "2023-09-07T19:32:06Z",
         "timestamp_areas_base": "2023-09-07T17:18:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112477,6 +112477,26 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "603619285"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11175188737,
+            "lat": 49.8144058,
+            "lon": 18.9199195,
+            "timestamp": "2023-09-07T18:36:36Z",
+            "version": 1,
+            "changeset": 140953315,
+            "user": "Sławomir Duźniak",
+            "uid": 20196703,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W remizie osp.",
+                "defibrillator:location:en": "In the fire station building.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "508-603-974"
             }
         },
         {
