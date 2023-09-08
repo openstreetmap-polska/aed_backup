@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-08T10:32:15Z",
+        "timestamp_osm_base": "2023-09-08T11:32:10Z",
         "timestamp_areas_base": "2023-09-08T07:25:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112480,6 +112480,23 @@
                 "emergency:phone": "112",
                 "indoor": "yes",
                 "phone": "508-603-974"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11176445037,
+            "lat": 50.9051665,
+            "lon": 15.731748,
+            "timestamp": "2023-09-08T11:14:20Z",
+            "version": 1,
+            "changeset": 140982327,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek B, korytarz obok pomieszczenia ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
