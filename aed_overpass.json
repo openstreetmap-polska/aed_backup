@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-08T12:31:46Z",
-        "timestamp_areas_base": "2023-09-08T07:25:45Z",
+        "timestamp_osm_base": "2023-09-08T13:32:46Z",
+        "timestamp_areas_base": "2023-09-08T11:36:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112478,6 +112478,23 @@
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Budynek B, korytarz obok pomieszczenia ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11176568237,
+            "lat": 50.2686416,
+            "lon": 19.0173179,
+            "timestamp": "2023-09-08T12:32:45Z",
+            "version": 1,
+            "changeset": 140985375,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek zarządu Tauron Ciepło, parter, pomieszczenie ochrony",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
