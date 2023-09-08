@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-08T17:32:14Z",
-        "timestamp_areas_base": "2023-09-08T16:24:15Z",
+        "timestamp_osm_base": "2023-09-08T18:31:59Z",
+        "timestamp_areas_base": "2023-09-08T16:57:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48016,13 +48016,13 @@
         {
             "type": "node",
             "id": 9560434855,
-            "lat": 52.4368003,
-            "lon": 16.2915713,
-            "timestamp": "2022-03-07T12:58:32Z",
-            "version": 1,
-            "changeset": 118196528,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "lat": 52.436796,
+            "lon": 16.2922785,
+            "timestamp": "2023-09-08T18:26:30Z",
+            "version": 2,
+            "changeset": 140998373,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy OSP Brody",
