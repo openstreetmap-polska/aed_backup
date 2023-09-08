@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-08T19:31:56Z",
+        "timestamp_osm_base": "2023-09-08T20:32:37Z",
         "timestamp_areas_base": "2023-09-08T16:57:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -7706,16 +7706,17 @@
         {
             "type": "node",
             "id": 9367727720,
-            "lat": 52.4008614,
-            "lon": 16.2827523,
-            "timestamp": "2022-01-13T21:52:11Z",
-            "version": 3,
-            "changeset": 116125959,
-            "user": "Aim311",
-            "uid": 4493657,
+            "lat": 52.4009635,
+            "lon": 16.2827325,
+            "timestamp": "2023-09-08T20:32:08Z",
+            "version": 4,
+            "changeset": 141001913,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie remizy Ochotniczej Straży Pożarnej w Chraplewie",
+                "direction": "350",
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
@@ -112497,6 +112498,20 @@
                 "defibrillator:location": "Budynek zarządu Tauron Ciepło, parter, pomieszczenie ochrony",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11177575968,
+            "lat": 53.9170901,
+            "lon": 14.2559977,
+            "timestamp": "2023-09-08T20:03:06Z",
+            "version": 1,
+            "changeset": 141001128,
+            "user": "5R-MFT",
+            "uid": 3417876,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
