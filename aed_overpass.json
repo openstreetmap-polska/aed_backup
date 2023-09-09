@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-09T19:32:21Z",
+        "timestamp_osm_base": "2023-09-09T20:32:43Z",
         "timestamp_areas_base": "2023-09-09T16:14:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -75439,16 +75439,17 @@
             "id": 10157255701,
             "lat": 52.6150895,
             "lon": 16.5740824,
-            "timestamp": "2023-08-12T11:42:11Z",
-            "version": 3,
-            "changeset": 139784245,
-            "user": "NorthCrab",
-            "uid": 15215305,
+            "timestamp": "2023-09-09T20:13:24Z",
+            "version": 4,
+            "changeset": 141038641,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Główne wejście, portiernia.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "opening_hours": "Mo 7:30-18:00; Tu-Fr 7:30-15:30 Sa-Su off",
                 "operator": "Sąd Rejonowy w Szamotułach"
             }
         },
@@ -112554,13 +112555,13 @@
             "id": 11179187138,
             "lat": 49.7229336,
             "lon": 18.8094539,
-            "timestamp": "2023-09-09T19:05:27Z",
-            "version": 1,
-            "changeset": 141036565,
+            "timestamp": "2023-09-09T20:16:24Z",
+            "version": 2,
+            "changeset": 141038734,
             "user": "OSP Ustroń Centrum",
             "uid": 20209796,
             "tags": {
-                "defibrillator:location": "Na wyposażeniu wozu bojowego GBA Mercedes",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy GBA Mercedes",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
