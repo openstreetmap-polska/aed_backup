@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-09T14:31:51Z",
-        "timestamp_areas_base": "2023-09-09T11:29:40Z",
+        "timestamp_osm_base": "2023-09-09T15:32:02Z",
+        "timestamp_areas_base": "2023-09-09T11:49:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -10042,15 +10042,15 @@
             "id": 9392754376,
             "lat": 51.1180049,
             "lon": 17.0416951,
-            "timestamp": "2022-02-22T22:39:55Z",
-            "version": 4,
-            "changeset": 117746496,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-09-09T15:06:16Z",
+            "version": 5,
+            "changeset": 141028073,
+            "user": "Kasey2",
+            "uid": 14007262,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie w przestrzeni biurowej firmy UPS GBS, na drugim piętrze obok recepcji",
-                "defibrillator:location:en": "On the wall in the office area of UPS GBS company, on the second floor next to te reception",
+                "defibrillator:location:en": "On the wall in the office area of UPS GBS company, on the second floor next to the reception",
                 "description": "W przestrzeni biurowej firmy UPS GBS, na drugim piętrze obok recepcji",
                 "emergency": "defibrillator",
                 "indoor": "yes",
