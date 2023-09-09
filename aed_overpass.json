@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-09T18:32:28Z",
-        "timestamp_areas_base": "2023-09-09T16:32:17Z",
+        "timestamp_osm_base": "2023-09-09T19:32:21Z",
+        "timestamp_areas_base": "2023-09-09T16:14:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112545,6 +112545,22 @@
                 "access": "customers",
                 "check_date": "2023-09-09",
                 "defibrillator:location:pl": "Przy informacji od strony sklepu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11179187138,
+            "lat": 49.7229336,
+            "lon": 18.8094539,
+            "timestamp": "2023-09-09T19:05:27Z",
+            "version": 1,
+            "changeset": 141036565,
+            "user": "OSP Ustroń Centrum",
+            "uid": 20209796,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu wozu bojowego GBA Mercedes",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
