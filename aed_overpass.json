@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-09T09:32:25Z",
+        "timestamp_osm_base": "2023-09-09T10:32:36Z",
         "timestamp_areas_base": "2023-09-09T06:45:01Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112512,6 +112512,23 @@
             "uid": 3417876,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11178423737,
+            "lat": 53.7522635,
+            "lon": 20.4842429,
+            "timestamp": "2023-09-09T09:37:33Z",
+            "version": 1,
+            "changeset": 141016712,
+            "user": "serdelll",
+            "uid": 485927,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "OBI - Na ścianie przy wyjściu za kasami",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
