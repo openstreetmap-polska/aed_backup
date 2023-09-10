@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-10T12:32:25Z",
-        "timestamp_areas_base": "2023-09-10T11:21:39Z",
+        "timestamp_osm_base": "2023-09-10T13:31:56Z",
+        "timestamp_areas_base": "2023-09-10T11:07:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112564,6 +112564,26 @@
                 "defibrillator:location": "Samochód ratowniczo - gaśniczy GBA Mercedes",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11181006128,
+            "lat": 51.7950081,
+            "lon": 19.5104142,
+            "timestamp": "2023-09-10T12:53:38Z",
+            "version": 1,
+            "changeset": 141061770,
+            "user": "Fan map",
+            "uid": 2092025,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W markecie OBI na ścianie po prawej stronie od wejścia za punktem obsługi klienta.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "manufacturer": "Philips",
+                "operator": "OBI"
             }
         },
         {
