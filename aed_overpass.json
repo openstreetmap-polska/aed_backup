@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-11T12:31:54Z",
+        "timestamp_osm_base": "2023-09-11T13:32:14Z",
         "timestamp_areas_base": "2023-09-11T10:50:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112584,6 +112584,41 @@
                 "level": "0",
                 "manufacturer": "Philips",
                 "operator": "OBI"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11183324137,
+            "lat": 50.1147004,
+            "lon": 22.0245489,
+            "timestamp": "2023-09-11T12:47:14Z",
+            "version": 1,
+            "changeset": 141111308,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W strefie bezcłowej, przy sklepie Baltona",
+                "defibrillator:location:en": "In duty free zone, next to the Baltona store",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11183374737,
+            "lat": 50.9755717,
+            "lon": 19.9208157,
+            "timestamp": "2023-09-11T13:06:08Z",
+            "version": 1,
+            "changeset": 141112374,
+            "user": "Strazak2012",
+            "uid": 20221628,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu wozu bojowego",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "601 558 732"
             }
         },
         {
