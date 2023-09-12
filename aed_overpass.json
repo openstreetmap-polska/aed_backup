@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-11T23:31:59Z",
+        "timestamp_osm_base": "2023-09-12T00:32:43Z",
         "timestamp_areas_base": "2023-09-11T20:21:27Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112592,15 +112592,15 @@
             "id": 11183324137,
             "lat": 50.1147004,
             "lon": 22.0245489,
-            "timestamp": "2023-09-11T12:47:14Z",
-            "version": 1,
-            "changeset": 141111308,
+            "timestamp": "2023-09-11T23:39:43Z",
+            "version": 2,
+            "changeset": 141136887,
             "user": "michalgwo",
             "uid": 15803602,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W strefie bezcłowej, przy sklepie Baltona",
-                "defibrillator:location:en": "In duty free zone, next to the Baltona store",
+                "defibrillator:location:en": "In the duty-free zone, next to the Baltona store",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
