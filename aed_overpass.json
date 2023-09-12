@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-12T12:32:45Z",
+        "timestamp_osm_base": "2023-09-12T13:32:05Z",
         "timestamp_areas_base": "2023-09-12T10:33:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112620,6 +112620,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "601 558 732"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11185865337,
+            "lat": 50.2818911,
+            "lon": 19.0561328,
+            "timestamp": "2023-09-12T13:19:53Z",
+            "version": 1,
+            "changeset": 141163508,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Budynek Dyrekcji, Parter, hol przy ochronie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
