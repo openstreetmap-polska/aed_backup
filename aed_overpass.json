@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-13T12:31:56Z",
+        "timestamp_osm_base": "2023-09-13T13:32:15Z",
         "timestamp_areas_base": "2023-09-13T10:34:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -102180,16 +102180,15 @@
         {
             "type": "node",
             "id": 10865811998,
-            "lat": 51.6677379,
-            "lon": 16.08377,
-            "timestamp": "2023-06-16T12:18:13Z",
-            "version": 2,
-            "changeset": 137412067,
+            "lat": 51.6677793,
+            "lon": 16.0837724,
+            "timestamp": "2023-09-13T12:38:53Z",
+            "version": 3,
+            "changeset": 141209522,
             "user": "puchaczowsky",
             "uid": 7518458,
             "tags": {
                 "emergency": "defibrillator",
-                "indoor": "yes",
                 "operator": "Głogowskie Stowarzyszenie Otwarte Drzwi",
                 "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
             }
