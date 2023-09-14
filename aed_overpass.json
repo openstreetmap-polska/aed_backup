@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-14T12:32:04Z",
-        "timestamp_areas_base": "2023-09-14T09:58:14Z",
+        "timestamp_osm_base": "2023-09-14T13:31:53Z",
+        "timestamp_areas_base": "2023-09-14T10:28:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112252,19 +112252,22 @@
         {
             "type": "node",
             "id": 11172006737,
-            "lat": 49.8419671,
-            "lon": 18.8521918,
-            "timestamp": "2023-09-06T14:54:50Z",
-            "version": 1,
-            "changeset": 140898951,
-            "user": "Michał Masarczyk",
-            "uid": 20187839,
+            "lat": 49.8417295,
+            "lon": 18.8521342,
+            "timestamp": "2023-09-14T13:07:21Z",
+            "version": 2,
+            "changeset": 141257139,
+            "user": "Carpathians",
+            "uid": 17665316,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "AED Zool. Pojazd GBA 338s49",
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "operator": "OSP Roztropice",
+                "wheelchair": "limited"
             }
         },
         {
