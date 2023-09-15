@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-15T20:31:56Z",
-        "timestamp_areas_base": "2023-09-15T15:19:35Z",
+        "timestamp_osm_base": "2023-09-15T21:32:49Z",
+        "timestamp_areas_base": "2023-09-15T19:22:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112715,6 +112715,25 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Gminy i Miasta Goleniów",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11194801671,
+            "lat": 51.9564269,
+            "lon": 15.5253808,
+            "timestamp": "2023-09-15T21:29:18Z",
+            "version": 1,
+            "changeset": 141320847,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wyposażenie ratowników WOPR",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "07:00-22:00",
+                "operator": "Centrum Rekreacyjno-Sportowe"
             }
         },
         {
