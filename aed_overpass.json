@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-15T06:32:20Z",
+        "timestamp_osm_base": "2023-09-15T07:31:48Z",
         "timestamp_areas_base": "2023-09-15T05:44:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112639,6 +112639,24 @@
                 "defibrillator:location": "Budynek Dyrekcji, Parter, hol przy ochronie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11192593137,
+            "lat": 49.9256601,
+            "lon": 21.9383121,
+            "timestamp": "2023-09-15T07:07:38Z",
+            "version": 1,
+            "changeset": 141288185,
+            "user": "SwietyBoBo",
+            "uid": 20254579,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do biblioteki  znajduje sie zielona skrzynka",
+                "defibrillator:location:en": "On the wall at the entrance to the library there is a green box",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
