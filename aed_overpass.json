@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-15T08:32:33Z",
+        "timestamp_osm_base": "2023-09-15T09:32:24Z",
         "timestamp_areas_base": "2023-09-15T05:44:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112657,6 +112657,24 @@
                 "defibrillator:location:en": "On the wall at the entrance to the library there is a green box",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11192841239,
+            "lat": 50.522033,
+            "lon": 21.6297401,
+            "timestamp": "2023-09-15T08:58:56Z",
+            "version": 1,
+            "changeset": 141292384,
+            "user": "Joanna_2023",
+            "uid": 20254880,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Zakładowe ambulatorium - Company outpatient department",
+                "defibrillator:location:en": "second floor of a social building,",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
