@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-15T16:32:30Z",
-        "timestamp_areas_base": "2023-09-15T15:19:35Z",
+        "timestamp_osm_base": "2023-09-15T17:32:41Z",
+        "timestamp_areas_base": "2023-09-15T14:37:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112675,6 +112675,23 @@
                 "defibrillator:location:en": "second floor of a social building,",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11194153398,
+            "lat": 50.0880646,
+            "lon": 19.8910993,
+            "timestamp": "2023-09-15T17:05:27Z",
+            "version": 1,
+            "changeset": 141312293,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "defibrillator:location": "Na lewo od wejścia przy recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Medicover"
             }
         },
         {
