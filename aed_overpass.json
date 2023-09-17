@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T13:32:56Z",
+        "timestamp_osm_base": "2023-09-17T14:32:19Z",
         "timestamp_areas_base": "2023-09-17T09:08:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112790,6 +112790,28 @@
                 "opening_hours": "24/7",
                 "operator": "Urząd Dzielnicy Mokotów",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197705644,
+            "lat": 50.262342,
+            "lon": 21.2887549,
+            "timestamp": "2023-09-17T13:41:32Z",
+            "version": 1,
+            "changeset": 141382528,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-09-13",
+                "defibrillator:location": "W budynku Urzędu Gminy.",
+                "description:pl": "W specjalnej oznakowanej gablocie.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:30-15:30",
+                "operator": "Urząd Gminy Wadowice Górne",
+                "phone": "+48 14 666 97 51"
             }
         },
         {
