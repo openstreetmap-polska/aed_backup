@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T17:32:46Z",
-        "timestamp_areas_base": "2023-09-17T15:04:15Z",
+        "timestamp_osm_base": "2023-09-17T18:32:28Z",
+        "timestamp_areas_base": "2023-09-17T13:51:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112898,6 +112898,62 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Harmęże"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11198136837,
+            "lat": 51.8964816,
+            "lon": 19.819096,
+            "timestamp": "2023-09-17T17:50:24Z",
+            "version": 1,
+            "changeset": 141392621,
+            "user": "OSPKRASZEW",
+            "uid": 20272954,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Pojazd pożarniczy GBA IVECO Magirus",
+                "defibrillator:location:en": "Firefighting vehicle IVECO Magirus",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "605547220"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11198224398,
+            "lat": 51.938454,
+            "lon": 15.514469,
+            "timestamp": "2023-09-17T18:13:04Z",
+            "version": 1,
+            "changeset": 141393338,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "covered": "yes",
+                "defibrillator:location": "Parking, na filarze naprzeciwko wjazdu od palmiarni. Poziom 2B",
+                "direction": "150",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11198224401,
+            "lat": 51.9380087,
+            "lon": 15.5131519,
+            "timestamp": "2023-09-17T18:13:04Z",
+            "version": 1,
+            "changeset": 141393338,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "yes",
+                "direction": "230",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
