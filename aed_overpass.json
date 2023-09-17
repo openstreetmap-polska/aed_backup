@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T12:32:12Z",
+        "timestamp_osm_base": "2023-09-17T13:32:56Z",
         "timestamp_areas_base": "2023-09-17T09:08:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -2231,13 +2231,13 @@
         {
             "type": "node",
             "id": 6879580602,
-            "lat": 51.5308776,
+            "lat": 51.5308599,
             "lon": 20.0049703,
-            "timestamp": "2022-02-26T13:02:34Z",
-            "version": 2,
-            "changeset": 117878265,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-09-17T13:27:58Z",
+            "version": 3,
+            "changeset": 141381947,
+            "user": "iso-lator",
+            "uid": 1759163,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie Punktu Informacji Turystycznej na Placu Kościuszki",
@@ -112767,6 +112767,29 @@
                 "defibrillator:location:pl": "Po lewej stronie bramy garażowej.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197693262,
+            "lat": 52.208748,
+            "lon": 21.0153431,
+            "timestamp": "2023-09-17T13:32:34Z",
+            "version": 2,
+            "changeset": 141382128,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-09-16",
+                "defibrillator:location:en": "At the MZK Wiśniowa 01 bus stop, the so-called \"Health Stop\".",
+                "defibrillator:location:pl": "Na przystanku autobusowym MZK Wiśniowa 01 tzw. \"Przystanek Zdrowia\".",
+                "description:en": "In the world of an MZK stop in a special compartment, built into the side panel of the AMS digital citylight.",
+                "description:pl": "W wiacie przystanku MZK w specjalnej skrytce, wbudowanej w boczny panel cyfrowego citylightu AMS.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Urząd Dzielnicy Mokotów",
+                "wheelchair": "yes"
             }
         },
         {
