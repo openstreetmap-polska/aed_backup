@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T15:32:06Z",
-        "timestamp_areas_base": "2023-09-17T10:16:03Z",
+        "timestamp_osm_base": "2023-09-17T16:32:16Z",
+        "timestamp_areas_base": "2023-09-17T15:04:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112833,6 +112833,71 @@
                 "operator": "Telka SA",
                 "phone": "+48 71 399 99 99",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197942867,
+            "lat": 50.0427173,
+            "lon": 19.1905574,
+            "timestamp": "2023-09-17T16:04:27Z",
+            "version": 2,
+            "changeset": 141388587,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-09-14",
+                "defibrillator:location:en": "Rescue and fire-fighting vehicle.",
+                "defibrillator:location:pl": "Pojazd ratowniczo-gaśniczy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Brzezinka"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197944590,
+            "lat": 51.08205,
+            "lon": 18.7391925,
+            "timestamp": "2023-09-17T16:13:56Z",
+            "version": 1,
+            "changeset": 141388944,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-09-13",
+                "defibrillator:location:en": "On the wall of the fire station.",
+                "defibrillator:location:pl": "Na ścianie remizy strażackiej.",
+                "description:en": "In a round, illuminated Rotaid capsule.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7",
+                "operator": "OSP Załęcze Małe",
+                "phone": "112",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197954094,
+            "lat": 50.0202397,
+            "lon": 19.1586948,
+            "timestamp": "2023-09-17T16:03:32Z",
+            "version": 2,
+            "changeset": 141388556,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-09-14",
+                "defibrillator:location:en": "Rescue and fire-fighting vehicle.",
+                "defibrillator:location:pl": "Pojazd ratowniczo-gaśniczy.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Harmęże"
             }
         },
         {
