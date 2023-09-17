@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T14:32:19Z",
-        "timestamp_areas_base": "2023-09-17T09:08:06Z",
+        "timestamp_osm_base": "2023-09-17T15:32:06Z",
+        "timestamp_areas_base": "2023-09-17T10:16:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112812,6 +112812,27 @@
                 "opening_hours": "Mo-Fr 07:30-15:30",
                 "operator": "Urząd Gminy Wadowice Górne",
                 "phone": "+48 14 666 97 51"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11197839506,
+            "lat": 51.2160245,
+            "lon": 17.4083103,
+            "timestamp": "2023-09-17T15:16:10Z",
+            "version": 2,
+            "changeset": 141386610,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Na ogrodzeniu firmy telka SA, na prawo od bramy nr 2.",
+                "description:pl": "W okrągłej, podświetlanej kapsule Rotaid.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7",
+                "operator": "Telka SA",
+                "phone": "+48 71 399 99 99",
+                "wheelchair": "yes"
             }
         },
         {
