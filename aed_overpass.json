@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-17T21:32:31Z",
+        "timestamp_osm_base": "2023-09-17T22:31:44Z",
         "timestamp_areas_base": "2023-09-17T19:49:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -4359,6 +4359,32 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Ząbrowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8928900009,
+            "lat": 51.8961632,
+            "lon": 19.8192818,
+            "timestamp": "2023-09-17T21:56:31Z",
+            "version": 2,
+            "changeset": 141399584,
+            "user": "OSPKRASZEW",
+            "uid": 20272954,
+            "tags": {
+                "access": "permissive",
+                "addr:city:simc": "0727067",
+                "addr:housenumber": "18",
+                "addr:place": "Kraszew",
+                "addr:postcode": "95-061",
+                "defibrillator:location": "Pojazd pożarniczy GBA IVECO Magirus",
+                "defibrillator:location:en": "Firefighting vehicle IVECO Magirus",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "OSP KRASZEW",
+                "phone": "605547220",
+                "source:addr": "gugik.gov.pl"
             }
         },
         {
@@ -112898,25 +112924,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Harmęże"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11198136837,
-            "lat": 51.8964816,
-            "lon": 19.819096,
-            "timestamp": "2023-09-17T17:50:24Z",
-            "version": 1,
-            "changeset": 141392621,
-            "user": "OSPKRASZEW",
-            "uid": 20272954,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Pojazd pożarniczy GBA IVECO Magirus",
-                "defibrillator:location:en": "Firefighting vehicle IVECO Magirus",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "phone": "605547220"
             }
         },
         {
