@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-18T20:32:30Z",
-        "timestamp_areas_base": "2023-09-18T14:56:01Z",
+        "timestamp_osm_base": "2023-09-18T21:31:56Z",
+        "timestamp_areas_base": "2023-09-18T19:42:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -48177,15 +48177,16 @@
             "id": 9563386603,
             "lat": 50.9031646,
             "lon": 15.7344999,
-            "timestamp": "2022-03-08T20:06:24Z",
-            "version": 1,
-            "changeset": 118251008,
-            "user": "Arnebius",
-            "uid": 502270,
+            "timestamp": "2023-09-18T21:14:27Z",
+            "version": 2,
+            "changeset": 141442532,
+            "user": "maciekjg",
+            "uid": 20012885,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "znajduje się na ścianie Urzędu Miejskiego, nie daleko łącznika pomiędzy Ratuszem, a budynkiem Urzędu Miejskiego",
                 "emergency": "defibrillator",
+                "image": "https://photos.app.goo.gl/oRFNi7eC8adpvr4B6",
                 "indoor": "no"
             }
         },
