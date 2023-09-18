@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-18T08:32:30Z",
-        "timestamp_areas_base": "2023-09-18T04:00:26Z",
+        "timestamp_osm_base": "2023-09-18T09:32:09Z",
+        "timestamp_areas_base": "2023-09-18T08:41:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112998,6 +112998,23 @@
                 "opening_hours": "24/7",
                 "source": "survey",
                 "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11199469901,
+            "lat": 52.174898,
+            "lon": 20.3205226,
+            "timestamp": "2023-09-18T09:12:57Z",
+            "version": 1,
+            "changeset": 141413842,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie budynku OPS Mikołajew",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
             }
         },
         {
