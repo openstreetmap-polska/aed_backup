@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-18T07:31:58Z",
-        "timestamp_areas_base": "2023-09-18T05:23:15Z",
+        "timestamp_osm_base": "2023-09-18T08:32:30Z",
+        "timestamp_areas_base": "2023-09-18T04:00:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112961,6 +112961,43 @@
                 "direction": "230",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11199300079,
+            "lat": 52.7700601,
+            "lon": 23.1925987,
+            "timestamp": "2023-09-18T08:11:59Z",
+            "version": 1,
+            "changeset": 141411453,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "obok sklepu Żabka",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11199381476,
+            "lat": 51.2659312,
+            "lon": 15.5690024,
+            "timestamp": "2023-09-18T08:27:07Z",
+            "version": 1,
+            "changeset": 141411936,
+            "user": "szydzio",
+            "uid": 2313574,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-09-18",
+                "defibrillator:location": "na ścianie koło kas biletowych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "source": "survey",
+                "wheelchair": "limited"
             }
         },
         {
