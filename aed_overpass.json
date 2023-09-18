@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-18T17:31:45Z",
-        "timestamp_areas_base": "2023-09-18T14:56:01Z",
+        "timestamp_osm_base": "2023-09-18T18:32:00Z",
+        "timestamp_areas_base": "2023-09-18T13:25:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113067,6 +113067,25 @@
                 "defibrillator:location": "Budynek SOK",
                 "emergency": "defibrillator",
                 "fixme": "szczegóły loklizacji AED do dodania"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11200617826,
+            "lat": 50.2848922,
+            "lon": 19.1521933,
+            "timestamp": "2023-09-18T18:26:19Z",
+            "version": 1,
+            "changeset": 141437244,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W miejscu obsługi interesantów.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "24/7",
+                "operator": "Policja"
             }
         },
         {
