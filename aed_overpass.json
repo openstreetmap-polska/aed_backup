@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-18T11:32:34Z",
+        "timestamp_osm_base": "2023-09-18T12:32:00Z",
         "timestamp_areas_base": "2023-09-18T10:08:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113031,6 +113031,26 @@
                 "defibrillator:location": "na ścianie budynku OPS Mikołajew",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11199795337,
+            "lat": 52.4477704,
+            "lon": 16.9148032,
+            "timestamp": "2023-09-18T11:37:22Z",
+            "version": 1,
+            "changeset": 141420491,
+            "user": "Mateusz Gawarecki",
+            "uid": 20278380,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dyspozytornia Transportu Medycznego",
+                "defibrillator:location:en": "medical transport control room",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "506649079"
             }
         },
         {
