@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-19T12:31:56Z",
-        "timestamp_areas_base": "2023-09-19T08:26:30Z",
+        "timestamp_osm_base": "2023-09-19T13:32:35Z",
+        "timestamp_areas_base": "2023-09-19T10:08:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113201,6 +113201,44 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11202396737,
+            "lat": 52.373971,
+            "lon": 16.9118271,
+            "timestamp": "2023-09-19T13:10:53Z",
+            "version": 1,
+            "changeset": 141468860,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "centrum powiadamiania ratunkowego, na sali operatorów numeru 112, na parterze",
+                "defibrillator:location:en": "emergency number center, ground floor, 112 dispatchers room",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11202400837,
+            "lat": 52.8170285,
+            "lon": 17.2009763,
+            "timestamp": "2023-09-19T13:13:43Z",
+            "version": 1,
+            "changeset": 141468860,
+            "user": "marcinsajewski",
+            "uid": 19410038,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "recepcja aquaparku 06:30 - 21:30",
+                "defibrillator:location:en": "aquapark reception desk 06:30 AM - 09:30 PM",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "67 268 55 55"
             }
         },
         {
