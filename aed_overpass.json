@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-19T14:32:21Z",
+        "timestamp_osm_base": "2023-09-19T15:32:01Z",
         "timestamp_areas_base": "2023-09-19T10:08:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113039,9 +113039,9 @@
             "id": 11199795337,
             "lat": 52.4477704,
             "lon": 16.9148032,
-            "timestamp": "2023-09-18T11:37:22Z",
-            "version": 1,
-            "changeset": 141420491,
+            "timestamp": "2023-09-19T14:47:46Z",
+            "version": 2,
+            "changeset": 141472969,
             "user": "Mateusz Gawarecki",
             "uid": 20278380,
             "tags": {
@@ -113051,7 +113051,8 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes",
-                "phone": "506649079"
+                "operator": "Medik 24 Sp. z o.o.",
+                "phone": "616703149"
             }
         },
         {
