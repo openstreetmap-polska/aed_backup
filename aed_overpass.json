@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-19T08:32:45Z",
+        "timestamp_osm_base": "2023-09-19T09:31:57Z",
         "timestamp_areas_base": "2023-09-19T05:23:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113182,6 +113182,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "-1"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11201847137,
+            "lat": 50.3161841,
+            "lon": 17.6580709,
+            "timestamp": "2023-09-19T09:04:11Z",
+            "version": 1,
+            "changeset": 141458584,
+            "user": "Kamil Skrzypek",
+            "uid": 20285695,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator jest na samochodzie ratowniczo - gaśniczym OSP Dytmarów. W razie potrzeby dzwoń nr 112 lub uruchom syrenę alarmową przyciskiem na ścianie obok bramy wjazdowej remizy.",
+                "defibrillator:location:en": "Remiza OSP Dytmarów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "112"
             }
         },
         {
