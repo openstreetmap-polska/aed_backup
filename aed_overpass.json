@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-19T13:32:35Z",
+        "timestamp_osm_base": "2023-09-19T14:32:21Z",
         "timestamp_areas_base": "2023-09-19T10:08:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113239,6 +113239,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "67 268 55 55"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11202445290,
+            "lat": 52.2176762,
+            "lon": 21.0135765,
+            "timestamp": "2023-09-19T13:39:18Z",
+            "version": 1,
+            "changeset": 141470144,
+            "user": "Rogoyski",
+            "uid": 67255,
+            "tags": {
+                "defibrillator:location": "w recepcji budynku biurowego",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
