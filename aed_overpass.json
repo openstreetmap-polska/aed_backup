@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-19T07:32:16Z",
-        "timestamp_areas_base": "2023-09-19T03:41:57Z",
+        "timestamp_osm_base": "2023-09-19T08:32:45Z",
+        "timestamp_areas_base": "2023-09-19T05:23:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113165,6 +113165,23 @@
                 "indoor": "yes",
                 "operator": "OSP w Kaczkowie",
                 "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11201649595,
+            "lat": 52.149908,
+            "lon": 21.0457191,
+            "timestamp": "2023-09-19T07:52:08Z",
+            "version": 1,
+            "changeset": 141455337,
+            "user": "Rogoyski",
+            "uid": 67255,
+            "tags": {
+                "defibrillator:location": "w kasie 1 Punktu Obsługi Pasażerów",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "-1"
             }
         },
         {
