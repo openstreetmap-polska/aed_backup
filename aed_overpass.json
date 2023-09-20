@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-20T21:32:15Z",
+        "timestamp_osm_base": "2023-09-20T22:32:18Z",
         "timestamp_areas_base": "2023-09-20T19:43:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -36680,11 +36680,11 @@
             "id": 9496201414,
             "lat": 52.7390005,
             "lon": 20.9457396,
-            "timestamp": "2022-02-10T19:26:49Z",
-            "version": 1,
-            "changeset": 117259148,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "timestamp": "2023-09-20T21:41:37Z",
+            "version": 3,
+            "changeset": 141532936,
+            "user": "NorthCrab",
+            "uid": 15215305,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -113409,9 +113409,9 @@
             "id": 11206302837,
             "lat": 52.432552,
             "lon": 17.0776113,
-            "timestamp": "2023-09-20T21:24:26Z",
-            "version": 3,
-            "changeset": 141532505,
+            "timestamp": "2023-09-20T21:33:30Z",
+            "version": 4,
+            "changeset": 141532725,
             "user": "swarzedzalarmowo",
             "uid": 20299983,
             "tags": {
