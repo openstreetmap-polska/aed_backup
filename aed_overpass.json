@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-20T20:32:00Z",
-        "timestamp_areas_base": "2023-09-20T14:54:45Z",
+        "timestamp_osm_base": "2023-09-20T21:32:15Z",
+        "timestamp_areas_base": "2023-09-20T19:43:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113402,6 +113402,24 @@
                 "level": "0",
                 "location": "indoor",
                 "wikimedia_commons": "File:Warszawa_elektrownia_powisle_0_aed.jpg"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11206302837,
+            "lat": 52.432552,
+            "lon": 17.0776113,
+            "timestamp": "2023-09-20T21:24:26Z",
+            "version": 3,
+            "changeset": 141532505,
+            "user": "swarzedzalarmowo",
+            "uid": 20299983,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-09-20",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "618173702"
             }
         },
         {
