@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-20T18:32:07Z",
-        "timestamp_areas_base": "2023-09-20T12:57:46Z",
+        "timestamp_osm_base": "2023-09-20T19:32:01Z",
+        "timestamp_areas_base": "2023-09-20T17:44:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -24733,17 +24733,20 @@
             "id": 9450880532,
             "lat": 52.2398886,
             "lon": 21.0318027,
-            "timestamp": "2022-02-26T20:47:23Z",
-            "version": 2,
-            "changeset": 117891450,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2023-09-20T19:26:24Z",
+            "version": 4,
+            "changeset": 141528738,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-07-29",
                 "defibrillator:location": "Na peronie stacji metra Centrum Nauki Kopernik",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "location": "indoor"
+                "level": "-2",
+                "location": "indoor",
+                "wikimedia_commons": "File:Warszawa_metro_centrum_nauki_kopernik_-2_aed.jpg"
             }
         },
         {
@@ -113377,6 +113380,28 @@
                 "defibrillator:location": "Na wyposażeniu jednostki.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11206070074,
+            "lat": 52.2407754,
+            "lon": 21.0279507,
+            "timestamp": "2023-09-20T19:26:24Z",
+            "version": 2,
+            "changeset": 141528738,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-29",
+                "defibrillator:location": "Przy zejściu na piętro -1, przy hotdogarnii",
+                "defibrillator:location:en": "Near the stairs to level -1 and near the \"Hotdogarnia\"",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "location": "indoor",
+                "wikimedia_commons": "File:Warszawa_elektrownia_powisle_0_aed.jpg"
             }
         },
         {
