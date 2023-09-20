@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-20T13:32:45Z",
-        "timestamp_areas_base": "2023-09-20T08:11:59Z",
+        "timestamp_osm_base": "2023-09-20T14:32:08Z",
+        "timestamp_areas_base": "2023-09-20T12:57:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113328,6 +113328,55 @@
                 "defibrillator:location:en": "The AED hangs on the external wall of the building, on the left to the entrance door.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11205349934,
+            "lat": 50.0084671,
+            "lon": 21.554327,
+            "timestamp": "2023-09-20T14:30:41Z",
+            "version": 1,
+            "changeset": 141516957,
+            "user": "Pimpeusz",
+            "uid": 20107919,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na wyposażeniu jednostki OSP Łączki Kucharskie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11205349935,
+            "lat": 49.9667103,
+            "lon": 21.5215391,
+            "timestamp": "2023-09-20T14:30:41Z",
+            "version": 1,
+            "changeset": 141516957,
+            "user": "Pimpeusz",
+            "uid": 20107919,
+            "tags": {
+                "defibrillator:location": "Na frontowej ścianie budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11205349936,
+            "lat": 50.0645296,
+            "lon": 21.5172689,
+            "timestamp": "2023-09-20T14:30:41Z",
+            "version": 1,
+            "changeset": 141516957,
+            "user": "Pimpeusz",
+            "uid": 20107919,
+            "tags": {
+                "defibrillator:location": "Na wyposażeniu jednostki.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
