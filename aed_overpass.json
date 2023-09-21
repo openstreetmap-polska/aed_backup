@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-21T07:32:22Z",
-        "timestamp_areas_base": "2023-09-21T03:17:30Z",
+        "timestamp_osm_base": "2023-09-21T08:31:49Z",
+        "timestamp_areas_base": "2023-09-21T05:25:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112133,9 +112133,9 @@
             "id": 11169505637,
             "lat": 52.4506161,
             "lon": 17.0900509,
-            "timestamp": "2023-09-07T14:51:11Z",
-            "version": 3,
-            "changeset": 140945088,
+            "timestamp": "2023-09-21T07:32:37Z",
+            "version": 4,
+            "changeset": 141544499,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
@@ -112144,7 +112144,7 @@
                 "description": "DefibTech LifeLine, elektrody dla dzieci i dorosłych.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7",
+                "opening_hours": "Mo-Fr 07:00-19:00",
                 "operator": "Ochotnicza Straż Pożarna w Kobylnicy",
                 "phone": "510 031 946"
             }
@@ -112154,9 +112154,9 @@
             "id": 11169507637,
             "lat": 52.4506569,
             "lon": 17.0902668,
-            "timestamp": "2023-09-07T14:52:24Z",
-            "version": 4,
-            "changeset": 140945143,
+            "timestamp": "2023-09-21T07:33:16Z",
+            "version": 5,
+            "changeset": 141544524,
             "user": "Łukasz Anioła",
             "uid": 20173112,
             "tags": {
@@ -112165,7 +112165,7 @@
                 "description": "Philips HeartStart FRx, elektrody dla dzieci i dorosłych.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "24/7",
+                "opening_hours": "Mo-Fr 07:00-19:00",
                 "operator": "Ochotnicza Straż Pożarna w Kobylnicy.",
                 "phone": "510 031 946"
             }
