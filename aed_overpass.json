@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-21T17:32:12Z",
-        "timestamp_areas_base": "2023-09-21T12:47:04Z",
+        "timestamp_osm_base": "2023-09-21T18:32:00Z",
+        "timestamp_areas_base": "2023-09-21T17:37:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113430,6 +113430,24 @@
                 "opening_hours": "24/7",
                 "operator": "UTAL",
                 "phone": "618173702"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11208575337,
+            "lat": 52.8346189,
+            "lon": 21.8400661,
+            "timestamp": "2023-09-21T18:26:24Z",
+            "version": 1,
+            "changeset": 141572738,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Komorowo"
             }
         },
         {
