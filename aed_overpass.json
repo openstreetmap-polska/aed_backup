@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-21T09:32:39Z",
-        "timestamp_areas_base": "2023-09-21T08:02:05Z",
+        "timestamp_osm_base": "2023-09-21T10:32:10Z",
+        "timestamp_areas_base": "2023-09-21T05:25:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113411,18 +113411,21 @@
         {
             "type": "node",
             "id": 11206302837,
-            "lat": 52.432552,
-            "lon": 17.0776113,
-            "timestamp": "2023-09-20T23:18:07Z",
-            "version": 5,
-            "changeset": 141534643,
+            "lat": 52.4323599,
+            "lon": 17.0774601,
+            "timestamp": "2023-09-21T10:05:26Z",
+            "version": 7,
+            "changeset": 141550969,
             "user": "swarzedzalarmowo",
             "uid": 20299983,
             "tags": {
-                "access": "customers",
+                "access": "permit",
                 "check_date": "2023-09-20",
+                "defibrillator:location": "W budynku na parterze.",
+                "description": "Defibtech Lifeline",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "opening_hours": "24/7",
                 "operator": "UTAL",
                 "phone": "618173702"
