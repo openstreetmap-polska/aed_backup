@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-22T06:32:15Z",
+        "timestamp_osm_base": "2023-09-22T07:32:33Z",
         "timestamp_areas_base": "2023-09-22T05:30:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113499,6 +113499,24 @@
                 "defibrillator:location": "W pomieszczeniu ochrony",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11209575044,
+            "lat": 53.1310728,
+            "lon": 18.019559,
+            "timestamp": "2023-09-22T06:42:22Z",
+            "version": 1,
+            "changeset": 141588930,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy portierni w budynku głównym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet Kazimierza Wielkiego"
             }
         },
         {
