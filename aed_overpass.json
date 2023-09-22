@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-22T05:32:40Z",
-        "timestamp_areas_base": "2023-09-22T00:45:28Z",
+        "timestamp_osm_base": "2023-09-22T06:32:15Z",
+        "timestamp_areas_base": "2023-09-22T05:30:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113448,6 +113448,57 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP Komorowo"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11209504437,
+            "lat": 54.2337895,
+            "lon": 18.6019817,
+            "timestamp": "2023-09-22T05:34:22Z",
+            "version": 1,
+            "changeset": 141586895,
+            "user": "JacekJankowskiPL",
+            "uid": 20310288,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W portierni ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11209513937,
+            "lat": 50.2635979,
+            "lon": 18.7124287,
+            "timestamp": "2023-09-22T05:38:45Z",
+            "version": 1,
+            "changeset": 141586895,
+            "user": "JacekJankowskiPL",
+            "uid": 20310288,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W portierni ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11209515437,
+            "lat": 52.1205861,
+            "lon": 20.6223439,
+            "timestamp": "2023-09-22T05:40:37Z",
+            "version": 1,
+            "changeset": 141586895,
+            "user": "JacekJankowskiPL",
+            "uid": 20310288,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "W pomieszczeniu ochrony",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
