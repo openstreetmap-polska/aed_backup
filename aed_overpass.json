@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-23T05:31:55Z",
-        "timestamp_areas_base": "2023-09-23T03:02:58Z",
+        "timestamp_osm_base": "2023-09-23T06:32:00Z",
+        "timestamp_areas_base": "2023-09-23T05:36:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113535,6 +113535,24 @@
                 "defibrillator:location:en": "in a fire truck",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11211697038,
+            "lat": 52.5195497,
+            "lon": 16.25478,
+            "timestamp": "2023-09-23T06:09:50Z",
+            "version": 1,
+            "changeset": 141629706,
+            "user": "K_Domke",
+            "uid": 20317832,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W punkcie pierwszej pomocy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48614455400"
             }
         },
         {
