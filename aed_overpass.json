@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-23T11:31:53Z",
-        "timestamp_areas_base": "2023-09-23T07:47:10Z",
+        "timestamp_osm_base": "2023-09-23T12:32:14Z",
+        "timestamp_areas_base": "2023-09-23T10:22:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -76518,11 +76518,11 @@
             "id": 10204115417,
             "lat": 52.2386773,
             "lon": 20.9138615,
-            "timestamp": "2023-02-26T19:35:17Z",
-            "version": 2,
-            "changeset": 133056838,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-09-23T11:32:37Z",
+            "version": 3,
+            "changeset": 141640418,
+            "user": "tomczk",
+            "uid": 4345690,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-02-19",
@@ -76531,7 +76531,8 @@
                 "description:en": "In a round, illuminated RotAid capsule.",
                 "description:pl": "W okrągłej, podświetlanej kapsule RotAid.",
                 "emergency": "defibrillator",
-                "image": "https://f003.backblazeb2.com/file/aedphotos/warszawaUM962.jpg",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/yk-0UYlQgPVgwQ_BHoUAVA.webp",
+                "image:license": "CC0",
                 "indoor": "no",
                 "level": "0",
                 "manufacturer": "Philips",
