@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-24T20:32:16Z",
-        "timestamp_areas_base": "2023-09-24T14:58:48Z",
+        "timestamp_osm_base": "2023-09-24T21:32:35Z",
+        "timestamp_areas_base": "2023-09-24T16:49:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -91561,11 +91561,11 @@
             "id": 10674411809,
             "lat": 49.6132364,
             "lon": 19.552946,
-            "timestamp": "2023-02-18T20:59:18Z",
-            "version": 6,
-            "changeset": 132729074,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-09-24T20:44:57Z",
+            "version": 7,
+            "changeset": 141699590,
+            "user": "☆Finvenkulo",
+            "uid": 4128818,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-02-17",
@@ -91576,7 +91576,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "AED dostępne w godzinach pracy restauracji lub kolei linowej, a także 24/7 dla gości pokoi gościnnych ''Mosorny Groń''.",
+                "opening_hours": "\"AED dostępne w godzinach pracy restauracji lub kolei linowej, a także 24/7 dla gości pokoi gościnnych ''Mosorny Groń''.\"",
                 "operator": "Polskie Koleje Linowe S.A.",
                 "phone": "+48 18 20 20 300",
                 "source": "Polskie Koleje Linowe S.A."
@@ -91587,11 +91587,11 @@
             "id": 10674439458,
             "lat": 49.622537,
             "lon": 19.56347,
-            "timestamp": "2023-02-18T21:01:04Z",
-            "version": 5,
-            "changeset": 132729120,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-09-24T20:44:57Z",
+            "version": 6,
+            "changeset": 141699590,
+            "user": "☆Finvenkulo",
+            "uid": 4128818,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-17",
@@ -91602,7 +91602,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
-                "opening_hours": "Dostępne w godzinach pracy kolei linowej.",
+                "opening_hours": "\"Dostępne w godzinach pracy kolei linowej.\"",
                 "operator": "Polskie Koleje Linowe S.A.",
                 "phone": "+48 18 20 20 300",
                 "source": "Polskie Koleje Linowe S.A."
