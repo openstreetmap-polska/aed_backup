@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-24T09:32:16Z",
-        "timestamp_areas_base": "2023-09-24T07:23:30Z",
+        "timestamp_osm_base": "2023-09-24T10:32:00Z",
+        "timestamp_areas_base": "2023-09-24T05:25:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -90443,21 +90443,22 @@
         {
             "type": "node",
             "id": 10605745364,
-            "lat": 52.8737289,
-            "lon": 20.6121755,
-            "timestamp": "2023-02-17T12:05:53Z",
-            "version": 3,
-            "changeset": 132672266,
-            "user": "JerzyUrban",
-            "uid": 12422586,
+            "lat": 52.8729902,
+            "lon": 20.6125392,
+            "timestamp": "2023-09-24T10:18:11Z",
+            "version": 5,
+            "changeset": 141675686,
+            "user": "kwiatek_123",
+            "uid": 14519311,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Przy stadionie na ul. 3 Maja",
+                "defibrillator:location": "Na ścianie, po prawej stronie wejścia, przy płocie.",
                 "emergency": "defibrillator",
-                "fixme": "Dokładna lokalizacja nie jest znana",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/yJ8K4WA6V-gHBg08MEYrnQ.webp",
+                "image:license": "CC0",
                 "indoor": "no",
                 "opening_hours": "24/7",
-                "source": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/"
+                "source": "https://radio7.pl/moga-uratowac-zycie-od-ponad-roku-ciechanow-ma-5-automatycznych-defibrylatorow/51298/;survey"
             }
         },
         {
