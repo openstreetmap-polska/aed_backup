@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-25T14:32:14Z",
-        "timestamp_areas_base": "2023-09-25T11:47:49Z",
+        "timestamp_osm_base": "2023-09-25T15:32:00Z",
+        "timestamp_areas_base": "2023-09-25T10:05:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113611,6 +113611,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "operator": "Politechnika Wrocławska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11218013238,
+            "lat": 50.1364927,
+            "lon": 18.9690533,
+            "timestamp": "2023-09-25T14:36:54Z",
+            "version": 1,
+            "changeset": 141734588,
+            "user": "ABMED SKLEP MEDYCZNY",
+            "uid": 20333609,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie, naprzeciwko wejścia do sklepu.",
+                "defibrillator:location:en": "On the wall, opposite the entrance to the store.",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "phone": "999"
             }
         },
         {
