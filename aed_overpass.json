@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-25T11:32:29Z",
-        "timestamp_areas_base": "2023-09-25T10:05:15Z",
+        "timestamp_osm_base": "2023-09-25T12:32:45Z",
+        "timestamp_areas_base": "2023-09-25T07:02:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113592,6 +113592,25 @@
                 "level": "0",
                 "opening_hours": "Mo-Fr 07:00-12:00; PH closed",
                 "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11217699525,
+            "lat": 51.1088247,
+            "lon": 17.0567503,
+            "timestamp": "2023-09-25T11:50:11Z",
+            "version": 1,
+            "changeset": 141727902,
+            "user": "usagi-02808",
+            "uid": 13847427,
+            "tags": {
+                "access": "permissive",
+                "defibrillator:location": "Przy punkcie informacyjnym",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "operator": "Politechnika Wrocławska"
             }
         },
         {
