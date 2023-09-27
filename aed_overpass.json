@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-27T16:32:00Z",
-        "timestamp_areas_base": "2023-09-27T11:13:22Z",
+        "timestamp_osm_base": "2023-09-27T17:32:31Z",
+        "timestamp_areas_base": "2023-09-27T16:01:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -2353,14 +2353,15 @@
         {
             "type": "node",
             "id": 7105318578,
-            "lat": 51.9406072,
-            "lon": 15.508794,
-            "timestamp": "2022-12-28T14:39:00Z",
-            "version": 3,
-            "changeset": 130605247,
-            "user": "km2bp",
-            "uid": 3610826,
+            "lat": 51.9406013,
+            "lon": 15.5088036,
+            "timestamp": "2023-09-27T16:54:59Z",
+            "version": 4,
+            "changeset": 141829593,
+            "user": "Aim311_",
+            "uid": 17295082,
             "tags": {
+                "direction": "205",
                 "emergency": "defibrillator",
                 "image": "https://photos.app.goo.gl/3uJNBKRHL3PGcUpo6",
                 "mapillary": "1364071977308687"
@@ -112963,15 +112964,15 @@
             "id": 11198224398,
             "lat": 51.938454,
             "lon": 15.514469,
-            "timestamp": "2023-09-17T18:13:04Z",
-            "version": 1,
-            "changeset": 141393338,
+            "timestamp": "2023-09-27T16:54:59Z",
+            "version": 2,
+            "changeset": 141829593,
             "user": "Aim311_",
             "uid": 17295082,
             "tags": {
                 "access": "yes",
                 "covered": "yes",
-                "defibrillator:location": "Parking, na filarze naprzeciwko wjazdu od palmiarni. Poziom 2B",
+                "defibrillator:location": "Parking, filar, poziom 2B, wjazd od palmiarni.",
                 "direction": "150",
                 "emergency": "defibrillator",
                 "indoor": "no",
