@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-27T06:32:01Z",
+        "timestamp_osm_base": "2023-09-27T07:32:15Z",
         "timestamp_areas_base": "2023-09-27T05:11:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -50168,14 +50168,15 @@
             "id": 9570692547,
             "lat": 51.6671297,
             "lon": 16.0907767,
-            "timestamp": "2022-03-11T12:02:00Z",
-            "version": 1,
-            "changeset": 118361444,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-09-27T07:23:46Z",
+            "version": 2,
+            "changeset": 141804537,
+            "user": "Catchfly",
+            "uid": 20338435,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "opening_hours": "24/7",
                 "operator": "Muzeum Archeologiczno-Historyczne"
             }
