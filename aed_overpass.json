@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-28T11:32:02Z",
+        "timestamp_osm_base": "2023-09-28T12:32:01Z",
         "timestamp_areas_base": "2023-09-28T09:45:22Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113711,6 +113711,25 @@
                 "defibrillator:location": "Galan Logistics",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11224782438,
+            "lat": 49.8822495,
+            "lon": 19.4905994,
+            "timestamp": "2023-09-28T11:39:18Z",
+            "version": 1,
+            "changeset": 141860668,
+            "user": "PGRM Biuro",
+            "uid": 18251006,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "wartownia, budynek administracyjny, parter",
+                "defibrillator:location:en": "guardhouse, administration building, ground floor",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "on\t33 872 11 11"
             }
         },
         {
