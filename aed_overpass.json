@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-28T06:32:35Z",
+        "timestamp_osm_base": "2023-09-28T07:32:00Z",
         "timestamp_areas_base": "2023-09-28T05:02:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113676,6 +113676,38 @@
                 "defibrillator:location:en": "Port bar",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11224408987,
+            "lat": 54.4322222,
+            "lon": 18.2947927,
+            "timestamp": "2023-09-28T07:20:07Z",
+            "version": 1,
+            "changeset": 141850350,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "Saunowy Staw",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11224445154,
+            "lat": 53.3469624,
+            "lon": 14.8560258,
+            "timestamp": "2023-09-28T07:31:16Z",
+            "version": 1,
+            "changeset": 141850812,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "Galan Logistics",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
         },
         {
