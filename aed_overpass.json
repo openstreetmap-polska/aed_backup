@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-28T07:32:00Z",
-        "timestamp_areas_base": "2023-09-28T05:02:33Z",
+        "timestamp_osm_base": "2023-09-28T08:32:10Z",
+        "timestamp_areas_base": "2023-09-28T06:13:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113681,17 +113681,20 @@
         {
             "type": "node",
             "id": 11224408987,
-            "lat": 54.4322222,
-            "lon": 18.2947927,
-            "timestamp": "2023-09-28T07:20:07Z",
-            "version": 1,
-            "changeset": 141850350,
+            "lat": 54.432337,
+            "lon": 18.2945145,
+            "timestamp": "2023-09-28T07:56:33Z",
+            "version": 2,
+            "changeset": 141851795,
             "user": "Sebastian | Yanosik",
             "uid": 20170873,
             "tags": {
-                "defibrillator:location": "Saunowy Staw",
+                "access": "yes",
+                "defibrillator:location": "W budynku ośrodka saunowego o nazwie Saunowy Staw, poza godzinami otwarcia można się do niego dostać przy użyciu klucza, którego lokalizacja podawana jest telefonicznie",
                 "emergency": "defibrillator",
-                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 15:00-23:00",
+                "phone": "604553223"
             }
         },
         {
