@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T19:31:52Z",
-        "timestamp_areas_base": "2023-09-29T15:28:29Z",
+        "timestamp_osm_base": "2023-09-29T20:32:36Z",
+        "timestamp_areas_base": "2023-09-29T19:33:53Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113938,6 +113938,26 @@
                 "indoor": "yes",
                 "opening_hours": "",
                 "operator": "OSP KSRG Szalowa ",
+                "phone": "998/112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227967237,
+            "lat": 49.6820031,
+            "lon": 21.0198878,
+            "timestamp": "2023-09-29T19:45:19Z",
+            "version": 1,
+            "changeset": 141928116,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP Szalowa ",
                 "phone": "998/112"
             }
         },
