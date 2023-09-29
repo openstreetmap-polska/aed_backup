@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T18:32:29Z",
-        "timestamp_areas_base": "2023-09-29T14:40:28Z",
+        "timestamp_osm_base": "2023-09-29T19:31:52Z",
+        "timestamp_areas_base": "2023-09-29T15:28:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113839,6 +113839,106 @@
                 "defibrillator:location": "Między toaletą męską i dla niepelnosprawnych",
                 "emergency": "defibrillator",
                 "note": "w trakcie instalacji. stan na dzień 29.09"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227908038,
+            "lat": 49.6819632,
+            "lon": 21.0198699,
+            "timestamp": "2023-09-29T19:08:27Z",
+            "version": 1,
+            "changeset": 141926949,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP KSRG Szalowa",
+                "phone": "998/112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227915537,
+            "lat": 49.6819734,
+            "lon": 21.0198643,
+            "timestamp": "2023-09-29T19:02:35Z",
+            "version": 1,
+            "changeset": 141926733,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227915538,
+            "lat": 49.6819689,
+            "lon": 21.0198831,
+            "timestamp": "2023-09-29T19:06:05Z",
+            "version": 1,
+            "changeset": 141926861,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP KSRG Szalowa ",
+                "phone": "112/998"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227934539,
+            "lat": 49.6819377,
+            "lon": 21.0198894,
+            "timestamp": "2023-09-29T19:19:49Z",
+            "version": 1,
+            "changeset": 141927296,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy 449K68 MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP KSRG Szalowa ",
+                "phone": "998/112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227936537,
+            "lat": 49.6819794,
+            "lon": 21.0198635,
+            "timestamp": "2023-09-29T19:17:55Z",
+            "version": 1,
+            "changeset": 141927244,
+            "user": "Fabian Jakubiak",
+            "uid": 20367241,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy 449K68 MAN",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP KSRG Szalowa ",
+                "phone": "998/112"
             }
         },
         {
