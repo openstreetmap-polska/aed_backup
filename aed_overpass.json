@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T10:32:45Z",
-        "timestamp_areas_base": "2023-09-29T05:02:16Z",
+        "timestamp_osm_base": "2023-09-29T11:32:14Z",
+        "timestamp_areas_base": "2023-09-29T09:48:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113795,6 +113795,24 @@
                 "defibrillator:location": "Piomar",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11226726179,
+            "lat": 51.1006871,
+            "lon": 17.089496,
+            "timestamp": "2023-09-29T11:26:07Z",
+            "version": 1,
+            "changeset": 141907522,
+            "user": "usagi-02808",
+            "uid": 13847427,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Przy wejściu po prawej stronie",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Politechnika Wrocławska"
             }
         },
         {
