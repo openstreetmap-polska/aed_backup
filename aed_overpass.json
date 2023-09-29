@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T06:32:39Z",
-        "timestamp_areas_base": "2023-09-29T01:11:15Z",
+        "timestamp_osm_base": "2023-09-29T07:32:30Z",
+        "timestamp_areas_base": "2023-09-29T05:54:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -926,6 +926,22 @@
             "uid": 1148492,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4154826876,
+            "lat": 50.0867345,
+            "lon": 22.2252202,
+            "timestamp": "2023-09-29T07:06:38Z",
+            "version": 2,
+            "changeset": 141898102,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "stróżówka",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
         },
         {
@@ -113761,6 +113777,22 @@
             "uid": 20170873,
             "tags": {
                 "defibrillator:location": "OSP Paterek",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11226418239,
+            "lat": 50.6621599,
+            "lon": 17.959905,
+            "timestamp": "2023-09-29T07:13:31Z",
+            "version": 1,
+            "changeset": 141898351,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "Piomar",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
