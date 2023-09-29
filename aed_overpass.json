@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T12:32:03Z",
+        "timestamp_osm_base": "2023-09-29T13:32:30Z",
         "timestamp_areas_base": "2023-09-29T10:39:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -14219,13 +14219,13 @@
         {
             "type": "node",
             "id": 9424207017,
-            "lat": 49.8195167,
-            "lon": 19.0850175,
-            "timestamp": "2022-01-17T01:07:26Z",
-            "version": 1,
-            "changeset": 116233435,
-            "user": "Jan Łękawa",
-            "uid": 14870064,
+            "lat": 49.8195418,
+            "lon": 19.0850237,
+            "timestamp": "2023-09-29T13:15:42Z",
+            "version": 2,
+            "changeset": 141912253,
+            "user": "arturp",
+            "uid": 426784,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu do sali widowiskowej.",
