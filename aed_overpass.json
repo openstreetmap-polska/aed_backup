@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T14:32:14Z",
+        "timestamp_osm_base": "2023-09-29T15:32:41Z",
         "timestamp_areas_base": "2023-09-29T09:48:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113813,6 +113813,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Politechnika Wrocławska"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11227263584,
+            "lat": 52.1396831,
+            "lon": 20.8300445,
+            "timestamp": "2023-09-29T14:39:41Z",
+            "version": 1,
+            "changeset": 141916081,
+            "user": "tomzyl",
+            "uid": 530338,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Między toaletą męską i dla niepelnosprawnych",
+                "emergency": "defibrillator",
+                "note": "w trakcie instalacji. stan na dzień 29.09"
             }
         },
         {
