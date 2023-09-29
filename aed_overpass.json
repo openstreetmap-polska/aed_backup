@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T05:32:02Z",
-        "timestamp_areas_base": "2023-09-29T00:12:27Z",
+        "timestamp_osm_base": "2023-09-29T06:32:39Z",
+        "timestamp_areas_base": "2023-09-29T01:11:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113747,6 +113747,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-16:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11226352432,
+            "lat": 53.1185472,
+            "lon": 17.6009559,
+            "timestamp": "2023-09-29T06:25:40Z",
+            "version": 1,
+            "changeset": 141896700,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "OSP Paterek",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
         },
         {
