@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-09-29T15:32:41Z",
-        "timestamp_areas_base": "2023-09-29T09:48:34Z",
+        "timestamp_osm_base": "2023-09-29T16:32:04Z",
+        "timestamp_areas_base": "2023-09-29T15:28:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -487,6 +487,31 @@
                 "defibrillator:location:en": "2nd floor, in front of the elevator",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2600713560,
+            "lat": 50.9011687,
+            "lon": 15.7367853,
+            "timestamp": "2023-09-29T16:25:52Z",
+            "version": 5,
+            "changeset": 141921334,
+            "user": "maciekjg",
+            "uid": 20012885,
+            "tags": {
+                "access": "yes",
+                "addr:city": "Jelenia Góra",
+                "addr:housenumber": "10",
+                "addr:street": "Józefa Piłsudskiego",
+                "amenity": "restaurant",
+                "cuisine": "asian",
+                "diet:vegetarian": "yes",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "name": "Shang Hai",
+                "phone": "+48 75 7526478",
+                "website": "http://www.shang-hai.pl/"
             }
         },
         {
@@ -85721,22 +85746,6 @@
             "lat": 50.902374,
             "lon": 15.7440233,
             "timestamp": "2023-01-10T09:11:49Z",
-            "version": 1,
-            "changeset": 131097851,
-            "user": "Dralookas",
-            "uid": 18193278,
-            "tags": {
-                "access": "yes",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10536552309,
-            "lat": 50.9011687,
-            "lon": 15.7367853,
-            "timestamp": "2023-01-10T09:12:10Z",
             "version": 1,
             "changeset": 131097851,
             "user": "Dralookas",
