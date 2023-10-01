@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-01T12:30:16Z",
+        "timestamp_osm_base": "2023-10-01T13:31:50Z",
         "timestamp_areas_base": "2023-10-01T10:09:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -3567,21 +3567,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Urząd Miasta Gdyni"
-            }
-        },
-        {
-            "type": "node",
-            "id": 8380480058,
-            "lat": 50.4520696,
-            "lon": 16.6380872,
-            "timestamp": "2021-01-31T11:59:24Z",
-            "version": 1,
-            "changeset": 98445032,
-            "user": "m@rio",
-            "uid": 576108,
-            "tags": {
-                "emergency": "defibrillator",
-                "indoor": "yes"
             }
         },
         {
