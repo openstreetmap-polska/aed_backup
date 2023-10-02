@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-02T08:32:01Z",
-        "timestamp_areas_base": "2023-10-02T05:06:14Z",
+        "timestamp_osm_base": "2023-10-02T09:32:45Z",
+        "timestamp_areas_base": "2023-10-02T04:46:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -113945,6 +113945,22 @@
                 "opening_hours": "",
                 "operator": "OSP Szalowa ",
                 "phone": "998/112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11233210224,
+            "lat": 50.1517206,
+            "lon": 18.2494797,
+            "timestamp": "2023-10-02T08:33:11Z",
+            "version": 1,
+            "changeset": 142027442,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "OSP Zawada Książeca",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
         },
         {
