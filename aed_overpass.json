@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-02T05:31:48Z",
-        "timestamp_areas_base": "2023-10-02T00:24:30Z",
+        "timestamp_osm_base": "2023-10-02T06:32:30Z",
+        "timestamp_areas_base": "2023-10-02T04:46:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -4317,15 +4317,16 @@
             "id": 8870363486,
             "lat": 50.6731781,
             "lon": 18.689352,
-            "timestamp": "2021-06-27T19:55:37Z",
-            "version": 1,
-            "changeset": 107049518,
-            "user": "Lubomir_W",
-            "uid": 2921431,
+            "timestamp": "2023-10-02T05:32:38Z",
+            "version": 2,
+            "changeset": 142021408,
+            "user": "chfour",
+            "uid": 20365500,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na scianie",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "name": "Defibrylator AED",
                 "opening_hours": "24/7",
                 "operator": "UM Lubliniec",
