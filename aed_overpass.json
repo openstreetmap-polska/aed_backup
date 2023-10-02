@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-02T22:32:01Z",
+        "timestamp_osm_base": "2023-10-02T23:32:16Z",
         "timestamp_areas_base": "2023-10-02T19:17:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113976,6 +113976,24 @@
             "uid": 16972410,
             "tags": {
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11234801837,
+            "lat": 49.8842648,
+            "lon": 20.7768869,
+            "timestamp": "2023-10-02T22:50:14Z",
+            "version": 1,
+            "changeset": 142065611,
+            "user": "jar3kming",
+            "uid": 20387667,
+            "tags": {
+                "defibrillator:location": "OSP Gwoździec",
+                "defibrillator:location:en": "Remiza OSP Gwoździec",
+                "emergency": "defibrillator",
+                "emergency:phone": "+48889710112",
+                "phone": "+48504997409"
             }
         },
         {
