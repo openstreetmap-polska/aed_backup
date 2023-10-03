@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-03T08:32:02Z",
+        "timestamp_osm_base": "2023-10-03T09:32:32Z",
         "timestamp_areas_base": "2023-10-03T04:53:51Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113994,6 +113994,38 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "+48889710112",
                 "phone": "+48504997409"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11235402702,
+            "lat": 50.1322773,
+            "lon": 19.6371083,
+            "timestamp": "2023-10-03T08:53:27Z",
+            "version": 1,
+            "changeset": 142089777,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "Na ścianie OSP Krzeszowice od strony głównej. Pomiędzy garażami a drzwiami.",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11235413972,
+            "lat": 49.9568508,
+            "lon": 18.963731,
+            "timestamp": "2023-10-03T08:59:50Z",
+            "version": 1,
+            "changeset": 142090044,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "na portierni ZM SILESIA Goczałkowice",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
             }
         },
         {
