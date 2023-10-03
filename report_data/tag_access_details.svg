@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-10-02T23:33:18.570002</dc:date>
+    <dc:date>2023-10-03T07:33:19.972499</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,23 +42,23 @@ z
    </g>
    <g id="patch_3">
     <path d="M 440.951741 386.477157 
-C 457.644043 412.572446 480.883615 433.846279 508.348736 448.17332 
-C 535.813858 462.500362 566.558401 469.387069 597.51087 468.145434 
-C 628.46334 466.903799 658.557474 457.576594 684.786756 441.095641 
-C 711.016038 424.614689 732.476912 401.547731 747.025356 374.199243 
+C 457.653737 412.587601 480.91044 433.870722 508.3958 448.197862 
+C 535.881159 462.525001 566.647243 469.402035 597.616939 468.141147 
+C 628.586635 466.880259 658.691841 457.524936 684.921544 441.010863 
+C 711.151247 424.496791 732.60082 401.393516 747.124955 374.011744 
 L 590.4 290.88 
 L 440.951741 386.477157 
 z
 " style="fill: #ff7f0e"/>
    </g>
    <g id="patch_4">
-    <path d="M 747.025356 374.199243 
-C 760.139663 349.546679 767.250167 322.142611 767.776484 294.223854 
-C 768.302801 266.305097 762.230211 238.652506 750.054378 213.523178 
-C 737.878546 188.393851 719.940016 166.490624 697.702991 149.601316 
-C 675.465967 132.712008 649.552391 121.308991 622.07742 116.323019 
+    <path d="M 747.124955 374.011744 
+C 760.201346 349.359347 767.278478 321.965934 767.779414 294.064648 
+C 768.28035 266.163362 762.191099 238.533562 750.008062 213.42766 
+C 737.825025 188.321758 719.888509 166.44103 697.660718 149.569219 
+C 675.432927 132.697408 649.534745 121.305789 622.07742 116.323019 
 L 590.4 290.88 
-L 747.025356 374.199243 
+L 747.124955 374.011744 
 z
 " style="fill: #2ca02c"/>
    </g>
@@ -92,7 +92,7 @@ z
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
-    <!-- Type of access (2023-10-02) -->
+    <!-- Type of access (2023-10-03) -->
     <g transform="translate(368.64 63.12)scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -452,7 +452,7 @@ z
      <use xlink:href="#DejaVuSans-30" x="1151.5625"/>
      <use xlink:href="#DejaVuSans-2d" x="1215.185547"/>
      <use xlink:href="#DejaVuSans-30" x="1251.269531"/>
-     <use xlink:href="#DejaVuSans-32" x="1314.892578"/>
+     <use xlink:href="#DejaVuSans-33" x="1314.892578"/>
      <use xlink:href="#DejaVuSans-29" x="1378.515625"/>
     </g>
    </g>
@@ -796,7 +796,7 @@ z
 " style="fill: #ff7f0e"/>
     </g>
     <g id="text_4">
-     <!-- yes–1741 pc. -->
+     <!-- yes–1742 pc. -->
      <g transform="translate(702.208438 115.074688)scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-34" d="M 2419 4116 
@@ -826,7 +826,7 @@ z
       <use xlink:href="#DejaVuSans-31" x="222.802734"/>
       <use xlink:href="#DejaVuSans-37" x="286.425781"/>
       <use xlink:href="#DejaVuSans-34" x="350.048828"/>
-      <use xlink:href="#DejaVuSans-31" x="413.671875"/>
+      <use xlink:href="#DejaVuSans-32" x="413.671875"/>
       <use xlink:href="#DejaVuSans-20" x="477.294922"/>
       <use xlink:href="#DejaVuSans-70" x="509.082031"/>
       <use xlink:href="#DejaVuSans-63" x="572.558594"/>
@@ -842,7 +842,7 @@ z
 " style="fill: #2ca02c"/>
     </g>
     <g id="text_5">
-     <!-- customers–1571 pc. -->
+     <!-- customers–1570 pc. -->
      <g transform="translate(702.208438 129.752813)scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-75" d="M 544 1381 
@@ -906,7 +906,7 @@ z
       <use xlink:href="#DejaVuSans-31" x="572.998047"/>
       <use xlink:href="#DejaVuSans-35" x="636.621094"/>
       <use xlink:href="#DejaVuSans-37" x="700.244141"/>
-      <use xlink:href="#DejaVuSans-31" x="763.867188"/>
+      <use xlink:href="#DejaVuSans-30" x="763.867188"/>
       <use xlink:href="#DejaVuSans-20" x="827.490234"/>
       <use xlink:href="#DejaVuSans-70" x="859.277344"/>
       <use xlink:href="#DejaVuSans-63" x="922.753906"/>

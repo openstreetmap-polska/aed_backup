@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-03T06:32:21Z",
+        "timestamp_osm_base": "2023-10-03T07:32:26Z",
         "timestamp_areas_base": "2023-10-03T04:57:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11740,18 +11740,18 @@
             "id": 9413415517,
             "lat": 50.0210725,
             "lon": 22.0177229,
-            "timestamp": "2023-09-27T07:45:04Z",
-            "version": 3,
-            "changeset": 141805453,
+            "timestamp": "2023-10-03T07:27:22Z",
+            "version": 4,
+            "changeset": 142085328,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
-                "access": "customers",
+                "access": "yes",
                 "check_date": "2023-09-27",
-                "defibrillator:location": "Centrum Medyczne MEDYK",
-                "defibrillator:location:en": "Na ścianie przy rejestracji.",
+                "defibrillator:location": "Na ścianie przy rejestracji.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
                 "location": "indoor",
                 "opening_hours": "Mo-Fr 7:00-20:00"
             }
