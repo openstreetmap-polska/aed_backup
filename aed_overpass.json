@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-03T10:31:52Z",
+        "timestamp_osm_base": "2023-10-03T11:32:36Z",
         "timestamp_areas_base": "2023-10-03T09:41:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114026,6 +114026,30 @@
                 "defibrillator:location": "na portierni ZM SILESIA Goczałkowice",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11235579837,
+            "lat": 52.1853185,
+            "lon": 20.9412681,
+            "timestamp": "2023-10-03T11:24:21Z",
+            "version": 6,
+            "changeset": 142095706,
+            "user": "BTL Polska",
+            "uid": 20391105,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-03",
+                "defibrillator:location": "Na ścianie z prawej strony po otworzeniu 1 drzwi",
+                "defibrillator:location:pl": "Na ścianie z prawej strony po otworzeniu 1 drzwi",
+                "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/FxZ6NjvxDzcl7a33HGwnDQ.webp",
+                "image:license": "CC0",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "Mo-Fr 08:00-16:30",
+                "phone": "22 667 02 76"
             }
         },
         {
