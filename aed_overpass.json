@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-04T12:32:28Z",
+        "timestamp_osm_base": "2023-10-04T13:31:36Z",
         "timestamp_areas_base": "2023-10-04T09:34:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114154,14 +114154,14 @@
             "id": 11237754837,
             "lat": 52.3086739,
             "lon": 17.0454811,
-            "timestamp": "2023-10-04T08:01:06Z",
-            "version": 1,
-            "changeset": 142131818,
+            "timestamp": "2023-10-04T13:00:15Z",
+            "version": 2,
+            "changeset": 142144662,
             "user": "HERMES POLSKA",
             "uid": 20397564,
             "tags": {
                 "access": "customers",
-                "defibrillator:location": "HALA PRODUKCYJNA",
+                "defibrillator:location": "HERMES POLSKA Sp. z o.o.",
                 "defibrillator:location:en": "PRODUCTION HALL",
                 "emergency": "defibrillator",
                 "indoor": "yes",
@@ -114189,9 +114189,9 @@
             "id": 11238123837,
             "lat": 54.0540247,
             "lon": 15.6459555,
-            "timestamp": "2023-10-04T11:52:47Z",
-            "version": 1,
-            "changeset": 142141904,
+            "timestamp": "2023-10-04T13:17:06Z",
+            "version": 2,
+            "changeset": 142145319,
             "user": "KerimPL",
             "uid": 14682033,
             "tags": {
@@ -114199,7 +114199,28 @@
                 "defibrillator:location": "Ściana od ulicy budynku Centrum Przesiadkowego",
                 "defibrillator:location:en": "The street wall of the Transfer Center building",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Gmina Gościno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11238327438,
+            "lat": 54.4136711,
+            "lon": 18.5954586,
+            "timestamp": "2023-10-04T13:28:49Z",
+            "version": 1,
+            "changeset": 142145843,
+            "user": "kornad",
+            "uid": 10209334,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "na płocie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "AED MAX",
+                "phone": "+48 660 860 112"
             }
         },
         {
