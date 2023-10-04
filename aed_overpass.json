@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-04T19:32:45Z",
-        "timestamp_areas_base": "2023-10-04T14:35:21Z",
+        "timestamp_osm_base": "2023-10-04T20:31:59Z",
+        "timestamp_areas_base": "2023-10-04T19:24:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114237,6 +114237,24 @@
                 "defibrillator:location": "Wewnątrz budynku, w głównym hallu po prawej stronie od wejścia",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11239847862,
+            "lat": 52.6109103,
+            "lon": 16.5783153,
+            "timestamp": "2023-10-04T20:21:05Z",
+            "version": 1,
+            "changeset": 142162540,
+            "user": "Aim311_",
+            "uid": 17295082,
+            "tags": {
+                "access": "customers",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "note": "Informacja na drzwiach wejściowych \"Obiekt wyposażony w Defibrylator\".",
+                "operator": "Bank Spółdzielczy Duszniki"
             }
         },
         {
