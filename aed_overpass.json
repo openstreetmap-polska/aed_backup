@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-04T14:32:15Z",
-        "timestamp_areas_base": "2023-10-04T09:34:36Z",
+        "timestamp_osm_base": "2023-10-04T15:32:00Z",
+        "timestamp_areas_base": "2023-10-04T14:35:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114223,6 +114223,24 @@
                 "operator": "AED MAX",
                 "phone": "+48 660 860 112",
                 "website": "https://aedmax.pl"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11238502237,
+            "lat": 53.9990086,
+            "lon": 15.681736,
+            "timestamp": "2023-10-04T14:54:49Z",
+            "version": 1,
+            "changeset": 142149080,
+            "user": "KerimPL",
+            "uid": 14682033,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Wyposażenie samochodu OSP",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 606348745"
             }
         },
         {
