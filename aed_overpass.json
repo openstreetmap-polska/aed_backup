@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-04T16:32:03Z",
-        "timestamp_areas_base": "2023-10-04T14:35:21Z",
+        "timestamp_osm_base": "2023-10-04T17:32:45Z",
+        "timestamp_areas_base": "2023-10-04T14:21:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -70228,28 +70228,6 @@
         },
         {
             "type": "node",
-            "id": 10010981318,
-            "lat": 52.178611,
-            "lon": 21.557426,
-            "timestamp": "2022-09-24T16:32:34Z",
-            "version": 2,
-            "changeset": 126590196,
-            "user": "ptarac",
-            "uid": 11496679,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "W budynku komendy. Udostępniany przez dyżurnego.",
-                "defibrillator:location:en": "In the building of the district police headquarters. Provided by the duty officer.",
-                "emergency": "defibrillator",
-                "emergency:phone": "112",
-                "indoor": "yes",
-                "opening_hours": "24/7",
-                "operator": "KPP Mińsk Mazowiecki",
-                "phone": "+48 47 724 92 00"
-            }
-        },
-        {
-            "type": "node",
             "id": 10013687917,
             "lat": 50.0721221,
             "lon": 20.0348319,
@@ -102254,13 +102232,14 @@
             "id": 10865811998,
             "lat": 51.6677793,
             "lon": 16.0837724,
-            "timestamp": "2023-09-13T12:38:53Z",
-            "version": 3,
-            "changeset": 141209522,
-            "user": "puchaczowsky",
-            "uid": 7518458,
+            "timestamp": "2023-10-04T17:11:52Z",
+            "version": 4,
+            "changeset": 142155926,
+            "user": "Catchfly",
+            "uid": 20338435,
             "tags": {
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "operator": "Głogowskie Stowarzyszenie Otwarte Drzwi",
                 "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
             }
@@ -114241,6 +114220,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 606348745"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11238706819,
+            "lat": 52.1776026,
+            "lon": 21.5926839,
+            "timestamp": "2023-10-04T16:34:03Z",
+            "version": 1,
+            "changeset": 142154494,
+            "user": "PawełKordalewski",
+            "uid": 14828870,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wewnątrz budynku, w głównym hallu po prawej stronie od wejścia",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
