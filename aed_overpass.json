@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-04T13:31:36Z",
+        "timestamp_osm_base": "2023-10-04T14:32:15Z",
         "timestamp_areas_base": "2023-10-04T09:34:36Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114206,21 +114206,23 @@
         {
             "type": "node",
             "id": 11238327438,
-            "lat": 54.4136711,
-            "lon": 18.5954586,
-            "timestamp": "2023-10-04T13:28:49Z",
-            "version": 1,
-            "changeset": 142145843,
+            "lat": 54.413712,
+            "lon": 18.5954538,
+            "timestamp": "2023-10-04T13:42:29Z",
+            "version": 2,
+            "changeset": 142146418,
             "user": "kornad",
             "uid": 10209334,
             "tags": {
                 "access": "yes",
-                "defibrillator:location:pl": "na płocie",
+                "check_date": "2023-10-04",
+                "defibrillator:location": "na płocie szkoły",
+                "email": "kontakt@aedmax.pl",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "",
                 "operator": "AED MAX",
-                "phone": "+48 660 860 112"
+                "phone": "+48 660 860 112",
+                "website": "https://aedmax.pl"
             }
         },
         {
