@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-05T07:32:25Z",
+        "timestamp_osm_base": "2023-10-05T08:32:15Z",
         "timestamp_areas_base": "2023-10-05T04:53:31Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114273,6 +114273,25 @@
                 "defibrillator:location": "Na ścianie budynku straży między bramami wyjazdowymi.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11240657937,
+            "lat": 52.0586979,
+            "lon": 16.1572719,
+            "timestamp": "2023-10-05T08:23:39Z",
+            "version": 1,
+            "changeset": 142177776,
+            "user": "Przemysław Mielcarek",
+            "uid": 18575906,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-05",
+                "defibrillator:location:pl": "Na budynku remizy OSP Wroniawy od ulicy Dworcowej (Dworcowa 42)",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "667182228"
             }
         },
         {
