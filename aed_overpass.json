@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-05T10:32:30Z",
-        "timestamp_areas_base": "2023-10-05T09:13:44Z",
+        "timestamp_osm_base": "2023-10-05T11:31:51Z",
+        "timestamp_areas_base": "2023-10-05T09:38:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -95322,11 +95322,11 @@
             "id": 10701495505,
             "lat": 52.0586534,
             "lon": 16.157299,
-            "timestamp": "2023-03-01T10:25:04Z",
-            "version": 1,
-            "changeset": 133165347,
-            "user": "Przemysław Mielcarek",
-            "uid": 18575906,
+            "timestamp": "2023-10-05T11:05:44Z",
+            "version": 2,
+            "changeset": 142184416,
+            "user": "Jakub Małecki",
+            "uid": 7209859,
             "tags": {
                 "access": "private",
                 "check_date": "2023-03-01",
@@ -95334,6 +95334,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0",
+                "operator": "OSP Wroniawy",
                 "phone": "667182228"
             }
         },
@@ -114280,17 +114281,19 @@
             "id": 11240657937,
             "lat": 52.0586979,
             "lon": 16.1572719,
-            "timestamp": "2023-10-05T08:23:39Z",
-            "version": 1,
-            "changeset": 142177776,
-            "user": "Przemysław Mielcarek",
-            "uid": 18575906,
+            "timestamp": "2023-10-05T11:05:44Z",
+            "version": 2,
+            "changeset": 142184416,
+            "user": "Jakub Małecki",
+            "uid": 7209859,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-05",
+                "defibrillator:location": "Kapsuła na ścianie budynku OSP pomiędzy bramami.",
                 "defibrillator:location:pl": "Na budynku remizy OSP Wroniawy od ulicy Dworcowej (Dworcowa 42)",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "operator": "OSP Wroniawy",
                 "phone": "667182228"
             }
         },
