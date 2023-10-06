@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-06T20:32:15Z",
-        "timestamp_areas_base": "2023-10-06T19:01:35Z",
+        "timestamp_osm_base": "2023-10-06T21:31:56Z",
+        "timestamp_areas_base": "2023-10-06T18:28:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114276,6 +114276,23 @@
                 "indoor": "no",
                 "operator": "OSP Wroniawy",
                 "phone": "667182228"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11244564537,
+            "lat": 52.1773126,
+            "lon": 20.9521953,
+            "timestamp": "2023-10-06T20:52:01Z",
+            "version": 1,
+            "changeset": 142248434,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-10-06",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
