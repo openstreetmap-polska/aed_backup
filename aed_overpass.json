@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-06T16:32:20Z",
+        "timestamp_osm_base": "2023-10-06T17:32:44Z",
         "timestamp_areas_base": "2023-10-06T13:43:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -6252,25 +6252,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-15:00"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9328104406,
-            "lat": 53.1466561,
-            "lon": 16.7465812,
-            "timestamp": "2021-12-10T20:15:43Z",
-            "version": 1,
-            "changeset": 114797814,
-            "user": "lama99",
-            "uid": 9514620,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Punkt Obsługi Klienta (po wejściu do sklepu po lewej stronie)",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "Mo-Su 10:00-20:00",
-                "wheelchair": "yes"
             }
         },
         {
