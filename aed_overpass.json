@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-08T17:32:35Z",
+        "timestamp_osm_base": "2023-10-08T18:32:15Z",
         "timestamp_areas_base": "2023-10-08T13:44:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -106804,24 +106804,6 @@
         },
         {
             "type": "node",
-            "id": 11012417605,
-            "lat": 51.223016,
-            "lon": 18.5701153,
-            "timestamp": "2023-06-28T13:52:41Z",
-            "version": 1,
-            "changeset": 137880803,
-            "user": "GOKOWieluń",
-            "uid": 19710469,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "ul. Zamenhofa 17",
-                "defibrillator:location:en": "W gablocie, przy wejściu do budynku.",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
             "id": 11012417607,
             "lat": 51.2303692,
             "lon": 18.5775032,
@@ -114309,6 +114291,43 @@
                 "access": "yes",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11248716440,
+            "lat": 51.3533181,
+            "lon": 18.823484,
+            "timestamp": "2023-10-08T17:35:22Z",
+            "version": 1,
+            "changeset": 142314450,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-10-08",
+                "defibrillator:location:pl": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Konopnica.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11248752137,
+            "lat": 51.7712356,
+            "lon": 19.4599056,
+            "timestamp": "2023-10-08T17:47:22Z",
+            "version": 1,
+            "changeset": 142314450,
+            "user": "Defibrylatorek",
+            "uid": 18245510,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-10-08",
+                "defibrillator:location:pl": "Szatnia Filharmonii",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
