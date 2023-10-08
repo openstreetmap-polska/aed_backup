@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-08T18:32:15Z",
-        "timestamp_areas_base": "2023-10-08T13:44:16Z",
+        "timestamp_osm_base": "2023-10-08T19:32:36Z",
+        "timestamp_areas_base": "2023-10-08T18:30:08Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -49032,23 +49032,6 @@
         },
         {
             "type": "node",
-            "id": 9568713217,
-            "lat": 51.2237614,
-            "lon": 18.5803153,
-            "timestamp": "2022-03-10T12:57:19Z",
-            "version": 1,
-            "changeset": 118321630,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Defibrylator AED znajduje się w punkcie informacyjnym Kaufland.",
-                "emergency": "defibrillator",
-                "indoor": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 9568725917,
             "lat": 54.189033,
             "lon": 15.6042399,
@@ -67784,15 +67767,17 @@
             "id": 9902536618,
             "lat": 54.5949319,
             "lon": 18.366074,
-            "timestamp": "2022-07-21T19:27:26Z",
-            "version": 1,
-            "changeset": 123906983,
+            "timestamp": "2023-10-08T19:10:47Z",
+            "version": 2,
+            "changeset": 142317584,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "na ścianie obok kas, przy wejściu do basenu sportowego",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/M_3xEyG-5nEgcv9Hi3dEng.webp",
+                "image:license": "CC0",
                 "indoor": "yes"
             }
         },
@@ -114298,17 +114283,19 @@
             "id": 11248716440,
             "lat": 51.3533181,
             "lon": 18.823484,
-            "timestamp": "2023-10-08T17:35:22Z",
-            "version": 1,
-            "changeset": 142314450,
+            "timestamp": "2023-10-08T19:22:32Z",
+            "version": 3,
+            "changeset": 142317957,
             "user": "Defibrylatorek",
             "uid": 18245510,
             "tags": {
                 "access": "private",
                 "check_date": "2023-10-08",
-                "defibrillator:location:pl": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Konopnica.",
+                "defibrillator:location": "Defibrylator AED znajduje się na wyposażeniu pojazdu ratowniczo-gaśniczego jednostki OSP Konopnica",
+                "description": "Dostęp do AED możliwy poprzez zadzwonienie na numer alarmowy 112 i zdalne uruchomienie syreny alarmowej lub poprzez ręczne uruchomienie syreny alarmowej za pomocą wciśnięcia i długiego przytrzymania przycisku alarmowego znajdującego się na budynku remizy.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "OSP Konopnica"
             }
         },
         {
