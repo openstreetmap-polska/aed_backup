@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-09T12:32:25Z",
-        "timestamp_areas_base": "2023-10-09T08:40:56Z",
+        "timestamp_osm_base": "2023-10-09T13:32:31Z",
+        "timestamp_areas_base": "2023-10-09T12:32:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114325,15 +114325,15 @@
             "id": 11250901048,
             "lat": 50.7802877,
             "lon": 17.8118733,
-            "timestamp": "2023-10-09T12:18:03Z",
-            "version": 1,
-            "changeset": 142347330,
+            "timestamp": "2023-10-09T13:12:24Z",
+            "version": 2,
+            "changeset": 142349675,
             "user": "Sebastian | Yanosik",
             "uid": 20170873,
             "tags": {
                 "defibrillator:location": "Ośrodek Zdrowia",
                 "emergency": "defibrillator",
-                "fixme": "do uzupełnienia szczegóły położenia i dostępności"
+                "opening_hours": "Mo-Fr 08:00-18:00"
             }
         },
         {
