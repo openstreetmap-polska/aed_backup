@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-11T10:32:15Z",
-        "timestamp_areas_base": "2023-10-11T07:18:16Z",
+        "timestamp_osm_base": "2023-10-11T11:32:33Z",
+        "timestamp_areas_base": "2023-10-11T08:21:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114412,6 +114412,26 @@
                 "indoor": "yes",
                 "level": "0",
                 "phone": "+48322077118"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11254918137,
+            "lat": 52.7631922,
+            "lon": 21.0167124,
+            "timestamp": "2023-10-11T11:04:50Z",
+            "version": 1,
+            "changeset": 142431576,
+            "user": "OSP Trzciniec",
+            "uid": 20449840,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Defibrylator na wyposażeniu wozu strażackiego OSP Trzciniec",
+                "defibrillator:location:en": "Remiza OSP",
+                "emergency": "defibrillator",
+                "emergency:phone": "+48602718141",
+                "indoor": "yes",
+                "phone": "+48602718141"
             }
         },
         {
