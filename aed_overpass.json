@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-11T14:31:56Z",
-        "timestamp_areas_base": "2023-10-11T13:08:35Z",
+        "timestamp_osm_base": "2023-10-11T15:32:20Z",
+        "timestamp_areas_base": "2023-10-11T12:02:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114432,6 +114432,34 @@
                 "emergency:phone": "+48602718141",
                 "indoor": "yes",
                 "phone": "+48602718141"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11255276123,
+            "lat": 53.0373153,
+            "lon": 18.6571219,
+            "timestamp": "2023-10-11T15:19:09Z",
+            "version": 1,
+            "changeset": 142441352,
+            "user": "Barroszt",
+            "uid": 16972410,
+            "tags": {
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11255276124,
+            "lat": 53.037659,
+            "lon": 18.6577253,
+            "timestamp": "2023-10-11T15:19:09Z",
+            "version": 1,
+            "changeset": 142441352,
+            "user": "Barroszt",
+            "uid": 16972410,
+            "tags": {
+                "emergency": "defibrillator"
             }
         },
         {
