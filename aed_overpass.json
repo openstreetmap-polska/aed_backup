@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-11T06:31:58Z",
+        "timestamp_osm_base": "2023-10-11T07:31:43Z",
         "timestamp_areas_base": "2023-10-11T03:39:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114392,6 +114392,26 @@
                 "indoor": "yes",
                 "operator": "OSP DRWAŁY",
                 "ref": "36"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11254488442,
+            "lat": 50.2536855,
+            "lon": 19.0250184,
+            "timestamp": "2023-10-11T06:38:09Z",
+            "version": 1,
+            "changeset": 142421345,
+            "user": "The Polish",
+            "uid": 1863681,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-11",
+                "defibrillator:location:pl": "W pomieszczeniu ochrony budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48322077118"
             }
         },
         {
