@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-12T10:32:00Z",
-        "timestamp_areas_base": "2023-10-12T08:20:16Z",
+        "timestamp_osm_base": "2023-10-12T11:31:59Z",
+        "timestamp_areas_base": "2023-10-12T07:09:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114467,9 +114467,9 @@
             "id": 11257200838,
             "lat": 52.2179542,
             "lon": 18.7668848,
-            "timestamp": "2023-10-12T10:11:35Z",
-            "version": 1,
-            "changeset": 142471712,
+            "timestamp": "2023-10-12T11:25:32Z",
+            "version": 2,
+            "changeset": 142475000,
             "user": "OSP BARŁOGI",
             "uid": 20457244,
             "tags": {
@@ -114477,6 +114477,8 @@
                 "check_date": "2023-10-12",
                 "defibrillator:location:pl": "Samochód Ratownictwa Technicznego",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/9AwWGjfIbu1Ah4bSapildQ.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "phone": "669 109 939"
             }
