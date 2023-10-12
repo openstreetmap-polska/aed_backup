@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-12T11:31:59Z",
-        "timestamp_areas_base": "2023-10-12T07:09:30Z",
+        "timestamp_osm_base": "2023-10-12T12:32:08Z",
+        "timestamp_areas_base": "2023-10-12T08:20:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114481,6 +114481,24 @@
                 "image:license": "CC0",
                 "indoor": "yes",
                 "phone": "669 109 939"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11257477037,
+            "lat": 53.0075809,
+            "lon": 20.8987371,
+            "timestamp": "2023-10-12T12:17:14Z",
+            "version": 1,
+            "changeset": 142477223,
+            "user": "ABB_PRZASNYSZ",
+            "uid": 20457704,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Recepcja ABB",
+                "defibrillator:location:en": "ABB Reception",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
