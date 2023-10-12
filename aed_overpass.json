@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-12T16:32:38Z",
-        "timestamp_areas_base": "2023-10-12T13:07:13Z",
+        "timestamp_osm_base": "2023-10-12T17:32:42Z",
+        "timestamp_areas_base": "2023-10-12T16:38:48Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50162,11 +50162,11 @@
         {
             "type": "node",
             "id": 9570692547,
-            "lat": 51.6671297,
-            "lon": 16.0907767,
-            "timestamp": "2023-09-27T07:23:46Z",
-            "version": 2,
-            "changeset": 141804537,
+            "lat": 51.6671364,
+            "lon": 16.090678,
+            "timestamp": "2023-10-12T16:59:45Z",
+            "version": 3,
+            "changeset": 142489262,
             "user": "Catchfly",
             "uid": 20338435,
             "tags": {
@@ -50174,7 +50174,7 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "Muzeum Archeologiczno-Historyczne"
+                "operator": "Urząd Miasta Głogów"
             }
         },
         {
