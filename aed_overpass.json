@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-12T19:32:36Z",
-        "timestamp_areas_base": "2023-10-12T16:38:48Z",
+        "timestamp_osm_base": "2023-10-12T20:32:19Z",
+        "timestamp_areas_base": "2023-10-12T17:55:04Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68181,9 +68181,9 @@
             "id": 9917406117,
             "lat": 51.2453763,
             "lon": 22.5427916,
-            "timestamp": "2023-10-12T18:16:01Z",
-            "version": 2,
-            "changeset": 142492167,
+            "timestamp": "2023-10-12T19:57:53Z",
+            "version": 3,
+            "changeset": 142495493,
             "user": "charl3s",
             "uid": 8019013,
             "tags": {
@@ -68191,6 +68191,8 @@
                 "defibrillator:location": "w korytarzu Instytutu Informatyki UMCS",
                 "defibrillator:location:en": "in the coridor of IT institute UMCS",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/50PDfdg_-cnIM8YaSHi5EQ.webp",
+                "image:license": "CC0",
                 "indoor": "yes"
             }
         },
