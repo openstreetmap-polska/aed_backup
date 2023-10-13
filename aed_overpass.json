@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-13T06:32:02Z",
-        "timestamp_areas_base": "2023-10-13T03:28:15Z",
+        "timestamp_osm_base": "2023-10-13T07:31:45Z",
+        "timestamp_areas_base": "2023-10-13T02:08:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114218,9 +114218,9 @@
             "id": 11240454737,
             "lat": 51.6396821,
             "lon": 22.444595,
-            "timestamp": "2023-10-05T05:31:16Z",
-            "version": 2,
-            "changeset": 142171666,
+            "timestamp": "2023-10-13T07:16:32Z",
+            "version": 3,
+            "changeset": 142509037,
             "user": "charl3s",
             "uid": 8019013,
             "tags": {
@@ -114228,6 +114228,8 @@
                 "check_date": "2023-10-05",
                 "defibrillator:location": "Na ścianie budynku straży między bramami wyjazdowymi.",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/iritfL2I9scDCxOtSCG3lg.webp",
+                "image:license": "CC0",
                 "indoor": "no"
             }
         },
