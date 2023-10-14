@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-14T11:32:14Z",
-        "timestamp_areas_base": "2023-10-14T08:07:27Z",
+        "timestamp_osm_base": "2023-10-14T12:31:49Z",
+        "timestamp_areas_base": "2023-10-14T11:22:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -78535,15 +78535,17 @@
             "id": 10241085309,
             "lat": 52.2287183,
             "lon": 20.9846948,
-            "timestamp": "2022-12-05T21:28:42Z",
-            "version": 1,
-            "changeset": 129757932,
+            "timestamp": "2023-10-14T11:35:21Z",
+            "version": 2,
+            "changeset": 142572810,
             "user": "starsep",
             "uid": 11306447,
             "tags": {
                 "access": "customers",
                 "defibrillator:location:pl": "Na korytarzu w podziemiach Warsaw Hub, poziom -1",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/ZEnE9qdMEESTgCHYdDaFZA.webp",
+                "image:license": "CC0",
                 "indoor": "yes"
             }
         },
@@ -101566,20 +101568,23 @@
         {
             "type": "node",
             "id": 10841451942,
-            "lat": 49.7552074,
-            "lon": 19.0026446,
-            "timestamp": "2023-04-26T09:38:45Z",
-            "version": 3,
-            "changeset": 135376986,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 49.755228,
+            "lon": 19.0026584,
+            "timestamp": "2023-10-14T12:11:34Z",
+            "version": 4,
+            "changeset": 142573914,
+            "user": "Carpathians",
+            "uid": 17665316,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "W schronisku PTTK",
+                "defibrillator:location": "Hol za głównym wejściem na parterze schroniska PTTK",
                 "emergency": "defibrillator",
                 "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
                 "operator": "Schronisko PTTK Szyndzielnia",
-                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html"
+                "source": "https://miasta.tokfm.pl/miasta_tokfm/7,185211,29696233,w-gorach-jesli-szlaki-przysypie-snieg-ratownicy-moga-sie.html",
+                "wheelchair": "limited"
             }
         },
         {
