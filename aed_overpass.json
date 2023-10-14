@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-14T14:32:14Z",
-        "timestamp_areas_base": "2023-10-14T12:55:34Z",
+        "timestamp_osm_base": "2023-10-14T15:31:44Z",
+        "timestamp_areas_base": "2023-10-14T11:22:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114511,6 +114511,25 @@
                 "defibrillator:location:pl": "Na bocznej ścianie budynku Ośrodka Pomocy Społecznej (od strony parkingu)",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11262825737,
+            "lat": 50.0181818,
+            "lon": 21.9865009,
+            "timestamp": "2023-10-14T15:10:47Z",
+            "version": 1,
+            "changeset": 142580940,
+            "user": "Pooh01",
+            "uid": 199701,
+            "tags": {
+                "access": "private",
+                "check_date": "2023-10-14",
+                "defibrillator:location:pl": "Na ścianie obok portierni.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
