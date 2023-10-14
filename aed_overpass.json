@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-14T07:31:45Z",
-        "timestamp_areas_base": "2023-10-14T06:37:12Z",
+        "timestamp_osm_base": "2023-10-14T08:32:16Z",
+        "timestamp_areas_base": "2023-10-14T03:24:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -45040,24 +45040,6 @@
                 "defibrillator:location:en": "Rescue and firefighting car",
                 "emergency": "defibrillator",
                 "operator": "OSP Galewice"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9532275360,
-            "lat": 50.0005434,
-            "lon": 19.61177,
-            "timestamp": "2022-02-24T12:22:22Z",
-            "version": 1,
-            "changeset": 117810180,
-            "user": "Marek-M",
-            "uid": 598860,
-            "tags": {
-                "access": "private",
-                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
-                "defibrillator:location:en": "Rescue and firefighting car",
-                "emergency": "defibrillator",
-                "operator": "OSP Rusocice"
             }
         },
         {
@@ -114506,6 +114488,24 @@
                 "defibrillator:location:en": "ABB Reception",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11262061237,
+            "lat": 52.4753884,
+            "lon": 16.8787781,
+            "timestamp": "2023-10-14T08:08:59Z",
+            "version": 1,
+            "changeset": 142565941,
+            "user": "prmtl",
+            "uid": 6248872,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-10",
+                "defibrillator:location:pl": "Na bocznej ścianie budynku Ośrodka Pomocy Społecznej (od strony parkingu)",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
