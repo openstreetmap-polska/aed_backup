@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-15T13:32:31Z",
+        "timestamp_osm_base": "2023-10-15T14:32:11Z",
         "timestamp_areas_base": "2023-10-15T11:07:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114534,6 +114534,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11264656070,
+            "lat": 50.0354105,
+            "lon": 19.9900361,
+            "timestamp": "2023-10-15T13:58:25Z",
+            "version": 2,
+            "changeset": 142619228,
+            "user": "Bartek Nowotarski",
+            "uid": 20473069,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Kacza 39B, na osiedlu. Dostęp po kontakcie telefonicznym całą dobę:\n531 306 743\n791 606 971",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48531306743"
             }
         },
         {
