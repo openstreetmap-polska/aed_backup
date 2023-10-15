@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-15T11:31:51Z",
-        "timestamp_areas_base": "2023-10-15T07:58:46Z",
+        "timestamp_osm_base": "2023-10-15T12:31:46Z",
+        "timestamp_areas_base": "2023-10-15T11:07:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -55326,15 +55326,19 @@
             "id": 9623784817,
             "lat": 50.0284455,
             "lon": 22.001675,
-            "timestamp": "2022-03-30T12:20:22Z",
-            "version": 1,
-            "changeset": 119114309,
+            "timestamp": "2023-10-15T12:14:24Z",
+            "version": 2,
+            "changeset": 142615045,
             "user": "Pooh01",
             "uid": 199701,
             "tags": {
                 "access": "private",
+                "check_date": "2023-10-15",
+                "defibrillator:location:pl": "W głębi korytarza przy recepcji.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "level": "0",
+                "phone": "+48 177788199"
             }
         },
         {
