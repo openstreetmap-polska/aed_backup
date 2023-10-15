@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-15T22:31:44Z",
-        "timestamp_areas_base": "2023-10-15T20:37:25Z",
+        "timestamp_osm_base": "2023-10-15T23:32:16Z",
+        "timestamp_areas_base": "2023-10-15T22:17:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114557,6 +114557,22 @@
                 "indoor": "yes",
                 "opening_hours": "24/7",
                 "phone": "+48531306743"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11265591676,
+            "lat": 50.0563969,
+            "lon": 19.926428,
+            "timestamp": "2023-10-15T22:48:47Z",
+            "version": 1,
+            "changeset": 142638001,
+            "user": "uprkos",
+            "uid": 11239973,
+            "tags": {
+                "defibrillator:location": "Szatnia Teatru Stu.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
