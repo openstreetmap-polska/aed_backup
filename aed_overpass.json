@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-16T17:32:15Z",
+        "timestamp_osm_base": "2023-10-16T18:31:45Z",
         "timestamp_areas_base": "2023-10-16T15:38:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -113749,18 +113749,23 @@
         {
             "type": "node",
             "id": 11227263584,
-            "lat": 52.1396831,
-            "lon": 20.8300445,
-            "timestamp": "2023-09-29T14:39:41Z",
-            "version": 1,
-            "changeset": 141916081,
-            "user": "tomzyl",
-            "uid": 530338,
+            "lat": 52.1396832,
+            "lon": 20.8300388,
+            "timestamp": "2023-10-16T18:10:43Z",
+            "version": 2,
+            "changeset": 142678221,
+            "user": "NieWnen",
+            "uid": 3885790,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Między toaletą męską i dla niepelnosprawnych",
+                "defibrillator:location:en": "On the toilet building wall between men and disabled doors",
                 "emergency": "defibrillator",
-                "note": "w trakcie instalacji. stan na dzień 29.09"
+                "indoor": "no",
+                "level": "0",
+                "source": "local knowledge",
+                "start_date": "2023-10-16",
+                "wheelchair": "yes"
             }
         },
         {
@@ -114573,6 +114578,28 @@
                 "defibrillator:location": "Szatnia Teatru Stu.",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11267493988,
+            "lat": 52.1405047,
+            "lon": 20.7908971,
+            "timestamp": "2023-10-16T18:08:20Z",
+            "version": 1,
+            "changeset": 142678145,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku toalety",
+                "defibrillator:location:en": "On the toilet building wall",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "level": "0",
+                "source": "local knowledge",
+                "start_date": "2023-10-16",
+                "wheelchair": "yes"
             }
         },
         {
