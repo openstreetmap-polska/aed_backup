@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-17T22:31:44Z",
-        "timestamp_areas_base": "2023-10-17T20:15:06Z",
+        "timestamp_osm_base": "2023-10-17T23:32:21Z",
+        "timestamp_areas_base": "2023-10-17T22:03:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -69775,18 +69775,18 @@
             "id": 9984004128,
             "lat": 49.5400126,
             "lon": 19.3166479,
-            "timestamp": "2022-12-25T12:27:17Z",
-            "version": 2,
-            "changeset": 130480765,
-            "user": "Freerando",
-            "uid": 6475743,
+            "timestamp": "2023-10-17T23:23:23Z",
+            "version": 3,
+            "changeset": 142733556,
+            "user": "fuchspl",
+            "uid": 601125,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Stacja Ratunkowa GB GOPR - Hala Miziowa",
                 "description": "Stacja Ratunkowa GB GOPR - Hala Miziowa",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "operator": "Grupa Beszkidzka GOPR",
+                "operator": "Grupa Beskidzka GOPR",
                 "phone": "985"
             }
         },
