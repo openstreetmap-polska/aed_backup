@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-17T13:32:15Z",
-        "timestamp_areas_base": "2023-10-17T12:26:15Z",
+        "timestamp_osm_base": "2023-10-17T14:32:05Z",
+        "timestamp_areas_base": "2023-10-17T10:39:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -68032,15 +68032,16 @@
             "id": 9907852202,
             "lat": 50.0551428,
             "lon": 19.8540319,
-            "timestamp": "2022-07-24T16:57:22Z",
-            "version": 1,
-            "changeset": 124017375,
-            "user": "Marek-M",
-            "uid": 598860,
+            "timestamp": "2023-10-17T14:19:29Z",
+            "version": 2,
+            "changeset": 142715771,
+            "user": "Carpathians",
+            "uid": 17665316,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie zewnętrznej budynku przy bramkach wejściowych do ZOO",
                 "emergency": "defibrillator",
+                "level": "0",
                 "opening_hours": "24/7",
                 "wheelchair": "yes"
             }
@@ -114590,14 +114591,14 @@
             "id": 11269130645,
             "lat": 50.052572,
             "lon": 19.8511931,
-            "timestamp": "2023-10-17T13:21:47Z",
-            "version": 1,
-            "changeset": 142713154,
+            "timestamp": "2023-10-17T13:36:10Z",
+            "version": 2,
+            "changeset": 142713742,
             "user": "Carpathians",
             "uid": 17665316,
             "tags": {
                 "access": "yes",
-                "defibrillator:location": "Kasa sezonowa ZOO Kraków",
+                "defibrillator:location": "Na ścianie zewnętrznej budynku kasy sezonowej ZOO Kraków",
                 "emergency": "defibrillator",
                 "level": "0",
                 "operator": "ZOO Kraków",
