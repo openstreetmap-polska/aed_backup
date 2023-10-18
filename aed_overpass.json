@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-18T07:32:05Z",
-        "timestamp_areas_base": "2023-10-18T05:44:59Z",
+        "timestamp_osm_base": "2023-10-18T08:32:30Z",
+        "timestamp_areas_base": "2023-10-18T07:40:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114604,6 +114604,25 @@
                 "defibrillator:location": "Przy wejściu do budynku",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11271139669,
+            "lat": 54.4311743,
+            "lon": 18.5860897,
+            "timestamp": "2023-10-18T08:03:03Z",
+            "version": 1,
+            "changeset": 142748808,
+            "user": "ERGO Hestii",
+            "uid": 20481894,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie przy drzwiach wejściowych",
+                "defibrillator:location:en": "on the wall near the entrance door",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 58 555 60 33"
             }
         },
         {
