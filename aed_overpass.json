@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-20T07:31:55Z",
-        "timestamp_areas_base": "2023-10-20T03:06:46Z",
+        "timestamp_osm_base": "2023-10-20T08:31:45Z",
+        "timestamp_areas_base": "2023-10-20T05:48:39Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114629,9 +114629,9 @@
             "id": 11274631069,
             "lat": 54.3542194,
             "lon": 16.6761739,
-            "timestamp": "2023-10-19T13:21:03Z",
-            "version": 1,
-            "changeset": 142815398,
+            "timestamp": "2023-10-20T07:37:22Z",
+            "version": 2,
+            "changeset": 142855002,
             "user": "Nadleśnictwo Sławno",
             "uid": 20486304,
             "tags": {
@@ -114639,7 +114639,9 @@
                 "defibrillator:location": "Po wejściu do budynku, w lewym skrzydle na ścianie.",
                 "defibrillator:location:en": "Inside the building, in the left hall from the entrance.",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Fr 07:00-15:30",
+                "operator": "Nadleśnictwo Sławno"
             }
         },
         {
