@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-20T12:32:15Z",
-        "timestamp_areas_base": "2023-10-20T07:50:30Z",
+        "timestamp_osm_base": "2023-10-20T13:31:51Z",
+        "timestamp_areas_base": "2023-10-20T12:37:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114642,6 +114642,25 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-15:30",
                 "operator": "Nadleśnictwo Sławno"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11277336874,
+            "lat": 52.2851527,
+            "lon": 20.6224304,
+            "timestamp": "2023-10-20T13:12:36Z",
+            "version": 1,
+            "changeset": 142870003,
+            "user": "Bartosz666",
+            "uid": 20489755,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-20",
+                "defibrillator:location:en": "costam",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48111222333"
             }
         },
         {
