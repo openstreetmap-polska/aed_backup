@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-22T19:31:56Z",
-        "timestamp_areas_base": "2023-10-22T14:45:54Z",
+        "timestamp_osm_base": "2023-10-22T20:31:45Z",
+        "timestamp_areas_base": "2023-10-22T19:29:46Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114700,6 +114700,23 @@
                 "defibrillator:location:pl": "Budynek OSP w Lachowicach",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11282123557,
+            "lat": 50.0610799,
+            "lon": 19.9708173,
+            "timestamp": "2023-10-22T20:16:02Z",
+            "version": 1,
+            "changeset": 142985359,
+            "user": "geoyolog",
+            "uid": 9935659,
+            "tags": {
+                "defibrillator:location": "naprzeciwko rejestracji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Medicover"
             }
         },
         {
