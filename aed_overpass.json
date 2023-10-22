@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-22T10:31:46Z",
-        "timestamp_areas_base": "2023-10-22T05:20:00Z",
+        "timestamp_osm_base": "2023-10-22T11:32:13Z",
+        "timestamp_areas_base": "2023-10-22T10:02:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -3933,12 +3933,14 @@
             "id": 8730865155,
             "lat": 50.2279912,
             "lon": 19.2756277,
-            "timestamp": "2021-05-14T11:38:26Z",
-            "version": 1,
-            "changeset": 104682136,
-            "user": "Mateusz Konieczny",
-            "uid": 1722488,
+            "timestamp": "2023-10-22T10:31:49Z",
+            "version": 2,
+            "changeset": 142961494,
+            "user": "Carpathians",
+            "uid": 17665316,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na zewnętrznej ścianie budynku GEOsfery, od strony parkingu",
                 "emergency": "defibrillator",
                 "location": "outdoor"
             }
