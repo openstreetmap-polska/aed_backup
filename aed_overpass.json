@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-23T15:32:00Z",
+        "timestamp_osm_base": "2023-10-23T16:32:15Z",
         "timestamp_areas_base": "2023-10-23T14:27:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114828,16 +114828,16 @@
             "id": 11283481269,
             "lat": 54.047871,
             "lon": 15.6552987,
-            "timestamp": "2023-10-23T12:23:52Z",
-            "version": 1,
-            "changeset": 143016182,
+            "timestamp": "2023-10-23T16:06:38Z",
+            "version": 2,
+            "changeset": 143025290,
             "user": "KerimPL",
             "uid": 14682033,
             "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na ścianie frontowej budynku, przy wejściu do GOPS",
+                "defibrillator:location": "Na ścianie frontowej budynku, przy wejściu do GOPS.",
                 "emergency": "defibrillator",
-                "indoor": "no"
+                "indoor": "no",
+                "operator": "Gmina Gościno"
             }
         },
         {
