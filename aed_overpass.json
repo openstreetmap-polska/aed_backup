@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-23T11:32:15Z",
+        "timestamp_osm_base": "2023-10-23T12:31:46Z",
         "timestamp_areas_base": "2023-10-23T09:40:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114805,6 +114805,39 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48 22 724 61 65"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11283406694,
+            "lat": 51.9672677,
+            "lon": 21.3952955,
+            "timestamp": "2023-10-23T11:39:02Z",
+            "version": 1,
+            "changeset": 143013981,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "na budynku OSP",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11283481269,
+            "lat": 54.047871,
+            "lon": 15.6552987,
+            "timestamp": "2023-10-23T12:23:52Z",
+            "version": 1,
+            "changeset": 143016182,
+            "user": "KerimPL",
+            "uid": 14682033,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie frontowej budynku, przy wejściu do GOPS",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
