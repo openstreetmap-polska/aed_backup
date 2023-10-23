@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-23T10:32:30Z",
+        "timestamp_osm_base": "2023-10-23T11:32:15Z",
         "timestamp_areas_base": "2023-10-23T09:40:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114786,6 +114786,25 @@
                 "emergency": "defibrillator",
                 "level": "0",
                 "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-15:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11283372069,
+            "lat": 52.105722,
+            "lon": 20.6890246,
+            "timestamp": "2023-10-23T11:16:07Z",
+            "version": 1,
+            "changeset": 143013051,
+            "user": "Powerek38",
+            "uid": 274027,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie po lewej stronie przy wejściu",
+                "defibrillator:location:en": "On the wall on the left-hand side, right next to the entrance.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 22 724 61 65"
             }
         },
         {
