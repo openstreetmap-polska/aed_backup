@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-23T08:32:15Z",
+        "timestamp_osm_base": "2023-10-23T09:31:45Z",
         "timestamp_areas_base": "2023-10-23T04:57:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114769,6 +114769,23 @@
                 "defibrillator:location": "na wyposażeniu OSP Czarnochowice",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11283044868,
+            "lat": 53.7872809,
+            "lon": 20.5252536,
+            "timestamp": "2023-10-23T08:45:03Z",
+            "version": 1,
+            "changeset": 143006358,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w siedzibie Izby Administracji Skarbowej, przy wejściu, na parterze",
+                "emergency": "defibrillator",
+                "level": "0",
+                "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-15:00"
             }
         },
         {
