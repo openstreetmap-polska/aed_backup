@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-23T06:31:45Z",
-        "timestamp_areas_base": "2023-10-23T02:38:45Z",
+        "timestamp_osm_base": "2023-10-23T07:32:15Z",
+        "timestamp_areas_base": "2023-10-23T04:57:26Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114737,6 +114737,38 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11282815053,
+            "lat": 49.658609,
+            "lon": 21.2548478,
+            "timestamp": "2023-10-23T07:02:18Z",
+            "version": 1,
+            "changeset": 143001965,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "Na ścianie budynku Ochotniczej Straży Pożarnej",
+                "emergency": "defibrillator",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11282911795,
+            "lat": 50.00676,
+            "lon": 20.0691022,
+            "timestamp": "2023-10-23T07:27:49Z",
+            "version": 1,
+            "changeset": 143003020,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "na wyposażeniu OSP Czarnochowice",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia"
             }
         },
         {
