@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-24T16:32:21Z",
-        "timestamp_areas_base": "2023-10-24T12:05:45Z",
+        "timestamp_osm_base": "2023-10-24T17:32:02Z",
+        "timestamp_areas_base": "2023-10-24T14:19:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102671,24 +102671,6 @@
         },
         {
             "type": "node",
-            "id": 10888996605,
-            "lat": 49.8066077,
-            "lon": 21.4365059,
-            "timestamp": "2023-05-14T11:53:53Z",
-            "version": 3,
-            "changeset": 136082072,
-            "user": "mueschel",
-            "uid": 616774,
-            "tags": {
-                "defibrillator:location": "Dostępny na samochodach ratowniczo-gaśniczych",
-                "emergency": "defibrillator",
-                "emergency_telephone_code": "112",
-                "indoor": "yes",
-                "operator": "Ochotnicza Straż Pozarna w Kołaczycach"
-            }
-        },
-        {
-            "type": "node",
             "id": 10891525055,
             "lat": 50.0750994,
             "lon": 19.9977203,
@@ -107251,26 +107233,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0.5"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11024806056,
-            "lat": 49.806669,
-            "lon": 21.4365014,
-            "timestamp": "2023-07-04T06:15:08Z",
-            "version": 1,
-            "changeset": 138090478,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku OSP.",
-                "emergency": "defibrillator",
-                "emergency_telephone_code": "112",
-                "indoor": "yes",
-                "opening_hours": "24/7",
-                "operator": "Ochotnicza Straż Pozarna w Kołaczycach"
             }
         },
         {
