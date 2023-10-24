@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-24T06:31:45Z",
-        "timestamp_areas_base": "2023-10-24T02:35:11Z",
+        "timestamp_osm_base": "2023-10-24T07:32:00Z",
+        "timestamp_areas_base": "2023-10-24T04:45:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114856,6 +114856,27 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "location": "indoor"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11285521169,
+            "lat": 52.2222925,
+            "lon": 20.9333522,
+            "timestamp": "2023-10-24T06:58:44Z",
+            "version": 2,
+            "changeset": 143049560,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-24",
+                "defibrillator:location:en": "On the wall on the right from entrance. Next to the reception desk",
+                "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/mDuU2_KOaxyXrRc8S4vo6w.webp",
+                "image:license": "CC0",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
