@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-24T04:31:45Z",
+        "timestamp_osm_base": "2023-10-24T05:32:30Z",
         "timestamp_areas_base": "2023-10-24T02:35:11Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -94112,14 +94112,15 @@
             "id": 10693798249,
             "lat": 52.2353604,
             "lon": 20.995721,
-            "timestamp": "2023-02-25T21:36:08Z",
-            "version": 1,
-            "changeset": 133022938,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-10-24T05:16:57Z",
+            "version": 2,
+            "changeset": 143046762,
+            "user": "Slideq",
+            "uid": 20082649,
             "tags": {
                 "access": "customers",
                 "check_date": "2023-02-19",
+                "defibrillator:location": "Urządzenie dostępne w punkcie sanitarnym na hali pływalni",
                 "defibrillator:location:en": "The device is available at the sanitary point in the swimming pool hall.",
                 "defibrillator:location:pl": "Urządzenie dostępne w punkcie sanitarnym na hali pływalni.",
                 "emergency": "defibrillator",
@@ -94128,10 +94129,10 @@
                 "manufacturer": "Samerytanin",
                 "note": "Data wytworzenia oraz pozyskania informacji publicznej: 2023-02-19 (nie usuwać, wymóg warunków korzystania z danych).",
                 "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:30-19:30; Su 07:30-15:00",
-                "operator": "Aktywna Warszawa",
+                "operator": "Stołeczne Centrum Sportu AKTYWNA WARSZAWA",
                 "phone": "+48 22 162 73 70",
                 "ref:api-um-warszawa-pl": "1308",
-                "source": "Miasto Stołeczne Warszawa; https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
+                "source": "Miasto Stołeczne Warszawa;https://api.um.warszawa.pl (serwis Otwarte dane po warszawsku)"
             }
         },
         {
