@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-24T17:32:02Z",
+        "timestamp_osm_base": "2023-10-24T18:31:56Z",
         "timestamp_areas_base": "2023-10-24T14:19:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -114876,6 +114876,24 @@
                 "defibrillator:location": "Ściana frontowa remizy OSP Tajęcina",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11286828769,
+            "lat": 49.8066127,
+            "lon": 21.4365366,
+            "timestamp": "2023-10-24T17:39:02Z",
+            "version": 1,
+            "changeset": 143076432,
+            "user": "Straż 998",
+            "uid": 16015182,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na samochodach Ratowniczo- gaśniczych",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
             }
         },
         {
