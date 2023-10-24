@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-24T11:32:00Z",
-        "timestamp_areas_base": "2023-10-24T09:29:45Z",
+        "timestamp_osm_base": "2023-10-24T12:31:30Z",
+        "timestamp_areas_base": "2023-10-24T07:18:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114877,6 +114877,26 @@
                 "image:license": "CC0",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11286055869,
+            "lat": 54.5586313,
+            "lon": 18.5082899,
+            "timestamp": "2023-10-24T11:39:10Z",
+            "version": 2,
+            "changeset": 143060631,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-24",
+                "defibrillator:location:pl": "Przy wejściu do Działu Modernizacji i Remontów OPEC",
+                "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/3MmJ5dl77lgzo-ZVnp4sIw.webp",
+                "image:license": "CC0",
+                "indoor": "no"
             }
         },
         {
