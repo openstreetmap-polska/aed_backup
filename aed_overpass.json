@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-25T17:32:23Z",
-        "timestamp_areas_base": "2023-10-25T14:06:49Z",
+        "timestamp_osm_base": "2023-10-25T18:31:56Z",
+        "timestamp_areas_base": "2023-10-25T16:58:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114928,6 +114928,24 @@
                 "defibrillator:location": "Przy wejściu głównym do szkoły",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11289388469,
+            "lat": 50.1522714,
+            "lon": 21.9541791,
+            "timestamp": "2023-10-25T18:21:06Z",
+            "version": 1,
+            "changeset": 143129221,
+            "user": "michalgwo",
+            "uid": 15803602,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Po lewej strone od wejścia",
+                "defibrillator:location:en": "On the left side from the entrance",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
