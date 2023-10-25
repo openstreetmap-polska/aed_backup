@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-25T15:31:41Z",
-        "timestamp_areas_base": "2023-10-25T12:06:00Z",
+        "timestamp_osm_base": "2023-10-25T16:32:00Z",
+        "timestamp_areas_base": "2023-10-25T14:06:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114894,6 +114894,40 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11289098557,
+            "lat": 50.9006387,
+            "lon": 14.9722977,
+            "timestamp": "2023-10-25T16:13:16Z",
+            "version": 1,
+            "changeset": 143123850,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na basenie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11289098558,
+            "lat": 50.9011682,
+            "lon": 14.9728394,
+            "timestamp": "2023-10-25T16:13:16Z",
+            "version": 1,
+            "changeset": 143123850,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy wejściu głównym do szkoły",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
