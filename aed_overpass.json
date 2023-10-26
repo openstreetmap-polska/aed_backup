@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-26T06:31:59Z",
-        "timestamp_areas_base": "2023-10-26T04:24:36Z",
+        "timestamp_osm_base": "2023-10-26T07:32:14Z",
+        "timestamp_areas_base": "2023-10-26T02:30:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114947,6 +114947,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "Mo-Su 06:00-22:00"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11290278369,
+            "lat": 53.6136251,
+            "lon": 17.7645268,
+            "timestamp": "2023-10-26T06:57:16Z",
+            "version": 1,
+            "changeset": 143146845,
+            "user": "Grzegorz_1970",
+            "uid": 2769589,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-26",
+                "defibrillator:location:pl": "Na zewnątrz budynku OSP Żalno, pomiędzy bramami garażowymi.",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
