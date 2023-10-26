@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-26T20:32:15Z",
-        "timestamp_areas_base": "2023-10-26T18:37:56Z",
+        "timestamp_osm_base": "2023-10-26T21:31:45Z",
+        "timestamp_areas_base": "2023-10-26T16:48:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114949,6 +114949,46 @@
                 "defibrillator:location:pl": "Na zewnątrz budynku OSP Żalno, pomiędzy bramami garażowymi.",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11291965769,
+            "lat": 51.7794848,
+            "lon": 19.384755,
+            "timestamp": "2023-10-26T20:54:50Z",
+            "version": 1,
+            "changeset": 143180541,
+            "user": "Paulina16",
+            "uid": 20509403,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Szkoła Podstawowa nr 169 w Łodzi ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11291968569,
+            "lat": 51.7795162,
+            "lon": 19.3847528,
+            "timestamp": "2023-10-26T20:57:30Z",
+            "version": 1,
+            "changeset": 143180609,
+            "user": "Paulina16",
+            "uid": 20509403,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Szkoła Podstawowa nr 169 w Łodzi ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
             }
         },
         {
