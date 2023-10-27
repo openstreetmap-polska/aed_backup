@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-27T18:32:00Z",
-        "timestamp_areas_base": "2023-10-27T13:47:44Z",
+        "timestamp_osm_base": "2023-10-27T19:31:59Z",
+        "timestamp_areas_base": "2023-10-27T18:37:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -69781,13 +69781,14 @@
             "id": 9984037177,
             "lat": 49.7952946,
             "lon": 19.4468618,
-            "timestamp": "2022-12-25T12:27:17Z",
-            "version": 2,
-            "changeset": 130480765,
+            "timestamp": "2023-10-27T19:11:09Z",
+            "version": 3,
+            "changeset": 143226032,
             "user": "Freerando",
             "uid": 6475743,
             "tags": {
                 "access": "private",
+                "check_date": "2023-10-27",
                 "defibrillator:location": "Stacja Ratunkowa GB GOPR - Leskowiec",
                 "description": "Stacja Ratunkowa GB GOPR - Leskowiec",
                 "emergency": "defibrillator",
