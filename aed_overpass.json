@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-27T06:32:15Z",
-        "timestamp_areas_base": "2023-10-27T02:23:14Z",
+        "timestamp_osm_base": "2023-10-27T07:31:51Z",
+        "timestamp_areas_base": "2023-10-27T04:14:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114989,6 +114989,24 @@
                 "opening_hours": "",
                 "operator": "",
                 "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11292622769,
+            "lat": 50.1390325,
+            "lon": 22.0715791,
+            "timestamp": "2023-10-27T07:28:46Z",
+            "version": 1,
+            "changeset": 143197252,
+            "user": "Artur44",
+            "uid": 20510589,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "AED znajduję się na elewacji frontowej budynku Ochotniczej Straży Pożarnej w Stobiernej, Stobierna 347",
+                "defibrillator:location:en": "The AED is located on the front façade of the Volunteer Fire Department building in Stobierna, Stobierna 347",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
