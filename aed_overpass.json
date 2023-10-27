@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-27T11:31:43Z",
+        "timestamp_osm_base": "2023-10-27T12:32:06Z",
         "timestamp_areas_base": "2023-10-27T08:56:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115029,6 +115029,149 @@
                 "phone": "+48586734202",
                 "ref": "23D98100036",
                 "start_date": "27.10.2023"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090269,
+            "lat": 50.0866721,
+            "lon": 22.1061954,
+            "timestamp": "2023-10-27T12:10:01Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Frontowa ściana pomiędzy bramami",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090270,
+            "lat": 50.0914208,
+            "lon": 21.9948803,
+            "timestamp": "2023-10-27T12:13:41Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Wejście frontowe do Ośrodka zdrowia",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090271,
+            "lat": 50.0781892,
+            "lon": 22.0350844,
+            "timestamp": "2023-10-27T12:14:53Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Dom ludowy Trzebownisko, front budynku, obok wejścia do banku",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090669,
+            "lat": 50.1034736,
+            "lon": 22.118769,
+            "timestamp": "2023-10-27T12:10:40Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana frontowa remizy OSP",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090670,
+            "lat": 50.0961731,
+            "lon": 22.0640711,
+            "timestamp": "2023-10-27T12:12:07Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek remizy OSP, pomiędzy bramami garażowymi",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293090769,
+            "lat": 50.1177098,
+            "lon": 22.1119764,
+            "timestamp": "2023-10-27T12:11:08Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana frontowa budynku OSP, pomiędzy bramami",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293091269,
+            "lat": 50.1203951,
+            "lon": 22.0589334,
+            "timestamp": "2023-10-27T12:11:39Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek remizy OSP, przy wejściu do Apteki",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11293102769,
+            "lat": 50.0914758,
+            "lon": 22.0498156,
+            "timestamp": "2023-10-27T12:12:46Z",
+            "version": 1,
+            "changeset": 143208597,
+            "user": "Szymon Marszał",
+            "uid": 20511374,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Budynek remizy OSP, pomiędzy bramami garażowymi",
+                "emergency": "defibrillator",
+                "emergency:phone": "112/999",
+                "indoor": "no"
             }
         },
         {
