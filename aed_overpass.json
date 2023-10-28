@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-28T07:32:15Z",
-        "timestamp_areas_base": "2023-10-28T02:17:59Z",
+        "timestamp_osm_base": "2023-10-28T08:31:55Z",
+        "timestamp_areas_base": "2023-10-28T04:07:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115173,6 +115173,82 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112/999",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11294934569,
+            "lat": 53.6237213,
+            "lon": 21.8298118,
+            "timestamp": "2023-10-28T08:21:19Z",
+            "version": 1,
+            "changeset": 143247879,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-28",
+                "defibrillator:location:pl": "Przed ogrodzeniem szkoły.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 537182708"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11294936769,
+            "lat": 53.6185335,
+            "lon": 21.8203858,
+            "timestamp": "2023-10-28T08:23:20Z",
+            "version": 1,
+            "changeset": 143247879,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-28",
+                "defibrillator:location:pl": "Przy wejściu do budynku.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 537182708"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11294936770,
+            "lat": 53.619846,
+            "lon": 21.817426,
+            "timestamp": "2023-10-28T08:24:23Z",
+            "version": 1,
+            "changeset": 143247879,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-28",
+                "defibrillator:location:pl": "Korytarz, przy bramkach ochronnych",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11294936771,
+            "lat": 53.6299502,
+            "lon": 21.8374825,
+            "timestamp": "2023-10-28T08:24:59Z",
+            "version": 1,
+            "changeset": 143247879,
+            "user": "Mersonia",
+            "uid": 18422067,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-10-28",
+                "defibrillator:location:pl": "Przy placu zabaw, frontem do jezdni.",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "+48 537182708"
             }
         },
         {
