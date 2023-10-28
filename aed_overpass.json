@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-28T11:32:06Z",
-        "timestamp_areas_base": "2023-10-28T07:02:30Z",
+        "timestamp_osm_base": "2023-10-28T12:32:00Z",
+        "timestamp_areas_base": "2023-10-28T08:50:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -112066,18 +112066,18 @@
             "id": 11170402437,
             "lat": 50.2498651,
             "lon": 19.0047023,
-            "timestamp": "2023-09-05T19:56:01Z",
-            "version": 1,
-            "changeset": 140866737,
-            "user": "MEDAID",
-            "uid": 20115365,
+            "timestamp": "2023-10-28T11:33:17Z",
+            "version": 2,
+            "changeset": 143256557,
+            "user": "Mariusz Dykierek",
+            "uid": 238534,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "Akademia Wychowania Fizycznego im. Jerzego Kukuczki, Budynek B, ul. Mikołowska 72b, dostępny w godzinach 7-16",
                 "defibrillator:location:en": "Jerzy Kukuczka Academy of Physical Education, Building B, 72b Mikołowska St.",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "phone": "32/ 207-53-00"
+                "phone": "+48 32 207 53 00"
             }
         },
         {
