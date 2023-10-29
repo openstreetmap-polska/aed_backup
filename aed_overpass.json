@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-29T09:31:30Z",
+        "timestamp_osm_base": "2023-10-29T10:32:16Z",
         "timestamp_areas_base": "2023-10-29T08:28:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115256,9 +115256,9 @@
             "id": 11297476269,
             "lat": 50.2585526,
             "lon": 22.4199917,
-            "timestamp": "2023-10-29T09:25:32Z",
-            "version": 1,
-            "changeset": 143303350,
+            "timestamp": "2023-10-29T09:46:44Z",
+            "version": 2,
+            "changeset": 143304069,
             "user": "Hipolit mobilny",
             "uid": 13869259,
             "tags": {
@@ -115266,6 +115266,8 @@
                 "check_date": "2023-10-29",
                 "defibrillator:location:pl": "Przychodnia Lekarz Rodzinny sc - oznakowana skrzynka na ścianie koło drzwi do gabinetu zabiegowego.",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/pGF8iSwmucoHIRRX_k0K4A.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "phone": "172421179   172000129"
             }
