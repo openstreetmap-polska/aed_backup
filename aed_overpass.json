@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-29T17:32:16Z",
+        "timestamp_osm_base": "2023-10-29T18:32:32Z",
         "timestamp_areas_base": "2023-10-29T16:24:23Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115272,6 +115272,26 @@
                 "image:license": "CC0",
                 "indoor": "yes",
                 "phone": "172421179   172000129"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11298457269,
+            "lat": 50.601225,
+            "lon": 17.0413047,
+            "timestamp": "2023-10-29T18:30:32Z",
+            "version": 1,
+            "changeset": 143325742,
+            "user": "Oliwia Sopuch",
+            "uid": 20516716,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Ziębice ",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
             }
         },
         {
