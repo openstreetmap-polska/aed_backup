@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-29T08:32:23Z",
-        "timestamp_areas_base": "2023-10-29T06:54:05Z",
+        "timestamp_osm_base": "2023-10-29T09:31:30Z",
+        "timestamp_areas_base": "2023-10-29T08:28:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115249,6 +115249,25 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "+48 537182708"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11297476269,
+            "lat": 50.2585526,
+            "lon": 22.4199917,
+            "timestamp": "2023-10-29T09:25:32Z",
+            "version": 1,
+            "changeset": 143303350,
+            "user": "Hipolit mobilny",
+            "uid": 13869259,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-29",
+                "defibrillator:location:pl": "Przychodnia Lekarz Rodzinny sc - oznakowana skrzynka na ścianie koło drzwi do gabinetu zabiegowego.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "172421179   172000129"
             }
         },
         {
