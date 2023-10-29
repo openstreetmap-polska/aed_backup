@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-29T15:31:57Z",
-        "timestamp_areas_base": "2023-10-29T13:11:45Z",
+        "timestamp_osm_base": "2023-10-29T16:31:30Z",
+        "timestamp_areas_base": "2023-10-29T11:38:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -536,14 +536,16 @@
             "id": 2620114936,
             "lat": 54.5213406,
             "lon": 18.5300981,
-            "timestamp": "2022-06-02T21:10:57Z",
-            "version": 7,
-            "changeset": 121868886,
-            "user": "kukułka",
-            "uid": 2757838,
+            "timestamp": "2023-10-29T16:07:27Z",
+            "version": 8,
+            "changeset": 143319231,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/eiNvg8OnvrQ-vjLDplsBTA.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "level": "0",
                 "opening_hours": "24/7"
