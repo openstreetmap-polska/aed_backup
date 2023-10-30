@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-30T15:31:45Z",
-        "timestamp_areas_base": "2023-10-30T11:26:16Z",
+        "timestamp_osm_base": "2023-10-30T16:32:16Z",
+        "timestamp_areas_base": "2023-10-30T12:49:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115293,6 +115293,46 @@
                 "indoor": "no",
                 "opening_hours": "",
                 "operator": "",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11300269569,
+            "lat": 53.2996077,
+            "lon": 23.6557839,
+            "timestamp": "2023-10-30T15:56:02Z",
+            "version": 1,
+            "changeset": 143373754,
+            "user": "GrzegorzGudal",
+            "uid": 20519524,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczo-gaśniczy OSP w Szudziałowie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "OSP w Szudziałowie",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11300272269,
+            "lat": 53.2996312,
+            "lon": 23.6557874,
+            "timestamp": "2023-10-30T15:58:17Z",
+            "version": 1,
+            "changeset": 143373844,
+            "user": "GrzegorzGudal",
+            "uid": 20519524,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Samochód ratowniczo- gaśniczy w OSP Szudzialowo",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "OSP w Szudziałowie",
                 "phone": ""
             }
         },
