@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-31T11:32:15Z",
-        "timestamp_areas_base": "2023-10-31T06:32:44Z",
+        "timestamp_osm_base": "2023-10-31T12:31:26Z",
+        "timestamp_areas_base": "2023-10-31T11:20:43Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115352,6 +115352,25 @@
                 "defibrillator:location": "PCK Bydgoszcz",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11302181969,
+            "lat": 53.0149376,
+            "lon": 20.3643172,
+            "timestamp": "2023-10-31T11:48:02Z",
+            "version": 2,
+            "changeset": 143416500,
+            "user": "SlimArt",
+            "uid": 13046933,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo - gaśniczy",
+                "defibrillator:location:en": "rescue and fire-fighting vehicle",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "501475231"
             }
         },
         {
