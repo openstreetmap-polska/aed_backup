@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-31T17:32:15Z",
+        "timestamp_osm_base": "2023-10-31T18:32:00Z",
         "timestamp_areas_base": "2023-10-31T16:08:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115371,6 +115371,25 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "501475231"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11302990469,
+            "lat": 52.2295855,
+            "lon": 20.8942962,
+            "timestamp": "2023-10-31T17:41:13Z",
+            "version": 1,
+            "changeset": 143435385,
+            "user": "starsep",
+            "uid": 11306447,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-10-31",
+                "defibrillator:location:en": "Next to the reception in Medicover Stomatologia",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1"
             }
         },
         {

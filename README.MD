@@ -1,9 +1,9 @@
-# AED backup and stats (2023-10-31 12:33:05)
+# AED backup and stats (2023-10-31 18:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 6117
+Total AED: 6118
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
@@ -34,8 +34,8 @@ Average daily growth since beginning of the year: 7.46
 | 19 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 36 |
 | 20 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
 | 21 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 22 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 30 |
-| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 30 |
+| 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 31 |
+| 23 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 30 |
 | 24 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
 | 25 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
 
