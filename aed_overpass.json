@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-31T09:31:51Z",
+        "timestamp_osm_base": "2023-10-31T10:31:45Z",
         "timestamp_areas_base": "2023-10-31T07:47:25Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -26259,15 +26259,17 @@
             "id": 9458390220,
             "lat": 54.5223213,
             "lon": 18.5347932,
-            "timestamp": "2022-01-29T16:33:47Z",
-            "version": 1,
-            "changeset": 116751510,
+            "timestamp": "2023-10-31T10:25:36Z",
+            "version": 2,
+            "changeset": 143412903,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie hali targowej (hala łukowa) na prawo od głównego wejścia",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/tJGTl7f-KTxjkdDLtGxMng.webp",
+                "image:license": "CC0",
                 "location": "outdoor"
             }
         },
