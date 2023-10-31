@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-10-31T06:31:45Z",
-        "timestamp_areas_base": "2023-10-31T03:05:32Z",
+        "timestamp_osm_base": "2023-10-31T07:32:15Z",
+        "timestamp_areas_base": "2023-10-31T06:32:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115334,6 +115334,22 @@
                 "opening_hours": "",
                 "operator": "OSP w Szudziałowie",
                 "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11301635299,
+            "lat": 53.1262569,
+            "lon": 17.9999453,
+            "timestamp": "2023-10-31T07:24:50Z",
+            "version": 1,
+            "changeset": 143404086,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "PCK Bydgoszcz",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia"
             }
         },
         {
