@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-01T13:32:15Z",
-        "timestamp_areas_base": "2023-11-01T11:14:31Z",
+        "timestamp_osm_base": "2023-11-01T14:31:52Z",
+        "timestamp_areas_base": "2023-11-01T12:29:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115407,6 +115407,23 @@
                 "defibrillator:location": "Przy wejściu do biblioteki",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11304653569,
+            "lat": 49.991744,
+            "lon": 21.2890013,
+            "timestamp": "2023-11-01T14:31:04Z",
+            "version": 1,
+            "changeset": 143478624,
+            "user": "Czazasty",
+            "uid": 20525366,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED znajduje się na bramie firmy omega",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
