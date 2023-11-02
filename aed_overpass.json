@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-02T12:32:16Z",
-        "timestamp_areas_base": "2023-11-02T07:36:05Z",
+        "timestamp_osm_base": "2023-11-02T13:32:17Z",
+        "timestamp_areas_base": "2023-11-02T12:19:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115424,6 +115424,22 @@
                 "defibrillator:location": "AED znajduje się na bramie firmy omega",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11307459068,
+            "lat": 51.3759294,
+            "lon": 20.2734071,
+            "timestamp": "2023-11-02T12:57:14Z",
+            "version": 1,
+            "changeset": 143529583,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w obiekcie Stacja Biznes",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia"
             }
         },
         {
