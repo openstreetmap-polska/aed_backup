@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-03T12:40:14Z",
-        "timestamp_areas_base": "2023-11-03T06:25:56Z",
+        "timestamp_osm_base": "2023-11-03T17:31:35Z",
+        "timestamp_areas_base": "2023-11-03T12:03:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -76364,17 +76364,17 @@
             "id": 10198902905,
             "lat": 49.976023,
             "lon": 21.2922496,
-            "timestamp": "2023-04-07T13:18:18Z",
-            "version": 2,
-            "changeset": 134615957,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-11-01T14:36:35Z",
+            "version": 3,
+            "changeset": 143478957,
+            "user": "Czazasty",
+            "uid": 20525366,
             "tags": {
-                "defibrillator:location": "Defibrylator AED znajduje się w jednostce OSP Pilzno",
+                "defibrillator:location": "Defibrylator AED znajduje się w samochodzie ratowniczo-gaśniczym",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
-                "operator": "OSP Pilzno"
+                "operator": "Ochotnicza straż pożarna Pilzno"
             }
         },
         {
@@ -115411,6 +115411,39 @@
         },
         {
             "type": "node",
+            "id": 11304653569,
+            "lat": 49.991744,
+            "lon": 21.2890013,
+            "timestamp": "2023-11-01T14:31:04Z",
+            "version": 1,
+            "changeset": 143478624,
+            "user": "Czazasty",
+            "uid": 20525366,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "AED znajduje się na bramie firmy omega",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11307459068,
+            "lat": 51.3759294,
+            "lon": 20.2734071,
+            "timestamp": "2023-11-02T12:57:14Z",
+            "version": 1,
+            "changeset": 143529583,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w obiekcie Stacja Biznes",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia"
+            }
+        },
+        {
+            "type": "node",
             "id": 11309054366,
             "lat": 50.8267771,
             "lon": 19.1263899,
@@ -115428,6 +115461,118 @@
                 "opening_hours": "24/7",
                 "operator": "Brembo",
                 "phone": "+48343776800"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309719869,
+            "lat": 51.5771605,
+            "lon": 17.6300245,
+            "timestamp": "2023-11-03T13:09:59Z",
+            "version": 1,
+            "changeset": 143574123,
+            "user": "Osp Raczyce",
+            "uid": 20540399,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do remizy",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309739269,
+            "lat": 51.5771326,
+            "lon": 17.6300408,
+            "timestamp": "2023-11-03T13:19:48Z",
+            "version": 1,
+            "changeset": 143574502,
+            "user": "Osp Raczyce",
+            "uid": 20540399,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309745069,
+            "lat": 51.5771987,
+            "lon": 17.6300354,
+            "timestamp": "2023-11-03T13:23:00Z",
+            "version": 1,
+            "changeset": 143574627,
+            "user": "Osp Raczyce",
+            "uid": 20540399,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu do remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309768069,
+            "lat": 51.5770886,
+            "lon": 17.6300128,
+            "timestamp": "2023-11-03T13:36:59Z",
+            "version": 1,
+            "changeset": 143575263,
+            "user": "Osp Raczyce",
+            "uid": 20540399,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "AED OSP Raczyce "
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309770469,
+            "lat": 51.5772409,
+            "lon": 17.6300326,
+            "timestamp": "2023-11-03T13:38:26Z",
+            "version": 1,
+            "changeset": 143575328,
+            "user": "Osp Raczyce",
+            "uid": 20540399,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "Defibrylator OSP Raczyce",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11309981869,
+            "lat": 51.8212065,
+            "lon": 14.6199685,
+            "timestamp": "2023-11-03T16:28:08Z",
+            "version": 2,
+            "changeset": 143582550,
+            "user": "MonikaStaszak",
+            "uid": 20541272,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Monika Staszak"
             }
         },
         {
