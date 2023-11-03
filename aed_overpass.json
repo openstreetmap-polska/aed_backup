@@ -2,9 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-03T20:31:30Z",
+        "timestamp_osm_base": "2023-11-03T21:31:58Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
-    "elements": [],
-    "remark": "runtime error: open64: 2 No such file or directory /srv/overpass/db/area_tags_local.bin File_Blocks::File_Blocks::1"
+    "elements": []
 }
