@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-04T16:31:21Z",
-        "timestamp_areas_base": "2023-11-04T11:44:14Z",
+        "timestamp_osm_base": "2023-11-04T17:31:56Z",
+        "timestamp_areas_base": "2023-11-04T16:30:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115465,43 +115465,6 @@
         },
         {
             "type": "node",
-            "id": 11309719869,
-            "lat": 51.5771605,
-            "lon": 17.6300245,
-            "timestamp": "2023-11-03T13:09:59Z",
-            "version": 1,
-            "changeset": 143574123,
-            "user": "Osp Raczyce",
-            "uid": 20540399,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location": "Na ścianie przy wejściu do remizy",
-                "emergency": "defibrillator",
-                "indoor": "no"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11309739269,
-            "lat": 51.5771326,
-            "lon": 17.6300408,
-            "timestamp": "2023-11-03T13:19:48Z",
-            "version": 1,
-            "changeset": 143574502,
-            "user": "Osp Raczyce",
-            "uid": 20540399,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "",
-                "phone": ""
-            }
-        },
-        {
-            "type": "node",
             "id": 11309745069,
             "lat": 51.5771987,
             "lon": 17.6300354,
@@ -115520,41 +115483,20 @@
         },
         {
             "type": "node",
-            "id": 11309768069,
-            "lat": 51.5770886,
-            "lon": 17.6300128,
-            "timestamp": "2023-11-03T13:36:59Z",
-            "version": 1,
-            "changeset": 143575263,
-            "user": "Osp Raczyce",
-            "uid": 20540399,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "AED OSP Raczyce "
-            }
-        },
-        {
-            "type": "node",
             "id": 11309770469,
             "lat": 51.5772409,
             "lon": 17.6300326,
-            "timestamp": "2023-11-03T13:38:26Z",
-            "version": 1,
-            "changeset": 143575328,
+            "timestamp": "2023-11-04T16:57:42Z",
+            "version": 2,
+            "changeset": 143622502,
             "user": "Osp Raczyce",
             "uid": 20540399,
             "tags": {
                 "access": "yes",
                 "defibrillator:location:pl": "63-430 Raczyce Wiejska 14",
                 "emergency": "defibrillator",
-                "indoor": "no",
-                "opening_hours": "",
-                "operator": "Defibrylator OSP Raczyce",
-                "phone": ""
+                "indoor": "yes",
+                "operator": "Defibrylator OSP Raczyce"
             }
         },
         {
