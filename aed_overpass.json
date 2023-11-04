@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-04T06:32:23Z",
-        "timestamp_areas_base": "2023-11-04T01:32:26Z",
+        "timestamp_osm_base": "2023-11-04T07:32:14Z",
+        "timestamp_areas_base": "2023-11-04T06:15:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115562,18 +115562,18 @@
             "id": 11309981869,
             "lat": 51.8212065,
             "lon": 14.6199685,
-            "timestamp": "2023-11-03T18:53:57Z",
-            "version": 3,
-            "changeset": 143587501,
-            "user": "MonikaStaszak",
-            "uid": 20541272,
+            "timestamp": "2023-11-04T07:30:55Z",
+            "version": 4,
+            "changeset": 143601344,
+            "user": "user_5359",
+            "uid": 5359,
             "tags": {
                 "access": "permit",
                 "defibrillator:location": "wewnątrz budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Monika Staszak",
-                "telefon": "789009850"
+                "phone": "789009850"
             }
         },
         {
