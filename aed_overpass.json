@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-04T18:32:26Z",
+        "timestamp_osm_base": "2023-11-04T19:31:21Z",
         "timestamp_areas_base": "2023-11-04T15:45:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -11456,15 +11456,17 @@
             "id": 9412219517,
             "lat": 53.9617782,
             "lon": 14.7819944,
-            "timestamp": "2022-01-12T08:50:27Z",
-            "version": 1,
-            "changeset": 116056596,
-            "user": "grzesiekleus",
-            "uid": 10772965,
+            "timestamp": "2023-11-04T18:43:16Z",
+            "version": 2,
+            "changeset": 143625784,
+            "user": "Gleus",
+            "uid": 16394621,
             "tags": {
                 "access": "customers",
+                "check_date": "2023-11-04",
                 "defibrillator:location": "Sklep Lidl, po wejściu do sklepu po prawej stronie ",
                 "emergency": "defibrillator",
+                "indoor": "yes",
                 "location": "indoor"
             }
         },
