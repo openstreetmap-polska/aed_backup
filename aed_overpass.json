@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-04T17:31:56Z",
-        "timestamp_areas_base": "2023-11-04T16:30:20Z",
+        "timestamp_osm_base": "2023-11-04T18:32:26Z",
+        "timestamp_areas_base": "2023-11-04T15:45:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -57657,19 +57657,19 @@
         {
             "type": "node",
             "id": 9645628674,
-            "lat": 51.7479252,
-            "lon": 19.3833822,
-            "timestamp": "2022-04-06T12:55:35Z",
-            "version": 1,
-            "changeset": 119386353,
-            "user": "Cristoffs",
-            "uid": 6765127,
+            "lat": 51.7478842,
+            "lon": 19.3833661,
+            "timestamp": "2023-11-04T17:38:02Z",
+            "version": 2,
+            "changeset": 143623845,
+            "user": "Fan map",
+            "uid": 2092025,
             "tags": {
-                "access": "permissive",
+                "access": "yes",
                 "defibrillator:location": "Punkt socjalny na krańcówce",
                 "defibrillator:location:en": "Social point at the bus stop",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
                 "operator": "UMŁ / MPK Łódź sp. z o.o.",
                 "phone": "+48 42 672 11 11"
             }
