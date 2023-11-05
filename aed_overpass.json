@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-05T13:32:15Z",
+        "timestamp_osm_base": "2023-11-05T14:32:05Z",
         "timestamp_areas_base": "2023-11-05T11:24:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -53959,18 +53959,18 @@
             "id": 9603238197,
             "lat": 49.6167074,
             "lon": 20.6911853,
-            "timestamp": "2022-03-24T13:08:51Z",
-            "version": 1,
-            "changeset": 118864515,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-11-05T14:17:53Z",
+            "version": 2,
+            "changeset": 143652050,
+            "user": "micholek",
+            "uid": 17385312,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W budynku Tauronu",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "Tauron Dysrybucja S.A.",
-                "phone": "32 606 0 606",
+                "phone": "+48 32 606 0 606",
                 "source": "https://media.tauron.pl/pr/427901/ratujemy-zycie"
             }
         },
@@ -99906,23 +99906,6 @@
                 "emergency": "defibrillator",
                 "operator": "Komisariat Policji w Strzelnie",
                 "phone": "+48477527110"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10789664905,
-            "lat": 52.234568,
-            "lon": 20.9580376,
-            "timestamp": "2023-04-06T08:27:59Z",
-            "version": 1,
-            "changeset": 134566804,
-            "user": "Joanna Sta",
-            "uid": 18727760,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "Auchan",
-                "emergency": "defibrillator",
-                "indoor": "yes"
             }
         },
         {
