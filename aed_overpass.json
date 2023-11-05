@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-05T19:31:51Z",
-        "timestamp_areas_base": "2023-11-05T16:07:05Z",
+        "timestamp_osm_base": "2023-11-05T20:31:29Z",
+        "timestamp_areas_base": "2023-11-05T15:32:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -56639,11 +56639,11 @@
             "id": 9642397917,
             "lat": 50.2280578,
             "lon": 18.9729581,
-            "timestamp": "2022-04-05T07:01:08Z",
-            "version": 2,
-            "changeset": 119329174,
-            "user": "Talopyo",
-            "uid": 14818256,
+            "timestamp": "2023-11-05T19:52:08Z",
+            "version": 3,
+            "changeset": 143663981,
+            "user": "Mariusz Dykierek",
+            "uid": 238534,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "na recepcji",
@@ -56652,7 +56652,7 @@
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 06:00-21:00",
                 "operator": "MDK Ligota",
-                "phone": "32 252 32 34"
+                "phone": "+48 32 252 32 34"
             }
         },
         {
