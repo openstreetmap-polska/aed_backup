@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-05T18:31:25Z",
+        "timestamp_osm_base": "2023-11-05T19:31:51Z",
         "timestamp_areas_base": "2023-11-05T16:07:05Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115502,6 +115502,23 @@
                 "indoor": "yes",
                 "operator": "Monika Staszak",
                 "phone": "789009850"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11328054769,
+            "lat": 49.9390289,
+            "lon": 21.2077511,
+            "timestamp": "2023-11-05T19:21:17Z",
+            "version": 1,
+            "changeset": 143663109,
+            "user": "Czazasty",
+            "uid": 20525366,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Defibrylator znajduje się w samochodzie",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
