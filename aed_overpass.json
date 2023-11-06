@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-06T07:31:48Z",
-        "timestamp_areas_base": "2023-11-06T05:51:51Z",
+        "timestamp_osm_base": "2023-11-06T08:32:26Z",
+        "timestamp_areas_base": "2023-11-06T06:16:33Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -46515,11 +46515,11 @@
             "id": 9536927394,
             "lat": 52.5490217,
             "lon": 19.7072622,
-            "timestamp": "2022-02-26T12:02:56Z",
-            "version": 1,
-            "changeset": 117876902,
-            "user": "voltairovicz",
-            "uid": 1744629,
+            "timestamp": "2023-11-06T07:55:09Z",
+            "version": 2,
+            "changeset": 143680287,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu, po lewej stronie od wejścia",
@@ -46528,7 +46528,7 @@
                 "indoor": "yes",
                 "operator": "Specjalny Ośrodek Szkolno-Wychowawczy nr 2",
                 "phone": "+48 24 366 03 50",
-                "website": "http://sosw2plock.com"
+                "website": "https://sosw2plock.com/"
             }
         },
         {
