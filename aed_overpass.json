@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-06T13:32:14Z",
+        "timestamp_osm_base": "2023-11-06T14:31:30Z",
         "timestamp_areas_base": "2023-11-06T10:36:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115521,6 +115521,25 @@
                 "defibrillator:location": "Defibrylator znajduje się w samochodzie",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11329311969,
+            "lat": 53.6872948,
+            "lon": 17.5906839,
+            "timestamp": "2023-11-06T14:03:17Z",
+            "version": 1,
+            "changeset": 143694988,
+            "user": "BestiaPL",
+            "uid": 32533,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Pierwsze piętro, za drzwiami korytarza po prawej stronie.",
+                "defibrillator:location:en": "First floor, behind the hall door on the right.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48 52 39 66 100"
             }
         },
         {
