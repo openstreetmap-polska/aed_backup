@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-06T05:32:23Z",
+        "timestamp_osm_base": "2023-11-06T06:32:02Z",
         "timestamp_areas_base": "2023-11-06T01:06:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -105870,9 +105870,9 @@
             "id": 10995894305,
             "lat": 52.3815846,
             "lon": 17.1614759,
-            "timestamp": "2023-06-21T21:35:22Z",
-            "version": 1,
-            "changeset": 137622990,
+            "timestamp": "2023-11-06T06:09:10Z",
+            "version": 2,
+            "changeset": 143677389,
             "user": "JacekBura",
             "uid": 2066095,
             "tags": {
@@ -105880,6 +105880,8 @@
                 "defibrillator:location": "Na elewacji z prawej strony od wejścia, od ul. Szkolnej",
                 "defibrillator:location:en": "on the right side of entrance",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/imznH4gVOXNV6241SUISdw.webp",
+                "image:license": "CC0",
                 "indoor": "no",
                 "phone": "+48 61 8978316"
             }
