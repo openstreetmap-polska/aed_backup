@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-07T14:31:29Z",
+        "timestamp_osm_base": "2023-11-07T15:31:45Z",
         "timestamp_areas_base": "2023-11-07T10:21:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -90370,24 +90370,6 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7"
-            }
-        },
-        {
-            "type": "node",
-            "id": 10604962626,
-            "lat": 50.1271701,
-            "lon": 19.4275449,
-            "timestamp": "2023-02-03T21:31:09Z",
-            "version": 1,
-            "changeset": 132058428,
-            "user": "Adam_Piszczek",
-            "uid": 2027953,
-            "tags": {
-                "access": "customers",
-                "defibrillator:location": "W  budynku,przy wejściu jest naklejka oznaczająca defibrylator.",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "operator": "Centrum Techniczno Konstrukcyjne Dan Cake Polonia"
             }
         },
         {
