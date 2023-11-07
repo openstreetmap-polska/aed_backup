@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-07T09:31:16Z",
+        "timestamp_osm_base": "2023-11-07T10:31:44Z",
         "timestamp_areas_base": "2023-11-07T05:37:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1326,6 +1326,25 @@
                 "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Urząd Miejski w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5355542619,
+            "lat": 53.6476026,
+            "lon": 21.5660828,
+            "timestamp": "2023-11-07T10:25:12Z",
+            "version": 2,
+            "changeset": 143730147,
+            "user": "Piotr Strębski",
+            "uid": 5060085,
+            "tags": {
+                "access": "yes",
+                "check_date": "2023-07-11",
+                "defibrillator:location:pl": "Na ścianie Wieży Ciśnień",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "537182708"
             }
         },
         {
@@ -107773,25 +107792,6 @@
                 "indoor": "no",
                 "operator": "Mariusz Klisiatys",
                 "ref": "Plaża Miejska #4"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11040027405,
-            "lat": 53.6476122,
-            "lon": 21.5660824,
-            "timestamp": "2023-07-11T16:01:06Z",
-            "version": 1,
-            "changeset": 138386742,
-            "user": "Mersonia",
-            "uid": 18422067,
-            "tags": {
-                "access": "yes",
-                "check_date": "2023-07-11",
-                "defibrillator:location:pl": "Na ścianie Wieży Ciśnień",
-                "emergency": "defibrillator",
-                "indoor": "no",
-                "phone": "537182708"
             }
         },
         {
