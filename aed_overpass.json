@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-07T13:31:49Z",
-        "timestamp_areas_base": "2023-11-07T10:39:53Z",
+        "timestamp_osm_base": "2023-11-07T14:31:29Z",
+        "timestamp_areas_base": "2023-11-07T10:21:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115556,6 +115556,24 @@
                 "access": "yes",
                 "defibrillator:location": "na ścianie świetlicy wiejskiej",
                 "defibrillator:location:en": "on the wall",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11331186769,
+            "lat": 49.6872661,
+            "lon": 22.1697178,
+            "timestamp": "2023-11-07T14:05:05Z",
+            "version": 1,
+            "changeset": 143738864,
+            "user": "Daniel Rachwalski",
+            "uid": 20568204,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu",
+                "defibrillator:location:en": "On the walk near the exit",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
