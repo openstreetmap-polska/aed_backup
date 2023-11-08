@@ -1,4 +1,4 @@
-# AED backup and stats (2023-11-08 16:33:05)
+# AED backup and stats (2023-11-08 21:33:06)
 
 
 ## Total AED plot
@@ -7,7 +7,7 @@ Total AED: 6131
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2023-01-01: 4066\
+AED for 2023-01-01: 4065\
 Average daily growth since beginning of the year: 7.32
 
 ## Top creators
@@ -20,7 +20,7 @@ Average daily growth since beginning of the year: 7.32
 | 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 348 |
 | 6 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 7 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 333 |
-| 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 132 |
+| 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 131 |
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 115 |
 | 10 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 89 |
@@ -31,13 +31,13 @@ Average daily growth since beginning of the year: 7.32
 | 16 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 44 |
 | 17 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 42 |
 | 18 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 41 |
-| 19 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
-| 20 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 36 |
+| 19 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 36 |
+| 20 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
 | 21 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
 | 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 31 |
 | 23 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 30 |
-| 24 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
-| 25 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 24 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 25 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
 
 ## Tag access pie
 ![](report_data/tag_access.svg)
