@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-08T12:31:56Z",
+        "timestamp_osm_base": "2023-11-08T13:31:35Z",
         "timestamp_areas_base": "2023-11-08T10:12:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115597,6 +115597,22 @@
                 "opening_hours": "",
                 "operator": "",
                 "phone": "22 8243838"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11332925976,
+            "lat": 50.0046343,
+            "lon": 19.8979837,
+            "timestamp": "2023-11-08T12:37:14Z",
+            "version": 1,
+            "changeset": 143778578,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w recepcji Alfa Laval",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia dostępność"
             }
         },
         {
