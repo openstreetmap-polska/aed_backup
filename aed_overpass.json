@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-08T10:31:51Z",
-        "timestamp_areas_base": "2023-11-08T05:35:14Z",
+        "timestamp_osm_base": "2023-11-08T11:32:15Z",
+        "timestamp_areas_base": "2023-11-08T10:17:31Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -111810,16 +111810,18 @@
             "id": 11167418805,
             "lat": 52.4102803,
             "lon": 17.0776606,
-            "timestamp": "2023-09-05T06:35:59Z",
-            "version": 3,
-            "changeset": 140833711,
-            "user": "Łukasz Anioła",
-            "uid": 20173112,
+            "timestamp": "2023-11-08T11:22:17Z",
+            "version": 4,
+            "changeset": 143775395,
+            "user": "JacekBura",
+            "uid": 2066095,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "W holu, na parterze, po lewej stronie.",
                 "description": "Philips HeartStart HS1, elektrody dla dorosłych.",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/PJfbh0pYc1peH-zGMWK6cA.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "opening_hours": "Mo-Fr 07:00-16:00",
                 "operator": "Urząd Miasta i Gminy w Swarzędzu",
@@ -115575,6 +115577,26 @@
                 "defibrillator:location": "Ściana przy wejściu głównym do kościoła",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11332751469,
+            "lat": 52.2007305,
+            "lon": 20.9367867,
+            "timestamp": "2023-11-08T10:41:50Z",
+            "version": 1,
+            "changeset": 143773741,
+            "user": "Julia@93",
+            "uid": 20570906,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Jutrzenki 139, Biuro ITCARD S.A. piętro 1 i 2 ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": "22 8243838"
             }
         },
         {
