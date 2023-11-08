@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-08T09:31:45Z",
-        "timestamp_areas_base": "2023-11-08T05:28:00Z",
+        "timestamp_osm_base": "2023-11-08T10:31:51Z",
+        "timestamp_areas_base": "2023-11-08T05:35:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115556,6 +115556,23 @@
                 "access": "yes",
                 "defibrillator:location": "Na ścianie przy wejściu",
                 "defibrillator:location:en": "On the walk near the exit",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11332729669,
+            "lat": 51.7467665,
+            "lon": 18.1426613,
+            "timestamp": "2023-11-08T10:27:54Z",
+            "version": 1,
+            "changeset": 143773109,
+            "user": "pitpitm",
+            "uid": 1009233,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Ściana przy wejściu głównym do kościoła",
                 "emergency": "defibrillator",
                 "indoor": "no"
             }
