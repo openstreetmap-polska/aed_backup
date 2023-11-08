@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-08T15:32:00Z",
-        "timestamp_areas_base": "2023-11-08T10:17:31Z",
+        "timestamp_osm_base": "2023-11-08T16:32:15Z",
+        "timestamp_areas_base": "2023-11-08T15:04:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115613,6 +115613,24 @@
                 "defibrillator:location": "w recepcji Alfa Laval",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia dostępność"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11333299669,
+            "lat": 51.366171,
+            "lon": 17.4673253,
+            "timestamp": "2023-11-08T15:42:07Z",
+            "version": 1,
+            "changeset": 143786760,
+            "user": "MEDAID",
+            "uid": 20115365,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "STAND AED, Urząd Miasta i Gminy w Twardogórze, z boku budynku",
+                "defibrillator:location:en": "STAND AED, Twardogóra Town and Municipality Office, on the side of the building",
+                "emergency": "defibrillator",
+                "indoor": "no"
             }
         },
         {
