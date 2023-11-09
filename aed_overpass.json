@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-09T13:32:15Z",
+        "timestamp_osm_base": "2023-11-09T14:32:06Z",
         "timestamp_areas_base": "2023-11-09T10:04:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115646,6 +115646,24 @@
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11335849369,
+            "lat": 52.3163285,
+            "lon": 21.0019229,
+            "timestamp": "2023-11-09T13:37:08Z",
+            "version": 1,
+            "changeset": 143822774,
+            "user": "Pawelsi11",
+            "uid": 12651405,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na korytarzu, na filarze zaraz przy wejsciu",
+                "defibrillator:location:en": "On the pillar near entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
             }
