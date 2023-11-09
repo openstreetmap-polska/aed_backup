@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-09T14:32:06Z",
+        "timestamp_osm_base": "2023-11-09T15:32:06Z",
         "timestamp_areas_base": "2023-11-09T10:04:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -1333,9 +1333,9 @@
             "id": 5355542619,
             "lat": 53.6476026,
             "lon": 21.5660828,
-            "timestamp": "2023-11-07T10:25:12Z",
-            "version": 2,
-            "changeset": 143730147,
+            "timestamp": "2023-11-09T14:54:07Z",
+            "version": 3,
+            "changeset": 143826281,
             "user": "Piotr Strębski",
             "uid": 5060085,
             "tags": {
@@ -1344,7 +1344,7 @@
                 "defibrillator:location:pl": "Na ścianie Wieży Ciśnień",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "537182708"
+                "phone": "+48 537 182 708"
             }
         },
         {
