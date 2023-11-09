@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-09T12:31:26Z",
-        "timestamp_areas_base": "2023-11-09T10:10:37Z",
+        "timestamp_osm_base": "2023-11-09T13:32:15Z",
+        "timestamp_areas_base": "2023-11-09T10:04:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115631,6 +115631,23 @@
                 "defibrillator:location:en": "STAND AED, Twardogóra Town and Municipality Office, on the side of the building",
                 "emergency": "defibrillator",
                 "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11335734970,
+            "lat": 50.9431173,
+            "lon": 16.4975071,
+            "timestamp": "2023-11-09T12:39:54Z",
+            "version": 1,
+            "changeset": 143820642,
+            "user": "PCO ŻARÓW",
+            "uid": 20574760,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
