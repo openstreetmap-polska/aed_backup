@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-09T11:31:59Z",
-        "timestamp_areas_base": "2023-11-09T10:04:34Z",
+        "timestamp_osm_base": "2023-11-09T12:31:26Z",
+        "timestamp_areas_base": "2023-11-09T10:10:37Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -4338,13 +4338,13 @@
         {
             "type": "node",
             "id": 8870363486,
-            "lat": 50.6731781,
-            "lon": 18.689352,
-            "timestamp": "2023-10-02T05:32:38Z",
-            "version": 2,
-            "changeset": 142021408,
-            "user": "chfour",
-            "uid": 20365500,
+            "lat": 50.6732026,
+            "lon": 18.6893225,
+            "timestamp": "2023-11-09T11:48:17Z",
+            "version": 4,
+            "changeset": 143818925,
+            "user": "Bąbel",
+            "uid": 3418763,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na scianie",
