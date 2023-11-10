@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-10T15:32:06Z",
-        "timestamp_areas_base": "2023-11-10T10:10:59Z",
+        "timestamp_osm_base": "2023-11-10T16:31:59Z",
+        "timestamp_areas_base": "2023-11-10T14:58:52Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -572,14 +572,18 @@
             "id": 2837093936,
             "lat": 50.0678992,
             "lon": 19.9496502,
-            "timestamp": "2021-11-14T10:08:43Z",
-            "version": 4,
-            "changeset": 113756690,
-            "user": "KNWedytor",
-            "uid": 2460449,
+            "timestamp": "2023-11-10T15:41:20Z",
+            "version": 5,
+            "changeset": 143869243,
+            "user": "michalgwo",
+            "uid": 15803602,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie, obok stop.cafe",
+                "defibrillator:location:en": "On the wall, next to stop.cafe",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "opening_hours": "Mo-Su 06:00-22:00"
             }
         },
         {
