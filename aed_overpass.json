@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-10T08:31:59Z",
+        "timestamp_osm_base": "2023-11-10T09:32:14Z",
         "timestamp_areas_base": "2023-11-10T05:24:09Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -27810,13 +27810,14 @@
             "id": 9460824657,
             "lat": 50.0803732,
             "lon": 19.5973133,
-            "timestamp": "2022-01-30T17:53:26Z",
-            "version": 1,
-            "changeset": 116790783,
-            "user": "Ronczka",
-            "uid": 9548812,
+            "timestamp": "2023-11-10T08:33:27Z",
+            "version": 2,
+            "changeset": 143852603,
+            "user": "VA00",
+            "uid": 1745828,
             "tags": {
                 "access": "yes",
+                "check_date": "2023-11-10",
                 "defibrillator:location": "Ściana między bramami garażowymi",
                 "emergency": "defibrillator",
                 "indoor": "no",
