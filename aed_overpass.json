@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-10T06:32:15Z",
+        "timestamp_osm_base": "2023-11-10T07:31:46Z",
         "timestamp_areas_base": "2023-11-10T05:06:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -103344,11 +103344,11 @@
             "id": 10907903306,
             "lat": 51.7593908,
             "lon": 17.1192438,
-            "timestamp": "2023-05-18T13:05:43Z",
-            "version": 2,
-            "changeset": 136254495,
-            "user": "bhP1983",
-            "uid": 19305777,
+            "timestamp": "2023-11-10T06:59:54Z",
+            "version": 3,
+            "changeset": 143849675,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "KWIECIŃSCY OŚRODEK SZKOLENIA",
@@ -103358,7 +103358,7 @@
                 "operator": "KWIECIŃSCY OŚRODEK SZKOLENIA",
                 "phone": "655736992",
                 "ref": "Pępowo ul.Mariana Orłonia 15 63-830",
-                "website": "www.bhp-szkolenia.pl"
+                "website": "https://www.bhp-szkolenia.pl/"
             }
         },
         {
@@ -108279,11 +108279,11 @@
         {
             "type": "node",
             "id": 11068269205,
-            "lat": 50.2635669,
-            "lon": 18.9833517,
-            "timestamp": "2023-07-26T06:07:04Z",
-            "version": 1,
-            "changeset": 139018966,
+            "lat": 50.2638018,
+            "lon": 18.9831559,
+            "timestamp": "2023-11-10T06:45:25Z",
+            "version": 2,
+            "changeset": 143849311,
             "user": "ZibiJ",
             "uid": 19985241,
             "tags": {
@@ -115666,6 +115666,40 @@
                 "defibrillator:location:en": "On the pillar near entrance",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11337333206,
+            "lat": 51.1541482,
+            "lon": 17.158944,
+            "timestamp": "2023-11-10T07:22:15Z",
+            "version": 1,
+            "changeset": 143850338,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "we wnętrzu budynku firmy Siemens",
+                "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11337702269,
+            "lat": 53.5868282,
+            "lon": 17.892364,
+            "timestamp": "2023-11-10T07:09:58Z",
+            "version": 1,
+            "changeset": 143850002,
+            "user": "BHPowiec",
+            "uid": 20576985,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Defibrylator znajduje się w stołówce, na hali produkcji firmy AFPRO Filters Sp. z o. o.",
+                "defibrillator:location:en": "The defibrillator is located in the canteen, in the production hall of AFPRO Filters Sp. z o. o.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+ 48 602 334 685"
             }
         },
         {
