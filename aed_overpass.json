@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-10T12:32:00Z",
-        "timestamp_areas_base": "2023-11-10T10:10:59Z",
+        "timestamp_osm_base": "2023-11-10T13:31:54Z",
+        "timestamp_areas_base": "2023-11-10T09:49:41Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -51743,13 +51743,13 @@
         {
             "type": "node",
             "id": 9580162453,
-            "lat": 50.4121913,
-            "lon": 18.4300348,
-            "timestamp": "2022-03-15T09:06:04Z",
-            "version": 1,
-            "changeset": 118501802,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 50.4122238,
+            "lon": 18.4300851,
+            "timestamp": "2023-11-10T12:49:20Z",
+            "version": 2,
+            "changeset": 143861982,
+            "user": "gkucza",
+            "uid": 19219242,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się wewnątrz budynku, w wozie bojowym Volvo. Przycisk alarmowy przy bramie wjazdowej uruchamiający syrenę.",
