@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-11T12:31:19Z",
+        "timestamp_osm_base": "2023-11-11T13:32:00Z",
         "timestamp_areas_base": "2023-11-11T09:27:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -35516,11 +35516,11 @@
             "id": 9493722378,
             "lat": 53.5311398,
             "lon": 14.796442,
-            "timestamp": "2023-02-08T20:05:58Z",
-            "version": 5,
-            "changeset": 132274156,
-            "user": "ptarac",
-            "uid": 11496679,
+            "timestamp": "2023-11-11T13:17:40Z",
+            "version": 6,
+            "changeset": 143899314,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "access": "permissive",
                 "defibrillator:location": "Zakład Aktywności Zawodowej",
@@ -35529,7 +35529,7 @@
                 "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su off",
                 "operator": "Zakład Aktywności Zawodowej",
                 "phone": "+48 500 716 050",
-                "website": "http://zaz.goleniow.pl/"
+                "website": "https://zaz.goleniow.pl/"
             }
         },
         {
