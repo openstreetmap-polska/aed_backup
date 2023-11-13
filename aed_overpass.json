@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-13T15:32:14Z",
-        "timestamp_areas_base": "2023-11-13T13:50:28Z",
+        "timestamp_osm_base": "2023-11-13T16:32:15Z",
+        "timestamp_areas_base": "2023-11-13T14:40:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115729,12 +115729,14 @@
             "id": 11346058078,
             "lat": 52.2472955,
             "lon": 21.0638467,
-            "timestamp": "2023-11-13T10:50:00Z",
-            "version": 1,
-            "changeset": 143964946,
+            "timestamp": "2023-11-13T16:04:34Z",
+            "version": 3,
+            "changeset": 143977069,
             "user": "GanderPL",
             "uid": 12490257,
             "tags": {
+                "access": "customers",
+                "check_date": "2023-11-13",
                 "defibrillator:location": "Sekretariat",
                 "defibrillator:location:en": "Secretariat",
                 "emergency": "defibrillator",
@@ -115742,6 +115744,7 @@
                 "indoor": "yes",
                 "level": "2",
                 "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; We 14:00-19:00; Sa 09:00-15:00",
+                "operator": "Pedagogiczna Biblioteka Wojewódzka im. Komisji Edukacji Narodowej",
                 "phone": "+48 22 8104664"
             }
         },
