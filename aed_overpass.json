@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-13T10:31:59Z",
-        "timestamp_areas_base": "2023-11-13T09:03:00Z",
+        "timestamp_osm_base": "2023-11-13T11:31:29Z",
+        "timestamp_areas_base": "2023-11-13T09:48:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115722,6 +115722,27 @@
                 "defibrillator:location": "na komisariacie policji",
                 "emergency": "defibrillator",
                 "fixme": "szczegóły położenia i dostępności AED do uzupełnienia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11346058078,
+            "lat": 52.2472955,
+            "lon": 21.0638467,
+            "timestamp": "2023-11-13T10:50:00Z",
+            "version": 1,
+            "changeset": 143964946,
+            "user": "GanderPL",
+            "uid": 12490257,
+            "tags": {
+                "defibrillator:location": "Sekretariat",
+                "defibrillator:location:en": "Secretariat",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes",
+                "level": "2",
+                "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; We 14:00-19:00; Sa 09:00-15:00",
+                "phone": "+48 22 8104664"
             }
         },
         {
