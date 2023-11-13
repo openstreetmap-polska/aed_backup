@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-13T08:31:57Z",
-        "timestamp_areas_base": "2023-11-13T05:04:13Z",
+        "timestamp_osm_base": "2023-11-13T09:31:45Z",
+        "timestamp_areas_base": "2023-11-13T04:19:14Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -79858,16 +79858,18 @@
             "id": 10276680309,
             "lat": 52.3984874,
             "lon": 17.0530492,
-            "timestamp": "2022-12-20T21:02:10Z",
-            "version": 2,
-            "changeset": 130306075,
-            "user": "NorthCrab",
-            "uid": 15215305,
+            "timestamp": "2023-11-13T09:20:56Z",
+            "version": 3,
+            "changeset": 143961578,
+            "user": "JacekBura",
+            "uid": 2066095,
             "tags": {
                 "access": "private",
+                "check_date": "2023-11-13",
                 "defibrillator:location": "Klinika Kolasiński-Hair Clinic",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "phone": "61 818 75 50"
             }
         },
         {
@@ -115704,6 +115706,22 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+ 48 602 334 685"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11345949076,
+            "lat": 52.3881011,
+            "lon": 18.4959902,
+            "timestamp": "2023-11-13T09:22:05Z",
+            "version": 1,
+            "changeset": 143961620,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "na komisariacie policji",
+                "emergency": "defibrillator",
+                "fixme": "szczegóły położenia i dostępności AED do uzupełnienia"
             }
         },
         {
