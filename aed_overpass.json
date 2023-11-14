@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-14T11:31:45Z",
-        "timestamp_areas_base": "2023-11-14T09:53:14Z",
+        "timestamp_osm_base": "2023-11-14T12:31:59Z",
+        "timestamp_areas_base": "2023-11-14T08:55:00Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115762,6 +115762,26 @@
                 "defibrillator:location": "przy budynku przedszkola",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia dostępność i szczegóły położenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11348359469,
+            "lat": 52.1808243,
+            "lon": 21.0554831,
+            "timestamp": "2023-11-14T12:31:11Z",
+            "version": 1,
+            "changeset": 144008602,
+            "user": "Beata Owczarek",
+            "uid": 20588496,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Bonifacego 70, I piętro przy wyjściu z windy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
             }
         },
         {
