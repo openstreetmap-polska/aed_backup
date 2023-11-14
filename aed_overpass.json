@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-14T15:32:02Z",
-        "timestamp_areas_base": "2023-11-14T09:53:14Z",
+        "timestamp_osm_base": "2023-11-14T16:31:28Z",
+        "timestamp_areas_base": "2023-11-14T14:41:20Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115798,6 +115798,66 @@
                 "defibrillator:location": "na stacji paliw",
                 "emergency": "defibrillator",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11348886569,
+            "lat": 51.8231501,
+            "lon": 21.1245771,
+            "timestamp": "2023-11-14T15:57:53Z",
+            "version": 1,
+            "changeset": 144016538,
+            "user": "Rosomak",
+            "uid": 17061585,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP Michalczew",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP Michalczew",
+                "phone": "998,112"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11348927969,
+            "lat": 51.7825595,
+            "lon": 21.1886806,
+            "timestamp": "2023-11-14T16:21:28Z",
+            "version": 1,
+            "changeset": 144017407,
+            "user": "Rosomak",
+            "uid": 17061585,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP Michalczew",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "OSP Michalczew",
+                "phone": "998 "
+            }
+        },
+        {
+            "type": "node",
+            "id": 11348931470,
+            "lat": 51.7825595,
+            "lon": 21.1886806,
+            "timestamp": "2023-11-14T16:30:35Z",
+            "version": 1,
+            "changeset": 144017669,
+            "user": "Rosomak",
+            "uid": 17061585,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "OSP Michalczew",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "OSP Michalczew",
+                "phone": "486644138"
             }
         },
         {
