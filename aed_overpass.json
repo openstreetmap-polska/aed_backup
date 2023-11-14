@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-14T21:32:14Z",
-        "timestamp_areas_base": "2023-11-14T19:44:22Z",
+        "timestamp_osm_base": "2023-11-14T22:31:42Z",
+        "timestamp_areas_base": "2023-11-14T18:34:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115858,6 +115858,46 @@
                 "opening_hours": "",
                 "operator": "OSP Michalczew",
                 "phone": "486644138"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11349791669,
+            "lat": 51.8008794,
+            "lon": 21.164285,
+            "timestamp": "2023-11-14T21:49:38Z",
+            "version": 1,
+            "changeset": 144027897,
+            "user": "Rosomak",
+            "uid": 17061585,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Biuro Przepustek ochrona Browar Warka",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "",
+                "operator": "Recepcja Browar Warka ",
+                "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11349810969,
+            "lat": 50.5740395,
+            "lon": 20.2312292,
+            "timestamp": "2023-11-14T22:02:11Z",
+            "version": 1,
+            "changeset": 144028171,
+            "user": "Rosomak",
+            "uid": 17061585,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Remiza OSP Mierzawa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "Samochód ratowniczo-gaśniczy",
+                "phone": ""
             }
         },
         {
