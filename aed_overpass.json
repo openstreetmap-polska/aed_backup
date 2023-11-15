@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-15T16:32:06Z",
+        "timestamp_osm_base": "2023-11-15T17:31:20Z",
         "timestamp_areas_base": "2023-11-15T13:53:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115898,6 +115898,23 @@
                 "opening_hours": "",
                 "operator": "Samochód ratowniczo-gaśniczy",
                 "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11351573670,
+            "lat": 51.0964652,
+            "lon": 17.0360741,
+            "timestamp": "2023-11-15T17:08:45Z",
+            "version": 1,
+            "changeset": 144060341,
+            "user": "s_limak",
+            "uid": 590721,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy kasie w sklepie H&H",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
