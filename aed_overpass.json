@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-15T18:31:19Z",
-        "timestamp_areas_base": "2023-11-15T15:12:14Z",
+        "timestamp_osm_base": "2023-11-15T19:31:49Z",
+        "timestamp_areas_base": "2023-11-15T18:45:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -54213,13 +54213,13 @@
         {
             "type": "node",
             "id": 9608385817,
-            "lat": 50.0538847,
-            "lon": 21.4656009,
-            "timestamp": "2022-03-26T09:48:48Z",
-            "version": 1,
-            "changeset": 118940221,
-            "user": "Bartosiu",
-            "uid": 15413449,
+            "lat": 50.0538953,
+            "lon": 21.4655497,
+            "timestamp": "2023-11-15T19:21:40Z",
+            "version": 2,
+            "changeset": 144065625,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku.",
@@ -115915,6 +115915,60 @@
                 "defibrillator:location": "Przy kasie w sklepie H&H",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352156993,
+            "lat": 52.1969999,
+            "lon": 16.5450704,
+            "timestamp": "2023-11-15T19:19:01Z",
+            "version": 1,
+            "changeset": 144065526,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie remizy",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352159400,
+            "lat": 50.0539017,
+            "lon": 21.4657076,
+            "timestamp": "2023-11-15T19:22:31Z",
+            "version": 2,
+            "changeset": 144065652,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP Nawgaczyna"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352165374,
+            "lat": 52.2429591,
+            "lon": 18.0972162,
+            "timestamp": "2023-11-15T19:10:38Z",
+            "version": 1,
+            "changeset": 144065177,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku straży pożarnej, przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
