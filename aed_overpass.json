@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-15T19:31:49Z",
+        "timestamp_osm_base": "2023-11-15T20:31:45Z",
         "timestamp_areas_base": "2023-11-15T18:45:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -115969,6 +115969,43 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352310069,
+            "lat": 49.9827997,
+            "lon": 19.5806853,
+            "timestamp": "2023-11-15T20:18:43Z",
+            "version": 1,
+            "changeset": 144067543,
+            "user": "Bąbel88",
+            "uid": 20593559,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przed boksami garażowymi",
+                "defibrillator:location:en": "In front of the garage stalls",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338669,
+            "lat": 52.2276934,
+            "lon": 21.0043974,
+            "timestamp": "2023-11-15T20:28:02Z",
+            "version": 1,
+            "changeset": 144067870,
+            "user": "kwiatek_123",
+            "uid": 14519311,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-11-15",
+                "defibrillator:location:pl": "LuxMed - Po prawej stronie recepcji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "7"
             }
         },
         {
