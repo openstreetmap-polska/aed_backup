@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-15T20:31:45Z",
-        "timestamp_areas_base": "2023-11-15T18:45:45Z",
+        "timestamp_osm_base": "2023-11-15T21:31:44Z",
+        "timestamp_areas_base": "2023-11-15T20:06:19Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52149,16 +52149,19 @@
         {
             "type": "node",
             "id": 9580272596,
-            "lat": 51.9566553,
-            "lon": 17.3354199,
-            "timestamp": "2022-03-15T10:20:16Z",
-            "version": 1,
-            "changeset": 118504694,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 51.9566254,
+            "lon": 17.3355751,
+            "timestamp": "2023-11-15T20:49:54Z",
+            "version": 2,
+            "changeset": 144068453,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na budynku remizy",
                 "emergency": "defibrillator",
-                "fixme": "istnienie urządzenia do potwierdzenia",
+                "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "OSP Łobzowiec"
             }
         },
@@ -115991,6 +115994,109 @@
         },
         {
             "type": "node",
+            "id": 11352325217,
+            "lat": 52.0225961,
+            "lon": 17.461228,
+            "timestamp": "2023-11-15T20:49:54Z",
+            "version": 1,
+            "changeset": 144068453,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na remizie",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338329,
+            "lat": 51.4170353,
+            "lon": 21.9740115,
+            "timestamp": "2023-11-15T20:40:14Z",
+            "version": 1,
+            "changeset": 144068193,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338330,
+            "lat": 51.4642667,
+            "lon": 22.6085485,
+            "timestamp": "2023-11-15T20:40:14Z",
+            "version": 1,
+            "changeset": 144068193,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338331,
+            "lat": 51.2972766,
+            "lon": 22.1444233,
+            "timestamp": "2023-11-15T20:40:14Z",
+            "version": 1,
+            "changeset": 144068193,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338332,
+            "lat": 51.2467449,
+            "lon": 22.5685217,
+            "timestamp": "2023-11-15T20:40:14Z",
+            "version": 1,
+            "changeset": 144068193,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352338333,
+            "lat": 51.2232698,
+            "lon": 22.5169759,
+            "timestamp": "2023-11-15T20:40:14Z",
+            "version": 1,
+            "changeset": 144068193,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11352338669,
             "lat": 52.2276934,
             "lon": 21.0043974,
@@ -116006,6 +116112,23 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11352361094,
+            "lat": 51.298799,
+            "lon": 22.8875944,
+            "timestamp": "2023-11-15T20:46:16Z",
+            "version": 1,
+            "changeset": 144068370,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy aptece w budynku Centrum Handlowego WAMEX",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
