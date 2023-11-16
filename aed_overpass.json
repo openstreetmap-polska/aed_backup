@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T17:31:42Z",
-        "timestamp_areas_base": "2023-11-16T13:40:21Z",
+        "timestamp_osm_base": "2023-11-16T18:31:20Z",
+        "timestamp_areas_base": "2023-11-16T15:12:49Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -114033,19 +114033,20 @@
         {
             "type": "node",
             "id": 11238123837,
-            "lat": 54.0540247,
-            "lon": 15.6459555,
-            "timestamp": "2023-10-04T13:17:06Z",
-            "version": 2,
-            "changeset": 142145319,
-            "user": "KerimPL",
-            "uid": 14682033,
+            "lat": 54.0540205,
+            "lon": 15.6460398,
+            "timestamp": "2023-11-16T17:59:37Z",
+            "version": 3,
+            "changeset": 144106652,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Ściana od ulicy budynku Centrum Przesiadkowego",
                 "defibrillator:location:en": "The street wall of the Transfer Center building",
                 "emergency": "defibrillator",
                 "indoor": "no",
+                "opening_hours": "24/7",
                 "operator": "Gmina Gościno"
             }
         },
@@ -114292,13 +114293,13 @@
         {
             "type": "node",
             "id": 11252598137,
-            "lat": 52.6267169,
-            "lon": 21.1915759,
-            "timestamp": "2023-10-10T13:10:19Z",
-            "version": 3,
-            "changeset": 142393066,
-            "user": "OSP DRWAŁY",
-            "uid": 20438332,
+            "lat": 52.6270115,
+            "lon": 21.1917334,
+            "timestamp": "2023-11-16T18:19:20Z",
+            "version": 4,
+            "changeset": 144107238,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "W samochodzie ratowniczo-gaśniczym W OSP DRWAŁY",
@@ -116616,6 +116617,133 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356397547,
+            "lat": 51.212431,
+            "lon": 22.6979004,
+            "timestamp": "2023-11-16T17:51:46Z",
+            "version": 1,
+            "changeset": 144106393,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie parafii",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356427029,
+            "lat": 51.2202714,
+            "lon": 22.6935361,
+            "timestamp": "2023-11-16T17:53:14Z",
+            "version": 1,
+            "changeset": 144106441,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku MOK",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356476855,
+            "lat": 54.4136486,
+            "lon": 18.3145271,
+            "timestamp": "2023-11-16T17:56:40Z",
+            "version": 1,
+            "changeset": 144106551,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Wewnątrz budynku szkoły, przy wejściu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356550361,
+            "lat": 52.2288838,
+            "lon": 17.2756206,
+            "timestamp": "2023-11-16T18:30:00Z",
+            "version": 1,
+            "changeset": 144107602,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na Starym Rynku",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356550362,
+            "lat": 52.2286925,
+            "lon": 17.2793872,
+            "timestamp": "2023-11-16T18:30:00Z",
+            "version": 1,
+            "changeset": 144107602,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na targowisku miejskim",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356550363,
+            "lat": 52.224954,
+            "lon": 17.2718222,
+            "timestamp": "2023-11-16T18:30:00Z",
+            "version": 1,
+            "changeset": 144107602,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na tzw. blaszaku na Osiedlu Jagiellońskim",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356550364,
+            "lat": 52.2374265,
+            "lon": 17.2923108,
+            "timestamp": "2023-11-16T18:30:00Z",
+            "version": 1,
+            "changeset": 144107602,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Przy plaży",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "no",
+                "opening_hours": "24/7"
             }
         },
         {
