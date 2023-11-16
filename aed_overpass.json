@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T08:31:58Z",
+        "timestamp_osm_base": "2023-11-16T09:31:44Z",
         "timestamp_areas_base": "2023-11-16T04:13:24Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116129,6 +116129,150 @@
                 "defibrillator:location": "Przy aptece w budynku Centrum Handlowego WAMEX",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353664628,
+            "lat": 52.0216214,
+            "lon": 17.5881919,
+            "timestamp": "2023-11-16T09:25:53Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353664635,
+            "lat": 51.922167,
+            "lon": 17.6064155,
+            "timestamp": "2023-11-16T09:25:53Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353664644,
+            "lat": 52.0061556,
+            "lon": 17.4827566,
+            "timestamp": "2023-11-16T09:25:53Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353664651,
+            "lat": 51.942037,
+            "lon": 17.6284591,
+            "timestamp": "2023-11-16T09:25:53Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353664653,
+            "lat": 51.9099296,
+            "lon": 17.3590393,
+            "timestamp": "2023-11-16T09:25:53Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353665803,
+            "lat": 52.0097242,
+            "lon": 17.5383702,
+            "timestamp": "2023-11-16T09:29:57Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353665804,
+            "lat": 51.9114796,
+            "lon": 17.4796125,
+            "timestamp": "2023-11-16T09:29:57Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353665805,
+            "lat": 51.9114873,
+            "lon": 17.4795622,
+            "timestamp": "2023-11-16T09:29:57Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
             }
         },
         {
