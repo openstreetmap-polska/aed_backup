@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T10:32:01Z",
-        "timestamp_areas_base": "2023-11-16T05:39:13Z",
+        "timestamp_osm_base": "2023-11-16T11:32:14Z",
+        "timestamp_areas_base": "2023-11-16T10:23:59Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12628,15 +12628,17 @@
             "id": 9417717627,
             "lat": 52.2313276,
             "lon": 21.0098813,
-            "timestamp": "2022-02-27T13:56:36Z",
-            "version": 3,
-            "changeset": 117908961,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2023-11-16T10:51:24Z",
+            "version": 4,
+            "changeset": 144089544,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie peronu metra Centrum w kierunku Kabat",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/BP2KF3jUGY3XgltRRbFF3w.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "location": "indoor"
             }
@@ -24471,15 +24473,17 @@
             "id": 9450841329,
             "lat": 52.1493144,
             "lon": 21.0460883,
-            "timestamp": "2022-02-24T09:40:50Z",
-            "version": 2,
-            "changeset": 117804043,
-            "user": "Awizonosz",
-            "uid": 6491543,
+            "timestamp": "2023-11-16T11:12:08Z",
+            "version": 3,
+            "changeset": 144090716,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Imielin",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/HlIlQj2pLSqrQtkxHMZtnA.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "location": "indoor"
             }
@@ -116489,6 +116493,110 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354499169,
+            "lat": 53.1331576,
+            "lon": 18.1372315,
+            "timestamp": "2023-11-16T10:47:14Z",
+            "version": 1,
+            "changeset": 144089315,
+            "user": "rygiel1208",
+            "uid": 20595665,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Recepcja firmy FRoSTA",
+                "defibrillator:location:en": "FRoSTA Reception",
+                "emergency": "defibrillator",
+                "emergency:phone": "112",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354774420,
+            "lat": 51.9679926,
+            "lon": 17.2964,
+            "timestamp": "2023-11-16T10:59:31Z",
+            "version": 1,
+            "changeset": 144089982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku GOK Jaraczewo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354774421,
+            "lat": 51.9700916,
+            "lon": 17.298743,
+            "timestamp": "2023-11-16T10:59:31Z",
+            "version": 1,
+            "changeset": 144089982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku UMiG Jaraczewo",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354774422,
+            "lat": 51.9680661,
+            "lon": 17.4993796,
+            "timestamp": "2023-11-16T10:59:31Z",
+            "version": 1,
+            "changeset": 144089982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku JOK",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354774423,
+            "lat": 51.9731234,
+            "lon": 17.4982781,
+            "timestamp": "2023-11-16T10:59:31Z",
+            "version": 1,
+            "changeset": 144089982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Poczty",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11354774424,
+            "lat": 51.9714266,
+            "lon": 17.5009453,
+            "timestamp": "2023-11-16T10:59:31Z",
+            "version": 1,
+            "changeset": 144089982,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Sądu",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
