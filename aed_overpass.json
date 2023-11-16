@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T16:31:49Z",
-        "timestamp_areas_base": "2023-11-16T15:12:49Z",
+        "timestamp_osm_base": "2023-11-16T17:31:42Z",
+        "timestamp_areas_base": "2023-11-16T13:40:21Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -116597,6 +116597,25 @@
                 "defibrillator:location": "W budynku Sądu",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356393069,
+            "lat": 52.1533571,
+            "lon": 21.0413566,
+            "timestamp": "2023-11-16T17:13:38Z",
+            "version": 1,
+            "changeset": 144105165,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-11-16",
+                "defibrillator:location:pl": "W informacji sklepu E. Leclerc",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0"
             }
         },
         {
