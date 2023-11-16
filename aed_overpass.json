@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T09:31:44Z",
-        "timestamp_areas_base": "2023-11-16T04:13:24Z",
+        "timestamp_osm_base": "2023-11-16T10:32:01Z",
+        "timestamp_areas_base": "2023-11-16T05:39:13Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -52149,11 +52149,11 @@
         {
             "type": "node",
             "id": 9580272596,
-            "lat": 51.9566254,
-            "lon": 17.3355751,
-            "timestamp": "2023-11-15T20:49:54Z",
-            "version": 2,
-            "changeset": 144068453,
+            "lat": 51.9565848,
+            "lon": 17.3355641,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 3,
+            "changeset": 144086011,
             "user": "Marek-M",
             "uid": 598860,
             "tags": {
@@ -116263,6 +116263,222 @@
             "lat": 51.9114873,
             "lon": 17.4795622,
             "timestamp": "2023-11-16T09:29:57Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353667318,
+            "lat": 51.9679153,
+            "lon": 17.2962787,
+            "timestamp": "2023-11-16T09:32:06Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353667319,
+            "lat": 52.0225054,
+            "lon": 17.4612538,
+            "timestamp": "2023-11-16T09:32:06Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353689728,
+            "lat": 51.9631285,
+            "lon": 17.6582689,
+            "timestamp": "2023-11-16T09:49:16Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353689729,
+            "lat": 51.930203,
+            "lon": 17.397432,
+            "timestamp": "2023-11-16T09:49:16Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353697595,
+            "lat": 52.0253288,
+            "lon": 17.5826725,
+            "timestamp": "2023-11-16T09:34:58Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353707047,
+            "lat": 51.9165827,
+            "lon": 17.6542462,
+            "timestamp": "2023-11-16T09:36:09Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353726472,
+            "lat": 51.9267638,
+            "lon": 17.3297122,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353726475,
+            "lat": 51.9725328,
+            "lon": 17.3657001,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353726476,
+            "lat": 52.0230843,
+            "lon": 17.6743083,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353726477,
+            "lat": 51.9565581,
+            "lon": 17.3354584,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353726479,
+            "lat": 52.069062,
+            "lon": 17.5606987,
+            "timestamp": "2023-11-16T10:15:14Z",
+            "version": 1,
+            "changeset": 144086011,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "OSP"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11353743185,
+            "lat": 51.9715767,
+            "lon": 17.2676588,
+            "timestamp": "2023-11-16T09:55:47Z",
             "version": 1,
             "changeset": 144086011,
             "user": "Marek-M",
