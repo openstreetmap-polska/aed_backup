@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-16T18:31:20Z",
-        "timestamp_areas_base": "2023-11-16T15:12:49Z",
+        "timestamp_osm_base": "2023-11-16T19:31:58Z",
+        "timestamp_areas_base": "2023-11-16T18:27:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -23032,13 +23032,13 @@
         {
             "type": "node",
             "id": 9445590169,
-            "lat": 49.73355,
-            "lon": 21.258717,
-            "timestamp": "2022-01-24T19:27:56Z",
-            "version": 1,
-            "changeset": 116555893,
-            "user": "Mordechai23",
-            "uid": 8826419,
+            "lat": 49.7335566,
+            "lon": 21.2586558,
+            "timestamp": "2023-11-16T18:54:40Z",
+            "version": 2,
+            "changeset": 144108505,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location": "Samochód ratowniczo-gaśniczy",
@@ -50908,16 +50908,18 @@
         {
             "type": "node",
             "id": 9570975581,
-            "lat": 49.7485807,
-            "lon": 21.334489,
-            "timestamp": "2022-03-11T14:49:37Z",
-            "version": 1,
-            "changeset": 118367065,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "lat": 49.7485648,
+            "lon": 21.3343339,
+            "timestamp": "2023-11-16T19:12:56Z",
+            "version": 2,
+            "changeset": 144109171,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie przy wejściu głównym do budynku remizy",
                 "emergency": "defibrillator",
-                "indoor": "yes",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "OSP Bojszowy Nowe",
                 "phone": "+48322189248"
@@ -52069,14 +52071,16 @@
             "id": 9580245626,
             "lat": 49.7341823,
             "lon": 21.0950717,
-            "timestamp": "2022-03-15T10:02:25Z",
-            "version": 1,
-            "changeset": 118503993,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-11-16T18:54:40Z",
+            "version": 2,
+            "changeset": 144108505,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
                 "emergency": "defibrillator",
-                "opening_hours": "24/7",
+                "indoor": "yes",
                 "operator": "OSP Moszczenica"
             }
         },
@@ -113678,121 +113682,20 @@
         },
         {
             "type": "node",
-            "id": 11227908038,
-            "lat": 49.6819632,
-            "lon": 21.0198699,
-            "timestamp": "2023-09-29T19:08:27Z",
-            "version": 1,
-            "changeset": 141926949,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
-            "tags": {
-                "access": "private",
-                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "OSP KSRG Szalowa",
-                "phone": "998/112"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11227915537,
-            "lat": 49.6819734,
-            "lon": 21.0198643,
-            "timestamp": "2023-09-29T19:02:35Z",
-            "version": 1,
-            "changeset": 141926733,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
-            "tags": {
-                "access": "private",
-                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "",
-                "phone": ""
-            }
-        },
-        {
-            "type": "node",
-            "id": 11227915538,
-            "lat": 49.6819689,
-            "lon": 21.0198831,
-            "timestamp": "2023-09-29T19:06:05Z",
-            "version": 1,
-            "changeset": 141926861,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
-            "tags": {
-                "access": "private",
-                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "OSP KSRG Szalowa ",
-                "phone": "112/998"
-            }
-        },
-        {
-            "type": "node",
             "id": 11227934539,
-            "lat": 49.6819377,
-            "lon": 21.0198894,
-            "timestamp": "2023-09-29T19:19:49Z",
-            "version": 1,
-            "changeset": 141927296,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
+            "lat": 49.6820242,
+            "lon": 21.019876,
+            "timestamp": "2023-11-16T18:54:40Z",
+            "version": 2,
+            "changeset": 144108505,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "private",
                 "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy 449K68 MAN",
                 "emergency": "defibrillator",
                 "indoor": "yes",
-                "opening_hours": "",
-                "operator": "OSP KSRG Szalowa ",
-                "phone": "998/112"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11227936537,
-            "lat": 49.6819794,
-            "lon": 21.0198635,
-            "timestamp": "2023-09-29T19:17:55Z",
-            "version": 1,
-            "changeset": 141927244,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
-            "tags": {
-                "access": "yes",
-                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy 449K68 MAN",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "OSP KSRG Szalowa ",
-                "phone": "998/112"
-            }
-        },
-        {
-            "type": "node",
-            "id": 11227967237,
-            "lat": 49.6820031,
-            "lon": 21.0198878,
-            "timestamp": "2023-09-29T19:45:19Z",
-            "version": 1,
-            "changeset": 141928116,
-            "user": "Fabian Jakubiak",
-            "uid": 20367241,
-            "tags": {
-                "access": "private",
-                "defibrillator:location:pl": "Samochód ratowniczy - gaśniczy MAN",
-                "emergency": "defibrillator",
-                "indoor": "yes",
-                "opening_hours": "",
-                "operator": "OSP Szalowa ",
+                "operator": "OSP KSRG Szalowa",
                 "phone": "998/112"
             }
         },
@@ -116672,6 +116575,40 @@
         },
         {
             "type": "node",
+            "id": 11356535208,
+            "lat": 51.2243863,
+            "lon": 22.6993526,
+            "timestamp": "2023-11-16T18:38:54Z",
+            "version": 1,
+            "changeset": 144107943,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie Parku Avia (2 szt.)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356535209,
+            "lat": 51.2244221,
+            "lon": 22.6987488,
+            "timestamp": "2023-11-16T18:38:54Z",
+            "version": 1,
+            "changeset": 144107943,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na terenie Parku Avia (2 szt.)",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 11356550361,
             "lat": 52.2288838,
             "lon": 17.2756206,
@@ -116744,6 +116681,81 @@
                 "fixme": "Brak dokładnej lokalizacji",
                 "indoor": "no",
                 "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356644363,
+            "lat": 51.0909505,
+            "lon": 20.6367174,
+            "timestamp": "2023-11-16T19:15:54Z",
+            "version": 1,
+            "changeset": 144109288,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Samochód ratowniczo-gaśniczy",
+                "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356660638,
+            "lat": 52.1951491,
+            "lon": 21.0205112,
+            "timestamp": "2023-11-16T19:14:53Z",
+            "version": 1,
+            "changeset": 144109250,
+            "user": "NieWnen",
+            "uid": 3885790,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Przy recepcji obok toalety",
+                "defibrillator:location:en": "At the reception desk next to the restroom",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "0",
+                "opening_hours": "24/7",
+                "operator": "Luxmed",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356682403,
+            "lat": 50.0920549,
+            "lon": 19.8994233,
+            "timestamp": "2023-11-16T19:20:24Z",
+            "version": 1,
+            "changeset": 144109434,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Galerii Bronowice",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11356725769,
+            "lat": 52.2274528,
+            "lon": 21.0077758,
+            "timestamp": "2023-11-16T19:21:42Z",
+            "version": 1,
+            "changeset": 144109477,
+            "user": "RicoElectrico",
+            "uid": 604437,
+            "tags": {
+                "access": "customers",
+                "check_date": "2023-11-16",
+                "defibrillator:location:pl": "Teatr Muzyczny Roma, foyer, w sklepie z pamiątkami",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
