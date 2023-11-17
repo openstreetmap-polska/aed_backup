@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-17T06:32:21Z",
-        "timestamp_areas_base": "2023-11-17T03:56:00Z",
+        "timestamp_osm_base": "2023-11-17T07:31:45Z",
+        "timestamp_areas_base": "2023-11-17T05:33:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -50022,15 +50022,16 @@
             "id": 9570593301,
             "lat": 54.0435562,
             "lon": 21.7859477,
-            "timestamp": "2022-03-11T11:20:03Z",
-            "version": 1,
-            "changeset": 118359511,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-11-17T07:12:26Z",
+            "version": 2,
+            "changeset": 144125121,
+            "user": "6Q2A4YG",
+            "uid": 20597420,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Defibrylator AED znajduje się na zewnątrz na ścianie budynku.",
                 "emergency": "defibrillator",
+                "indoor": "no",
                 "opening_hours": "24/7",
                 "operator": "Mazurskie Centrum Sportów Lodowych w Giżycku",
                 "phone": "+48798112337"
