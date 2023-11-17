@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-17T12:32:05Z",
+        "timestamp_osm_base": "2023-11-17T13:31:45Z",
         "timestamp_areas_base": "2023-11-17T10:18:30Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116840,6 +116840,22 @@
                 "access": "yes",
                 "defibrillator:location": "W remizie strażackiej",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11358163136,
+            "lat": 51.2212858,
+            "lon": 22.5525123,
+            "timestamp": "2023-11-17T13:30:33Z",
+            "version": 1,
+            "changeset": 144139496,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w portierni",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
