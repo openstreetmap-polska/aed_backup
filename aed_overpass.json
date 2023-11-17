@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-17T16:31:30Z",
+        "timestamp_osm_base": "2023-11-17T17:32:16Z",
         "timestamp_areas_base": "2023-11-17T13:22:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -24493,15 +24493,17 @@
             "id": 9450842155,
             "lat": 52.2085267,
             "lon": 21.0078028,
-            "timestamp": "2022-08-24T06:45:05Z",
-            "version": 2,
-            "changeset": 125299862,
-            "user": "rmikke",
-            "uid": 69607,
+            "timestamp": "2023-11-17T17:06:01Z",
+            "version": 3,
+            "changeset": 144147746,
+            "user": "RicoElectrico",
+            "uid": 604437,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na peronie stacji metra Pole Mokotowskie",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/XXsH2Yy5XRaxnw-C5nZRWg.webp",
+                "image:license": "CC0",
                 "indoor": "yes",
                 "location": "indoor"
             }
@@ -116829,11 +116831,11 @@
         {
             "type": "node",
             "id": 11357876843,
-            "lat": 52.2953195,
-            "lon": 15.4330585,
-            "timestamp": "2023-11-17T10:11:36Z",
-            "version": 1,
-            "changeset": 144131419,
+            "lat": 52.2953421,
+            "lon": 15.4330739,
+            "timestamp": "2023-11-17T16:58:08Z",
+            "version": 2,
+            "changeset": 144147497,
             "user": "Cristoffs",
             "uid": 6765127,
             "tags": {
