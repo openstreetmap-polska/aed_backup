@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-17T17:32:16Z",
+        "timestamp_osm_base": "2023-11-17T18:31:59Z",
         "timestamp_areas_base": "2023-11-17T13:22:35Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116874,6 +116874,27 @@
                 "emergency": "defibrillator",
                 "fixme": "lokalizacja",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11358786560,
+            "lat": 53.4352762,
+            "lon": 14.5552809,
+            "timestamp": "2023-11-17T18:24:41Z",
+            "version": 1,
+            "changeset": 144150263,
+            "user": "ptarac",
+            "uid": 11496679,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W rejestracji Medicover na pierwszym piętrze.",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "level": "1",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+                "operator": "Medicover",
+                "wheelchair": "yes"
             }
         },
         {
