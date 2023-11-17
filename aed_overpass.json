@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-17T08:32:15Z",
+        "timestamp_osm_base": "2023-11-17T09:31:32Z",
         "timestamp_areas_base": "2023-11-17T05:33:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116756,6 +116756,73 @@
                 "check_date": "2023-11-16",
                 "defibrillator:location:pl": "Teatr Muzyczny Roma, foyer, w sklepie z pamiątkami",
                 "emergency": "defibrillator",
+                "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11357720369,
+            "lat": 52.3925461,
+            "lon": 16.8745027,
+            "timestamp": "2023-11-17T08:41:16Z",
+            "version": 1,
+            "changeset": 144128135,
+            "user": "SPEC KABLE",
+            "uid": 20598675,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pylonie przed budynkiem biura SPEC KABLE",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11357723069,
+            "lat": 52.3927759,
+            "lon": 16.8742278,
+            "timestamp": "2023-11-17T08:43:37Z",
+            "version": 1,
+            "changeset": 144128213,
+            "user": "SPEC KABLE",
+            "uid": 20598675,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "W pylonie przed budynkiem biura SPEC KABLE",
+                "emergency": "defibrillator",
+                "indoor": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11357776182,
+            "lat": 49.4685258,
+            "lon": 22.3308217,
+            "timestamp": "2023-11-17T09:10:19Z",
+            "version": 1,
+            "changeset": 144129272,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w budynku starostwa powiatowego",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia dostępność i szczegóły położenia"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11357796863,
+            "lat": 49.445797,
+            "lon": 22.3985106,
+            "timestamp": "2023-11-17T09:15:12Z",
+            "version": 1,
+            "changeset": 144129453,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "wewnątrz budynku",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia dostępność i szczegóły położenia",
                 "indoor": "yes"
             }
         },
