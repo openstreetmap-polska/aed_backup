@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-18T11:32:16Z",
+        "timestamp_osm_base": "2023-11-18T12:32:09Z",
         "timestamp_areas_base": "2023-11-18T08:18:44Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116897,6 +116897,61 @@
                 "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
                 "operator": "Medicover",
                 "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11359918461,
+            "lat": 53.1084787,
+            "lon": 23.1541578,
+            "timestamp": "2023-11-18T12:22:11Z",
+            "version": 1,
+            "changeset": 144172167,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W kampusie przy ul. Ciołkowskiego",
+                "emergency": "defibrillator",
+                "fixme": "Brak dokładnej lokalizacji",
+                "indoor": "yes",
+                "operator": "Uniwersytet w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11359918462,
+            "lat": 53.1287763,
+            "lon": 23.1690663,
+            "timestamp": "2023-11-18T12:22:11Z",
+            "version": 1,
+            "changeset": 144172167,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Wydziału Prawa",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet w Białymstoku"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11359918463,
+            "lat": 53.1145482,
+            "lon": 23.1497421,
+            "timestamp": "2023-11-18T12:22:11Z",
+            "version": 1,
+            "changeset": 144172167,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "W budynku Wydziału Nauk o Edukacji",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "operator": "Uniwersytet w Białymstoku"
             }
         },
         {
