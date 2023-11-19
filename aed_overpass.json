@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-19T17:31:34Z",
-        "timestamp_areas_base": "2023-11-19T14:45:45Z",
+        "timestamp_osm_base": "2023-11-19T18:31:56Z",
+        "timestamp_areas_base": "2023-11-19T17:24:17Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -102091,16 +102091,16 @@
         {
             "type": "node",
             "id": 10865811993,
-            "lat": 51.6519396,
-            "lon": 16.0598973,
-            "timestamp": "2023-05-03T19:21:56Z",
-            "version": 1,
-            "changeset": 135673975,
-            "user": "Marek-M",
-            "uid": 598860,
+            "lat": 51.6519705,
+            "lon": 16.0599869,
+            "timestamp": "2023-11-19T18:02:23Z",
+            "version": 2,
+            "changeset": 144218107,
+            "user": "puchaczowsky",
+            "uid": 7518458,
             "tags": {
                 "emergency": "defibrillator",
-                "fixme": "Lokalizacja do dokładnego ustalenia",
+                "indoor": "no",
                 "operator": "Młodzieżowy Klub MAYDAY",
                 "source": "https://glogow.naszemiasto.pl/dziesiec-nowych-defibrylatorow-aed-w-glogowie-zobacz-gdzie/ar/c14-9303411"
             }
