@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-19T16:32:04Z",
-        "timestamp_areas_base": "2023-11-19T12:40:23Z",
+        "timestamp_osm_base": "2023-11-19T17:31:34Z",
+        "timestamp_areas_base": "2023-11-19T14:45:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -104474,13 +104474,13 @@
         {
             "type": "node",
             "id": 10937185106,
-            "lat": 52.0903949,
-            "lon": 16.5772082,
-            "timestamp": "2023-05-29T15:51:23Z",
-            "version": 1,
-            "changeset": 136707111,
-            "user": "Ratownik",
-            "uid": 19423050,
+            "lat": 52.0901284,
+            "lon": 16.5772942,
+            "timestamp": "2023-11-19T17:13:34Z",
+            "version": 2,
+            "changeset": 144216597,
+            "user": "voltairovicz",
+            "uid": 1744629,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "Na ścianie Remizy",
