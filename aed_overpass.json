@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-20T11:31:15Z",
+        "timestamp_osm_base": "2023-11-20T12:31:30Z",
         "timestamp_areas_base": "2023-11-20T07:35:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -116994,6 +116994,66 @@
                 "opening_hours": "",
                 "operator": "",
                 "phone": ""
+            }
+        },
+        {
+            "type": "node",
+            "id": 11364029971,
+            "lat": 49.8503066,
+            "lon": 21.8469879,
+            "timestamp": "2023-11-20T11:42:29Z",
+            "version": 1,
+            "changeset": 144243349,
+            "user": "Zagroda Szmer",
+            "uid": 20606936,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Zagroda Szmer Gospodarstwo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "Zagroda Szmer ",
+                "phone": "792091615"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11364030470,
+            "lat": 49.8503888,
+            "lon": 21.8469587,
+            "timestamp": "2023-11-20T11:44:51Z",
+            "version": 1,
+            "changeset": 144243434,
+            "user": "Zagroda Szmer",
+            "uid": 20606936,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Zagroda Szmer Gospodarstwo ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "Zagroda Szmer ",
+                "phone": "792 091 615 "
+            }
+        },
+        {
+            "type": "node",
+            "id": 11364041669,
+            "lat": 49.8502111,
+            "lon": 21.8470487,
+            "timestamp": "2023-11-20T11:39:34Z",
+            "version": 1,
+            "changeset": 144243237,
+            "user": "Zagroda Szmer",
+            "uid": 20606936,
+            "tags": {
+                "access": "private",
+                "defibrillator:location:pl": "Zagroda Szmer Gospodarstwo",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": "792091615"
             }
         },
         {
