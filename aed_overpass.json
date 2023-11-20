@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-20T07:31:59Z",
-        "timestamp_areas_base": "2023-11-20T05:02:58Z",
+        "timestamp_osm_base": "2023-11-20T08:31:45Z",
+        "timestamp_areas_base": "2023-11-20T07:35:10Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -116974,6 +116974,26 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "112",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11363608269,
+            "lat": 52.5516896,
+            "lon": 16.0843467,
+            "timestamp": "2023-11-20T07:43:39Z",
+            "version": 1,
+            "changeset": 144234706,
+            "user": "Ochotnicza Straż Pożarna w Kwilczu",
+            "uid": 20602121,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location:pl": "Remiza Ochotnicza Straż  Pożarna w Kwilczu ",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "",
+                "phone": ""
             }
         },
         {
