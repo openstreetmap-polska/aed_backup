@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-20T17:32:20Z",
+        "timestamp_osm_base": "2023-11-20T18:31:29Z",
         "timestamp_areas_base": "2023-11-20T14:35:45Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -117075,6 +117075,26 @@
                 "image:license": "CC0",
                 "indoor": "yes",
                 "level": "0"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11364681569,
+            "lat": 52.3035765,
+            "lon": 21.1637561,
+            "timestamp": "2023-11-20T17:43:05Z",
+            "version": 1,
+            "changeset": 144256737,
+            "user": "Jaromir132",
+            "uid": 20607977,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location:pl": "Sklep Auchan, ul. Wyszyńskiego 7BL21",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "opening_hours": "",
+                "operator": "MaxHarter",
+                "phone": "22 444 02 22"
             }
         },
         {
