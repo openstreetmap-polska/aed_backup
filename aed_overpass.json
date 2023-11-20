@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-20T14:32:30Z",
+        "timestamp_osm_base": "2023-11-20T15:32:15Z",
         "timestamp_areas_base": "2023-11-20T12:19:15Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -117061,15 +117061,15 @@
             "id": 11364275969,
             "lat": 52.198471,
             "lon": 21.0471819,
-            "timestamp": "2023-11-20T13:58:30Z",
-            "version": 2,
-            "changeset": 144248647,
+            "timestamp": "2023-11-20T15:10:58Z",
+            "version": 3,
+            "changeset": 144251376,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-11-20",
-                "defibrillator:location:pl": "Na prawo od wejścia, na ścianie przy szatni",
+                "defibrillator:location:pl": "Na lewo od wejścia, na ścianie przy szatni",
                 "emergency": "defibrillator",
                 "image": "https://back.openaedmap.org/api/v1/photos/view/0eGA5Ec4DguDwgLBE56QWg.webp",
                 "image:license": "CC0",
