@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-21T09:31:57Z",
-        "timestamp_areas_base": "2023-11-21T07:20:03Z",
+        "timestamp_osm_base": "2023-11-21T10:31:30Z",
+        "timestamp_areas_base": "2023-11-21T09:43:06Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -117111,6 +117111,22 @@
                 "indoor": "yes",
                 "level": "2",
                 "phone": "+48 22 824 38 38"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11365928677,
+            "lat": 53.5890354,
+            "lon": 18.6724629,
+            "timestamp": "2023-11-21T10:07:40Z",
+            "version": 1,
+            "changeset": 144280111,
+            "user": "Sebastian | Yanosik",
+            "uid": 20170873,
+            "tags": {
+                "defibrillator:location": "w budynku OSP",
+                "emergency": "defibrillator",
+                "fixme": "do uzupełnienia szczegóły położenia i dostępność"
             }
         },
         {
