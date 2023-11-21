@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-21T16:32:05Z",
+        "timestamp_osm_base": "2023-11-21T17:31:44Z",
         "timestamp_areas_base": "2023-11-21T14:31:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -103463,15 +103463,17 @@
             "id": 10908694605,
             "lat": 54.3971923,
             "lon": 18.5788152,
-            "timestamp": "2023-05-18T17:05:11Z",
-            "version": 1,
-            "changeset": 136265057,
+            "timestamp": "2023-11-21T16:59:17Z",
+            "version": 2,
+            "changeset": 144296042,
             "user": "RicoElectrico",
             "uid": 604437,
             "tags": {
                 "access": "customers",
                 "defibrillator:location": "LUX MED - korytarz obok recepcji",
                 "emergency": "defibrillator",
+                "image": "https://back.openaedmap.org/api/v1/photos/view/lPBfCY99bZ-Y5K7pmUnMkg.webp",
+                "image:license": "CC0",
                 "indoor": "yes"
             }
         },
