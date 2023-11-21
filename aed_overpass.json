@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-21T19:32:08Z",
-        "timestamp_areas_base": "2023-11-21T14:31:02Z",
+        "timestamp_osm_base": "2023-11-21T20:31:30Z",
+        "timestamp_areas_base": "2023-11-21T19:19:40Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -117175,6 +117175,24 @@
                 "emergency": "defibrillator",
                 "emergency:phone": "478314010",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11367336069,
+            "lat": 50.9322964,
+            "lon": 19.274274,
+            "timestamp": "2023-11-21T20:29:58Z",
+            "version": 1,
+            "changeset": 144301929,
+            "user": "AdrianŚlusarczyk",
+            "uid": 14754781,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku w pobliżu przystanku- kapsuła AED",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "phone": "728 327 635"
             }
         },
         {
