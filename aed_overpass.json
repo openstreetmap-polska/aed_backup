@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-21T11:31:45Z",
-        "timestamp_areas_base": "2023-11-21T09:43:06Z",
+        "timestamp_osm_base": "2023-11-21T12:32:01Z",
+        "timestamp_areas_base": "2023-11-21T07:20:03Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -115672,15 +115672,16 @@
             "id": 11348247918,
             "lat": 52.0545006,
             "lon": 20.4843656,
-            "timestamp": "2023-11-14T11:19:45Z",
-            "version": 1,
-            "changeset": 144006159,
+            "timestamp": "2023-11-21T11:44:17Z",
+            "version": 2,
+            "changeset": 144283609,
             "user": "Sebastian | Yanosik",
             "uid": 20170873,
             "tags": {
-                "defibrillator:location": "przy budynku przedszkola",
+                "access": "yes",
+                "defibrillator:location": "na ścienie budynku przedszkola",
                 "emergency": "defibrillator",
-                "fixme": "do uzupełnienia dostępność i szczegóły położenia"
+                "opening_hours": "24/7"
             }
         },
         {
