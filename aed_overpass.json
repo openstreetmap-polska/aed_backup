@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-21T18:31:19Z",
-        "timestamp_areas_base": "2023-11-21T16:48:29Z",
+        "timestamp_osm_base": "2023-11-21T19:32:08Z",
+        "timestamp_areas_base": "2023-11-21T14:31:02Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -1337,18 +1337,19 @@
             "id": 5355542619,
             "lat": 53.6476026,
             "lon": 21.5660828,
-            "timestamp": "2023-11-09T14:54:07Z",
-            "version": 3,
-            "changeset": 143826281,
-            "user": "Piotr Strębski",
-            "uid": 5060085,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 4,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-07-11",
                 "defibrillator:location:pl": "Na ścianie Wieży Ciśnień",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537 182 708"
+                "phone": "+48 537 182 708",
+                "ref": "21"
             }
         },
         {
@@ -113819,18 +113820,19 @@
             "id": 11236747437,
             "lat": 53.6472697,
             "lon": 21.564291,
-            "timestamp": "2023-10-03T17:57:42Z",
-            "version": 1,
-            "changeset": 142111938,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-03",
                 "defibrillator:location:pl": "Na ścianie przy parkingu.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "537182708"
+                "phone": "537182708",
+                "ref": "22"
             }
         },
         {
@@ -113838,18 +113840,19 @@
             "id": 11236755237,
             "lat": 53.6408766,
             "lon": 21.533074,
-            "timestamp": "2023-10-03T18:01:22Z",
-            "version": 1,
-            "changeset": 142111938,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-03",
                 "defibrillator:location:pl": "Balustrady rampy zjazdowej z ośrodka zdrowia",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "23"
             }
         },
         {
@@ -113857,18 +113860,19 @@
             "id": 11236756637,
             "lat": 53.6868066,
             "lon": 21.4995531,
-            "timestamp": "2023-10-03T18:02:47Z",
-            "version": 1,
-            "changeset": 142111938,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-03",
                 "defibrillator:location:pl": "Ściana wieży OSP Ukta",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "24"
             }
         },
         {
@@ -113876,18 +113880,19 @@
             "id": 11236757937,
             "lat": 53.6101757,
             "lon": 22.0645439,
-            "timestamp": "2023-10-03T18:03:46Z",
-            "version": 1,
-            "changeset": 142111938,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-03",
                 "defibrillator:location:pl": "Róg budynku ośrodka kultury.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "31"
             }
         },
         {
@@ -113895,18 +113900,19 @@
             "id": 11236757938,
             "lat": 53.6849764,
             "lon": 22.104637,
-            "timestamp": "2023-10-03T18:04:56Z",
-            "version": 1,
-            "changeset": 142111938,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-03",
                 "defibrillator:location:pl": "Ściana frontowa OSP Drygały",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "32"
             }
         },
         {
@@ -115086,18 +115092,19 @@
             "id": 11294934569,
             "lat": 53.6237213,
             "lon": 21.8298118,
-            "timestamp": "2023-10-28T08:21:19Z",
-            "version": 1,
-            "changeset": 143247879,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-28",
                 "defibrillator:location:pl": "Przed ogrodzeniem szkoły.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "7"
             }
         },
         {
@@ -115105,18 +115112,19 @@
             "id": 11294936769,
             "lat": 53.6185335,
             "lon": 21.8203858,
-            "timestamp": "2023-10-28T08:23:20Z",
-            "version": 1,
-            "changeset": 143247879,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-28",
                 "defibrillator:location:pl": "Przy wejściu do budynku.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "8"
             }
         },
         {
@@ -115143,18 +115151,19 @@
             "id": 11294936771,
             "lat": 53.6299502,
             "lon": 21.8374825,
-            "timestamp": "2023-10-28T08:24:59Z",
-            "version": 1,
-            "changeset": 143247879,
-            "user": "Mersonia",
-            "uid": 18422067,
+            "timestamp": "2023-11-21T19:10:30Z",
+            "version": 2,
+            "changeset": 144299677,
+            "user": "Marek-M",
+            "uid": 598860,
             "tags": {
                 "access": "yes",
                 "check_date": "2023-10-28",
                 "defibrillator:location:pl": "Przy placu zabaw, frontem do jezdni.",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "phone": "+48 537182708"
+                "phone": "+48 537182708",
+                "ref": "3"
             }
         },
         {
@@ -117130,6 +117139,42 @@
                 "defibrillator:location": "w budynku OSP",
                 "emergency": "defibrillator",
                 "fixme": "do uzupełnienia szczegóły położenia i dostępność"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11367215407,
+            "lat": 50.8040016,
+            "lon": 19.1525325,
+            "timestamp": "2023-11-21T19:20:47Z",
+            "version": 1,
+            "changeset": 144299975,
+            "user": "Marek-M",
+            "uid": 598860,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na elewacji frontowej budynku hali",
+                "emergency": "defibrillator",
+                "indoor": "no",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11367215469,
+            "lat": 49.8732049,
+            "lon": 21.0448743,
+            "timestamp": "2023-11-21T19:18:13Z",
+            "version": 1,
+            "changeset": 144299899,
+            "user": "Krztsiekb998",
+            "uid": 20611545,
+            "tags": {
+                "access": "private",
+                "defibrillator:location": "Dostępny w remizie OSP Dąbrówka Tuchowska",
+                "emergency": "defibrillator",
+                "emergency:phone": "478314010",
+                "indoor": "yes"
             }
         },
         {
