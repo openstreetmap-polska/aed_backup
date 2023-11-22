@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T14:31:29Z",
-        "timestamp_areas_base": "2023-11-22T09:35:54Z",
+        "timestamp_osm_base": "2023-11-22T15:32:04Z",
+        "timestamp_areas_base": "2023-11-22T14:26:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -117232,6 +117232,63 @@
                 "access": "yes",
                 "defibrillator:location": "Na ścianie budynku w kapsule",
                 "emergency": "defibrillator"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11368790269,
+            "lat": 54.4274012,
+            "lon": 18.5904411,
+            "timestamp": "2023-11-22T15:06:08Z",
+            "version": 1,
+            "changeset": 144330239,
+            "user": "ERGO Hestia",
+            "uid": 20479306,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie wewnętrznej przy drzwiach wejściowych do budynku",
+                "defibrillator:location:en": "on the internal wall at the entrance door to the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48585594385"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11368796869,
+            "lat": 54.4270292,
+            "lon": 18.5898209,
+            "timestamp": "2023-11-22T15:08:19Z",
+            "version": 1,
+            "changeset": 144330239,
+            "user": "ERGO Hestia",
+            "uid": 20479306,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie wewnętrznej przy drzwiach wejściowych  do budynku",
+                "defibrillator:location:en": "on the internal wall at the entrance door to the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48585594623"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11368797969,
+            "lat": 54.4266915,
+            "lon": 18.5890141,
+            "timestamp": "2023-11-22T15:09:09Z",
+            "version": 1,
+            "changeset": 144330239,
+            "user": "ERGO Hestia",
+            "uid": 20479306,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "na ścianie wewnętrznej przy drzwiach wejściowych do budynku",
+                "defibrillator:location:en": "on the internal wall at the entrance door to the building",
+                "emergency": "defibrillator",
+                "indoor": "yes",
+                "phone": "+48585594634"
             }
         },
         {
