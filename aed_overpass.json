@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T17:31:58Z",
+        "timestamp_osm_base": "2023-11-22T18:31:35Z",
         "timestamp_areas_base": "2023-11-22T16:37:34Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -117290,6 +117290,24 @@
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "phone": "+48585594634"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11369099969,
+            "lat": 52.1201161,
+            "lon": 20.6715399,
+            "timestamp": "2023-11-22T17:41:01Z",
+            "version": 1,
+            "changeset": 144336294,
+            "user": "SLO Nr 5 w Milanówku",
+            "uid": 20611576,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Na ścianie po lewo za drzwiami wejściowymi.",
+                "defibrillator:location:en": "On the wall to the left behind the entrance door.",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
