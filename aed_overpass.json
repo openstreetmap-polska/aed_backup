@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T12:31:41Z",
-        "timestamp_areas_base": "2023-11-22T07:03:42Z",
+        "timestamp_osm_base": "2023-11-22T13:32:01Z",
+        "timestamp_areas_base": "2023-11-22T11:47:29Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -12250,17 +12250,22 @@
             "id": 9416664590,
             "lat": 52.3232441,
             "lon": 14.6537577,
-            "timestamp": "2022-01-13T22:59:34Z",
-            "version": 1,
-            "changeset": 116127878,
-            "user": "Aim311",
-            "uid": 4493657,
+            "timestamp": "2023-11-22T13:00:46Z",
+            "version": 2,
+            "changeset": 144325639,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "access": "yes",
                 "defibrillator:location": "ściana toalety",
+                "description": "model IPAD",
                 "emergency": "defibrillator",
                 "indoor": "no",
-                "opening_hours": "24/7"
+                "manufacturer": "Avia",
+                "opening_hours": "24/7",
+                "operator": "Autostrada Wielkopolska",
+                "phone": "+48 61 838 31 12",
+                "wheelchair": "limited"
             }
         },
         {
