@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T10:32:12Z",
+        "timestamp_osm_base": "2023-11-22T11:32:00Z",
         "timestamp_areas_base": "2023-11-22T09:35:54Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -112328,11 +112328,11 @@
         {
             "type": "node",
             "id": 11174588737,
-            "lat": 50.2751498,
+            "lat": 50.2751472,
             "lon": 19.1508917,
-            "timestamp": "2023-09-07T13:22:40Z",
-            "version": 1,
-            "changeset": 140941118,
+            "timestamp": "2023-11-22T10:44:47Z",
+            "version": 2,
+            "changeset": 144320744,
             "user": "wojsa",
             "uid": 240303,
             "tags": {
@@ -112340,7 +112340,8 @@
                 "defibrillator:location": "parter obok portierni",
                 "defibrillator:location:en": "ground floor next to the gatehouse",
                 "emergency": "defibrillator",
-                "indoor": "yes"
+                "indoor": "yes",
+                "operator": "Tauron Obsługa Klienta"
             }
         },
         {
@@ -117193,6 +117194,23 @@
                 "emergency": "defibrillator",
                 "indoor": "no",
                 "phone": "728 327 635"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11368328969,
+            "lat": 50.6814772,
+            "lon": 21.7492067,
+            "timestamp": "2023-11-22T10:41:34Z",
+            "version": 1,
+            "changeset": 144320621,
+            "user": "wojsa",
+            "uid": 240303,
+            "tags": {
+                "access": "customers",
+                "defibrillator:location": "Restauracja Widnokrąg",
+                "emergency": "defibrillator",
+                "indoor": "yes"
             }
         },
         {
