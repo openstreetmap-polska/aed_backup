@@ -2,8 +2,8 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T11:32:00Z",
-        "timestamp_areas_base": "2023-11-22T09:35:54Z",
+        "timestamp_osm_base": "2023-11-22T12:31:41Z",
+        "timestamp_areas_base": "2023-11-22T07:03:42Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
     "elements": [
@@ -117211,6 +117211,22 @@
                 "defibrillator:location": "Restauracja Widnokrąg",
                 "emergency": "defibrillator",
                 "indoor": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11368374750,
+            "lat": 52.9527228,
+            "lon": 17.9196898,
+            "timestamp": "2023-11-22T11:35:09Z",
+            "version": 1,
+            "changeset": 144322443,
+            "user": "ArturKomedant",
+            "uid": 20613344,
+            "tags": {
+                "access": "yes",
+                "defibrillator:location": "Na ścianie budynku w kapsule",
+                "emergency": "defibrillator"
             }
         },
         {
