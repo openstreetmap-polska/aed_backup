@@ -2,7 +2,7 @@
     "version": 0.6,
     "generator": "Overpass API 0.7.61.5 4133829e",
     "osm3s": {
-        "timestamp_osm_base": "2023-11-22T15:32:04Z",
+        "timestamp_osm_base": "2023-11-22T16:32:24Z",
         "timestamp_areas_base": "2023-11-22T14:26:16Z",
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
     },
@@ -52140,13 +52140,14 @@
             "id": 9580260711,
             "lat": 53.8448814,
             "lon": 18.9615997,
-            "timestamp": "2022-03-15T10:16:45Z",
-            "version": 1,
-            "changeset": 118504561,
-            "user": "Aleksander | Yanosik",
-            "uid": 15281180,
+            "timestamp": "2023-11-22T15:51:16Z",
+            "version": 2,
+            "changeset": 144331718,
+            "user": "Nikodem18",
+            "uid": 15028709,
             "tags": {
                 "access": "yes",
+                "defibrillator:location": "W sytuacji zagrożeni życia lub zdrowia użyć  przycisku syreny alarmowe na ścianie budynku",
                 "emergency": "defibrillator",
                 "indoor": "yes",
                 "opening_hours": "24/7",
