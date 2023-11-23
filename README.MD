@@ -1,14 +1,14 @@
-# AED backup and stats (2023-11-23 10:33:05)
+# AED backup and stats (2023-11-23 13:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 6227
+Total AED: 6229
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2023-01-01: 4047\
-Average daily growth since beginning of the year: 7.34
+AED for 2023-01-01: 4045\
+Average daily growth since beginning of the year: 7.35
 
 ## Top creators
 | # | User | Created |
@@ -21,7 +21,7 @@ Average daily growth since beginning of the year: 7.34
 | 6 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 7 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 334 |
 | 8 | [Aim311](<https://www.openstreetmap.org/user/Aim311>) | 130 |
-| 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 118 |
+| 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 119 |
 | 10 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 89 |
 | 12 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 73 |
@@ -34,10 +34,10 @@ Average daily growth since beginning of the year: 7.34
 | 19 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 36 |
 | 20 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
 | 21 | [Karolina &#124; Yanosik](<https://www.openstreetmap.org/user/Karolina &#124; Yanosik>) | 34 |
-| 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 31 |
-| 23 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 31 |
+| 22 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 31 |
+| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 31 |
 | 24 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 30 |
-| 25 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 28 |
+| 25 | [cedaros](<https://www.openstreetmap.org/user/cedaros>) | 28 |
 
 ## Tag access pie
 ![](report_data/tag_access.svg)
