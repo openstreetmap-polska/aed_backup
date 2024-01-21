@@ -1,21 +1,21 @@
-# AED backup and stats (2024-01-21 15:33:05)
+# AED backup and stats (2024-01-21 20:33:05)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 6528
+Total AED: 6529
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2024-01-01: 6369\
-Average daily growth since beginning of the year: 8.20
+Average daily growth since beginning of the year: 8.25
 
 ## Top creators
 | # | User | Created |
 | ------------- | ------------- | ------------- |
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 728 |
 | 2 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 557 |
-| 3 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 554 |
+| 3 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 555 |
 | 4 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 370 |
 | 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 351 |
 | 6 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
