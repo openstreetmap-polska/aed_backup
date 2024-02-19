@@ -124,6 +124,12 @@ def top_creators(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
     df_users.columns = columns
     df_users['user_link'] = OSM_USER_URL + df_users['User'].astype(str)
 
+    df_users = df_users.sort_values(
+        by=['Created', 'User'],
+        ascending=[False, True],
+        key=lambda x: x.str.lower() if type(x) is str else x
+    )
+
     md_content_table = [
         f'| # | {columns[0]} | {columns[1]} |',
         '| ------------- | ------------- | ------------- |'
