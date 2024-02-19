@@ -28,7 +28,7 @@ class OsmCache:
         }
     }
     """
-    OSM_API_URL = 'https://www.openstreetmap.org/api/0.6'
+    OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
     OSM_USER_AGENT = 'aed_backup/1.0 (github.com/openstreetmap-polska)'
     CACHE_TIMEOUT = 3
     CACHE_RETRIES = 3
