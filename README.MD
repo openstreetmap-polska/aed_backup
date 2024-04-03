@@ -1,20 +1,20 @@
-# AED backup and stats (2024-03-31 09:33:05)
+# AED backup and stats (2024-04-03 15:33:04)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 6868
+Total AED: 6887
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2024-01-01: 6267\
-Average daily growth since beginning of the year: 6.89
+AED for 2024-01-01: 6264\
+Average daily growth since beginning of the year: 6.98
 
 ## Top creators
 | # | User | Created |
 | ------------- | ------------- | ------------- |
 | 1 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 728 |
-| 2 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 691 |
+| 2 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 697 |
 | 3 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 557 |
 | 4 | [voltairovicz](<https://www.openstreetmap.org/user/voltairovicz>) | 370 |
 | 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 351 |
@@ -24,8 +24,8 @@ Average daily growth since beginning of the year: 6.89
 | 9 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 122 |
 | 10 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 11 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 90 |
-| 12 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 75 |
-| 13 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 73 |
+| 12 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 78 |
+| 13 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 75 |
 | 14 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 65 |
 | 15 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 46 |
 | 16 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 44 |
