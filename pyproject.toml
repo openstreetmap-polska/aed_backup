@@ -10,10 +10,16 @@ matplotlib = "^3.8.4"
 pandas = "^2.2.1"
 python = "^3.12"
 requests = "^2.31.0"
+tqdm = "^4.66.2"
 
 [build-system]
 build-backend = "poetry.core.masonry.api"
 requires = ["poetry-core"]
+
+[tool.ruff]
+indent-width = 4
+line-length = 120
+target-version = "py312"
 
 [tool.ruff.format]
 quote-style = "single"

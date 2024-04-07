@@ -4,6 +4,7 @@ from time import time
 from typing import Any
 
 import requests
+from tqdm import tqdm
 
 
 class OsmCache:
@@ -29,7 +30,7 @@ class OsmCache:
     """
 
     OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
-    OSM_USER_AGENT = 'aed_backup/1.0 (github.com/openstreetmap-polska)'
+    OSM_USER_AGENT = 'aed_backup/1.1 (+https://github.com/openstreetmap-polska/aed_backup)'
     CACHE_TIMEOUT = 3
     CACHE_RETRIES = 3
     OSM_CACHE_FILE = '.osm_cache.json'
@@ -79,20 +80,13 @@ class OsmCache:
             if cached_elements[-1]['version'] != elem['version']:
                 to_update.append((elem['type'], obj_id))
 
-        if to_update:
-            logging.info(f'OSM Cache: Updating {len(to_update)} elements')
-        for obj_type, obj_id in to_update:
+        for obj_type, obj_id in tqdm(to_update, desc='Updating OSM Cache', unit='elem'):
             for i in range(1, self.CACHE_RETRIES + 1):
                 try:
-                    self.cache['objects'][obj_id] = self._fetch_object_history(
-                        obj_type, obj_id
-                    )
+                    self.cache['objects'][obj_id] = self._fetch_object_history(obj_type, obj_id)
                     break
                 except Exception as e:
-                    logging.warning(
-                        f'[{i}/{self.CACHE_RETRIES}] Cannot update object'
-                        f'{obj_id}: {e}'
-                    )
+                    logging.warning(f'[{i}/{self.CACHE_RETRIES}] Cannot update object' f'{obj_id}: {e}')
 
         if to_update:
             self._save()

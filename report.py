@@ -90,9 +90,7 @@ def current_year_aed_scatter_plot(df_date: pd.DataFrame, year: int) -> dict[str,
     }
 
 
-def _get_creators_from_cache(
-    cache: dict[str, Any], tag: tuple[str, str]
-) -> pd.DataFrame:
+def _get_creators_from_cache(cache: dict[str, Any], tag: tuple[str, str]) -> pd.DataFrame:
     initial_objects = []
     for obj_id, obj_versions in cache['objects'].items():
         for obj in obj_versions:
@@ -167,9 +165,7 @@ def tag_access_pie(df: pd.DataFrame) -> dict[str, Any]:
 def tag_access_details_pie(df: pd.DataFrame) -> dict[str, Any]:
     df_access = df['access'].value_counts(sort=True).reset_index()
     df_access.columns = ['Access', 'Value']
-    df_access['Access2'] = (
-        df_access['Access'] + '–' + df_access['Value'].astype(str) + ' pc.'
-    )
+    df_access['Access2'] = df_access['Access'] + '–' + df_access['Value'].astype(str) + ' pc.'
     plt.clf()
     plt.pie(df_access['Value'], startangle=90)
     plt.title(f'Type of access ({current_date})', fontsize=14, loc='left')
@@ -217,11 +213,7 @@ def simple_md_converter(data: list[dict[str, Any]]) -> str:
         if not isinstance(element, dict):
             continue
 
-        content.append(
-            '{} {}\n{}\n'.format(
-                '#' * element['heading_level'], element['heading'], element['content']
-            )
-        )
+        content.append('{} {}\n{}\n'.format('#' * element['heading_level'], element['heading'], element['content']))
 
     return '\n'.join(content)
 
@@ -234,12 +226,7 @@ def create_report_md(overpass: dict, cache: dict[str, Any]) -> str:
     df['year'] = pd.DatetimeIndex(df['timestamp']).year
     df['date'] = pd.DatetimeIndex(df['timestamp']).date
 
-    df_date = (
-        df[['id', 'date']]
-        .groupby('date', as_index=False)
-        .count()
-        .rename(columns={'id': 'changes'})
-    )
+    df_date = df[['id', 'date']].groupby('date', as_index=False).count().rename(columns={'id': 'changes'})
 
     df_date['sum'] = df_date['changes'].cumsum()
     df_date['year'] = pd.DatetimeIndex(df_date['date']).year
@@ -253,9 +240,7 @@ def create_report_md(overpass: dict, cache: dict[str, Any]) -> str:
             },
             total_aed_plot(df_date),
             current_year_aed_scatter_plot(df_date, current_date.year),
-            top_creators(
-                _get_creators_from_cache(cache, ('emergency', 'defibrillator'))
-            ),
+            top_creators(_get_creators_from_cache(cache, ('emergency', 'defibrillator'))),
             tag_access_pie(df),
             tag_access_details_pie(df),
             tag_location_pie(df),
