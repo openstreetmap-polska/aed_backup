@@ -38,6 +38,8 @@ class OsmCache:
     def __init__(self, cache_filename: str = OSM_CACHE_FILE):
         self.osm_cache_filename = cache_filename
         self.cache = self._load()
+        self.session = requests.Session()
+        self.session.headers.update({'User-Agent': self.OSM_USER_AGENT})
 
     def _load(self) -> dict[str, Any]:
         try:
@@ -57,10 +59,7 @@ class OsmCache:
             json.dump(cache, f, indent=4, ensure_ascii=False)
 
     def _fetch_object_history(self, obj_type: str, obj_id: str) -> list[dict[str, Any]]:
-        response = requests.get(
-            f'{self.OSM_API_URL}/{obj_type}/{obj_id}/history.json',
-            headers={'User-Agent': self.OSM_USER_AGENT},
-        )
+        response = self.session.get(f'{self.OSM_API_URL}/{obj_type}/{obj_id}/history.json')
         object_history = response.json()
         return object_history['elements']
 
@@ -80,7 +79,7 @@ class OsmCache:
             if cached_elements[-1]['version'] != elem['version']:
                 to_update.append((elem['type'], obj_id))
 
-        for obj_type, obj_id in tqdm(to_update, desc='Updating OSM Cache', unit='elem'):
+        for obj_type, obj_id in tqdm(to_update, desc='Updating cache', unit='elem'):
             for i in range(1, self.CACHE_RETRIES + 1):
                 try:
                     self.cache['objects'][obj_id] = self._fetch_object_history(obj_type, obj_id)
