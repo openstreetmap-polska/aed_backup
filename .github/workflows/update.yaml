@@ -43,7 +43,6 @@ jobs:
 
       - name: Save .osm_cache.json
         run: |
-          mkdir -p /cache
           cp .osm_cache.json /cache
 
       - name: Commit changes
