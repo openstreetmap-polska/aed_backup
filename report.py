@@ -1,10 +1,9 @@
+from datetime import UTC, datetime
+from os.path import join
+from typing import Any
+
 import matplotlib.pyplot as plt
 import pandas as pd
-
-from datetime import datetime
-from os.path import join
-from typing import Any, Dict, List, Tuple
-
 
 REPORT_DIR = 'report_data'
 DATE_FORMAT = '%Y-%m-%d'
@@ -14,7 +13,7 @@ DPI = 300
 plt.rcParams['figure.figsize'] = (16, 8)
 pd.set_option('display.max_columns', None)
 
-current_datetime = datetime.utcnow()
+current_datetime = datetime.now(UTC)
 current_datetime_str = current_datetime.strftime(DATETIME_FORMAT)
 current_date = current_datetime.date()
 current_date_str = current_date.strftime(DATE_FORMAT)
@@ -33,16 +32,15 @@ def overpass_to_dataframe(overpass: dict) -> pd.DataFrame:
     return pd.json_normalize(data)
 
 
-def total_aed_plot(df_date: pd.DataFrame) -> Dict[str, Any]:
+def total_aed_plot(df_date: pd.DataFrame) -> dict[str, Any]:
     plt.clf()
     plt.plot(df_date['date'], df_date['sum'])
     plt.title(
         'Number of AEDs in the OpenStreetMap database in Poland'
         ' from first edition, day by day.'
         f' As at: {current_date_str}',
-
         fontsize=14,
-        loc='left'
+        loc='left',
     )
     filename = join(REPORT_DIR, 'total_aed.svg')
     plt.savefig(filename, dpi=DPI)
@@ -51,33 +49,24 @@ def total_aed_plot(df_date: pd.DataFrame) -> Dict[str, Any]:
     return {
         'heading': 'Total AED plot',
         'heading_level': 2,
-        'content': f'![]({filename})\nTotal AED: {total_aed}'
+        'content': f'![]({filename})\nTotal AED: {total_aed}',
     }
 
 
-def current_year_aed_scatter_plot(
-    df_date: pd.DataFrame,
-    year: int
-) -> Dict[str, Any]:
+def current_year_aed_scatter_plot(df_date: pd.DataFrame, year: int) -> dict[str, Any]:
     df_year = df_date.loc[df_date['year'] == year]
 
     plt.clf()
     plt.plot(df_year['date'], df_year['sum'])
-    plt.scatter(
-        df_year['date'],
-        df_year['sum'],
-        s=df_year['changes'] * 10,
-        alpha=0.3
-    )
+    plt.scatter(df_year['date'], df_year['sum'], s=df_year['changes'] * 10, alpha=0.3)
     first_day_of_year = datetime(year, 1, 1).date()
     first_day_of_year_str = first_day_of_year.strftime(DATE_FORMAT)
     plt.title(
         'Number of AEDs in the OpenStreetMap database in Poland'
         f' from {first_day_of_year_str}, day by day.'
         f' As at: {current_date_str}',
-
         fontsize=14,
-        loc='left'
+        loc='left',
     )
 
     filename = join(REPORT_DIR, 'current_year_aed.svg')
@@ -91,17 +80,18 @@ def current_year_aed_scatter_plot(
     return {
         'heading': 'Current year AED plot',
         'heading_level': 2,
-        'content': '\\\n'.join([
-            f'![]({filename})',
-            f'AED for {first_day_of_year_str}: {first_day_of_year_aed_total}',
-            f'Average daily growth since beginning of the year: {avg_year:.2f}'
-        ])
+        'content': '\\\n'.join(
+            [
+                f'![]({filename})',
+                f'AED for {first_day_of_year_str}: {first_day_of_year_aed_total}',
+                f'Average daily growth since beginning of the year: {avg_year:.2f}',
+            ]
+        ),
     }
 
 
 def _get_creators_from_cache(
-    cache: Dict[str, Any],
-    tag: Tuple[str, str]
+    cache: dict[str, Any], tag: tuple[str, str]
 ) -> pd.DataFrame:
     initial_objects = []
     for obj_id, obj_versions in cache['objects'].items():
@@ -116,7 +106,7 @@ def _get_creators_from_cache(
     return pd.DataFrame(initial_objects)
 
 
-def top_creators(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
+def top_creators(df: pd.DataFrame, top: int = 25) -> dict[str, Any]:
     OSM_USER_URL = 'https://www.openstreetmap.org/user/'
 
     df_users = df['user'].value_counts(sort=True).reset_index()
@@ -127,12 +117,12 @@ def top_creators(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
     df_users = df_users.sort_values(
         by=['Created', 'User'],
         ascending=[False, True],
-        key=lambda x: x.str.lower() if x.dtype == object else x
+        key=lambda x: x.str.lower() if x.dtype == object else x,
     ).reset_index()
 
     md_content_table = [
         f'| # | {columns[0]} | {columns[1]} |',
-        '| ------------- | ------------- | ------------- |'
+        '| ------------- | ------------- | ------------- |',
     ]
 
     for index, row in df_users.head(top).iterrows():
@@ -140,24 +130,19 @@ def top_creators(df: pd.DataFrame, top: int = 25) -> Dict[str, Any]:
         changesets = row[columns[1]]
         url = row['user_link'].replace('|', '&#124;')
 
-        md_content_table.append(
-            f'| {index + 1} | [{user}](<{url}>) | {changesets} |'
-        )
+        md_content_table.append(f'| {index + 1} | [{user}](<{url}>) | {changesets} |')
 
     return {
         'heading': 'Top creators',
         'heading_level': 2,
-        'content': '\n'.join(md_content_table)
+        'content': '\n'.join(md_content_table),
     }
 
 
-def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
+def tag_access_pie(df: pd.DataFrame) -> dict[str, Any]:
     access_info = {
         'Atr': ['Access', 'No Data'],
-        'Count': [
-            len(df.index) - df['access'].isna().sum(),
-            df['access'].isna().sum()
-        ]
+        'Count': [len(df.index) - df['access'].isna().sum(), df['access'].isna().sum()],
     }
 
     df2 = pd.DataFrame(access_info)
@@ -166,7 +151,7 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
     plt.title(
         f'Defibrillators with no access method specified ({current_date})',
         fontsize=14,
-        loc='left'
+        loc='left',
     )
 
     filename = join(REPORT_DIR, 'tag_access.svg')
@@ -175,11 +160,11 @@ def tag_access_pie(df: pd.DataFrame) -> Dict[str, Any]:
     return {
         'heading': 'Tag access pie',
         'heading_level': 2,
-        'content': f'![]({filename})'
+        'content': f'![]({filename})',
     }
 
 
-def tag_access_details_pie(df: pd.DataFrame) -> Dict[str, Any]:
+def tag_access_details_pie(df: pd.DataFrame) -> dict[str, Any]:
     df_access = df['access'].value_counts(sort=True).reset_index()
     df_access.columns = ['Access', 'Value']
     df_access['Access2'] = (
@@ -196,27 +181,25 @@ def tag_access_details_pie(df: pd.DataFrame) -> Dict[str, Any]:
     return {
         'heading': 'Tag access details pie',
         'heading_level': 2,
-        'content': f'![]({filename})'
+        'content': f'![]({filename})',
     }
 
 
-def tag_location_pie(df: pd.DataFrame) -> Dict[str, Any]:
+def tag_location_pie(df: pd.DataFrame) -> dict[str, Any]:
     loc_info = {
         'Atr': ['Location', 'No Data'],
         'Count': [
             len(df.index) - df['defibrillator:location'].isna().sum(),
-            df['defibrillator:location'].isna().sum()
-        ]
+            df['defibrillator:location'].isna().sum(),
+        ],
     }
     df3 = pd.DataFrame(loc_info)
     plt.clf()
     plt.pie(df3['Count'], labels=df3['Atr'], autopct='%1.2f%%')
     plt.title(
-        'Defibrillators without the location description entered '
-        f'({current_date})',
-
+        'Defibrillators without the location description entered ' f'({current_date})',
         fontsize=14,
-        loc='left'
+        loc='left',
     )
     filename = join(REPORT_DIR, 'tag_location.svg')
     plt.savefig(filename, dpi=DPI)
@@ -224,26 +207,26 @@ def tag_location_pie(df: pd.DataFrame) -> Dict[str, Any]:
     return {
         'heading': 'Tag location pie',
         'heading_level': 2,
-        'content': f'![]({filename})'
+        'content': f'![]({filename})',
     }
 
 
-def simple_md_converter(data: List[Dict[str, Any]]) -> str:
+def simple_md_converter(data: list[dict[str, Any]]) -> str:
     content = []
     for element in data:
-        if type(element) != dict:
+        if not isinstance(element, dict):
             continue
 
-        content.append('{} {}\n{}\n'.format(
-            '#' * element['heading_level'],
-            element['heading'],
-            element['content']
-        ))
+        content.append(
+            '{} {}\n{}\n'.format(
+                '#' * element['heading_level'], element['heading'], element['content']
+            )
+        )
 
     return '\n'.join(content)
 
 
-def create_report_md(overpass: Dict[Any, Any], cache: Dict[str, Any]) -> str:
+def create_report_md(overpass: dict, cache: dict[str, Any]) -> str:
     df = overpass_to_dataframe(overpass)
 
     # Initial data processing
@@ -251,31 +234,32 @@ def create_report_md(overpass: Dict[Any, Any], cache: Dict[str, Any]) -> str:
     df['year'] = pd.DatetimeIndex(df['timestamp']).year
     df['date'] = pd.DatetimeIndex(df['timestamp']).date
 
-    df_date = df[['id', 'date']].groupby('date', as_index=False) \
-                                .count() \
-                                .rename(columns={'id': 'changes'})
+    df_date = (
+        df[['id', 'date']]
+        .groupby('date', as_index=False)
+        .count()
+        .rename(columns={'id': 'changes'})
+    )
 
     df_date['sum'] = df_date['changes'].cumsum()
     df_date['year'] = pd.DatetimeIndex(df_date['date']).year
 
-    md = simple_md_converter([
-        {
-            'heading': f'AED backup and stats ({current_datetime_str})',
-            'heading_level': 1,
-            'content': ''
-        },
-
-        total_aed_plot(df_date),
-        current_year_aed_scatter_plot(df_date, current_date.year),
-
-        top_creators(_get_creators_from_cache(
-            cache,
-            ('emergency', 'defibrillator')
-         )),
-
-        tag_access_pie(df),
-        tag_access_details_pie(df),
-        tag_location_pie(df)
-    ])
+    md = simple_md_converter(
+        [
+            {
+                'heading': f'AED backup and stats ({current_datetime_str})',
+                'heading_level': 1,
+                'content': '',
+            },
+            total_aed_plot(df_date),
+            current_year_aed_scatter_plot(df_date, current_date.year),
+            top_creators(
+                _get_creators_from_cache(cache, ('emergency', 'defibrillator'))
+            ),
+            tag_access_pie(df),
+            tag_access_details_pie(df),
+            tag_location_pie(df),
+        ]
+    )
 
     return md

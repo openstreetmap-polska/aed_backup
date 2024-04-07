@@ -1,10 +1,9 @@
-import requests
-
 import json
 import logging
-
 from time import time
-from typing import Any, Dict, List
+from typing import Any
+
+import requests
 
 
 class OsmCache:
@@ -28,6 +27,7 @@ class OsmCache:
         }
     }
     """
+
     OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
     OSM_USER_AGENT = 'aed_backup/1.0 (github.com/openstreetmap-polska)'
     CACHE_TIMEOUT = 3
@@ -38,7 +38,7 @@ class OsmCache:
         self.osm_cache_filename = cache_filename
         self.cache = self._load()
 
-    def _load(self) -> Dict[str, Any]:
+    def _load(self) -> dict[str, Any]:
         try:
             with open(self.osm_cache_filename, 'r') as f:
                 cache = json.load(f)
@@ -48,26 +48,22 @@ class OsmCache:
 
         return cache
 
-    def _save(self, cache: Dict[str, Any] = None) -> None:
+    def _save(self, cache: dict[str, Any] = None) -> None:
         if cache is None:
             cache = self.cache
         cache['timestamp'] = int(time())
         with open(self.osm_cache_filename, 'w') as f:
             json.dump(cache, f, indent=4, ensure_ascii=False)
 
-    def _fetch_object_history(
-        self,
-        obj_type: str,
-        obj_id: str
-    ) -> List[Dict[str, Any]]:
+    def _fetch_object_history(self, obj_type: str, obj_id: str) -> list[dict[str, Any]]:
         response = requests.get(
             f'{self.OSM_API_URL}/{obj_type}/{obj_id}/history.json',
-            headers={'User-Agent': self.OSM_USER_AGENT}
+            headers={'User-Agent': self.OSM_USER_AGENT},
         )
         object_history = response.json()
         return object_history['elements']
 
-    def update(self, overpass_data: Dict[Any, Any]) -> Dict[str, Any]:
+    def update(self, overpass_data: dict) -> dict[str, Any]:
         to_update = []
         for elem in overpass_data['elements']:
             if 'tags' not in elem:  # skip additional/empty nodes/ways
@@ -89,8 +85,7 @@ class OsmCache:
             for i in range(1, self.CACHE_RETRIES + 1):
                 try:
                     self.cache['objects'][obj_id] = self._fetch_object_history(
-                        obj_type,
-                        obj_id
+                        obj_type, obj_id
                     )
                     break
                 except Exception as e:
