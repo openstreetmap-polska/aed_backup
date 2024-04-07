@@ -30,12 +30,12 @@ jobs:
         id: cache
         with:
           key: cache
-          path: /cache
+          path: /tmp/cache
 
       - name: Restore .osm_cache.json
         if: steps.cache.outputs.cache-hit == 'true'
         run: |
-          cp /cache/.osm_cache.json .
+          cp /tmp/cache/.osm_cache.json .
 
       - name: Update AED
         run: |
@@ -43,7 +43,8 @@ jobs:
 
       - name: Save .osm_cache.json
         run: |
-          cp .osm_cache.json /cache
+          mkdir -p /tmp/cache
+          cp .osm_cache.json /tmp/cache
 
       - name: Commit changes
         run: |
