@@ -1,9 +1,9 @@
-# AED backup and stats (2024-06-27 10:12:47)
+# AED backup and stats (2024-06-27 23:13:21)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 7226
+Total AED: 7227
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
@@ -34,9 +34,9 @@ Average daily growth since beginning of the year: 6.24
 | 19 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 41 |
 | 20 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 40 |
 | 21 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 39 |
-| 22 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
-| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 36 |
-| 24 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 35 |
+| 22 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 36 |
+| 23 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 36 |
+| 24 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 36 |
 | 25 | [Olga &#124; Yanosik](<https://www.openstreetmap.org/user/Olga &#124; Yanosik>) | 30 |
 
 ## Tag access pie
