@@ -1,10 +1,18 @@
 import json
 import logging
+from pathlib import Path
 from time import time
 from typing import Any
 
 import requests
 from tqdm import tqdm
+
+
+OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
+OSM_USER_AGENT = 'aed_backup/1.1 (+https://github.com/openstreetmap-polska/aed_backup)'
+CACHE_TIMEOUT = 3
+CACHE_RETRIES = 3
+OSM_CACHE_FILE = Path('.osm_cache.json')
 
 
 class OsmCache:
@@ -29,21 +37,14 @@ class OsmCache:
     }
     """
 
-    OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
-    OSM_USER_AGENT = 'aed_backup/1.1 (+https://github.com/openstreetmap-polska/aed_backup)'
-    CACHE_TIMEOUT = 3
-    CACHE_RETRIES = 3
-    OSM_CACHE_FILE = '.osm_cache.json'
-
-    def __init__(self, cache_filename: str = OSM_CACHE_FILE):
-        self.osm_cache_filename = cache_filename
+    def __init__(self):
         self.cache = self._load()
         self.session = requests.Session()
-        self.session.headers.update({'User-Agent': self.OSM_USER_AGENT})
+        self.session.headers.update({'User-Agent': OSM_USER_AGENT})
 
     def _load(self) -> dict[str, Any]:
         try:
-            with open(self.osm_cache_filename, 'r') as f:
+            with OSM_CACHE_FILE.open('r') as f:
                 cache = json.load(f)
         except Exception as e:
             logging.exception(f'Cannot load cache file: {e}')
@@ -55,11 +56,11 @@ class OsmCache:
         if cache is None:
             cache = self.cache
         cache['timestamp'] = int(time())
-        with open(self.osm_cache_filename, 'w') as f:
+        with OSM_CACHE_FILE.open('w') as f:
             json.dump(cache, f, indent=4, ensure_ascii=False)
 
     def _fetch_object_history(self, obj_type: str, obj_id: str) -> list[dict[str, Any]]:
-        response = self.session.get(f'{self.OSM_API_URL}/{obj_type}/{obj_id}/history.json')
+        response = self.session.get(f'{OSM_API_URL}/{obj_type}/{obj_id}/history.json')
         object_history = response.json()
         return object_history['elements']
 
@@ -80,12 +81,12 @@ class OsmCache:
                 to_update.append((elem['type'], obj_id))
 
         for obj_type, obj_id in tqdm(to_update, desc='Updating cache', unit='elem'):
-            for i in range(1, self.CACHE_RETRIES + 1):
+            for i in range(1, CACHE_RETRIES + 1):
                 try:
                     self.cache['objects'][obj_id] = self._fetch_object_history(obj_type, obj_id)
                     break
                 except Exception as e:
-                    logging.warning(f'[{i}/{self.CACHE_RETRIES}] Cannot update object' f'{obj_id}: {e}')
+                    logging.warning(f'[{i}/{CACHE_RETRIES}] Cannot update object' f'{obj_id}: {e}')
 
         if to_update:
             self._save()

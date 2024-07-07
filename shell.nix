@@ -1,27 +1,24 @@
 {}:
 
 let
-  # Currently using nixpkgs-unstable
   # Update with `nixpkgs-update` command
-  pkgs = import (fetchTarball "https://github.com/NixOS/nixpkgs/archive/600b15aea1b36eeb43833a50b0e96579147099ff.tar.gz") { };
+  pkgs = import (fetchTarball "https://github.com/NixOS/nixpkgs/archive/4284c2b73c8bce4b46a6adf23e16d9e2ec8da4bb.tar.gz") { };
 
-  libraries' = with pkgs; [
+  pythonLibs = with pkgs; [
     stdenv.cc.cc.lib
     zlib.out
   ];
-
-  # Wrap Python to override LD_LIBRARY_PATH
-  wrappedPython = with pkgs; symlinkJoin {
+  python' = with pkgs; symlinkJoin {
     name = "python";
     paths = [ python312 ];
     buildInputs = [ makeWrapper ];
     postBuild = ''
-      wrapProgram "$out/bin/python3.12" --prefix LD_LIBRARY_PATH : "${lib.makeLibraryPath libraries'}"
+      wrapProgram "$out/bin/python3.12" --prefix LD_LIBRARY_PATH : "${lib.makeLibraryPath pythonLibs}"
     '';
   };
 
   packages' = with pkgs; [
-    wrappedPython
+    python'
     poetry
     ruff
 
@@ -33,10 +30,10 @@ let
     '')
   ];
 
-  shell' = with pkgs; ''
+  shell' = ''
     current_python=$(readlink -e .venv/bin/python || echo "")
     current_python=''${current_python%/bin/*}
-    [ "$current_python" != "${wrappedPython}" ] && rm -r .venv
+    [ "$current_python" != "${python'}" ] && rm -rf .venv/
 
     echo "Installing Python dependencies"
     export POETRY_VIRTUALENVS_IN_PROJECT=1
@@ -47,7 +44,7 @@ let
 
     # Development environment variables
     export PYTHONNOUSERSITE=1
-    export TZ="UTC"
+    export TZ=UTC
 
     if [ -f .env ]; then
       echo "Loading .env file"
@@ -57,7 +54,7 @@ let
     fi
   '';
 in
-pkgs.mkShell {
+pkgs.mkShellNoCC {
   buildInputs = packages';
   shellHook = shell';
 }

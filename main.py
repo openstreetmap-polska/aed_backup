@@ -1,5 +1,6 @@
 import json
 import logging
+from pathlib import Path
 from time import sleep
 from typing import Any
 
@@ -8,9 +9,10 @@ import requests
 from osmcache import OsmCache
 from report import create_report_md
 
-QUERY_FILE = 'query.overpassql'
-BACKUP_FILE = 'aed_overpass.json'
-README_FILE = 'README.MD'
+QUERY_FILE = Path('query.overpassql')
+BACKUP_FILE = Path('aed_overpass.json')
+README_FILE = Path('README.MD')
+STATUS_FILE = Path('status.txt')
 
 OVERPASS_API_URL = 'https://overpass-api.de/api/interpreter'
 
@@ -19,8 +21,7 @@ RETRIES = 5
 
 
 def download_data() -> dict | None:
-    with open(QUERY_FILE, 'r') as f:
-        query = f.read().strip()
+    query = QUERY_FILE.read_text().strip()
     logging.info(f'Read overpass query from file: {QUERY_FILE}')
     logging.info('Downloading overpass data...')
     for _ in range(RETRIES):
@@ -39,18 +40,22 @@ def download_data() -> dict | None:
 
 
 def backup(overpass_result: dict) -> None:
-    with open(BACKUP_FILE, 'w') as f:
+    with BACKUP_FILE.open('w') as f:
         json.dump(overpass_result, f, indent=4, ensure_ascii=False)
 
 
 def generate_report(overpass_result: dict, cache: dict[str, Any]) -> None:
     try:
         md_content = create_report_md(overpass_result, cache)
-        with open(README_FILE, 'w') as f:
-            f.write(md_content)
+        README_FILE.write_text(md_content)
 
     except Exception as e:
         logging.exception(f'Error with creating report: {e}')
+
+
+def generate_status(diff: tuple[int, int, int]) -> None:
+    created, modified, deleted = diff
+    STATUS_FILE.write_text(f'C: {created}, M: {modified}, D: {deleted}')
 
 
 def overpass_diff(overpass_data: dict) -> tuple[int, int, int]:
@@ -62,7 +67,7 @@ def overpass_diff(overpass_data: dict) -> tuple[int, int, int]:
     deleted = 0
 
     try:
-        with open(BACKUP_FILE, 'r') as f:
+        with BACKUP_FILE.open('r') as f:
             old_data = json.load(f)
 
     except IOError:
@@ -102,10 +107,13 @@ def main():
 
     osm_cache = OsmCache()
     cache = osm_cache.update(overpass_data)
+
     if any(diff):
         logging.info('Generating report')
         generate_report(overpass_data, cache)
-        logging.info('Generated report')
+
+    logging.info('Generating status')
+    generate_status(diff)
 
 
 if __name__ == '__main__':
