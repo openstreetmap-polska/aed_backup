@@ -1,14 +1,14 @@
-# AED backup and stats (2024-07-30 21:13:25)
+# AED backup and stats (2024-07-31 09:14:01)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 7588
+Total AED: 7591
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2024-01-01: 6077\
-Average daily growth since beginning of the year: 7.40
+Average daily growth since beginning of the year: 7.37
 
 ## Top creators
 | # | User | Created |
@@ -20,16 +20,16 @@ Average daily growth since beginning of the year: 7.40
 | 5 | [Aleksander &#124; Yanosik](<https://www.openstreetmap.org/user/Aleksander &#124; Yanosik>) | 344 |
 | 6 | [Ronczka](<https://www.openstreetmap.org/user/Ronczka>) | 343 |
 | 7 | [Cristoffs](<https://www.openstreetmap.org/user/Cristoffs>) | 329 |
-| 8 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 248 |
+| 8 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 249 |
 | 9 | [user_4493657](<https://www.openstreetmap.org/user/user_4493657>) | 144 |
-| 10 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 127 |
+| 10 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 128 |
 | 11 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 125 |
 | 12 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 98 |
 | 13 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 88 |
 | 14 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 75 |
 | 15 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 65 |
-| 16 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 46 |
-| 17 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 45 |
+| 16 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 46 |
+| 17 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 46 |
 | 18 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
 | 19 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
 | 20 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 42 |
