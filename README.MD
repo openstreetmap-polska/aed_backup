@@ -1,14 +1,14 @@
-# AED backup and stats (2024-09-15 19:10:33)
+# AED backup and stats (2024-09-16 09:16:49)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 7900
+Total AED: 7901
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2024-01-01: 6006\
-Average daily growth since beginning of the year: 7.63
+Average daily growth since beginning of the year: 7.60
 
 ## Top creators
 | # | User | Created |
