@@ -1,19 +1,19 @@
-# AED backup and stats (2025-03-17 14:14:32)
+# AED backup and stats (2025-03-17 16:18:54)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 10674
+Total AED: 10676
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
 AED for 2025-01-01: 8206\
-Average daily growth since beginning of the year: 32.50
+Average daily growth since beginning of the year: 32.53
 
 ## Top creators
 | # | User | Created |
 | ------------- | ------------- | ------------- |
-| 1 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 2442 |
+| 1 | [Patryk2710](<https://www.openstreetmap.org/user/Patryk2710>) | 2443 |
 | 2 | [Marek-M](<https://www.openstreetmap.org/user/Marek-M>) | 856 |
 | 3 | [Mordechai23](<https://www.openstreetmap.org/user/Mordechai23>) | 716 |
 | 4 | [ptarac](<https://www.openstreetmap.org/user/ptarac>) | 548 |
@@ -35,7 +35,7 @@ Average daily growth since beginning of the year: 32.50
 | 20 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 41 |
 | 21 | [lama99](<https://www.openstreetmap.org/user/lama99>) | 40 |
 | 22 | [michalgwo](<https://www.openstreetmap.org/user/michalgwo>) | 39 |
-| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 38 |
+| 23 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 39 |
 | 24 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 37 |
 | 25 | [Defibrylatorek](<https://www.openstreetmap.org/user/Defibrylatorek>) | 33 |
 
