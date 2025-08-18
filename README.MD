@@ -1,14 +1,14 @@
-# AED backup and stats (2025-08-18 10:18:19)
+# AED backup and stats (2025-08-18 13:33:25)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 11686
+Total AED: 11710
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2025-01-01: 7827\
-Average daily growth since beginning of the year: 17.39
+AED for 2025-01-01: 7821\
+Average daily growth since beginning of the year: 17.52
 
 ## Top creators
 | # | User | Created |
@@ -24,10 +24,10 @@ Average daily growth since beginning of the year: 17.39
 | 9 | [Sebastian &#124; Yanosik](<https://www.openstreetmap.org/user/Sebastian &#124; Yanosik>) | 156 |
 | 10 | [user_4493657](<https://www.openstreetmap.org/user/user_4493657>) | 144 |
 | 11 | [RicoElectrico](<https://www.openstreetmap.org/user/RicoElectrico>) | 132 |
-| 12 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 97 |
-| 13 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 91 |
-| 14 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 88 |
-| 15 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 85 |
+| 12 | [PGRM Biuro](<https://www.openstreetmap.org/user/PGRM Biuro>) | 98 |
+| 13 | [syntex](<https://www.openstreetmap.org/user/syntex>) | 97 |
+| 14 | [Aim311_](<https://www.openstreetmap.org/user/Aim311_>) | 91 |
+| 15 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 88 |
 | 16 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 79 |
 | 17 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 53 |
 | 18 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
