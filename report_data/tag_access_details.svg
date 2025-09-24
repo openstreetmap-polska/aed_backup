@@ -59,16 +59,16 @@ z
    </g>
    <g id="patch_5">
     <path d="M 655.677378 125.917999 
-C 647.698662 122.760734 639.501349 120.186463 631.150086 118.215501 
-C 622.798826 116.244539 614.315606 114.882067 605.76717 114.138807 
+C 647.682531 122.754347 639.468256 120.176079 631.099533 118.203584 
+C 622.730809 116.231089 614.22975 114.869579 605.663592 114.12983 
 L 590.4 290.88 
 z
 " style="fill: #d62728"/>
    </g>
    <g id="patch_6">
-    <path d="M 605.76717 114.138807 
-C 603.764735 113.964701 601.759483 113.824633 599.752287 113.718678 
-C 597.745092 113.612723 595.736239 113.540881 593.726602 113.503194 
+    <path d="M 605.663592 114.12983 
+C 603.678319 113.958388 601.690339 113.820414 599.700418 113.71595 
+C 597.710496 113.611486 595.718913 113.540564 593.726602 113.503194 
 L 590.4 290.88 
 z
 " style="fill: #9467bd"/>
@@ -925,7 +925,7 @@ z
 " style="fill: #d62728"/>
     </g>
     <g id="text_6">
-     <!-- permit–495 pc. -->
+     <!-- permit–496 pc. -->
      <g transform="translate(702.208438 144.430938) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-70"/>
       <use xlink:href="#DejaVuSans-65" x="63.476562"/>
@@ -936,7 +936,7 @@ z
       <use xlink:href="#DejaVuSans-2013" x="328.767578"/>
       <use xlink:href="#DejaVuSans-34" x="378.767578"/>
       <use xlink:href="#DejaVuSans-39" x="442.390625"/>
-      <use xlink:href="#DejaVuSans-35" x="506.013672"/>
+      <use xlink:href="#DejaVuSans-36" x="506.013672"/>
       <use xlink:href="#DejaVuSans-20" x="569.636719"/>
       <use xlink:href="#DejaVuSans-70" x="601.423828"/>
       <use xlink:href="#DejaVuSans-63" x="664.900391"/>
@@ -952,7 +952,7 @@ z
 " style="fill: #9467bd"/>
     </g>
     <g id="text_7">
-     <!-- permissive–116 pc. -->
+     <!-- permissive–115 pc. -->
      <g transform="translate(702.208438 159.109063) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-70"/>
       <use xlink:href="#DejaVuSans-65" x="63.476562"/>
@@ -967,7 +967,7 @@ z
       <use xlink:href="#DejaVuSans-2013" x="542.244141"/>
       <use xlink:href="#DejaVuSans-31" x="592.244141"/>
       <use xlink:href="#DejaVuSans-31" x="655.867188"/>
-      <use xlink:href="#DejaVuSans-36" x="719.490234"/>
+      <use xlink:href="#DejaVuSans-35" x="719.490234"/>
       <use xlink:href="#DejaVuSans-20" x="783.113281"/>
       <use xlink:href="#DejaVuSans-70" x="814.900391"/>
       <use xlink:href="#DejaVuSans-63" x="878.376953"/>
