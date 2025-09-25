@@ -84,7 +84,7 @@ z
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
-    <!-- Type of access (2025-09-24) -->
+    <!-- Type of access (2025-09-25) -->
     <g transform="translate(368.64 63.12) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -414,25 +414,6 @@ Q 1038 2656 1286 2365
 Q 1534 2075 1959 2075 
 z
 " transform="scale(0.015625)"/>
-      <path id="DejaVuSans-34" d="M 2419 4116 
-L 825 1625 
-L 2419 1625 
-L 2419 4116 
-z
-M 2253 4666 
-L 3047 4666 
-L 3047 1625 
-L 3713 1625 
-L 3713 1100 
-L 3047 1100 
-L 3047 0 
-L 2419 0 
-L 2419 1100 
-L 313 1100 
-L 313 1709 
-L 2253 4666 
-z
-" transform="scale(0.015625)"/>
       <path id="DejaVuSans-29" d="M 513 4856 
 L 1013 4856 
 Q 1481 4119 1714 3412 
@@ -472,7 +453,7 @@ z
      <use xlink:href="#DejaVuSans-39" x="1151.5625"/>
      <use xlink:href="#DejaVuSans-2d" x="1215.185547"/>
      <use xlink:href="#DejaVuSans-32" x="1251.269531"/>
-     <use xlink:href="#DejaVuSans-34" x="1314.892578"/>
+     <use xlink:href="#DejaVuSans-35" x="1314.892578"/>
      <use xlink:href="#DejaVuSans-29" x="1378.515625"/>
     </g>
    </g>
@@ -752,6 +733,25 @@ Q 447 3434 972 4092
 Q 1497 4750 2381 4750 
 Q 2619 4750 2861 4703 
 Q 3103 4656 3366 4563 
+z
+" transform="scale(0.015625)"/>
+       <path id="DejaVuSans-34" d="M 2419 4116 
+L 825 1625 
+L 2419 1625 
+L 2419 4116 
+z
+M 2253 4666 
+L 3047 4666 
+L 3047 1625 
+L 3713 1625 
+L 3713 1100 
+L 3047 1100 
+L 3047 0 
+L 2419 0 
+L 2419 1100 
+L 313 1100 
+L 313 1709 
+L 2253 4666 
 z
 " transform="scale(0.015625)"/>
        <path id="DejaVuSans-2e" d="M 684 794 
