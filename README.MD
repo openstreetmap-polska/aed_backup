@@ -1,14 +1,14 @@
-# AED backup and stats (2025-09-25 13:26:23)
+# AED backup and stats (2025-09-25 15:16:22)
 
 
 ## Total AED plot
 ![](report_data/total_aed.svg)
-Total AED: 11956
+Total AED: 11960
 
 ## Current year AED plot
 ![](report_data/current_year_aed.svg)\
-AED for 2025-01-01: 7748\
-Average daily growth since beginning of the year: 16.25
+AED for 2025-01-01: 7747\
+Average daily growth since beginning of the year: 16.27
 
 ## Top creators
 | # | User | Created |
@@ -30,8 +30,8 @@ Average daily growth since beginning of the year: 16.25
 | 15 | [polar7](<https://www.openstreetmap.org/user/polar7>) | 88 |
 | 16 | [Ancymon](<https://www.openstreetmap.org/user/Ancymon>) | 80 |
 | 17 | [NieWnen](<https://www.openstreetmap.org/user/NieWnen>) | 54 |
-| 18 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
-| 19 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 44 |
+| 18 | [pedro's](<https://www.openstreetmap.org/user/pedro's>) | 45 |
+| 19 | [KPP PSP Działdowo](<https://www.openstreetmap.org/user/KPP PSP Działdowo>) | 44 |
 | 20 | [charl3s](<https://www.openstreetmap.org/user/charl3s>) | 43 |
 | 21 | [serdelll](<https://www.openstreetmap.org/user/serdelll>) | 41 |
 | 22 | [starsep](<https://www.openstreetmap.org/user/starsep>) | 41 |
