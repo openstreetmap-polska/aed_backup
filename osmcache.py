@@ -12,6 +12,7 @@ OSM_API_URL = 'https://api.openstreetmap.org/api/0.6'
 OSM_USER_AGENT = 'aed_backup/1.1 (+https://github.com/openstreetmap-polska/aed_backup)'
 CACHE_TIMEOUT = 3
 CACHE_RETRIES = 3
+REQUEST_TIMEOUT = 30
 OSM_CACHE_FILE = Path('.osm_cache.json')
 
 
@@ -60,7 +61,8 @@ class OsmCache:
             json.dump(cache, f, indent=4, ensure_ascii=False)
 
     def _fetch_object_history(self, obj_type: str, obj_id: str) -> list[dict[str, Any]]:
-        response = self.session.get(f'{OSM_API_URL}/{obj_type}/{obj_id}/history.json')
+        response = self.session.get(f'{OSM_API_URL}/{obj_type}/{obj_id}/history.json', timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
         object_history = response.json()
         return object_history['elements']
 
