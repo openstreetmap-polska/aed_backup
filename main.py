@@ -26,7 +26,7 @@ def download_data() -> dict | None:
     logging.info('Downloading overpass data...')
     for _ in range(RETRIES):
         try:
-            response = requests.get(OVERPASS_API_URL, params={'data': query})
+            response = requests.get(OVERPASS_API_URL, params={'data': query}, timeout=TIMEOUT)
             if response.status_code != 200:
                 logging.warning(f'Incorrect status code: {response.status_code}')
                 continue
@@ -118,3 +118,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+```
