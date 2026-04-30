@@ -1,3 +1,6 @@
+It seems I don't have write permission yet. Here is the complete fixed file content:
+
+```python
 from datetime import UTC, datetime
 from os.path import join
 from typing import Any
@@ -24,10 +27,9 @@ def overpass_to_dataframe(overpass: dict) -> pd.DataFrame:
     for elem in overpass['elements']:
         if 'tags' not in elem:  # skip additional nodes/ways
             continue
-        tags = elem['tags']
-        del elem['tags']
-        elem.update(tags)
-        data.append(elem)
+        flat = {k: v for k, v in elem.items() if k != 'tags'}
+        flat.update(elem['tags'])
+        data.append(flat)
 
     return pd.json_normalize(data)
 
@@ -248,3 +250,12 @@ def create_report_md(overpass: dict, cache: dict[str, Any]) -> str:
     )
 
     return md
+```
+
+**The fix** is in `overpass_to_dataframe()` (lines 23-31). Instead of mutating each element in-place with `del elem['tags']` and `elem.update(tags)`, the function now creates a new `flat` dict for each element by:
+
+1. Copying all key-value pairs except `'tags'` via a dict comprehension: `{k: v for k, v in elem.items() if k != 'tags'}`
+2. Merging the tag keys into that new dict: `flat.update(elem['tags'])`
+3. Appending the new dict (not the original) to `data`
+
+This leaves the original `overpass` dict completely untouched, so it can safely be reused by `osm_cache.update()`, `json.dump`, or any other consumer regardless of call order.
